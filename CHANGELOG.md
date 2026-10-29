@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.15 | A IA consulta o catálogo de programas do Windows (winget)... | 29/10/2026
+
+- **Novo**: A IA consulta o catálogo de programas do Windows (winget) para dizer a versão mais recente de cada programa e oferece atualizar só aquele programa.
+- **Correção**: Espaços extras nos nomes e versões de programas.
+
 ## Versão 4.5.14 | Nomes de programas como TeamViewer não são mais confundid... | 29/10/2026
 
 - **Correção**: Nomes de programas como TeamViewer não são mais confundidos com outros.

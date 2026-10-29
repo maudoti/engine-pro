@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.14",
-    "Instalador":  "EnginePro_Setup_4.5.14.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.14/EnginePro_Setup_4.5.14.exe",
-    "SHA256":  "1BC268C1AE2025AB1ECF74256781982E74F4956684C8B7C3D146DF7D4B6032A7",
-    "Data":  "2026-10-29 18:51",
-    "Notas":  "Correção: nomes de programas como TeamViewer não são mais confundidos com outros; Melhoria: a IA na nuvem responde sobre qualquer programa usado no computador",
-    "Assinatura":  "V3WiHvJj1B8+Cn+qkuZl1O3K3LbguF6QyROA50Y+GIFYGZsXrVl005UJ2YjayIL+g8SOAGKI8Wytd1uEC1qrA8ADZpF7Ww3Ju5mJg9wKRvUZRdAeP7XTQu2sT0j5HTZpSRapijPuEb+A6kN1hxf/41pNiHE1fawbZMhpLjdTa8i5bRqlifey/gJTMigUx74QVIdWIc416CObqRbnLhWDvHKyMV4361OoZrKzqUJVpbWYuaCUFEOke9yKUTW5+wMmR1zv3jH4I6fbtaiuInoeGDYLPmvPuIzOhIQlkGwyYfbY1B8Szv9TZpymM9SmvKhwSO0fbQ7AVSmt+Bk3KBGRV219O3cWJtAeqMjvyu4jkpTYKAnIPHfMffLg/Jwi3cMqZc8c80qaNTmvFtujjyMPqyJ46R/CZYqE1trs+4CgCfyUNVezAK7/OQYEnzmCrZBw2gvK/fMZDBtpQ84JPQSNAZq+jXsMfCK/eFJdFOplLhBZAqtslzqDZ5J5XumB9rF7"
+    "Versao":  "4.5.15",
+    "Instalador":  "EnginePro_Setup_4.5.15.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.15/EnginePro_Setup_4.5.15.exe",
+    "SHA256":  "A585BA3D7AF6097E00AAC159702B80B2C5233D0D66C875CDC71CA2752D3835FF",
+    "Data":  "2026-10-29 18:59",
+    "Notas":  "Novo: a IA consulta o catálogo de programas do Windows (winget) para dizer a versão mais recente de cada programa e oferece atualizar só aquele programa; Correção: espaços extras nos nomes e versões de programas",
+    "Assinatura":  "MDd/t00GQWSRKZuUx+trtsFBxxxRSY8EkBh01J8hfNrFCkIkMBFIbaea8Vh4dUufblYQP6U1tpAs/uJRzO8HSrP4+Tw9SaioftOmquG5KhAfwZ8sWZAyD7D6kS47jqvd7zNLr/xZCiOiae4XDp8Yj/jSGvEFio12GVxzshV3qYqF6Ku2qvbNzhLJWaNiJn4j4faAQWbZVjm7DwyXU3IpEDEjPcQf2/XjNPy/PSyTPk4hcQXwMW2/cllG1HIR2f6Ds+T0rzoL2A9nQv/LE5AtJKXss53Ec9NgGy9WPAvWvG6bA/8LyUI2HRb48IbwuXUt131kq1+UKj0FXBKUp2uN1DTcMzgfhWk22cFIFp0ufSIK4qaZBr8mqPPvYRwI8lKuyAUR7gADBx6VzfYu9MBFaThN+Rx8i+MdFkmg63zo0AF3oQ3jlRZa1rpTfVlCoJ5t9mRgj9vr3mq5aQATip/qCF1u02tWAI0kWVUtFKE6AjdgSrp4SlS1dAePGckLb61Q"
 }
