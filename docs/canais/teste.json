@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.18",
-    "Instalador":  "EnginePro_Setup_4.5.18.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.18/EnginePro_Setup_4.5.18.exe",
-    "SHA256":  "3F676909F26B71FB1FDD72D9A1B694869AFA7BED86657A0B548668EE1E087680",
-    "Data":  "2026-10-29 20:23",
-    "Notas":  "Novo: quadro Por que a inicialização demora em Ajustes do sistema, com cada causa identificada e botões para resolver; Melhoria: o aviso de inicialização lenta mostra as causas e corrige os serviços que podem esperar; Novo: reparo Inicialização: serviços depois do login; Melhoria: cada causa da inicialização aparece com o tipo, o nome comercial, o fabricante, o que faz e onde fica",
-    "Assinatura":  "XZrcJ2gCebtD/4vIBjshzr0r5+BxpwzhkfQOMFEvRdUe5jguVEblCHs+Q5TqD0sbIi6+5sOUriRkwP5HcCNM/7k98qhD9uDqKv+WUYZHKMELu3FsKlLJtT/O83RdJNHucPUY+UNAN/M7jmJ82DWeHJ9RWq7Nq0/fOjKnY/1v0gnaTmqTSgPFyO2oArwYTOh4DEznR0gTIDFqUgvaLyZZYuUbUiaFd/FWs/xdQsKRwaGbrmbinFBsjH4nqrgGtr2y8TtFGAt/z42EiHD+SNg1aSF9t6GwjN1CjIe/xD4Boag+Bl2+Bp7nR4wa1cE8jOEIJ6NHyWtB5vMyBkjymgPHLwhMt3Z7y8DhKGKDYoFfZFD+ZVOmhcoC9BpIhEFNlSFWAM0WiTRYzpMnP+1HcA0PKSCfiO4kMgNowkyb201G3PoikOz9lLI+iX7MkqT6RoQIMUIU1PqGnwS7XXFl7TQW30VdJVatFVT2M3WqJHBdPMdbXojo6ObIZZgKSsEBPxxe"
+    "Versao":  "4.5.19",
+    "Instalador":  "EnginePro_Setup_4.5.19.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.19/EnginePro_Setup_4.5.19.exe",
+    "SHA256":  "A38EFD60EA9E0CEC6B09C8200E52BF01908F1E7DCACC7A97C707D151A0DBE8A5",
+    "Data":  "2026-10-29 20:39",
+    "Notas":  "Novo: seção Desempenho em Reparos, com o que mais usa processador, memória e disco, os fatores de lentidão e os programas que podem sair da inicialização; Melhoria: os avisos da tela inicial se atualizam a cada análise do Modo IA; Melhoria: versão do Engine Pro ao lado do nome da máquina; Melhoria: clima mais completo no menu lateral; Novo: quadro Por que a inicialização demora em Ajustes do sistema",
+    "Assinatura":  "jcxUgU9ditAuTlWkUrTSFVkKRvDuhfPGvZYjdJgxBU+Fn3/cdJg6u30S6STikxQU9asYZ3WLB2vMqHbgi+2qgSx4wvF6acZxFejVJmmko+nEJj75DIWSFmz1fbSjw2BFIjjNLs7T7xlSAyeF63/EF0FnMoYrwKMbG3CLiSIy4WYzkSX20evtru1bz3ai2GktdYpjhhMI4e9lQRVkBpB7UzscAweJUlYxrbb0yLBmb9KlQ/xe45gFx70z9pj76YEQ5NVIcnoBNkvMhaa3FUMLhmKEzor0H+w4MhOMgvA/HbD4KwCc75pMyiMwovQmBFxDg9L004ve/a951vqKdH6Che8jwplaqNvEVdzgyTTyPi0IChRZ8R5TX6sEGsHdSkfioQm5whKn2ePgOr/boZs4Jm9HooHWrNeAomd2ItbDJMZAyo2jfWso3FqQiszY92i76/wvNILKczRrkUquj+1sd+HSddBOlYWWw/hmUH5dx9SVj+g63GfekKSnq7RmUncu"
 }

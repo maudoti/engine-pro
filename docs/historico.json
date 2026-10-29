@@ -1,5 +1,32 @@
 [
     {
+        "Versao":  "4.5.19",
+        "Data":  "2026-10-29 20:39",
+        "Titulo":  "Seção Desempenho em Reparos, com o que mais usa processad...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Seção Desempenho em Reparos, com o que mais usa processador, memória e disco, os fatores de lentidão e os programas que podem sair da inicialização."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Os avisos da tela inicial se atualizam a cada análise do Modo IA."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Versão do Engine Pro ao lado do nome da máquina."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Clima mais completo no menu lateral."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Quadro Por que a inicialização demora em Ajustes do sistema."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.18",
         "Data":  "2026-10-29 20:23",
         "Titulo":  "Quadro Por que a inicialização demora em Ajustes do siste...",

@@ -2,6 +2,14 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.19 | Seção Desempenho em Reparos, com o que mais usa processad... | 29/10/2026
+
+- **Novo**: Seção Desempenho em Reparos, com o que mais usa processador, memória e disco, os fatores de lentidão e os programas que podem sair da inicialização.
+- **Melhoria**: Os avisos da tela inicial se atualizam a cada análise do Modo IA.
+- **Melhoria**: Versão do Engine Pro ao lado do nome da máquina.
+- **Melhoria**: Clima mais completo no menu lateral.
+- **Novo**: Quadro Por que a inicialização demora em Ajustes do sistema.
+
 ## Versão 4.5.18 | Quadro Por que a inicialização demora em Ajustes do siste... | 29/10/2026
 
 - **Novo**: Quadro Por que a inicialização demora em Ajustes do sistema, com cada causa identificada e botões para resolver.

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.19",
+        "Data":  "2026-10-29 20:39",
+        "Notas":  "Novo: seção Desempenho em Reparos, com o que mais usa processador, memória e disco, os fatores de lentidão e os programas que podem sair da inicialização; Melhoria: os avisos da tela inicial se atualizam a cada análise do Modo IA; Melhoria: versão do Engine Pro ao lado do nome da máquina; Melhoria: clima mais completo no menu lateral; Novo: quadro Por que a inicialização demora em Ajustes do sistema",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.19/EnginePro_Setup_4.5.19.exe"
+    },
+    {
         "Versao":  "4.5.18",
         "Data":  "2026-10-29 20:23",
         "Notas":  "Novo: quadro Por que a inicialização demora em Ajustes do sistema, com cada causa identificada e botões para resolver; Melhoria: o aviso de inicialização lenta mostra as causas e corrige os serviços que podem esperar; Novo: reparo Inicialização: serviços depois do login; Melhoria: cada causa da inicialização aparece com o tipo, o nome comercial, o fabricante, o que faz e onde fica",
