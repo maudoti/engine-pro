@@ -1,0 +1,461 @@
+[
+    {
+        "Versao":  "4.3.3",
+        "Data":  "2026-10-29 13:42",
+        "Titulo":  "Reparo do sistema legível",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Saída do reparo dos arquivos do sistema (SFC) legível e com acentos, sem as linhas repetidas de porcentagem."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Ao pedir uma atualização durante uma tarefa, ela é instalada automaticamente assim que a tarefa terminar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A tela de execução não repete linhas idênticas em sequência."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.3.2",
+        "Data":  "2026-10-29 13:33",
+        "Titulo":  "Y girando como moeda",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O Y de espera voltou a girar como uma moeda, sempre de pé, mantendo o tamanho pequeno."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.3.1",
+        "Data":  "2026-10-29 13:27",
+        "Titulo":  "Verificação de atualização sem atraso",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A verificação de atualizações passou a enxergar a versão nova logo após a publicação, sem esperar até 10 minutos pela cópia guardada do GitHub."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.3.0",
+        "Data":  "2026-10-29 13:20",
+        "Titulo":  "Modo IA e nova tela de execução",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Modo IA: nota de saúde de 0 a 100 e diagnóstico que cruza travamentos de programas, telas azuis, erros de disco e de hardware, saúde do SSD, estabilidade, tempo de inicialização, Windows Update, DNS, drivers e bateria."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Piloto automático do Modo IA: autocorreção silenciosa (DNS, relógio, WMI, antivírus), manutenção com o computador parado e aprendizado do horário de uso."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Previsões: quando o disco vai encher, vida útil do SSD, saúde da bateria e índice de estabilidade."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Nova tela de execução: Y do logotipo girando dentro de um anel e porcentagem subindo em tempo real até 100%."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "12 novos reparos: diagnóstico da rede, proxy, compartilhamento na rede, Print to PDF, aplicativos do Windows, áudio, senhas salvas do Office, ponto de restauração, WMI, políticas do domínio, energia padrão e relatório de diagnóstico."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Y girando como símbolo de espera em todas as telas que precisam aguardar, sumindo ao terminar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instalador: agendamento simplificado em uma única escolha, com \"Não agendar\" selecionado."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O serviço do monitor não é mais criado quando a opção do monitor está desmarcada no instalador."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.2.2",
+        "Data":  "2026-10-29 11:54",
+        "Titulo":  "Recursos restritos à equipe de TI (estável)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Liberação no canal estável da restrição do Editor do Registro e do BitLocker."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.2.1",
+        "Data":  "2026-10-29 11:46",
+        "Titulo":  "Modo técnico",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Modo técnico (Ctrl+Shift+F12) para a equipe de TI."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Editor do Registro e aviso do BitLocker ocultos para os usuários e visíveis só no modo técnico."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.2.0",
+        "Data":  "2026-10-29 11:25",
+        "Titulo":  "Atualização automática pelo GitHub",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Atualização automática: o serviço consulta o GitHub a cada 2 horas e instala em silêncio, esperando terminar qualquer tarefa em andamento."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Assinatura digital das versões: o Engine Pro recusa qualquer instalador sem a assinatura correta, mesmo se a conta do GitHub for invadida."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Canais Estável e Teste, escolhidos por computador no Sobre."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Site de download e repositório público no GitHub."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Número da versão escolhido automaticamente na compilação."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.1.0",
+        "Data":  "2026-10-29",
+        "Titulo":  "Monitor como serviço do Windows",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Serviço \"Engine Pro Monitor\": liga junto com o computador, antes do logon, e roda os sensores com permissão total."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reinício automático do monitor em caso de falha."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O ícone perto do relógio passa a só exibir os avisos quando o serviço está ativo."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "4.0.0",
+        "Data":  "2026-10-29",
+        "Titulo":  "Monitor, sensores e avisos",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Monitor em segundo plano com ícone perto do relógio."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Sensores: antivírus (com reparo automático), memória acima de 95% (no máximo 1 limpeza por hora), disco acima de 90%, programas suspeitos, impressora e spooler travados e sugestões de melhoria."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Avisos em vermelho na tela inicial, com níveis Tranquilo, Comum, Severo e Crítico, sem janelas pop-up."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Programas desconhecidos: opções \"Conheço\" e \"Não conheço\" (encerra, remove da inicialização e envia para a quarentena)."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Reparos do Office (completo), Outlook, Teams, OneDrive, WebView2 e Antivírus do Windows."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.8.0",
+        "Data":  "2026-10-29",
+        "Titulo":  "Reparos, Ajustes do sistema e IAs",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Página Reparos com 18 reparos de um clique: rede, impressoras, barra de tarefas, Explorador, atalhos quebrados, fontes, relógio, Office e outros."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Página Ajustes do sistema: programas que iniciam com o Windows, tempos de tela, suspensão e hibernação, plano de energia, proteção de tela e reinício programado."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Categoria Inteligência artificial: Claude, ChatGPT, Copilot, Perplexity Comet, Ollama, LM Studio, Jan e GPT4All."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.7.0",
+        "Data":  "2026-10-29",
+        "Titulo":  "Office, Project, Visio e Ferramentas do Windows",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Microsoft 365 Apps (empresas e grandes empresas), Project e Visio instalados pela Ferramenta de Implantação do Office."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Visio Viewer gratuito."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "26 atalhos para as ferramentas de manutenção do próprio Windows."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.6.0",
+        "Data":  "2026-10-29",
+        "Titulo":  "Visual profissional",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Banners em degradê em todas as páginas, cartões com sombra e botões principais em degradê."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Identidade própria na barra de tarefas, com o ícone do Engine Pro, voltando maximizado ao clicar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Removidos aplicativos que não são ferramentas de trabalho (Deezer, Telegram, Discord, Spotify, G HUB e Razer Synapse)."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.5.1",
+        "Data":  "2026-10-29",
+        "Titulo":  "Instalação de aplicativos mais robusta",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "PDFTools 1.3, com o Java instalado junto automaticamente."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Erros do winget explicados em português e nova tentativa automática em falhas temporárias."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Rotas alternativas de instalação para BIMcollab Zoom e Revo Uninstaller."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Logotipo com a chave de reparo ao lado do Y."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.5.0",
+        "Data":  "2026-10-29",
+        "Titulo":  "Catálogo ampliado",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Catálogo de aplicativos ampliado de 51 para 97, com 38 novos programas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Office, Teams, OneDrive, Edge, PowerToys e PC Manager também na página Aplicativos."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Autodesk DWG TrueView passou a instalar pelo site oficial (o pacote do winget instalava em francês)."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrigido o identificador do Access Database Engine; todos os identificadores revalidados."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cabeçalhos com ícone, botões com relevo e conjuntos em pílula."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.4.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Engine Pro",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Novo nome: Manutenção da Estação passou a se chamar Engine Pro, com o slogan \"Seu PC Mais Inteligente\"."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Nome do usuário na saudação da tela de abertura."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.3.2",
+        "Data":  "2026-10-28",
+        "Titulo":  "Abertura rápida",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Abertura que levava cerca de 1 minuto passou a carregar em paralelo, em poucos segundos."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Tela de abertura \"Aguarde... Carregando as informações do seu computador\"."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Programa passa a abrir sempre na frente das outras janelas."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.3.1",
+        "Data":  "2026-10-28",
+        "Titulo":  "Lista de aplicativos",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Página Aplicativos que não exibia nenhum programa passou a mostrar o catálogo completo em cartões por categoria, com busca e filtro."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.3.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Tela inicial completa",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Confirmação antes de fechar qualquer programa, com reabertura ao final."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Tela inicial com processador, memória, placa de vídeo, disco e rede, e saudação conforme o horário."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Logotipo da empresa no ícone do programa."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Programa passa a abrir maximizado."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.2.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Sobre e Ajuda",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Botão Sobre com versão, desenvolvedor e atualização do aplicativo."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Ajuda embutida."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.1.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Layout redesenhado",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Layout mais bonito e moderno."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Crédito \"Desenvolvido por Mau do TI\"."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "3.0.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Interface gráfica",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Interface gráfica no estilo do Windows 11, com tema claro e escuro e a cor de destaque do Windows."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Componentes Microsoft: bibliotecas, runtimes e recursos do Windows."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "2.1.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Instalação de aplicativos",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Menu de instalação de aplicativos para depois de uma formatação, por winget, Microsoft Store, Chocolatey ou site oficial."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Programas fechados para limpeza ou atualização são reabertos sozinhos, como estavam."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "2.0.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Manutenção da Estação",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Limpeza e manutenção geral do Windows: temporários, navegadores, logs, lixeira, cache do Windows Update, otimização e reparos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizações e manutenção reunidas em um único programa."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "TeamViewer deixou de causar erro na atualização dos aplicativos."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "1.0.0",
+        "Data":  "2026-10-28",
+        "Titulo":  "Primeira versão",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Atualização de aplicativos, do Windows e de drivers em um único programa, instalável ou portátil."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Drivers do fabricante mais novos que os do Windows Update são preservados."
+                      }
+                  ]
+    },
+    {
+        "Versao":  "0.0",
+        "Data":  "2026-10-26",
+        "Titulo":  "Origem do projeto",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Comandos do winget para atualizar os aplicativos de uma estação, ponto de partida do Engine Pro."
+                      }
+                  ]
+    }
+]
