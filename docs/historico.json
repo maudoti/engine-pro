@@ -1,5 +1,32 @@
 [
     {
+        "Versao":  "4.4.0",
+        "Data":  "2026-10-29 14:51",
+        "Titulo":  "Mapeamento das pastas do SharePoint do servidor do escrit...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Verificação e correção automática de mapeamentos quebrados ou com defeito."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reparo de impressoras com limpeza completa da fila em dois ciclos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Registro de cada atualização automática."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Previsão de espaço em disco do Modo IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.3.5",
         "Data":  "2026-10-29 14:25",
         "Titulo":  "Reparo de impressoras com limpeza completa da fila (arqui...",
