@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.5.16",
+        "Data":  "2026-10-29 19:48",
+        "Notas":  "Correção: avisos e problemas corrigidos pelo botão saem da lista ao fim da correção; Correção: a análise automática do Modo IA lê as configurações do usuário certo e não recria avisos já resolvidos",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.16/EnginePro_Setup_4.5.16.exe"
+    },
+    {
+        "Versao":  "4.5.16",
         "Data":  "2026-10-29 19:44",
         "Notas":  "Correção: avisos e problemas corrigidos pelo botão saem da lista ao fim da correção; Correção: a análise automática do Modo IA lê as configurações do usuário certo e não recria avisos já resolvidos",
         "Canal":  "teste",
