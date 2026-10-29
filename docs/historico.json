@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.4.1",
+        "Data":  "2026-10-29 15:20",
+        "Titulo":  "Nova página Rede e pastas, separando o mapeamento das pas...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nova página Rede e pastas, separando o mapeamento das pastas do escritório e os reparos de rede dos reparos de limpeza e manutenção."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aviso Somente no Escritório e verificação automática da conexão com o servidor, com o botão desativado nas Obras."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.4.0",
         "Data":  "2026-10-29 14:51",
         "Titulo":  "Mapeamento das pastas do SharePoint do servidor do escrit...",

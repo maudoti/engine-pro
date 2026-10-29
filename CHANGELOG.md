@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.4.1 | Nova página Rede e pastas, separando o mapeamento das pas... | 29/10/2026
+
+- **Melhoria**: Nova página Rede e pastas, separando o mapeamento das pastas do escritório e os reparos de rede dos reparos de limpeza e manutenção.
+- **Melhoria**: Aviso Somente no Escritório e verificação automática da conexão com o servidor, com o botão desativado nas Obras.
+
 ## Versão 4.4.0 | Mapeamento das pastas do SharePoint do servidor do escrit... | 29/10/2026
 
 - **Novo**: Mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade.
