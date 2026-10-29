@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.0",
-    "Instalador":  "EnginePro_Setup_4.5.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.0/EnginePro_Setup_4.5.0.exe",
-    "SHA256":  "3DB77D2CE59927E125BB76528DB2C53608CEE2FF9B17AB2541D9EDCBAF30DD74",
-    "Data":  "2026-10-29 16:54",
-    "Notas":  "Novo: a IA observa em silêncio os programas que usam muito processador ou memória, travam ou mostram erros, e só conta o que viu quando o Engine Pro é aberto; Novo: IA na nuvem (Google Gemini, nível gratuito) para as perguntas que a IA local não souber responder, com anonimização dos dados; Novo: a IA analisa cada programa em uso e identifica a causa das falhas nos registros do Windows; Novo: botão Resolver tudo com um OK; Novo: Modo IA ligado por padrão, com varredura automática narrada na conversa; Novo: a IA detecta e corrige configurações do Office, como macros bloqueadas, cálculo do Excel em manual e Outlook lento; Novo: documentos do Office são salvos automaticamente antes de reparos que fecham o Office; Novo: conversa com a IA; Novo: velocidade da internet, IP, provedor e clima na tela inicial; Novo: Central de segurança e análise cruzada no Modo IA; Novo: painel OneDrive e SharePoint, liberação automática do OneDrive, ajuste da banda e suporte a caminhos longos; Melhoria: os avisos não abrem mais balão perto do relógio e ficam na tela inicial do Engine Pro; Melhoria: mensagens mais claras sobre a rede do Escritório",
-    "Assinatura":  "o4+9GQRO2sIeRKapydOE+Z8fwBXCtgPoSfmKsCeEfBkSVfCdXjVtNabVqIGNXTmpyzBVdF+AlwbC1BfYQmSBRKaOHH69F2SPl2oeY9JKqCj/LOZzRBK8o3OvYaBO/ZQAUk/I4x4TmPYyKsF60hGsmAHSSKZLtv4Spfs3X6yc+xStSDH5SSwmwja0XfkWYr6+qZUD1KWSn5w9daQDfXxV0bG0tbvso/GqkGHVs6aAuivPzW5VRu6qbsHKiBjkkOGBuIZmtHD23x3GZgbAorL4VcqsJvHvRYWFRNNB9CP/wpe4Y77Jgxnv1y9KyZqRtJ+E+3Zcnz2aWv/ph6g0xAPU5kFdoG4oNZXxxsbqKylOmeBOrktKOSwsMLYoNfNxaen6TGt6iSG5YlrS91u7zWYk2QkDQg1keQOrH+3WhH28esbcxSYfOeKLngN8ta83Dw3QFq+ofUg8NakIQye5oClB+t3Jxt2WYj71tC+kdl+W6W76Ut094MsI9WvEBn1w601k"
+    "Versao":  "4.5.1",
+    "Instalador":  "EnginePro_Setup_4.5.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.1/EnginePro_Setup_4.5.1.exe",
+    "SHA256":  "A66146346514BA1FE980302BB4DD9874A866742D54C7D8DDCAA9036F9226AC3D",
+    "Data":  "2026-10-29 17:20",
+    "Notas":  "Correção: acentos nas informações de internet e clima; Melhoria: o clima saiu da tela inicial e virou um indicador discreto no menu lateral, com os detalhes ao passar o mouse",
+    "Assinatura":  "XYasBwAfybvaB7AZNPZ9/NWea0DKzYGuU2BU5VPtXdYqNqCYYYPuHNdkRAPxcvueusKg/hmc5Hn/Fmg9hsLxwyYSOM/OhVWTQyBnmrVxY8XSymsdvcqswYXA/gIx99M0eNYuj9ymh3yviA4uI0+EwZsvfr5gaZk7tzAwrwJ2lHU1lKGhHLHHxbYGrKpC3fAacxh7oaG0t1F8kw3/2QUJw9oSjMFrSyblKw6Lg4azNhdoJceRqp6IQMQNiPgQrGjS+v+2YB2QOKeJBWnhz3W5r+7AE4P2VEMrW7uxNLSfpqPCBgCavck1oJZEy40ZMOzB+hdiayZSbqRAvdjS0Ck+yDfMhSxAaA3038NOw2dqKMHZVj2RlFKlFfop6Z8KdgfsCIRtQh8uCIFvk9YezObMBwGnMoE27s4HTUehiCq+59fcx5u30Z62HBtu6s6YK30kJwmtXvdDO4dS600flClCK4qyTuijRPsxYnjwyo9BdqIb7r0ZjHUashJMKp3dcfQU"
 }

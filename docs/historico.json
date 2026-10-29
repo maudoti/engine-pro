@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.1",
+        "Data":  "2026-10-29 17:20",
+        "Titulo":  "Acentos nas informações de internet e clima",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Acentos nas informações de internet e clima."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O clima saiu da tela inicial e virou um indicador discreto no menu lateral, com os detalhes ao passar o mouse."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.0",
         "Data":  "2026-10-29 16:54",
         "Titulo":  "A IA observa em silêncio os programas que usam muito proc...",

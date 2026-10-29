@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.1",
+        "Data":  "2026-10-29 17:20",
+        "Notas":  "Correção: acentos nas informações de internet e clima; Melhoria: o clima saiu da tela inicial e virou um indicador discreto no menu lateral, com os detalhes ao passar o mouse",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.1/EnginePro_Setup_4.5.1.exe"
+    },
+    {
         "Versao":  "4.5.0",
         "Data":  "2026-10-29 16:54",
         "Notas":  "Novo: a IA observa em silêncio os programas que usam muito processador ou memória, travam ou mostram erros, e só conta o que viu quando o Engine Pro é aberto; Novo: IA na nuvem (Google Gemini, nível gratuito) para as perguntas que a IA local não souber responder, com anonimização dos dados; Novo: a IA analisa cada programa em uso e identifica a causa das falhas nos registros do Windows; Novo: botão Resolver tudo com um OK; Novo: Modo IA ligado por padrão, com varredura automática narrada na conversa; Novo: a IA detecta e corrige configurações do Office, como macros bloqueadas, cálculo do Excel em manual e Outlook lento; Novo: documentos do Office são salvos automaticamente antes de reparos que fecham o Office; Novo: conversa com a IA; Novo: velocidade da internet, IP, provedor e clima na tela inicial; Novo: Central de segurança e análise cruzada no Modo IA; Novo: painel OneDrive e SharePoint, liberação automática do OneDrive, ajuste da banda e suporte a caminhos longos; Melhoria: os avisos não abrem mais balão perto do relógio e ficam na tela inicial do Engine Pro; Melhoria: mensagens mais claras sobre a rede do Escritório",

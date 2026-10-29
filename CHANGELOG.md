@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.1 | Acentos nas informações de internet e clima | 29/10/2026
+
+- **Correção**: Acentos nas informações de internet e clima.
+- **Melhoria**: O clima saiu da tela inicial e virou um indicador discreto no menu lateral, com os detalhes ao passar o mouse.
+
 ## Versão 4.5.0 | A IA observa em silêncio os programas que usam muito proc... | 29/10/2026
 
 - **Novo**: A IA observa em silêncio os programas que usam muito processador ou memória, travam ou mostram erros, e só conta o que viu quando o Engine Pro é aberto.
