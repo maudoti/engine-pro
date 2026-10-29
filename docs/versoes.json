@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.7",
+        "Data":  "2026-10-29 18:13",
+        "Notas":  "Correção: o Engine Pro voltou a abrir em computadores com determinadas cores de destaque do Windows; Melhoria: o Engine Pro passa a usar a cor de destaque do Windows de todos os computadores; Melhoria: erros em detalhes da tela são registrados sem impedir a abertura",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.7/EnginePro_Setup_4.5.7.exe"
+    },
+    {
         "Versao":  "4.5.6",
         "Data":  "2026-10-29 18:08",
         "Notas":  "Correção: o Engine Pro voltou a abrir; Melhoria: a compilação confere os scripts com o Windows PowerShell 5.1 e é interrompida se houver erro; Melhoria: se a interface não puder abrir, o motivo aparece na tela e fica registrado",

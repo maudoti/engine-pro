@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.7",
+        "Data":  "2026-10-29 18:13",
+        "Titulo":  "O Engine Pro voltou a abrir em computadores com determina...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O Engine Pro voltou a abrir em computadores com determinadas cores de destaque do Windows."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O Engine Pro passa a usar a cor de destaque do Windows de todos os computadores."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Erros em detalhes da tela são registrados sem impedir a abertura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.6",
         "Data":  "2026-10-29 18:08",
         "Titulo":  "O Engine Pro voltou a abrir",

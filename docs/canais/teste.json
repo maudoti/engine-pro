@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.6",
-    "Instalador":  "EnginePro_Setup_4.5.6.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.6/EnginePro_Setup_4.5.6.exe",
-    "SHA256":  "02AF96467091BEF7007C992D3F215CE3CD56B5A5BE1EF4D3FC969D72C63D7924",
-    "Data":  "2026-10-29 18:08",
-    "Notas":  "Correção: o Engine Pro voltou a abrir; Melhoria: a compilação confere os scripts com o Windows PowerShell 5.1 e é interrompida se houver erro; Melhoria: se a interface não puder abrir, o motivo aparece na tela e fica registrado",
-    "Assinatura":  "DPzBxrjrlXe+YEvznNgQlAUqfMqlTQGp1cahPOkwwhWQaSFh55DmZyf2dgQZwbShf/vjPnJxith6bdoG8RiMBMGn8Cd4Tmeosn9D6qy9F7ZB9xDv0TKWyW10Ch2qwsr3mu3Q6sjb8ZFaOTwBBETrOzcHyU5O9xBVyOW1/8pDo2YG4xgwRK8OWwxmX4NTkQDP+RH4Ys/BcAYulHfwjFK0y5XwLm3LbtcUKEmR3CIIAd9Dqp1whhqS/8ackNDj0IUQhfYDdqG0Ge1l3hGpdgAnNaDPsXPDg62AvL+lQhxonBkfeipfgyBm7t13jMNlU9Miga1ZRxjv4kTXYwD+YR9xCSKxJhqH4PLf6g447vmabYp41c3fYUYnVA9K8C8ErAtZypljtbEnQ4SU1YPH8WWDDnoSCmaD3mZSFwQcfTXDL0oiHgcB4ohL6pbhg59RAukxXSWDWQlYxIguXF9vFRoK7PZBz6xqUQo96RsIYwO9nkqgg2lhQO/S8Ko0lDC7rE/m"
+    "Versao":  "4.5.7",
+    "Instalador":  "EnginePro_Setup_4.5.7.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.7/EnginePro_Setup_4.5.7.exe",
+    "SHA256":  "C0FC8C52820AF017788A7C35BDFE3C85303A4E4A906B7BFD82951C3BB548B7F9",
+    "Data":  "2026-10-29 18:13",
+    "Notas":  "Correção: o Engine Pro voltou a abrir em computadores com determinadas cores de destaque do Windows; Melhoria: o Engine Pro passa a usar a cor de destaque do Windows de todos os computadores; Melhoria: erros em detalhes da tela são registrados sem impedir a abertura",
+    "Assinatura":  "iL/60Ufovw8XXl3VhvzBQrkWyvK8qX6D17oI7r1OnNQ9r2yxYAPTn0GPTelf9ikLkT+F+zm0AaNkrYjw2RMGvLDGRviiTN32QRqE0yvRk8KHhkVAN/JxND7iIcSe7o4vHMePnjxtLrQdMRlc6kQ07K7DNyviVE1QWgJ1muV9S2MT+9jek2iHNiD4uZOJrRk8Sfs81or2C0kI06W8pQ+wSxgYz1yGfVMuh+OO8RX+vxMn75McDL81V4q7UfvF/7XhGFyiYqZ4tc2z+OlDANgF3Ey9M9vsV8CqT22R3sC4DlIQTfT4O4m0FN7vKg9QDAxIK1mtnfEFbg8iG2IKfQ1I48l7uDJncN5zzcLIIMFykIwQ0GTWj7Z2lAAL+bASeZugREnsSZAh9SKGdEEUNpA89cEzt19KU4Mk/O9kHOsulG0P/EZWgS0y0DcSBlZJJmXOL8pn2e7cXc6Mdf+ER3ORJPXdzmflw8PCs+ThLFUZoq8pKyPZgadWG4hIrui8B4dd"
 }

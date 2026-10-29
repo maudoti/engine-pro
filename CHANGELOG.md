@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.7 | O Engine Pro voltou a abrir em computadores com determina... | 29/10/2026
+
+- **Correção**: O Engine Pro voltou a abrir em computadores com determinadas cores de destaque do Windows.
+- **Melhoria**: O Engine Pro passa a usar a cor de destaque do Windows de todos os computadores.
+- **Melhoria**: Erros em detalhes da tela são registrados sem impedir a abertura.
+
 ## Versão 4.5.6 | O Engine Pro voltou a abrir | 29/10/2026
 
 - **Correção**: O Engine Pro voltou a abrir.
