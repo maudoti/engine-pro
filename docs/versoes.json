@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.3.3",
+        "Data":  "2026-10-29 13:42",
+        "Notas":  "Saída do reparo do sistema legível e atualização agendada para o fim da tarefa",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.3/EnginePro_Setup_4.3.3.exe"
+    },
+    {
         "Versao":  "4.3.2",
         "Data":  "2026-10-29 13:33",
         "Notas":  "Y girando como moeda e verificação de atualização sem atraso",

@@ -22,3 +22,6 @@ Verificação de atualização sem atraso
 
 ## 4.3.2 (2026-10-29, canal estavel)
 Y girando como moeda e verificação de atualização sem atraso
+
+## 4.3.3 (2026-10-29, canal estavel)
+Saída do reparo do sistema legível e atualização agendada para o fim da tarefa
