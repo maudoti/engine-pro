@@ -2,6 +2,22 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.0 | A IA observa em silêncio os programas que usam muito proc... | 29/10/2026
+
+- **Novo**: A IA observa em silêncio os programas que usam muito processador ou memória, travam ou mostram erros, e só conta o que viu quando o Engine Pro é aberto.
+- **Novo**: IA na nuvem (Google Gemini, nível gratuito) para as perguntas que a IA local não souber responder, com anonimização dos dados.
+- **Novo**: A IA analisa cada programa em uso e identifica a causa das falhas nos registros do Windows.
+- **Novo**: Botão Resolver tudo com um OK.
+- **Novo**: Modo IA ligado por padrão, com varredura automática narrada na conversa.
+- **Novo**: A IA detecta e corrige configurações do Office, como macros bloqueadas, cálculo do Excel em manual e Outlook lento.
+- **Novo**: Documentos do Office são salvos automaticamente antes de reparos que fecham o Office.
+- **Novo**: Conversa com a IA.
+- **Novo**: Velocidade da internet, IP, provedor e clima na tela inicial.
+- **Novo**: Central de segurança e análise cruzada no Modo IA.
+- **Novo**: Painel OneDrive e SharePoint, liberação automática do OneDrive, ajuste da banda e suporte a caminhos longos.
+- **Melhoria**: Os avisos não abrem mais balão perto do relógio e ficam na tela inicial do Engine Pro.
+- **Melhoria**: Mensagens mais claras sobre a rede do Escritório.
+
 ## Versão 4.4.1 | Nova página Rede e pastas, separando o mapeamento das pas... | 29/10/2026
 
 - **Melhoria**: Nova página Rede e pastas, separando o mapeamento das pastas do escritório e os reparos de rede dos reparos de limpeza e manutenção.

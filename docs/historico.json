@@ -1,5 +1,64 @@
 [
     {
+        "Versao":  "4.5.0",
+        "Data":  "2026-10-29 16:54",
+        "Titulo":  "A IA observa em silêncio os programas que usam muito proc...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA observa em silêncio os programas que usam muito processador ou memória, travam ou mostram erros, e só conta o que viu quando o Engine Pro é aberto."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "IA na nuvem (Google Gemini, nível gratuito) para as perguntas que a IA local não souber responder, com anonimização dos dados."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA analisa cada programa em uso e identifica a causa das falhas nos registros do Windows."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Botão Resolver tudo com um OK."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Modo IA ligado por padrão, com varredura automática narrada na conversa."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA detecta e corrige configurações do Office, como macros bloqueadas, cálculo do Excel em manual e Outlook lento."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Documentos do Office são salvos automaticamente antes de reparos que fecham o Office."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Conversa com a IA."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Velocidade da internet, IP, provedor e clima na tela inicial."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Central de segurança e análise cruzada no Modo IA."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Painel OneDrive e SharePoint, liberação automática do OneDrive, ajuste da banda e suporte a caminhos longos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Os avisos não abrem mais balão perto do relógio e ficam na tela inicial do Engine Pro."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mensagens mais claras sobre a rede do Escritório."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.4.1",
         "Data":  "2026-10-29 15:20",
         "Titulo":  "Nova página Rede e pastas, separando o mapeamento das pas...",

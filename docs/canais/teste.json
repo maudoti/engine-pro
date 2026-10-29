@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.4.0",
-    "Instalador":  "EnginePro_Setup_4.4.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.4.0/EnginePro_Setup_4.4.0.exe",
-    "SHA256":  "897E221868EE9A39FAA8B513AE838CF0DA3205E191EF2208DD0F32856C1E56B2",
-    "Data":  "2026-10-29 14:51",
-    "Notas":  "Novo: mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade; Novo: verificação e correção automática de mapeamentos quebrados ou com defeito",
-    "Assinatura":  "VTuzgIzGadHJDMrJLAEh+IwCxMtvwxUJPI7f7m7/FEMcY9nfORTJ3Uv1R/JqM4CUqjDUgKf314+JFEmAqc14TM8/XFJl7CBkQyDzBUU94rHsgkAqEo955MFovTfXFjnbHRyh9FBC49fztk8/Q+u2py1ouqHDdnDvBVC+/yBNDIZcS0/+9fNvXz+JFUNCC2uWCVyFYUHfytKgML/0Y+pMzZQ7fTe/EdyhT9paABLUXvDwdv9BITshrkyziNjFuWPvgShtInHdeMLcxW13+4ANnH5lvA6rbq3O7hSm/QHeSzFlW/kOPkxjoa5sZLkPsctWGx4QeQ41O8FuP3FDDUPj/PZcL7FzX4tYa/LVVvrS9SUNqUPwpR9Sjv9LA1MrwlPQrQawfiyknlgMcHmGPzxkc9s8XmWZcvUKfNIL1hBk9NGxBvU572aKyWeEI/NKupLEeonb7jBWrkc/zLSp8FKo/1WDKhGr+EseW3gJE6jZh8a8BIaMaevf7REVwAEWu3x3"
+    "Versao":  "4.5.0",
+    "Instalador":  "EnginePro_Setup_4.5.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.0/EnginePro_Setup_4.5.0.exe",
+    "SHA256":  "3DB77D2CE59927E125BB76528DB2C53608CEE2FF9B17AB2541D9EDCBAF30DD74",
+    "Data":  "2026-10-29 16:54",
+    "Notas":  "Novo: a IA observa em silêncio os programas que usam muito processador ou memória, travam ou mostram erros, e só conta o que viu quando o Engine Pro é aberto; Novo: IA na nuvem (Google Gemini, nível gratuito) para as perguntas que a IA local não souber responder, com anonimização dos dados; Novo: a IA analisa cada programa em uso e identifica a causa das falhas nos registros do Windows; Novo: botão Resolver tudo com um OK; Novo: Modo IA ligado por padrão, com varredura automática narrada na conversa; Novo: a IA detecta e corrige configurações do Office, como macros bloqueadas, cálculo do Excel em manual e Outlook lento; Novo: documentos do Office são salvos automaticamente antes de reparos que fecham o Office; Novo: conversa com a IA; Novo: velocidade da internet, IP, provedor e clima na tela inicial; Novo: Central de segurança e análise cruzada no Modo IA; Novo: painel OneDrive e SharePoint, liberação automática do OneDrive, ajuste da banda e suporte a caminhos longos; Melhoria: os avisos não abrem mais balão perto do relógio e ficam na tela inicial do Engine Pro; Melhoria: mensagens mais claras sobre a rede do Escritório",
+    "Assinatura":  "o4+9GQRO2sIeRKapydOE+Z8fwBXCtgPoSfmKsCeEfBkSVfCdXjVtNabVqIGNXTmpyzBVdF+AlwbC1BfYQmSBRKaOHH69F2SPl2oeY9JKqCj/LOZzRBK8o3OvYaBO/ZQAUk/I4x4TmPYyKsF60hGsmAHSSKZLtv4Spfs3X6yc+xStSDH5SSwmwja0XfkWYr6+qZUD1KWSn5w9daQDfXxV0bG0tbvso/GqkGHVs6aAuivPzW5VRu6qbsHKiBjkkOGBuIZmtHD23x3GZgbAorL4VcqsJvHvRYWFRNNB9CP/wpe4Y77Jgxnv1y9KyZqRtJ+E+3Zcnz2aWv/ph6g0xAPU5kFdoG4oNZXxxsbqKylOmeBOrktKOSwsMLYoNfNxaen6TGt6iSG5YlrS91u7zWYk2QkDQg1keQOrH+3WhH28esbcxSYfOeKLngN8ta83Dw3QFq+ofUg8NakIQye5oClB+t3Jxt2WYj71tC+kdl+W6W76Ut094MsI9WvEBn1w601k"
 }
