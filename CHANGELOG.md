@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.3 | A IA avalia a configuração do computador para Office, Aut... | 29/10/2026
+
+- **Novo**: A IA avalia a configuração do computador para Office, AutoCAD e Revit e indica as melhorias de maior impacto.
+- **Melhoria**: A IA na nuvem troca sozinha de modelo quando o Google aposenta um e mostra mensagens claras para cada tipo de falha.
+- **Melhoria**: O erro real da IA na nuvem aparece no modo técnico e fica registrado.
+
 ## Versão 4.5.2 | Página Modo IA reorganizada, com a conversa em primeiro l... | 29/10/2026
 
 - **Melhoria**: Página Modo IA reorganizada, com a conversa em primeiro lugar, saúde do computador compacta e seções que abrem com um clique.

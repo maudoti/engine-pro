@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.3",
+        "Data":  "2026-10-29 17:43",
+        "Titulo":  "A IA avalia a configuração do computador para Office, Aut...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA avalia a configuração do computador para Office, AutoCAD e Revit e indica as melhorias de maior impacto."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A IA na nuvem troca sozinha de modelo quando o Google aposenta um e mostra mensagens claras para cada tipo de falha."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O erro real da IA na nuvem aparece no modo técnico e fica registrado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.2",
         "Data":  "2026-10-29 17:33",
         "Titulo":  "Página Modo IA reorganizada, com a conversa em primeiro l...",
