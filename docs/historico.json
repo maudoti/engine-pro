@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.14",
+        "Data":  "2026-10-29 18:51",
+        "Titulo":  "Nomes de programas como TeamViewer não são mais confundid...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Nomes de programas como TeamViewer não são mais confundidos com outros."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A IA na nuvem responde sobre qualquer programa usado no computador."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.13",
         "Data":  "2026-10-29 18:46",
         "Titulo":  "A IA na nuvem funciona com os modelos mais novos do Googl...",

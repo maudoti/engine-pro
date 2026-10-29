@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.14 | Nomes de programas como TeamViewer não são mais confundid... | 29/10/2026
+
+- **Correção**: Nomes de programas como TeamViewer não são mais confundidos com outros.
+- **Melhoria**: A IA na nuvem responde sobre qualquer programa usado no computador.
+
 ## Versão 4.5.13 | A IA na nuvem funciona com os modelos mais novos do Googl... | 29/10/2026
 
 - **Correção**: A IA na nuvem funciona com os modelos mais novos do Google e começa pelo modelo mais rápido.

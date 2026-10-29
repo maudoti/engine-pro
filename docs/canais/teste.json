@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.13",
-    "Instalador":  "EnginePro_Setup_4.5.13.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.13/EnginePro_Setup_4.5.13.exe",
-    "SHA256":  "99DD659B249ABBCFD792A4C1DA653B4DFB914C45D1A00EB538B4809C402F4AEF",
-    "Data":  "2026-10-29 18:46",
-    "Notas":  "Correção: a IA na nuvem funciona com os modelos mais novos do Google e começa pelo modelo mais rápido; Melhoria: o registro da IA na nuvem mostra todas as tentativas; Melhoria: a resposta da nuvem aparece logo abaixo da pergunta, antes do resumo da varredura",
-    "Assinatura":  "MdIdbKZAL08uBoVhQvy5ZgaU8ahrQJpIs9ybdlIJvHI9/855sUKs1vTqIXPBh0l+BXJTNnvkwpJBwCR4W6YTwO2LH5rXe+jLPUb2HQOx4MOdOOh+ycIxEtLU+p2WNc8dyXueaB1RGDTo52k9nHlzRJA5+uSqqjwnMwdmkv3c2DAP+Oactus4bIyfjXzLp5Cuvuokmb06s8o3jHa1BAklgXCJDvfGTzebhijaAy9LN2zEU46plwaU+nKF3lW9c7Gz9APUSqE7VQmKmhAD+O4+7YJHMU6dVed94QYwd/Ajuejcj6Yi0GBys/w+K4yHcHhjX7BPUMbAMRhKNsLPt6tG102IEto3Y/nc1mypd2JqD6672guXx+T3Z5QBibHy2hQKVeZV7aqEnk8buQqhy4CnAoVLHpSoI3xfGpzU3qF769CYq6+F8ejzDX13L++BLPis3Q2HgkOY2eYJb7GQvvOqvN+SqTo8WTleRuLk8P/7C4Dlq8/EdwTfiGYbIjDG6atf"
+    "Versao":  "4.5.14",
+    "Instalador":  "EnginePro_Setup_4.5.14.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.14/EnginePro_Setup_4.5.14.exe",
+    "SHA256":  "1BC268C1AE2025AB1ECF74256781982E74F4956684C8B7C3D146DF7D4B6032A7",
+    "Data":  "2026-10-29 18:51",
+    "Notas":  "Correção: nomes de programas como TeamViewer não são mais confundidos com outros; Melhoria: a IA na nuvem responde sobre qualquer programa usado no computador",
+    "Assinatura":  "V3WiHvJj1B8+Cn+qkuZl1O3K3LbguF6QyROA50Y+GIFYGZsXrVl005UJ2YjayIL+g8SOAGKI8Wytd1uEC1qrA8ADZpF7Ww3Ju5mJg9wKRvUZRdAeP7XTQu2sT0j5HTZpSRapijPuEb+A6kN1hxf/41pNiHE1fawbZMhpLjdTa8i5bRqlifey/gJTMigUx74QVIdWIc416CObqRbnLhWDvHKyMV4361OoZrKzqUJVpbWYuaCUFEOke9yKUTW5+wMmR1zv3jH4I6fbtaiuInoeGDYLPmvPuIzOhIQlkGwyYfbY1B8Szv9TZpymM9SmvKhwSO0fbQ7AVSmt+Bk3KBGRV219O3cWJtAeqMjvyu4jkpTYKAnIPHfMffLg/Jwi3cMqZc8c80qaNTmvFtujjyMPqyJ46R/CZYqE1trs+4CgCfyUNVezAK7/OQYEnzmCrZBw2gvK/fMZDBtpQ84JPQSNAZq+jXsMfCK/eFJdFOplLhBZAqtslzqDZ5J5XumB9rF7"
 }
