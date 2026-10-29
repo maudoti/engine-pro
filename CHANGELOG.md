@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.18 | Quadro Por que a inicialização demora em Ajustes do siste... | 29/10/2026
+
+- **Novo**: Quadro Por que a inicialização demora em Ajustes do sistema, com cada causa identificada e botões para resolver.
+- **Melhoria**: O aviso de inicialização lenta mostra as causas e corrige os serviços que podem esperar.
+- **Novo**: Reparo Inicialização: serviços depois do login.
+- **Melhoria**: Cada causa da inicialização aparece com o tipo, o nome comercial, o fabricante, o que faz e onde fica.
+
 ## Versão 4.5.17 | A IA identifica o que atrasa a inicialização e o login (s... | 29/10/2026
 
 - **Novo**: A IA identifica o que atrasa a inicialização e o login (serviços, drivers, dispositivos, políticas do domínio e unidades de rede) e explica o que fazer com cada causa.

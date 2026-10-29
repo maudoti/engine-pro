@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.17",
-    "Instalador":  "EnginePro_Setup_4.5.17.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.17/EnginePro_Setup_4.5.17.exe",
-    "SHA256":  "F2089F339AB600A1393DA04802F82CFF731F73099868E4F5C52CF6279D2F8301",
-    "Data":  "2026-10-29 20:12",
-    "Notas":  "Novo: a IA identifica o que atrasa a inicialização e o login (serviços, drivers, dispositivos, políticas do domínio e unidades de rede) e explica o que fazer com cada causa; Correção: perguntas com a palavra tempo não são mais confundidas com o clima",
-    "Assinatura":  "P/zlNDfk0bizvnRGVLgIsCRvi9uKlL/qawQ4qLQRzbqtMN0RVbvTSDqHhmVVRSqpSXZJZqm9sAocFph+EYDQ4PKYE+d6/mR/bLlwcEm81cylNhXQ2Xcbomdk5AgroBiL/WWixWvnyDnQ38bnjNY9cWxGxJm21FPcisL401UAe/b+8TEk+UFwsgnrZ5DkHlb0TyT2aHIP9u1XknOWiZBxHhTbZojIaMXlEbYtWgVKWkAiyQBGYmOplSM3hbF9KfH8vuXFC9aWascXVFsr+IbhBW5KxTSmNO3b+8x7Z3Bbom+mWV7ASVn8xZGLLiyRNp1vDNwOlQDp7gX9UUGEjw+zHH4RBT/G93qrfB5dZBMdj9exM9hlRM2eySkzU61025RX7S9WT2IHFZrUja12IAxkjc63+WG3Le+H8kUFiRPQwpTClF0ulS415BB55xEp//NyAsZyjY7VL8viQSxfcSGXiTrChjPG3MATDbcw2JcYUaRF/GN9bPZz+K2W8tJtIZxG"
+    "Versao":  "4.5.18",
+    "Instalador":  "EnginePro_Setup_4.5.18.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.18/EnginePro_Setup_4.5.18.exe",
+    "SHA256":  "3F676909F26B71FB1FDD72D9A1B694869AFA7BED86657A0B548668EE1E087680",
+    "Data":  "2026-10-29 20:23",
+    "Notas":  "Novo: quadro Por que a inicialização demora em Ajustes do sistema, com cada causa identificada e botões para resolver; Melhoria: o aviso de inicialização lenta mostra as causas e corrige os serviços que podem esperar; Novo: reparo Inicialização: serviços depois do login; Melhoria: cada causa da inicialização aparece com o tipo, o nome comercial, o fabricante, o que faz e onde fica",
+    "Assinatura":  "XZrcJ2gCebtD/4vIBjshzr0r5+BxpwzhkfQOMFEvRdUe5jguVEblCHs+Q5TqD0sbIi6+5sOUriRkwP5HcCNM/7k98qhD9uDqKv+WUYZHKMELu3FsKlLJtT/O83RdJNHucPUY+UNAN/M7jmJ82DWeHJ9RWq7Nq0/fOjKnY/1v0gnaTmqTSgPFyO2oArwYTOh4DEznR0gTIDFqUgvaLyZZYuUbUiaFd/FWs/xdQsKRwaGbrmbinFBsjH4nqrgGtr2y8TtFGAt/z42EiHD+SNg1aSF9t6GwjN1CjIe/xD4Boag+Bl2+Bp7nR4wa1cE8jOEIJ6NHyWtB5vMyBkjymgPHLwhMt3Z7y8DhKGKDYoFfZFD+ZVOmhcoC9BpIhEFNlSFWAM0WiTRYzpMnP+1HcA0PKSCfiO4kMgNowkyb201G3PoikOz9lLI+iX7MkqT6RoQIMUIU1PqGnwS7XXFl7TQW30VdJVatFVT2M3WqJHBdPMdbXojo6ObIZZgKSsEBPxxe"
 }

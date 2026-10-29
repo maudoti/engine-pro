@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.18",
+        "Data":  "2026-10-29 20:23",
+        "Notas":  "Novo: quadro Por que a inicialização demora em Ajustes do sistema, com cada causa identificada e botões para resolver; Melhoria: o aviso de inicialização lenta mostra as causas e corrige os serviços que podem esperar; Novo: reparo Inicialização: serviços depois do login; Melhoria: cada causa da inicialização aparece com o tipo, o nome comercial, o fabricante, o que faz e onde fica",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.18/EnginePro_Setup_4.5.18.exe"
+    },
+    {
         "Versao":  "4.5.17",
         "Data":  "2026-10-29 20:12",
         "Notas":  "Novo: a IA identifica o que atrasa a inicialização e o login (serviços, drivers, dispositivos, políticas do domínio e unidades de rede) e explica o que fazer com cada causa; Correção: perguntas com a palavra tempo não são mais confundidas com o clima",

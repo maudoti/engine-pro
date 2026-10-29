@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.18",
+        "Data":  "2026-10-29 20:23",
+        "Titulo":  "Quadro Por que a inicialização demora em Ajustes do siste...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Quadro Por que a inicialização demora em Ajustes do sistema, com cada causa identificada e botões para resolver."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O aviso de inicialização lenta mostra as causas e corrige os serviços que podem esperar."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Reparo Inicialização: serviços depois do login."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cada causa da inicialização aparece com o tipo, o nome comercial, o fabricante, o que faz e onde fica."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.17",
         "Data":  "2026-10-29 20:12",
         "Titulo":  "A IA identifica o que atrasa a inicialização e o login (s...",
