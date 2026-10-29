@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.6 | O Engine Pro voltou a abrir | 29/10/2026
+
+- **Correção**: O Engine Pro voltou a abrir.
+- **Melhoria**: A compilação confere os scripts com o Windows PowerShell 5.1 e é interrompida se houver erro.
+- **Melhoria**: Se a interface não puder abrir, o motivo aparece na tela e fica registrado.
+
 ## Versão 4.5.5 | A IA diferencia problemas, perguntas de versão e dúvidas ... | 29/10/2026
 
 - **Melhoria**: A IA diferencia problemas, perguntas de versão e dúvidas de uso sobre Revit e AutoCAD.

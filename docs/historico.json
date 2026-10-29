@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.6",
+        "Data":  "2026-10-29 18:08",
+        "Titulo":  "O Engine Pro voltou a abrir",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O Engine Pro voltou a abrir."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A compilação confere os scripts com o Windows PowerShell 5.1 e é interrompida se houver erro."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Se a interface não puder abrir, o motivo aparece na tela e fica registrado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.5",
         "Data":  "2026-10-29 17:56",
         "Titulo":  "A IA diferencia problemas, perguntas de versão e dúvidas ...",

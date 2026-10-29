@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.5",
-    "Instalador":  "EnginePro_Setup_4.5.5.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.5/EnginePro_Setup_4.5.5.exe",
-    "SHA256":  "C5923E98102ABF5565909643B46501F1C8648EE9872D6D38CFA39E43CE2FFF79",
-    "Data":  "2026-10-29 17:56",
-    "Notas":  "Melhoria: a IA diferencia problemas, perguntas de versão e dúvidas de uso sobre Revit e AutoCAD; Novo: a IA mostra as versões do Revit e do AutoCAD instaladas no computador; Melhoria: a IA entende perguntas com erros de digitação",
-    "Assinatura":  "I5s7WSlOgw5k8SsLS3UMVKUsdIdihWSZvNbldpZOS9bLWbV4ZccKSQbqscYfybfoD34CgdJHfRh9LKuBFo4aehGlJbBxAy1QB+YsIJm35tWsIQlEQKXHTUTAm25TqEiEsusMUkfe9xdMbkQ7k8RdPKVlkdK6I3NNDX3Hz6UUjoTe91bb+ZGHEsfdCWNeDCzcwHT7mAgZ630rmCCenMM8OQH7xJh9d+9BBA5yDcepTxZ1dTxD6lDBbxwktFPsnFKrs/TdnupOFPpTh8i52r9U5eK59w8L8yOkgwFb0e/QmUzgxudmHTmw2bE0kyL/kEcWGMZkx9cBxcMqrn7ZRg8HksQ71gczyLjFA7S0PhFm7XyBv5t2S09IYi7npusIbj0ZaZUSoha1pNfJSj+6sNzUDsTzn2+vlCF4pxWBh4NKPJV8zbMJQlfnYhQSxiUD2o64ap/VMKe33EDUalWQf0Ke6hvJ0dCm1ARbXvVupRAdjIybig+n8WwEDnu/digGLhIS"
+    "Versao":  "4.5.6",
+    "Instalador":  "EnginePro_Setup_4.5.6.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.6/EnginePro_Setup_4.5.6.exe",
+    "SHA256":  "02AF96467091BEF7007C992D3F215CE3CD56B5A5BE1EF4D3FC969D72C63D7924",
+    "Data":  "2026-10-29 18:08",
+    "Notas":  "Correção: o Engine Pro voltou a abrir; Melhoria: a compilação confere os scripts com o Windows PowerShell 5.1 e é interrompida se houver erro; Melhoria: se a interface não puder abrir, o motivo aparece na tela e fica registrado",
+    "Assinatura":  "DPzBxrjrlXe+YEvznNgQlAUqfMqlTQGp1cahPOkwwhWQaSFh55DmZyf2dgQZwbShf/vjPnJxith6bdoG8RiMBMGn8Cd4Tmeosn9D6qy9F7ZB9xDv0TKWyW10Ch2qwsr3mu3Q6sjb8ZFaOTwBBETrOzcHyU5O9xBVyOW1/8pDo2YG4xgwRK8OWwxmX4NTkQDP+RH4Ys/BcAYulHfwjFK0y5XwLm3LbtcUKEmR3CIIAd9Dqp1whhqS/8ackNDj0IUQhfYDdqG0Ge1l3hGpdgAnNaDPsXPDg62AvL+lQhxonBkfeipfgyBm7t13jMNlU9Miga1ZRxjv4kTXYwD+YR9xCSKxJhqH4PLf6g447vmabYp41c3fYUYnVA9K8C8ErAtZypljtbEnQ4SU1YPH8WWDDnoSCmaD3mZSFwQcfTXDL0oiHgcB4ohL6pbhg59RAukxXSWDWQlYxIguXF9vFRoK7PZBz6xqUQo96RsIYwO9nkqgg2lhQO/S8Ko0lDC7rE/m"
 }
