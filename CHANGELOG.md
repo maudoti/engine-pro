@@ -13,3 +13,6 @@ Editor do Registro e BitLocker restritos à equipe de TI
 
 ## 4.3.0 (2026-10-29, canal teste)
 Modo IA: diagnóstico inteligente, piloto automático e previsões. Y de espera menor.
+
+## 4.3.0 (2026-10-29, canal estavel)
+Modo IA: diagnóstico inteligente, piloto automático e previsões. Y de espera menor.
