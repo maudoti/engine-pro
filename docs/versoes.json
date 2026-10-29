@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "Versao":  "4.2.0",
+        "Data":  "2026-10-29 11:25",
+        "Notas":  "Primeira versÃ£o com atualizaÃ§Ã£o automÃ¡tica",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.2.0/EnginePro_Setup_4.2.0.exe"
+    }
+]
