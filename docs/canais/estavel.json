@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.2.0",
-    "Instalador":  "EnginePro_Setup_4.2.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.2.0/EnginePro_Setup_4.2.0.exe",
-    "SHA256":  "CEB39E9CC8B9829EE88D9F4559F8CADE62E814423A8143BFD79780A74DE3F491",
-    "Data":  "2026-10-29 11:25",
-    "Notas":  "Primeira versão com atualização automática",
-    "Assinatura":  "EvgYyECMe5BLGKAK4A1CL56DFiRLkMdweo489SfsEmUbk7r4DB5iqCBJk7vqKwT2w45xj3baJZlFirvYhVYnkzUF7iJWITZHOAiaL33Rv45KgzCmRtSMq6cW5aVuJGDNoyrLDGkLFKOGGmLYVR8cvKA26kufKA+4fZLO4+3yiY2RXvlO8d5S8TkmQSThHCiNmiqOxlkukeWwTulstRtXKdvbbyM0gQPxUcOR4Y44ApZvWIlGukh/xRLGt9cBedIbrxPpKje3wsu1XzFYsdS3F73FNmmyX0J+tUIYJIkmLyUGhKlmP1acYzZiIxykdwC9q7fpY3HSoyiuZHNwfAvmep0d9UWVA01ik8yKeXrPskRmr8/01OSqmdLHfmmtheGG2XCQCXndZy8zUBgfdM5AxfOJanwqzTVExnD0FPAYmlGG26n8whif+C86u6HMDrSmdqZAc6Nb6gu6KhJzh9wM6VSmsvUYLwBYeTT4PVkGL9AV+kuK016Yc18A/gPftLDe"
+    "Versao":  "4.2.2",
+    "Instalador":  "EnginePro_Setup_4.2.2.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.2.2/EnginePro_Setup_4.2.2.exe",
+    "SHA256":  "7766AA64736C9A1D1AB0DA18DA98180563C0C15301FB76DA10888800EE1C06D0",
+    "Data":  "2026-10-29 11:54",
+    "Notas":  "Editor do Registro e BitLocker restritos à equipe de TI",
+    "Assinatura":  "OHqrOZAeCqoHZm+m5W+iPQX3AlSzAnm6UELxK+lf7koIb/w/zfkticcRVOFuuWu7UPE5pp8rJ9Rx7bJKRQca9YzqkAU7c78L7kEM1ZIIuSpaBISuG8+BqJueL+Dt3NICWqK9TiDGIlqc9aG/UxrnldNxOTO7Kfml0FDujElB6AvLJK8AAiu4UCKYSBpkPMtpM0KgUfUcbaVvx9Wsrk/3Hh//GcAVGpZ/+Cc/P18xEtaC1r2W42IKyKoj/+RvNtXwqy0/Q1gdV4EfdPF8IcvXOEyo1WjN0/bUSIZeRIs0sG9zT7xtAZ65vU8MyJzMIQpH9kqeXT7AJmVbpNB1Ka8Bq9tsWaoLE/ToY9wIgoNd8NHF9aha6WP+yzt7kWrFDc2WJQ3dw4X65l106LeZCnZOCG4WyrkcgZorro2fq91Ay7sPKs8+EXVLKUWTJ07h5TY93xHkF2qsAgynrzicXnb632sR1BV8Y+dX4wkU1sjrqUbAo0txPMT9mHCDjjB6ZD+W"
 }

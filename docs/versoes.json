@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.2.2",
+        "Data":  "2026-10-29 11:54",
+        "Notas":  "Editor do Registro e BitLocker restritos à equipe de TI",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.2.2/EnginePro_Setup_4.2.2.exe"
+    },
+    {
         "Versao":  "4.2.1",
         "Data":  "2026-10-29 11:46",
         "Notas":  "Editor do Registro e BitLocker restritos à equipe de TI",

@@ -7,3 +7,6 @@ Primeira versão com atualização automática
 
 ## 4.2.1 (2026-10-29, canal teste)
 Editor do Registro e BitLocker restritos à equipe de TI
+
+## 4.2.2 (2026-10-29, canal estavel)
+Editor do Registro e BitLocker restritos à equipe de TI
