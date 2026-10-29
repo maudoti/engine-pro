@@ -2,6 +2,16 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.8 | Erros dentro de botões não fecham mais o Engine Pro | 29/10/2026
+
+- **Correção**: Erros dentro de botões não fecham mais o Engine Pro.
+- **Correção**: O relatório para a TI é salvo em Documentos quando a área de transferência está ocupada.
+- **Correção**: Respostas da IA sobre programas sem nome ou sem problemas.
+- **Correção**: Leitura das mensagens de erro do Office.
+- **Melhoria**: A varredura mostra os programas que mais usam memória com nomes amigáveis.
+- **Melhoria**: A IA na nuvem tenta de novo quando o Google está sobrecarregado e descobre sozinha os modelos disponíveis.
+- **Melhoria**: Sem resposta da nuvem, a IA oferece o que resolve sozinha.
+
 ## Versão 4.5.7 | O Engine Pro voltou a abrir em computadores com determina... | 29/10/2026
 
 - **Correção**: O Engine Pro voltou a abrir em computadores com determinadas cores de destaque do Windows.

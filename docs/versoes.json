@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.8",
+        "Data":  "2026-10-29 18:20",
+        "Notas":  "Correção: erros dentro de botões não fecham mais o Engine Pro; Correção: o relatório para a TI é salvo em Documentos quando a área de transferência está ocupada; Correção: respostas da IA sobre programas sem nome ou sem problemas; Correção: leitura das mensagens de erro do Office; Melhoria: a varredura mostra os programas que mais usam memória com nomes amigáveis; Melhoria: a IA na nuvem tenta de novo quando o Google está sobrecarregado e descobre sozinha os modelos disponíveis; Melhoria: sem resposta da nuvem, a IA oferece o que resolve sozinha",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.8/EnginePro_Setup_4.5.8.exe"
+    },
+    {
         "Versao":  "4.5.7",
         "Data":  "2026-10-29 18:13",
         "Notas":  "Correção: o Engine Pro voltou a abrir em computadores com determinadas cores de destaque do Windows; Melhoria: o Engine Pro passa a usar a cor de destaque do Windows de todos os computadores; Melhoria: erros em detalhes da tela são registrados sem impedir a abertura",

@@ -1,5 +1,40 @@
 [
     {
+        "Versao":  "4.5.8",
+        "Data":  "2026-10-29 18:20",
+        "Titulo":  "Erros dentro de botões não fecham mais o Engine Pro",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Erros dentro de botões não fecham mais o Engine Pro."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O relatório para a TI é salvo em Documentos quando a área de transferência está ocupada."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Respostas da IA sobre programas sem nome ou sem problemas."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Leitura das mensagens de erro do Office."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A varredura mostra os programas que mais usam memória com nomes amigáveis."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A IA na nuvem tenta de novo quando o Google está sobrecarregado e descobre sozinha os modelos disponíveis."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Sem resposta da nuvem, a IA oferece o que resolve sozinha."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.7",
         "Data":  "2026-10-29 18:13",
         "Titulo":  "O Engine Pro voltou a abrir em computadores com determina...",

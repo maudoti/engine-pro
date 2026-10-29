@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.7",
-    "Instalador":  "EnginePro_Setup_4.5.7.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.7/EnginePro_Setup_4.5.7.exe",
-    "SHA256":  "C0FC8C52820AF017788A7C35BDFE3C85303A4E4A906B7BFD82951C3BB548B7F9",
-    "Data":  "2026-10-29 18:13",
-    "Notas":  "Correção: o Engine Pro voltou a abrir em computadores com determinadas cores de destaque do Windows; Melhoria: o Engine Pro passa a usar a cor de destaque do Windows de todos os computadores; Melhoria: erros em detalhes da tela são registrados sem impedir a abertura",
-    "Assinatura":  "iL/60Ufovw8XXl3VhvzBQrkWyvK8qX6D17oI7r1OnNQ9r2yxYAPTn0GPTelf9ikLkT+F+zm0AaNkrYjw2RMGvLDGRviiTN32QRqE0yvRk8KHhkVAN/JxND7iIcSe7o4vHMePnjxtLrQdMRlc6kQ07K7DNyviVE1QWgJ1muV9S2MT+9jek2iHNiD4uZOJrRk8Sfs81or2C0kI06W8pQ+wSxgYz1yGfVMuh+OO8RX+vxMn75McDL81V4q7UfvF/7XhGFyiYqZ4tc2z+OlDANgF3Ey9M9vsV8CqT22R3sC4DlIQTfT4O4m0FN7vKg9QDAxIK1mtnfEFbg8iG2IKfQ1I48l7uDJncN5zzcLIIMFykIwQ0GTWj7Z2lAAL+bASeZugREnsSZAh9SKGdEEUNpA89cEzt19KU4Mk/O9kHOsulG0P/EZWgS0y0DcSBlZJJmXOL8pn2e7cXc6Mdf+ER3ORJPXdzmflw8PCs+ThLFUZoq8pKyPZgadWG4hIrui8B4dd"
+    "Versao":  "4.5.8",
+    "Instalador":  "EnginePro_Setup_4.5.8.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.8/EnginePro_Setup_4.5.8.exe",
+    "SHA256":  "A68E0A72502CF3E8A12B6D4463166600447C6A18FD83DDD3D434B5AD130ACF4D",
+    "Data":  "2026-10-29 18:20",
+    "Notas":  "Correção: erros dentro de botões não fecham mais o Engine Pro; Correção: o relatório para a TI é salvo em Documentos quando a área de transferência está ocupada; Correção: respostas da IA sobre programas sem nome ou sem problemas; Correção: leitura das mensagens de erro do Office; Melhoria: a varredura mostra os programas que mais usam memória com nomes amigáveis; Melhoria: a IA na nuvem tenta de novo quando o Google está sobrecarregado e descobre sozinha os modelos disponíveis; Melhoria: sem resposta da nuvem, a IA oferece o que resolve sozinha",
+    "Assinatura":  "PLbDUXOxsTmIQPcXaaA0539sfRDKzZBViyK8aNrffmZC8wvX9Ak4tRxRiSUWymJf1sydf1VyHtiEjiUYIIrV4N6VqPj8XL/OuCrjDzx9b0nCBOSv59phsCW1KZ1BNveR/JZ0lgCRkSoqVcYqsPMTrB0uaZ1l/kyiL3ASYv6e0N1bgTunGyS0BUd9otO+v0YZhd7cYl1h4LiQe5PHDZlcisYJMkH4iib75SkJ7bcP2Unn9h7ZybSIPumtl59Sfy0a8rm8jCkrtR6KDWf6EwifMBRxu3/dgF1UUtINb5W5ijOgHtC6N7vxVHb5AP4iYM2vW3BkpZMuvPnI/kZtEv81hfW76FAk+T6FBsx4LqrzGzq0fOQRjkfXQWSoqRoyme4rP1BnKcRqw7XjlRfgQm35xnKUztf4q7NxU4H1FsR/z6xnCrbIgcMtdSWnqnrZS3bMEO2uF0CJ+OsBiNnhp9dP3RpQyssd71+gu62ZIvSyVFbU9AnCELGtIJhMJA5h19f9"
 }
