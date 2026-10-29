@@ -1,9 +1,9 @@
 {
-  "Versao": "0.0.0",
-  "Instalador": "",
-  "Url": "",
-  "SHA256": "",
-  "Data": "",
-  "Notas": "Nenhuma versão publicada ainda.",
-  "Assinatura": ""
+    "Versao":  "4.2.1",
+    "Instalador":  "EnginePro_Setup_4.2.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.2.1/EnginePro_Setup_4.2.1.exe",
+    "SHA256":  "925D25F32FE90F8B3D440DDDDDEC67D2FF0486ED4CE16CBF0548617609E84FBB",
+    "Data":  "2026-10-29 11:46",
+    "Notas":  "Editor do Registro e BitLocker restritos à equipe de TI",
+    "Assinatura":  "ngz+I58jFanskAdWrnM8pA+FnUyPuLDfuWr3RImh0t64BQpqChzzINyga0t4yf9tyM7FTLR1KZNpOZS+2M1nLkxN++oGEn1B8PQZcMph4UtiCBGa0Upvwe/6Gu9LqV0ZgBXGw3L5CrtmSkW52RIPGjm6HtbbEKV4YTAD4SFsQWprAguZh45D3tBeqmbThJZVXaYOPYyQWkzUoyEmOwey7OeE1Br3YEISVRPjhqUbKflWjIrQTMy135DUFZuGnYDwLDTc+c9fJ3kUlxH64ewYEwza7HEHRsYnFkrT6zPeWXS/OCZzYluzAXoic6S0dS5dGel18/UTn0vwenL8x4TB+4S1zzaMmZ5eDqXm084FPihsm/SJH/2WDKljkyum2ffiGQfPr8s4FM/3ZdO2ZCbW10D5HH5rpXFIeVqXR9eNg7eJ1A8+7Mf+ewrHsYWXwDAvE8J5gcCBfufxDNYe8eo3wxcxlgyJcYwVqRVI8uiOV2uHiRkAboc40ns5RI8amQZO"
 }
