@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.13",
+        "Data":  "2026-10-29 18:46",
+        "Titulo":  "A IA na nuvem funciona com os modelos mais novos do Googl...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A IA na nuvem funciona com os modelos mais novos do Google e começa pelo modelo mais rápido."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O registro da IA na nuvem mostra todas as tentativas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A resposta da nuvem aparece logo abaixo da pergunta, antes do resumo da varredura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.12",
         "Data":  "2026-10-29 18:38",
         "Titulo":  "A consulta à IA na nuvem tem limite de tempo e não fica m...",

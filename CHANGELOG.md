@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.13 | A IA na nuvem funciona com os modelos mais novos do Googl... | 29/10/2026
+
+- **Correção**: A IA na nuvem funciona com os modelos mais novos do Google e começa pelo modelo mais rápido.
+- **Melhoria**: O registro da IA na nuvem mostra todas as tentativas.
+- **Melhoria**: A resposta da nuvem aparece logo abaixo da pergunta, antes do resumo da varredura.
+
 ## Versão 4.5.12 | A consulta à IA na nuvem tem limite de tempo e não fica m... | 29/10/2026
 
 - **Correção**: A consulta à IA na nuvem tem limite de tempo e não fica mais presa com a internet lenta.

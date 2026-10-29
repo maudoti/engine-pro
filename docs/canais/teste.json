@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.12",
-    "Instalador":  "EnginePro_Setup_4.5.12.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.12/EnginePro_Setup_4.5.12.exe",
-    "SHA256":  "B5ABADE7F0D10C034E89299FEC912E6F8CFD46978F220A78209554001C57C574",
-    "Data":  "2026-10-29 18:38",
-    "Notas":  "Correção: a consulta à IA na nuvem tem limite de tempo e não fica mais presa com a internet lenta; Melhoria: a conversa continua liberada enquanto a nuvem responde",
-    "Assinatura":  "TcrzRpH403Bq3x3rlv6FelCFm92KxdbTf8t4IXx+oWLpILz+b//nS3UEyzITzchVBVlfooqTAEoY+Dcf72DBc42S+Z34IBGV91kOJALau4pfY1Q43qkqG9pN3Hb2P4UINSYoamUJAmKO3JB2MYkWQ4AZ4wmizyQGe44DiHqBbyOktERnebea0JnY97ayapRKw1oAEgE+lm0esqfOVGbFav14XWTWH92Ptfx3gqexMTqZ4eFlFGBqmHEjjBRwzkyEEqybF50j0n1JMI3PFkAQTGH8rVDnerVjpe4hyR98bX3TIb8vRgWcjDItW7o5Ifn8kIV/ik0V9O7esEM3hyCgEkbkPcMDME5vEP5eAC5CY1oIDutYTl/a2fo17u1yrimx6iUaTKc1iVfrCgTQcj+KAGvaV4Wnh0xOEultBi55M/McfEA5BLS3kONhtIuv/PpKdD2OVrIfYp5OpfWHsGMcNWJwBCeZ0qrsy4fqX4j7Z/y6EKUnjygTxzF3tvsz4R4V"
+    "Versao":  "4.5.13",
+    "Instalador":  "EnginePro_Setup_4.5.13.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.13/EnginePro_Setup_4.5.13.exe",
+    "SHA256":  "99DD659B249ABBCFD792A4C1DA653B4DFB914C45D1A00EB538B4809C402F4AEF",
+    "Data":  "2026-10-29 18:46",
+    "Notas":  "Correção: a IA na nuvem funciona com os modelos mais novos do Google e começa pelo modelo mais rápido; Melhoria: o registro da IA na nuvem mostra todas as tentativas; Melhoria: a resposta da nuvem aparece logo abaixo da pergunta, antes do resumo da varredura",
+    "Assinatura":  "MdIdbKZAL08uBoVhQvy5ZgaU8ahrQJpIs9ybdlIJvHI9/855sUKs1vTqIXPBh0l+BXJTNnvkwpJBwCR4W6YTwO2LH5rXe+jLPUb2HQOx4MOdOOh+ycIxEtLU+p2WNc8dyXueaB1RGDTo52k9nHlzRJA5+uSqqjwnMwdmkv3c2DAP+Oactus4bIyfjXzLp5Cuvuokmb06s8o3jHa1BAklgXCJDvfGTzebhijaAy9LN2zEU46plwaU+nKF3lW9c7Gz9APUSqE7VQmKmhAD+O4+7YJHMU6dVed94QYwd/Ajuejcj6Yi0GBys/w+K4yHcHhjX7BPUMbAMRhKNsLPt6tG102IEto3Y/nc1mypd2JqD6672guXx+T3Z5QBibHy2hQKVeZV7aqEnk8buQqhy4CnAoVLHpSoI3xfGpzU3qF769CYq6+F8ejzDX13L++BLPis3Q2HgkOY2eYJb7GQvvOqvN+SqTo8WTleRuLk8P/7C4Dlq8/EdwTfiGYbIjDG6atf"
 }
