@@ -139,7 +139,7 @@
   function texto(id, valor) { document.getElementById(id).textContent = valor; }
   function dataBr(d) { if (!d) return ''; var p = d.split(' ')[0].split('-'); return p.length === 3 ? p[2] + '/' + p[1] + '/' + p[0] : d; }
 
-  fetch('canais/estavel.json', { cache: 'no-store' })
+  fetch('canais/estavel.json?t=' + Date.now(), { cache: 'no-store' })
     .then(function (r) { return r.json(); })
     .then(function (v) {
       if (!v.Url) { texto('versao', '—'); texto('meta', 'Nenhuma versão publicada ainda.'); return; }
@@ -189,8 +189,8 @@
     });
   });
   Promise.all([
-    fetch('historico.json', { cache: 'no-store' }).then(function (r) { return r.json(); }),
-    fetch('versoes.json', { cache: 'no-store' }).then(function (r) { return r.json(); }).catch(function () { return []; })
+    fetch('historico.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.json(); }),
+    fetch('versoes.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.json(); }).catch(function () { return []; })
   ]).then(function (res) {
     historico = res[0]; publicacoes = res[1];
     var versoes = historico.filter(function (v) { return v.Versao !== '0.0'; }).length;
