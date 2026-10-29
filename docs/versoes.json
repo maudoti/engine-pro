@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.3.2",
+        "Data":  "2026-10-29 13:33",
+        "Notas":  "Y girando como moeda e verificação de atualização sem atraso",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.2/EnginePro_Setup_4.3.2.exe"
+    },
+    {
         "Versao":  "4.3.1",
         "Data":  "2026-10-29 13:27",
         "Notas":  "Verificação de atualização sem atraso",

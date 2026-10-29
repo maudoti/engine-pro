@@ -19,3 +19,6 @@ Modo IA: diagnóstico inteligente, piloto automático e previsões. Y de espera 
 
 ## 4.3.1 (2026-10-29, canal estavel)
 Verificação de atualização sem atraso
+
+## 4.3.2 (2026-10-29, canal estavel)
+Y girando como moeda e verificação de atualização sem atraso
