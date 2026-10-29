@@ -11,18 +11,6 @@
                       {
                           "Tipo":  "novo",
                           "Texto":  "Verificação e correção automática de mapeamentos quebrados ou com defeito."
-                      },
-                      {
-                          "Tipo":  "melhoria",
-                          "Texto":  "Reparo de impressoras com limpeza completa da fila em dois ciclos."
-                      },
-                      {
-                          "Tipo":  "melhoria",
-                          "Texto":  "Registro de cada atualização automática."
-                      },
-                      {
-                          "Tipo":  "correcao",
-                          "Texto":  "Previsão de espaço em disco do Modo IA."
                       }
                   ]
     },

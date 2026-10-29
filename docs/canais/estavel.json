@@ -4,6 +4,6 @@
     "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.4.0/EnginePro_Setup_4.4.0.exe",
     "SHA256":  "897E221868EE9A39FAA8B513AE838CF0DA3205E191EF2208DD0F32856C1E56B2",
     "Data":  "2026-10-29 14:51",
-    "Notas":  "Novo: mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade; Novo: verificação e correção automática de mapeamentos quebrados ou com defeito; Melhoria: reparo de impressoras com limpeza completa da fila em dois ciclos; Melhoria: registro de cada atualização automática; Correção: previsão de espaço em disco do Modo IA",
+    "Notas":  "Novo: mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade; Novo: verificação e correção automática de mapeamentos quebrados ou com defeito",
     "Assinatura":  "VTuzgIzGadHJDMrJLAEh+IwCxMtvwxUJPI7f7m7/FEMcY9nfORTJ3Uv1R/JqM4CUqjDUgKf314+JFEmAqc14TM8/XFJl7CBkQyDzBUU94rHsgkAqEo955MFovTfXFjnbHRyh9FBC49fztk8/Q+u2py1ouqHDdnDvBVC+/yBNDIZcS0/+9fNvXz+JFUNCC2uWCVyFYUHfytKgML/0Y+pMzZQ7fTe/EdyhT9paABLUXvDwdv9BITshrkyziNjFuWPvgShtInHdeMLcxW13+4ANnH5lvA6rbq3O7hSm/QHeSzFlW/kOPkxjoa5sZLkPsctWGx4QeQ41O8FuP3FDDUPj/PZcL7FzX4tYa/LVVvrS9SUNqUPwpR9Sjv9LA1MrwlPQrQawfiyknlgMcHmGPzxkc9s8XmWZcvUKfNIL1hBk9NGxBvU572aKyWeEI/NKupLEeonb7jBWrkc/zLSp8FKo/1WDKhGr+EseW3gJE6jZh8a8BIaMaevf7REVwAEWu3x3"
 }

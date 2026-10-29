@@ -49,6 +49,8 @@
   }
   .botao:hover { transform: translateY(-1px); box-shadow: 0 10px 28px rgba(60, 60, 220, .45); }
   .botao[aria-disabled="true"] { opacity: .45; pointer-events: none; }
+  .novidades { list-style: none; padding: 0; margin: 12px 0 0; }
+  .novidades li { display: flex; gap: 10px; align-items: flex-start; padding: 4px 0; font-size: 14.5px; }
   .selo { display: inline-block; font-size: 12px; font-weight: 600; border-radius: 20px; padding: 3px 10px; background: rgba(15,123,15,.12); color: var(--ok); margin-left: 4px; vertical-align: middle; }
   h3 { font-size: 20px; font-weight: 600; margin: 40px 4px 14px; }
   .grade { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
@@ -103,6 +105,7 @@
       <div class="info">
         <h2 id="titulo-baixar">Versão <span id="versao">...</span> <span class="selo">Estável</span></h2>
         <div class="meta" id="meta">Carregando informações da versão...</div>
+        <ul class="novidades" id="novidades"></ul>
       </div>
       <a class="botao" id="baixar" href="#" aria-disabled="true">⬇&nbsp; Baixar o instalador</a>
     </section>
@@ -136,22 +139,45 @@
   <footer>Desenvolvido por Mau do TI</footer>
 
 <script>
+  var NOMES = { novo: 'Novo', melhoria: 'Melhoria', correcao: 'Correção' };
   function texto(id, valor) { document.getElementById(id).textContent = valor; }
   function dataBr(d) { if (!d) return ''; var p = d.split(' ')[0].split('-'); return p.length === 3 ? p[2] + '/' + p[1] + '/' + p[0] : d; }
 
+  // Itens de uma versão: do histórico completo ou, se faltar, das notas ("Novo: x; Correção: y")
+  function itensDasNotas(notas) {
+    return (notas || '').split(';').map(function (s) { return s.trim(); }).filter(Boolean).map(function (s) {
+      var m = s.match(/^(novo|nova|novidade|melhoria|corre[çc][ãa]o|corrigido)\s*:\s*(.+)$/i), tipo = 'melhoria';
+      if (m) { tipo = /^nov/i.test(m[1]) ? 'novo' : (/^melh/i.test(m[1]) ? 'melhoria' : 'correcao'); s = m[2]; }
+      s = s.charAt(0).toUpperCase() + s.slice(1); if (!/[.!?]$/.test(s)) s += '.';
+      return { Tipo: tipo, Texto: s };
+    });
+  }
+  var versaoAtual = null, historicoCarregado = null;
+  function desenharAtual() {
+    var v = versaoAtual; if (!v) return;
+    var ul = document.getElementById('novidades'); ul.innerHTML = '';
+    var h = (historicoCarregado || []).filter(function (x) { return x.Versao === v.Versao; })[0];
+    var itens = h ? h.Itens : itensDasNotas(v.Notas);
+    texto('meta', 'Publicada em ' + dataBr(v.Data) + (itens.length ? '. O que mudou:' : '.'));
+    itens.forEach(function (i) {
+      var li = document.createElement('li');
+      var tg = document.createElement('span'); tg.className = 'tag ' + i.Tipo; tg.textContent = NOMES[i.Tipo] || i.Tipo;
+      var tx = document.createElement('span'); tx.textContent = i.Texto;
+      li.appendChild(tg); li.appendChild(tx); ul.appendChild(li);
+    });
+  }
   fetch('canais/estavel.json?t=' + Date.now(), { cache: 'no-store' })
     .then(function (r) { return r.json(); })
     .then(function (v) {
       if (!v.Url) { texto('versao', '—'); texto('meta', 'Nenhuma versão publicada ainda.'); return; }
       texto('versao', v.Versao);
-      texto('meta', 'Publicada em ' + dataBr(v.Data) + (v.Notas ? '  ·  ' + v.Notas : ''));
       var b = document.getElementById('baixar');
       b.href = v.Url; b.setAttribute('aria-disabled', 'false');
       texto('silencioso', v.Instalador + ' /VERYSILENT /SUPPRESSMSGBOXES /NORESTART');
+      versaoAtual = v; desenharAtual();
     })
     .catch(function () { texto('meta', 'Não foi possível carregar a versão agora.'); });
 
-  var NOMES = { novo: 'Novo', melhoria: 'Melhoria', correcao: 'Correção' };
   var historico = [], publicacoes = [], filtro = 'todos';
   function dataHora(d) { if (!d) return ''; var p = d.split(' '); return dataBr(p[0]) + (p[1] ? ' às ' + p[1] : ''); }
   function desenhar() {
@@ -193,6 +219,7 @@
     fetch('versoes.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.json(); }).catch(function () { return []; })
   ]).then(function (res) {
     historico = res[0]; publicacoes = res[1];
+    historicoCarregado = historico; desenharAtual();
     var versoes = historico.filter(function (v) { return v.Versao !== '0.0'; }).length;
     var mudancas = historico.reduce(function (s, v) { return s + (v.Itens || []).length; }, 0);
     var inicio = historico.length ? dataBr(historico[historico.length - 1].Data.split(' ')[0]) : '';

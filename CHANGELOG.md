@@ -6,9 +6,6 @@ Todas as versões, da mais recente à primeira, com cada novidade, melhoria e co
 
 - **Novo**: Mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade.
 - **Novo**: Verificação e correção automática de mapeamentos quebrados ou com defeito.
-- **Melhoria**: Reparo de impressoras com limpeza completa da fila em dois ciclos.
-- **Melhoria**: Registro de cada atualização automática.
-- **Correção**: Previsão de espaço em disco do Modo IA.
 
 ## Versão 4.3.5 | Reparo de impressoras com limpeza completa da fila (arqui... | 29/10/2026
 
