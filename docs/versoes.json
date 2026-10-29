@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.17",
+        "Data":  "2026-10-29 20:12",
+        "Notas":  "Novo: a IA identifica o que atrasa a inicialização e o login (serviços, drivers, dispositivos, políticas do domínio e unidades de rede) e explica o que fazer com cada causa; Correção: perguntas com a palavra tempo não são mais confundidas com o clima",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.17/EnginePro_Setup_4.5.17.exe"
+    },
+    {
         "Versao":  "4.5.16",
         "Data":  "2026-10-29 19:48",
         "Notas":  "Correção: avisos e problemas corrigidos pelo botão saem da lista ao fim da correção; Correção: a análise automática do Modo IA lê as configurações do usuário certo e não recria avisos já resolvidos",

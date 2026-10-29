@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.17",
+        "Data":  "2026-10-29 20:12",
+        "Titulo":  "A IA identifica o que atrasa a inicialização e o login (s...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA identifica o que atrasa a inicialização e o login (serviços, drivers, dispositivos, políticas do domínio e unidades de rede) e explica o que fazer com cada causa."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Perguntas com a palavra tempo não são mais confundidas com o clima."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.16",
         "Data":  "2026-10-29 19:44",
         "Titulo":  "Avisos e problemas corrigidos pelo botão saem da lista ao...",

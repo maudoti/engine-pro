@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.17 | A IA identifica o que atrasa a inicialização e o login (s... | 29/10/2026
+
+- **Novo**: A IA identifica o que atrasa a inicialização e o login (serviços, drivers, dispositivos, políticas do domínio e unidades de rede) e explica o que fazer com cada causa.
+- **Correção**: Perguntas com a palavra tempo não são mais confundidas com o clima.
+
 ## Versão 4.5.16 | Avisos e problemas corrigidos pelo botão saem da lista ao... | 29/10/2026
 
 - **Correção**: Avisos e problemas corrigidos pelo botão saem da lista ao fim da correção.
