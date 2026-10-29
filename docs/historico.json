@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.5",
+        "Data":  "2026-10-29 17:56",
+        "Titulo":  "A IA diferencia problemas, perguntas de versão e dúvidas ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A IA diferencia problemas, perguntas de versão e dúvidas de uso sobre Revit e AutoCAD."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA mostra as versões do Revit e do AutoCAD instaladas no computador."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A IA entende perguntas com erros de digitação."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.4",
         "Data":  "2026-10-29 17:51",
         "Titulo":  "A IA responde sobre Revit e AutoCAD cruzando com a memóri...",

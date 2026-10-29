@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.5",
+        "Data":  "2026-10-29 17:56",
+        "Notas":  "Melhoria: a IA diferencia problemas, perguntas de versão e dúvidas de uso sobre Revit e AutoCAD; Novo: a IA mostra as versões do Revit e do AutoCAD instaladas no computador; Melhoria: a IA entende perguntas com erros de digitação",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.5/EnginePro_Setup_4.5.5.exe"
+    },
+    {
         "Versao":  "4.5.4",
         "Data":  "2026-10-29 17:51",
         "Notas":  "Novo: a IA responde sobre Revit e AutoCAD cruzando com a memória, a placa de vídeo e o uso do computador; Novo: reparo para limpar o cache do Revit com segurança, sem tocar nos modelos na nuvem; Correção: a IA na nuvem passa para outro modelo quando o principal está sobrecarregado; Correção: textos com acentuação quebrada gravados por versões anteriores aparecem corretos",

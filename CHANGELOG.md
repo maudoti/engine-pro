@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.5 | A IA diferencia problemas, perguntas de versão e dúvidas ... | 29/10/2026
+
+- **Melhoria**: A IA diferencia problemas, perguntas de versão e dúvidas de uso sobre Revit e AutoCAD.
+- **Novo**: A IA mostra as versões do Revit e do AutoCAD instaladas no computador.
+- **Melhoria**: A IA entende perguntas com erros de digitação.
+
 ## Versão 4.5.4 | A IA responde sobre Revit e AutoCAD cruzando com a memóri... | 29/10/2026
 
 - **Novo**: A IA responde sobre Revit e AutoCAD cruzando com a memória, a placa de vídeo e o uso do computador.
