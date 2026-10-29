@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.4.1",
-    "Instalador":  "EnginePro_Setup_4.4.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.4.1/EnginePro_Setup_4.4.1.exe",
-    "SHA256":  "1CECD99CEF3F422A378F60225BFD92748F58BD13AD7E6429783B145D3B0066B5",
-    "Data":  "2026-10-29 15:20",
-    "Notas":  "Melhoria: nova página Rede e pastas, separando o mapeamento das pastas do escritório e os reparos de rede dos reparos de limpeza e manutenção; Melhoria: aviso Somente no Escritório e verificação automática da conexão com o servidor, com o botão desativado nas Obras",
-    "Assinatura":  "JXoc6xIbyojz5m37cHrIwDqeiuXJn0NGszbMmgO1OVZvKwIqp0/WY7tVCWFmbAUblQvt3cEsp5hAcFLJbCSng222fxnj9Enk97RmLMd5W3zW2NJL1p3xwUw2H+SWRKyT4LJEBdCno7zt4FyvBn6byJnLieIfbuQE9rnVTEBTm03WqK/dAf6a65nFn88YDstUQEwtvUqRJnU9Cri1YkXJCF5ExqYXO3/wCy6YSRVxkEBjuTHL0Tllo7izqVuIF3YjATVuM0RjMzXF0mO90tMzu9XDdIhEdY3bWdGH/VJ8CN8m7iLrNCu5k85b5RPCncGskhqMKkU5e4EmeEB76fElQTZEl2nMkiwtZo6TAX9RvCbFHGwRg72bjemZHnix/T/WCG6uHd6EtXCLC4qgxvlk9DjPH8FXbQr+3+QoycRMaJB+RRLECY6luAVWQAjyJkVLa8fZF8rvLForU4HLk3BWr8h71xpl1r5Hc5R3z7rwSitts8xM/IwyUy4WsJF58G3j"
+    "Versao":  "4.5.15",
+    "Instalador":  "EnginePro_Setup_4.5.15.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.15/EnginePro_Setup_4.5.15.exe",
+    "SHA256":  "A585BA3D7AF6097E00AAC159702B80B2C5233D0D66C875CDC71CA2752D3835FF",
+    "Data":  "2026-10-29 18:59",
+    "Notas":  "Novo: a IA consulta o catálogo de programas do Windows (winget) para dizer a versão mais recente de cada programa e oferece atualizar só aquele programa; Correção: espaços extras nos nomes e versões de programas",
+    "Assinatura":  "MDd/t00GQWSRKZuUx+trtsFBxxxRSY8EkBh01J8hfNrFCkIkMBFIbaea8Vh4dUufblYQP6U1tpAs/uJRzO8HSrP4+Tw9SaioftOmquG5KhAfwZ8sWZAyD7D6kS47jqvd7zNLr/xZCiOiae4XDp8Yj/jSGvEFio12GVxzshV3qYqF6Ku2qvbNzhLJWaNiJn4j4faAQWbZVjm7DwyXU3IpEDEjPcQf2/XjNPy/PSyTPk4hcQXwMW2/cllG1HIR2f6Ds+T0rzoL2A9nQv/LE5AtJKXss53Ec9NgGy9WPAvWvG6bA/8LyUI2HRb48IbwuXUt131kq1+UKj0FXBKUp2uN1DTcMzgfhWk22cFIFp0ufSIK4qaZBr8mqPPvYRwI8lKuyAUR7gADBx6VzfYu9MBFaThN+Rx8i+MdFkmg63zo0AF3oQ3jlRZa1rpTfVlCoJ5t9mRgj9vr3mq5aQATip/qCF1u02tWAI0kWVUtFKE6AjdgSrp4SlS1dAePGckLb61Q"
 }

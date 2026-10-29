@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.5.15",
+        "Data":  "2026-10-29 19:07",
+        "Notas":  "Novo: a IA consulta o catálogo de programas do Windows (winget) para dizer a versão mais recente de cada programa e oferece atualizar só aquele programa; Correção: espaços extras nos nomes e versões de programas",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.15/EnginePro_Setup_4.5.15.exe"
+    },
+    {
+        "Versao":  "4.5.15",
         "Data":  "2026-10-29 18:59",
         "Notas":  "Novo: a IA consulta o catálogo de programas do Windows (winget) para dizer a versão mais recente de cada programa e oferece atualizar só aquele programa; Correção: espaços extras nos nomes e versões de programas",
         "Canal":  "teste",
