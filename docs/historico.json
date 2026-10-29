@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.20",
+        "Data":  "2026-10-29 20:54",
+        "Titulo":  "Reparo Acelerar a inicialização, que adia serviços que po...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Reparo Acelerar a inicialização, que adia serviços que podem esperar e o serviço de impressão, tira programas dispensáveis da inicialização e limpa temporários."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O aviso de inicialização lenta sempre tem o botão Corrigir."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Subprogramas são ligados ao serviço que os inicia."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Tempo de cada parte das políticas do domínio no login e detecção da espera pela rede."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.19",
         "Data":  "2026-10-29 20:39",
         "Titulo":  "Seção Desempenho em Reparos, com o que mais usa processad...",

@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.20 | Reparo Acelerar a inicialização, que adia serviços que po... | 29/10/2026
+
+- **Novo**: Reparo Acelerar a inicialização, que adia serviços que podem esperar e o serviço de impressão, tira programas dispensáveis da inicialização e limpa temporários.
+- **Melhoria**: O aviso de inicialização lenta sempre tem o botão Corrigir.
+- **Melhoria**: Subprogramas são ligados ao serviço que os inicia.
+- **Novo**: Tempo de cada parte das políticas do domínio no login e detecção da espera pela rede.
+
 ## Versão 4.5.19 | Seção Desempenho em Reparos, com o que mais usa processad... | 29/10/2026
 
 - **Novo**: Seção Desempenho em Reparos, com o que mais usa processador, memória e disco, os fatores de lentidão e os programas que podem sair da inicialização.
