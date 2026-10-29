@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.12 | A consulta à IA na nuvem tem limite de tempo e não fica m... | 29/10/2026
+
+- **Correção**: A consulta à IA na nuvem tem limite de tempo e não fica mais presa com a internet lenta.
+- **Melhoria**: A conversa continua liberada enquanto a nuvem responde.
+
 ## Versão 4.5.11 | A resposta da nuvem aparece logo abaixo da pergunta | 29/10/2026
 
 - **Correção**: A resposta da nuvem aparece logo abaixo da pergunta.

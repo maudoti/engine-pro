@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.12",
+        "Data":  "2026-10-29 18:38",
+        "Titulo":  "A consulta à IA na nuvem tem limite de tempo e não fica m...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A consulta à IA na nuvem tem limite de tempo e não fica mais presa com a internet lenta."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A conversa continua liberada enquanto a nuvem responde."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.11",
         "Data":  "2026-10-29 18:32",
         "Titulo":  "A resposta da nuvem aparece logo abaixo da pergunta",
