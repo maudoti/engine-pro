@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.3",
-    "Instalador":  "EnginePro_Setup_4.5.3.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.3/EnginePro_Setup_4.5.3.exe",
-    "SHA256":  "7934210313AFE5799D03C9B6D9B8E9AC0E0488096F53C1DCF807B7D0AA55BBB1",
-    "Data":  "2026-10-29 17:43",
-    "Notas":  "Novo: a IA avalia a configuração do computador para Office, AutoCAD e Revit e indica as melhorias de maior impacto; Melhoria: a IA na nuvem troca sozinha de modelo quando o Google aposenta um e mostra mensagens claras para cada tipo de falha; Melhoria: o erro real da IA na nuvem aparece no modo técnico e fica registrado",
-    "Assinatura":  "Z8BFkrsb+e0Xe+jLgF6JBE8Y2uP4dy5z6TukMyyr2Yjxqp0fiTwhnBEPLyUHBlpoRo5yHZy302UgL6poU9tz6CTyKC4nl2YR5SAkxsvtPm5nWbN0flHfeIlR4t11xZseiChGTjHe+DhgU++rlLB3kmhImW7PVCYyL5rOqIaOfEvM7DpK1XinyfZC0Dg9nS3dM33XUKX3Nc0zATPqwml8VpkY47L+mXfF732LptxiyN9+gtTyDwTMY8BRgnGD6qTVUHUeCmUtiOE7mLx/6/iyMCKEqueJqq2FAD1++OXJPoOe/qc54TodLUnuSo5exPgbjqc+hFA3x5cfMapMeXjndkHXZEWrArFVtDedRfSPk77f3ojEr5s2NmHy74D+yqIUC3Kq9KAQPP1HhSwOXCaIsCjQ0pMUrBx2mtLFXf3QEhceUJ8Tf85YdU9//9rlApQJ1mWJaUbDSMC9VGIPG8pyZtiKnfZnPgqecXbrqkodk6FKJ9CPjrfE01Nx6loe2RAi"
+    "Versao":  "4.5.4",
+    "Instalador":  "EnginePro_Setup_4.5.4.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.4/EnginePro_Setup_4.5.4.exe",
+    "SHA256":  "FA9FEAC4C1E605E0D8A02BC4B0C72EE183A962D4BEE03EEA8B721B23BF4B97EE",
+    "Data":  "2026-10-29 17:51",
+    "Notas":  "Novo: a IA responde sobre Revit e AutoCAD cruzando com a memória, a placa de vídeo e o uso do computador; Novo: reparo para limpar o cache do Revit com segurança, sem tocar nos modelos na nuvem; Correção: a IA na nuvem passa para outro modelo quando o principal está sobrecarregado; Correção: textos com acentuação quebrada gravados por versões anteriores aparecem corretos",
+    "Assinatura":  "gz8Lo6X1lWzdau+IW1VTaGkscvyOxvCfAEoS7aucPUltSYsi5LigP4YCzIFrnPhOD41TjK21BBuLaYXRauOcRmz2+C/A9gNccVT1PsdlOi1ZjPAm+rCVP8sam09rG/oadgXRA+fCtdiy/+dbN1iHvdH0bGcbSm645Cvh6H19V2DzeqR7Eb8amICw91kneALZVgx6/LgrlGOx9O/bft7brI2cn6YkJtFOrAcac++gsJ2OzO/jtx1m9oD5pc3H0jWCmwSsyzCCSI7ss2wuGET9k6J6Cyr9zeqTO8ooaxJ2YakKEQ1cluU0VkjAdTMo3NmWRtWRbJ5Dng/o5ZsqGw1I2UUVKDkUBBGP4iZa/kPBxRD/u7skLUPy/EIqh73DOAmnf3uCTrE7+IRjsoskPT/knl8z4hfjfqHWr5B5Gyu5+8pfTanE1Q454lG2K2VI7LzbgkZGChRLRg9HbgsZ+btl6G1z1tb8WD6FaeAolVBUnq7EHKc357P1oKWyXUDZf2tI"
 }

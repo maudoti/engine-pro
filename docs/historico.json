@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.4",
+        "Data":  "2026-10-29 17:51",
+        "Titulo":  "A IA responde sobre Revit e AutoCAD cruzando com a memóri...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA responde sobre Revit e AutoCAD cruzando com a memória, a placa de vídeo e o uso do computador."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Reparo para limpar o cache do Revit com segurança, sem tocar nos modelos na nuvem."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A IA na nuvem passa para outro modelo quando o principal está sobrecarregado."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Textos com acentuação quebrada gravados por versões anteriores aparecem corretos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.3",
         "Data":  "2026-10-29 17:43",
         "Titulo":  "A IA avalia a configuração do computador para Office, Aut...",

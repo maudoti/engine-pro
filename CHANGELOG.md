@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.4 | A IA responde sobre Revit e AutoCAD cruzando com a memóri... | 29/10/2026
+
+- **Novo**: A IA responde sobre Revit e AutoCAD cruzando com a memória, a placa de vídeo e o uso do computador.
+- **Novo**: Reparo para limpar o cache do Revit com segurança, sem tocar nos modelos na nuvem.
+- **Correção**: A IA na nuvem passa para outro modelo quando o principal está sobrecarregado.
+- **Correção**: Textos com acentuação quebrada gravados por versões anteriores aparecem corretos.
+
 ## Versão 4.5.3 | A IA avalia a configuração do computador para Office, Aut... | 29/10/2026
 
 - **Novo**: A IA avalia a configuração do computador para Office, AutoCAD e Revit e indica as melhorias de maior impacto.
