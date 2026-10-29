@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.2",
+        "Data":  "2026-10-29 17:33",
+        "Notas":  "Melhoria: página Modo IA reorganizada, com a conversa em primeiro lugar, saúde do computador compacta e seções que abrem com um clique; Melhoria: um único indicador de espera durante a análise; Correção: acentos nos textos do diagnóstico, da tela de execução e dos registros; Correção: a chave da IA na nuvem chega às estações em poucos minutos; Melhoria: o campo de chave do modo técnico fica escondido quando a chave vem da TI",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.2/EnginePro_Setup_4.5.2.exe"
+    },
+    {
         "Versao":  "4.5.1",
         "Data":  "2026-10-29 17:20",
         "Notas":  "Correção: acentos nas informações de internet e clima; Melhoria: o clima saiu da tela inicial e virou um indicador discreto no menu lateral, com os detalhes ao passar o mouse",

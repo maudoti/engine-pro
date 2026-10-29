@@ -2,6 +2,14 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.2 | Página Modo IA reorganizada, com a conversa em primeiro l... | 29/10/2026
+
+- **Melhoria**: Página Modo IA reorganizada, com a conversa em primeiro lugar, saúde do computador compacta e seções que abrem com um clique.
+- **Melhoria**: Um único indicador de espera durante a análise.
+- **Correção**: Acentos nos textos do diagnóstico, da tela de execução e dos registros.
+- **Correção**: A chave da IA na nuvem chega às estações em poucos minutos.
+- **Melhoria**: O campo de chave do modo técnico fica escondido quando a chave vem da TI.
+
 ## Versão 4.5.1 | Acentos nas informações de internet e clima | 29/10/2026
 
 - **Correção**: Acentos nas informações de internet e clima.

@@ -1,5 +1,32 @@
 [
     {
+        "Versao":  "4.5.2",
+        "Data":  "2026-10-29 17:33",
+        "Titulo":  "Página Modo IA reorganizada, com a conversa em primeiro l...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Página Modo IA reorganizada, com a conversa em primeiro lugar, saúde do computador compacta e seções que abrem com um clique."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Um único indicador de espera durante a análise."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Acentos nos textos do diagnóstico, da tela de execução e dos registros."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A chave da IA na nuvem chega às estações em poucos minutos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O campo de chave do modo técnico fica escondido quando a chave vem da TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.1",
         "Data":  "2026-10-29 17:20",
         "Titulo":  "Acentos nas informações de internet e clima",

@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.1",
-    "Instalador":  "EnginePro_Setup_4.5.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.1/EnginePro_Setup_4.5.1.exe",
-    "SHA256":  "A66146346514BA1FE980302BB4DD9874A866742D54C7D8DDCAA9036F9226AC3D",
-    "Data":  "2026-10-29 17:20",
-    "Notas":  "Correção: acentos nas informações de internet e clima; Melhoria: o clima saiu da tela inicial e virou um indicador discreto no menu lateral, com os detalhes ao passar o mouse",
-    "Assinatura":  "XYasBwAfybvaB7AZNPZ9/NWea0DKzYGuU2BU5VPtXdYqNqCYYYPuHNdkRAPxcvueusKg/hmc5Hn/Fmg9hsLxwyYSOM/OhVWTQyBnmrVxY8XSymsdvcqswYXA/gIx99M0eNYuj9ymh3yviA4uI0+EwZsvfr5gaZk7tzAwrwJ2lHU1lKGhHLHHxbYGrKpC3fAacxh7oaG0t1F8kw3/2QUJw9oSjMFrSyblKw6Lg4azNhdoJceRqp6IQMQNiPgQrGjS+v+2YB2QOKeJBWnhz3W5r+7AE4P2VEMrW7uxNLSfpqPCBgCavck1oJZEy40ZMOzB+hdiayZSbqRAvdjS0Ck+yDfMhSxAaA3038NOw2dqKMHZVj2RlFKlFfop6Z8KdgfsCIRtQh8uCIFvk9YezObMBwGnMoE27s4HTUehiCq+59fcx5u30Z62HBtu6s6YK30kJwmtXvdDO4dS600flClCK4qyTuijRPsxYnjwyo9BdqIb7r0ZjHUashJMKp3dcfQU"
+    "Versao":  "4.5.2",
+    "Instalador":  "EnginePro_Setup_4.5.2.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.2/EnginePro_Setup_4.5.2.exe",
+    "SHA256":  "DF77D36322161C1A7FBCBE13CF58213220B924487137F1F30B59C879E9B14975",
+    "Data":  "2026-10-29 17:33",
+    "Notas":  "Melhoria: página Modo IA reorganizada, com a conversa em primeiro lugar, saúde do computador compacta e seções que abrem com um clique; Melhoria: um único indicador de espera durante a análise; Correção: acentos nos textos do diagnóstico, da tela de execução e dos registros; Correção: a chave da IA na nuvem chega às estações em poucos minutos; Melhoria: o campo de chave do modo técnico fica escondido quando a chave vem da TI",
+    "Assinatura":  "BUXNQNaBFevqVmNczHKjvR/fqDDkjQD2mdiP5f/QSBfuVacqxq+pqKeUkQcJsm6FUGTzMorIAbSi6lQPtTkjY3vlRN1+0jb5xVV+OjPmJcAJbpxg22QKvyBet3tTc1YNcaAr7lb5Z0O+twdzUZlB5OT8PNIe7d8InwqqX9auVxgThUitElnLSWflPo9Uw3blu7rADmP/UFmRIHV7HZ84UGTZ/u3kP6TCH0BePA0A+29qhrGb4PAzhaT3szc3mPbMhV/KavP7Fm6FSOwj8BOHFkwSAMeRs5ZLtd2fIdXaJ54iFgpsPC3Xh73+miJ2VvvRB/fs+O5ilIE+YFjXu7gWeV4xqFas1CGfu8c26dOQBwHdwnlNFt7zDEDa190R7UiKSb+e7/QW84ak8Y6T0djmDjgji0c7L2w3IWvB9V+ErIR+7GJl9Ip1VaCQUYdsQaHVKVy7WuSjNITl7ICdgYUDq9mBtBlvNmi6ovKgo7KJElxmqfWQShRxDJAmJGL5J2Uw"
 }
