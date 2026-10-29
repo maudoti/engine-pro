@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.10 | A resposta da nuvem aparece logo abaixo da pergunta | 29/10/2026
+
+- **Correção**: A resposta da nuvem aparece logo abaixo da pergunta.
+- **Melhoria**: Nomes amigáveis para mais programas na varredura.
+- **Melhoria**: A IA na nuvem recebe o que a IA local já mostrou e não inventa números de versão.
+
 ## Versão 4.5.9 | A IA mostra a versão instalada de qualquer programa e com... | 29/10/2026
 
 - **Melhoria**: A IA mostra a versão instalada de qualquer programa e completa com a versão mais recente pela nuvem.

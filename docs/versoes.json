@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.10",
+        "Data":  "2026-10-29 18:31",
+        "Notas":  "Correção: a resposta da nuvem aparece logo abaixo da pergunta; Melhoria: nomes amigáveis para mais programas na varredura; Melhoria: a IA na nuvem recebe o que a IA local já mostrou e não inventa números de versão",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.10/EnginePro_Setup_4.5.10.exe"
+    },
+    {
         "Versao":  "4.5.9",
         "Data":  "2026-10-29 18:25",
         "Notas":  "Melhoria: a IA mostra a versão instalada de qualquer programa e completa com a versão mais recente pela nuvem; Melhoria: dúvidas de uso vão direto para a IA na nuvem, sem respostas de diagnóstico; Melhoria: resposta específica para travamentos e lentidão no Office",
