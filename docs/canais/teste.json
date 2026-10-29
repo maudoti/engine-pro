@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.10",
-    "Instalador":  "EnginePro_Setup_4.5.10.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.10/EnginePro_Setup_4.5.10.exe",
-    "SHA256":  "9AD214CBF9D3A412161B114A13119C95B903AB1D626800A2D3B7B9F38241C657",
-    "Data":  "2026-10-29 18:31",
+    "Versao":  "4.5.11",
+    "Instalador":  "EnginePro_Setup_4.5.11.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.11/EnginePro_Setup_4.5.11.exe",
+    "SHA256":  "F69241BB7B58801283CACBF92C15781E27A3FC899B5A6BF6B7C8B8264969510D",
+    "Data":  "2026-10-29 18:32",
     "Notas":  "Correção: a resposta da nuvem aparece logo abaixo da pergunta; Melhoria: nomes amigáveis para mais programas na varredura; Melhoria: a IA na nuvem recebe o que a IA local já mostrou e não inventa números de versão",
-    "Assinatura":  "YwouPJ6nq/mAZSUHGmxpxznGUIuatLr8cdEFxt84EMjeRw7p6zhqUEK60hlNqSliNm1x0skuaOR59y2nge7TdVn8667szwZZ3gQNkmqcbGfNzB/HwMcKFSTqtJIwLLLa1xm1jikGtM/RkQZ3I8OpBSOWIFAAwLo0WqzvLxErwaCIkY4KWyFMICr6IDbUp1QDOub+Dn3xWU6IcE+j11qk/GjYoyl1/7snqaRjw4NsZrV8AbirJ+BacGpp0G/qwkq9lorkIlIwIzcKo3GJlIbHkGUhYrOCe/+AxUp6+LHMewzJfAQBHt8F3ZKZf9wjbKBoc/NXdVrdVP6ZD52E9PxiuTmyijIRS09pVL0gaQhaVI5hAv7zNMDk4IdAZmHyE9ilfaaJxPIH/yRU3QI0LBhqbiMQN+NMkNtiFc3iPUWGgkW9T+L0UlugqNNgJDTCjM6Zg+2lYI11WEXa1Ec0V1EYnhFnNNuVij7f3ihXwAadtIauM2/s5H7w94WaCVug+2Jd"
+    "Assinatura":  "AX5n0S+dNJjgidJPf2IOTLMM81QZ679qWUlxUg4JX7ttzfurCnW2X7I+lzh3FcG0BIxK8GmvdmD2DGeLzz9TqFj2Ug67Vw+8LSy4LoQYyTL6ihk5Qw1d2cOKBammfZPPUmwQZ49VoB0MUu8lqKFU7yDcggdhkyS3Hmc3sy2HFUF4epwfQ6e0RYz9GLuKSip9kuuSEtJT9LmfXHvilN9ksqku/uFbR448J4AOHoJGu+1nHDZ6EcAUPMF30jhIgr3lWKPA/vSZ25E/l70LgYqQV09eHkidSjHvwAbchfzDyHEGCJ6yxRT0UNAPxBmO/ITJ006pVx/spYp1m4ur2R6qvGgEo+GmoxS4d2vEiplz1jAFrRZfgyu+Z8fNcNpSwNK4+eaPYM5HwWN6Ov/V+LpqnjBHRzvcGM7nI8yxx8WSgDMPsqirWq2vvRPzYA4EzeAmBKvXn1cQ2HBuP6iCiJZKjU8NNC8UUB5TpXiSKi/kvyc4kdv4ndyaT0bT3dhRQqm7"
 }
