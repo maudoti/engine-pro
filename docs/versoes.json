@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.3.1",
+        "Data":  "2026-10-29 13:27",
+        "Notas":  "Verificação de atualização sem atraso",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.1/EnginePro_Setup_4.3.1.exe"
+    },
+    {
         "Versao":  "4.3.0",
         "Data":  "2026-10-29 13:21",
         "Notas":  "Modo IA: diagnóstico inteligente, piloto automático e previsões. Y de espera menor.",
