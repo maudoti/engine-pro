@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.16 | Avisos e problemas corrigidos pelo botão saem da lista ao... | 29/10/2026
+
+- **Correção**: Avisos e problemas corrigidos pelo botão saem da lista ao fim da correção.
+- **Correção**: A análise automática do Modo IA lê as configurações do usuário certo e não recria avisos já resolvidos.
+
 ## Versão 4.5.15 | A IA consulta o catálogo de programas do Windows (winget)... | 29/10/2026
 
 - **Novo**: A IA consulta o catálogo de programas do Windows (winget) para dizer a versão mais recente de cada programa e oferece atualizar só aquele programa.

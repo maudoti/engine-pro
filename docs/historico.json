@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.16",
+        "Data":  "2026-10-29 19:44",
+        "Titulo":  "Avisos e problemas corrigidos pelo botão saem da lista ao...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Avisos e problemas corrigidos pelo botão saem da lista ao fim da correção."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A análise automática do Modo IA lê as configurações do usuário certo e não recria avisos já resolvidos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.15",
         "Data":  "2026-10-29 18:59",
         "Titulo":  "A IA consulta o catálogo de programas do Windows (winget)...",

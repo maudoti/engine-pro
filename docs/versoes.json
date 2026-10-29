@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.16",
+        "Data":  "2026-10-29 19:44",
+        "Notas":  "Correção: avisos e problemas corrigidos pelo botão saem da lista ao fim da correção; Correção: a análise automática do Modo IA lê as configurações do usuário certo e não recria avisos já resolvidos",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.16/EnginePro_Setup_4.5.16.exe"
+    },
+    {
         "Versao":  "4.5.15",
         "Data":  "2026-10-29 19:07",
         "Notas":  "Novo: a IA consulta o catálogo de programas do Windows (winget) para dizer a versão mais recente de cada programa e oferece atualizar só aquele programa; Correção: espaços extras nos nomes e versões de programas",
