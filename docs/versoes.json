@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.4.0",
+        "Data":  "2026-10-29 14:58",
+        "Notas":  "Novo: mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade; Novo: verificação e correção automática de mapeamentos quebrados ou com defeito; Melhoria: reparo de impressoras com limpeza completa da fila em dois ciclos; Melhoria: registro de cada atualização automática; Correção: previsão de espaço em disco do Modo IA",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.4.0/EnginePro_Setup_4.4.0.exe"
+    },
+    {
+        "Versao":  "4.4.0",
         "Data":  "2026-10-29 14:51",
         "Notas":  "Novo: mapeamento das pastas do SharePoint do servidor do escritório, escolhidas pelo usuário conforme as permissões do AD, com a inicial da pasta como letra da unidade; Novo: verificação e correção automática de mapeamentos quebrados ou com defeito; Melhoria: reparo de impressoras com limpeza completa da fila em dois ciclos; Melhoria: registro de cada atualização automática; Correção: previsão de espaço em disco do Modo IA",
         "Canal":  "teste",
