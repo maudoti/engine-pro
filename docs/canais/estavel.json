@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.3.3",
-    "Instalador":  "EnginePro_Setup_4.3.3.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.3/EnginePro_Setup_4.3.3.exe",
-    "SHA256":  "A4ED1828EC22932DD3D8C9AED1F9F8BF82139CA32D44801FF13FC722EBA8798E",
-    "Data":  "2026-10-29 13:42",
-    "Notas":  "Saída do reparo do sistema legível e atualização agendada para o fim da tarefa",
-    "Assinatura":  "eSkfOCdHMFXxGm3KBOYSxyaQnwNN2ec+7Md/4TljC9IfA9pCR+VBPtgHJeYj6dvDoXgYUR6DvXLkNsJEN3+9590mzPd7+FNGZ9QVPAPeur745o3xBdwu7Zc6CHEOev3zeSDL2kUnYv87MZm5iNHP6Xcny9Y1vNpG+vXjMVIBa13GJTEVzU1vDpYNi+137o7JguWdWCRQlfJmuj1p8BdNTrzhnzSQH2zlok9a8aUsUIds7JEoQx06zAqbHc0zaF9UHUlYDS+F8963/mouyLrF+agwgVou60mvjsKn/2avNAmmPNPtPPmNgF+fRbKg+yMvUGR9HrD9UyIIs+9pXQWznr+DAxtHVYIVn+tN37/q+J7snzgEvRw9eYiMhf6LOj/NHo9RA+eklVNJhAJ4v5a5csTzTeDf3BXAsRvpxqyJabEQ0qHZQMBWQUv6+rZYpzwU7UP1XfPHDi7x2vZoXt3y1sONLRH0UWRLAEw6NX92GZINnyXiZv+J7+6fF7S08l++"
+    "Versao":  "4.3.4",
+    "Instalador":  "EnginePro_Setup_4.3.4.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.4/EnginePro_Setup_4.3.4.exe",
+    "SHA256":  "892A45E7F89FD7A1D45F4DBA5A56CC32361E2BB0F21B90423F8113D70A3A020E",
+    "Data":  "2026-10-29 13:53",
+    "Notas":  "Novo: balão discreto de atualização concluída perto do relógio, no máximo um a cada 4 horas; Melhoria: o ícone perto do relógio passa a usar a versão nova sozinho, sem esperar o próximo logon",
+    "Assinatura":  "P9Eh3/yq+pw6T9sINlFTVmpG6c51hehXJdvAaUZVxnu0v8mIKqKDjkEu0tXacLyXtwFYSldZaxa1N2WlRQTdFoLTq025GhEC5u1DhrLv2XgHpUnbsJQJxdDCe5jptptr48fF8zsiDL+Z7CH4RocU4Mh9vqvRs1+fLKQPXIrLuqlNr0f3y3LhJgDOp+IIOvq1tLXxUc2qLVoMiva4uDgskYqO71TTfzfgsd5ProTxTj3Psihtcij1LS2jWg11NwnS/+US8bRwDcOXEANnSHPFyxhR4UEqHArP2BJvVjoIW8LXQuwkDWGDB6GTKABqfYR74mTUqSD7KFHD76WhFZhVprVRQaMk32YuJjAnPXxlyYZ+TXy7+7OQ/6jvBuUZ4I6EC/TqsTg+t1lazNBeFNt8Xv0VphkvnP+Hm7kJxOtjMVLedhgUKFavofU3ruF4tHP25iUmBt8gE35iw9HsgTnB0Kvor146RXI7ko4rdCO2zFpsGvrkBAN7lHS7AZHzzIN2"
 }

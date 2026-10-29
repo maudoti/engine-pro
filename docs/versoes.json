@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.3.4",
+        "Data":  "2026-10-29 13:53",
+        "Notas":  "Novo: balão discreto de atualização concluída perto do relógio, no máximo um a cada 4 horas; Melhoria: o ícone perto do relógio passa a usar a versão nova sozinho, sem esperar o próximo logon",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.4/EnginePro_Setup_4.3.4.exe"
+    },
+    {
         "Versao":  "4.3.3",
         "Data":  "2026-10-29 13:42",
         "Notas":  "Saída do reparo do sistema legível e atualização agendada para o fim da tarefa",
