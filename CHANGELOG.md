@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.9 | A IA mostra a versão instalada de qualquer programa e com... | 29/10/2026
+
+- **Melhoria**: A IA mostra a versão instalada de qualquer programa e completa com a versão mais recente pela nuvem.
+- **Melhoria**: Dúvidas de uso vão direto para a IA na nuvem, sem respostas de diagnóstico.
+- **Melhoria**: Resposta específica para travamentos e lentidão no Office.
+
 ## Versão 4.5.8 | Erros dentro de botões não fecham mais o Engine Pro | 29/10/2026
 
 - **Correção**: Erros dentro de botões não fecham mais o Engine Pro.
