@@ -1,0 +1,4 @@
+# Nunca envie a chave privada de assinatura para o repositório
+*chave-privada*
+*.pfx
+*.key
