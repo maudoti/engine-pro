@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.3.4",
-    "Instalador":  "EnginePro_Setup_4.3.4.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.4/EnginePro_Setup_4.3.4.exe",
-    "SHA256":  "892A45E7F89FD7A1D45F4DBA5A56CC32361E2BB0F21B90423F8113D70A3A020E",
-    "Data":  "2026-10-29 13:53",
-    "Notas":  "Novo: balão discreto de atualização concluída perto do relógio, no máximo um a cada 4 horas; Melhoria: o ícone perto do relógio passa a usar a versão nova sozinho, sem esperar o próximo logon",
-    "Assinatura":  "P9Eh3/yq+pw6T9sINlFTVmpG6c51hehXJdvAaUZVxnu0v8mIKqKDjkEu0tXacLyXtwFYSldZaxa1N2WlRQTdFoLTq025GhEC5u1DhrLv2XgHpUnbsJQJxdDCe5jptptr48fF8zsiDL+Z7CH4RocU4Mh9vqvRs1+fLKQPXIrLuqlNr0f3y3LhJgDOp+IIOvq1tLXxUc2qLVoMiva4uDgskYqO71TTfzfgsd5ProTxTj3Psihtcij1LS2jWg11NwnS/+US8bRwDcOXEANnSHPFyxhR4UEqHArP2BJvVjoIW8LXQuwkDWGDB6GTKABqfYR74mTUqSD7KFHD76WhFZhVprVRQaMk32YuJjAnPXxlyYZ+TXy7+7OQ/6jvBuUZ4I6EC/TqsTg+t1lazNBeFNt8Xv0VphkvnP+Hm7kJxOtjMVLedhgUKFavofU3ruF4tHP25iUmBt8gE35iw9HsgTnB0Kvor146RXI7ko4rdCO2zFpsGvrkBAN7lHS7AZHzzIN2"
+    "Versao":  "4.3.5",
+    "Instalador":  "EnginePro_Setup_4.3.5.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.3.5/EnginePro_Setup_4.3.5.exe",
+    "SHA256":  "0358D96C6E30790F7C8D028A392127504B87E748B727C5A82FF129BDD3997AF5",
+    "Data":  "2026-10-29 14:25",
+    "Notas":  "Melhoria: reparo de impressoras com limpeza completa da fila (arquivos .SPL e .SHD) em dois ciclos, com o serviço reiniciado duas vezes; Melhoria: registro de cada atualização automática instalada; Correção: previsão de espaço em disco do Modo IA",
+    "Assinatura":  "oNBWeZnpm5k3e5/5WbQWexk45EXWPUZqIommrSr3Z4Zvy4RvGEeP5LZvQNRzn4wKGr1HF5Y+SHDBxS/O8Ruhg/7Df9heqg8fjrPOffHvwYJp6zMJmiXGYBkDWeKHhl0fnkMNpqMo9BePoFQAoIYzlNLznWOXn0Bxv9zKAL8hPa5x15xBbMtfaKPsU+gfKiCjs1FYGmiL5VlAefppJZ+7Gb0KmNBK2bWwTRJOMXmWZSGjfffy6IwLcjcMGnUV7kzVvWQ9CAdcSJMOd/H8iVtf1zgK9giSfAvNcEep1Qbit35OtdUg3Jbd9t2WV4Ky4ie8AMn38ClJ15prUFQHlvgVhUeYV5TAtCWq/zEz0X5afA87aES6FgrsT8til+IxwhDLj7bWiDhPHfz72eqk/FLcoRXE3AgoGUJUuWQQGEO0zH2/tvXlbJMfRauXwbeKxXOchgp3BBXjwxZ5LiZlN5pYKtw8IKxuq4dD9Q76cD6QtyqUHEMHSX9Tiw8i+KRfpWmr"
 }
