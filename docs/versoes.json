@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.5.71",
+        "Data":  "2026-10-30 19:37",
+        "Notas":  "Correção: a IA da nuvem não cita mais programas que não existem no computador (regra contra inventar, lista real de programas abertos, modelo maior e conferência da resposta)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.71/EnginePro_Setup_4.5.71.exe"
+    },
+    {
+        "Versao":  "4.5.71",
         "Data":  "2026-10-30 19:36",
         "Notas":  "Correção: a IA da nuvem não cita mais programas que não existem no computador (regra contra inventar, lista real de programas abertos, modelo maior e conferência da resposta)",
         "Canal":  "teste",

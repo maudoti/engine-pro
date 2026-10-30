@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.70",
-    "Instalador":  "EnginePro_Setup_4.5.70.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.70/EnginePro_Setup_4.5.70.exe",
-    "SHA256":  "265DCC514E0BD7C7F9A925C72C02CCEADF985DEBBC014325D3FBE1DF3BAB101D",
-    "Data":  "2026-10-30 19:26",
-    "Notas":  "Novo: caminho curto só para as pastas fundas, agrupadas automaticamente, com botão para criar todas de uma vez; Novo: atalho para abrir cada pasta funda no SharePoint e adicionar ao Meu OneDrive",
-    "Assinatura":  "mon2wZ5ImixPOZKBYlTUGE70DjgQCKW00ZIa5mbfaZkaWO0BOsL6U+fS3MXfeGzN4bA8P7roK09Y3BSoX5i2lp0pdtymldM7ttVWmG7PTZ6CCqzMCdKGR4sYnRqOIRSFy+KpA4XxQCtKyVuJd2vsXeZyQVL0Ut1UK/bScXmC9+SiXX7/Zn8g0k08pzNVCXa2b1JGHSjrBZEWL/NnrRU+ycpduttCPttIRXHVD5KTmbDx87+2kER3OXvK93//XgsMj/AUGe1ROjP6ijC3GtRdSp1+ijh83uabRxMRDAYFbg3Kgjk/U30qoIheR6w6AkRK+fVJbkWzg27kapvcqDUQ2PFVZGMR8tDABnCiYzcJObBdzIpiQznIdwV6Q1S0oPDwNejwikHDVfpUWnE0s8WpYhvTqaE6svRmhAEo6OB6iX60AQiG3+6q+I2WIdN8inQccIrnxH8sZ9BYTkdtseRN2Q/OTtE8VOw0DTu5Ith30n242zyzSdFKgUA/s1SPavkA"
+    "Versao":  "4.5.71",
+    "Instalador":  "EnginePro_Setup_4.5.71.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.71/EnginePro_Setup_4.5.71.exe",
+    "SHA256":  "2E79D417413FB470734A18BFBAAAC170B9B0DCAC61EAA435917C99383E115F51",
+    "Data":  "2026-10-30 19:36",
+    "Notas":  "Correção: a IA da nuvem não cita mais programas que não existem no computador (regra contra inventar, lista real de programas abertos, modelo maior e conferência da resposta)",
+    "Assinatura":  "Rp3e6BVc10fWVa7UHrLqkI9j8IRUJA+ceTShF9BcXXaF6BtX5z+ETQD6NKMRDWw698Af6Tsr9pc2gUKuPgxQ/JWMpgIIN8rwiux7LN8cPTlbuhmL31DjLBCGRNrIsX2kHMxLbrGsJQIzGKAChzTLbAFE6OINXeXpkPJRdMBbxOQpx5Kw0qdwz2sSYMOAWF77FG4bN1B1u8L7dpLnW4fNBbCWCAA1Mu+gGr3DNHrXRnHORYb1InF6PQXV05yyQG4Ldqu/T3Bfrg9xOrLOo2KhTJiITowBWaj9V8EOm/1499S7JiUaShLHmZonRX76NKxyDIZtvS8dJCHp4A9HyO+59gIIujdTUof54e6W5taPtc1FNm9i0wXRsXFzwNSji99NK1e2YbAO7FpRXfFoI9EkTFVgh/iUXHeAOcigbi+mqfQgTi0+fDWn2Saqc683YdOTNLzg4ow5avVjbrkp8q3YPp9p7zDHAQIpckgeCBXOhIjjH2E5hv+SlGVS9cOz30d3"
 }
