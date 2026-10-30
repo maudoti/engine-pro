@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.28",
-    "Instalador":  "EnginePro_Setup_4.5.28.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.28/EnginePro_Setup_4.5.28.exe",
-    "SHA256":  "74C0F3C733E62E95F0597677B6C9DE9E6C44D663F46F41CC306ABE482775B8AF",
-    "Data":  "2026-10-29 23:38",
+    "Versao":  "4.5.29",
+    "Instalador":  "EnginePro_Setup_4.5.29.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.29/EnginePro_Setup_4.5.29.exe",
+    "SHA256":  "E720A65192C72B6332F6FAF0B85845DE9EA372700627DF3188189E429A5D468A",
+    "Data":  "2026-10-29 23:39",
     "Notas":  "Novo: Agendamento de tarefas, executado pelo serviço mesmo com o Engine Pro fechado; Novo: tela inicial com ações rápidas, espaço em disco, próximas tarefas, segurança, saúde nos últimos 30 dias e bateria; Novo: fila de tarefas; Melhoria: menu organizado em grupos, com as páginas Limpeza e otimização e Diagnóstico e reparos; Correção: clima do menu dentro das margens",
-    "Assinatura":  "hUPMkAsxKEKBnv3QY3ggHQZcm+83BklWoDcfu9lRNIJZOEvcYaJQPqqw+Q1YpYObkqn822xMjkAdZb7ktSy2S4x/v+ujuUXubumYqfE59yt1nUYdIxWZuWbYPbFekSCa8VIqpNpApOjPdAz9lYpSsMu2e+cXlGlFOCQk713upOO6oUL7TlH58Su9k+kod8y2AUY6wBPCcSsmh7A4GahfHxT0ac2/X5hcKVYmdfUW/DYH63Y9fIafkDRoAbuQ3vPEyDUv00OZCk92C2Ld8eQp/uFgCaJy27Mn+y3dM4HmERbVaEDLfla+xNDUlba+UngTM8qOtBhq9sjWmjD2WC2q7jzejn4o008O/SmNEG2Ak0gXcXI4s2znO3S1HV3VCJ4tIP8A+az+8ypEBl6vFyu0hKkjgzNyA4cKohxgvSv030lqxSBIxUB4/GB6yrZwx3tyWuyLoumBq9D/satJ0PXEgVYhv/WiJWCVM6FLpPDPY02avpG45WfN6AkSqu0JLca+"
+    "Assinatura":  "lleb2GclG4OdBuNuh1Cr/bbHQWiDrPjWLE1fYl5JS8OPRY6F0mCVUxf9TqQMte6QkVAvkvGiRpV4flLjGF1ycJCEfImb2bmalPwU0NJggIq1ezgpyuzmKxoidwxfEUgBsdjBnQR/TWWC60xpkSNay2mji9ObhgSvHdTSiVWCEe++XeFGn8MyE+OGYz0xnpXUjfkNAe2nsRE8gzAl0FXXy1yFArUCGxic6AQkcUxZmabeFOceKXrfqhzI7rehm2LaL1k4raXSrh36FslY1p/trMAz1j9VLYWVd3ZfbtLupf/y8psKFAyM1yuAAxjxtwndpFzM6R3FQDzHqlR4kuB30TzOFJVKjhqmJGZ1O7KPQ7pMTLyOVaq1Nrl5S14X33861pvobVU+o0NTLUfAV6iaWYqcNnCQN5f+QE6OKfBrF4gGWNz0ucALoPQhhJwkAYvOLHTVk+DyMC3tn7jYyixoo8Wuoi2W7l2pcfseA0Pe57lAZxtJPngXsCx/C3tB/eZe"
 }

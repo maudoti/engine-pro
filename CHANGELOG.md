@@ -2,6 +2,14 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.29 | Agendamento de tarefas, executado pelo serviço mesmo com ... | 29/10/2026
+
+- **Novo**: Agendamento de tarefas, executado pelo serviço mesmo com o Engine Pro fechado.
+- **Novo**: Tela inicial com ações rápidas, espaço em disco, próximas tarefas, segurança, saúde nos últimos 30 dias e bateria.
+- **Novo**: Fila de tarefas.
+- **Melhoria**: Menu organizado em grupos, com as páginas Limpeza e otimização e Diagnóstico e reparos.
+- **Correção**: Clima do menu dentro das margens.
+
 ## Versão 4.5.28 | Agendamento de tarefas, executado pelo serviço mesmo com ... | 29/10/2026
 
 - **Novo**: Agendamento de tarefas, executado pelo serviço mesmo com o Engine Pro fechado.

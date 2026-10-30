@@ -1,5 +1,32 @@
 [
     {
+        "Versao":  "4.5.29",
+        "Data":  "2026-10-29 23:39",
+        "Titulo":  "Agendamento de tarefas, executado pelo serviço mesmo com ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Agendamento de tarefas, executado pelo serviço mesmo com o Engine Pro fechado."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Tela inicial com ações rápidas, espaço em disco, próximas tarefas, segurança, saúde nos últimos 30 dias e bateria."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Fila de tarefas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Menu organizado em grupos, com as páginas Limpeza e otimização e Diagnóstico e reparos."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Clima do menu dentro das margens."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.28",
         "Data":  "2026-10-29 23:38",
         "Titulo":  "Agendamento de tarefas, executado pelo serviço mesmo com ...",
