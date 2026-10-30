@@ -1,5 +1,32 @@
 [
     {
+        "Versao":  "4.5.56",
+        "Data":  "2026-10-30 15:22",
+        "Titulo":  "Página OneDrive e SharePoint com diagnóstico, correções, ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Página OneDrive e SharePoint com diagnóstico, correções, reinstalação limpa sem apagar arquivos e ajustes para muitos arquivos."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Modo IA avisa, explica e corrige problemas do OneDrive."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Colmeia escolhe o reparo que mais resolveu nos computadores da empresa."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizações com uma coluna para cada fonte."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Dell Command | Update procurado em todas as pastas e instalado pela versão Universal, com o motivo quando falha."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.55",
         "Data":  "2026-10-30 15:08",
         "Titulo":  "Página OneDrive e SharePoint com diagnóstico (itens sincr...",

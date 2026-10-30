@@ -2,6 +2,14 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.56 | Página OneDrive e SharePoint com diagnóstico, correções, ... | 30/10/2026
+
+- **Novo**: Página OneDrive e SharePoint com diagnóstico, correções, reinstalação limpa sem apagar arquivos e ajustes para muitos arquivos.
+- **Novo**: Modo IA avisa, explica e corrige problemas do OneDrive.
+- **Novo**: Colmeia escolhe o reparo que mais resolveu nos computadores da empresa.
+- **Melhoria**: Atualizações com uma coluna para cada fonte.
+- **Correção**: Dell Command | Update procurado em todas as pastas e instalado pela versão Universal, com o motivo quando falha.
+
 ## Versão 4.5.55 | Página OneDrive e SharePoint com diagnóstico (itens sincr... | 30/10/2026
 
 - **Novo**: Página OneDrive e SharePoint com diagnóstico (itens sincronizados, caminhos longos, arquivos do Outlook, arquivos sob demanda).

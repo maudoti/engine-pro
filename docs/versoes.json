@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.56",
+        "Data":  "2026-10-30 15:22",
+        "Notas":  "Novo: página OneDrive e SharePoint com diagnóstico, correções, reinstalação limpa sem apagar arquivos e ajustes para muitos arquivos; Novo: Modo IA avisa, explica e corrige problemas do OneDrive; Novo: colmeia escolhe o reparo que mais resolveu nos computadores da empresa; Melhoria: Atualizações com uma coluna para cada fonte; Correção: Dell Command | Update procurado em todas as pastas e instalado pela versão Universal, com o motivo quando falha",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.56/EnginePro_Setup_4.5.56.exe"
+    },
+    {
         "Versao":  "4.5.55",
         "Data":  "2026-10-30 15:08",
         "Notas":  "Novo: página OneDrive e SharePoint com diagnóstico (itens sincronizados, caminhos longos, arquivos do Outlook, arquivos sob demanda); Novo: reinstalação limpa do OneDrive que remove os restos da instalação antiga sem apagar arquivos; Melhoria: redefinir o OneDrive com plano B quando a redefinição oficial falha; Novo: ajustes da Microsoft para sincronizar muitos arquivos",
