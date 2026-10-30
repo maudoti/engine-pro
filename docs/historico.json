@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.35",
+        "Data":  "2026-10-30 10:13",
+        "Titulo":  "Ao atualizar, a janela aberta de uma versão antiga é subs...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Ao atualizar, a janela aberta de uma versão antiga é substituída pela nova."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O grupo Suporte fica no fim do menu."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.34",
         "Data":  "2026-10-30 10:04",
         "Titulo":  "Seis pilares (Desempenho, Segurança, Backup e migração, C...",

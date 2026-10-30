@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.34",
-    "Instalador":  "EnginePro_Setup_4.5.34.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.34/EnginePro_Setup_4.5.34.exe",
-    "SHA256":  "0CCCA43046DF927338AE9E71726F9C8A7D0C6AB109AE904F90B0E733CC2B247A",
-    "Data":  "2026-10-30 10:04",
-    "Notas":  "Novo: seis pilares (Desempenho, Segurança, Backup e migração, Central de suporte, Problemas resolvidos e Ficha do computador) e a IA que cruza todas as fontes, aprende e se atualiza sozinha; Novo: backup no OneDrive",
-    "Assinatura":  "VzOIJyJT+oDRQeRSQ1MasOgTBRPCe9n9cp5L5JryVAeZBxPRhdwDWRNIGm4njUnJAAyBoCrhHcjgpZp9VFzS11FVxwnQUJ2LyjzSGRMKQB5EghIfvC9tAVThmrZ7zbcNItubCm4E7AkUIQiSZWmc/4IE23vliBFZuCOjeL2E6f/nlFDbsVuIY+DRUeg012mHkZgKqszgAgxZnoSLaVxfENZt2IlYWAtLWSEV/qez1o11S4Dd+oqVyIdLoKEA+Mi1hfklN1YpoARo8tTnseKAvZXspfGo0UKjCO68Z5puq6PgOy64cxbxx26xec6ygejcL/UXTch1IDz4CMfCdD2TKj9fd6RcMXcyZy52nXwL/polFbPf9DcUZgwhEaDJugiIeiegzlGG0CyvqMuuXpaZO2zEihk/hROGnmlQ8Qd4C4WYC8Uap1XbdvQdQaHZ5GfJIj1sxRq5Thsrt7JMN8G+Woh+Q3fbofyTZWt9S3wbqNnbmnD1Wkda3DkUkvOurmLW"
+    "Versao":  "4.5.35",
+    "Instalador":  "EnginePro_Setup_4.5.35.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.35/EnginePro_Setup_4.5.35.exe",
+    "SHA256":  "4264BDCAA0F4981700C5E012160A442FBBBE3DFB4DAE167BF9B4A269B6352B9D",
+    "Data":  "2026-10-30 10:13",
+    "Notas":  "Correção: ao atualizar, a janela aberta de uma versão antiga é substituída pela nova; Melhoria: o grupo Suporte fica no fim do menu",
+    "Assinatura":  "WkvPibSOQA8nx6ubzT+bFHhpVMLjS9nVAAGBlEQb0g91HarE+yhh8H1S/o6e92f/I07pQbXeVRZ1oL83rjr0uLUz5ZC1YcH7/fIhd9eJPNVWLrrmeKaZkBiCoPzE7RN342HHYj7JAJI2lfdRO1zFJ5oRB3rswK2GeddDoLR6vSO2ogtdhUeh+VKZgE6xil8daODzsiz8taXRQPpkQigtdCR5m6QzsYgVOvPctRkecgVyKB05cF5qrazITSEdQ57PCyxjgchkWzBqy7NmgJY8mHenbD3ZR0jp1yC/prF8xf9EufnadsLekIYcsFbzyE0nNpaluEqYkyg0uNRrbiiP0rONDXM+lWVK64BaONAiX5AQPD+buotTUG8K+bFnB49zHcItBJH7Q/OMISYEwyI8VoDjwTjq1dbzUWoyyCdSNql5vQlNMShWz0G7iDmbctydCWTxqepodvOPROcQUhhYbkAmituERY+GnUzgPpA0QSIsSu8kKh1nN8XZNCR8NnZ/"
 }

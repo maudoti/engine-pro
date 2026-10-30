@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.35 | Ao atualizar, a janela aberta de uma versão antiga é subs... | 30/10/2026
+
+- **Correção**: Ao atualizar, a janela aberta de uma versão antiga é substituída pela nova.
+- **Melhoria**: O grupo Suporte fica no fim do menu.
+
 ## Versão 4.5.34 | Seis pilares (Desempenho, Segurança, Backup e migração, C... | 30/10/2026
 
 - **Novo**: Seis pilares (Desempenho, Segurança, Backup e migração, Central de suporte, Problemas resolvidos e Ficha do computador) e a IA que cruza todas as fontes, aprende e se atualiza sozinha.
