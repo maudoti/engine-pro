@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.37",
-    "Instalador":  "EnginePro_Setup_4.5.37.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.37/EnginePro_Setup_4.5.37.exe",
-    "SHA256":  "547E36D2CFC20717FB6E4348B3C0BA13D6C1436A72CF08A2866B293A8E8037C5",
-    "Data":  "2026-10-30 11:43",
-    "Notas":  "Melhoria: a IA entende referências ao que está na tela, como o aviso ao lado ou os avisos, e explica o problema com a correção; Melhoria: respostas incertas vão primeiro para a IA na nuvem pensar com os dados do computador; Correção: registros informativos do Office não aparecem mais como mensagem de erro",
-    "Assinatura":  "UJg7MLOhLK5dCtuo+3K3Fz4YZ+c5I1ffZVmQPKG3Mpib2jAA8rbJ7fd8fkVhVSNRPCsFRt63id0gVJbh6AKoww3oFhZoaRQVEBXtMxiEjmCJhHT/dzUHwtLpdq5SFVeG40uR5Pf6kkN4em7W0JjfYg80EvAHN+C6QQcZ/kGGN4zctlL88MZqA4MNcpWBDCMSULkKVNSEmUv5ziF/EgB6RB8vGJHQU4pim9nZJJRz8DML7SVWngE40H6SlLQmL5JEYUxkV67KXEcBGYJrirZfNSu2Y7dfH8//32EuRzNUBjjR7ry11GR1MuupNlGJTLBrG7rtxVIwjckYuHOmXP6MJLfrXC/M5ljbWeJ4e5DtCJ5ixh/758wIXwiLP2Rkk6AlQl1Bzo6CzKNP7ZKJc+qNDSwNwS9ZzwL2DFEYFIo7MESBvGhSfjLUUNzIYlhSdUzG/5gmFuHfvmsNpezzTGg+HF2GhE3KIc1e6ptcuico9E2TqDe2mcKelqskYZiLitq5"
+    "Versao":  "4.5.38",
+    "Instalador":  "EnginePro_Setup_4.5.38.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.38/EnginePro_Setup_4.5.38.exe",
+    "SHA256":  "EB9319F912891758E0C7A075C33257EF68E1A7939D75866BC578014ACA7D6775",
+    "Data":  "2026-10-30 11:47",
+    "Notas":  "Melhoria: a IA na nuvem responde primeiro, pensando com os dados do computador; a IA local responde só quando a nuvem está desligada ou não responde",
+    "Assinatura":  "uarjRZFWextFmyJQDSc2P+P44lVSBvb1ItT1EXoR1QWSzJp+/nANbR8v4RSMND6YmL0rp90V07M7ja/Ltk6U8JubMRvem3u1yudeUAK5mmOirdAq9N0JCHsE9XJOB3CdRY+WAsZHcMpdTLLjUg/qIIxMACSXeASUjVi5ASWnLsOVgddjrUv3dtM5HVVDvttVlaE2hn3kCDvz2qwAw2oHUonPNSLlzvYkeqRP8Tbe/BkgX6nPY8J8wO54qbjdYfwfmrAwm0EuLlU3dJYLa4sYP9GS6T0s5UKLyGJWeC4PWzH0J8ZwkSD/wVKGbw/fVC/4CO1Vp81j33rtUb/PWgl0aVf8ox1bytqP3lSaZTOCz9Ik3cBu5pzEq3YWNYjFZNPXGvpy0qCNuiHjW8G/0PGl85JFkeOoff85WO2KT//TOQ3hBNIT2acVzNlrbQzca1WmBQze/C2q/+gA6jnUnMS4N72vDMdz6gpJXMcqU/yXp65lL6LzZuD3JsYg4yew6c27"
 }

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.38 | A IA na nuvem responde primeiro, pensando com os dados do... | 30/10/2026
+
+- **Melhoria**: A IA na nuvem responde primeiro, pensando com os dados do computador.
+- **Melhoria**: A IA local responde só quando a nuvem está desligada ou não responde.
+
 ## Versão 4.5.37 | A IA entende referências ao que está na tela, como o avis... | 30/10/2026
 
 - **Melhoria**: A IA entende referências ao que está na tela, como o aviso ao lado ou os avisos, e explica o problema com a correção.
