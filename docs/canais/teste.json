@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.61",
-    "Instalador":  "EnginePro_Setup_4.5.61.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.61/EnginePro_Setup_4.5.61.exe",
-    "SHA256":  "411F38412514855D703EAACAF104581B82549F699E3F12059E818BEE9D82B709",
-    "Data":  "2026-10-30 16:19",
-    "Notas":  "Melhoria: novo texto no topo do Modo IA, com o Modo Colmeia de Aprendizado ativo",
-    "Assinatura":  "eg7DM8GIkUiTJ+CUeWQkLzVkP6dpGHiySi7C2z+reHlS7k9w8YPkiDleOQr2qU7wug8Y5jdUOizYbp1kSUZNyXQ5YAJ/s7NeIxagqeMfPDL4/iI1AYinNc/ALyRjfP+dpO7HDAKAYquIJ+G156Lt3Yeda7jOv9OthP4/jTGDJbf6liSB2Laqmb/XzuZAMwWdUHqPAlmTFY6Ci6Q9QmMMx+3YG4/cwG2WslXcTFk34IBB78LbTlUPrd3Kc0t5EYS79c6TaxskKlJjqkBvFoPWRBgWkWW3zboqeXT1nRQBQosN1JQDtdT09odAUDHws7v5X0fcgQgKABskOp4wmk4gIfOD4FVThPxH71COUd8zy7djv+FKgbrVHil4VpoDiZyLHyRpll4k08aER1YSDX1Dqa8uvmVoRUyyxWhhjESZJClUjr2oBpnzA39eMYwtfn+B9LqB0Q6NABeBhPeVDPw/+sSJkzjgqFbM6VFBDVP3//DbgK6PyCp0mGO30+pfXYqD"
+    "Versao":  "4.5.62",
+    "Instalador":  "EnginePro_Setup_4.5.62.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.62/EnginePro_Setup_4.5.62.exe",
+    "SHA256":  "0AA908B165D891EE5E615A21FCEBD278523B2805FC0C0654D0EF5C08C3FB62EF",
+    "Data":  "2026-10-30 16:22",
+    "Notas":  "Correção: velocidade da internet medida com várias conexões em paralelo, como os sites de teste, sem o falso aviso de internet lenta; Correção: medições antigas descartadas",
+    "Assinatura":  "AsZ4boYRYBrYJz8P058UqCAwt3AH0ywNXOCRx8u9ZhKwfszcRAS4BTn9BFy4RXPF4A5MEO4y2zhu1swssrL2WBM8QTlniz30OMqCUpa/6R7F/hBKYeVSQgmsMMEXn9WovViUdsCTqo07tEVvd07JAf+GXXgra/nV0pR/Opf8rtl/qU+nr46wnCLzR97tKljXDvbm4DYv6kywBE3y34jMV5NRylIxA4CwJqdS6UWMgMnaHbDtH1i38DiazfUDE/WpEStHrE/laMcjpMjz3oU/k9kKy+gd4+RCYNQIy6W39Rr9j/ulW196cz71CDz8a7IUKXZOcWU5YbBi2Klj2o2TObuctt2jkRPIEP23LLkfzA2RoIBFbcLa9RqY3wxMFd2QxD+JA9PUV5jPfWY1scU1FKdn7uowjqpvW/zEiJ/na4CjJOdYx9CRlNV+Sd1NBQgeyBb1V6SLn0hWpofoG3t4dcEga1pHAw+huF23sbZFGHaRz6SKCEQtaIHhoLWRMkdi"
 }

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.62",
+        "Data":  "2026-10-30 16:22",
+        "Notas":  "Correção: velocidade da internet medida com várias conexões em paralelo, como os sites de teste, sem o falso aviso de internet lenta; Correção: medições antigas descartadas",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.62/EnginePro_Setup_4.5.62.exe"
+    },
+    {
         "Versao":  "4.5.61",
         "Data":  "2026-10-30 16:19",
         "Notas":  "Melhoria: novo texto no topo do Modo IA, com o Modo Colmeia de Aprendizado ativo",

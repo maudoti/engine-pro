@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.62",
+        "Data":  "2026-10-30 16:22",
+        "Titulo":  "Velocidade da internet medida com várias conexões em para...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Velocidade da internet medida com várias conexões em paralelo, como os sites de teste, sem o falso aviso de internet lenta."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Medições antigas descartadas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.61",
         "Data":  "2026-10-30 16:19",
         "Titulo":  "Novo texto no topo do Modo IA, com o Modo Colmeia de Apre...",

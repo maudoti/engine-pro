@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.62 | Velocidade da internet medida com várias conexões em para... | 30/10/2026
+
+- **Correção**: Velocidade da internet medida com várias conexões em paralelo, como os sites de teste, sem o falso aviso de internet lenta.
+- **Correção**: Medições antigas descartadas.
+
 ## Versão 4.5.61 | Novo texto no topo do Modo IA, com o Modo Colmeia de Apre... | 30/10/2026
 
 - **Melhoria**: Novo texto no topo do Modo IA, com o Modo Colmeia de Aprendizado ativo.
