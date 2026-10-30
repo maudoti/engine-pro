@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.65",
+        "Data":  "2026-10-30 17:13",
+        "Notas":  "Correção: clima pelas medições reais das estações próximas, com a temperatura média ponderada pela distância e chuva só quando uma estação informa chuva",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.65/EnginePro_Setup_4.5.65.exe"
+    },
+    {
         "Versao":  "4.5.64",
         "Data":  "2026-10-30 17:04",
         "Notas":  "Correção: o clima do topo atualiza sozinho a cada 20 minutos com o programa aberto e não usa medições de mais de 1h30",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.65",
+        "Data":  "2026-10-30 17:13",
+        "Titulo":  "Clima pelas medições reais das estações próximas, com a t...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Clima pelas medições reais das estações próximas, com a temperatura média ponderada pela distância e chuva só quando uma estação informa chuva."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.64",
         "Data":  "2026-10-30 16:53",
         "Titulo":  "O clima do topo atualiza sozinho a cada 20 minutos com o ...",

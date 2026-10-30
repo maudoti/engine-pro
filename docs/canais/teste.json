@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.64",
-    "Instalador":  "EnginePro_Setup_4.5.64.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.64/EnginePro_Setup_4.5.64.exe",
-    "SHA256":  "C95E61F1E1E8C9B44649299906DE39E90B2E9973FB101F2E8C21E926FF903FAE",
-    "Data":  "2026-10-30 16:53",
-    "Notas":  "Correção: o clima do topo atualiza sozinho a cada 20 minutos com o programa aberto e não usa medições de mais de 1h30",
-    "Assinatura":  "B8qWq5cINd33gFAuBGK1rFXlmOXVADktpfiC0KaDHLgfTZMJV39U6wsDRgfp2a83bagH0/9nmRxowaMsDx6eqxsU+Y6wamDEFhQ5Tb8/29w7mjVgQGvfXYxD0Qw4JK2Yu0BSzQv0YxPKbYlhZ5UTAvddHPcxhfIRZzfUTZjD1sJKuV8un4xbhuT2vZoqkdalyE4mKF9aoyvS9Wb6Q38470qDvOOvYdOVsEgboMlj6NT7BEGoJjCOkcicTU+ciOH0kAEPVX/aSoUf8mx9DmERPu9tvb2M10px9ZFYquP3BlxUjYXpD0TOKoJFq1YYYuG2eCVKS3oJfuR1RtkrLzPCGMqbV8S8skbfJK0OKtdAo8q4fz2PT2OgzxYvbzjmB2rWC+oNX98HyFp2LCGrwny1vht77Ox6R+3t8FC4NYoJpDrak+Zheev2RKTwRAAPjog4NNLIOfgScg4+IT67uzDAF+4iksbJgw0MFIND031MOsH/YAE785NxdHSQngTZdarI"
+    "Versao":  "4.5.65",
+    "Instalador":  "EnginePro_Setup_4.5.65.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.65/EnginePro_Setup_4.5.65.exe",
+    "SHA256":  "080E483B1F5CD91101D42D88A0754747BB3E0D3736323B4F93F9F001D70BD26A",
+    "Data":  "2026-10-30 17:13",
+    "Notas":  "Correção: clima pelas medições reais das estações próximas, com a temperatura média ponderada pela distância e chuva só quando uma estação informa chuva",
+    "Assinatura":  "hazRWVot9ZJ6LBnNQ1Yroq5NaPTiWKubktG5nvEyxz38cNc5CGnta/jswlcsbyCQ9mOG5GyqetA0I9+b3dzT4nHNYi7pYF4rQX2JWqi2WH6h4MqTzrPgF4rtZaauadWRYohNggf+5kNggpTBdtX3aPEachWz+UZNYKMAzW99jCV+OVJCBMjK4sI4Mwu6x/xxA17gZhlnDo9FfKkXc7sfWb+KPpYuyKn5GsvrhDzbbyJhCB9VoiB9GyyMIcQOvfllPlQbf1H2bwk41QHJEijJ6kf7q9GEp2ezW5oGIl0UCQzNqb4AZUVQ5kyAO8+0+us9EcVxf9Kmeg0xFlU46a6tVGO9Sxz6UYu2I321rCyMUw1QBt+Tdn88iGANb73zNcHUek/Y7sZyC5xUpgfFQViOy6qO11eYNyT9DtEvCwynsOb5m6/40DYx7xduaE/jps3n0Apj9Y7pE5EhT01Q8HGAkjhnJhzZC+djWkYhIFpETDx/4YN4Uh/iE5buMO5krJyB"
 }
