@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.39",
+        "Data":  "2026-10-30 11:55",
+        "Titulo":  "A página Chamados (TI) não conseguia ler os chamados",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A página Chamados (TI) não conseguia ler os chamados."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O motivo de qualquer falha passa a aparecer na página."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.38",
         "Data":  "2026-10-30 11:47",
         "Titulo":  "A IA na nuvem responde primeiro, pensando com os dados do...",

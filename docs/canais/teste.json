@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.38",
-    "Instalador":  "EnginePro_Setup_4.5.38.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.38/EnginePro_Setup_4.5.38.exe",
-    "SHA256":  "EB9319F912891758E0C7A075C33257EF68E1A7939D75866BC578014ACA7D6775",
-    "Data":  "2026-10-30 11:47",
-    "Notas":  "Melhoria: a IA na nuvem responde primeiro, pensando com os dados do computador; a IA local responde só quando a nuvem está desligada ou não responde",
-    "Assinatura":  "uarjRZFWextFmyJQDSc2P+P44lVSBvb1ItT1EXoR1QWSzJp+/nANbR8v4RSMND6YmL0rp90V07M7ja/Ltk6U8JubMRvem3u1yudeUAK5mmOirdAq9N0JCHsE9XJOB3CdRY+WAsZHcMpdTLLjUg/qIIxMACSXeASUjVi5ASWnLsOVgddjrUv3dtM5HVVDvttVlaE2hn3kCDvz2qwAw2oHUonPNSLlzvYkeqRP8Tbe/BkgX6nPY8J8wO54qbjdYfwfmrAwm0EuLlU3dJYLa4sYP9GS6T0s5UKLyGJWeC4PWzH0J8ZwkSD/wVKGbw/fVC/4CO1Vp81j33rtUb/PWgl0aVf8ox1bytqP3lSaZTOCz9Ik3cBu5pzEq3YWNYjFZNPXGvpy0qCNuiHjW8G/0PGl85JFkeOoff85WO2KT//TOQ3hBNIT2acVzNlrbQzca1WmBQze/C2q/+gA6jnUnMS4N72vDMdz6gpJXMcqU/yXp65lL6LzZuD3JsYg4yew6c27"
+    "Versao":  "4.5.39",
+    "Instalador":  "EnginePro_Setup_4.5.39.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.39/EnginePro_Setup_4.5.39.exe",
+    "SHA256":  "C85E650B279C4125251A7D0139B9E17F3D4F64EB426E9C8E916B14D9C81A7E87",
+    "Data":  "2026-10-30 11:55",
+    "Notas":  "Correção: a página Chamados (TI) não conseguia ler os chamados; o motivo de qualquer falha passa a aparecer na página",
+    "Assinatura":  "pp/8/VRTMpam61AZ0wiqBT2+9vcp73HBpcNryqjrNkMHPJ1T8vwPzp8SdtQSPWzctSOekJbqEaK1C9jGyT11crmc4CPilmnr98PWcmdliBVKRuqky4k2BBQWfoPNTyAGY8dSTPXaV5oGDvI4WuyoVrKGe0QwO7imFjSAceg8POoeUse9bzjIir5P4+E5MeHDMyRouXG/ex0x3tWRyR5dIMmSAOKI0VFHk+8ycCFE31FkyYqfUlX0IawRxBhI0dv1PcvgsmmngkfL7hAx7/9hbJ2EcyXS2pAtOR/ZV0uk4dwX8PvlO+6ZtaydCCS1U33Ziq9XdNaDwmNQZ1O6bIJIhZe8QtKfhgO7bTyRElPqPIm3ap49bX4S+UnvNKEIFGTjPKihJ6HjH/5rnapw1/ITE+L9RTp4nth0DwtkwQwBjDO0cjKWZbEBwBbobT6X06VAeo1QU9l7zh1uUNsxW0iBL/IT+WaJzrAopsOBiwkGrq3MctSClXAK9V7zH+nZ5Trz"
 }

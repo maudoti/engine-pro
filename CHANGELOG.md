@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.39 | A página Chamados (TI) não conseguia ler os chamados | 30/10/2026
+
+- **Correção**: A página Chamados (TI) não conseguia ler os chamados.
+- **Correção**: O motivo de qualquer falha passa a aparecer na página.
+
 ## Versão 4.5.38 | A IA na nuvem responde primeiro, pensando com os dados do... | 30/10/2026
 
 - **Melhoria**: A IA na nuvem responde primeiro, pensando com os dados do computador.
