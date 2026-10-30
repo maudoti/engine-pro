@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.72",
-    "Instalador":  "EnginePro_Setup_4.5.72.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.72/EnginePro_Setup_4.5.72.exe",
-    "SHA256":  "64C38566F42D1266EC045FD3FF0A27F65C412453A9B764B91C354991A3F79A95",
-    "Data":  "2026-10-30 19:53",
-    "Notas":  "Novo: remove sobras de atualizações grandes do Windows quando não estão em uso; Novo: a análise da IA aponta drivers sem assinatura digital",
-    "Assinatura":  "qnWFidt+4HrYHjDMsUoyByBILrP3vJLMeFCgB6h4/RoajZwagO80YSzbAnapex+tAylOLC6/aIpcuA0OCUECrmXIbW/72olmTsxkVsc4OYNu0FLYrx6SP8SahoDy9Yt9fJlAbIz2xYJkWHv9SeEfj0GQo89eHp99/qacVdi1jt0Y2sJweWqo4mtY2sxtVQIwyf10x91U3lV25TBfyHYZICEc5ZBwrMk7dIFjGN4859u0o0TlJMOTJFaPNjya2Zjqzg2pTRZ19bV3+qZEy6cOpZTVPFkihsJ1oK6O5ir+eOgvymNjVHv/EtLrZLqb8xcjOsZ703sYB9eOH182F92eFbDw5bdk4bxdVbYOvMNkomGJ3eDfPyfC4KhQOl2FqRaHMKj+EfU3ydU+B/SnqT5xWBKbToVraQ20lGVRbqhpadiOhw02E5qBs+sHxea24xWWULQRaCIUn3/v8rou5LkA+EXypy5/4TtXpmD84h/jC5ehsYB948bUdYJCTTsTq07g"
+    "Versao":  "4.5.73",
+    "Instalador":  "EnginePro_Setup_4.5.73.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.73/EnginePro_Setup_4.5.73.exe",
+    "SHA256":  "3E47DC0627ACF1FE8C3915081F22DAAB421406202FC5FAF69DEE0C6DF7160D5F",
+    "Data":  "2026-10-30 20:10",
+    "Notas":  "Estações: inventário completo (Office, antivírus, BitLocker, TPM, disco, bateria, programas), quem está ligado agora e contribuição de cada estação para a colmeia",
+    "Assinatura":  "JC8Suo4PGfjD0e/6xwDKD5F92rHgjMARqjmvWUzvfxSbDp7iKIaY5fi045rxTWxjy0yXBJFQi7hkMs4eh/kuDe9y9zizrTCfrhNjGVO9DkFNev1dc3AzAm6Sfg0I5qkqPuh2qGpXDsqc+Frqg5e7/a8QoNExkGSG5f6Y3jbMX/maznnxLsmiYRUHX1rvF8Nxw71W8u6USERVHRIBrjgdpUagfbgqmC/5LqIGjxF9Djxerq8y3C37GfF287zSoP7Fz0NJESTzHCux6fPFzM6q9bN4p9Rzds0lmxG6H+qivoiHPhHR5A6fVp22uAYBVegK2fr7eCD6i1AVAJ50q30c5wyLidBFaBv5PZRHKeOtQvSe0Ao0KkOzbMGa7LdK8laBPUWdQ7wjlnCbhYOn3d14v3VQejfYgKKdALnqHffb5se+KEoAK6L1dNkDYE7rX0RlA5CBF4IUq/oM2qcA88Lat+ZBrWteOZz7mtV1WmiEnMsQdt6lTe9Vn+qw8ENDYvTq"
 }
