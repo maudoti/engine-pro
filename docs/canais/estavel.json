@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.45",
-    "Instalador":  "EnginePro_Setup_4.5.45.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.45/EnginePro_Setup_4.5.45.exe",
-    "SHA256":  "3ABED2455A57EA8D421DA8892673F85B189E92CA82285E59DDBCB0A4BB2F2048",
-    "Data":  "2026-10-30 13:42",
-    "Notas":  "Melhoria: resultados da varredura e dos reparos entram recolhidos na conversa, sem empurrar a resposta da IA; Melhoria: o cartão da resposta mostra qual IA respondeu; Melhoria: pedido mais enxuto ao Groq; Correção: registros informativos do Office não aparecem mais como erro",
-    "Assinatura":  "D813CdRLFWAb9GwfwCaY4lCT6EZ/7bM+BM3T/bBXZpkmmWPEd6LepHl19tvnB1fhFDSZ48zbOrAMk1S5KEFydJk3coDJJSBian7k5iCM5JLh6B919vc4JtzJmNb7r9OkjJ0v/5DhnuQQAPjS6doF+1664HfL3+eVyzuVCQns2cVNZW6iBc6w+OQeWkCMomyvDNNRubc5q5dgAfiWJbjjYL1IXiIClv0tTa7ETpqvSwmgl2/oc98IsUq8jGTiuLSNoACygJZU/35WPCMFa6Td3MBkgj2x2eTiuJZEZjFGTVxXpHMVZRDaN8Vj2+1tFuqTT5MWZF4+Gsdme/F0Rfid4dh/OdpZB0oeRZ1WhtGTcDRHXRFcPC8NKofaZkhyvV4esITSLr2ba/1/W1enUb0QdO5sdbni+1ralAUHWxBoHTW0YZhvc/hmEVOqGY8jcvLdKlO/xdj7WMTf+qGX9Af33D4KIcCSpoNAp65jXUIUS0R1uJ63+uj+dmR7m7gAP2Op"
+    "Versao":  "4.5.47",
+    "Instalador":  "EnginePro_Setup_4.5.47.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.47/EnginePro_Setup_4.5.47.exe",
+    "SHA256":  "A60E14085402D8D45AD707F5FB34D2DBFEC0424F57983495AE1606FEA5DF8107",
+    "Data":  "2026-10-30 13:52",
+    "Notas":  "Novo: Desempenho mostra quem mais usa o disco e a rede; Melhoria: cada programa aparece com o nome comercial e o fabricante, e um botão Perguntar à IA",
+    "Assinatura":  "fyGSfuJuqGuk0SJhiNImn8IfnRbuWsk09uiU6SwW5/0dY7jXy3UN7SaofeKSL6ePKok2SYSJOVObo48UXDtJQEHvf2LGr1rLaVuSzP3JtjWfBUpmr+diPjKSSaAz9eVlv8bm9/Lv40ue1ZzcBhtNEGRyxOeMTrq6sSWrlJ862xBOBnJxn/Lv+hZ4l4JmJ33fz0GN5hLVus4gnlYqEQ9c6ai0eE30JNe0zrRUYjiYMh8t4e4JYx9MsIGQ2Qxmo8x5Zeo2ohfwRlhK7Vm6ugDSHxReCMn7LWgSIAzuq2i67e8xPSXGRB3wvUrod0MGQslkU8THPyMn21r4bOtk8foRdecB8YvQfyfIIXHuA6tMC+tul1/5qJ9qW0rGULqApwCdjaYE4tVzQeuMCeNf//mLWjIGClf8my2QJulz2rFMnvx/U7RlkwmThHMSm2RVkCxbd570obNxIUjSFTLgDCQrnT/bovFJlBuUCP26xq+Bgb+KDkzxu+U8UuXF+IhIbcxx"
 }
