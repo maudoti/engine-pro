@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.35",
-    "Instalador":  "EnginePro_Setup_4.5.35.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.35/EnginePro_Setup_4.5.35.exe",
-    "SHA256":  "4264BDCAA0F4981700C5E012160A442FBBBE3DFB4DAE167BF9B4A269B6352B9D",
-    "Data":  "2026-10-30 10:13",
-    "Notas":  "Correção: ao atualizar, a janela aberta de uma versão antiga é substituída pela nova; Melhoria: o grupo Suporte fica no fim do menu",
-    "Assinatura":  "WkvPibSOQA8nx6ubzT+bFHhpVMLjS9nVAAGBlEQb0g91HarE+yhh8H1S/o6e92f/I07pQbXeVRZ1oL83rjr0uLUz5ZC1YcH7/fIhd9eJPNVWLrrmeKaZkBiCoPzE7RN342HHYj7JAJI2lfdRO1zFJ5oRB3rswK2GeddDoLR6vSO2ogtdhUeh+VKZgE6xil8daODzsiz8taXRQPpkQigtdCR5m6QzsYgVOvPctRkecgVyKB05cF5qrazITSEdQ57PCyxjgchkWzBqy7NmgJY8mHenbD3ZR0jp1yC/prF8xf9EufnadsLekIYcsFbzyE0nNpaluEqYkyg0uNRrbiiP0rONDXM+lWVK64BaONAiX5AQPD+buotTUG8K+bFnB49zHcItBJH7Q/OMISYEwyI8VoDjwTjq1dbzUWoyyCdSNql5vQlNMShWz0G7iDmbctydCWTxqepodvOPROcQUhhYbkAmituERY+GnUzgPpA0QSIsSu8kKh1nN8XZNCR8NnZ/"
+    "Versao":  "4.5.38",
+    "Instalador":  "EnginePro_Setup_4.5.38.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.38/EnginePro_Setup_4.5.38.exe",
+    "SHA256":  "EB9319F912891758E0C7A075C33257EF68E1A7939D75866BC578014ACA7D6775",
+    "Data":  "2026-10-30 11:47",
+    "Notas":  "Melhoria: a IA na nuvem responde primeiro, pensando com os dados do computador; a IA local responde só quando a nuvem está desligada ou não responde",
+    "Assinatura":  "uarjRZFWextFmyJQDSc2P+P44lVSBvb1ItT1EXoR1QWSzJp+/nANbR8v4RSMND6YmL0rp90V07M7ja/Ltk6U8JubMRvem3u1yudeUAK5mmOirdAq9N0JCHsE9XJOB3CdRY+WAsZHcMpdTLLjUg/qIIxMACSXeASUjVi5ASWnLsOVgddjrUv3dtM5HVVDvttVlaE2hn3kCDvz2qwAw2oHUonPNSLlzvYkeqRP8Tbe/BkgX6nPY8J8wO54qbjdYfwfmrAwm0EuLlU3dJYLa4sYP9GS6T0s5UKLyGJWeC4PWzH0J8ZwkSD/wVKGbw/fVC/4CO1Vp81j33rtUb/PWgl0aVf8ox1bytqP3lSaZTOCz9Ik3cBu5pzEq3YWNYjFZNPXGvpy0qCNuiHjW8G/0PGl85JFkeOoff85WO2KT//TOQ3hBNIT2acVzNlrbQzca1WmBQze/C2q/+gA6jnUnMS4N72vDMdz6gpJXMcqU/yXp65lL6LzZuD3JsYg4yew6c27"
 }
