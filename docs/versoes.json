@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.31",
+        "Data":  "2026-10-29 23:53",
+        "Notas":  "Melhoria: clima no painel do topo, com ilustração conforme o tempo; Melhoria: espaço em disco junto dos outros medidores, com barra de uso e aviso em vermelho quando o espaço está crítico; Novo: painel de atividade fixo no menu, com a tarefa em execução e a fila",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.31/EnginePro_Setup_4.5.31.exe"
+    },
+    {
         "Versao":  "4.5.30",
         "Data":  "2026-10-29 23:45",
         "Notas":  "Novo: painel de atividade fixo no menu, com a tarefa em execução, o progresso e a fila; Melhoria: menu mais compacto, que cabe inteiro na tela",

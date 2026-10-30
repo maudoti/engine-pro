@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.31",
+        "Data":  "2026-10-29 23:53",
+        "Titulo":  "Clima no painel do topo, com ilustração conforme o tempo",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Clima no painel do topo, com ilustração conforme o tempo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Espaço em disco junto dos outros medidores, com barra de uso e aviso em vermelho quando o espaço está crítico."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Painel de atividade fixo no menu, com a tarefa em execução e a fila."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.30",
         "Data":  "2026-10-29 23:45",
         "Titulo":  "Painel de atividade fixo no menu, com a tarefa em execuçã...",

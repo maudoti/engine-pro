@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.31 | Clima no painel do topo, com ilustração conforme o tempo | 29/10/2026
+
+- **Melhoria**: Clima no painel do topo, com ilustração conforme o tempo.
+- **Melhoria**: Espaço em disco junto dos outros medidores, com barra de uso e aviso em vermelho quando o espaço está crítico.
+- **Novo**: Painel de atividade fixo no menu, com a tarefa em execução e a fila.
+
 ## Versão 4.5.30 | Painel de atividade fixo no menu, com a tarefa em execuçã... | 29/10/2026
 
 - **Novo**: Painel de atividade fixo no menu, com a tarefa em execução, o progresso e a fila.
