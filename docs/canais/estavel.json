@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.47",
-    "Instalador":  "EnginePro_Setup_4.5.47.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.47/EnginePro_Setup_4.5.47.exe",
-    "SHA256":  "A60E14085402D8D45AD707F5FB34D2DBFEC0424F57983495AE1606FEA5DF8107",
-    "Data":  "2026-10-30 13:52",
-    "Notas":  "Novo: Desempenho mostra quem mais usa o disco e a rede; Melhoria: cada programa aparece com o nome comercial e o fabricante, e um botão Perguntar à IA",
-    "Assinatura":  "fyGSfuJuqGuk0SJhiNImn8IfnRbuWsk09uiU6SwW5/0dY7jXy3UN7SaofeKSL6ePKok2SYSJOVObo48UXDtJQEHvf2LGr1rLaVuSzP3JtjWfBUpmr+diPjKSSaAz9eVlv8bm9/Lv40ue1ZzcBhtNEGRyxOeMTrq6sSWrlJ862xBOBnJxn/Lv+hZ4l4JmJ33fz0GN5hLVus4gnlYqEQ9c6ai0eE30JNe0zrRUYjiYMh8t4e4JYx9MsIGQ2Qxmo8x5Zeo2ohfwRlhK7Vm6ugDSHxReCMn7LWgSIAzuq2i67e8xPSXGRB3wvUrod0MGQslkU8THPyMn21r4bOtk8foRdecB8YvQfyfIIXHuA6tMC+tul1/5qJ9qW0rGULqApwCdjaYE4tVzQeuMCeNf//mLWjIGClf8my2QJulz2rFMnvx/U7RlkwmThHMSm2RVkCxbd570obNxIUjSFTLgDCQrnT/bovFJlBuUCP26xq+Bgb+KDkzxu+U8UuXF+IhIbcxx"
+    "Versao":  "4.5.50",
+    "Instalador":  "EnginePro_Setup_4.5.50.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.50/EnginePro_Setup_4.5.50.exe",
+    "SHA256":  "F75B7185B26AC2FB8DD53133F239A9DE3BD70A396731A751CD53CD1299372A95",
+    "Data":  "2026-10-30 14:04",
+    "Notas":  "Novo: Procurar drivers consulta a Dell (Dell Command Update, com BIOS, drivers e firmware) além do Windows Update",
+    "Assinatura":  "mxzD7F2g/p957Ump/WjxOzC1fpmSMHSB0OhQrZsj1RQqLEbqExaE8b4jRQTRCBuQOP3mVP9ALOJoYwMA8iRO31pHpIx1tzLI1ir85ZoyY1Zoq2hOt0xEKrYNNNRKklPw8N256G8GYjh0qUxu0D8zZqjdRTMSOdx7q6W8+YDVzC8ckJHQpx0UDDBoD5KuzEkglvIAh8u/zWIj0+/M71pvWe5+QxaBCGXwAggv+R2ZGLIW197ov4ceLYaHGprKtkrXlAejOUvAz3hlPP2FzoEM85X6CNiAxJkoVdkXDOc1GFaAMFNymg30N0uTbFiaohyF1wFc80w+EgjZP43Q0GWr21GJ4oia4ll23nUibBa2l88No1ZrMQ+hJBZdAAJ+oZxc42512f/cuILNstZsCTiP/o1yu536k4PlNLd4E5mL1IoI3WpP1knsFvdk/FF4mLtTvkHtC0uMR0bHDu6BOH9PZF+YVCGONTS+0TFc5ZOrRt3Yu+xtCviD1/gUoq2uQ/tS"
 }
