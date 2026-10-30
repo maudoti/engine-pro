@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.23 | Ao pedir ajuda com um aviso, a conversa mostra só o resum... | 29/10/2026
+
+- **Melhoria**: Ao pedir ajuda com um aviso, a conversa mostra só o resumo do problema e o plano num único balão, sem a varredura nem sugestões genéricas.
+
 ## Versão 4.5.22 | Pedir para a IA apresenta o plano do que será feito e ped... | 29/10/2026
 
 - **Melhoria**: Pedir para a IA apresenta o plano do que será feito e pede a autorização antes.
