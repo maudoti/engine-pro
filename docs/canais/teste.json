@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.66",
-    "Instalador":  "EnginePro_Setup_4.5.66.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.66/EnginePro_Setup_4.5.66.exe",
-    "SHA256":  "343E6F3CA801D8355D2D0442B75F2CDCC6FE43DAA1D745151CA3F98344A43483",
-    "Data":  "2026-10-30 17:19",
-    "Notas":  "Novo: botão pequeno ao lado da cidade para atualizar o clima na hora",
-    "Assinatura":  "Cuwy0PtkYPo0HREG9A+raBDt3ncp27j/kVEW9G7boR6engEKxS9YgHiVoU387zunvX20ZEB+gE/2dQLX5ARLf9bYFOZeNzuqTA1b+uP8wZSloGlPwnh4MSHMi08jjOcAmgTalFJND5WKcmiZXObuJq/DcN115J393KGaF5DW2hgfD2pY+jm1PoJ0aRcY6XDKcjsQJ6mRsIzR4+nvR8pIeVeMx2arq5AKuPN4ChdivA66T4qVGr8dDaQW0TLSyQQXI3RMRnJ7t4/LZkSXAHXu8mnYXUTYVlIfOrFmmcH2EJvRNO2SQETSEqonUw7fkVkwVeHJVOEuc7wwUzI3eog22MMdcE3pHwIlNzXSm/9xpDcQTha84zd0H3pzoxWQNS6CCfTvcKQ/AIAUNuDG2UovCIAc81FewhhqmGPd1ySkcWav5uDao1tflViekhQxvtmLkmcCg2FrdErtNajK903xCL8nF2q/WhX5Pk2SdqqZULMz4QtDNNR2dLo6TCLSzBDA"
+    "Versao":  "4.5.67",
+    "Instalador":  "EnginePro_Setup_4.5.67.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.67/EnginePro_Setup_4.5.67.exe",
+    "SHA256":  "A1382AC227AB0ECD182A2E9B92BFFAED19A217DAA6772ADFC82D912F617F1787",
+    "Data":  "2026-10-30 17:37",
+    "Notas":  "Melhoria: página Estações com filtros clicáveis (atualizadas, desatualizadas, sem aparecer e atenção) e detalhes de cada estação; Melhoria: a estação registra por que não conseguiu enviar o inventário",
+    "Assinatura":  "EcFkDJCvaGgstjmUXLyh/Jmw1yTBotFvggOwGN0WMToG+fAAxkyPnfuEOgTTcX4gkK0yK/nwMNeZTtCIu78l9jTZ0x/2zhHmnjOWkJGzmhOim6njXVnuvnXxq3Zg9kduQ3r0vVsDqWJtoud5kn2mEgNZc1fwySM6zJOD0s6k8EdSJ1u7sFslQYRtKWOiKSwFK5gTuMU34K/ElozmIob3kw4sAPoMxx59OY3B6tqwt8yx3jMVxLhWS4cGjN3rvxosZlqzfs4qifyEx7WckOFL/thUSQfOrEPRIdZx0/zwVSN5O5n5LzuK0vi0AtB2hhnypQQFOi8BtsKcH0vimRh6UaCm4vK1j6LgA9HOPIf62UP3SwvEy0ktgoBq+YmJsh4PaCknYdY3fqQGS7GGhqL2Xw4G+74WZqPSXChFMzyTQx9HGDa243TwzZ+DP5A3w7lMSYTpguphu8qEg7yzx5SKeBxFPoroproSmt1Nyr7bHM5zygw9xN/+m1bMHz0ln5Ji"
 }

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.67",
+        "Data":  "2026-10-30 17:37",
+        "Notas":  "Melhoria: página Estações com filtros clicáveis (atualizadas, desatualizadas, sem aparecer e atenção) e detalhes de cada estação; Melhoria: a estação registra por que não conseguiu enviar o inventário",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.67/EnginePro_Setup_4.5.67.exe"
+    },
+    {
         "Versao":  "4.5.66",
         "Data":  "2026-10-30 17:20",
         "Notas":  "Novo: botão pequeno ao lado da cidade para atualizar o clima na hora",

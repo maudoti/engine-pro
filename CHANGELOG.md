@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.67 | Página Estações com filtros clicáveis (atualizadas, desat... | 30/10/2026
+
+- **Melhoria**: Página Estações com filtros clicáveis (atualizadas, desatualizadas, sem aparecer e atenção) e detalhes de cada estação.
+- **Melhoria**: A estação registra por que não conseguiu enviar o inventário.
+
 ## Versão 4.5.66 | Botão pequeno ao lado da cidade para atualizar o clima na... | 30/10/2026
 
 - **Novo**: Botão pequeno ao lado da cidade para atualizar o clima na hora.

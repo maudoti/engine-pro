@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.67",
+        "Data":  "2026-10-30 17:37",
+        "Titulo":  "Página Estações com filtros clicáveis (atualizadas, desat...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Página Estações com filtros clicáveis (atualizadas, desatualizadas, sem aparecer e atenção) e detalhes de cada estação."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A estação registra por que não conseguiu enviar o inventário."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.66",
         "Data":  "2026-10-30 17:19",
         "Titulo":  "Botão pequeno ao lado da cidade para atualizar o clima na...",
