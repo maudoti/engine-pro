@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.26",
-    "Instalador":  "EnginePro_Setup_4.5.26.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.26/EnginePro_Setup_4.5.26.exe",
-    "SHA256":  "7F79159D6332A2914C41FDAEF25CE2E513F98B8F94FA3CB5F4627CD9DEBD0347",
-    "Data":  "2026-10-29 21:58",
-    "Notas":  "Correção: Avisar o TI não abre mais o navegador nem o Bloco de Notas; sem envio configurado, o relatório fica salvo em Documentos; Correção: diagnóstico da rede reconhece firewalls que não respondem a ping",
-    "Assinatura":  "FGe2LlLFjs4SZqEIi8HXynQsJedOjSYJ3cL7HdtpSI+DwJX0TSXccYtbBSyk9Il0EM7qmQPJ5sn3YWZJ6WgOaNmGOKJTDkd5hrOKey2WnHNtGwdaQijynqS8xTTtbkl7vmOuqlN2ErwG2rfNhao3bpe+Y99jArgOhPq2Fq7mr+K4cXrNYCRaA49SdCsypDyS0CiTW5tRkwa9WOhw1EmXhuxgJcoGZ1sa8t6fJDa17fFkA19KRZaBLm/2DUjeMih742nUupBLwDY/tgpUoi823PSkQQnPHsgPQTrxvIbuEc/AsFtfb8uBwT87i3gLOpKB3e7PHtZT3gnGYNcfou4C6UYaFIg5rrX2bTe1cnNWPqC4EOzx1lMct2+k7p1y/zuy6MZX5MCNhreSZlkfFD7y4akMDbCq3qzNP75+SbJshKBUPO+O9BnuB/+5/9SLcjkt3Iorvb1AXLzWb9zxCewLMle2RIfW14Ed61u/ogzZnjzsHved36DomftEZtrfdTFH"
+    "Versao":  "4.5.31",
+    "Instalador":  "EnginePro_Setup_4.5.31.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.31/EnginePro_Setup_4.5.31.exe",
+    "SHA256":  "2E657D3E08C7E97A568877B7BEAA091356E9E04E93615338B3548CE9D3AAB56C",
+    "Data":  "2026-10-29 23:53",
+    "Notas":  "Melhoria: clima no painel do topo, com ilustração conforme o tempo; Melhoria: espaço em disco junto dos outros medidores, com barra de uso e aviso em vermelho quando o espaço está crítico; Novo: painel de atividade fixo no menu, com a tarefa em execução e a fila",
+    "Assinatura":  "SqqE4mfJWXBKBEjuOuGWQUbp+L6E9x3zjpzIxEvpWBwyTRYZpvlpQfe0demmUOhnqHEbhEwS9827qBvmHBGxCiwkgMmoBFxB0MaRJM0jJ93EHJIelPsfU8SKqC7G2FtcUAuDjKj10KttCVM71LYqa8SeX3lD9GI3acaoh0/DXHEx9aue1uw6rf3Qxp4DIGFNFhnJqtP2/Q4tuJzWuAOhDy3JcqfTujzH66tvVB2pKiDL+VN+RGnAoBqsYOpSHikEjho80Hv5fFXBTOm69EBASb27GDYFB4n2uiDhNt2uUP9ausCtPzcMDvQHylFoNzvjmgkylZC0S5l1gff2BbwqK+zROCqMXTHOcgpNSAF/CFRMqly3wiRRj0V3eDYyNDFX4Q4WOPkS8X5SI1GJXYTdi/Mn2n7uRoEL2OjT0pnuiujpQtyQIX5lDdc0rsRWj3hngpkb2q/9Lwk80y2HtkyXqnASxuYAIQbzSJJ4VsR8W9bQCv14dR8WVbFrCDSzWzgh"
 }
