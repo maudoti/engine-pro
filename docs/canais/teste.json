@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.65",
-    "Instalador":  "EnginePro_Setup_4.5.65.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.65/EnginePro_Setup_4.5.65.exe",
-    "SHA256":  "080E483B1F5CD91101D42D88A0754747BB3E0D3736323B4F93F9F001D70BD26A",
-    "Data":  "2026-10-30 17:13",
-    "Notas":  "Correção: clima pelas medições reais das estações próximas, com a temperatura média ponderada pela distância e chuva só quando uma estação informa chuva",
-    "Assinatura":  "hazRWVot9ZJ6LBnNQ1Yroq5NaPTiWKubktG5nvEyxz38cNc5CGnta/jswlcsbyCQ9mOG5GyqetA0I9+b3dzT4nHNYi7pYF4rQX2JWqi2WH6h4MqTzrPgF4rtZaauadWRYohNggf+5kNggpTBdtX3aPEachWz+UZNYKMAzW99jCV+OVJCBMjK4sI4Mwu6x/xxA17gZhlnDo9FfKkXc7sfWb+KPpYuyKn5GsvrhDzbbyJhCB9VoiB9GyyMIcQOvfllPlQbf1H2bwk41QHJEijJ6kf7q9GEp2ezW5oGIl0UCQzNqb4AZUVQ5kyAO8+0+us9EcVxf9Kmeg0xFlU46a6tVGO9Sxz6UYu2I321rCyMUw1QBt+Tdn88iGANb73zNcHUek/Y7sZyC5xUpgfFQViOy6qO11eYNyT9DtEvCwynsOb5m6/40DYx7xduaE/jps3n0Apj9Y7pE5EhT01Q8HGAkjhnJhzZC+djWkYhIFpETDx/4YN4Uh/iE5buMO5krJyB"
+    "Versao":  "4.5.66",
+    "Instalador":  "EnginePro_Setup_4.5.66.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.66/EnginePro_Setup_4.5.66.exe",
+    "SHA256":  "343E6F3CA801D8355D2D0442B75F2CDCC6FE43DAA1D745151CA3F98344A43483",
+    "Data":  "2026-10-30 17:19",
+    "Notas":  "Novo: botão pequeno ao lado da cidade para atualizar o clima na hora",
+    "Assinatura":  "Cuwy0PtkYPo0HREG9A+raBDt3ncp27j/kVEW9G7boR6engEKxS9YgHiVoU387zunvX20ZEB+gE/2dQLX5ARLf9bYFOZeNzuqTA1b+uP8wZSloGlPwnh4MSHMi08jjOcAmgTalFJND5WKcmiZXObuJq/DcN115J393KGaF5DW2hgfD2pY+jm1PoJ0aRcY6XDKcjsQJ6mRsIzR4+nvR8pIeVeMx2arq5AKuPN4ChdivA66T4qVGr8dDaQW0TLSyQQXI3RMRnJ7t4/LZkSXAHXu8mnYXUTYVlIfOrFmmcH2EJvRNO2SQETSEqonUw7fkVkwVeHJVOEuc7wwUzI3eog22MMdcE3pHwIlNzXSm/9xpDcQTha84zd0H3pzoxWQNS6CCfTvcKQ/AIAUNuDG2UovCIAc81FewhhqmGPd1ySkcWav5uDao1tflViekhQxvtmLkmcCg2FrdErtNajK903xCL8nF2q/WhX5Pk2SdqqZULMz4QtDNNR2dLo6TCLSzBDA"
 }

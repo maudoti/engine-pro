@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.66 | Botão pequeno ao lado da cidade para atualizar o clima na... | 30/10/2026
+
+- **Novo**: Botão pequeno ao lado da cidade para atualizar o clima na hora.
+
 ## Versão 4.5.65 | Clima pelas medições reais das estações próximas, com a t... | 30/10/2026
 
 - **Correção**: Clima pelas medições reais das estações próximas, com a temperatura média ponderada pela distância e chuva só quando uma estação informa chuva.

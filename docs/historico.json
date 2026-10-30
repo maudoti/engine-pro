@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.66",
+        "Data":  "2026-10-30 17:19",
+        "Titulo":  "Botão pequeno ao lado da cidade para atualizar o clima na...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Botão pequeno ao lado da cidade para atualizar o clima na hora."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.65",
         "Data":  "2026-10-30 17:13",
         "Titulo":  "Clima pelas medições reais das estações próximas, com a t...",
