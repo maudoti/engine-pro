@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.63 | Medidor da velocidade da internet na página Desempenho, c... | 30/10/2026
+
+- **Novo**: Medidor da velocidade da internet na página Desempenho, com upload, latência, provedor e as medições recentes.
+
 ## Versão 4.5.62 | Velocidade da internet medida com várias conexões em para... | 30/10/2026
 
 - **Correção**: Velocidade da internet medida com várias conexões em paralelo, como os sites de teste, sem o falso aviso de internet lenta.

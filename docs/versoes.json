@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.63",
+        "Data":  "2026-10-30 16:38",
+        "Notas":  "Novo: medidor da velocidade da internet na página Desempenho, com upload, latência, provedor e as medições recentes",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.63/EnginePro_Setup_4.5.63.exe"
+    },
+    {
         "Versao":  "4.5.62",
         "Data":  "2026-10-30 16:22",
         "Notas":  "Correção: velocidade da internet medida com várias conexões em paralelo, como os sites de teste, sem o falso aviso de internet lenta; Correção: medições antigas descartadas",

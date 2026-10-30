@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.62",
-    "Instalador":  "EnginePro_Setup_4.5.62.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.62/EnginePro_Setup_4.5.62.exe",
-    "SHA256":  "0AA908B165D891EE5E615A21FCEBD278523B2805FC0C0654D0EF5C08C3FB62EF",
-    "Data":  "2026-10-30 16:22",
-    "Notas":  "Correção: velocidade da internet medida com várias conexões em paralelo, como os sites de teste, sem o falso aviso de internet lenta; Correção: medições antigas descartadas",
-    "Assinatura":  "AsZ4boYRYBrYJz8P058UqCAwt3AH0ywNXOCRx8u9ZhKwfszcRAS4BTn9BFy4RXPF4A5MEO4y2zhu1swssrL2WBM8QTlniz30OMqCUpa/6R7F/hBKYeVSQgmsMMEXn9WovViUdsCTqo07tEVvd07JAf+GXXgra/nV0pR/Opf8rtl/qU+nr46wnCLzR97tKljXDvbm4DYv6kywBE3y34jMV5NRylIxA4CwJqdS6UWMgMnaHbDtH1i38DiazfUDE/WpEStHrE/laMcjpMjz3oU/k9kKy+gd4+RCYNQIy6W39Rr9j/ulW196cz71CDz8a7IUKXZOcWU5YbBi2Klj2o2TObuctt2jkRPIEP23LLkfzA2RoIBFbcLa9RqY3wxMFd2QxD+JA9PUV5jPfWY1scU1FKdn7uowjqpvW/zEiJ/na4CjJOdYx9CRlNV+Sd1NBQgeyBb1V6SLn0hWpofoG3t4dcEga1pHAw+huF23sbZFGHaRz6SKCEQtaIHhoLWRMkdi"
+    "Versao":  "4.5.63",
+    "Instalador":  "EnginePro_Setup_4.5.63.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.63/EnginePro_Setup_4.5.63.exe",
+    "SHA256":  "D3BF534177691D4716BAF5D04FD4D15043D9A792E9BEFBB3D853F6A3007D31B9",
+    "Data":  "2026-10-30 16:38",
+    "Notas":  "Novo: medidor da velocidade da internet na página Desempenho, com upload, latência, provedor e as medições recentes",
+    "Assinatura":  "X6NU+Lnz4OAhGwT3g64AifPdhhhdjFVvvLrQNZQVzfZeAKWj7G1RrRPWzotYGzluHSw4wKp6TgPE23Yw+WA41WxX9n0nkNj7ipM2mG7XDuf8tPquANC5lVd6A0sEasdd12hpUbjRVaPHLd2rsIwa82vrZdnGwW8QsLlzG6TYKSo2g1+z7AQP9vMZUqq0Ge8Y+joHxTO1pksxaPZJF5j0W2uwk6MxZVHh60GF6Ud1H7h35GfxT9DTwAx+CVLif2c9vsT5l09ct800m2+h2ZCMptQmfLVAj0RQ+Jd6GPAn6+wYFexgbTGF/h9Hr+ETeh9IzJe4hwforRkF1DPazSucmHwLcVPEIWKVWyYQUxOubfWTTx3ZU+fSUNjUyT06BeRMT4imKERfcj0FHDl7x56OrCngOdMut3z+sQeJhLbueXjfw9dEVBz4JO73Yo5nre+huBp5ih+hUTX7l1Fxx7tsF5rEWqunVIu7TtzWukBpV8lYAR/QwfCUBVavYaYZOh7N"
 }
