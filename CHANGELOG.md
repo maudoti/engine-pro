@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.34 | Seis pilares (Desempenho, Segurança, Backup e migração, C... | 30/10/2026
+
+- **Novo**: Seis pilares (Desempenho, Segurança, Backup e migração, Central de suporte, Problemas resolvidos e Ficha do computador) e a IA que cruza todas as fontes, aprende e se atualiza sozinha.
+- **Novo**: Backup no OneDrive.
+
 ## Versão 4.5.33 | Seis pilares e a IA que cruza todas as fontes, aprende e ... | 30/10/2026
 
 - **Novo**: Seis pilares e a IA que cruza todas as fontes, aprende e se atualiza sozinha.

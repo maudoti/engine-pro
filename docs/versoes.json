@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.34",
+        "Data":  "2026-10-30 10:04",
+        "Notas":  "Novo: seis pilares (Desempenho, Segurança, Backup e migração, Central de suporte, Problemas resolvidos e Ficha do computador) e a IA que cruza todas as fontes, aprende e se atualiza sozinha; Novo: backup no OneDrive",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.34/EnginePro_Setup_4.5.34.exe"
+    },
+    {
         "Versao":  "4.5.33",
         "Data":  "2026-10-30 09:57",
         "Notas":  "Novo: seis pilares e a IA que cruza todas as fontes, aprende e se atualiza sozinha; Novo: backup no OneDrive de cada pessoa, com espaço conferido, liberação do disco e backup agendado",

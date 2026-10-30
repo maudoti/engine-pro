@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.34",
+        "Data":  "2026-10-30 10:04",
+        "Titulo":  "Seis pilares (Desempenho, Segurança, Backup e migração, C...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Seis pilares (Desempenho, Segurança, Backup e migração, Central de suporte, Problemas resolvidos e Ficha do computador) e a IA que cruza todas as fontes, aprende e se atualiza sozinha."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Backup no OneDrive."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.33",
         "Data":  "2026-10-30 09:57",
         "Titulo":  "Seis pilares e a IA que cruza todas as fontes, aprende e ...",
