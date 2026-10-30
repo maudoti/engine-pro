@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.49 | Cada cartão da página Atualizações tem a própria busca | 30/10/2026
+
+- **Novo**: Cada cartão da página Atualizações tem a própria busca.
+- **Novo**: Lista de programas com atualização do winget, para atualizar só os marcados.
+
 ## Versão 4.5.48 | Página Atualizações reorganizada em cartões (Windows Upda... | 30/10/2026
 
 - **Melhoria**: Página Atualizações reorganizada em cartões (Windows Update, Drivers, Outros aplicativos, Patches e correções, Drivers oferecidos e Histórico), com o Atualizar tudo no topo.
