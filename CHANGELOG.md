@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.43 | O clima não conseguia ler a estação meteorológica mais pr... | 30/10/2026
+
+- **Correção**: O clima não conseguia ler a estação meteorológica mais próxima.
+- **Novo**: Ao clicar no clima, opção de usar a localização do Windows, com a permissão da pessoa.
+
 ## Versão 4.5.42 | Clima com a temperatura e o céu medidos na estação meteor... | 30/10/2026
 
 - **Correção**: Clima com a temperatura e o céu medidos na estação meteorológica mais próxima, em vez da previsão.

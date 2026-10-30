@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.43",
+        "Data":  "2026-10-30 13:29",
+        "Notas":  "Correção: o clima não conseguia ler a estação meteorológica mais próxima; Novo: ao clicar no clima, opção de usar a localização do Windows, com a permissão da pessoa",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.43/EnginePro_Setup_4.5.43.exe"
+    },
+    {
         "Versao":  "4.5.42",
         "Data":  "2026-10-30 13:25",
         "Notas":  "Correção: clima com a temperatura e o céu medidos na estação meteorológica mais próxima, em vez da previsão",

@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.43",
+        "Data":  "2026-10-30 13:29",
+        "Titulo":  "O clima não conseguia ler a estação meteorológica mais pr...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O clima não conseguia ler a estação meteorológica mais próxima."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Ao clicar no clima, opção de usar a localização do Windows, com a permissão da pessoa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.42",
         "Data":  "2026-10-30 13:25",
         "Titulo":  "Clima com a temperatura e o céu medidos na estação meteor...",
