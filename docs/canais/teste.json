@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.27",
-    "Instalador":  "EnginePro_Setup_4.5.27.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.27/EnginePro_Setup_4.5.27.exe",
-    "SHA256":  "4058958810EB2718DBB60E469F7F7CAE26E0C35056468122F9B4C1C8B9ED861C",
-    "Data":  "2026-10-29 22:44",
-    "Notas":  "Correção: o Modo IA volta a fazer a varredura passo a passo ao ser aberto pelo menu depois de um pedido já concluído; Correção: o botão Avisar o TI aparece com o nome certo também nos avisos antigos",
-    "Assinatura":  "IyHZklXf9A3unYbi4ZfLsG8o4UPAYR1y6DpbiSOYEqZp28R2VlKsqeulWB87OZiecKRJrsiUD6zpXNbMexpTTXa7dMA+5qXt25NhBDEjsmYZemS+ohWWOkU9vm9KbMdE6J1t8eoKAlV7GZQ05GV3yknPtNmXTCqX5LX1o/pWurwQOoQ0ODaO6ezpMdSdZ5smumkuz3dvHOBegiwA0TRFYlLuiQvDdwXfaaxu+ZzY6L5vv8QnvRP5EOEtrQCECyLG5M8SJeXKNTGT9TNXKvj+K6JzEMZPcTs3Mfsa6cgJiaip5rIt5qZMUQvHKiXxT7dddBuzioFonil1+CpBJN4ykMG8KiTm6LR1ijCnm0IAitvQKuubG73no9ezcYMAISjie/GieUqJI5SC8FBReVyT78cMIyFBZbwvlGDE9t8QCTs5fxQrcS1kct2FUWeO+Sjf2Q8ADJhwvvkvMEyAFIFM2vjo1ZUtXR648mTiSdoSyZcxDdK8JUsbrbfRJ1cVpgrl"
+    "Versao":  "4.5.28",
+    "Instalador":  "EnginePro_Setup_4.5.28.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.28/EnginePro_Setup_4.5.28.exe",
+    "SHA256":  "74C0F3C733E62E95F0597677B6C9DE9E6C44D663F46F41CC306ABE482775B8AF",
+    "Data":  "2026-10-29 23:38",
+    "Notas":  "Novo: Agendamento de tarefas, executado pelo serviço mesmo com o Engine Pro fechado; Novo: tela inicial com ações rápidas, espaço em disco, próximas tarefas, segurança, saúde nos últimos 30 dias e bateria; Novo: fila de tarefas; Melhoria: menu organizado em grupos, com as páginas Limpeza e otimização e Diagnóstico e reparos; Correção: clima do menu dentro das margens",
+    "Assinatura":  "hUPMkAsxKEKBnv3QY3ggHQZcm+83BklWoDcfu9lRNIJZOEvcYaJQPqqw+Q1YpYObkqn822xMjkAdZb7ktSy2S4x/v+ujuUXubumYqfE59yt1nUYdIxWZuWbYPbFekSCa8VIqpNpApOjPdAz9lYpSsMu2e+cXlGlFOCQk713upOO6oUL7TlH58Su9k+kod8y2AUY6wBPCcSsmh7A4GahfHxT0ac2/X5hcKVYmdfUW/DYH63Y9fIafkDRoAbuQ3vPEyDUv00OZCk92C2Ld8eQp/uFgCaJy27Mn+y3dM4HmERbVaEDLfla+xNDUlba+UngTM8qOtBhq9sjWmjD2WC2q7jzejn4o008O/SmNEG2Ak0gXcXI4s2znO3S1HV3VCJ4tIP8A+az+8ypEBl6vFyu0hKkjgzNyA4cKohxgvSv030lqxSBIxUB4/GB6yrZwx3tyWuyLoumBq9D/satJ0PXEgVYhv/WiJWCVM6FLpPDPY02avpG45WfN6AkSqu0JLca+"
 }
