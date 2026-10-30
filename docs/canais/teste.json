@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.26",
-    "Instalador":  "EnginePro_Setup_4.5.26.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.26/EnginePro_Setup_4.5.26.exe",
-    "SHA256":  "7F79159D6332A2914C41FDAEF25CE2E513F98B8F94FA3CB5F4627CD9DEBD0347",
-    "Data":  "2026-10-29 21:58",
-    "Notas":  "Correção: Avisar o TI não abre mais o navegador nem o Bloco de Notas; sem envio configurado, o relatório fica salvo em Documentos; Correção: diagnóstico da rede reconhece firewalls que não respondem a ping",
-    "Assinatura":  "FGe2LlLFjs4SZqEIi8HXynQsJedOjSYJ3cL7HdtpSI+DwJX0TSXccYtbBSyk9Il0EM7qmQPJ5sn3YWZJ6WgOaNmGOKJTDkd5hrOKey2WnHNtGwdaQijynqS8xTTtbkl7vmOuqlN2ErwG2rfNhao3bpe+Y99jArgOhPq2Fq7mr+K4cXrNYCRaA49SdCsypDyS0CiTW5tRkwa9WOhw1EmXhuxgJcoGZ1sa8t6fJDa17fFkA19KRZaBLm/2DUjeMih742nUupBLwDY/tgpUoi823PSkQQnPHsgPQTrxvIbuEc/AsFtfb8uBwT87i3gLOpKB3e7PHtZT3gnGYNcfou4C6UYaFIg5rrX2bTe1cnNWPqC4EOzx1lMct2+k7p1y/zuy6MZX5MCNhreSZlkfFD7y4akMDbCq3qzNP75+SbJshKBUPO+O9BnuB/+5/9SLcjkt3Iorvb1AXLzWb9zxCewLMle2RIfW14Ed61u/ogzZnjzsHved36DomftEZtrfdTFH"
+    "Versao":  "4.5.27",
+    "Instalador":  "EnginePro_Setup_4.5.27.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.27/EnginePro_Setup_4.5.27.exe",
+    "SHA256":  "4058958810EB2718DBB60E469F7F7CAE26E0C35056468122F9B4C1C8B9ED861C",
+    "Data":  "2026-10-29 22:44",
+    "Notas":  "Correção: o Modo IA volta a fazer a varredura passo a passo ao ser aberto pelo menu depois de um pedido já concluído; Correção: o botão Avisar o TI aparece com o nome certo também nos avisos antigos",
+    "Assinatura":  "IyHZklXf9A3unYbi4ZfLsG8o4UPAYR1y6DpbiSOYEqZp28R2VlKsqeulWB87OZiecKRJrsiUD6zpXNbMexpTTXa7dMA+5qXt25NhBDEjsmYZemS+ohWWOkU9vm9KbMdE6J1t8eoKAlV7GZQ05GV3yknPtNmXTCqX5LX1o/pWurwQOoQ0ODaO6ezpMdSdZ5smumkuz3dvHOBegiwA0TRFYlLuiQvDdwXfaaxu+ZzY6L5vv8QnvRP5EOEtrQCECyLG5M8SJeXKNTGT9TNXKvj+K6JzEMZPcTs3Mfsa6cgJiaip5rIt5qZMUQvHKiXxT7dddBuzioFonil1+CpBJN4ykMG8KiTm6LR1ijCnm0IAitvQKuubG73no9ezcYMAISjie/GieUqJI5SC8FBReVyT78cMIyFBZbwvlGDE9t8QCTs5fxQrcS1kct2FUWeO+Sjf2Q8ADJhwvvkvMEyAFIFM2vjo1ZUtXR648mTiSdoSyZcxDdK8JUsbrbfRJ1cVpgrl"
 }

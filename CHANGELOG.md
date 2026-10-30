@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.27 | O Modo IA volta a fazer a varredura passo a passo ao ser ... | 29/10/2026
+
+- **Correção**: O Modo IA volta a fazer a varredura passo a passo ao ser aberto pelo menu depois de um pedido já concluído.
+- **Correção**: O botão Avisar o TI aparece com o nome certo também nos avisos antigos.
+
 ## Versão 4.5.26 | Avisar o TI não abre mais o navegador nem o Bloco de Notas | 29/10/2026
 
 - **Correção**: Avisar o TI não abre mais o navegador nem o Bloco de Notas.

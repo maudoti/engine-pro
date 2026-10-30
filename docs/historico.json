@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.27",
+        "Data":  "2026-10-29 22:44",
+        "Titulo":  "O Modo IA volta a fazer a varredura passo a passo ao ser ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O Modo IA volta a fazer a varredura passo a passo ao ser aberto pelo menu depois de um pedido já concluído."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O botão Avisar o TI aparece com o nome certo também nos avisos antigos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.26",
         "Data":  "2026-10-29 21:58",
         "Titulo":  "Avisar o TI não abre mais o navegador nem o Bloco de Notas",
