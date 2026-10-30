@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.61",
+        "Data":  "2026-10-30 16:19",
+        "Notas":  "Melhoria: novo texto no topo do Modo IA, com o Modo Colmeia de Aprendizado ativo",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.61/EnginePro_Setup_4.5.61.exe"
+    },
+    {
         "Versao":  "4.5.60",
         "Data":  "2026-10-30 15:56",
         "Notas":  "Correção: o Pedir para a IA da varredura leva o programa e o que foi detectado, e a IA responde sobre o problema real; Melhoria: o Atualizar dos programas que iniciam com o Windows mostra que releu a lista",

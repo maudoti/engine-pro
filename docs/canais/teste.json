@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.60",
-    "Instalador":  "EnginePro_Setup_4.5.60.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.60/EnginePro_Setup_4.5.60.exe",
-    "SHA256":  "6CFC104DA516E684DF4244DB5B40DCF646B90795E8C49491806769BAF1B9DC41",
-    "Data":  "2026-10-30 15:56",
-    "Notas":  "Correção: o Pedir para a IA da varredura leva o programa e o que foi detectado, e a IA responde sobre o problema real; Melhoria: o Atualizar dos programas que iniciam com o Windows mostra que releu a lista",
-    "Assinatura":  "Z/m2x8D9E1x+hV8K/FJPbCxjRJUJe7cTZo0svKtsROVnfnvWxfSUEL40GZMVxYeFL2Wdnh7ae9mq/rzToluaYTc0E3/jzD7G5CvgDOCpop1ulrW0Ptw7bk08m+BB9qx30aTckU1Dps86d30dhp4D35YvmkLQcVp5UyOBYyqTQgHonxmjIB5vsINCEp071KtvzFLN6aeYQ7Wtlswav4NYNVGF+IyTkcrD87wOt7yYn+Z1LhRj7XIJmiXqb8xcadxbxc5ULUlT72nemNFK/odpp33aHUITsBIsLoSaO8ekpiJ6Fnm5mnm4RtHgRtkEI80JwvTrFUQPXsu+OLbZScN2rGQMrPfug8230ZvSjvAlmY3CPkSrFuYiwWw1lH/35FgvZH1NLNPbOzKr0FLDjJQNsfLEU+C5mfs86nyvdrJf+OujykbOWX6OMS61AxhItomKYKtXaHScYSo4qHGg1+IyZOmNAG3Z+IjivfNKsXNB1Y+JLufGytc9F6Opjq5ODRV1"
+    "Versao":  "4.5.61",
+    "Instalador":  "EnginePro_Setup_4.5.61.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.61/EnginePro_Setup_4.5.61.exe",
+    "SHA256":  "411F38412514855D703EAACAF104581B82549F699E3F12059E818BEE9D82B709",
+    "Data":  "2026-10-30 16:19",
+    "Notas":  "Melhoria: novo texto no topo do Modo IA, com o Modo Colmeia de Aprendizado ativo",
+    "Assinatura":  "eg7DM8GIkUiTJ+CUeWQkLzVkP6dpGHiySi7C2z+reHlS7k9w8YPkiDleOQr2qU7wug8Y5jdUOizYbp1kSUZNyXQ5YAJ/s7NeIxagqeMfPDL4/iI1AYinNc/ALyRjfP+dpO7HDAKAYquIJ+G156Lt3Yeda7jOv9OthP4/jTGDJbf6liSB2Laqmb/XzuZAMwWdUHqPAlmTFY6Ci6Q9QmMMx+3YG4/cwG2WslXcTFk34IBB78LbTlUPrd3Kc0t5EYS79c6TaxskKlJjqkBvFoPWRBgWkWW3zboqeXT1nRQBQosN1JQDtdT09odAUDHws7v5X0fcgQgKABskOp4wmk4gIfOD4FVThPxH71COUd8zy7djv+FKgbrVHil4VpoDiZyLHyRpll4k08aER1YSDX1Dqa8uvmVoRUyyxWhhjESZJClUjr2oBpnzA39eMYwtfn+B9LqB0Q6NABeBhPeVDPw/+sSJkzjgqFbM6VFBDVP3//DbgK6PyCp0mGO30+pfXYqD"
 }

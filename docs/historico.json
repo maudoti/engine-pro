@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.61",
+        "Data":  "2026-10-30 16:19",
+        "Titulo":  "Novo texto no topo do Modo IA, com o Modo Colmeia de Apre...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Novo texto no topo do Modo IA, com o Modo Colmeia de Aprendizado ativo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.60",
         "Data":  "2026-10-30 15:56",
         "Titulo":  "O Pedir para a IA da varredura leva o programa e o que fo...",

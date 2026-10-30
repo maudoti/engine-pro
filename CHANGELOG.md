@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.61 | Novo texto no topo do Modo IA, com o Modo Colmeia de Apre... | 30/10/2026
+
+- **Melhoria**: Novo texto no topo do Modo IA, com o Modo Colmeia de Aprendizado ativo.
+
 ## Versão 4.5.60 | O Pedir para a IA da varredura leva o programa e o que fo... | 30/10/2026
 
 - **Correção**: O Pedir para a IA da varredura leva o programa e o que foi detectado, e a IA responde sobre o problema real.
