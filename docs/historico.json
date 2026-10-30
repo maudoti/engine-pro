@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.36",
+        "Data":  "2026-10-30 11:38",
+        "Titulo":  "A IA entende a pergunta antes de responder, explica os av...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A IA entende a pergunta antes de responder, explica os avisos com os dados do computador, consulta a nuvem quando a pessoa insiste e nunca repete a mesma resposta."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Erros de hardware separados por peça (PCI Express, processador, memória), com o dispositivo."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Texto do Modo IA sobre o uso da IA na nuvem."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.35",
         "Data":  "2026-10-30 10:13",
         "Titulo":  "Ao atualizar, a janela aberta de uma versão antiga é subs...",

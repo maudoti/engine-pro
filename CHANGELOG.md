@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.36 | A IA entende a pergunta antes de responder, explica os av... | 30/10/2026
+
+- **Melhoria**: A IA entende a pergunta antes de responder, explica os avisos com os dados do computador, consulta a nuvem quando a pessoa insiste e nunca repete a mesma resposta.
+- **Melhoria**: Erros de hardware separados por peça (PCI Express, processador, memória), com o dispositivo.
+- **Correção**: Texto do Modo IA sobre o uso da IA na nuvem.
+
 ## Versão 4.5.35 | Ao atualizar, a janela aberta de uma versão antiga é subs... | 30/10/2026
 
 - **Correção**: Ao atualizar, a janela aberta de uma versão antiga é substituída pela nova.

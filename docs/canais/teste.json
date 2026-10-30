@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.35",
-    "Instalador":  "EnginePro_Setup_4.5.35.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.35/EnginePro_Setup_4.5.35.exe",
-    "SHA256":  "4264BDCAA0F4981700C5E012160A442FBBBE3DFB4DAE167BF9B4A269B6352B9D",
-    "Data":  "2026-10-30 10:13",
-    "Notas":  "Correção: ao atualizar, a janela aberta de uma versão antiga é substituída pela nova; Melhoria: o grupo Suporte fica no fim do menu",
-    "Assinatura":  "WkvPibSOQA8nx6ubzT+bFHhpVMLjS9nVAAGBlEQb0g91HarE+yhh8H1S/o6e92f/I07pQbXeVRZ1oL83rjr0uLUz5ZC1YcH7/fIhd9eJPNVWLrrmeKaZkBiCoPzE7RN342HHYj7JAJI2lfdRO1zFJ5oRB3rswK2GeddDoLR6vSO2ogtdhUeh+VKZgE6xil8daODzsiz8taXRQPpkQigtdCR5m6QzsYgVOvPctRkecgVyKB05cF5qrazITSEdQ57PCyxjgchkWzBqy7NmgJY8mHenbD3ZR0jp1yC/prF8xf9EufnadsLekIYcsFbzyE0nNpaluEqYkyg0uNRrbiiP0rONDXM+lWVK64BaONAiX5AQPD+buotTUG8K+bFnB49zHcItBJH7Q/OMISYEwyI8VoDjwTjq1dbzUWoyyCdSNql5vQlNMShWz0G7iDmbctydCWTxqepodvOPROcQUhhYbkAmituERY+GnUzgPpA0QSIsSu8kKh1nN8XZNCR8NnZ/"
+    "Versao":  "4.5.36",
+    "Instalador":  "EnginePro_Setup_4.5.36.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.36/EnginePro_Setup_4.5.36.exe",
+    "SHA256":  "1ED762DBD56F250398EEB89278C7E00CB11054FB27FCAFE5E864C0912D5E300A",
+    "Data":  "2026-10-30 11:38",
+    "Notas":  "Melhoria: a IA entende a pergunta antes de responder, explica os avisos com os dados do computador, consulta a nuvem quando a pessoa insiste e nunca repete a mesma resposta; Melhoria: erros de hardware separados por peça (PCI Express, processador, memória), com o dispositivo; Correção: texto do Modo IA sobre o uso da IA na nuvem",
+    "Assinatura":  "b2G7Q9nAvinupidg0yTmLATOoC2AssxBkrtyUOkBm5PxnplvrFUqEUAR0XYZ5S8BlWEAJwOoVOgZBi4FsYafJbRdKL0qHGXTnYfluBmSRwVsnahtAudQG6ZAQEyXOBJRleZ9ABQzKdVo9YNdFPPOtss6+DJM5C6uPzIsU7WyJIVb49OtIoNel3nEhoxx0vIetASBazdSwDlDoSF9m74Rx/Qcu0Efwfk9EvNFdhL+2Eef/pdZTEvsIT0tm73HnwU69UentOjaCF3wFLL6tLBn5Trlr4iG59Xe6DVCBOcpiyZdQQIpqfgvb3Mv/QtvLleBEBzLgUfcfVkVTLKkYHWCX+9SlaJH2Rj73GjOqT0H99IWDpaMj7x0ud05oiydX2gqdTWlHA7ekmLjdo/l8kkWErCvpprZzFfZiJPTpZVf/joErj4DP4ih/sR/9IYQ1dP9VHMxEwMA3FX1YF+MR2Z4yIJDzZh899Euz6Kgd9raq1m0FAiJxctk7EhCxRKF5tTy"
 }
