@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.45 | Resultados da varredura e dos reparos entram recolhidos n... | 30/10/2026
+
+- **Melhoria**: Resultados da varredura e dos reparos entram recolhidos na conversa, sem empurrar a resposta da IA.
+- **Melhoria**: O cartão da resposta mostra qual IA respondeu.
+- **Melhoria**: Pedido mais enxuto ao Groq.
+- **Correção**: Registros informativos do Office não aparecem mais como erro.
+
 ## Versão 4.5.44 | O clima guardado pela versão anterior é descartado e lido... | 30/10/2026
 
 - **Correção**: O clima guardado pela versão anterior é descartado e lido de novo ao abrir.

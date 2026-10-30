@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.45",
+        "Data":  "2026-10-30 13:42",
+        "Notas":  "Melhoria: resultados da varredura e dos reparos entram recolhidos na conversa, sem empurrar a resposta da IA; Melhoria: o cartão da resposta mostra qual IA respondeu; Melhoria: pedido mais enxuto ao Groq; Correção: registros informativos do Office não aparecem mais como erro",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.45/EnginePro_Setup_4.5.45.exe"
+    },
+    {
         "Versao":  "4.5.44",
         "Data":  "2026-10-30 13:33",
         "Notas":  "Correção: o clima guardado pela versão anterior é descartado e lido de novo ao abrir; Novo: na primeira vez que abre, o Engine Pro pede para usar a localização do Windows no clima",

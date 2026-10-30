@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.44",
-    "Instalador":  "EnginePro_Setup_4.5.44.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.44/EnginePro_Setup_4.5.44.exe",
-    "SHA256":  "A7CF0DFAD4A90DA336CAF6D3C4834ECAC720CD7E68CB0A4C1C508C263274DA28",
-    "Data":  "2026-10-30 13:33",
-    "Notas":  "Correção: o clima guardado pela versão anterior é descartado e lido de novo ao abrir; Novo: na primeira vez que abre, o Engine Pro pede para usar a localização do Windows no clima",
-    "Assinatura":  "Lg965dfJGKar70vDNEemCTDrPJ++j7rV8eiu4VMKD01y0YjuYTQFXabws0UlNOfdclNwEzxeeGNtFG1smw9kMGhMo2MjaDIQvaQo/TYHZrM1pSvqx7bVdO0DzvUEJNR3k4IOdwhgIRFKsik8MTemwCqj4+LsG4I1wDuN7yJuLEULSEmHis/3sn4FcPZAtRFHJZQnhyoRdvD9TkIQsBZn1r1tMUvx1zWgmaBQwpxkcPDFVkZB+yQoVait46a6rykFoSY/Wjh/MEQmSpXlipn9nmwkd1TwxsjvTgEyD3apaITwqptBXa5X+G3ueg77uc3+2yz4kH210ZNoiwgkrO4BSVoXengbcsYU96QBkBLtlv4bZXymv7Uuy6GILJtzcD3pptsiHOdSgqJ/mGmL54MwyxaVxN09SZ0iOgQ1O0d5SLgvpRazEupK5NPE8d0s1BMZh7B5Kxhz1EUCnMNXkMNNXiBFpgca6RIyagYWOZvs5rK6MDn1jMiwdBBKRnCnqy5A"
+    "Versao":  "4.5.45",
+    "Instalador":  "EnginePro_Setup_4.5.45.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.45/EnginePro_Setup_4.5.45.exe",
+    "SHA256":  "3ABED2455A57EA8D421DA8892673F85B189E92CA82285E59DDBCB0A4BB2F2048",
+    "Data":  "2026-10-30 13:42",
+    "Notas":  "Melhoria: resultados da varredura e dos reparos entram recolhidos na conversa, sem empurrar a resposta da IA; Melhoria: o cartão da resposta mostra qual IA respondeu; Melhoria: pedido mais enxuto ao Groq; Correção: registros informativos do Office não aparecem mais como erro",
+    "Assinatura":  "D813CdRLFWAb9GwfwCaY4lCT6EZ/7bM+BM3T/bBXZpkmmWPEd6LepHl19tvnB1fhFDSZ48zbOrAMk1S5KEFydJk3coDJJSBian7k5iCM5JLh6B919vc4JtzJmNb7r9OkjJ0v/5DhnuQQAPjS6doF+1664HfL3+eVyzuVCQns2cVNZW6iBc6w+OQeWkCMomyvDNNRubc5q5dgAfiWJbjjYL1IXiIClv0tTa7ETpqvSwmgl2/oc98IsUq8jGTiuLSNoACygJZU/35WPCMFa6Td3MBkgj2x2eTiuJZEZjFGTVxXpHMVZRDaN8Vj2+1tFuqTT5MWZF4+Gsdme/F0Rfid4dh/OdpZB0oeRZ1WhtGTcDRHXRFcPC8NKofaZkhyvV4esITSLr2ba/1/W1enUb0QdO5sdbni+1ralAUHWxBoHTW0YZhvc/hmEVOqGY8jcvLdKlO/xdj7WMTf+qGX9Af33D4KIcCSpoNAp65jXUIUS0R1uJ63+uj+dmR7m7gAP2Op"
 }
