@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.71 | A IA da nuvem não cita mais programas que não existem no ... | 30/10/2026
+
+- **Correção**: A IA da nuvem não cita mais programas que não existem no computador (regra contra inventar, lista real de programas abertos, modelo maior e conferência da resposta).
+
 ## Versão 4.5.70 | Caminho curto só para as pastas fundas, agrupadas automat... | 30/10/2026
 
 - **Novo**: Caminho curto só para as pastas fundas, agrupadas automaticamente, com botão para criar todas de uma vez.
