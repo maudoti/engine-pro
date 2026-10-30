@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.68",
-    "Instalador":  "EnginePro_Setup_4.5.68.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.68/EnginePro_Setup_4.5.68.exe",
-    "SHA256":  "58A5D8A17B673EA327735FA74894757212FEC26815457228B3CCECEAC0F8860E",
-    "Data":  "2026-10-30 17:51",
-    "Notas":  "Novo: inventário das estações também pela internet, criptografado com a chave do TI, para obras e quem está fora do escritório",
-    "Assinatura":  "VhsFx3QrpTyZEu/9w0rkt2Q+6dBsOlhncn9yC2R2n50WxK1K1oLRZTYfnZdRlkKoSfE1On0ZK7c4QuRS/GZr5EjzV3N2J8pwpMXhuGLKdCSM1bRSFclJ0bG8ZidsDTHhIls2lq2Gt48F1XhmPYPT5OdaQdA2lht0zVTrACnc/pO8M4RgTbS7RyHTEpz3QNv+gIKsv/cFVgSt+jMiihWD9OGVzh2hCUc7Be7goWqhbmhDQKXdO09gwzptw6fhkUE0HKuDIPdezClNbG3db6xnwvGqAyzLC3k1HDFKvKHCnlDoZgowEX+9mqkl65J2Gify47baDYpa7Xk643IUbIDtckmAip4Yoo8nF6jhSmWJ85Ja0mkL1RfIdJiG4QRBaR1TXhyohN5GHoCNB6U7gdNjkmxFImt9vS9kE6ScP9ir1AyezgEtwFzDEK6gdAtUG4PmAlOSVlBQCGe4EzUTgGzfJwSWMJoSt4xRliXsRrFkydtcznn+lZbIpmMHtwUiGa4r"
+    "Versao":  "4.5.69",
+    "Instalador":  "EnginePro_Setup_4.5.69.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.69/EnginePro_Setup_4.5.69.exe",
+    "SHA256":  "9B84166CBC8B97A8EF49838E12CC94155EBD57E69E134F0A22502111042E917F",
+    "Data":  "2026-10-30 18:36",
+    "Notas":  "Novo: caminho curto C:\\OD para as pastas do OneDrive e SharePoint, sem mover nem renomear nada; Novo: relatório de caminhos longos com as planilhas que têm vínculo com cada arquivo",
+    "Assinatura":  "G9XWdwxb5FBZrVPg0jHIeJvumxGQl0qNlEZmu2/he5JQmV5XPHNs4bLnUyFHzPwLauQZiIaMUnqTvqZxA8ItlpWOU5vCZClcSJ0lB4NuHFy56wZW6veapbkPEpHATcgZZNQ7UvndvXhptqsQSkH5PEQP018oNrtC9dxDE65tsP1YfxGiFIQYTcCQ9BXgvGEDNrfUjEUdIwkCSXxgNBxqjG5z4eCfjO2ei7bAyq37JEJO4ugC1O0CL00e7N7SMlY/heYB68FBkSI9Smjs2fKLB/cExvQY2FuWje0vKc4IhPEJuqtiW1nJlDSz4q+2v8cwt3d8V4rkQZsd6oTM2CNHq2k5LRF847jWBJvWiy0YEBFcI2zZihJS3TjchU09wE2WlR0w5xCBEpDEGjDSyX6kqEV6zV+qdpXtVaXkbtcFQw92fAlM8D5jP4jtHf947QO327X/ciswExgTvAFmSelHgrntv1B0K12yL5YelPdfgFd/MYtfHgKw+bglLkzghkA2"
 }
