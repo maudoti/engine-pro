@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.21 | Os avisos da tela inicial se ajustam à análise mais recen... | 29/10/2026
+
+- **Melhoria**: Os avisos da tela inicial se ajustam à análise mais recente ao abrir o Engine Pro.
+- **Melhoria**: A primeira análise do monitor acontece 3 minutos depois de iniciar, renovando os avisos logo após as atualizações.
+
 ## Versão 4.5.20 | Reparo Acelerar a inicialização, que adia serviços que po... | 29/10/2026
 
 - **Novo**: Reparo Acelerar a inicialização, que adia serviços que podem esperar e o serviço de impressão, tira programas dispensáveis da inicialização e limpa temporários.

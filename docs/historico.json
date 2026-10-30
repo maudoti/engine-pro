@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.21",
+        "Data":  "2026-10-29 21:02",
+        "Titulo":  "Os avisos da tela inicial se ajustam à análise mais recen...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Os avisos da tela inicial se ajustam à análise mais recente ao abrir o Engine Pro."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A primeira análise do monitor acontece 3 minutos depois de iniciar, renovando os avisos logo após as atualizações."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.20",
         "Data":  "2026-10-29 20:54",
         "Titulo":  "Reparo Acelerar a inicialização, que adia serviços que po...",
