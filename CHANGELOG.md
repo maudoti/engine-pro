@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.47 | Desempenho mostra quem mais usa o disco e a rede | 30/10/2026
+
+- **Novo**: Desempenho mostra quem mais usa o disco e a rede.
+- **Melhoria**: Cada programa aparece com o nome comercial e o fabricante, e um botão Perguntar à IA.
+
 ## Versão 4.5.46 | A atividade do disco na página Desempenho era sempre zero | 30/10/2026
 
 - **Correção**: A atividade do disco na página Desempenho era sempre zero.

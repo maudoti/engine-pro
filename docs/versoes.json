@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.47",
+        "Data":  "2026-10-30 13:52",
+        "Notas":  "Novo: Desempenho mostra quem mais usa o disco e a rede; Melhoria: cada programa aparece com o nome comercial e o fabricante, e um botão Perguntar à IA",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.47/EnginePro_Setup_4.5.47.exe"
+    },
+    {
         "Versao":  "4.5.46",
         "Data":  "2026-10-30 13:50",
         "Notas":  "Correção: a atividade do disco na página Desempenho era sempre zero; Melhoria: o cartão do disco mostra leitura e gravação em MB/s e separa o espaço usado; Melhoria: cartões mostram Aguarde, carregando... até a primeira medição",

@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.46",
-    "Instalador":  "EnginePro_Setup_4.5.46.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.46/EnginePro_Setup_4.5.46.exe",
-    "SHA256":  "6CE07470A60F3850F4E01F7BA99142240B379720A68BD3A9A75F1D03BDB64A16",
-    "Data":  "2026-10-30 13:50",
-    "Notas":  "Correção: a atividade do disco na página Desempenho era sempre zero; Melhoria: o cartão do disco mostra leitura e gravação em MB/s e separa o espaço usado; Melhoria: cartões mostram Aguarde, carregando... até a primeira medição",
-    "Assinatura":  "cSbcfSYpo9md3xle64rMCv3IY0idlmuAROs8GFIeubU9ZQncuy002pijK2vvFwHSOy8JODG9+0pwNK1/UnzBx1iS8loMBlyfsvWYdudaGfVBw+zXOpmjKvNjTSADDb9jr9DprEiVo4XUksd6Cn+WJ5Wwi8/tVpvJiwkSWPUeww8KBlbMqUOBWSKrM5CfGlt+sTNQI4XZjkOnPVPoPYuoku3PlGCAErTKQgLIqX3ZvFwkWJmPfGb2i9Gfh7vPoc7hDVm04T59upU9F/OiQQPRlQ/cD8KH+2E5kdDhgVrwusBHFvOmRBCJvSsvQpaK8otupuPS5FAp7xndsUhJWWZdjA5PxCPZe0DlF9sDRoonjdBeIZGYzd4IBpBFY06W8Z2RYORroryGJKx4HKgrHjsPTsARoSsTdGlicoWBPagVe0jhYjqaXH0wpKvTyGzHeeUBl1FEs/9IgZkDhOe2FkkfZwWQI2YoCu05bYS1aGIyJPS1BAXOXoX9IPC3d628nzxj"
+    "Versao":  "4.5.47",
+    "Instalador":  "EnginePro_Setup_4.5.47.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.47/EnginePro_Setup_4.5.47.exe",
+    "SHA256":  "A60E14085402D8D45AD707F5FB34D2DBFEC0424F57983495AE1606FEA5DF8107",
+    "Data":  "2026-10-30 13:52",
+    "Notas":  "Novo: Desempenho mostra quem mais usa o disco e a rede; Melhoria: cada programa aparece com o nome comercial e o fabricante, e um botão Perguntar à IA",
+    "Assinatura":  "fyGSfuJuqGuk0SJhiNImn8IfnRbuWsk09uiU6SwW5/0dY7jXy3UN7SaofeKSL6ePKok2SYSJOVObo48UXDtJQEHvf2LGr1rLaVuSzP3JtjWfBUpmr+diPjKSSaAz9eVlv8bm9/Lv40ue1ZzcBhtNEGRyxOeMTrq6sSWrlJ862xBOBnJxn/Lv+hZ4l4JmJ33fz0GN5hLVus4gnlYqEQ9c6ai0eE30JNe0zrRUYjiYMh8t4e4JYx9MsIGQ2Qxmo8x5Zeo2ohfwRlhK7Vm6ugDSHxReCMn7LWgSIAzuq2i67e8xPSXGRB3wvUrod0MGQslkU8THPyMn21r4bOtk8foRdecB8YvQfyfIIXHuA6tMC+tul1/5qJ9qW0rGULqApwCdjaYE4tVzQeuMCeNf//mLWjIGClf8my2QJulz2rFMnvx/U7RlkwmThHMSm2RVkCxbd570obNxIUjSFTLgDCQrnT/bovFJlBuUCP26xq+Bgb+KDkzxu+U8UuXF+IhIbcxx"
 }

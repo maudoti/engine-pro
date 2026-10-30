@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.47",
+        "Data":  "2026-10-30 13:52",
+        "Titulo":  "Desempenho mostra quem mais usa o disco e a rede",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Desempenho mostra quem mais usa o disco e a rede."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cada programa aparece com o nome comercial e o fabricante, e um botão Perguntar à IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.46",
         "Data":  "2026-10-30 13:50",
         "Titulo":  "A atividade do disco na página Desempenho era sempre zero",
