@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.69",
-    "Instalador":  "EnginePro_Setup_4.5.69.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.69/EnginePro_Setup_4.5.69.exe",
-    "SHA256":  "9B84166CBC8B97A8EF49838E12CC94155EBD57E69E134F0A22502111042E917F",
-    "Data":  "2026-10-30 18:36",
-    "Notas":  "Novo: caminho curto C:\\OD para as pastas do OneDrive e SharePoint, sem mover nem renomear nada; Novo: relatório de caminhos longos com as planilhas que têm vínculo com cada arquivo",
-    "Assinatura":  "G9XWdwxb5FBZrVPg0jHIeJvumxGQl0qNlEZmu2/he5JQmV5XPHNs4bLnUyFHzPwLauQZiIaMUnqTvqZxA8ItlpWOU5vCZClcSJ0lB4NuHFy56wZW6veapbkPEpHATcgZZNQ7UvndvXhptqsQSkH5PEQP018oNrtC9dxDE65tsP1YfxGiFIQYTcCQ9BXgvGEDNrfUjEUdIwkCSXxgNBxqjG5z4eCfjO2ei7bAyq37JEJO4ugC1O0CL00e7N7SMlY/heYB68FBkSI9Smjs2fKLB/cExvQY2FuWje0vKc4IhPEJuqtiW1nJlDSz4q+2v8cwt3d8V4rkQZsd6oTM2CNHq2k5LRF847jWBJvWiy0YEBFcI2zZihJS3TjchU09wE2WlR0w5xCBEpDEGjDSyX6kqEV6zV+qdpXtVaXkbtcFQw92fAlM8D5jP4jtHf947QO327X/ciswExgTvAFmSelHgrntv1B0K12yL5YelPdfgFd/MYtfHgKw+bglLkzghkA2"
+    "Versao":  "4.5.70",
+    "Instalador":  "EnginePro_Setup_4.5.70.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.70/EnginePro_Setup_4.5.70.exe",
+    "SHA256":  "265DCC514E0BD7C7F9A925C72C02CCEADF985DEBBC014325D3FBE1DF3BAB101D",
+    "Data":  "2026-10-30 19:26",
+    "Notas":  "Novo: caminho curto só para as pastas fundas, agrupadas automaticamente, com botão para criar todas de uma vez; Novo: atalho para abrir cada pasta funda no SharePoint e adicionar ao Meu OneDrive",
+    "Assinatura":  "mon2wZ5ImixPOZKBYlTUGE70DjgQCKW00ZIa5mbfaZkaWO0BOsL6U+fS3MXfeGzN4bA8P7roK09Y3BSoX5i2lp0pdtymldM7ttVWmG7PTZ6CCqzMCdKGR4sYnRqOIRSFy+KpA4XxQCtKyVuJd2vsXeZyQVL0Ut1UK/bScXmC9+SiXX7/Zn8g0k08pzNVCXa2b1JGHSjrBZEWL/NnrRU+ycpduttCPttIRXHVD5KTmbDx87+2kER3OXvK93//XgsMj/AUGe1ROjP6ijC3GtRdSp1+ijh83uabRxMRDAYFbg3Kgjk/U30qoIheR6w6AkRK+fVJbkWzg27kapvcqDUQ2PFVZGMR8tDABnCiYzcJObBdzIpiQznIdwV6Q1S0oPDwNejwikHDVfpUWnE0s8WpYhvTqaE6svRmhAEo6OB6iX60AQiG3+6q+I2WIdN8inQccIrnxH8sZ9BYTkdtseRN2Q/OTtE8VOw0DTu5Ith30n242zyzSdFKgUA/s1SPavkA"
 }
