@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.37 | A IA entende referências ao que está na tela, como o avis... | 30/10/2026
+
+- **Melhoria**: A IA entende referências ao que está na tela, como o aviso ao lado ou os avisos, e explica o problema com a correção.
+- **Melhoria**: Respostas incertas vão primeiro para a IA na nuvem pensar com os dados do computador.
+- **Correção**: Registros informativos do Office não aparecem mais como mensagem de erro.
+
 ## Versão 4.5.36 | A IA entende a pergunta antes de responder, explica os av... | 30/10/2026
 
 - **Melhoria**: A IA entende a pergunta antes de responder, explica os avisos com os dados do computador, consulta a nuvem quando a pessoa insiste e nunca repete a mesma resposta.

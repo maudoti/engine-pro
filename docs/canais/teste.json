@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.36",
-    "Instalador":  "EnginePro_Setup_4.5.36.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.36/EnginePro_Setup_4.5.36.exe",
-    "SHA256":  "1ED762DBD56F250398EEB89278C7E00CB11054FB27FCAFE5E864C0912D5E300A",
-    "Data":  "2026-10-30 11:38",
-    "Notas":  "Melhoria: a IA entende a pergunta antes de responder, explica os avisos com os dados do computador, consulta a nuvem quando a pessoa insiste e nunca repete a mesma resposta; Melhoria: erros de hardware separados por peça (PCI Express, processador, memória), com o dispositivo; Correção: texto do Modo IA sobre o uso da IA na nuvem",
-    "Assinatura":  "b2G7Q9nAvinupidg0yTmLATOoC2AssxBkrtyUOkBm5PxnplvrFUqEUAR0XYZ5S8BlWEAJwOoVOgZBi4FsYafJbRdKL0qHGXTnYfluBmSRwVsnahtAudQG6ZAQEyXOBJRleZ9ABQzKdVo9YNdFPPOtss6+DJM5C6uPzIsU7WyJIVb49OtIoNel3nEhoxx0vIetASBazdSwDlDoSF9m74Rx/Qcu0Efwfk9EvNFdhL+2Eef/pdZTEvsIT0tm73HnwU69UentOjaCF3wFLL6tLBn5Trlr4iG59Xe6DVCBOcpiyZdQQIpqfgvb3Mv/QtvLleBEBzLgUfcfVkVTLKkYHWCX+9SlaJH2Rj73GjOqT0H99IWDpaMj7x0ud05oiydX2gqdTWlHA7ekmLjdo/l8kkWErCvpprZzFfZiJPTpZVf/joErj4DP4ih/sR/9IYQ1dP9VHMxEwMA3FX1YF+MR2Z4yIJDzZh899Euz6Kgd9raq1m0FAiJxctk7EhCxRKF5tTy"
+    "Versao":  "4.5.37",
+    "Instalador":  "EnginePro_Setup_4.5.37.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.37/EnginePro_Setup_4.5.37.exe",
+    "SHA256":  "547E36D2CFC20717FB6E4348B3C0BA13D6C1436A72CF08A2866B293A8E8037C5",
+    "Data":  "2026-10-30 11:43",
+    "Notas":  "Melhoria: a IA entende referências ao que está na tela, como o aviso ao lado ou os avisos, e explica o problema com a correção; Melhoria: respostas incertas vão primeiro para a IA na nuvem pensar com os dados do computador; Correção: registros informativos do Office não aparecem mais como mensagem de erro",
+    "Assinatura":  "UJg7MLOhLK5dCtuo+3K3Fz4YZ+c5I1ffZVmQPKG3Mpib2jAA8rbJ7fd8fkVhVSNRPCsFRt63id0gVJbh6AKoww3oFhZoaRQVEBXtMxiEjmCJhHT/dzUHwtLpdq5SFVeG40uR5Pf6kkN4em7W0JjfYg80EvAHN+C6QQcZ/kGGN4zctlL88MZqA4MNcpWBDCMSULkKVNSEmUv5ziF/EgB6RB8vGJHQU4pim9nZJJRz8DML7SVWngE40H6SlLQmL5JEYUxkV67KXEcBGYJrirZfNSu2Y7dfH8//32EuRzNUBjjR7ry11GR1MuupNlGJTLBrG7rtxVIwjckYuHOmXP6MJLfrXC/M5ljbWeJ4e5DtCJ5ixh/758wIXwiLP2Rkk6AlQl1Bzo6CzKNP7ZKJc+qNDSwNwS9ZzwL2DFEYFIo7MESBvGhSfjLUUNzIYlhSdUzG/5gmFuHfvmsNpezzTGg+HF2GhE3KIc1e6ptcuico9E2TqDe2mcKelqskYZiLitq5"
 }

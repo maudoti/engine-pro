@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.37",
+        "Data":  "2026-10-30 11:43",
+        "Titulo":  "A IA entende referências ao que está na tela, como o avis...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A IA entende referências ao que está na tela, como o aviso ao lado ou os avisos, e explica o problema com a correção."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Respostas incertas vão primeiro para a IA na nuvem pensar com os dados do computador."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Registros informativos do Office não aparecem mais como mensagem de erro."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.36",
         "Data":  "2026-10-30 11:38",
         "Titulo":  "A IA entende a pergunta antes de responder, explica os av...",

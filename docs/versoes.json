@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.37",
+        "Data":  "2026-10-30 11:43",
+        "Notas":  "Melhoria: a IA entende referências ao que está na tela, como o aviso ao lado ou os avisos, e explica o problema com a correção; Melhoria: respostas incertas vão primeiro para a IA na nuvem pensar com os dados do computador; Correção: registros informativos do Office não aparecem mais como mensagem de erro",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.37/EnginePro_Setup_4.5.37.exe"
+    },
+    {
         "Versao":  "4.5.36",
         "Data":  "2026-10-30 11:38",
         "Notas":  "Melhoria: a IA entende a pergunta antes de responder, explica os avisos com os dados do computador, consulta a nuvem quando a pessoa insiste e nunca repete a mesma resposta; Melhoria: erros de hardware separados por peça (PCI Express, processador, memória), com o dispositivo; Correção: texto do Modo IA sobre o uso da IA na nuvem",
