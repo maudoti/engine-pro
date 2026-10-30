@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.73",
-    "Instalador":  "EnginePro_Setup_4.5.73.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.73/EnginePro_Setup_4.5.73.exe",
-    "SHA256":  "3E47DC0627ACF1FE8C3915081F22DAAB421406202FC5FAF69DEE0C6DF7160D5F",
-    "Data":  "2026-10-30 20:10",
-    "Notas":  "Melhoria: Estações com inventário mais completo (Office, antivírus, BitLocker, TPM, disco, bateria e programas) e contribuição de cada estação para a colmeia.",
-    "Assinatura":  "JC8Suo4PGfjD0e/6xwDKD5F92rHgjMARqjmvWUzvfxSbDp7iKIaY5fi045rxTWxjy0yXBJFQi7hkMs4eh/kuDe9y9zizrTCfrhNjGVO9DkFNev1dc3AzAm6Sfg0I5qkqPuh2qGpXDsqc+Frqg5e7/a8QoNExkGSG5f6Y3jbMX/maznnxLsmiYRUHX1rvF8Nxw71W8u6USERVHRIBrjgdpUagfbgqmC/5LqIGjxF9Djxerq8y3C37GfF287zSoP7Fz0NJESTzHCux6fPFzM6q9bN4p9Rzds0lmxG6H+qivoiHPhHR5A6fVp22uAYBVegK2fr7eCD6i1AVAJ50q30c5wyLidBFaBv5PZRHKeOtQvSe0Ao0KkOzbMGa7LdK8laBPUWdQ7wjlnCbhYOn3d14v3VQejfYgKKdALnqHffb5se+KEoAK6L1dNkDYE7rX0RlA5CBF4IUq/oM2qcA88Lat+ZBrWteOZz7mtV1WmiEnMsQdt6lTe9Vn+qw8ENDYvTq"
+    "Versao":  "4.5.74",
+    "Instalador":  "EnginePro_Setup_4.5.74.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.74/EnginePro_Setup_4.5.74.exe",
+    "SHA256":  "729F272E9FCFB95D6922D9209F5B5B883A9AD3C45EB0EC7DD58B86B1C7348015",
+    "Data":  "2026-10-30 20:51",
+    "Notas":  "Novo: ficha completa de cada estação para o TI, com hardware, rede, impressoras, programas, inicialização, segurança, eventos e histórico de mudanças; Novo: drivers sem assinatura com origem, busca do driver oficial, ajuda da IA e remoção com cópia de segurança",
+    "Assinatura":  "XIYZr1HdwfQ5f2ParmmkviUHVp32NGHAS0cW/iHb91rbl6qeYjPBkNkoKPumyz2gUf1edCUJpJeWCQC1qAkOBhPylZ9V1fERND9/GBqQjZHQfMUB3/zkf9QukKAC8r8+6/YHivZGJImMrfignS+UEiz3piaN2DH/MiLL+HhG+Yq/wMYkzAaJEevVMPyyQuELApPDOutTeNzGLFLBNGvV/ZX7piNPNNVvmpeoNm6XDKjFzDBlLC6/hEbf73CJjn9zGtdhpZ1ejdnqlqJYT2VvM0tOXOuFgcEUFO4auBM104L3coigbhjSr65ZfLC2dGH8P4CCOtVmw2e2IanZjK3cSf9q8TFjWy8tW0xRt0Keq6tX+LhY+P3gRgEQSAg38q29axtctLx/WEUusNR5eLwj/GpdVpGaZAFlfWgJa/S+GOOXRtCmxuAr2/575WZe6gdiUFe8B8Zz2YcGRESyxxtvq3uqGlu/ZIlOLCihv6iA+iJFrtHMcxZOFTD4HJoeCthd"
 }

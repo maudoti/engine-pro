@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.74",
+        "Data":  "2026-10-30 20:51",
+        "Titulo":  "Ficha completa de cada estação para o TI, com hardware, r...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Ficha completa de cada estação para o TI, com hardware, rede, impressoras, programas, inicialização, segurança, eventos e histórico de mudanças."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Drivers sem assinatura com origem, busca do driver oficial, ajuda da IA e remoção com cópia de segurança."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.73",
         "Data":  "2026-10-30 20:10",
         "Titulo":  "Estações com inventário mais completo (Office, antivírus,...",

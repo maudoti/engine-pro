@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.74 | Ficha completa de cada estação para o TI, com hardware, r... | 30/10/2026
+
+- **Novo**: Ficha completa de cada estação para o TI, com hardware, rede, impressoras, programas, inicialização, segurança, eventos e histórico de mudanças.
+- **Novo**: Drivers sem assinatura com origem, busca do driver oficial, ajuda da IA e remoção com cópia de segurança.
+
 ## Versão 4.5.73 | Estações com inventário mais completo (Office, antivírus,... | 30/10/2026
 
 - **Melhoria**: Estações com inventário mais completo (Office, antivírus, BitLocker, TPM, disco, bateria e programas) e contribuição de cada estação para a colmeia.
