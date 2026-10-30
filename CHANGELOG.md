@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.26 | Avisar o TI não abre mais o navegador nem o Bloco de Notas | 29/10/2026
+
+- **Correção**: Avisar o TI não abre mais o navegador nem o Bloco de Notas.
+- **Melhoria**: Sem envio configurado, o relatório fica salvo em Documentos.
+- **Correção**: Diagnóstico da rede reconhece firewalls que não respondem a ping.
+
 ## Versão 4.5.25 | Depois de resolver um aviso, a IA confere o resultado e a... | 29/10/2026
 
 - **Melhoria**: Depois de resolver um aviso, a IA confere o resultado e atualiza a tela inicial.

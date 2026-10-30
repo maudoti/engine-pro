@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.26",
+        "Data":  "2026-10-29 21:58",
+        "Titulo":  "Avisar o TI não abre mais o navegador nem o Bloco de Notas",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Avisar o TI não abre mais o navegador nem o Bloco de Notas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Sem envio configurado, o relatório fica salvo em Documentos."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Diagnóstico da rede reconhece firewalls que não respondem a ping."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.25",
         "Data":  "2026-10-29 21:47",
         "Titulo":  "Depois de resolver um aviso, a IA confere o resultado e a...",

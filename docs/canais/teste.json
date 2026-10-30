@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.25",
-    "Instalador":  "EnginePro_Setup_4.5.25.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.25/EnginePro_Setup_4.5.25.exe",
-    "SHA256":  "8BE104520047434FBCFD32CE39DA0E017D4F97AAF4C4B7131E4D5F2A04469B11",
-    "Data":  "2026-10-29 21:47",
-    "Notas":  "Melhoria: depois de resolver um aviso, a IA confere o resultado e atualiza a tela inicial; Melhoria: no caso da internet, a IA mede a velocidade de novo e, se a lentidão continuar, o aviso passa a oferecer Avisar a TI",
-    "Assinatura":  "EnglzjBXIeN4Ziz4Rr5CSm6SD4hOLBAHsblQDlxYQRs915YchxyZvIRFxGMhBp9Lz8/wHyzqi7aIV2RjYqZ0I+P/iy8oSKIXqXnHQ/KXQz3LfHPnc3wQmdZcxv3OocRBkKUIwNR6+TmUuGpjlFYPWoICSt0vl91+T5YDcRifMIKGwRIZCcP8fnOICAyXPrTMzBTZoOFii5uwvY5SfWMU0IrTpgFcerbRpKdR8KR0iWXrXobJooQV8hMjrPKmCOqC1CqALgS0golhAG29RaukBJw/Xx8RCDGqje7Fp+xZaH5lIM+illlVm8N0901Krk9oQS73X4sdVjn09YR8uTDQKjRh6ZCs8pYwuxfs41S59qvkEs1U5yhb8ve2wUeRxZ0DWfRjIwmJTmKASRkvLnY2TlUf6YjJUBOd2g/8epPHwNiMMUMvfC9+C6kFkFn+dXhv1E+ID8ulT6qt86EcrNNR2d+jtV6JKCZino2f8NTVSsKP8w/a9GpHP+bMSkEda3Lp"
+    "Versao":  "4.5.26",
+    "Instalador":  "EnginePro_Setup_4.5.26.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.26/EnginePro_Setup_4.5.26.exe",
+    "SHA256":  "7F79159D6332A2914C41FDAEF25CE2E513F98B8F94FA3CB5F4627CD9DEBD0347",
+    "Data":  "2026-10-29 21:58",
+    "Notas":  "Correção: Avisar o TI não abre mais o navegador nem o Bloco de Notas; sem envio configurado, o relatório fica salvo em Documentos; Correção: diagnóstico da rede reconhece firewalls que não respondem a ping",
+    "Assinatura":  "FGe2LlLFjs4SZqEIi8HXynQsJedOjSYJ3cL7HdtpSI+DwJX0TSXccYtbBSyk9Il0EM7qmQPJ5sn3YWZJ6WgOaNmGOKJTDkd5hrOKey2WnHNtGwdaQijynqS8xTTtbkl7vmOuqlN2ErwG2rfNhao3bpe+Y99jArgOhPq2Fq7mr+K4cXrNYCRaA49SdCsypDyS0CiTW5tRkwa9WOhw1EmXhuxgJcoGZ1sa8t6fJDa17fFkA19KRZaBLm/2DUjeMih742nUupBLwDY/tgpUoi823PSkQQnPHsgPQTrxvIbuEc/AsFtfb8uBwT87i3gLOpKB3e7PHtZT3gnGYNcfou4C6UYaFIg5rrX2bTe1cnNWPqC4EOzx1lMct2+k7p1y/zuy6MZX5MCNhreSZlkfFD7y4akMDbCq3qzNP75+SbJshKBUPO+O9BnuB/+5/9SLcjkt3Iorvb1AXLzWb9zxCewLMle2RIfW14Ed61u/ogzZnjzsHved36DomftEZtrfdTFH"
 }
