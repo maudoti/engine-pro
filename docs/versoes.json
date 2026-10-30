@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.58",
+        "Data":  "2026-10-30 15:44",
+        "Notas":  "Correção: barra do espaço em disco mostra a parte livre e só muda de cor quando falta espaço (grafite, âmbar abaixo de 25% e vinho abaixo de 15%)",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.58/EnginePro_Setup_4.5.58.exe"
+    },
+    {
         "Versao":  "4.5.57",
         "Data":  "2026-10-30 15:30",
         "Notas":  "Melhoria: Y vermelho centralizado como marca d\u0027água na abertura e no site; Novo: página OneDrive e SharePoint com diagnóstico, correções e reinstalação limpa sem apagar arquivos; Novo: Modo IA avisa, explica e corrige problemas do OneDrive; Novo: colmeia escolhe o reparo que mais resolveu nos computadores da empresa; Melhoria: Atualizações com uma coluna para cada fonte; Correção: Dell Command | Update instalado pela versão Universal, com o motivo quando falha",

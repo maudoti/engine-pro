@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.57",
-    "Instalador":  "EnginePro_Setup_4.5.57.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.57/EnginePro_Setup_4.5.57.exe",
-    "SHA256":  "274FAFB2BF9E1025C7F5AF8FF541ECE0B41C1C3666ABD277BB97398280D7CCFB",
-    "Data":  "2026-10-30 15:30",
-    "Notas":  "Melhoria: Y vermelho centralizado como marca d\u0027água na abertura e no site; Novo: página OneDrive e SharePoint com diagnóstico, correções e reinstalação limpa sem apagar arquivos; Novo: Modo IA avisa, explica e corrige problemas do OneDrive; Novo: colmeia escolhe o reparo que mais resolveu nos computadores da empresa; Melhoria: Atualizações com uma coluna para cada fonte; Correção: Dell Command | Update instalado pela versão Universal, com o motivo quando falha",
-    "Assinatura":  "Sfq15s+juu79gm9eMZdNz65FRHLqLzKaUUOdqd+MT/vvR3PcQwucTlXGZPAvxgyO32K0PKZ+VR+y1VTBcEyk0zblmQOvKLX5I437mAt4udpT/i6pmz1Wv5p9dVM/WAw89I7jCIltvTMfGYkSvYluGFv9Bm54+Sz7fsUYrME9wjiw28ATQcJO+m5AycRppm2jnAW/POQ7vsFiK8HaApVB6suegEWZ0AfwEII4FwDdg3U4YkI0fTLSg88x97cRDVdwXsqbAqucL84VJkO2xa62NIgfv6YbLA3DZP6BiIQU5sbWRiOVe2ujZG16c39HjhtL64W7XLDYO97SK3s3Z5F1tlHv0J0Tv5ardrv+OBlQSZ23W/fTYPY48ChtKdfY4wD9HyGjKEvRgMAQV5XkUrn8DLExYPKcph2/E+JduWs1KsFpIOAUo9sccLwGRzed6DgNdW3YblgPLzwYDJvYxA6FPeCK5UNCQoYfWAIjEJeG2n/5jn9csv0A3U23Shze37ss"
+    "Versao":  "4.5.58",
+    "Instalador":  "EnginePro_Setup_4.5.58.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.58/EnginePro_Setup_4.5.58.exe",
+    "SHA256":  "83EC3E097E8FB47327F413425DD063D73437E070EB644C895C495EB73BD93F0E",
+    "Data":  "2026-10-30 15:44",
+    "Notas":  "Correção: barra do espaço em disco mostra a parte livre e só muda de cor quando falta espaço (grafite, âmbar abaixo de 25% e vinho abaixo de 15%)",
+    "Assinatura":  "iULWnQ66Po0GtxSfjsnd1xbzHGhed6jRexjq2widBtvAzdTa+PMx52PUY94RIC7EY4yL/EmDNXqiJy5NF134VDR9IAlsqkh4/Cg2Dc+UlP6Deza61j88IEOnKeV3SYs8CVOM4GmSDDJLLD29izOOQ33k5jY5cjykKAQgfcs5yRNZvz3uOskM1Witd9nZbkMIb8slzhBqv2lScumq11YjZlhV2BvPhbT9a7+CX0Xr9sWjoFjTdWHudevDzP8gdIMBN3SU2oCYTW3KH2HtlvGy49E0s+ro6c8Xm2KTH23y1TPT2ba1lS0HdKNvOiqdsN5wH8QbKLI9hZoM0VHpXXlwT7/btFjx/cypcDK6+J9JuN194ev/Aia/Ar8H2NfN4n3nDEMmawU7d/8qxG3ybUduLlfROSPcpY6ISMXDI4iFFrQmrbPmrEWp9ixxP7Tskio+sdbLXAoW5I3WR6YcWwbRzrI18l6+MG3wNxAxFe2KnQ7mRo68V1tkmOSooVYg6aH0"
 }
