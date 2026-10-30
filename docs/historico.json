@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.46",
+        "Data":  "2026-10-30 13:50",
+        "Titulo":  "A atividade do disco na página Desempenho era sempre zero",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A atividade do disco na página Desempenho era sempre zero."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O cartão do disco mostra leitura e gravação em MB/s e separa o espaço usado."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cartões mostram Aguarde, carregando... até a primeira medição."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.45",
         "Data":  "2026-10-30 13:42",
         "Titulo":  "Resultados da varredura e dos reparos entram recolhidos n...",

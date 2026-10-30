@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.45",
-    "Instalador":  "EnginePro_Setup_4.5.45.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.45/EnginePro_Setup_4.5.45.exe",
-    "SHA256":  "3ABED2455A57EA8D421DA8892673F85B189E92CA82285E59DDBCB0A4BB2F2048",
-    "Data":  "2026-10-30 13:42",
-    "Notas":  "Melhoria: resultados da varredura e dos reparos entram recolhidos na conversa, sem empurrar a resposta da IA; Melhoria: o cartão da resposta mostra qual IA respondeu; Melhoria: pedido mais enxuto ao Groq; Correção: registros informativos do Office não aparecem mais como erro",
-    "Assinatura":  "D813CdRLFWAb9GwfwCaY4lCT6EZ/7bM+BM3T/bBXZpkmmWPEd6LepHl19tvnB1fhFDSZ48zbOrAMk1S5KEFydJk3coDJJSBian7k5iCM5JLh6B919vc4JtzJmNb7r9OkjJ0v/5DhnuQQAPjS6doF+1664HfL3+eVyzuVCQns2cVNZW6iBc6w+OQeWkCMomyvDNNRubc5q5dgAfiWJbjjYL1IXiIClv0tTa7ETpqvSwmgl2/oc98IsUq8jGTiuLSNoACygJZU/35WPCMFa6Td3MBkgj2x2eTiuJZEZjFGTVxXpHMVZRDaN8Vj2+1tFuqTT5MWZF4+Gsdme/F0Rfid4dh/OdpZB0oeRZ1WhtGTcDRHXRFcPC8NKofaZkhyvV4esITSLr2ba/1/W1enUb0QdO5sdbni+1ralAUHWxBoHTW0YZhvc/hmEVOqGY8jcvLdKlO/xdj7WMTf+qGX9Af33D4KIcCSpoNAp65jXUIUS0R1uJ63+uj+dmR7m7gAP2Op"
+    "Versao":  "4.5.46",
+    "Instalador":  "EnginePro_Setup_4.5.46.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.46/EnginePro_Setup_4.5.46.exe",
+    "SHA256":  "6CE07470A60F3850F4E01F7BA99142240B379720A68BD3A9A75F1D03BDB64A16",
+    "Data":  "2026-10-30 13:50",
+    "Notas":  "Correção: a atividade do disco na página Desempenho era sempre zero; Melhoria: o cartão do disco mostra leitura e gravação em MB/s e separa o espaço usado; Melhoria: cartões mostram Aguarde, carregando... até a primeira medição",
+    "Assinatura":  "cSbcfSYpo9md3xle64rMCv3IY0idlmuAROs8GFIeubU9ZQncuy002pijK2vvFwHSOy8JODG9+0pwNK1/UnzBx1iS8loMBlyfsvWYdudaGfVBw+zXOpmjKvNjTSADDb9jr9DprEiVo4XUksd6Cn+WJ5Wwi8/tVpvJiwkSWPUeww8KBlbMqUOBWSKrM5CfGlt+sTNQI4XZjkOnPVPoPYuoku3PlGCAErTKQgLIqX3ZvFwkWJmPfGb2i9Gfh7vPoc7hDVm04T59upU9F/OiQQPRlQ/cD8KH+2E5kdDhgVrwusBHFvOmRBCJvSsvQpaK8otupuPS5FAp7xndsUhJWWZdjA5PxCPZe0DlF9sDRoonjdBeIZGYzd4IBpBFY06W8Z2RYORroryGJKx4HKgrHjsPTsARoSsTdGlicoWBPagVe0jhYjqaXH0wpKvTyGzHeeUBl1FEs/9IgZkDhOe2FkkfZwWQI2YoCu05bYS1aGIyJPS1BAXOXoX9IPC3d628nzxj"
 }

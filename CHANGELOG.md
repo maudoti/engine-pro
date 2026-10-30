@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.46 | A atividade do disco na página Desempenho era sempre zero | 30/10/2026
+
+- **Correção**: A atividade do disco na página Desempenho era sempre zero.
+- **Melhoria**: O cartão do disco mostra leitura e gravação em MB/s e separa o espaço usado.
+- **Melhoria**: Cartões mostram Aguarde, carregando... até a primeira medição.
+
 ## Versão 4.5.45 | Resultados da varredura e dos reparos entram recolhidos n... | 30/10/2026
 
 - **Melhoria**: Resultados da varredura e dos reparos entram recolhidos na conversa, sem empurrar a resposta da IA.
