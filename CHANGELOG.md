@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.59 | Y girando enquanto carregam a Segurança, o espaço em disc... | 30/10/2026
+
+- **Melhoria**: Y girando enquanto carregam a Segurança, o espaço em disco, os pontos de restauração e os chamados.
+
 ## Versão 4.5.58 | Barra do espaço em disco mostra a parte livre e só muda d... | 30/10/2026
 
 - **Correção**: Barra do espaço em disco mostra a parte livre e só muda de cor quando falta espaço (grafite, âmbar abaixo de 25% e vinho abaixo de 15%).

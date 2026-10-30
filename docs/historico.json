@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.59",
+        "Data":  "2026-10-30 15:48",
+        "Titulo":  "Y girando enquanto carregam a Segurança, o espaço em disc...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Y girando enquanto carregam a Segurança, o espaço em disco, os pontos de restauração e os chamados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.58",
         "Data":  "2026-10-30 15:44",
         "Titulo":  "Barra do espaço em disco mostra a parte livre e só muda d...",

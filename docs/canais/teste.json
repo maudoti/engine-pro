@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.58",
-    "Instalador":  "EnginePro_Setup_4.5.58.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.58/EnginePro_Setup_4.5.58.exe",
-    "SHA256":  "83EC3E097E8FB47327F413425DD063D73437E070EB644C895C495EB73BD93F0E",
-    "Data":  "2026-10-30 15:44",
-    "Notas":  "Correção: barra do espaço em disco mostra a parte livre e só muda de cor quando falta espaço (grafite, âmbar abaixo de 25% e vinho abaixo de 15%)",
-    "Assinatura":  "iULWnQ66Po0GtxSfjsnd1xbzHGhed6jRexjq2widBtvAzdTa+PMx52PUY94RIC7EY4yL/EmDNXqiJy5NF134VDR9IAlsqkh4/Cg2Dc+UlP6Deza61j88IEOnKeV3SYs8CVOM4GmSDDJLLD29izOOQ33k5jY5cjykKAQgfcs5yRNZvz3uOskM1Witd9nZbkMIb8slzhBqv2lScumq11YjZlhV2BvPhbT9a7+CX0Xr9sWjoFjTdWHudevDzP8gdIMBN3SU2oCYTW3KH2HtlvGy49E0s+ro6c8Xm2KTH23y1TPT2ba1lS0HdKNvOiqdsN5wH8QbKLI9hZoM0VHpXXlwT7/btFjx/cypcDK6+J9JuN194ev/Aia/Ar8H2NfN4n3nDEMmawU7d/8qxG3ybUduLlfROSPcpY6ISMXDI4iFFrQmrbPmrEWp9ixxP7Tskio+sdbLXAoW5I3WR6YcWwbRzrI18l6+MG3wNxAxFe2KnQ7mRo68V1tkmOSooVYg6aH0"
+    "Versao":  "4.5.59",
+    "Instalador":  "EnginePro_Setup_4.5.59.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.59/EnginePro_Setup_4.5.59.exe",
+    "SHA256":  "88FC5871ADAA5AA0C8EFAA2C958135034006C580E7C88620F334906EBEB68154",
+    "Data":  "2026-10-30 15:48",
+    "Notas":  "Melhoria: Y girando enquanto carregam a Segurança, o espaço em disco, os pontos de restauração e os chamados",
+    "Assinatura":  "HmCn+HIMVfwbY1pKBz+6F77zLtkzZQdKfv2Hg569hfV1XvdG22PCVRqRj9aTtG9HnonWJF4VH5/dRy19A3bCy7gAk75eDVmoXgtc0UNFf9ZUIUMrD922BDRxM704cCPpyKZTDDqQc3/kuMCE214ojkoDO6KUocQ8IAn1LlkDtmmm3iB32lRLYzVux6PpghUmVtl31w/w/kE/kM7beoc0pt1A1KNG1HtqIxWbbLR58QgTTXl117ZnePaGe69VGCXlZ3D7akuoAcGCmLqMvklBIV/Awzj7tYwTTZsGK0gunwh0sry+zUAYFsYuWip91ibbwizlMX0Puxd5+CQJx+90h+wUZiPnpUiuaUYJxZ11Jm5s+tDJRCUWTWa03kcsJmJNRKCrWJJ9VTeMUVmswS1WJMjwLBWWj7OtK8S/9QryMsOYdzII8KUF/J9yXx+7v5vNzzu3h7fYzbVqTUW2d6Rj/ZmXROiX3soPxEOo9S5elnjqtD0sGXXe/EpLSBHDXjGJ"
 }
