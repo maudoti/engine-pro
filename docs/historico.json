@@ -2,11 +2,11 @@
     {
         "Versao":  "4.5.73",
         "Data":  "2026-10-30 20:10",
-        "Titulo":  "Estações: inventário completo (Office, antivírus, BitLock...",
+        "Titulo":  "Estações com inventário mais completo (Office, antivírus,...",
         "Itens":  [
                       {
                           "Tipo":  "melhoria",
-                          "Texto":  "Estações: inventário completo (Office, antivírus, BitLocker, TPM, disco, bateria, programas), quem está ligado agora e contribuição de cada estação para a colmeia."
+                          "Texto":  "Estações com inventário mais completo (Office, antivírus, BitLocker, TPM, disco, bateria e programas) e contribuição de cada estação para a colmeia."
                       }
                   ]
     },

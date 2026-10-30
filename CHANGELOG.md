@@ -2,9 +2,9 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
-## Versão 4.5.73 | Estações: inventário completo (Office, antivírus, BitLock... | 30/10/2026
+## Versão 4.5.73 | Estações com inventário mais completo (Office, antivírus,... | 30/10/2026
 
-- **Melhoria**: Estações: inventário completo (Office, antivírus, BitLocker, TPM, disco, bateria, programas), quem está ligado agora e contribuição de cada estação para a colmeia.
+- **Melhoria**: Estações com inventário mais completo (Office, antivírus, BitLocker, TPM, disco, bateria e programas) e contribuição de cada estação para a colmeia.
 
 ## Versão 4.5.72 | Remove sobras de atualizações grandes do Windows quando n... | 30/10/2026
 
