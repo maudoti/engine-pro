@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.25",
+        "Data":  "2026-10-29 21:47",
+        "Titulo":  "Depois de resolver um aviso, a IA confere o resultado e a...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Depois de resolver um aviso, a IA confere o resultado e atualiza a tela inicial."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "No caso da internet, a IA mede a velocidade de novo e, se a lentidão continuar, o aviso passa a oferecer Avisar a TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.24",
         "Data":  "2026-10-29 21:40",
         "Titulo":  "Ao pedir ajuda com um aviso, a conversa abre limpa, só co...",

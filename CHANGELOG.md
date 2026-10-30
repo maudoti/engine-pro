@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.25 | Depois de resolver um aviso, a IA confere o resultado e a... | 29/10/2026
+
+- **Melhoria**: Depois de resolver um aviso, a IA confere o resultado e atualiza a tela inicial.
+- **Melhoria**: No caso da internet, a IA mede a velocidade de novo e, se a lentidão continuar, o aviso passa a oferecer Avisar a TI.
+
 ## Versão 4.5.24 | Ao pedir ajuda com um aviso, a conversa abre limpa, só co... | 29/10/2026
 
 - **Correção**: Ao pedir ajuda com um aviso, a conversa abre limpa, só com o pedido e o plano.
