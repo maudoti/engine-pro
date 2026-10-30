@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.56",
-    "Instalador":  "EnginePro_Setup_4.5.56.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.56/EnginePro_Setup_4.5.56.exe",
-    "SHA256":  "EFB029B6C234E75DCED55ECFA03F0E12294DD50B4C97D30AE48014E3D75F516A",
-    "Data":  "2026-10-30 15:22",
-    "Notas":  "Novo: página OneDrive e SharePoint com diagnóstico, correções, reinstalação limpa sem apagar arquivos e ajustes para muitos arquivos; Novo: Modo IA avisa, explica e corrige problemas do OneDrive; Novo: colmeia escolhe o reparo que mais resolveu nos computadores da empresa; Melhoria: Atualizações com uma coluna para cada fonte; Correção: Dell Command | Update procurado em todas as pastas e instalado pela versão Universal, com o motivo quando falha",
-    "Assinatura":  "o5xKv+nnNaggE0hihHztyDE/xjC+8BNex5TuUyZUtBVx10T3+VAhC7qgrSIVyzGTy/oTCqK0/3T7PnIQ2nZVu8lu1ZSChMocFL46jUrQ0eqZat1k5Uw9Rcu0JadeKNJN6VaYGARqnD3vLoBhtjsroLn8c2+gqDL4qci0spggjsiyGsNjqakRF/aaE3APSvZDqeFjoZhbJaxZD5Fhirajos3wdn4OecHlMPyqZ7rAz8hVuEChuRQ2fvS2ZeK4Pqy1+fCEmQf31dIz7veQ0oahHO77xI5yRrP+dRwToHYYk5eX4xXp5XoRwj+oDA5amW3eNg0Ybe20Sce22y80vxcJz9loX6fovuExk/VnkrP72xAbqzy19UW9NMXmvm8EvSZU5rNo4VfpA/MbXoQRu3zke/mTPGCfTucS3XJpI4/ys758B/EcpplPSIzIkGDAD5Gfhr9ae1Cl6qpjzwWTsXXBwNXHKAfLAoOsvSizOj71B1UJekniI2de/e9azTvmql9P"
+    "Versao":  "4.5.57",
+    "Instalador":  "EnginePro_Setup_4.5.57.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.57/EnginePro_Setup_4.5.57.exe",
+    "SHA256":  "274FAFB2BF9E1025C7F5AF8FF541ECE0B41C1C3666ABD277BB97398280D7CCFB",
+    "Data":  "2026-10-30 15:30",
+    "Notas":  "Melhoria: Y vermelho centralizado como marca d\u0027água na abertura e no site; Novo: página OneDrive e SharePoint com diagnóstico, correções e reinstalação limpa sem apagar arquivos; Novo: Modo IA avisa, explica e corrige problemas do OneDrive; Novo: colmeia escolhe o reparo que mais resolveu nos computadores da empresa; Melhoria: Atualizações com uma coluna para cada fonte; Correção: Dell Command | Update instalado pela versão Universal, com o motivo quando falha",
+    "Assinatura":  "Sfq15s+juu79gm9eMZdNz65FRHLqLzKaUUOdqd+MT/vvR3PcQwucTlXGZPAvxgyO32K0PKZ+VR+y1VTBcEyk0zblmQOvKLX5I437mAt4udpT/i6pmz1Wv5p9dVM/WAw89I7jCIltvTMfGYkSvYluGFv9Bm54+Sz7fsUYrME9wjiw28ATQcJO+m5AycRppm2jnAW/POQ7vsFiK8HaApVB6suegEWZ0AfwEII4FwDdg3U4YkI0fTLSg88x97cRDVdwXsqbAqucL84VJkO2xa62NIgfv6YbLA3DZP6BiIQU5sbWRiOVe2ujZG16c39HjhtL64W7XLDYO97SK3s3Z5F1tlHv0J0Tv5ardrv+OBlQSZ23W/fTYPY48ChtKdfY4wD9HyGjKEvRgMAQV5XkUrn8DLExYPKcph2/E+JduWs1KsFpIOAUo9sccLwGRzed6DgNdW3YblgPLzwYDJvYxA6FPeCK5UNCQoYfWAIjEJeG2n/5jn9csv0A3U23Shze37ss"
 }

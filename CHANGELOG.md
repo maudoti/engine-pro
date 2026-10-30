@@ -2,6 +2,15 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.57 | Y vermelho centralizado como marca d'água na abertura e n... | 30/10/2026
+
+- **Melhoria**: Y vermelho centralizado como marca d'água na abertura e no site.
+- **Novo**: Página OneDrive e SharePoint com diagnóstico, correções e reinstalação limpa sem apagar arquivos.
+- **Novo**: Modo IA avisa, explica e corrige problemas do OneDrive.
+- **Novo**: Colmeia escolhe o reparo que mais resolveu nos computadores da empresa.
+- **Melhoria**: Atualizações com uma coluna para cada fonte.
+- **Correção**: Dell Command | Update instalado pela versão Universal, com o motivo quando falha.
+
 ## Versão 4.5.56 | Página OneDrive e SharePoint com diagnóstico, correções, ... | 30/10/2026
 
 - **Novo**: Página OneDrive e SharePoint com diagnóstico, correções, reinstalação limpa sem apagar arquivos e ajustes para muitos arquivos.

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.57",
+        "Data":  "2026-10-30 15:30",
+        "Notas":  "Melhoria: Y vermelho centralizado como marca d\u0027água na abertura e no site; Novo: página OneDrive e SharePoint com diagnóstico, correções e reinstalação limpa sem apagar arquivos; Novo: Modo IA avisa, explica e corrige problemas do OneDrive; Novo: colmeia escolhe o reparo que mais resolveu nos computadores da empresa; Melhoria: Atualizações com uma coluna para cada fonte; Correção: Dell Command | Update instalado pela versão Universal, com o motivo quando falha",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.57/EnginePro_Setup_4.5.57.exe"
+    },
+    {
         "Versao":  "4.5.56",
         "Data":  "2026-10-30 15:22",
         "Notas":  "Novo: página OneDrive e SharePoint com diagnóstico, correções, reinstalação limpa sem apagar arquivos e ajustes para muitos arquivos; Novo: Modo IA avisa, explica e corrige problemas do OneDrive; Novo: colmeia escolhe o reparo que mais resolveu nos computadores da empresa; Melhoria: Atualizações com uma coluna para cada fonte; Correção: Dell Command | Update procurado em todas as pastas e instalado pela versão Universal, com o motivo quando falha",

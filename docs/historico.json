@@ -1,5 +1,36 @@
 [
     {
+        "Versao":  "4.5.57",
+        "Data":  "2026-10-30 15:30",
+        "Titulo":  "Y vermelho centralizado como marca d\u0027água na abertura e n...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Y vermelho centralizado como marca d\u0027água na abertura e no site."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Página OneDrive e SharePoint com diagnóstico, correções e reinstalação limpa sem apagar arquivos."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Modo IA avisa, explica e corrige problemas do OneDrive."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Colmeia escolhe o reparo que mais resolveu nos computadores da empresa."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizações com uma coluna para cada fonte."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Dell Command | Update instalado pela versão Universal, com o motivo quando falha."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.56",
         "Data":  "2026-10-30 15:22",
         "Titulo":  "Página OneDrive e SharePoint com diagnóstico, correções, ...",
