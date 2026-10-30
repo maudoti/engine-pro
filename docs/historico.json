@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.75",
+        "Data":  "2026-10-30 20:59",
+        "Titulo":  "A ficha da estação mostra a versão e explica quando a vis...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A ficha da estação mostra a versão e explica quando a visão ao vivo ainda não está disponível."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Resposta mais rápida aos pedidos do TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.74",
         "Data":  "2026-10-30 20:51",
         "Titulo":  "Ficha completa de cada estação para o TI, com hardware, r...",

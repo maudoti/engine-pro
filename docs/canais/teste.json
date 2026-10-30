@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.74",
-    "Instalador":  "EnginePro_Setup_4.5.74.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.74/EnginePro_Setup_4.5.74.exe",
-    "SHA256":  "729F272E9FCFB95D6922D9209F5B5B883A9AD3C45EB0EC7DD58B86B1C7348015",
-    "Data":  "2026-10-30 20:51",
-    "Notas":  "Novo: ficha completa de cada estação para o TI, com hardware, rede, impressoras, programas, inicialização, segurança, eventos e histórico de mudanças; Novo: drivers sem assinatura com origem, busca do driver oficial, ajuda da IA e remoção com cópia de segurança",
-    "Assinatura":  "XIYZr1HdwfQ5f2ParmmkviUHVp32NGHAS0cW/iHb91rbl6qeYjPBkNkoKPumyz2gUf1edCUJpJeWCQC1qAkOBhPylZ9V1fERND9/GBqQjZHQfMUB3/zkf9QukKAC8r8+6/YHivZGJImMrfignS+UEiz3piaN2DH/MiLL+HhG+Yq/wMYkzAaJEevVMPyyQuELApPDOutTeNzGLFLBNGvV/ZX7piNPNNVvmpeoNm6XDKjFzDBlLC6/hEbf73CJjn9zGtdhpZ1ejdnqlqJYT2VvM0tOXOuFgcEUFO4auBM104L3coigbhjSr65ZfLC2dGH8P4CCOtVmw2e2IanZjK3cSf9q8TFjWy8tW0xRt0Keq6tX+LhY+P3gRgEQSAg38q29axtctLx/WEUusNR5eLwj/GpdVpGaZAFlfWgJa/S+GOOXRtCmxuAr2/575WZe6gdiUFe8B8Zz2YcGRESyxxtvq3uqGlu/ZIlOLCihv6iA+iJFrtHMcxZOFTD4HJoeCthd"
+    "Versao":  "4.5.75",
+    "Instalador":  "EnginePro_Setup_4.5.75.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.75/EnginePro_Setup_4.5.75.exe",
+    "SHA256":  "788C6D33492BF909C95EBC9D02B5EED3434924B4E2ED86EAC1FBF38F973ADA0C",
+    "Data":  "2026-10-30 20:59",
+    "Notas":  "Correção: a ficha da estação mostra a versão e explica quando a visão ao vivo ainda não está disponível; resposta mais rápida aos pedidos do TI",
+    "Assinatura":  "SWWlsadamIxO2V09BFWnLABVtPvu859cZw5KMPNWgVRaJHBZQlF42qzM0cIhmI3PqbQYgW/kNO3ajGB5rqN4eQC7pzfRxL7Dai47uBhSH+iNDn42YTVoJMXrGv5Py6IRUBLF9QnIFofPJQVBdRpKOBrNXsDjc8HZvsFSmyOOsTcoZgGCS4zxoxDAk9EtUrk0Jy4yIh41EEcXyAP8mtZZMCJekIa7xXig6Cw3dqOsDtOlY8brkhswUkm1d/oVvtZjgHb7nmXTvVimtylFPOa2n0ALmUuddZhc/Z0m7QyJ9OmM/dNffF94de0Bu2mln3q3qhc2TjdKttOk3ndj3jOQ3nGbUy4K9IxIznVUfc/QXB6EDt1ua3vdtJBuB7A0pmshzvpLXUQ8daJA9So7vdTa1tYJ5ENcveUjFDkiG/oBiN9XS410lJ2AUZDG8FCWQ2UjIxR6i8b4PqBubvp26bOjC7nv+yLqRwTU+gWmzP8XuEZbTuOoyOAmAVAQYgdsvANV"
 }

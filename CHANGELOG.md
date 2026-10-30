@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.75 | A ficha da estação mostra a versão e explica quando a vis... | 30/10/2026
+
+- **Correção**: A ficha da estação mostra a versão e explica quando a visão ao vivo ainda não está disponível.
+- **Melhoria**: Resposta mais rápida aos pedidos do TI.
+
 ## Versão 4.5.74 | Ficha completa de cada estação para o TI, com hardware, r... | 30/10/2026
 
 - **Novo**: Ficha completa de cada estação para o TI, com hardware, rede, impressoras, programas, inicialização, segurança, eventos e histórico de mudanças.
