@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.32",
+        "Data":  "2026-10-30 09:53",
+        "Notas":  "Novo: seis pilares e a IA que cruza todas as fontes, aprende e se atualiza sozinha; Novo: backup no OneDrive de cada pessoa, com espaço conferido, liberação do disco e backup agendado",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.32/EnginePro_Setup_4.5.32.exe"
+    },
+    {
         "Versao":  "4.5.31",
         "Data":  "2026-10-29 23:57",
         "Notas":  "Melhoria: clima no painel do topo, com ilustração conforme o tempo; Melhoria: espaço em disco junto dos outros medidores, com barra de uso e aviso em vermelho quando o espaço está crítico; Novo: painel de atividade fixo no menu, com a tarefa em execução e a fila",

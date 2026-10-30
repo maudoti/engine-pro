@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.31",
-    "Instalador":  "EnginePro_Setup_4.5.31.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.31/EnginePro_Setup_4.5.31.exe",
-    "SHA256":  "2E657D3E08C7E97A568877B7BEAA091356E9E04E93615338B3548CE9D3AAB56C",
-    "Data":  "2026-10-29 23:53",
-    "Notas":  "Melhoria: clima no painel do topo, com ilustração conforme o tempo; Melhoria: espaço em disco junto dos outros medidores, com barra de uso e aviso em vermelho quando o espaço está crítico; Novo: painel de atividade fixo no menu, com a tarefa em execução e a fila",
-    "Assinatura":  "SqqE4mfJWXBKBEjuOuGWQUbp+L6E9x3zjpzIxEvpWBwyTRYZpvlpQfe0demmUOhnqHEbhEwS9827qBvmHBGxCiwkgMmoBFxB0MaRJM0jJ93EHJIelPsfU8SKqC7G2FtcUAuDjKj10KttCVM71LYqa8SeX3lD9GI3acaoh0/DXHEx9aue1uw6rf3Qxp4DIGFNFhnJqtP2/Q4tuJzWuAOhDy3JcqfTujzH66tvVB2pKiDL+VN+RGnAoBqsYOpSHikEjho80Hv5fFXBTOm69EBASb27GDYFB4n2uiDhNt2uUP9ausCtPzcMDvQHylFoNzvjmgkylZC0S5l1gff2BbwqK+zROCqMXTHOcgpNSAF/CFRMqly3wiRRj0V3eDYyNDFX4Q4WOPkS8X5SI1GJXYTdi/Mn2n7uRoEL2OjT0pnuiujpQtyQIX5lDdc0rsRWj3hngpkb2q/9Lwk80y2HtkyXqnASxuYAIQbzSJJ4VsR8W9bQCv14dR8WVbFrCDSzWzgh"
+    "Versao":  "4.5.32",
+    "Instalador":  "EnginePro_Setup_4.5.32.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.32/EnginePro_Setup_4.5.32.exe",
+    "SHA256":  "78C89F303E36AAA970A6625152B4408F15DAF3F2C34B79A93EBD5BBBDB68CC20",
+    "Data":  "2026-10-30 09:53",
+    "Notas":  "Novo: seis pilares e a IA que cruza todas as fontes, aprende e se atualiza sozinha; Novo: backup no OneDrive de cada pessoa, com espaço conferido, liberação do disco e backup agendado",
+    "Assinatura":  "kiL6RStj8ZoMtE84HVT7IZ9YOH6GD/aW2j+WjNW2jlU7FTDD2bakeUT4AhfrMu2ROPtuiRFGvpb8fz6fdbtvbmVlowh0Gf2avMV/Aa2mVJu/jTULaMOkIm14p4Ra17dF4nwoBaIe/jL1izMw97YvRUZ2RaLG5KGLhQJYkZ/Tiu3OS9MduSxxHEzhqz8XN2mYOTJz19zf7uStO4c0PSZaonYzaaAUNxQkiJ7U4dgrsAgU0/S7nCJ3k081YOaMmZHZQxy1irAa8XUD7QbXVmSp1RoG0nVqsdPLGvhR9BJCSMADTXHMv/JQ3whsb3PdgK4t9NT53DrmPCH9MkjmIK9bqKtExuU3C/QRNZxjgVNj0ZjqxZmRZrbXLztXvl8+frkk1+7FSx9zaPf5ezNh2bau9DrMFS8EhaR2wN5vkBZU3otRLJEDQu9JWIM/lKLkfQL3Ea8mkbHNrN+SuDm2gljL7overRfX2D4RXa+YCbQN32rd8GPoNAVWaGs6t43jB+fZ"
 }

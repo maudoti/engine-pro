@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.32",
+        "Data":  "2026-10-30 09:53",
+        "Titulo":  "Seis pilares e a IA que cruza todas as fontes, aprende e ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Seis pilares e a IA que cruza todas as fontes, aprende e se atualiza sozinha."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Backup no OneDrive de cada pessoa, com espaço conferido, liberação do disco e backup agendado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.31",
         "Data":  "2026-10-29 23:53",
         "Titulo":  "Clima no painel do topo, com ilustração conforme o tempo",
