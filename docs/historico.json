@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.70",
+        "Data":  "2026-10-30 19:26",
+        "Titulo":  "Caminho curto só para as pastas fundas, agrupadas automat...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Caminho curto só para as pastas fundas, agrupadas automaticamente, com botão para criar todas de uma vez."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Atalho para abrir cada pasta funda no SharePoint e adicionar ao Meu OneDrive."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.69",
         "Data":  "2026-10-30 18:36",
         "Titulo":  "Caminho curto C:\\OD para as pastas do OneDrive e SharePoi...",

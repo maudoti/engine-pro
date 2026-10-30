@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.70 | Caminho curto só para as pastas fundas, agrupadas automat... | 30/10/2026
+
+- **Novo**: Caminho curto só para as pastas fundas, agrupadas automaticamente, com botão para criar todas de uma vez.
+- **Novo**: Atalho para abrir cada pasta funda no SharePoint e adicionar ao Meu OneDrive.
+
 ## Versão 4.5.69 | Caminho curto C:\OD para as pastas do OneDrive e SharePoi... | 30/10/2026
 
 - **Novo**: Caminho curto C:\OD para as pastas do OneDrive e SharePoint, sem mover nem renomear nada.
