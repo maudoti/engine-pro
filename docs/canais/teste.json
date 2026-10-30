@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.23",
-    "Instalador":  "EnginePro_Setup_4.5.23.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.23/EnginePro_Setup_4.5.23.exe",
-    "SHA256":  "A6935B5377BFAE529AE0FA16249BE3348ADBA217C406619B4C5F67F05B57D74F",
-    "Data":  "2026-10-29 21:36",
-    "Notas":  "Melhoria: ao pedir ajuda com um aviso, a conversa mostra só o resumo do problema e o plano num único balão, sem a varredura nem sugestões genéricas",
-    "Assinatura":  "Khj0fk9qolUwh5TrYo7GUhcRVYXY5yeCA3EKHz+kkAwCI72ejTKsU4zKHD93Vy3OnbDT+179gzsZiFpp5LDtzW7nioLL/9X7C+FLJSfybM0m4PoSdH+XCH5KKLiRAElm6vy0BwbY6D+JKP9Rim47+Tp/0LeyzvjgrX+n3e9DrLbZdPV43HRe5DGxm/7Icpk+oiQ3AguPjNfbtRzZXuN4ZttoFe0YjscP2pyfDuZ2C74SLceyfyDpQK0kplBrqHzpTy/fWv/LeX2o9HsjxAeg9eZLrNOmn1AJSKzNhqJ9CeAp0x7Ng/ox09m4XDh1ivybusiHxc30FKLqVJ79kqIjronpHdnrrAU6W4eInQRyn4nLZRJwkm77WbOyguRbEbF6f9jZO3GKEECyKB8uHfepfp1hu9TQA2EltW+KfW13BO8cOxMTE9MH8SF6ctQXwhsxKaInkElQjFXPro+ZI9m/bZqfP/Blkn/rJ1RXYYnSJRjt1r9cnRvdcQEHz2Q6T/HO"
+    "Versao":  "4.5.24",
+    "Instalador":  "EnginePro_Setup_4.5.24.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.24/EnginePro_Setup_4.5.24.exe",
+    "SHA256":  "DB55978451421F1241F7519D717EF62A134B0082C647B1A58A38615591B48F88",
+    "Data":  "2026-10-29 21:40",
+    "Notas":  "Correção: ao pedir ajuda com um aviso, a conversa abre limpa, só com o pedido e o plano; Correção: as páginas não abrem duas vezes ao usar o menu",
+    "Assinatura":  "Du6hO64VM5rszVghBdWLkta1WWm95sIOpCha6y77Y0PEBaOBDnizmhaA0klKPVjaW3K3IEvjkDuO0kWpmjYVkcYt8yh2hPCg6zrbjyHbSEwx2sdBwvUTJQUJWgd223NZmOKl2vxZMFNWnF0vAsVnmY1cBG2lOg0cYfzTLz7iqTp9HZWNnXgeBYPstmQ2EaIO47KzPFYMTJfzqioXfUGlVtj4YWAkXpBIW/DYaUrvmE26i8rwqj4WAetlabFtscn9fphd3WeZnOle4TBsFIYW94zaWNG/Coi+WmYRnvOvg8kQz1bVvB7FsVkqbAcryfEbqenZKbUW+GgDr84d+uzDQxs+2pFzeB3pwIi+uAdBAG/c+I4bdl3r+xPfWhrxI6i4ZcMm2EWx0luvUQ36EVgyrE8dihWF3RwcHxfG2TXQ3ymYFWDa68Z0ExJLR3LzIpi1OvG1zsdsMkmRC5WOYJHVigzMe4MVjuWD7/oUzvF6whIgihFt0HLH1IJuRK5g4sRd"
 }

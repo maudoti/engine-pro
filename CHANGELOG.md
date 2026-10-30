@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.24 | Ao pedir ajuda com um aviso, a conversa abre limpa, só co... | 29/10/2026
+
+- **Correção**: Ao pedir ajuda com um aviso, a conversa abre limpa, só com o pedido e o plano.
+- **Correção**: As páginas não abrem duas vezes ao usar o menu.
+
 ## Versão 4.5.23 | Ao pedir ajuda com um aviso, a conversa mostra só o resum... | 29/10/2026
 
 - **Melhoria**: Ao pedir ajuda com um aviso, a conversa mostra só o resumo do problema e o plano num único balão, sem a varredura nem sugestões genéricas.

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.24",
+        "Data":  "2026-10-29 21:40",
+        "Notas":  "Correção: ao pedir ajuda com um aviso, a conversa abre limpa, só com o pedido e o plano; Correção: as páginas não abrem duas vezes ao usar o menu",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.24/EnginePro_Setup_4.5.24.exe"
+    },
+    {
         "Versao":  "4.5.23",
         "Data":  "2026-10-29 21:36",
         "Notas":  "Melhoria: ao pedir ajuda com um aviso, a conversa mostra só o resumo do problema e o plano num único balão, sem a varredura nem sugestões genéricas",
