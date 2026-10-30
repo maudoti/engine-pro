@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.41",
+        "Data":  "2026-10-30 13:21",
+        "Notas":  "Novo: as IAs na nuvem respondem em corrida e vale a mais rápida; Melhoria: a resposta da nuvem chega num cartão destacado, aberto com um clique; Novo: aviso crítico abre chamado para o TI sozinho; Melhoria: clima pelo local escolhido, do escritório ou do Windows, e céu coberto mostrado como nublado",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.41/EnginePro_Setup_4.5.41.exe"
+    },
+    {
         "Versao":  "4.5.40",
         "Data":  "2026-10-30 12:03",
         "Notas":  "Melhoria: a página Estações (TI) aparece só no computador do TI, como a de Chamados; Melhoria: a estação atualiza o inventário logo depois de mudar de versão",

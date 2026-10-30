@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.41",
+        "Data":  "2026-10-30 13:21",
+        "Titulo":  "As IAs na nuvem respondem em corrida e vale a mais rápida",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "As IAs na nuvem respondem em corrida e vale a mais rápida."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A resposta da nuvem chega num cartão destacado, aberto com um clique."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Aviso crítico abre chamado para o TI sozinho."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Clima pelo local escolhido, do escritório ou do Windows, e céu coberto mostrado como nublado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.40",
         "Data":  "2026-10-30 11:58",
         "Titulo":  "A página Estações (TI) aparece só no computador do TI, co...",

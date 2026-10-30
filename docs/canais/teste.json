@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.40",
-    "Instalador":  "EnginePro_Setup_4.5.40.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.40/EnginePro_Setup_4.5.40.exe",
-    "SHA256":  "72062725884BCE5E0FD3D666D5CF3EC9DDA56A1C2C683B0B5FDC3259125B8881",
-    "Data":  "2026-10-30 11:58",
-    "Notas":  "Melhoria: a página Estações (TI) aparece só no computador do TI, como a de Chamados; Melhoria: a estação atualiza o inventário logo depois de mudar de versão",
-    "Assinatura":  "Kd2ygKYkXH1+FcVkSWwnEVc6WtBZp+sspHElXvD52aVUa/gJWqFlZhiMnCrsR9QpOcc+d31hI8PcYxaPFc6XtyxCdWoW+FxlrjjvqRIoXZXuvdaV+gJdpx7lzI8odciCMdqwh5eaEoh96LWS+SfuH33alFLYhcxFJWuvs0E9DK8NAS2DzfSG9x/EwSMHTEBzTraqHMfE+Cw4P5f0P6ft3FXhZjAxUFGpBcVlKLYOA3Fs+hrOZW3PLo/UzRyKkHTPIeIVSgWVdbbojEUSoO/PCtyl9ZLhFD1ddQ7X8clqtMVPNXNRTl7iFt1xfoamDk0Y+nvJK5goIDgvZIWa2kIWwf8zOUilDFPeOE3/hdIGfuD9+l7fnSfDzDnO8ce+ojwS41S/dFOv5tWWvrkwcREama2Uja4zrAz6VKJfjjfyV3E3GhWYnmY5bcATt1CzXOEpD4TqRLJHjlhHrxsWSXyIM8h+Ul75kqD7Q3Ug+mJZCKzaUa1eZAVIqfq3VxWAew3y"
+    "Versao":  "4.5.41",
+    "Instalador":  "EnginePro_Setup_4.5.41.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.41/EnginePro_Setup_4.5.41.exe",
+    "SHA256":  "FC6FF0078F9528372A17F8463FA1FC3D1B756C9364C4CD0EC8E53DC02DE0DDD0",
+    "Data":  "2026-10-30 13:21",
+    "Notas":  "Novo: as IAs na nuvem respondem em corrida e vale a mais rápida; Melhoria: a resposta da nuvem chega num cartão destacado, aberto com um clique; Novo: aviso crítico abre chamado para o TI sozinho; Melhoria: clima pelo local escolhido, do escritório ou do Windows, e céu coberto mostrado como nublado",
+    "Assinatura":  "qv73ACfAaU9Daok3PM9SdCWjJ3myW8R521r5re6fqlKMo0dQrMqv4eTyX8qLfaunabnaRv6/Z3ZalwsdalYnHDXqRCSxij/BWRFidSm05zdNp+si39JIj+ThkkzDLH8yjQma34jVtcA8iiKKBLtvG8AecpFIIcAa7ZJKAz0rOdZMyRNwFN8ApaXW5dcy7/NVG83izDuyjJzxq+9iOexTR1PO0uhFimW+qDVMp8Vnqc9Xd0zHD0pSzzMhpQOcCuOiVkbDNhqSYyLYBCKiEPn+bYbnq4lqZzdByPOBEV0sV3YNcjMJkVM8hpkSUsQlkz+zyOFKQaVZ1oRne1v2kkw2xXU2uNU8w2ygUUsod/OUs+HcGwMlgDBDnkIhB0gosVr+WH3NI7LVn1ZKyE4Om20YdQn2D/lpuL+BEBI1H64jMVzmbns1VAWVl6aVc+vHTPCfkw82+yrs+GpxwqLRhEBzw97aXdxX8tpHdFDa5nTIeZdQw3nN+f5LI5NzNgJG6vPz"
 }

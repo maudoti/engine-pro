@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.41 | As IAs na nuvem respondem em corrida e vale a mais rápida | 30/10/2026
+
+- **Novo**: As IAs na nuvem respondem em corrida e vale a mais rápida.
+- **Melhoria**: A resposta da nuvem chega num cartão destacado, aberto com um clique.
+- **Novo**: Aviso crítico abre chamado para o TI sozinho.
+- **Melhoria**: Clima pelo local escolhido, do escritório ou do Windows, e céu coberto mostrado como nublado.
+
 ## Versão 4.5.40 | A página Estações (TI) aparece só no computador do TI, co... | 30/10/2026
 
 - **Melhoria**: A página Estações (TI) aparece só no computador do TI, como a de Chamados.
