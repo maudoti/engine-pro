@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.42",
+        "Data":  "2026-10-30 13:25",
+        "Titulo":  "Clima com a temperatura e o céu medidos na estação meteor...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Clima com a temperatura e o céu medidos na estação meteorológica mais próxima, em vez da previsão."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.41",
         "Data":  "2026-10-30 13:21",
         "Titulo":  "As IAs na nuvem respondem em corrida e vale a mais rápida",

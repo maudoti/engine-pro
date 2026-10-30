@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.42 | Clima com a temperatura e o céu medidos na estação meteor... | 30/10/2026
+
+- **Correção**: Clima com a temperatura e o céu medidos na estação meteorológica mais próxima, em vez da previsão.
+
 ## Versão 4.5.41 | As IAs na nuvem respondem em corrida e vale a mais rápida | 30/10/2026
 
 - **Novo**: As IAs na nuvem respondem em corrida e vale a mais rápida.
