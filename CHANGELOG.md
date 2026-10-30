@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.52 | Novo visual com as cores da R. Yazbek (vermelho, grafite ... | 30/10/2026
+
+- **Melhoria**: Novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador.
+- **Melhoria**: Botão Modo escuro no menu.
+- **Melhoria**: Avisos com uma cor para cada nível.
+
 ## Versão 4.5.51 | Aviso da Proteção do Sistema some assim que ela é ativada... | 30/10/2026
 
 - **Correção**: Aviso da Proteção do Sistema some assim que ela é ativada, e o botão ativa direto e cria o ponto de restauração.

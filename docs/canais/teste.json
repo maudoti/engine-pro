@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.51",
-    "Instalador":  "EnginePro_Setup_4.5.51.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.51/EnginePro_Setup_4.5.51.exe",
-    "SHA256":  "DC8DAF50CCADB68B9E215D79CA5876D9CFF9203750BD3F00A6CC30EB52FC66D3",
-    "Data":  "2026-10-30 14:23",
-    "Notas":  "Correção: aviso da Proteção do Sistema some assim que ela é ativada, e o botão ativa direto e cria o ponto de restauração; Correção: aviso de programas na inicialização conta só os ligados e some quando resolvido; Melhoria: lista da inicialização em primeiro lugar em Ajustes, com produto, fabricante, marca Pode desligar e botão para desligar os dispensáveis",
-    "Assinatura":  "vGgu09JnewpjOs4cTD6W0xBlX7vhId0dkc1tIFVK/O8ROHYWWWo6zVwfqhzynbmdMfRBzplJmZey1+vKeHQh98+J/nHs8hzuIgw9N/qh39w1vA9nXaV5sSNBJqoBiehqECiHDkf3ZB6KMqvhwuoocPmHuAP6WWGf1s86lDCAr4w5PGGYSj+tzq41PwdNgyCfaMzU9376JNTDT4b4Dao64WS1nuGDOxzq2y6G/z1nWONWrpE7Zb6kucs5YT1OWabVrBrEZo8Bb0e4dCuAfwWwXNwx69Y32/BGU52eXtLq458P5qpu+NBGXzh4k2HTa7b4inxvGG1aqAs1Zsqy2wBR2vPS2EDq531zRGYW+KbAobIo+XrCNu3bSWu6/uteRcvFIAcZwJrlu+/u7Ol8Tw6Uml6mnb8g6bBObaAHh4sjgks/rlXsE/3KhGxMKGCi2vZFV6IvAgu1s/jwigQVswGH/hF7ETJpgnwm/CfiVSYRetD/umfDdPaC/TkBLeEoLhdJ"
+    "Versao":  "4.5.52",
+    "Instalador":  "EnginePro_Setup_4.5.52.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.52/EnginePro_Setup_4.5.52.exe",
+    "SHA256":  "F26E28F00FC57DD118B25F314B8DD080869BD4B6E671101E32847CEE607F2FC8",
+    "Data":  "2026-10-30 14:38",
+    "Notas":  "Melhoria: novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador; Melhoria: botão Modo escuro no menu; Melhoria: avisos com uma cor para cada nível",
+    "Assinatura":  "pkC76HJS+42bNGPmcC641wtTs0VNQH/KgZce7oQYCLFVGzEvBsxwg3BSJMULbY4YGPIhkXhoJQ3e6I3Um1oVNtB5K8l/1WfwJ642J+3Yt+79f2HeSVbsaEZSakYYTYb9QdhXYjrPWTzZECiY0fVjc1ZoqbwnGAbM6P06bP91CzWBtPwx6W4Tn63p1mASarLP6uX+6SAZMuiZ+/kCqsG2cSKj8eDjclAAt6kqaXsOgLE+/3BA+NEJlkgGH1Xx2wbzu/nMc5UgroY+CV8HO62/2fQA1mYUrensnrPogyoJjpZFLeGAMl+diD/nZgHR8pYtHTuGrB+Gui6kDm0ZpCzyAdb1qnS67KQAHHdbBsUZiIQc9PX6MM2Zi1txzQRIT/oDc0KAK6Ibc4d4n498bvUgYlpnQOj5yd3+XoLjw80sl3y8kOAhze0YBm9c1IrIW0T2qO4fAG4+qv8FWG+GI3cmbLB3cFctOPhE3xaknohIWM1WAkRFYvM3dMyWHRZTm16o"
 }
