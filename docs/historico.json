@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.50",
+        "Data":  "2026-10-30 14:04",
+        "Titulo":  "Procurar drivers consulta a Dell (Dell Command Update, co...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Procurar drivers consulta a Dell (Dell Command Update, com BIOS, drivers e firmware) além do Windows Update."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.49",
         "Data":  "2026-10-30 14:01",
         "Titulo":  "Cada cartão da página Atualizações tem a própria busca",

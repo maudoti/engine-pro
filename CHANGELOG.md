@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.50 | Procurar drivers consulta a Dell (Dell Command Update, co... | 30/10/2026
+
+- **Novo**: Procurar drivers consulta a Dell (Dell Command Update, com BIOS, drivers e firmware) além do Windows Update.
+
 ## Versão 4.5.49 | Cada cartão da página Atualizações tem a própria busca | 30/10/2026
 
 - **Novo**: Cada cartão da página Atualizações tem a própria busca.
