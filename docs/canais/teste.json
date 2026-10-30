@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.52",
-    "Instalador":  "EnginePro_Setup_4.5.52.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.52/EnginePro_Setup_4.5.52.exe",
-    "SHA256":  "F26E28F00FC57DD118B25F314B8DD080869BD4B6E671101E32847CEE607F2FC8",
-    "Data":  "2026-10-30 14:38",
+    "Versao":  "4.5.53",
+    "Instalador":  "EnginePro_Setup_4.5.53.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.53/EnginePro_Setup_4.5.53.exe",
+    "SHA256":  "133CD5192C34FE3E58DCED183291FD7AC59DC50896628608932E55C34435BDA3",
+    "Data":  "2026-10-30 14:42",
     "Notas":  "Melhoria: novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador; Melhoria: botão Modo escuro no menu; Melhoria: avisos com uma cor para cada nível",
-    "Assinatura":  "pkC76HJS+42bNGPmcC641wtTs0VNQH/KgZce7oQYCLFVGzEvBsxwg3BSJMULbY4YGPIhkXhoJQ3e6I3Um1oVNtB5K8l/1WfwJ642J+3Yt+79f2HeSVbsaEZSakYYTYb9QdhXYjrPWTzZECiY0fVjc1ZoqbwnGAbM6P06bP91CzWBtPwx6W4Tn63p1mASarLP6uX+6SAZMuiZ+/kCqsG2cSKj8eDjclAAt6kqaXsOgLE+/3BA+NEJlkgGH1Xx2wbzu/nMc5UgroY+CV8HO62/2fQA1mYUrensnrPogyoJjpZFLeGAMl+diD/nZgHR8pYtHTuGrB+Gui6kDm0ZpCzyAdb1qnS67KQAHHdbBsUZiIQc9PX6MM2Zi1txzQRIT/oDc0KAK6Ibc4d4n498bvUgYlpnQOj5yd3+XoLjw80sl3y8kOAhze0YBm9c1IrIW0T2qO4fAG4+qv8FWG+GI3cmbLB3cFctOPhE3xaknohIWM1WAkRFYvM3dMyWHRZTm16o"
+    "Assinatura":  "ZW2DkkIC5Nhr0268fDXsC9XCPEceBVJIDG+XJUhoiAhZ7nM7MlnupaDaAF08cspBj8W5KtssJu3hvqEHcUqnpoMC6mtaO+lPrfXjTWhZUB3BtJsXqcisB+Mnmp2J3gM6F5fENAjyZbYDYTDEbMBMC8yiwH4sUtNHh4h+guBBh8D6Bl4I5/7/rXfaOpgRWjZ+U6Y6MZGdZUlu3NW1wPVLPAUHuDmJSTe3J/DP/yZO+wBbeT2Qo+s6UyJ1K6xDgPjLtTnhB+j6FtIq2GW/RotQ8MxDJjaQeo2g0X1STlfV98Kd4a+E/ZmYfHMUHWjm9S2ryZ+64Fy31FeQvBftKaeLy26jLb2A5zFYD0RhcUbePgx3KEhil3cxzGLmVJQlPuc5Oosnka3p634XFf9z/1X4K4qDiuHMjPK9V05mvMbwPI/g8vSrpzTOyangPYyTq3XGEhx2emR0hvHwXQahCElmkPrhnmEBPkgBJjgLzVlPzE9oH5SK8hC4vYKyZhLOsH7g"
 }

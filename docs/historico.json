@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.53",
+        "Data":  "2026-10-30 14:42",
+        "Titulo":  "Novo visual com as cores da R. Yazbek (vermelho, grafite ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botão Modo escuro no menu."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Avisos com uma cor para cada nível."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.52",
         "Data":  "2026-10-30 14:38",
         "Titulo":  "Novo visual com as cores da R. Yazbek (vermelho, grafite ...",

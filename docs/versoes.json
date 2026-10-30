@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.53",
+        "Data":  "2026-10-30 14:42",
+        "Notas":  "Melhoria: novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador; Melhoria: botão Modo escuro no menu; Melhoria: avisos com uma cor para cada nível",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.53/EnginePro_Setup_4.5.53.exe"
+    },
+    {
         "Versao":  "4.5.52",
         "Data":  "2026-10-30 14:38",
         "Notas":  "Melhoria: novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador; Melhoria: botão Modo escuro no menu; Melhoria: avisos com uma cor para cada nível",
