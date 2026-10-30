@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.55",
+        "Data":  "2026-10-30 15:08",
+        "Titulo":  "Página OneDrive e SharePoint com diagnóstico (itens sincr...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Página OneDrive e SharePoint com diagnóstico (itens sincronizados, caminhos longos, arquivos do Outlook, arquivos sob demanda)."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Reinstalação limpa do OneDrive que remove os restos da instalação antiga sem apagar arquivos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Redefinir o OneDrive com plano B quando a redefinição oficial falha."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Ajustes da Microsoft para sincronizar muitos arquivos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.54",
         "Data":  "2026-10-30 14:49",
         "Titulo":  "Y vermelho menor, ao lado da saudação na tela inicial",

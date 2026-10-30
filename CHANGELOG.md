@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.55 | Página OneDrive e SharePoint com diagnóstico (itens sincr... | 30/10/2026
+
+- **Novo**: Página OneDrive e SharePoint com diagnóstico (itens sincronizados, caminhos longos, arquivos do Outlook, arquivos sob demanda).
+- **Novo**: Reinstalação limpa do OneDrive que remove os restos da instalação antiga sem apagar arquivos.
+- **Melhoria**: Redefinir o OneDrive com plano B quando a redefinição oficial falha.
+- **Novo**: Ajustes da Microsoft para sincronizar muitos arquivos.
+
 ## Versão 4.5.54 | Y vermelho menor, ao lado da saudação na tela inicial | 30/10/2026
 
 - **Melhoria**: Y vermelho menor, ao lado da saudação na tela inicial.

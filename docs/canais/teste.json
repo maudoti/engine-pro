@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.54",
-    "Instalador":  "EnginePro_Setup_4.5.54.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.54/EnginePro_Setup_4.5.54.exe",
-    "SHA256":  "9297D175B1F093C38AD35E22692108F3DA9F4A21D871B53220079CAE44A5AD5D",
-    "Data":  "2026-10-30 14:49",
-    "Notas":  "Melhoria: Y vermelho menor, ao lado da saudação na tela inicial; Melhoria: sem o logotipo da empresa no menu e na abertura, já que o programa é público",
-    "Assinatura":  "o5jXezJElO+YLUtOuJIXN3noFv9Z7BV4hk/NAa5wP/i3kTqb82R8x51Mmk8CE+JAgHk4R3Ofdu7rB6JfAdOMkum0QDBeKrQdmqnuvXxASiarIr3JFGhdrR5h0CvLgRHIZYbY1UXwrmeEUir8wR/UzCcsYG6FWKd2tiBAk3PjigZViOwaoMm/duUpRX9icEHw2rzOoObFE5PpAU3viLxGigJ1IxPBhgHi4JkNPcJFelbR3YC0xIjUoLIw+GVCjckdPbx5tVELeqSTBZRiDZpNUs5pd/LQn6BA8b6T0XdU3BcrTNY26yWXdo81kL8kxqiOwL4P7tvUfYHljqvXrBxkZwVWu5mwmxF0TiaNXl4q5aAELCLtmre6Ri5IbzC/5ryPhkefigwR91FoRLYWliOkDUcWuFMis1Zutvm/N9UJzc8dbDA6ge/tJNRzwI5sEz6Vv4bsLX/u1SmeVow4r1ETgOJtEE43/N9nLi862xk7C3D6gI9crgoPJQv4gjvvLCZH"
+    "Versao":  "4.5.55",
+    "Instalador":  "EnginePro_Setup_4.5.55.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.55/EnginePro_Setup_4.5.55.exe",
+    "SHA256":  "1B6DB23F1AED9C246BF4D3FCE275E46D490EA4924CB902757230C183D4567988",
+    "Data":  "2026-10-30 15:08",
+    "Notas":  "Novo: página OneDrive e SharePoint com diagnóstico (itens sincronizados, caminhos longos, arquivos do Outlook, arquivos sob demanda); Novo: reinstalação limpa do OneDrive que remove os restos da instalação antiga sem apagar arquivos; Melhoria: redefinir o OneDrive com plano B quando a redefinição oficial falha; Novo: ajustes da Microsoft para sincronizar muitos arquivos",
+    "Assinatura":  "qP5pxjGOABAfhMoaxQHCrxpnTtWj5UlHMHIlfYmBx4tEWqZmnZ+N6j46Xr8yD9WN0ASrAXXpwjnktwAFw5cvxMYM1vpqOJDRZ2M1bx35W4lWp5lHobVfL6EWzLABvpd9jQ0gCU2BGZ04FxEqON0ThEXU5D3abQDObzKQTBHHwGbaxSN3mfCvQzGiRGcrHLrqSEkC3/i0OLy+FpuHk4ydV0PaExSK/NBCVGWrjQDJ5c2HOE0vK1JxTobakA4l/D/ftNV3jPwZ1EWfN/bZRtGPBSS9KOytR0Hbgimg/SNf/Q5mO/YL8Z8NWZwLLgTBb5PHKfaYqLGLqAbDCzV5HcyXIOQFv9htcSyiKSUa1K1yhxHGc0eGEPO8HatKjh3MqpHxVK9fRDydQtGUdvoDTfA4Wv5vFUQQJq62VgHUDrKsHczRt4g31pF/8Mb1N3INHLKvXr1F8DlNlI2Mibetoy4I9t8pDx02+NN+YxZwmDn0w8ooS9F5t+PjkznBVFOukkjF"
 }
