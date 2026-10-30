@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Engine Pro | Seu PC Mais Inteligente</title>
-<meta name="description" content="Engine Pro: otimiza, limpa, atualiza, repara, protege e faz backup das estações Windows, com uma IA embutida que aprende em colmeia com todos os computadores da empresa.">
+<meta name="description" content="Engine Pro: manutenção, atualização, reparo e monitoramento de estações Windows.">
 <link rel="icon" href="icone.png">
 <style>
   :root {
@@ -55,14 +55,6 @@
   h3 { font-size: 20px; font-weight: 600; margin: 40px 4px 14px; }
   .grade { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
   .recurso { padding: 20px; }
-  .destaque-ia { padding: 22px 24px; margin-bottom: 14px; background: linear-gradient(135deg, rgba(0,123,204,.07), rgba(82,31,255,.09)), var(--card); }
-  .ia-cab { display: flex; gap: 14px; align-items: center; margin-bottom: 16px; }
-  .ia-cab .ic { width: 48px; height: 48px; flex: none; border-radius: 14px; background: linear-gradient(135deg, var(--a1), var(--a2)); color: #fff; display: grid; place-items: center; font-size: 24px; }
-  .ia-cab b { display: block; font-size: 18px; }
-  .ia-cab span { color: var(--sub); font-size: 14px; }
-  .ia-itens { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 16px; }
-  .ia-itens b { display: block; margin-bottom: 4px; }
-  .ia-itens span { color: var(--sub); font-size: 13.5px; }
   .recurso .ic { width: 42px; height: 42px; border-radius: 12px; background: linear-gradient(135deg, var(--a1), var(--a2)); color: #fff; display: grid; place-items: center; font-size: 20px; margin-bottom: 12px; }
   .recurso b { display: block; margin-bottom: 4px; }
   .recurso span { color: var(--sub); font-size: 14px; }
@@ -79,9 +71,6 @@
   .tecnico p { color: var(--sub); margin: 8px 0 12px; }
   footer { text-align: center; color: var(--sub); font-size: 13px; padding: 28px 20px 40px; }
   .vazio { color: var(--sub); padding: 18px 0; }
-  .mais { display: flex; gap: 10px; align-items: center; margin: 4px 0 8px 26px; }
-  .mais[hidden] { display: none; }
-  .mais span { color: var(--sub); font-size: 13px; }
   .resumo { color: var(--sub); margin: -6px 4px 14px; }
   .filtros { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 4px 16px; }
   .filtro { border: 1px solid var(--borda); background: var(--card); color: var(--texto); border-radius: 18px; padding: 6px 14px; font: inherit; font-size: 13.5px; cursor: pointer; }
@@ -122,28 +111,11 @@
     </section>
 
     <h3>O que ele faz</h3>
-    <div class="cartao destaque-ia">
-      <div class="ia-cab"><div class="ic">ϟ</div><div><b>IA embutida que aprende em colmeia</b><span>Cada computador ensina e aprende com todos os outros, e a inteligência cresce para a empresa inteira.</span></div></div>
-      <div class="ia-itens">
-        <div><b>Entende o problema</b><span>Cruza eventos do Windows, telas azuis, travamentos, sensores e o que mudou no computador para achar a causa, não só o sintoma.</span></div>
-        <div><b>Resolve com autorização</b><span>Explica o plano, pede um OK e executa os reparos do Engine Pro, conferindo depois se resolveu. Nunca cria scripts próprios.</span></div>
-        <div><b>Aprende com o tempo</b><span>Guarda o que funcionou, as respostas que ajudaram e o normal de cada máquina. O que uma pessoa ensina passa a ajudar todas.</span></div>
-        <div><b>Enxerga a empresa</b><span>Resumos anônimos de todas as estações revelam problemas comuns, como um link lento ou um driver ruim, e o TI aprova o que vale para todos.</span></div>
-      </div>
-    </div>
     <div class="grade">
-      <div class="cartao recurso"><div class="ic">✦</div><b>Limpeza e otimização</b><span>Temporários, caches, lixeira, logs e otimização de SSD e HD, sem tocar em senhas nem documentos.</span></div>
-      <div class="cartao recurso"><div class="ic">↻</div><b>Atualizações</b><span>Aplicativos, Windows e drivers de uma vez, preservando drivers do fabricante mais novos.</span></div>
-      <div class="cartao recurso"><div class="ic">⚙</div><b>Diagnóstico e reparos</b><span>Rede, impressoras, Office, Outlook, Teams, OneDrive, barra de tarefas e muito mais, em um clique.</span></div>
-      <div class="cartao recurso"><div class="ic">⚡</div><b>Desempenho</b><span>Processador, memória, disco e rede em tempo real, o que mais pesa e a inicialização acelerada.</span></div>
-      <div class="cartao recurso"><div class="ic">⛨</div><b>Segurança</b><span>Antivírus, firewall, criptografia do disco, TPM, contas de administrador e dispositivos USB.</span></div>
-      <div class="cartao recurso"><div class="ic">⇪</div><b>Backup e migração</b><span>Backup no OneDrive de cada pessoa, pontos de restauração e troca de computador passo a passo.</span></div>
-      <div class="cartao recurso"><div class="ic">◷</div><b>Agendamento e fila</b><span>Checagens, limpezas, atualizações e backups em data e hora marcadas, mesmo com o programa fechado.</span></div>
-      <div class="cartao recurso"><div class="ic">◉</div><b>Monitor e piloto automático</b><span>Sensores em segundo plano, avisos discretos e correções seguras feitas sozinho.</span></div>
-      <div class="cartao recurso"><div class="ic">✎</div><b>Dicas e previsões</b><span>Avisa antes: disco que vai encher, inicialização piorando, travamentos aumentando, bateria gasta.</span></div>
-      <div class="cartao recurso"><div class="ic">☏</div><b>Central de suporte</b><span>Avisar o TI com chamado criptografado, assistência remota, guias e acompanhamento dos chamados.</span></div>
-      <div class="cartao recurso"><div class="ic">✔</div><b>Problemas resolvidos</b><span>Cada reparo conferido nas análises seguintes, com o antes e o depois.</span></div>
-      <div class="cartao recurso"><div class="ic">▣</div><b>Ficha do computador</b><span>Modelo, número de série, garantia, peças e a conferência do padrão da empresa.</span></div>
+      <div class="cartao recurso"><div class="ic">✦</div><b>Limpeza e manutenção</b><span>Temporários, caches, logs e otimização das unidades, sem tocar em senhas nem documentos.</span></div>
+      <div class="cartao recurso"><div class="ic">↻</div><b>Atualizações</b><span>Aplicativos, Windows e drivers, preservando drivers do fabricante mais novos.</span></div>
+      <div class="cartao recurso"><div class="ic">⚙</div><b>Reparos de um clique</b><span>Rede, impressoras, Office, Teams, OneDrive, barra de tarefas e muito mais.</span></div>
+      <div class="cartao recurso"><div class="ic">◉</div><b>Monitor em tempo real</b><span>Antivírus, memória, disco e programas suspeitos, com avisos discretos.</span></div>
     </div>
 
     <h3>Histórico completo</h3>
@@ -155,7 +127,6 @@
       <button class="filtro" data-f="correcao" aria-pressed="false">Correções</button>
     </div>
     <div class="linha" id="historico"><div class="vazio">Carregando...</div></div>
-    <div class="mais" id="mais" hidden><button class="filtro" id="verMais" type="button">Ver mais</button><button class="filtro" id="verMenos" type="button" hidden>Mostrar menos</button><span id="restam"></span></div>
 
     <h3>Para a equipe de TI</h3>
     <div class="cartao tecnico">
@@ -208,13 +179,12 @@
     .catch(function () { texto('meta', 'Não foi possível carregar a versão agora.'); });
 
   var historico = [], publicacoes = [], filtro = 'todos';
-  var INICIAIS = 5, PASSO = 10, limite = INICIAIS;
   function dataHora(d) { if (!d) return ''; var p = d.split(' '); return dataBr(p[0]) + (p[1] ? ' às ' + p[1] : ''); }
   function desenhar() {
     var h = document.getElementById('historico'); h.innerHTML = '';
-    var visiveis = historico.filter(function (v) { return (v.Itens || []).some(function (i) { return filtro === 'todos' || i.Tipo === filtro; }); });
-    visiveis.slice(0, limite).forEach(function (v) {
+    historico.forEach(function (v) {
       var itens = (v.Itens || []).filter(function (i) { return filtro === 'todos' || i.Tipo === filtro; });
+      if (!itens.length) return;
       var c = document.createElement('article'); c.className = 'cartao versao-h';
       var cab = document.createElement('div'); cab.className = 'cab';
       var n = document.createElement('span'); n.className = 'num'; n.textContent = v.Versao === '0.0' ? 'Origem' : 'Versão ' + v.Versao;
@@ -236,23 +206,11 @@
       c.appendChild(ul); h.appendChild(c);
     });
     if (!h.children.length) h.innerHTML = '<div class="vazio">Nenhuma mudança deste tipo.</div>';
-    // Ver mais: quantas versões ainda faltam; Mostrar menos quando tudo já está aberto
-    var faltam = Math.max(0, visiveis.length - limite);
-    document.getElementById('mais').hidden = visiveis.length <= INICIAIS;
-    document.getElementById('verMais').hidden = faltam === 0;
-    document.getElementById('verMais').textContent = 'Ver mais (' + Math.min(PASSO, faltam) + ')';
-    document.getElementById('verMenos').hidden = faltam > 0;
-    texto('restam', faltam ? faltam + (faltam === 1 ? ' versão anterior' : ' versões anteriores') : '');
   }
-  document.getElementById('verMais').addEventListener('click', function () { limite += PASSO; desenhar(); });
-  document.getElementById('verMenos').addEventListener('click', function () {
-    limite = INICIAIS; desenhar();
-    document.getElementById('resumo').scrollIntoView({ behavior: 'smooth', block: 'start' });
-  });
-  Array.prototype.forEach.call(document.querySelectorAll('.filtros .filtro'), function (b) {
+  Array.prototype.forEach.call(document.querySelectorAll('.filtro'), function (b) {
     b.addEventListener('click', function () {
-      filtro = b.getAttribute('data-f'); limite = INICIAIS;
-      Array.prototype.forEach.call(document.querySelectorAll('.filtros .filtro'), function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      filtro = b.getAttribute('data-f');
+      Array.prototype.forEach.call(document.querySelectorAll('.filtro'), function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
       desenhar();
     });
   });
