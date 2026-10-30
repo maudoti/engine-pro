@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.38",
-    "Instalador":  "EnginePro_Setup_4.5.38.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.38/EnginePro_Setup_4.5.38.exe",
-    "SHA256":  "EB9319F912891758E0C7A075C33257EF68E1A7939D75866BC578014ACA7D6775",
-    "Data":  "2026-10-30 11:47",
-    "Notas":  "Melhoria: a IA na nuvem responde primeiro, pensando com os dados do computador; a IA local responde só quando a nuvem está desligada ou não responde",
-    "Assinatura":  "uarjRZFWextFmyJQDSc2P+P44lVSBvb1ItT1EXoR1QWSzJp+/nANbR8v4RSMND6YmL0rp90V07M7ja/Ltk6U8JubMRvem3u1yudeUAK5mmOirdAq9N0JCHsE9XJOB3CdRY+WAsZHcMpdTLLjUg/qIIxMACSXeASUjVi5ASWnLsOVgddjrUv3dtM5HVVDvttVlaE2hn3kCDvz2qwAw2oHUonPNSLlzvYkeqRP8Tbe/BkgX6nPY8J8wO54qbjdYfwfmrAwm0EuLlU3dJYLa4sYP9GS6T0s5UKLyGJWeC4PWzH0J8ZwkSD/wVKGbw/fVC/4CO1Vp81j33rtUb/PWgl0aVf8ox1bytqP3lSaZTOCz9Ik3cBu5pzEq3YWNYjFZNPXGvpy0qCNuiHjW8G/0PGl85JFkeOoff85WO2KT//TOQ3hBNIT2acVzNlrbQzca1WmBQze/C2q/+gA6jnUnMS4N72vDMdz6gpJXMcqU/yXp65lL6LzZuD3JsYg4yew6c27"
+    "Versao":  "4.5.40",
+    "Instalador":  "EnginePro_Setup_4.5.40.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.40/EnginePro_Setup_4.5.40.exe",
+    "SHA256":  "72062725884BCE5E0FD3D666D5CF3EC9DDA56A1C2C683B0B5FDC3259125B8881",
+    "Data":  "2026-10-30 11:58",
+    "Notas":  "Melhoria: a página Estações (TI) aparece só no computador do TI, como a de Chamados; Melhoria: a estação atualiza o inventário logo depois de mudar de versão",
+    "Assinatura":  "Kd2ygKYkXH1+FcVkSWwnEVc6WtBZp+sspHElXvD52aVUa/gJWqFlZhiMnCrsR9QpOcc+d31hI8PcYxaPFc6XtyxCdWoW+FxlrjjvqRIoXZXuvdaV+gJdpx7lzI8odciCMdqwh5eaEoh96LWS+SfuH33alFLYhcxFJWuvs0E9DK8NAS2DzfSG9x/EwSMHTEBzTraqHMfE+Cw4P5f0P6ft3FXhZjAxUFGpBcVlKLYOA3Fs+hrOZW3PLo/UzRyKkHTPIeIVSgWVdbbojEUSoO/PCtyl9ZLhFD1ddQ7X8clqtMVPNXNRTl7iFt1xfoamDk0Y+nvJK5goIDgvZIWa2kIWwf8zOUilDFPeOE3/hdIGfuD9+l7fnSfDzDnO8ce+ojwS41S/dFOv5tWWvrkwcREama2Uja4zrAz6VKJfjjfyV3E3GhWYnmY5bcATt1CzXOEpD4TqRLJHjlhHrxsWSXyIM8h+Ul75kqD7Q3Ug+mJZCKzaUa1eZAVIqfq3VxWAew3y"
 }
