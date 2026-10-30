@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.48",
+        "Data":  "2026-10-30 13:57",
+        "Titulo":  "Página Atualizações reorganizada em cartões (Windows Upda...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Página Atualizações reorganizada em cartões (Windows Update, Drivers, Outros aplicativos, Patches e correções, Drivers oferecidos e Histórico), com o Atualizar tudo no topo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.47",
         "Data":  "2026-10-30 13:52",
         "Titulo":  "Desempenho mostra quem mais usa o disco e a rede",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.48 | Página Atualizações reorganizada em cartões (Windows Upda... | 30/10/2026
+
+- **Melhoria**: Página Atualizações reorganizada em cartões (Windows Update, Drivers, Outros aplicativos, Patches e correções, Drivers oferecidos e Histórico), com o Atualizar tudo no topo.
+
 ## Versão 4.5.47 | Desempenho mostra quem mais usa o disco e a rede | 30/10/2026
 
 - **Novo**: Desempenho mostra quem mais usa o disco e a rede.
