@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.44 | O clima guardado pela versão anterior é descartado e lido... | 30/10/2026
+
+- **Correção**: O clima guardado pela versão anterior é descartado e lido de novo ao abrir.
+- **Novo**: Na primeira vez que abre, o Engine Pro pede para usar a localização do Windows no clima.
+
 ## Versão 4.5.43 | O clima não conseguia ler a estação meteorológica mais pr... | 30/10/2026
 
 - **Correção**: O clima não conseguia ler a estação meteorológica mais próxima.

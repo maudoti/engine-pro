@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.44",
+        "Data":  "2026-10-30 13:33",
+        "Titulo":  "O clima guardado pela versão anterior é descartado e lido...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O clima guardado pela versão anterior é descartado e lido de novo ao abrir."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Na primeira vez que abre, o Engine Pro pede para usar a localização do Windows no clima."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.43",
         "Data":  "2026-10-30 13:29",
         "Titulo":  "O clima não conseguia ler a estação meteorológica mais pr...",

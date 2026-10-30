@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.43",
-    "Instalador":  "EnginePro_Setup_4.5.43.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.43/EnginePro_Setup_4.5.43.exe",
-    "SHA256":  "84796D6820F083ABFA63549FB54EBDD724888BDAF0520156C988EEFDBCCFA9F1",
-    "Data":  "2026-10-30 13:29",
-    "Notas":  "Correção: o clima não conseguia ler a estação meteorológica mais próxima; Novo: ao clicar no clima, opção de usar a localização do Windows, com a permissão da pessoa",
-    "Assinatura":  "EGwz+Dbis+3qa5l/6pp1IrwBm0EttxXT3vXR7gpLWfszQ0qFmD4bskIA1b3DZpa8ZLU37T5B2Q2ToynqSYTs+Zy4F4mQVEv8HGXVGM0a3878IxQIpS6kLbSdmb05Ndp5AyfQPNsO3mhuyXMaySRRrsk2SzZgWAtqtyHpuUfN9UMIh0alG1vU+jXRoJ/PYAPGdT0Vqm1/v2UIZNNe9LtHy01MQ91Uc7bx/Bb2hhthA0ZXw9WrBWsFONY98tESL7S8yzeYQVM/Go3lOm3l79WNOOka/NlqNSwtsKTMdZd7vtCgYCZIPnUoJwyGSI1tLLTIzvQmbQpilqala6D4EKYZGyYQjk/Jpf2mfl4z3+DWlOu/323vf8pjKl0T42QrnOyKVRQzr3vDnVjVk24mrO9EeM9y/QYpL8ojfDlud1B7NBd5CGIsMRRQeqrGdjRS3E/e9NkBkqn/WxAIjrMVmDCDownqSN7Zw+1ol1Qh4RD0o6GqlOLE0x/hl4Qgbd4t8h5i"
+    "Versao":  "4.5.44",
+    "Instalador":  "EnginePro_Setup_4.5.44.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.44/EnginePro_Setup_4.5.44.exe",
+    "SHA256":  "A7CF0DFAD4A90DA336CAF6D3C4834ECAC720CD7E68CB0A4C1C508C263274DA28",
+    "Data":  "2026-10-30 13:33",
+    "Notas":  "Correção: o clima guardado pela versão anterior é descartado e lido de novo ao abrir; Novo: na primeira vez que abre, o Engine Pro pede para usar a localização do Windows no clima",
+    "Assinatura":  "Lg965dfJGKar70vDNEemCTDrPJ++j7rV8eiu4VMKD01y0YjuYTQFXabws0UlNOfdclNwEzxeeGNtFG1smw9kMGhMo2MjaDIQvaQo/TYHZrM1pSvqx7bVdO0DzvUEJNR3k4IOdwhgIRFKsik8MTemwCqj4+LsG4I1wDuN7yJuLEULSEmHis/3sn4FcPZAtRFHJZQnhyoRdvD9TkIQsBZn1r1tMUvx1zWgmaBQwpxkcPDFVkZB+yQoVait46a6rykFoSY/Wjh/MEQmSpXlipn9nmwkd1TwxsjvTgEyD3apaITwqptBXa5X+G3ueg77uc3+2yz4kH210ZNoiwgkrO4BSVoXengbcsYU96QBkBLtlv4bZXymv7Uuy6GILJtzcD3pptsiHOdSgqJ/mGmL54MwyxaVxN09SZ0iOgQ1O0d5SLgvpRazEupK5NPE8d0s1BMZh7B5Kxhz1EUCnMNXkMNNXiBFpgca6RIyagYWOZvs5rK6MDn1jMiwdBBKRnCnqy5A"
 }

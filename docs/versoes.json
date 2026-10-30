@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.44",
+        "Data":  "2026-10-30 13:33",
+        "Notas":  "Correção: o clima guardado pela versão anterior é descartado e lido de novo ao abrir; Novo: na primeira vez que abre, o Engine Pro pede para usar a localização do Windows no clima",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.44/EnginePro_Setup_4.5.44.exe"
+    },
+    {
         "Versao":  "4.5.43",
         "Data":  "2026-10-30 13:29",
         "Notas":  "Correção: o clima não conseguia ler a estação meteorológica mais próxima; Novo: ao clicar no clima, opção de usar a localização do Windows, com a permissão da pessoa",
