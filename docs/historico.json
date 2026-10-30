@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.40",
+        "Data":  "2026-10-30 11:58",
+        "Titulo":  "A página Estações (TI) aparece só no computador do TI, co...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A página Estações (TI) aparece só no computador do TI, como a de Chamados."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "A estação atualiza o inventário logo depois de mudar de versão."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.39",
         "Data":  "2026-10-30 11:55",
         "Titulo":  "A página Chamados (TI) não conseguia ler os chamados",

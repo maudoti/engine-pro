@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.39",
-    "Instalador":  "EnginePro_Setup_4.5.39.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.39/EnginePro_Setup_4.5.39.exe",
-    "SHA256":  "C85E650B279C4125251A7D0139B9E17F3D4F64EB426E9C8E916B14D9C81A7E87",
-    "Data":  "2026-10-30 11:55",
-    "Notas":  "Correção: a página Chamados (TI) não conseguia ler os chamados; o motivo de qualquer falha passa a aparecer na página",
-    "Assinatura":  "pp/8/VRTMpam61AZ0wiqBT2+9vcp73HBpcNryqjrNkMHPJ1T8vwPzp8SdtQSPWzctSOekJbqEaK1C9jGyT11crmc4CPilmnr98PWcmdliBVKRuqky4k2BBQWfoPNTyAGY8dSTPXaV5oGDvI4WuyoVrKGe0QwO7imFjSAceg8POoeUse9bzjIir5P4+E5MeHDMyRouXG/ex0x3tWRyR5dIMmSAOKI0VFHk+8ycCFE31FkyYqfUlX0IawRxBhI0dv1PcvgsmmngkfL7hAx7/9hbJ2EcyXS2pAtOR/ZV0uk4dwX8PvlO+6ZtaydCCS1U33Ziq9XdNaDwmNQZ1O6bIJIhZe8QtKfhgO7bTyRElPqPIm3ap49bX4S+UnvNKEIFGTjPKihJ6HjH/5rnapw1/ITE+L9RTp4nth0DwtkwQwBjDO0cjKWZbEBwBbobT6X06VAeo1QU9l7zh1uUNsxW0iBL/IT+WaJzrAopsOBiwkGrq3MctSClXAK9V7zH+nZ5Trz"
+    "Versao":  "4.5.40",
+    "Instalador":  "EnginePro_Setup_4.5.40.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.40/EnginePro_Setup_4.5.40.exe",
+    "SHA256":  "72062725884BCE5E0FD3D666D5CF3EC9DDA56A1C2C683B0B5FDC3259125B8881",
+    "Data":  "2026-10-30 11:58",
+    "Notas":  "Melhoria: a página Estações (TI) aparece só no computador do TI, como a de Chamados; Melhoria: a estação atualiza o inventário logo depois de mudar de versão",
+    "Assinatura":  "Kd2ygKYkXH1+FcVkSWwnEVc6WtBZp+sspHElXvD52aVUa/gJWqFlZhiMnCrsR9QpOcc+d31hI8PcYxaPFc6XtyxCdWoW+FxlrjjvqRIoXZXuvdaV+gJdpx7lzI8odciCMdqwh5eaEoh96LWS+SfuH33alFLYhcxFJWuvs0E9DK8NAS2DzfSG9x/EwSMHTEBzTraqHMfE+Cw4P5f0P6ft3FXhZjAxUFGpBcVlKLYOA3Fs+hrOZW3PLo/UzRyKkHTPIeIVSgWVdbbojEUSoO/PCtyl9ZLhFD1ddQ7X8clqtMVPNXNRTl7iFt1xfoamDk0Y+nvJK5goIDgvZIWa2kIWwf8zOUilDFPeOE3/hdIGfuD9+l7fnSfDzDnO8ce+ojwS41S/dFOv5tWWvrkwcREama2Uja4zrAz6VKJfjjfyV3E3GhWYnmY5bcATt1CzXOEpD4TqRLJHjlhHrxsWSXyIM8h+Ul75kqD7Q3Ug+mJZCKzaUa1eZAVIqfq3VxWAew3y"
 }

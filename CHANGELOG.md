@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.40 | A página Estações (TI) aparece só no computador do TI, co... | 30/10/2026
+
+- **Melhoria**: A página Estações (TI) aparece só no computador do TI, como a de Chamados.
+- **Melhoria**: A estação atualiza o inventário logo depois de mudar de versão.
+
 ## Versão 4.5.39 | A página Chamados (TI) não conseguia ler os chamados | 30/10/2026
 
 - **Correção**: A página Chamados (TI) não conseguia ler os chamados.
