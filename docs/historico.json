@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.72",
+        "Data":  "2026-10-30 19:53",
+        "Titulo":  "Remove sobras de atualizações grandes do Windows quando n...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Remove sobras de atualizações grandes do Windows quando não estão em uso."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A análise da IA aponta drivers sem assinatura digital."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.71",
         "Data":  "2026-10-30 19:36",
         "Titulo":  "A IA da nuvem não cita mais programas que não existem no ...",

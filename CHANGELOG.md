@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.72 | Remove sobras de atualizações grandes do Windows quando n... | 30/10/2026
+
+- **Novo**: Remove sobras de atualizações grandes do Windows quando não estão em uso.
+- **Novo**: A análise da IA aponta drivers sem assinatura digital.
+
 ## Versão 4.5.71 | A IA da nuvem não cita mais programas que não existem no ... | 30/10/2026
 
 - **Correção**: A IA da nuvem não cita mais programas que não existem no computador (regra contra inventar, lista real de programas abertos, modelo maior e conferência da resposta).
