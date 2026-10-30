@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.68",
+        "Data":  "2026-10-30 17:51",
+        "Titulo":  "Inventário das estações também pela internet, criptografa...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Inventário das estações também pela internet, criptografado com a chave do TI, para obras e quem está fora do escritório."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.67",
         "Data":  "2026-10-30 17:37",
         "Titulo":  "Página Estações com filtros clicáveis (atualizadas, desat...",

@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.67",
-    "Instalador":  "EnginePro_Setup_4.5.67.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.67/EnginePro_Setup_4.5.67.exe",
-    "SHA256":  "A1382AC227AB0ECD182A2E9B92BFFAED19A217DAA6772ADFC82D912F617F1787",
-    "Data":  "2026-10-30 17:37",
-    "Notas":  "Melhoria: página Estações com filtros clicáveis (atualizadas, desatualizadas, sem aparecer e atenção) e detalhes de cada estação; Melhoria: a estação registra por que não conseguiu enviar o inventário",
-    "Assinatura":  "EcFkDJCvaGgstjmUXLyh/Jmw1yTBotFvggOwGN0WMToG+fAAxkyPnfuEOgTTcX4gkK0yK/nwMNeZTtCIu78l9jTZ0x/2zhHmnjOWkJGzmhOim6njXVnuvnXxq3Zg9kduQ3r0vVsDqWJtoud5kn2mEgNZc1fwySM6zJOD0s6k8EdSJ1u7sFslQYRtKWOiKSwFK5gTuMU34K/ElozmIob3kw4sAPoMxx59OY3B6tqwt8yx3jMVxLhWS4cGjN3rvxosZlqzfs4qifyEx7WckOFL/thUSQfOrEPRIdZx0/zwVSN5O5n5LzuK0vi0AtB2hhnypQQFOi8BtsKcH0vimRh6UaCm4vK1j6LgA9HOPIf62UP3SwvEy0ktgoBq+YmJsh4PaCknYdY3fqQGS7GGhqL2Xw4G+74WZqPSXChFMzyTQx9HGDa243TwzZ+DP5A3w7lMSYTpguphu8qEg7yzx5SKeBxFPoroproSmt1Nyr7bHM5zygw9xN/+m1bMHz0ln5Ji"
+    "Versao":  "4.5.68",
+    "Instalador":  "EnginePro_Setup_4.5.68.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.68/EnginePro_Setup_4.5.68.exe",
+    "SHA256":  "58A5D8A17B673EA327735FA74894757212FEC26815457228B3CCECEAC0F8860E",
+    "Data":  "2026-10-30 17:51",
+    "Notas":  "Novo: inventário das estações também pela internet, criptografado com a chave do TI, para obras e quem está fora do escritório",
+    "Assinatura":  "VhsFx3QrpTyZEu/9w0rkt2Q+6dBsOlhncn9yC2R2n50WxK1K1oLRZTYfnZdRlkKoSfE1On0ZK7c4QuRS/GZr5EjzV3N2J8pwpMXhuGLKdCSM1bRSFclJ0bG8ZidsDTHhIls2lq2Gt48F1XhmPYPT5OdaQdA2lht0zVTrACnc/pO8M4RgTbS7RyHTEpz3QNv+gIKsv/cFVgSt+jMiihWD9OGVzh2hCUc7Be7goWqhbmhDQKXdO09gwzptw6fhkUE0HKuDIPdezClNbG3db6xnwvGqAyzLC3k1HDFKvKHCnlDoZgowEX+9mqkl65J2Gify47baDYpa7Xk643IUbIDtckmAip4Yoo8nF6jhSmWJ85Ja0mkL1RfIdJiG4QRBaR1TXhyohN5GHoCNB6U7gdNjkmxFImt9vS9kE6ScP9ir1AyezgEtwFzDEK6gdAtUG4PmAlOSVlBQCGe4EzUTgGzfJwSWMJoSt4xRliXsRrFkydtcznn+lZbIpmMHtwUiGa4r"
 }

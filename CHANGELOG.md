@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.68 | Inventário das estações também pela internet, criptografa... | 30/10/2026
+
+- **Novo**: Inventário das estações também pela internet, criptografado com a chave do TI, para obras e quem está fora do escritório.
+
 ## Versão 4.5.67 | Página Estações com filtros clicáveis (atualizadas, desat... | 30/10/2026
 
 - **Melhoria**: Página Estações com filtros clicáveis (atualizadas, desatualizadas, sem aparecer e atenção) e detalhes de cada estação.
