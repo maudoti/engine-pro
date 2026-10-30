@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.54 | Y vermelho menor, ao lado da saudação na tela inicial | 30/10/2026
+
+- **Melhoria**: Y vermelho menor, ao lado da saudação na tela inicial.
+- **Melhoria**: Sem o logotipo da empresa no menu e na abertura, já que o programa é público.
+
 ## Versão 4.5.53 | Novo visual com as cores da R. Yazbek (vermelho, grafite ... | 30/10/2026
 
 - **Melhoria**: Novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador.

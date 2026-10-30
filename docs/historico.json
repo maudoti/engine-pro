@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.54",
+        "Data":  "2026-10-30 14:49",
+        "Titulo":  "Y vermelho menor, ao lado da saudação na tela inicial",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Y vermelho menor, ao lado da saudação na tela inicial."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Sem o logotipo da empresa no menu e na abertura, já que o programa é público."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.53",
         "Data":  "2026-10-30 14:42",
         "Titulo":  "Novo visual com as cores da R. Yazbek (vermelho, grafite ...",

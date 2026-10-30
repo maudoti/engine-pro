@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.54",
+        "Data":  "2026-10-30 14:49",
+        "Notas":  "Melhoria: Y vermelho menor, ao lado da saudação na tela inicial; Melhoria: sem o logotipo da empresa no menu e na abertura, já que o programa é público",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.54/EnginePro_Setup_4.5.54.exe"
+    },
+    {
         "Versao":  "4.5.53",
         "Data":  "2026-10-30 14:42",
         "Notas":  "Melhoria: novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador; Melhoria: botão Modo escuro no menu; Melhoria: avisos com uma cor para cada nível",

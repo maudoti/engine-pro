@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.53",
-    "Instalador":  "EnginePro_Setup_4.5.53.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.53/EnginePro_Setup_4.5.53.exe",
-    "SHA256":  "133CD5192C34FE3E58DCED183291FD7AC59DC50896628608932E55C34435BDA3",
-    "Data":  "2026-10-30 14:42",
-    "Notas":  "Melhoria: novo visual com as cores da R. Yazbek (vermelho, grafite e branco) em todas as telas, na abertura, no site e no instalador; Melhoria: botão Modo escuro no menu; Melhoria: avisos com uma cor para cada nível",
-    "Assinatura":  "ZW2DkkIC5Nhr0268fDXsC9XCPEceBVJIDG+XJUhoiAhZ7nM7MlnupaDaAF08cspBj8W5KtssJu3hvqEHcUqnpoMC6mtaO+lPrfXjTWhZUB3BtJsXqcisB+Mnmp2J3gM6F5fENAjyZbYDYTDEbMBMC8yiwH4sUtNHh4h+guBBh8D6Bl4I5/7/rXfaOpgRWjZ+U6Y6MZGdZUlu3NW1wPVLPAUHuDmJSTe3J/DP/yZO+wBbeT2Qo+s6UyJ1K6xDgPjLtTnhB+j6FtIq2GW/RotQ8MxDJjaQeo2g0X1STlfV98Kd4a+E/ZmYfHMUHWjm9S2ryZ+64Fy31FeQvBftKaeLy26jLb2A5zFYD0RhcUbePgx3KEhil3cxzGLmVJQlPuc5Oosnka3p634XFf9z/1X4K4qDiuHMjPK9V05mvMbwPI/g8vSrpzTOyangPYyTq3XGEhx2emR0hvHwXQahCElmkPrhnmEBPkgBJjgLzVlPzE9oH5SK8hC4vYKyZhLOsH7g"
+    "Versao":  "4.5.54",
+    "Instalador":  "EnginePro_Setup_4.5.54.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.54/EnginePro_Setup_4.5.54.exe",
+    "SHA256":  "9297D175B1F093C38AD35E22692108F3DA9F4A21D871B53220079CAE44A5AD5D",
+    "Data":  "2026-10-30 14:49",
+    "Notas":  "Melhoria: Y vermelho menor, ao lado da saudação na tela inicial; Melhoria: sem o logotipo da empresa no menu e na abertura, já que o programa é público",
+    "Assinatura":  "o5jXezJElO+YLUtOuJIXN3noFv9Z7BV4hk/NAa5wP/i3kTqb82R8x51Mmk8CE+JAgHk4R3Ofdu7rB6JfAdOMkum0QDBeKrQdmqnuvXxASiarIr3JFGhdrR5h0CvLgRHIZYbY1UXwrmeEUir8wR/UzCcsYG6FWKd2tiBAk3PjigZViOwaoMm/duUpRX9icEHw2rzOoObFE5PpAU3viLxGigJ1IxPBhgHi4JkNPcJFelbR3YC0xIjUoLIw+GVCjckdPbx5tVELeqSTBZRiDZpNUs5pd/LQn6BA8b6T0XdU3BcrTNY26yWXdo81kL8kxqiOwL4P7tvUfYHljqvXrBxkZwVWu5mwmxF0TiaNXl4q5aAELCLtmre6Ri5IbzC/5ryPhkefigwR91FoRLYWliOkDUcWuFMis1Zutvm/N9UJzc8dbDA6ge/tJNRzwI5sEz6Vv4bsLX/u1SmeVow4r1ETgOJtEE43/N9nLi862xk7C3D6gI9crgoPJQv4gjvvLCZH"
 }
