@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.54",
-    "Instalador":  "EnginePro_Setup_4.5.54.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.54/EnginePro_Setup_4.5.54.exe",
-    "SHA256":  "9297D175B1F093C38AD35E22692108F3DA9F4A21D871B53220079CAE44A5AD5D",
-    "Data":  "2026-10-30 14:49",
-    "Notas":  "Melhoria: Y vermelho menor, ao lado da saudação na tela inicial; Melhoria: sem o logotipo da empresa no menu e na abertura, já que o programa é público",
-    "Assinatura":  "o5jXezJElO+YLUtOuJIXN3noFv9Z7BV4hk/NAa5wP/i3kTqb82R8x51Mmk8CE+JAgHk4R3Ofdu7rB6JfAdOMkum0QDBeKrQdmqnuvXxASiarIr3JFGhdrR5h0CvLgRHIZYbY1UXwrmeEUir8wR/UzCcsYG6FWKd2tiBAk3PjigZViOwaoMm/duUpRX9icEHw2rzOoObFE5PpAU3viLxGigJ1IxPBhgHi4JkNPcJFelbR3YC0xIjUoLIw+GVCjckdPbx5tVELeqSTBZRiDZpNUs5pd/LQn6BA8b6T0XdU3BcrTNY26yWXdo81kL8kxqiOwL4P7tvUfYHljqvXrBxkZwVWu5mwmxF0TiaNXl4q5aAELCLtmre6Ri5IbzC/5ryPhkefigwR91FoRLYWliOkDUcWuFMis1Zutvm/N9UJzc8dbDA6ge/tJNRzwI5sEz6Vv4bsLX/u1SmeVow4r1ETgOJtEE43/N9nLi862xk7C3D6gI9crgoPJQv4gjvvLCZH"
+    "Versao":  "4.5.64",
+    "Instalador":  "EnginePro_Setup_4.5.64.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.64/EnginePro_Setup_4.5.64.exe",
+    "SHA256":  "C95E61F1E1E8C9B44649299906DE39E90B2E9973FB101F2E8C21E926FF903FAE",
+    "Data":  "2026-10-30 16:53",
+    "Notas":  "Correção: o clima do topo atualiza sozinho a cada 20 minutos com o programa aberto e não usa medições de mais de 1h30",
+    "Assinatura":  "B8qWq5cINd33gFAuBGK1rFXlmOXVADktpfiC0KaDHLgfTZMJV39U6wsDRgfp2a83bagH0/9nmRxowaMsDx6eqxsU+Y6wamDEFhQ5Tb8/29w7mjVgQGvfXYxD0Qw4JK2Yu0BSzQv0YxPKbYlhZ5UTAvddHPcxhfIRZzfUTZjD1sJKuV8un4xbhuT2vZoqkdalyE4mKF9aoyvS9Wb6Q38470qDvOOvYdOVsEgboMlj6NT7BEGoJjCOkcicTU+ciOH0kAEPVX/aSoUf8mx9DmERPu9tvb2M10px9ZFYquP3BlxUjYXpD0TOKoJFq1YYYuG2eCVKS3oJfuR1RtkrLzPCGMqbV8S8skbfJK0OKtdAo8q4fz2PT2OgzxYvbzjmB2rWC+oNX98HyFp2LCGrwny1vht77Ox6R+3t8FC4NYoJpDrak+Zheev2RKTwRAAPjog4NNLIOfgScg4+IT67uzDAF+4iksbJgw0MFIND031MOsH/YAE785NxdHSQngTZdarI"
 }
