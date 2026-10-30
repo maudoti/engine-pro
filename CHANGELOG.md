@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.51 | Aviso da Proteção do Sistema some assim que ela é ativada... | 30/10/2026
+
+- **Correção**: Aviso da Proteção do Sistema some assim que ela é ativada, e o botão ativa direto e cria o ponto de restauração.
+- **Correção**: Aviso de programas na inicialização conta só os ligados e some quando resolvido.
+- **Melhoria**: Lista da inicialização em primeiro lugar em Ajustes, com produto, fabricante, marca Pode desligar e botão para desligar os dispensáveis.
+
 ## Versão 4.5.50 | Procurar drivers consulta a Dell (Dell Command Update, co... | 30/10/2026
 
 - **Novo**: Procurar drivers consulta a Dell (Dell Command Update, com BIOS, drivers e firmware) além do Windows Update.
