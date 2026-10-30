@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.16",
-    "Instalador":  "EnginePro_Setup_4.5.16.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.16/EnginePro_Setup_4.5.16.exe",
-    "SHA256":  "36DB2975A7B10D98C6127CA0527A280D8785CEF0DD29F565EFDDFC5EF8117CBE",
-    "Data":  "2026-10-29 19:44",
-    "Notas":  "Correção: avisos e problemas corrigidos pelo botão saem da lista ao fim da correção; Correção: a análise automática do Modo IA lê as configurações do usuário certo e não recria avisos já resolvidos",
-    "Assinatura":  "VDGulTIow8uxIXOeTbf4VrX60q6p6sHbW9xmZ2npBfL5Cx4aq8e57cDIN5Z9525m6mWnq1p2KSj/TJykkod9JGIE4mSE0ZS4veYhqw+j1xnEL3V7Y+20+513KkeNTh8gMasKIEdaDM1xVSRMW9SUytOd0nmjUnU6LcKzyCa5nkexYiw8XwdaMprHV8DVg4FRfCw+5MJE5LlTLuhUVxtAFA5YeYNnNxY9TSiDMvcg4xD4jmXJsdqs6/0P0Ufv2V8LNIJHX8TnP68RrVaokzyCHqfn3lMdZvnetSlVx0V/vSoUvBCJ2HfJRcjobyD5soLeNaLnlVfkk7TiNTL58hB8j7hw3F0SJHn38BxR5A25k9oXTtlQAsio5MQvabJkfRr46vuNGpecyuCeF8VluKatXVZ770SmLB7BVnhQILlIT5IoUmj1E3TWtfP+9AnUGcpTagiQFOYfbFAgYAG20Dgv5mgaPxu+mZWGVrJA//tX3WJFVDDK550ts3bxvZ6HxPFz"
+    "Versao":  "4.5.26",
+    "Instalador":  "EnginePro_Setup_4.5.26.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.26/EnginePro_Setup_4.5.26.exe",
+    "SHA256":  "7F79159D6332A2914C41FDAEF25CE2E513F98B8F94FA3CB5F4627CD9DEBD0347",
+    "Data":  "2026-10-29 21:58",
+    "Notas":  "Correção: Avisar o TI não abre mais o navegador nem o Bloco de Notas; sem envio configurado, o relatório fica salvo em Documentos; Correção: diagnóstico da rede reconhece firewalls que não respondem a ping",
+    "Assinatura":  "FGe2LlLFjs4SZqEIi8HXynQsJedOjSYJ3cL7HdtpSI+DwJX0TSXccYtbBSyk9Il0EM7qmQPJ5sn3YWZJ6WgOaNmGOKJTDkd5hrOKey2WnHNtGwdaQijynqS8xTTtbkl7vmOuqlN2ErwG2rfNhao3bpe+Y99jArgOhPq2Fq7mr+K4cXrNYCRaA49SdCsypDyS0CiTW5tRkwa9WOhw1EmXhuxgJcoGZ1sa8t6fJDa17fFkA19KRZaBLm/2DUjeMih742nUupBLwDY/tgpUoi823PSkQQnPHsgPQTrxvIbuEc/AsFtfb8uBwT87i3gLOpKB3e7PHtZT3gnGYNcfou4C6UYaFIg5rrX2bTe1cnNWPqC4EOzx1lMct2+k7p1y/zuy6MZX5MCNhreSZlkfFD7y4akMDbCq3qzNP75+SbJshKBUPO+O9BnuB/+5/9SLcjkt3Iorvb1AXLzWb9zxCewLMle2RIfW14Ed61u/ogzZnjzsHved36DomftEZtrfdTFH"
 }
