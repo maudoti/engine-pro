@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.69 | Caminho curto C:\OD para as pastas do OneDrive e SharePoi... | 30/10/2026
+
+- **Novo**: Caminho curto C:\OD para as pastas do OneDrive e SharePoint, sem mover nem renomear nada.
+- **Novo**: Relatório de caminhos longos com as planilhas que têm vínculo com cada arquivo.
+
 ## Versão 4.5.68 | Inventário das estações também pela internet, criptografa... | 30/10/2026
 
 - **Novo**: Inventário das estações também pela internet, criptografado com a chave do TI, para obras e quem está fora do escritório.

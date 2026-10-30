@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.69",
+        "Data":  "2026-10-30 18:36",
+        "Titulo":  "Caminho curto C:\\OD para as pastas do OneDrive e SharePoi...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Caminho curto C:\\OD para as pastas do OneDrive e SharePoint, sem mover nem renomear nada."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Relatório de caminhos longos com as planilhas que têm vínculo com cada arquivo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.68",
         "Data":  "2026-10-30 17:51",
         "Titulo":  "Inventário das estações também pela internet, criptografa...",
