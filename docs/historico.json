@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.30",
+        "Data":  "2026-10-29 23:45",
+        "Titulo":  "Painel de atividade fixo no menu, com a tarefa em execuçã...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Painel de atividade fixo no menu, com a tarefa em execução, o progresso e a fila."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Menu mais compacto, que cabe inteiro na tela."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.29",
         "Data":  "2026-10-29 23:39",
         "Titulo":  "Agendamento de tarefas, executado pelo serviço mesmo com ...",

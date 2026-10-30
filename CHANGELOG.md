@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.30 | Painel de atividade fixo no menu, com a tarefa em execuçã... | 29/10/2026
+
+- **Novo**: Painel de atividade fixo no menu, com a tarefa em execução, o progresso e a fila.
+- **Melhoria**: Menu mais compacto, que cabe inteiro na tela.
+
 ## Versão 4.5.29 | Agendamento de tarefas, executado pelo serviço mesmo com ... | 29/10/2026
 
 - **Novo**: Agendamento de tarefas, executado pelo serviço mesmo com o Engine Pro fechado.

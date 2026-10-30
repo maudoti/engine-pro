@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.29",
-    "Instalador":  "EnginePro_Setup_4.5.29.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.29/EnginePro_Setup_4.5.29.exe",
-    "SHA256":  "E720A65192C72B6332F6FAF0B85845DE9EA372700627DF3188189E429A5D468A",
-    "Data":  "2026-10-29 23:39",
-    "Notas":  "Novo: Agendamento de tarefas, executado pelo serviço mesmo com o Engine Pro fechado; Novo: tela inicial com ações rápidas, espaço em disco, próximas tarefas, segurança, saúde nos últimos 30 dias e bateria; Novo: fila de tarefas; Melhoria: menu organizado em grupos, com as páginas Limpeza e otimização e Diagnóstico e reparos; Correção: clima do menu dentro das margens",
-    "Assinatura":  "lleb2GclG4OdBuNuh1Cr/bbHQWiDrPjWLE1fYl5JS8OPRY6F0mCVUxf9TqQMte6QkVAvkvGiRpV4flLjGF1ycJCEfImb2bmalPwU0NJggIq1ezgpyuzmKxoidwxfEUgBsdjBnQR/TWWC60xpkSNay2mji9ObhgSvHdTSiVWCEe++XeFGn8MyE+OGYz0xnpXUjfkNAe2nsRE8gzAl0FXXy1yFArUCGxic6AQkcUxZmabeFOceKXrfqhzI7rehm2LaL1k4raXSrh36FslY1p/trMAz1j9VLYWVd3ZfbtLupf/y8psKFAyM1yuAAxjxtwndpFzM6R3FQDzHqlR4kuB30TzOFJVKjhqmJGZ1O7KPQ7pMTLyOVaq1Nrl5S14X33861pvobVU+o0NTLUfAV6iaWYqcNnCQN5f+QE6OKfBrF4gGWNz0ucALoPQhhJwkAYvOLHTVk+DyMC3tn7jYyixoo8Wuoi2W7l2pcfseA0Pe57lAZxtJPngXsCx/C3tB/eZe"
+    "Versao":  "4.5.30",
+    "Instalador":  "EnginePro_Setup_4.5.30.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.30/EnginePro_Setup_4.5.30.exe",
+    "SHA256":  "E3DD8DE7B22788778666C0948B977B93EBD2278BEE13CA90ED6D90F2C7B88368",
+    "Data":  "2026-10-29 23:45",
+    "Notas":  "Novo: painel de atividade fixo no menu, com a tarefa em execução, o progresso e a fila; Melhoria: menu mais compacto, que cabe inteiro na tela",
+    "Assinatura":  "QiJTsXaWvLqeOCfbqBk+oRHmopPQlYBhkMIrPBzUAXnXxMq4nlZyYpj9NnHSlnjap3r21bvbMHp9pq4JMP76xdreommirmJEomYmujuSaHQYAYRdEs0fG2UGI+gJtst790GheaegmzodoQw+hG4EZ0f1WiRUt6c7tNfYP0QbSYhjH8EqRpJtaCKJa2sqynO6SsIuNgRVv2s41oXxdXrNQetypPGql5LX7hQ1RoJJM/H1NEhpX43C6LBRizy80/sHb2cBmp76pbJWiSjGCQ0LARzCJA+LS64nHKxQQ+hRgG8ZJR4SErRSBzz2RvkXcdf7iUlumAggW3r+H4X3QuhMyEnO4Yb4FKxBMMzIgp6wzVPSy2kKmbIIddY12606LWpjfGwPBx2cXL1b47ir3UquFN+x2iua4MFV4SurkeAbujz//QTJoCZuAf2DpTGOUVrUSihLhPjNEDkIlGt5m9Vx36DYyCeEyMb6ysdcSQDrUDAxDYTeY85OhmI9L6aDziyG"
 }
