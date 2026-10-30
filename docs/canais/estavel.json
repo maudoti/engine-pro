@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.51",
-    "Instalador":  "EnginePro_Setup_4.5.51.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.51/EnginePro_Setup_4.5.51.exe",
-    "SHA256":  "DC8DAF50CCADB68B9E215D79CA5876D9CFF9203750BD3F00A6CC30EB52FC66D3",
-    "Data":  "2026-10-30 14:23",
-    "Notas":  "Correção: aviso da Proteção do Sistema some assim que ela é ativada, e o botão ativa direto e cria o ponto de restauração; Correção: aviso de programas na inicialização conta só os ligados e some quando resolvido; Melhoria: lista da inicialização em primeiro lugar em Ajustes, com produto, fabricante, marca Pode desligar e botão para desligar os dispensáveis",
-    "Assinatura":  "vGgu09JnewpjOs4cTD6W0xBlX7vhId0dkc1tIFVK/O8ROHYWWWo6zVwfqhzynbmdMfRBzplJmZey1+vKeHQh98+J/nHs8hzuIgw9N/qh39w1vA9nXaV5sSNBJqoBiehqECiHDkf3ZB6KMqvhwuoocPmHuAP6WWGf1s86lDCAr4w5PGGYSj+tzq41PwdNgyCfaMzU9376JNTDT4b4Dao64WS1nuGDOxzq2y6G/z1nWONWrpE7Zb6kucs5YT1OWabVrBrEZo8Bb0e4dCuAfwWwXNwx69Y32/BGU52eXtLq458P5qpu+NBGXzh4k2HTa7b4inxvGG1aqAs1Zsqy2wBR2vPS2EDq531zRGYW+KbAobIo+XrCNu3bSWu6/uteRcvFIAcZwJrlu+/u7Ol8Tw6Uml6mnb8g6bBObaAHh4sjgks/rlXsE/3KhGxMKGCi2vZFV6IvAgu1s/jwigQVswGH/hF7ETJpgnwm/CfiVSYRetD/umfDdPaC/TkBLeEoLhdJ"
+    "Versao":  "4.5.54",
+    "Instalador":  "EnginePro_Setup_4.5.54.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.54/EnginePro_Setup_4.5.54.exe",
+    "SHA256":  "9297D175B1F093C38AD35E22692108F3DA9F4A21D871B53220079CAE44A5AD5D",
+    "Data":  "2026-10-30 14:49",
+    "Notas":  "Melhoria: Y vermelho menor, ao lado da saudação na tela inicial; Melhoria: sem o logotipo da empresa no menu e na abertura, já que o programa é público",
+    "Assinatura":  "o5jXezJElO+YLUtOuJIXN3noFv9Z7BV4hk/NAa5wP/i3kTqb82R8x51Mmk8CE+JAgHk4R3Ofdu7rB6JfAdOMkum0QDBeKrQdmqnuvXxASiarIr3JFGhdrR5h0CvLgRHIZYbY1UXwrmeEUir8wR/UzCcsYG6FWKd2tiBAk3PjigZViOwaoMm/duUpRX9icEHw2rzOoObFE5PpAU3viLxGigJ1IxPBhgHi4JkNPcJFelbR3YC0xIjUoLIw+GVCjckdPbx5tVELeqSTBZRiDZpNUs5pd/LQn6BA8b6T0XdU3BcrTNY26yWXdo81kL8kxqiOwL4P7tvUfYHljqvXrBxkZwVWu5mwmxF0TiaNXl4q5aAELCLtmre6Ri5IbzC/5ryPhkefigwR91FoRLYWliOkDUcWuFMis1Zutvm/N9UJzc8dbDA6ge/tJNRzwI5sEz6Vv4bsLX/u1SmeVow4r1ETgOJtEE43/N9nLi862xk7C3D6gI9crgoPJQv4gjvvLCZH"
 }
