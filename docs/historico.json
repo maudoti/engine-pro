@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.22",
+        "Data":  "2026-10-29 21:29",
+        "Titulo":  "Pedir para a IA apresenta o plano do que será feito e ped...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Pedir para a IA apresenta o plano do que será feito e pede a autorização antes."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA executa os reparos do Engine Pro autorizados e conta o resultado de cada passo."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Avisar a TI abre um chamado num repositório privado da TI, com o conteúdo criptografado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.21",
         "Data":  "2026-10-29 21:02",
         "Titulo":  "Os avisos da tela inicial se ajustam à análise mais recen...",

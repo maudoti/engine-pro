@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.21",
-    "Instalador":  "EnginePro_Setup_4.5.21.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.21/EnginePro_Setup_4.5.21.exe",
-    "SHA256":  "7164B8991F1878E513DA7CD824444FE2D55CED1C284F0E74AF6BD819509C51F3",
-    "Data":  "2026-10-29 21:02",
-    "Notas":  "Melhoria: os avisos da tela inicial se ajustam à análise mais recente ao abrir o Engine Pro; Melhoria: a primeira análise do monitor acontece 3 minutos depois de iniciar, renovando os avisos logo após as atualizações",
-    "Assinatura":  "BnXqSdofidQNehJhiczSN/CmHyrxd4d5wTNR56d7xUSe+14cDq6rKVZvKyxz4wSmKJtDmGX3TRxjaanWD1UZ2alJGQhVpaX8Waoh5u/iad1167uBUd8UFfCXsMI5WgAuDLUVRVCp1P3z2T5de6Y1ZLRyarsZUBIxaihYE/omO8WlZHIsETbIHdJiohezWCwd6e+SvBdzd0/TILtp2yY7segj5m4MBtD5lEzSuC1bpIP5i4vhUlGxrLoGkqRRkC930bcBCuB/NAmKz0B1Wcc2AwfrpOf3SPvqQx6nKSlCQO4KjTCdf2xm6AxzLyNpSf6dTc3cW7dE8R04TcdWimyVGcccceBPIIZ0//M9VVd/ofom48pKv+tQWaIKhkeGE070TdG37u4sNXSvZykbNbrHU8fCn5B1Us12Ha7lib3Cnn8I4CGrv60Zo+DD2WK8fA3XVnA+QJc+guqROG7cfU32TvX7duSMQWIQBK4SkYYBinIaw8QH1HLXxJhJTfBoRY2I"
+    "Versao":  "4.5.22",
+    "Instalador":  "EnginePro_Setup_4.5.22.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.22/EnginePro_Setup_4.5.22.exe",
+    "SHA256":  "81C7657678D47B20C724CB0064877FA073DF53DA39C954BC2082AF9C25F3C4F2",
+    "Data":  "2026-10-29 21:29",
+    "Notas":  "Melhoria: Pedir para a IA apresenta o plano do que será feito e pede a autorização antes; Novo: a IA executa os reparos do Engine Pro autorizados e conta o resultado de cada passo; Novo: Avisar a TI abre um chamado num repositório privado da TI, com o conteúdo criptografado",
+    "Assinatura":  "Fv4FsPMMoY5CDnxuha6/CSd3VUy4pXB2Y4WikUa3opsrUTZ19N4/kw5LJPacq5A7xc3qa2WAFM8heSfeDgveeExt8ayKr2T546CI1IzC+wltqbrTwPAX1FmKGIbCjM013I4ICepQOhb1G5YyNLwu/pEw5b9y4jv8v+MNcqeLjsU/GqXh4CJVVV6TY12fL23qwy1dW3la0DLHPscJime26liyO53DSF6Kr1egaIvbcyEabPGbZ6UDuICB2vrehmWU22SEpcMdTFdMdVpIZ0GfEACCVyWGuz9fcszM49R4W9Jawfe2qJGseMI0e6uJEBEbmIV4UN2iwTxvpci9f4y8rAhgJbCBH/5A2LNq4RQfPh/vZxPQ6lZd6BVvGFaRNADwGPPgqNcQfEJDsax9PhUdIAgHreEW2ZS5VcnxUFrhRkaTy1SfmkEsPBwBMfK0LM/9Qe3Wh2tSEGYacUcOM5EMyIzIgm0cLWg7/FstaQEiA5CGbWThfun88HSQLsJ0Ybd9"
 }

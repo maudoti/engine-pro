@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.22 | Pedir para a IA apresenta o plano do que será feito e ped... | 29/10/2026
+
+- **Melhoria**: Pedir para a IA apresenta o plano do que será feito e pede a autorização antes.
+- **Novo**: A IA executa os reparos do Engine Pro autorizados e conta o resultado de cada passo.
+- **Novo**: Avisar a TI abre um chamado num repositório privado da TI, com o conteúdo criptografado.
+
 ## Versão 4.5.21 | Os avisos da tela inicial se ajustam à análise mais recen... | 29/10/2026
 
 - **Melhoria**: Os avisos da tela inicial se ajustam à análise mais recente ao abrir o Engine Pro.
