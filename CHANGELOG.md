@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.60 | O Pedir para a IA da varredura leva o programa e o que fo... | 30/10/2026
+
+- **Correção**: O Pedir para a IA da varredura leva o programa e o que foi detectado, e a IA responde sobre o problema real.
+- **Melhoria**: O Atualizar dos programas que iniciam com o Windows mostra que releu a lista.
+
 ## Versão 4.5.59 | Y girando enquanto carregam a Segurança, o espaço em disc... | 30/10/2026
 
 - **Melhoria**: Y girando enquanto carregam a Segurança, o espaço em disco, os pontos de restauração e os chamados.

@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.59",
-    "Instalador":  "EnginePro_Setup_4.5.59.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.59/EnginePro_Setup_4.5.59.exe",
-    "SHA256":  "88FC5871ADAA5AA0C8EFAA2C958135034006C580E7C88620F334906EBEB68154",
-    "Data":  "2026-10-30 15:48",
-    "Notas":  "Melhoria: Y girando enquanto carregam a Segurança, o espaço em disco, os pontos de restauração e os chamados",
-    "Assinatura":  "HmCn+HIMVfwbY1pKBz+6F77zLtkzZQdKfv2Hg569hfV1XvdG22PCVRqRj9aTtG9HnonWJF4VH5/dRy19A3bCy7gAk75eDVmoXgtc0UNFf9ZUIUMrD922BDRxM704cCPpyKZTDDqQc3/kuMCE214ojkoDO6KUocQ8IAn1LlkDtmmm3iB32lRLYzVux6PpghUmVtl31w/w/kE/kM7beoc0pt1A1KNG1HtqIxWbbLR58QgTTXl117ZnePaGe69VGCXlZ3D7akuoAcGCmLqMvklBIV/Awzj7tYwTTZsGK0gunwh0sry+zUAYFsYuWip91ibbwizlMX0Puxd5+CQJx+90h+wUZiPnpUiuaUYJxZ11Jm5s+tDJRCUWTWa03kcsJmJNRKCrWJJ9VTeMUVmswS1WJMjwLBWWj7OtK8S/9QryMsOYdzII8KUF/J9yXx+7v5vNzzu3h7fYzbVqTUW2d6Rj/ZmXROiX3soPxEOo9S5elnjqtD0sGXXe/EpLSBHDXjGJ"
+    "Versao":  "4.5.60",
+    "Instalador":  "EnginePro_Setup_4.5.60.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.60/EnginePro_Setup_4.5.60.exe",
+    "SHA256":  "6CFC104DA516E684DF4244DB5B40DCF646B90795E8C49491806769BAF1B9DC41",
+    "Data":  "2026-10-30 15:56",
+    "Notas":  "Correção: o Pedir para a IA da varredura leva o programa e o que foi detectado, e a IA responde sobre o problema real; Melhoria: o Atualizar dos programas que iniciam com o Windows mostra que releu a lista",
+    "Assinatura":  "Z/m2x8D9E1x+hV8K/FJPbCxjRJUJe7cTZo0svKtsROVnfnvWxfSUEL40GZMVxYeFL2Wdnh7ae9mq/rzToluaYTc0E3/jzD7G5CvgDOCpop1ulrW0Ptw7bk08m+BB9qx30aTckU1Dps86d30dhp4D35YvmkLQcVp5UyOBYyqTQgHonxmjIB5vsINCEp071KtvzFLN6aeYQ7Wtlswav4NYNVGF+IyTkcrD87wOt7yYn+Z1LhRj7XIJmiXqb8xcadxbxc5ULUlT72nemNFK/odpp33aHUITsBIsLoSaO8ekpiJ6Fnm5mnm4RtHgRtkEI80JwvTrFUQPXsu+OLbZScN2rGQMrPfug8230ZvSjvAlmY3CPkSrFuYiwWw1lH/35FgvZH1NLNPbOzKr0FLDjJQNsfLEU+C5mfs86nyvdrJf+OujykbOWX6OMS61AxhItomKYKtXaHScYSo4qHGg1+IyZOmNAG3Z+IjivfNKsXNB1Y+JLufGytc9F6Opjq5ODRV1"
 }
