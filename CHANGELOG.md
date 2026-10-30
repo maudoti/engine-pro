@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.64 | O clima do topo atualiza sozinho a cada 20 minutos com o ... | 30/10/2026
+
+- **Correção**: O clima do topo atualiza sozinho a cada 20 minutos com o programa aberto e não usa medições de mais de 1h30.
+
 ## Versão 4.5.63 | Medidor da velocidade da internet na página Desempenho, c... | 30/10/2026
 
 - **Novo**: Medidor da velocidade da internet na página Desempenho, com upload, latência, provedor e as medições recentes.

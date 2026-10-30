@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.64",
+        "Data":  "2026-10-30 16:53",
+        "Titulo":  "O clima do topo atualiza sozinho a cada 20 minutos com o ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O clima do topo atualiza sozinho a cada 20 minutos com o programa aberto e não usa medições de mais de 1h30."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.63",
         "Data":  "2026-10-30 16:38",
         "Titulo":  "Medidor da velocidade da internet na página Desempenho, c...",
