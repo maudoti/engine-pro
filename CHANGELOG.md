@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.128 | COLMEIA: opinião de outra IA na hora | 31/10/2026
+
+- **Melhoria**: COLMEIA: opinião de outra IA na hora.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.127 | COLMEIA: mais IAs gratuitas conferindo as soluções | 31/10/2026
 
 - **Melhoria**: COLMEIA: mais IAs gratuitas conferindo as soluções.
