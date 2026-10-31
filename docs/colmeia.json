@@ -5,7 +5,7 @@
     "N48":  74,
     "Recentes":  [
                      {
-                         "Data":  "2026-10-31 16:29",
+                         "Data":  "2026-10-31 16:42",
                          "Texto":  "Nova versão 4.5.122 publicada: Diagnóstico da sincronização do OneDrive mais completo",
                          "Nivel":  "info"
                      },
@@ -16,17 +16,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 74 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-10-31 15:16:07",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 74 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      }
                  ],
@@ -81,6 +76,6 @@
                   21
               ],
     "Ultima":  "2026-10-31 16:19:52",
-    "Gerado":  "2026-10-31 16:37:05",
-    "Data":  "2026-10-31 16:37"
+    "Gerado":  "2026-10-31 16:47:05",
+    "Data":  "2026-10-31 16:47"
 }
