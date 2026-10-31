@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.75",
-    "Instalador":  "EnginePro_Setup_4.5.75.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.75/EnginePro_Setup_4.5.75.exe",
-    "SHA256":  "788C6D33492BF909C95EBC9D02B5EED3434924B4E2ED86EAC1FBF38F973ADA0C",
-    "Data":  "2026-10-30 20:59",
-    "Notas":  "Correção: a ficha da estação mostra a versão e explica quando a visão ao vivo ainda não está disponível; resposta mais rápida aos pedidos do TI",
-    "Assinatura":  "SWWlsadamIxO2V09BFWnLABVtPvu859cZw5KMPNWgVRaJHBZQlF42qzM0cIhmI3PqbQYgW/kNO3ajGB5rqN4eQC7pzfRxL7Dai47uBhSH+iNDn42YTVoJMXrGv5Py6IRUBLF9QnIFofPJQVBdRpKOBrNXsDjc8HZvsFSmyOOsTcoZgGCS4zxoxDAk9EtUrk0Jy4yIh41EEcXyAP8mtZZMCJekIa7xXig6Cw3dqOsDtOlY8brkhswUkm1d/oVvtZjgHb7nmXTvVimtylFPOa2n0ALmUuddZhc/Z0m7QyJ9OmM/dNffF94de0Bu2mln3q3qhc2TjdKttOk3ndj3jOQ3nGbUy4K9IxIznVUfc/QXB6EDt1ua3vdtJBuB7A0pmshzvpLXUQ8daJA9So7vdTa1tYJ5ENcveUjFDkiG/oBiN9XS410lJ2AUZDG8FCWQ2UjIxR6i8b4PqBubvp26bOjC7nv+yLqRwTU+gWmzP8XuEZbTuOoyOAmAVAQYgdsvANV"
+    "Versao":  "4.5.80",
+    "Instalador":  "EnginePro_Setup_4.5.80.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.80/EnginePro_Setup_4.5.80.exe",
+    "SHA256":  "74E7AD624662538A0909161721CB2A86C37BB725EC3A8F9FCAB3900B62D01FEE",
+    "Data":  "2026-10-30 21:52",
+    "Notas":  "Correção: página Estações volta a mostrar todas as estações com o inventário completo",
+    "Assinatura":  "qsW2IzxoNR1uUOVs8HdSPXiuZlbk4DxTTI+vg5UQwMuBFtW25c/7iEQ5Jz6V+hQZXcDhXvNxHDa+OLE15ZEZNh9megey3UuynTL6YcjHX/3jsu3hei3/OzqkPdXd18UKybm40taJkeXa/xhv58J0LnuFcMgedN9UwnaJHw+MHzurzeHsmuwYjoK8IQ1+BLMiZ8RDm2eSbH7j0cjb/vQ1lBYvM0QxxEvAzn6pUpXra6Rswzr+LoYkGzNPOdDtngkiJeoImX0UbfpiBAb5o+n2gpj8nJHfhia8HtB1kpxB4Iy+FfOSN6lqYVX1fxvrSsc235kMpJ3D3BoIl+Cm4/HqDSyqMsur9DRdgB817iTuDnCVJam3gC+6noCDP+a8WPWTidX7s9EOt+xkmWllf37h4usC+v9WZuH3KDBhowQoSA45Kp9bGOFHbWi5XEqwzKSrsF3joXbDvcPJZUiL4APf9mMxdDzGWhQ8tMe0yNGDnT/8LFp6vNaCjDxqhxAczTl9"
 }
