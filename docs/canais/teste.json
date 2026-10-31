@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.122",
-    "Instalador":  "EnginePro_Setup_4.5.122.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.122/EnginePro_Setup_4.5.122.exe",
-    "SHA256":  "74EEFD528A749A7AA94B5B3AEC6F5AEE73B3F520B005054045B8AAC9C8F2780A",
-    "Data":  "2026-10-31 16:20",
-    "Notas":  "Diagnóstico da sincronização do OneDrive mais completo; Melhoria: ajustes internos de estabilidade",
-    "Assinatura":  "aFyf3fW8KMsu/JXe3CnrOX8cT0GFI7yNxfs5QHdV3c71jX3qA6Rya4qB3LdZstiJioHh6y4GRzOFUj8v8UuyxxNutyMzylMvzadjRTNq+wKKt3YVJV3HzEF52SPt2azmze7ezafdyRYqFFeuSA0x68FFOvJxgb3DHcgUvws20x0RKbCGv+UYBUKk3JilkLVg1stkLu9ib8A8fpr05sVDtAYLeNyESOgdqTnIbJ4tOWE9FHJ5wGg17MOrZvrWOprhUmfs/TsZZMdao5MzGz/pgkA9cpKluq2ITSgI7I0TviAP2x+vCVldKbIfGconLhGu/Z0PPZlA1b87Fb6SwQzDBdgPTwlbPJpS30zwFziw6jYytG1W/Q4qHYu8ZHkT8RMqqcx2+VLjcIquUX7txQwDAQrJL2hWav7Uh1UuTH6pYbnKIe5zXEWadyR8CvdnzX+zUAmLO1oiW84LDCRtUV3RnczYI9bbt9ADDWGSZYOneSV5YJzis1PtK6/ToUZ7p5cy"
+    "Versao":  "4.5.123",
+    "Instalador":  "EnginePro_Setup_4.5.123.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.123/EnginePro_Setup_4.5.123.exe",
+    "SHA256":  "1354CC0750F7F20DFCD22497784C593F8F2023815ADE2BDFC101B2C8F01B30ED",
+    "Data":  "2026-10-31 16:48",
+    "Notas":  "IA mais proativa: lê os registros do Teams, Outlook novo, Revit, AutoCAD, Acrobat, navegadores e Zoom e corrige o WebView2; Melhoria: ajustes internos de estabilidade",
+    "Assinatura":  "bE89q9WmYO6tqPMGJXSjr63vBYPTmJjldRTZ3qBvm4D2LZj2zeFiFL/VLdyqOAuga9/X0ws/K/xWTPHzZA6Gn1+tD2mnn9NjMHDHfyHUmyFVrwYUkKVob6Ua81+vhAn0vHXcsDmg4Vi7SqdcZQU+nErJKyULwxkmGxI2zyaLnYaghHV/YtA24hHVJmWXz5aaI2GiAPyNjNshQNRWlSqUgRy70L5kd7zQkjlQmfqNHEByOqHrkDhVp2jzIAn7LTT2ukOQ9yq6iaDi8Z9/BjqGtorgDyD25SS8aMVuVV0vBpInmvwdfqLkZk8aQxMz1/CGwrFZLpMfOSAOtZlHBRpIcjDxN0iRo5t82UL7Emsa5JABnikWuEadLzFLXFYMlj+FxebvTqHphw1tvzuH50pc0Is6uIftU1pXc8X1K//MAsyGg2iVyrtXW9q3MKI3BV+N7ao/Yudu8XVCh79jI71ZOGQY6W1KCdUontigspEF8Ca3urjIw27SjG5lE24V2vFJ"
 }
