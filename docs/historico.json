@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.95",
+        "Data":  "2026-10-31 00:48",
+        "Titulo":  "Testes automáticos antes de cada versão e no GitHub",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Testes automáticos antes de cada versão e no GitHub."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Porcentagens sem arredondar para inteiro e listas de drivers confiáveis e de telas azuis analisadas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.94",
         "Data":  "2026-10-31 00:16",
         "Titulo":  "Eventos de programas que fecham mostram quem derrubou o p...",

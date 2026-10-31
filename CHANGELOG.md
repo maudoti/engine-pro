@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.95 | Testes automáticos antes de cada versão e no GitHub | 31/10/2026
+
+- **Novo**: Testes automáticos antes de cada versão e no GitHub.
+- **Correção**: Porcentagens sem arredondar para inteiro e listas de drivers confiáveis e de telas azuis analisadas.
+
 ## Versão 4.5.94 | Eventos de programas que fecham mostram quem derrubou o p... | 31/10/2026
 
 - **Correção**: Eventos de programas que fecham mostram quem derrubou o programa.

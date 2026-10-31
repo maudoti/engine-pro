@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.94",
-    "Instalador":  "EnginePro_Setup_4.5.94.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.94/EnginePro_Setup_4.5.94.exe",
-    "SHA256":  "DA880F5297436EA521040DC9E88F746365462DB4452FD9A623B7DEE51AD17CA1",
-    "Data":  "2026-10-31 00:16",
-    "Notas":  "Correção: eventos de programas que fecham mostram quem derrubou o programa",
-    "Assinatura":  "ZrgrQQsy56k6gK74h76DtrkB/Svr/avh5e5LbMONIWPMZKh+IuaA6xrEf9xYuepec5Q0gevcfDL1GVYcAvhClt67xOCFnwDYQJWJGSCWW6CVqfajabWDQwXMEYGB7+M4Q0VnjwsIcqC+Rirq9B7gSccL8IaEyhjzHnZ/gysB+j6c6YB1WTIBUu0bWhFjLTUXd+B+eem92Xiy1kjdyMfjdM+UhDhMF9V0HhQtCIXovnWtDYoArcbyu1CAm0qoQU6Y8gzgY3tbQJ0R9n9qEAlcY72K+T/hM/dZugIvNdspeKaN6GYX6jy/TkQ/R0ebpZwRRvT2xAMz+uG7FIxgAM9233Pj6Xf2K3z+F2F4pzlnGRi24zbX/7wWVJwMm3/lEpEP5+hQhJ3XFQGhuGV6q5lIDCX9MGof+VOQr4Jr2oldiGdUtvDVMTbY0fLWWWGCXVb3ts2UFKd/dlI4pqbb2ZQ8RR9epmHgcoYO6Ad8BqpgAfh1SOGppjjBPp8jwnJdI7da"
+    "Versao":  "4.5.95",
+    "Instalador":  "EnginePro_Setup_4.5.95.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.95/EnginePro_Setup_4.5.95.exe",
+    "SHA256":  "993604CB76C13FE1120BBE48A7CE3382516C1624386B160314A8A0CF383D8A5D",
+    "Data":  "2026-10-31 00:48",
+    "Notas":  "Novo: testes automáticos antes de cada versão e no GitHub; Correção: porcentagens sem arredondar para inteiro e listas de drivers confiáveis e de telas azuis analisadas",
+    "Assinatura":  "ooW3c47Wk/Wk1czIEjYET1emQ1YHMtZTASINYjFmQfLh8VZ7rAKsyhWX8AmAq4OTDBNi7eYPxtCGn3kEKe9wygYejLZNy4eKX1O5kymOhlHt5sOqspoyQQkJyVAPkHvJ9NawTG9yy2Wh00zQLKBCEJlecV7CdoigOPHSYR4v4dE8UtXLsKtT8uzOkyPHCgz+cy4y4yVTglLxZKVri8uNad3xeboc2qC3WyVj/XxjI51Ism2vq+jFZ5acoyjbGreac8fmQwcW/i533ns+Kz4nLJugvekx5WvjjgrykMUzfHZ+e6oXtFhxpYdnksdJNSb8+G3gw0PuGmFmQMoLZwFbPjPsFYmh/cVNTld/qageqiieB1BkqI5Q8FBlqgE0/pgZi6yAPO5E8kdGsOC9H/KHUO9hMcmwc6RzzMofYQOAs947M35bziF0gLIuD0NwaZKguOrqKeRdlzOoRpVGKBqavIwd7iABjaBtvklCFEo5cGixiQm3dVZGt/rlQU+6lP4y"
 }
