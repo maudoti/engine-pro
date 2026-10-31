@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.76",
-    "Instalador":  "EnginePro_Setup_4.5.76.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.76/EnginePro_Setup_4.5.76.exe",
-    "SHA256":  "C28EFD2D750CB5E432BFF4C3C2B80B23899467EDA91E601453416207007CCD90",
-    "Data":  "2026-10-30 21:04",
-    "Notas":  "Melhoria: Atualizar drivers Dell troca sozinho o Dell Update (versão doméstica) pelo Dell Command | Update quando os dois entram em conflito",
-    "Assinatura":  "K+JWnkZoQuoT0iUm+ShbACPZYSqPeJCxUDKoY4Txs1uP4re6YRPTPjISMFqKPYGOuAkT+g4VSv9d6hv82gKdYsserV4scZ6/31WpBg8G2NhPLPr8EqU4cDQX/zYR0hETMtOvVsXFj3yY8TY6MVnp+qQE/GbNrd9eH6GoOtFLEdfCYmgqtobbrmLbzLsPbdG7rJdDa5IkNDLbM+dy+0EGCUfH2bHK18RIvDrOzdrHnBJcry2QrDzTeo+xPppYESh9i/kUfZl1qktirE8wzkZKbvlfA+M83G+geZLpIofwK2bA0Tlr4Ui5HRYg9ghUU0n/pveIs0MDM/19Z37MHYnv80Wg3veUsAV1HqYtR1rikwrIvn5EppChUXd3TI18uGH2DqylIUoP5Fox2xGiHlTsd4eQQRO11pOHz2E9iU+hclt4Tzq2c5aTTmUg6QUNtd7IyHlFqCl3c0PLNVtzSZsyog8qKzartmhIeeDcOWAkauc4IgMFgj1mhnC3JC9y/o9j"
+    "Versao":  "4.5.77",
+    "Instalador":  "EnginePro_Setup_4.5.77.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.77/EnginePro_Setup_4.5.77.exe",
+    "SHA256":  "08B1DF3D683A21E9C51A6E21D6F2163880BE14E32672B835130FFF7B1962D0F5",
+    "Data":  "2026-10-30 21:15",
+    "Notas":  "Melhoria: Atualizar drivers Dell espera o serviço da Dell ficar pronto e explica cada resultado; Novo: Dell com o Dell Update doméstico recebe aviso e correção, e a troca bem sucedida entra no aprendizado da colmeia",
+    "Assinatura":  "mWxtu/7aD27ZJBlXKTh3NH6iet3ReG+TxuyS6Yue4FgXpF9ZZ4eGmuJm7lJKXeo+13NP9RwwAL+otf0s3SFEMVcEnNISglNdMQaAUSo1XHLhKyzrbFC6YGi6zJsjT8ryPAPukZSbUZtwoiOZ5q62NatYru0CoL+Nd3OM092WaoOObCWAjsESQQ6eksvI+MGZ9nARAOAPyrJCNhyetJ4+9En+pB9wtjEgK0byiGAacVF7OUk4Xbxf1nzX1hjLv25ytLTkkGsjlv6UpYGZb97J9GlpCbfb1zYVG0E9ZktHGFxF/BPLaQsiVtE93kb+EBT2zkJPShK+CwljTkAha2dH88GqWxjatEror1JHxvx9G30/IhTm7DfcBHehJjNq3rwgKBavu0kZnxF9yjtXLynk3Eu5lf/JQH1FEBQR0wIN6/zOD9jdGxvfgCFE96ha4eaXTQRKb5o7tsMCftH1DJ7CBx24WnUgUJwMrbEYhbF4NmU+445RTvLHgiRukC00mP8/"
 }

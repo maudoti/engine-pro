@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.77 | Atualizar drivers Dell espera o serviço da Dell ficar pro... | 30/10/2026
+
+- **Melhoria**: Atualizar drivers Dell espera o serviço da Dell ficar pronto e explica cada resultado.
+- **Novo**: Dell com o Dell Update doméstico recebe aviso e correção, e a troca bem sucedida entra no aprendizado da colmeia.
+
 ## Versão 4.5.76 | Atualizar drivers Dell troca sozinho o Dell Update (versã... | 30/10/2026
 
 - **Melhoria**: Atualizar drivers Dell troca sozinho o Dell Update (versão doméstica) pelo Dell Command | Update quando os dois entram em conflito.

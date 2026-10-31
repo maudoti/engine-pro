@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.77",
+        "Data":  "2026-10-30 21:15",
+        "Titulo":  "Atualizar drivers Dell espera o serviço da Dell ficar pro...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizar drivers Dell espera o serviço da Dell ficar pronto e explica cada resultado."
+                      },
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Dell com o Dell Update doméstico recebe aviso e correção, e a troca bem sucedida entra no aprendizado da colmeia."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.76",
         "Data":  "2026-10-30 21:04",
         "Titulo":  "Atualizar drivers Dell troca sozinho o Dell Update (versã...",
