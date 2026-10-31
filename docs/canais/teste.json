@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.123",
-    "Instalador":  "EnginePro_Setup_4.5.123.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.123/EnginePro_Setup_4.5.123.exe",
-    "SHA256":  "1354CC0750F7F20DFCD22497784C593F8F2023815ADE2BDFC101B2C8F01B30ED",
-    "Data":  "2026-10-31 16:48",
-    "Notas":  "IA mais proativa: lê os registros do Teams, Outlook novo, Revit, AutoCAD, Acrobat, navegadores e Zoom e corrige o WebView2; Melhoria: ajustes internos de estabilidade",
-    "Assinatura":  "bE89q9WmYO6tqPMGJXSjr63vBYPTmJjldRTZ3qBvm4D2LZj2zeFiFL/VLdyqOAuga9/X0ws/K/xWTPHzZA6Gn1+tD2mnn9NjMHDHfyHUmyFVrwYUkKVob6Ua81+vhAn0vHXcsDmg4Vi7SqdcZQU+nErJKyULwxkmGxI2zyaLnYaghHV/YtA24hHVJmWXz5aaI2GiAPyNjNshQNRWlSqUgRy70L5kd7zQkjlQmfqNHEByOqHrkDhVp2jzIAn7LTT2ukOQ9yq6iaDi8Z9/BjqGtorgDyD25SS8aMVuVV0vBpInmvwdfqLkZk8aQxMz1/CGwrFZLpMfOSAOtZlHBRpIcjDxN0iRo5t82UL7Emsa5JABnikWuEadLzFLXFYMlj+FxebvTqHphw1tvzuH50pc0Is6uIftU1pXc8X1K//MAsyGg2iVyrtXW9q3MKI3BV+N7ao/Yudu8XVCh79jI71ZOGQY6W1KCdUontigspEF8Ca3urjIw27SjG5lE24V2vFJ"
+    "Versao":  "4.5.124",
+    "Instalador":  "EnginePro_Setup_4.5.124.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.124/EnginePro_Setup_4.5.124.exe",
+    "SHA256":  "A9B67844E1F71F4E64B28877AA7324CE350F2562D619656315E400D6AE436E25",
+    "Data":  "2026-10-31 16:52",
+    "Notas":  "Instalador com textos mais claros",
+    "Assinatura":  "BMG6UPKv6IEIDZoi9U+cIi61uEbEIx/aZmZsNgnf/KBNIXwkw5vd6G6Q7Cb28wIg45pUkRLno2Rmvh3yghSvFLxNfePkeZoL58/3hq/idI242z7z0t/o+fsgcM03v3P+4EszOqVBRAdG1l4WXRx6lMsjMAsxEImX72SF+A0FEhg+QOoo4uDTn2GswO5GwI2YXsVzvrRYT6p2FO3k54Pi3Aa63ujSEKO8bGSQa7JTvoIf3zWKhyc0WqCv0o4ItwUFShg2c/GGX4aqVXFPqWdryWekYRcW5W8Uq8n7DvsPujB27krnIakYL64Ns1OoRq41cLoB6Ad/ynOrhlI8tyH1SXqZEldKTaRy1sYrbP52IZMooVrPNbARwsC/+5jvuVYoXFq3YMW9n6tHwPx88D0LBveJEQ21PMg945gb6If5Sgw7ZkyolXIAVDbLyKX39laW27C/6Uf0AvfNMnTW9Clo2T7zHG30ixE/S0wMRjeTpHZQktj5eUddtXLPVTtENfsm"
 }

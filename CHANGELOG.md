@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.124 | Instalador com textos mais claros | 31/10/2026
+
+- **Melhoria**: Instalador com textos mais claros.
+
 ## Versão 4.5.123 | IA mais proativa: lê os registros do Teams, Outlook novo,... | 31/10/2026
 
 - **Correção**: IA mais proativa: lê os registros do Teams, Outlook novo, Revit, AutoCAD, Acrobat, navegadores e Zoom e corrige o WebView2.

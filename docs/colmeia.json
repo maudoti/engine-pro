@@ -5,8 +5,8 @@
     "N48":  74,
     "Recentes":  [
                      {
-                         "Data":  "2026-10-31 16:42",
-                         "Texto":  "Nova versão 4.5.122 publicada: Diagnóstico da sincronização do OneDrive mais completo",
+                         "Data":  "2026-10-31 16:49",
+                         "Texto":  "Nova versão 4.5.123 publicada: IA mais proativa: lê os registros do Teams, Outlook novo, Revit, AutoCAD, Acrobat, navegadores e Zoom e corrige o WebView2",
                          "Nivel":  "info"
                      },
                      {
@@ -76,6 +76,6 @@
                   21
               ],
     "Ultima":  "2026-10-31 16:19:52",
-    "Gerado":  "2026-10-31 16:48:34",
-    "Data":  "2026-10-31 16:48"
+    "Gerado":  "2026-10-31 16:52:10",
+    "Data":  "2026-10-31 16:52"
 }

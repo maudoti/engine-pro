@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.124",
+        "Data":  "2026-10-31 16:52",
+        "Titulo":  "Instalador com textos mais claros",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instalador com textos mais claros."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.123",
         "Data":  "2026-10-31 16:48",
         "Titulo":  "IA mais proativa: lê os registros do Teams, Outlook novo,...",
