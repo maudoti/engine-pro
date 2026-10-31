@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.107",
+        "Data":  "2026-10-31 10:37",
+        "Notas":  "Correção: animação de abertura na primeira vez depois de atualizar",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.107/EnginePro_Setup_4.5.107.exe"
+    },
+    {
         "Versao":  "4.5.106",
         "Data":  "2026-10-31 10:32",
         "Notas":  "Novo: ativação do programa com código fornecido pelo TI; Melhoria: clima atualizado ao abrir o programa; Correção: aviso de macros do servidor só aparece no escritório",

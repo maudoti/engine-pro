@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.107",
+        "Data":  "2026-10-31 10:37",
+        "Titulo":  "Animação de abertura na primeira vez depois de atualizar",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Animação de abertura na primeira vez depois de atualizar."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.106",
         "Data":  "2026-10-31 10:32",
         "Titulo":  "Ativação do programa com código fornecido pelo TI",

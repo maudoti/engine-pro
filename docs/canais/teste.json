@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.106",
-    "Instalador":  "EnginePro_Setup_4.5.106.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.106/EnginePro_Setup_4.5.106.exe",
-    "SHA256":  "12038B83FBB944B776266D6602B74282BA1A1015A7419C17C3AAE96458C082FE",
-    "Data":  "2026-10-31 10:32",
-    "Notas":  "Novo: ativação do programa com código fornecido pelo TI; Melhoria: clima atualizado ao abrir o programa; Correção: aviso de macros do servidor só aparece no escritório",
-    "Assinatura":  "C5Z4bVF5Z2mmUlztH1VZxm4HNThBvRFnXx8/8qfHHxSsQXPtQnUu3fAeL1CNqAoIfghnGOFOf+x8GEvQpeKnLnxmdzBULaj6nOGXSSo+CBnCVNleuk9N87KSVfIKxEu3N6hu91Wvp10syK80ZNMX79HPXkJhzAVxV//rNTRxGkrnGy+kAghZ2QfhKIOvKK2zTNsvW8I5OmQX3X7j0nNc0/+M9mS9o90XihpRmwJJV7qmg6mLQEGEnGnF8bnswZ/vgMCdyrwuBdVUJKEQ0W1PAF2xRt7F6wIF1SPvvpP9fFgNgHtp0tbGYa7kstwA0Tc6AonDzDGt/+xAfBHbx5syaDxPTQ/7gvxfDOuyXrGf9ftN1CguRU4sNMf2tVcJhCiOjcvpoDxgCaCiTJ9XlxDUCjzarDy3S1Z4bs00BUXw5ruSuwUHRaebLR/a914lBtEC6ue6J9gHgibJG1vvjVjzx7ix1WKK0xuVhjdp9pSTz1P3ma/LKRF97bbNUqwEboiA"
+    "Versao":  "4.5.107",
+    "Instalador":  "EnginePro_Setup_4.5.107.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.107/EnginePro_Setup_4.5.107.exe",
+    "SHA256":  "A2F2014C45BBBAD9B1298CE9DE09836AF721C44A6E23AD3DE973B0998B5C90BD",
+    "Data":  "2026-10-31 10:37",
+    "Notas":  "Correção: animação de abertura na primeira vez depois de atualizar",
+    "Assinatura":  "ZHg8nCffqUPophLieWOVlXqWLqJ6iw3npawDL7KE7KIGIKp/aDypD2iYZXfxs/I9qQZLuf5SdbF0wYkpqacFOQKFXqugD52W6mLFSfpZWVJipIjBvmz9+7c2qfZisQWuRqJofi7GvG3f+KcujfZSEe0V/yZKk6Ke/N+EUB6UrMEeLPq2aQnlYsNIavWY74A+vBbJ3eQaT5LkA5T9YaaWfZ67XOZ6NhB626BfWPO3ubkEfB5BOzXAoElZ5dhIQo7rqFYv5VqrLpEnyF0Qs1xBvk4pb+XeGb6CbzuJDtTN/RtSk72v3y/gceoF8E26nMMZdq8UO4vYzDhVkfZizYHs5Pm1a4P5tpL5pxQpxAcREGaT1gzoJJ4aG16Vi4pkHqoS4TYDVrCCvMjM6jMVN3/elhU0NWtUvsXerV2LA7BCeAGUSc22fFEQOlxXSGemqQaa0g3rvZTRptGLD9HC02f1JupEYl789Hal3Xw4FTw8k0ILSmpyv54l7/rJK0XZky6m"
 }

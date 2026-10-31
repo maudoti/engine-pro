@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.107 | Animação de abertura na primeira vez depois de atualizar | 31/10/2026
+
+- **Correção**: Animação de abertura na primeira vez depois de atualizar.
+
 ## Versão 4.5.106 | Ativação do programa com código fornecido pelo TI | 31/10/2026
 
 - **Novo**: Ativação do programa com código fornecido pelo TI.
