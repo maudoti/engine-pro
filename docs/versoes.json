@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.83",
+        "Data":  "2026-10-30 22:38",
+        "Notas":  "Melhoria: drivers sem assinatura mostram qual programa usa os arquivos do driver, e quando é sobra de programa antigo",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.83/EnginePro_Setup_4.5.83.exe"
+    },
+    {
         "Versao":  "4.5.82",
         "Data":  "2026-10-30 22:33",
         "Notas":  "Novo: drivers sem assinatura conhecidos podem ser marcados como confiáveis; Melhoria: Atualizar drivers Dell lembra que a Dell recusa a pasta de registro",

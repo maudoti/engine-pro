@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.83 | Drivers sem assinatura mostram qual programa usa os arqui... | 30/10/2026
+
+- **Melhoria**: Drivers sem assinatura mostram qual programa usa os arquivos do driver, e quando é sobra de programa antigo.
+
 ## Versão 4.5.82 | Drivers sem assinatura conhecidos podem ser marcados como... | 30/10/2026
 
 - **Novo**: Drivers sem assinatura conhecidos podem ser marcados como confiáveis.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.83",
+        "Data":  "2026-10-30 22:38",
+        "Titulo":  "Drivers sem assinatura mostram qual programa usa os arqui...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Drivers sem assinatura mostram qual programa usa os arquivos do driver, e quando é sobra de programa antigo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.82",
         "Data":  "2026-10-30 22:33",
         "Titulo":  "Drivers sem assinatura conhecidos podem ser marcados como...",
