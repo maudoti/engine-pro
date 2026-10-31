@@ -112,10 +112,10 @@
   .placa canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
   .placa::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse 65% 80% at 50% 50%, rgba(12,12,14,.82) 25%, rgba(12,12,14,0) 100%); }
   .ato { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 20px; z-index: 1; }
-  .ato1 .a { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(20px, 4vw, 28px); opacity: 0; animation: ciclo-a 16s linear infinite; }
+  .ato1 .a { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(20px, 4vw, 28px); opacity: 0; animation: ciclo-a 18s linear infinite; }
   .ato1 .b { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(34px, 7vw, 48px); font-weight: 700; color: var(--marca); opacity: 0; transform: scale(1.35);
-    animation: ciclo-b 16s linear infinite; }
-  .ato2 { opacity: 0; animation: ciclo-2 16s linear infinite; }
+    animation: ciclo-b 18s linear infinite; }
+  .ato2 { opacity: 0; animation: ciclo-2 18s linear infinite; }
   .ato2 .frase { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(24px, 5vw, 36px); font-weight: 600; letter-spacing: -.3px; }
   .ato2 .frase em { font-style: normal; color: var(--marca); }
   .ato2 .frase span, .ato2 .frase em, .ato2 .contador .junto { white-space: nowrap; }
@@ -123,14 +123,14 @@
   .ato2 .contador { font-size: 15px; opacity: .92; min-height: 30px; }
   .ato2 .contador b { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: 24px; font-variant-numeric: tabular-nums; margin-right: 4px; }
   .ato2 .contador strong { color: var(--marca); font-size: 16px; letter-spacing: .5px; }
-  /* ciclo de 16 s, igual à abertura do programa: 0,2 s "Ela observa, aprende e resolve."; 0,8 s "Sozinha." (fica 2 s parado
-     na tela); 4,1 s "Aprende em um. Resolve em todos." com o contador; 15,4 s apaga e o ciclo recomeça */
-  @keyframes ciclo-a { 0%, 1.25% { opacity: 0; transform: translateY(6px); } 4.7% { opacity: 1; transform: none; } 24% { opacity: 1; transform: none; } 26.5%, 100% { opacity: 0; transform: none; } }
-  @keyframes ciclo-b { 0%, 5% { opacity: 0; transform: scale(1.35); } 8.2% { opacity: 1; transform: scale(1); } 24% { opacity: 1; transform: scale(1); } 26.5%, 100% { opacity: 0; transform: scale(1); } }
-  @keyframes ciclo-2 { 0%, 25.6% { opacity: 0; transform: translateY(6px); } 29% { opacity: 1; transform: none; } 96% { opacity: 1; transform: none; } 100% { opacity: 0; transform: none; } }
-  @keyframes ciclo-a-suave { 0%, 1.25% { opacity: 0; } 4.7%, 24% { opacity: 1; } 26.5%, 100% { opacity: 0; } }
-  @keyframes ciclo-b-suave { 0%, 5% { opacity: 0; } 8.2%, 24% { opacity: 1; } 26.5%, 100% { opacity: 0; } }
-  @keyframes ciclo-2-suave { 0%, 25.6% { opacity: 0; } 29%, 96% { opacity: 1; } 100% { opacity: 0; } }
+  /* ciclo de 18 s, igual à abertura do programa: 0,2 s "Ela observa, aprende e resolve."; 2 s depois, "Sozinha."
+     (fica 2 s parado na tela); 5,5 s "Aprende em um. Resolve em todos." com o contador; 17,4 s apaga e recomeça */
+  @keyframes ciclo-a { 0%, 1.1% { opacity: 0; transform: translateY(6px); } 4.2% { opacity: 1; transform: none; } 28.9% { opacity: 1; transform: none; } 31.1%, 100% { opacity: 0; transform: none; } }
+  @keyframes ciclo-b { 0%, 15% { opacity: 0; transform: scale(1.35); } 17.8% { opacity: 1; transform: scale(1); } 28.9% { opacity: 1; transform: scale(1); } 31.1%, 100% { opacity: 0; transform: scale(1); } }
+  @keyframes ciclo-2 { 0%, 30.6% { opacity: 0; transform: translateY(6px); } 33.3% { opacity: 1; transform: none; } 96.7% { opacity: 1; transform: none; } 100% { opacity: 0; transform: none; } }
+  @keyframes ciclo-a-suave { 0%, 1.1% { opacity: 0; } 4.2%, 28.9% { opacity: 1; } 31.1%, 100% { opacity: 0; } }
+  @keyframes ciclo-b-suave { 0%, 15% { opacity: 0; } 17.8%, 28.9% { opacity: 1; } 31.1%, 100% { opacity: 0; } }
+  @keyframes ciclo-2-suave { 0%, 30.6% { opacity: 0; } 33.3%, 96.7% { opacity: 1; } 100% { opacity: 0; } }
   /* Windows com "efeitos de animação" desligados: os dois atos continuam, só com troca suave (sem movimento) */
   @media (prefers-reduced-motion: reduce) { .ato1 .a { animation-name: ciclo-a-suave; } .ato1 .b { animation-name: ciclo-b-suave; transform: none; } .ato2 { animation-name: ciclo-2-suave; } }
   @media (max-width: 560px) { .placa { height: 240px; } }
@@ -232,16 +232,16 @@
       acesos.sort(function (a, b) { return a.x - b.x; });
     }
     function quadro(agora) {
-      var total = (agora - t0) / 1000, ciclo = Math.floor(total / 16), t = total - ciclo * 16;
+      var total = (agora - t0) / 1000, ciclo = Math.floor(total / 18), t = total - ciclo * 18;
       if (ciclo !== cicloAtual) { cicloAtual = ciclo; sortear(); }
-      var saida = Math.max(0, Math.min(1, (16 - t) / 0.6));   // apagam juntos no fim do ciclo
+      var saida = Math.max(0, Math.min(1, (18 - t) / 0.6));   // apagam juntos no fim do ciclo
       ctx.clearRect(0, 0, W, H);
       ctx.strokeStyle = 'rgba(255,255,255,.11)'; ctx.lineWidth = 1;
       cel.forEach(function (p) { hexa(p.x, p.y, R - 1); ctx.stroke(); });
       acesos.forEach(function (p, i) {
-        var ini = 4.1 + i * 0.12, f = Math.max(0, Math.min(1, (t - ini) / 0.5));
+        var ini = 5.5 + i * 0.12, f = Math.max(0, Math.min(1, (t - ini) / 0.5));
         if (!f) return;
-        var pulso = (!quieto && t > 6) ? 0.06 * Math.sin(total * 1.6 + i) : 0;   // depois de acender, respira devagar
+        var pulso = (!quieto && t > 7.5) ? 0.06 * Math.sin(total * 1.6 + i) : 0;   // depois de acender, respira devagar
         if (i) { var q = acesos[i - 1]; ctx.globalAlpha = 0.45 * f * saida; ctx.strokeStyle = marca; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.moveTo(q.x, q.y); ctx.lineTo(p.x, p.y); ctx.stroke(); }
         f = f * saida;
         ctx.globalAlpha = (0.3 + pulso) * f; ctx.fillStyle = marca; hexa(p.x, p.y, R - 1); ctx.fill(); ctx.globalAlpha = 1;
@@ -260,7 +260,7 @@
       var el = document.getElementById('contador');
       var ult = rotulo.lastIndexOf(' ');
       el.innerHTML = '<b>0</b> ' + rotulo.slice(0, ult) + ' <span class="junto">' + rotulo.slice(ult + 1) + ' <strong>COLMEIA</strong></span>';
-      var b = el.querySelector('b'), fmt = new Intl.NumberFormat('pt-BR'), ini = null, atraso = Math.max(0, 4300 - (performance.now() - t0));
+      var b = el.querySelector('b'), fmt = new Intl.NumberFormat('pt-BR'), ini = null, atraso = Math.max(0, 5700 - (performance.now() - t0));
       setTimeout(function () {
         function passo(agora) { if (!ini) ini = agora; var p = Math.min(1, (agora - ini) / 1100); b.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); }
         if (quieto) b.textContent = fmt.format(n); else requestAnimationFrame(passo);

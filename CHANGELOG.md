@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.100 | Selos da IA: correções agendadas não são anunciadas antes | 31/10/2026
+
+- **Melhoria**: Selos da IA: correções agendadas não são anunciadas antes.
+- **Correção**: Azul enquanto corrige e verde quando corrigiu.
+
 ## Versão 4.5.99 | Abertura: Sozinha fica 2 segundos na tela e o Y não fica ... | 31/10/2026
 
 - **Melhoria**: Abertura: Sozinha fica 2 segundos na tela e o Y não fica mais atrás da placa.

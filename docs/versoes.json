@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.100",
+        "Data":  "2026-10-31 02:57",
+        "Notas":  "Selos da IA: correções agendadas não são anunciadas antes; azul enquanto corrige e verde quando corrigiu",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.100/EnginePro_Setup_4.5.100.exe"
+    },
+    {
         "Versao":  "4.5.99",
         "Data":  "2026-10-31 02:44",
         "Notas":  "Abertura: Sozinha fica 2 segundos na tela e o Y não fica mais atrás da placa; site com a mesma animação do programa, também com as animações do Windows desligadas",

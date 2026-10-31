@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.99",
-    "Instalador":  "EnginePro_Setup_4.5.99.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.99/EnginePro_Setup_4.5.99.exe",
-    "SHA256":  "DCCD17B8BF4E0DDB0074C083C58FDD4139E0638B8314CDF689BCE43A5CEF8835",
-    "Data":  "2026-10-31 02:44",
-    "Notas":  "Abertura: Sozinha fica 2 segundos na tela e o Y não fica mais atrás da placa; site com a mesma animação do programa, também com as animações do Windows desligadas",
-    "Assinatura":  "tTd74qMYjndFlik3psC3colNUPmpGu4SfnY2b3NTPFtXrMDF1N/QMJ/TR0FHLwzR/+uXjPDzo5jDAgmf9zyFQHHlMcAIQIjQ+OcLfd5VzNcVPBjhVprSwKIxisG3cvIuq4Oj2KKw8hDZ9Nha358gEmddOYxKYIEbeE5XMIAmobggPaasoMoAVEt14WRFSIQy7fCjADjht80ZrT/92ntbnxfsSTu2xu9e/VHZd0uHsqu3IPpOg4nq+Ih2Qx2NJOUpkHhKJmr44QVoIT35pdpqzsH4HdJl9Zn9c6RFHY3Z1HX3fdHwubynSKshBzDXjpuOeXs5rNUui3lTv4sxVJstEKjkryC+arQyhwxzVG1Y65e/RrT1P2asVZa4va36GjV1D6qrNEHX+h/RSUaeKCdieBtdijRXwMfAbmXwjy12bBYL6H6pHwnZYLfDOtsUASPKMkPjyD2JCyTP8EDVN8D2E3p8qh8MNvdxsEwHdCXO+WsGUUQksOf1bnkU/K/hlAh4"
+    "Versao":  "4.5.100",
+    "Instalador":  "EnginePro_Setup_4.5.100.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.100/EnginePro_Setup_4.5.100.exe",
+    "SHA256":  "4706C97DFBD427E4F6A3AC69D5DA1C6475134DCAF384409255C9CA9FA9776570",
+    "Data":  "2026-10-31 02:57",
+    "Notas":  "Selos da IA: correções agendadas não são anunciadas antes; azul enquanto corrige e verde quando corrigiu",
+    "Assinatura":  "MRd0JEHGNRTILA2SQjQit1GpTVRX6Pltc5m5EKuH2CJ4wrjYVPJSWvS60eH3DtQbGFSz3k+ertCPpmqn5XwfmTsjJU0Fhv7TVnSkYK4h86lUIMw89LU1y+cKeXT5xM/ZQhrBXTOxiZSTpm0P308p5vzRrW7pf1IyfspmUzLQQlGDcPQQz895hIugVRlnlG/qM9+sz1K+PFHE44jdHffE3n9LgLXLfBLHSDa7opySgHNRIENDlOagHgoDdTTohcIaD0Uipsb1KmIvVu5k1j7zSwXqWUTpAQ1XpfezISxuXCueTiU21rEy7N0GZ4kBIEKkLPOOB6c1zdJIyfyoyTZggF5JkNViqqJ3sB6/k0MhYo1EXe95NFIFr5I2Mhk0PMWWDetmnLGImASwxHGWlGsrPqhLp7IbvI/oFX5y96hPd8AwSf7HqMoxN29kOaGPMwqGxenoxWwOxU17sll1PrRHcubTo0ydyj7QvIY9U1wdEIJHUy4O0oyKSwsgt5nLT+xR"
 }
