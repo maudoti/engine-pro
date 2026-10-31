@@ -5,14 +5,14 @@
     "N48":  95,
     "Recentes":  [
                      {
+                         "Data":  "2026-10-31 17:28",
+                         "Texto":  "Nova versão 4.5.127 publicada: COLMEIA: mais IAs gratuitas conferindo as soluções",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-10-31 17:06:52",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 1 arquivo(s) por causa do caminho longo",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-10-31 17:05:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-10-31 16:49",
-                         "Texto":  "Nova versão 4.5.123 publicada: IA mais proativa: lê os registros do Teams, Outlook novo, Revit, AutoCAD, Acrobat, navegadores e Zoom e corrige o WebView2",
+                         "Data":  "2026-10-31 17:05:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -81,6 +81,6 @@
                   21
               ],
     "Ultima":  "2026-10-31 17:05:59",
-    "Gerado":  "2026-10-31 17:27:10",
-    "Data":  "2026-10-31 17:27"
+    "Gerado":  "2026-10-31 17:37:05",
+    "Data":  "2026-10-31 17:37"
 }
