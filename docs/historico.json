@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.102",
+        "Data":  "2026-10-31 03:18",
+        "Titulo":  "Abertura refeita: animação da COLMEIA numa janela própria...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura refeita: animação da COLMEIA numa janela própria, sem tela vazia, emendando no programa já carregado."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Uma janela só depois de instalar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Selos de nível maiores."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.101",
         "Data":  "2026-10-31 03:07",
         "Titulo":  "Espaço em disco: barra azul quando o espaço está bom",

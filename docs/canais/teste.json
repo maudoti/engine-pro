@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.101",
-    "Instalador":  "EnginePro_Setup_4.5.101.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.101/EnginePro_Setup_4.5.101.exe",
-    "SHA256":  "E44405023677560D5FC64B05C31EAEF6D356FF391EBE3451CDB6A0F7DE2903A5",
-    "Data":  "2026-10-31 03:07",
-    "Notas":  "Espaço em disco: barra azul quando o espaço está bom; as ações de cada item foram para Limpeza e otimização",
-    "Assinatura":  "S8m5FAjln5dYXXsCE9HgT0eNH1YTcVa4NQoNld4AOkASc8F4UgNDnrtRPpvTkwWq2Mt+tRvk5wB3ZML8x5dHA6nOAUkaVXrSpl+BfdMYJiFmgaqk/Qw/7G3ZZQARpszfMXgjV/sDYgHMRLfuMM50y1a+M5BMXLz3RYSeDQNCILttunij5dRXC69lMpdlLW7zcv9soY4aQhRqw5dkc4r9zUO3Q+wLR8jwK0x2YsGbOPJCH2SQ4nEjlpvXf9BNj1SiyYcO2Mc2FfmyNGVlF2jGdL8BayNUS9WM+wyCSk6cUejd4+457m4OKJPIWrlUQaLI8UdOR9VaP5lwuI3BvyboS0unAWNBMd7vy9NCDIqnYRvmRd49BDlEik401UhC7Fo1cUIXXiXdryL2z0My3FG1oBiTxoLq3T9EmdqS9fHRKnjfWgMpkB0H6noWVl6mz42jJSBXmveALM+v1g8RBFNjZ8dNnbNbBwZ45CBHc36d6T6hwSIdLu3oYvHxeJ91T6jX"
+    "Versao":  "4.5.102",
+    "Instalador":  "EnginePro_Setup_4.5.102.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.102/EnginePro_Setup_4.5.102.exe",
+    "SHA256":  "A9278BB0E94A21858FF4C2B788710D0C1A79BDD841D122D8BB625DB54CB0E9F2",
+    "Data":  "2026-10-31 03:18",
+    "Notas":  "Abertura refeita: animação da COLMEIA numa janela própria, sem tela vazia, emendando no programa já carregado; uma janela só depois de instalar; selos de nível maiores",
+    "Assinatura":  "eeAG0aIuQpYsym3eyW43y64FCDsnKNAs0zTU8QHKYE5D6Ggbwj/QdsNQXJnNXgLXknHRdu3ZxXCSRQ06XE3nObY+JhZVvPt2SvFflDbmqSZCuZDACAbwMli7b+ktVLg340xD7o36VgiDwpKJqN11d/f1D+7K9MkOmh9+sgcly2IIqcAx/ZabmZXWDAjLwlldROLMPiltTVaBtBjFWPyrvPHITGAD+owW9ulwPjxxMvda0I/JX98qC3LpaLR3BlyxBM1igUXm2VuTpEYJ8H+CLtf2tCumvbzFJWiYxMH2jpdsr+KGbqDY9YIUJcN50LipAD7f5hoxiFpCObkBL4Y88iC6QK4IVGLOEXoqm1BiERAbb9Uc7hs6Kl4MbS+6bbnO6WgQ+zlFtqiIcjMjC1PC+7YeKfcuDP/x/HM+ibMYK8ItvsqdFuqvCEtLgpAwri3r3QQgyOVwKbdDyme80yAeuLxFhomWEXhWfeQG0FftkSr/7kqTpCJZZAG9jPxwqN8p"
 }
