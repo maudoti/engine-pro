@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.86",
-    "Instalador":  "EnginePro_Setup_4.5.86.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.86/EnginePro_Setup_4.5.86.exe",
-    "SHA256":  "84D05F2B0EE473EDB49A0977E36BBB4A01CBF055F44216DEEACDE8500BFEF0B5",
-    "Data":  "2026-10-30 23:32",
-    "Notas":  "Novo: eventos do Windows e telas azuis explicados, com análise dos arquivos de despejo pelo depurador da Microsoft para apontar o driver culpado",
-    "Assinatura":  "YtIh7FNzZrHSNIZc6+7hbSTzNdRQIzPbyJ6EdUvQGkXHXBqdTrb7Nz9GtUzKZGyQ0cTaOBB+FCqib7HcdzOv9vIx0EYNCmXgju4BgknVUIloAcGj/1+F9WAPZr6yLKvoU6cE/IZP3rI69vVVRWKQBlvKagXi4IVus+hof57/TkvPaUKOoPG6kNrA++ctJ6VIi2OEEtYkUU6DO+gOqtu8qKCnpqHWREwZ2Tgxi8RAdOEwSItxk7bYGVyVNhhVOPSZwYWOmqt7lmCa+vzMByNfH+izZqpvwjD8z7F2AuVZRIOCPw+ocM6KD9C+ew7UhijxZC8HxMAgk9AmgJm5iMYz6nTIGbZS96DOuUq9N0PTO0lw29hggGgSDuBFtYuXjhiBW+o8hTfE5/cuWIXw0OJudTlgDvajAOGXtTxy1TXRxjuFyx6/GRJywElwyfWlFGILJlLXv1eXtBJV6G8n5bECXnnimH30PFFwVEKqGxcNG4XRDPuPZKDq7bi3y9Euj/ZC"
+    "Versao":  "4.5.87",
+    "Instalador":  "EnginePro_Setup_4.5.87.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.87/EnginePro_Setup_4.5.87.exe",
+    "SHA256":  "FE137D3798A20AFBB45D6699B247563E7B8B3FF7487B57CB00CF008886F9FC6C",
+    "Data":  "2026-10-30 23:36",
+    "Notas":  "Novo: item Eventos e telas azuis no menu lateral, em Suporte",
+    "Assinatura":  "kGERArR8PDnCVrqOPwOwnvChqsKCa7SIN7ELF54fAFmhAxwdUZVvpy8Dhmzqmekeu7fYk6w3pN6r8rfXkta6zrQ7f+3LOO8QycKrjg9VewBokodXnkmW+RSphs59QNUaX5bz0bLzrdX61xMLsfB6rDcmYui9U4PSpiDZiOOGKXlGBg1t+linlXMFFM10WWzDaWgMIpourZKgU8Vneq5whL5i/wSaPoVLOGZhp9ZPIqMdGYsXeLXnWIRq7XB3VD+CJLRawBKiQUMeHkxhtDRK42cI5sK4NBxWsiRY/2HxNzzWkpxKsMrevAznKNNw5L3CRMEY/PCT8bPAEUXGukAQRsTmpAB9GMscwfnVmqKdvLAOYSRIERBuvZ3u8CIfNq+C8migL9OiYZ4R2Z5uDt/s+atIYfXXhaD5HvfRTA7VDu0stWCFbq3QPW8LX0Dy6fIjjpirVKLU3NuShdcOpaXVur9xQSoZTtfSUgq+aXmN0j2aNVUN59dJHKTiSXieWCfm"
 }

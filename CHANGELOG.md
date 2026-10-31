@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.87 | Item Eventos e telas azuis no menu lateral, em Suporte | 30/10/2026
+
+- **Novo**: Item Eventos e telas azuis no menu lateral, em Suporte.
+
 ## Versão 4.5.86 | Eventos do Windows e telas azuis explicados, com análise ... | 30/10/2026
 
 - **Novo**: Eventos do Windows e telas azuis explicados, com análise dos arquivos de despejo pelo depurador da Microsoft para apontar o driver culpado.

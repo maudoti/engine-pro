@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.87",
+        "Data":  "2026-10-30 23:36",
+        "Notas":  "Novo: item Eventos e telas azuis no menu lateral, em Suporte",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.87/EnginePro_Setup_4.5.87.exe"
+    },
+    {
         "Versao":  "4.5.86",
         "Data":  "2026-10-30 23:32",
         "Notas":  "Novo: eventos do Windows e telas azuis explicados, com análise dos arquivos de despejo pelo depurador da Microsoft para apontar o driver culpado",
