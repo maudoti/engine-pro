@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.102",
-    "Instalador":  "EnginePro_Setup_4.5.102.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.102/EnginePro_Setup_4.5.102.exe",
-    "SHA256":  "A9278BB0E94A21858FF4C2B788710D0C1A79BDD841D122D8BB625DB54CB0E9F2",
-    "Data":  "2026-10-31 03:18",
-    "Notas":  "Abertura refeita: animação da COLMEIA numa janela própria, sem tela vazia, emendando no programa já carregado; uma janela só depois de instalar; selos de nível maiores",
-    "Assinatura":  "eeAG0aIuQpYsym3eyW43y64FCDsnKNAs0zTU8QHKYE5D6Ggbwj/QdsNQXJnNXgLXknHRdu3ZxXCSRQ06XE3nObY+JhZVvPt2SvFflDbmqSZCuZDACAbwMli7b+ktVLg340xD7o36VgiDwpKJqN11d/f1D+7K9MkOmh9+sgcly2IIqcAx/ZabmZXWDAjLwlldROLMPiltTVaBtBjFWPyrvPHITGAD+owW9ulwPjxxMvda0I/JX98qC3LpaLR3BlyxBM1igUXm2VuTpEYJ8H+CLtf2tCumvbzFJWiYxMH2jpdsr+KGbqDY9YIUJcN50LipAD7f5hoxiFpCObkBL4Y88iC6QK4IVGLOEXoqm1BiERAbb9Uc7hs6Kl4MbS+6bbnO6WgQ+zlFtqiIcjMjC1PC+7YeKfcuDP/x/HM+ibMYK8ItvsqdFuqvCEtLgpAwri3r3QQgyOVwKbdDyme80yAeuLxFhomWEXhWfeQG0FftkSr/7kqTpCJZZAG9jPxwqN8p"
+    "Versao":  "4.5.103",
+    "Instalador":  "EnginePro_Setup_4.5.103.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.103/EnginePro_Setup_4.5.103.exe",
+    "SHA256":  "734A175694A625E3778C0E6AE69488BC5BDFF02F1B643E2554081FBBEA671152",
+    "Data":  "2026-10-31 03:25",
+    "Notas":  "Abertura: frase final por 3,5 segundos e a saudação aparece em seguida enquanto o programa carrega",
+    "Assinatura":  "GGNypbpHQK53xz9SHbWCrGNnT8iI5XHCC6qVBxg1V/SrYkDudl9q6WuPamyLD7gH7Zkh5DNYWZVE5UzIGU7rzjjtzZYaPa1UJFwUSmXxwcp3PCHMrQjZHkdVioHIlML9Ap3zp/HA1ACdhTTEt3GZ/GyytxVxicjG1btadTEmddnthXnkamSgxBs7qMnaxhA+XPviSwfrOTUnR3nv9TpGwEb06mf5AuWGI6laY8S7p3FPlSjckOwOGj/smDOVCiR7Kk3v6U3WCeZOXeCEvf/pEgOTFj0lF46Gw16uIHbRCQGu7tosqCj2/Bof4Wy2tcFtKdbE7rQ67z8IsFhVIDB5En1YGhhwaG/Kyof1N6uXnf3Gw5LUCEAYe9eunZra79aL+PDFpSsWs9Or6Hdwj5CO2re4YGqIylP2ezN+zOhB+5OlpsfZTCW0MHsk8Jbg8v/skzFY6oe+jAwAYdUBUeLUhXNm3UiCAlKCdMJnsAHDKU8V8D5a08BcIud4mhsX+buP"
 }

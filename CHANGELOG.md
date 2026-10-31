@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.103 | Abertura: frase final por 3,5 segundos e a saudação apare... | 31/10/2026
+
+- **Melhoria**: Abertura: frase final por 3,5 segundos e a saudação aparece em seguida enquanto o programa carrega.
+
 ## Versão 4.5.102 | Abertura refeita: animação da COLMEIA numa janela própria... | 31/10/2026
 
 - **Melhoria**: Abertura refeita: animação da COLMEIA numa janela própria, sem tela vazia, emendando no programa já carregado.

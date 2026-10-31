@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.103",
+        "Data":  "2026-10-31 03:25",
+        "Titulo":  "Abertura: frase final por 3,5 segundos e a saudação apare...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: frase final por 3,5 segundos e a saudação aparece em seguida enquanto o programa carrega."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.102",
         "Data":  "2026-10-31 03:18",
         "Titulo":  "Abertura refeita: animação da COLMEIA numa janela própria...",
