@@ -1,17 +1,17 @@
 {
-    "Resolvidos":  1,
-    "Conhecimentos":  446,
+    "Resolvidos":  2,
+    "Conhecimentos":  447,
     "Pesquisas":  95,
     "N48":  95,
     "Recentes":  [
                      {
-                         "Data":  "2026-10-31 17:05:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-10-31 17:06:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 1 arquivo(s) por causa do caminho longo",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-10-31 16:49",
-                         "Texto":  "Nova versão 4.5.123 publicada: IA mais proativa: lê os registros do Teams, Outlook novo, Revit, AutoCAD, Acrobat, navegadores e Zoom e corrige o WebView2",
+                         "Data":  "2026-10-31 17:05:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-10-31 16:19:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-10-31 16:49",
+                         "Texto":  "Nova versão 4.5.123 publicada: IA mais proativa: lê os registros do Teams, Outlook novo, Revit, AutoCAD, Acrobat, navegadores e Zoom e corrige o WebView2",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 95 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-10-31 16:19:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
@@ -74,13 +79,13 @@
                   0,
                   0,
                   0,
-                  14,
-                  14,
+                  28,
                   12,
                   13,
+                  0,
                   42
               ],
     "Ultima":  "2026-10-31 17:05:59",
-    "Gerado":  "2026-10-31 17:07:05",
-    "Data":  "2026-10-31 17:07"
+    "Gerado":  "2026-10-31 17:17:05",
+    "Data":  "2026-10-31 17:17"
 }
