@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.108",
+        "Data":  "2026-10-31 10:42",
+        "Titulo":  "Assinatura da inteligência artificial na abertura e no site",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Assinatura da inteligência artificial na abertura e no site."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.107",
         "Data":  "2026-10-31 10:37",
         "Titulo":  "Animação de abertura na primeira vez depois de atualizar",

@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.107",
-    "Instalador":  "EnginePro_Setup_4.5.107.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.107/EnginePro_Setup_4.5.107.exe",
-    "SHA256":  "A2F2014C45BBBAD9B1298CE9DE09836AF721C44A6E23AD3DE973B0998B5C90BD",
-    "Data":  "2026-10-31 10:37",
-    "Notas":  "Correção: animação de abertura na primeira vez depois de atualizar",
-    "Assinatura":  "ZHg8nCffqUPophLieWOVlXqWLqJ6iw3npawDL7KE7KIGIKp/aDypD2iYZXfxs/I9qQZLuf5SdbF0wYkpqacFOQKFXqugD52W6mLFSfpZWVJipIjBvmz9+7c2qfZisQWuRqJofi7GvG3f+KcujfZSEe0V/yZKk6Ke/N+EUB6UrMEeLPq2aQnlYsNIavWY74A+vBbJ3eQaT5LkA5T9YaaWfZ67XOZ6NhB626BfWPO3ubkEfB5BOzXAoElZ5dhIQo7rqFYv5VqrLpEnyF0Qs1xBvk4pb+XeGb6CbzuJDtTN/RtSk72v3y/gceoF8E26nMMZdq8UO4vYzDhVkfZizYHs5Pm1a4P5tpL5pxQpxAcREGaT1gzoJJ4aG16Vi4pkHqoS4TYDVrCCvMjM6jMVN3/elhU0NWtUvsXerV2LA7BCeAGUSc22fFEQOlxXSGemqQaa0g3rvZTRptGLD9HC02f1JupEYl789Hal3Xw4FTw8k0ILSmpyv54l7/rJK0XZky6m"
+    "Versao":  "4.5.108",
+    "Instalador":  "EnginePro_Setup_4.5.108.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.108/EnginePro_Setup_4.5.108.exe",
+    "SHA256":  "43937A37FA9F558973734BE64F6A99D383B036A6AD2E6EB37AA7164956759FAD",
+    "Data":  "2026-10-31 10:42",
+    "Notas":  "Melhoria: assinatura da inteligência artificial na abertura e no site",
+    "Assinatura":  "a+xKGIJvSCh0gQNdHmdPusm9wNFyINcysjceUn+r7S6nLBChFVDicJEZyyhAp+FIbSCwMuR+PHQIOIOWBDHYvx6LS9hm4Gt1d7/vhaSAsX9ApSs2EW05+GhyxFZVtBL+TEzH+xmzBmS3A8aCukPtQOs8lOy8Co8FWy+DQuRQdYJ/jS1XYNNBToxwqZOwsLl7wmAPN5ucr2D95zFOMB1eBRRzHi67ENwNpJ2IWHzhlS7IZ2xeunKbUOx0j1lwoa0gvy1L+oanweN2R7t89NGAdjuA7BiKCZkl6lc50nodF6n6YHzHumshKLDa1H3zV+Jui0+kT2A7QpiPeoMmVWc/TISKlW6f8MBLB8F7ZV6awgtZxk6bnqIGuPvV9bRQv1c8izIfSj9SNOpaGYTHrBAsuefmgO5fO9/e6LP0SW3b7TvE0UywSvn38eUmBYZLBlEuPPsQ4gwF5wNq16UMZ7r1YqHC3dpdmqjl1WcFMr1Qv+lJ946ZUtC6xpdtnUwbptsE"
 }

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.108 | Assinatura da inteligência artificial na abertura e no site | 31/10/2026
+
+- **Melhoria**: Assinatura da inteligência artificial na abertura e no site.
+
 ## Versão 4.5.107 | Animação de abertura na primeira vez depois de atualizar | 31/10/2026
 
 - **Correção**: Animação de abertura na primeira vez depois de atualizar.
