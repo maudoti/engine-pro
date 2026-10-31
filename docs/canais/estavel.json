@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.81",
-    "Instalador":  "EnginePro_Setup_4.5.81.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.81/EnginePro_Setup_4.5.81.exe",
-    "SHA256":  "B95CE5DC3DF6B827227D84FF84F099811B7FD013700A0FD1218E8F306D88589F",
-    "Data":  "2026-10-30 22:00",
-    "Notas":  "Correção: visão ao vivo das estações também pela rede do escritório, com o andamento do pedido na tela e registro na estação",
-    "Assinatura":  "QJCSV+uBRSzZ/qbz2TVjWOLOPLfNzhyJOKVW8uMmIBZqTwvUlPI/j04Vq9r1eJfDLwHNZXw4M68T+tO7aKWywk5M7UY/gFiPQQ0/vsfSZZFtLf92foIg7si4eZV86Pk4HBpnR1YPO2jcF/V7YMND0vy+E0NFCZlL1RxuvZkxO2puumCe3RluUoPwg++3jO5Icmwl7tn8doq3JPZ47zm6aCFgilHP8JDrfg3YozWgbpzVTmi5PHW4hQ+ZDEryVg9IRb4l0BWtm3WNUr2Vg6Wlr8iIqXGOnRpZ2QQVbnbrjyuxzElK9+Rnqvsal2D753TtmjUZ9Uw06s2h4pdOh26Yzz6oGaG7tlctu3Tqn/j6+Bf6sLm+pAu2AzscIeUbnJqbIvmD0U+zqDj01DPbPYre8dy2doZOqlLlXu5Irh8PRrxgREymxdiPTMzhsAFZuhA9audN2Jvq61OAuxLQwlPewVV9TtaEZ+nss1LyjmncMXle1gk+BvJIbvXkWfrf5gu6"
+    "Versao":  "4.5.91",
+    "Instalador":  "EnginePro_Setup_4.5.91.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.91/EnginePro_Setup_4.5.91.exe",
+    "SHA256":  "01C3B7544320D97BDD76E0D44F2E7478BC94ECF3174122C58D2320CF71EB0C37",
+    "Data":  "2026-10-30 23:56",
+    "Notas":  "Melhoria: problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto",
+    "Assinatura":  "oY35uEuvqxKJ66ZNtZuCtq1WGjaGkvxXMzGS3dY2U3jZ/1eg/sLwWJIn1QVrIHDFZE1REiJxGql8+ldftMzOf9caa6eTSG0cD8696/dU3PnvHjqaGS2rZcXZLQlym+1X31+4M24cbB5SEj2ujT6J8AKxTrfAjFhw5jjAKOY2WggFuSUcdAAuqhyNxQKiT9wWPyvwI1ePBHJXhhAGnjFJAE++6zCGS4X7zCD6JJKqw6B8rMW2fnlbY2kraU6B7URmQCIIyjBzg57uCfyAenefggBXiDVzUamIUcwyh2yk/2A43Gob8KEtbA4LurJJvlywrUzxt8hi+WC5IvQZjOz64xfiIpnSssBCNaangR/voduXNOmnbXQd685qddbSbigXyEfHC9V/wk6uUoq034j2pFBrRYAj6Wj/58mXwaLN7al7tcZfZIi44wkOAcK3DJ5lgeOPfsHt3bumTJ4E8qmlxC/3zB+qRBkNKmaeAF0EJ5fo5Pyzbl+4O895b9qp1dHk"
 }
