@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.111 | Ajustes internos de estabilidade | 31/10/2026
+
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.110 | E-mail da empresa no cadastro da ativação | 31/10/2026
 
 - **Melhoria**: E-mail da empresa no cadastro da ativação.

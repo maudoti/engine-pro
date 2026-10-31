@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.111",
+        "Data":  "2026-10-31 11:25",
+        "Titulo":  "Ajustes internos de estabilidade",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.110",
         "Data":  "2026-10-31 10:59",
         "Titulo":  "E-mail da empresa no cadastro da ativação",
