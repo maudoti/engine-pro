@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.97 | Nova abertura e site com a placa da Colmeia: Ela observa,... | 31/10/2026
+
+- **Novo**: Nova abertura e site com a placa da Colmeia: Ela observa, aprende e resolve. Sozinha. Aprende em um. Resolve em todos.
+
 ## Versão 4.5.96 | Base de conhecimento ampliada: 149 casos de OneDrive, Sha... | 31/10/2026
 
 - **Melhoria**: Base de conhecimento ampliada: 149 casos de OneDrive, SharePoint, lentidão, CPU, memória, disco, Office, AutoCAD, Revit, Adobe, impressoras e rede.

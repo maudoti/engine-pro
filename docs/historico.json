@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.97",
+        "Data":  "2026-10-31 02:14",
+        "Titulo":  "Nova abertura e site com a placa da Colmeia: Ela observa,...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Nova abertura e site com a placa da Colmeia: Ela observa, aprende e resolve. Sozinha. Aprende em um. Resolve em todos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.96",
         "Data":  "2026-10-31 01:25",
         "Titulo":  "Base de conhecimento ampliada: 149 casos de OneDrive, Sha...",

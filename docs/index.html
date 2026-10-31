@@ -105,6 +105,30 @@
   .tag.melhoria { background: var(--suave); color: var(--suaveTx); }
   .tag.correcao { background: rgba(196,90,0,.14); color: #B45309; }
   @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .tag.correcao { color: #F0A35E; }  }
+
+  /* ===== Placa da Colmeia: dois atos sobre favos que acendem e se ligam ===== */
+  .placa { position: relative; width: min(680px, 100%); height: 220px; margin: 40px auto 0; border-radius: 20px; overflow: hidden;
+    background: #0C0C0E; border: 1px solid rgba(255,255,255,.14); box-shadow: 0 24px 60px rgba(0,0,0,.45); text-align: center; }
+  .placa canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+  .placa::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse 65% 80% at 50% 50%, rgba(12,12,14,.82) 25%, rgba(12,12,14,0) 100%); }
+  .ato { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 20px; z-index: 1; }
+  .ato1 .a { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(20px, 4vw, 28px); opacity: 0; animation: surgir .55s ease-out .2s forwards; }
+  .ato1 .b { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(34px, 7vw, 48px); font-weight: 700; color: var(--marca); opacity: 0; transform: scale(1.35);
+    animation: crescer .5s cubic-bezier(.2,.8,.2,1) .8s forwards; }
+  .ato1 { animation: sumir .35s ease-in 1.9s forwards; }
+  .ato2 { opacity: 0; animation: surgir .5s ease-out 2.15s forwards; }
+  .ato2 .frase { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(24px, 5vw, 36px); font-weight: 600; letter-spacing: -.3px; }
+  .ato2 .frase em { font-style: normal; color: var(--marca); }
+  .ato2 .frase span, .ato2 .frase em, .ato2 .contador .junto { white-space: nowrap; }
+  .ato2 .traco { width: 56px; height: 3px; border-radius: 2px; background: var(--marca); margin: 14px auto; }
+  .ato2 .contador { font-size: 15px; opacity: .92; min-height: 30px; }
+  .ato2 .contador b { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: 24px; font-variant-numeric: tabular-nums; margin-right: 4px; }
+  .ato2 .contador strong { color: var(--marca); font-size: 17px; }
+  @keyframes surgir { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes crescer { to { opacity: 1; transform: scale(1); } }
+  @keyframes sumir { to { opacity: 0; visibility: hidden; } }
+  @media (prefers-reduced-motion: reduce) { .ato1 { display: none; } .ato2 { animation: none; opacity: 1; } }
+  @media (max-width: 560px) { .placa { height: 240px; } }
 </style>
 </head>
 <body>
@@ -112,6 +136,15 @@
     <img src="icone.png" alt="Ícone do Engine Pro">
     <h1>Engine Pro</h1>
     <p class="slogan">Seu PC Mais Inteligente</p>
+    <div class="placa" role="img" aria-label="Ela observa, aprende e resolve. Sozinha. Aprende em um. Resolve em todos.">
+      <canvas id="favos" aria-hidden="true"></canvas>
+      <div class="ato ato1" aria-hidden="true"><div class="a">Ela observa, aprende e resolve.</div><div class="b">Sozinha.</div></div>
+      <div class="ato ato2">
+        <div class="frase"><span>Aprende em um.</span> <em>Resolve em todos.</em></div>
+        <div class="traco"></div>
+        <div class="contador" id="contador">A <strong>Colmeia</strong> aprende com cada computador.</div>
+      </div>
+    </div>
   </header>
 
   <main class="conteudo">
@@ -171,6 +204,57 @@
   <footer>Desenvolvido por Mau do TI</footer>
 
 <script>
+  // Placa da Colmeia: favos que acendem e se ligam, e o contador vindo de colmeia.json (só totais, sem dados de ninguém)
+  (function () {
+    var cv = document.getElementById('favos'); if (!cv || !cv.getContext) return;
+    var ctx = cv.getContext('2d'), quieto = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var marca = getComputedStyle(document.documentElement).getPropertyValue('--marca').trim() || '#EF432A';
+    var W, H, R = 17, cel = [], acesos = [], t0 = performance.now();
+    function medir() {
+      var d = window.devicePixelRatio || 1; W = cv.clientWidth; H = cv.clientHeight;
+      cv.width = W * d; cv.height = H * d; ctx.setTransform(d, 0, 0, d, 0, 0);
+      cel = []; var w = Math.sqrt(3) * R, dy = 1.5 * R;
+      for (var l = -1; l * dy < H + R; l++) for (var c = -1; c * w < W + w; c++) cel.push({ x: c * w + (l % 2 ? w / 2 : 0), y: l * dy });
+      var dentro = cel.filter(function (p) { return p.x > 30 && p.x < W - 30 && p.y > 20 && p.y < H - 20; });
+      acesos = []; for (var i = 0; i < 9 && dentro.length; i++) acesos.push(dentro.splice(Math.floor(Math.random() * dentro.length), 1)[0]);
+      acesos.sort(function (a, b) { return a.x - b.x; });
+    }
+    function hexa(x, y, r) { ctx.beginPath(); for (var k = 0; k < 6; k++) { var a = Math.PI / 180 * (60 * k - 90); ctx[k ? 'lineTo' : 'moveTo'](x + r * Math.cos(a), y + r * Math.sin(a)); } ctx.closePath(); }
+    function quadro(agora) {
+      var t = quieto ? 99 : (agora - t0) / 1000;
+      ctx.clearRect(0, 0, W, H);
+      ctx.strokeStyle = 'rgba(255,255,255,.11)'; ctx.lineWidth = 1;
+      cel.forEach(function (p) { hexa(p.x, p.y, R - 1); ctx.stroke(); });
+      acesos.forEach(function (p, i) {
+        var ini = 2.1 + i * 0.12, f = Math.max(0, Math.min(1, (t - ini) / 0.5));
+        if (!f) return;
+        var pulso = t > 4 ? 0.06 * Math.sin(t * 1.6 + i) : 0;   // depois de acender, respira devagar
+        if (i) { var q = acesos[i - 1]; ctx.globalAlpha = 0.45 * f; ctx.strokeStyle = marca; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.moveTo(q.x, q.y); ctx.lineTo(p.x, p.y); ctx.stroke(); }
+        ctx.globalAlpha = (0.3 + pulso) * f; ctx.fillStyle = marca; hexa(p.x, p.y, R - 1); ctx.fill(); ctx.globalAlpha = 1;
+      });
+      if (!quieto && !document.hidden) requestAnimationFrame(quadro);
+    }
+    medir(); requestAnimationFrame(quadro);
+    window.addEventListener('resize', function () { medir(); if (quieto) quadro(performance.now()); });
+    document.addEventListener('visibilitychange', function () { if (!document.hidden && !quieto) requestAnimationFrame(quadro); });
+
+    fetch('colmeia.json', { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (c) {
+      if (!c) return;
+      var res = +c.Resolvidos || 0, conh = +c.Conhecimentos || 0;
+      var n = res >= 10 ? res : conh; if (!n) return;
+      var rotulo = res >= 10 ? 'problemas resolvidos pela' : 'conhecimentos reunidos na';
+      var el = document.getElementById('contador');
+      var ult = rotulo.lastIndexOf(' ');
+      el.innerHTML = '<b>0</b> ' + rotulo.slice(0, ult) + ' <span class="junto">' + rotulo.slice(ult + 1) + ' <strong>Colmeia</strong></span>';
+      var b = el.querySelector('b'), fmt = new Intl.NumberFormat('pt-BR'), ini = null, atraso = quieto ? 0 : Math.max(0, 2300 - (performance.now() - t0));
+      setTimeout(function () {
+        function passo(agora) { if (!ini) ini = agora; var p = Math.min(1, (agora - ini) / 1100); b.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); }
+        if (quieto) b.textContent = fmt.format(n); else requestAnimationFrame(passo);
+      }, atraso);
+    }).catch(function () { });
+  })();
+</script>
+<script>
   var NOMES = { novo: 'Novo', melhoria: 'Melhoria', correcao: 'Correção' };
   function texto(id, valor) { document.getElementById(id).textContent = valor; }
   function dataBr(d) { if (!d) return ''; var p = d.split(' ')[0].split('-'); return p.length === 3 ? p[2] + '/' + p[1] + '/' + p[0] : d; }
@@ -201,7 +285,7 @@
   fetch('canais/estavel.json?t=' + Date.now(), { cache: 'no-store' })
     .then(function (r) { return r.json(); })
     .then(function (v) {
-      if (!v.Url) { texto('versao', '—'); texto('meta', 'Nenhuma versão publicada ainda.'); return; }
+      if (!v.Url) { texto('versao', '...'); texto('meta', 'Nenhuma versão publicada ainda.'); return; }
       texto('versao', v.Versao);
       var b = document.getElementById('baixar');
       b.href = v.Url; b.setAttribute('aria-disabled', 'false');

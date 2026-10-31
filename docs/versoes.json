@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.97",
+        "Data":  "2026-10-31 02:14",
+        "Notas":  "Nova abertura e site com a placa da Colmeia: Ela observa, aprende e resolve. Sozinha. Aprende em um. Resolve em todos.",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.97/EnginePro_Setup_4.5.97.exe"
+    },
+    {
         "Versao":  "4.5.96",
         "Data":  "2026-10-31 01:25",
         "Notas":  "Base de conhecimento ampliada: 149 casos de OneDrive, SharePoint, lentidão, CPU, memória, disco, Office, AutoCAD, Revit, Adobe, impressoras e rede; 204 códigos de erro explicados",
