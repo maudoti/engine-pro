@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.82 | Drivers sem assinatura conhecidos podem ser marcados como... | 30/10/2026
+
+- **Novo**: Drivers sem assinatura conhecidos podem ser marcados como confiáveis.
+- **Melhoria**: Atualizar drivers Dell lembra que a Dell recusa a pasta de registro.
+
 ## Versão 4.5.81 | Visão ao vivo das estações também pela rede do escritório... | 30/10/2026
 
 - **Correção**: Visão ao vivo das estações também pela rede do escritório, com o andamento do pedido na tela e registro na estação.

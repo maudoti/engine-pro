@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.82",
+        "Data":  "2026-10-30 22:33",
+        "Titulo":  "Drivers sem assinatura conhecidos podem ser marcados como...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Drivers sem assinatura conhecidos podem ser marcados como confiáveis."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizar drivers Dell lembra que a Dell recusa a pasta de registro."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.81",
         "Data":  "2026-10-30 22:00",
         "Titulo":  "Visão ao vivo das estações também pela rede do escritório...",

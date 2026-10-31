@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.81",
-    "Instalador":  "EnginePro_Setup_4.5.81.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.81/EnginePro_Setup_4.5.81.exe",
-    "SHA256":  "B95CE5DC3DF6B827227D84FF84F099811B7FD013700A0FD1218E8F306D88589F",
-    "Data":  "2026-10-30 22:00",
-    "Notas":  "Correção: visão ao vivo das estações também pela rede do escritório, com o andamento do pedido na tela e registro na estação",
-    "Assinatura":  "QJCSV+uBRSzZ/qbz2TVjWOLOPLfNzhyJOKVW8uMmIBZqTwvUlPI/j04Vq9r1eJfDLwHNZXw4M68T+tO7aKWywk5M7UY/gFiPQQ0/vsfSZZFtLf92foIg7si4eZV86Pk4HBpnR1YPO2jcF/V7YMND0vy+E0NFCZlL1RxuvZkxO2puumCe3RluUoPwg++3jO5Icmwl7tn8doq3JPZ47zm6aCFgilHP8JDrfg3YozWgbpzVTmi5PHW4hQ+ZDEryVg9IRb4l0BWtm3WNUr2Vg6Wlr8iIqXGOnRpZ2QQVbnbrjyuxzElK9+Rnqvsal2D753TtmjUZ9Uw06s2h4pdOh26Yzz6oGaG7tlctu3Tqn/j6+Bf6sLm+pAu2AzscIeUbnJqbIvmD0U+zqDj01DPbPYre8dy2doZOqlLlXu5Irh8PRrxgREymxdiPTMzhsAFZuhA9audN2Jvq61OAuxLQwlPewVV9TtaEZ+nss1LyjmncMXle1gk+BvJIbvXkWfrf5gu6"
+    "Versao":  "4.5.82",
+    "Instalador":  "EnginePro_Setup_4.5.82.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.82/EnginePro_Setup_4.5.82.exe",
+    "SHA256":  "2EF6972E24AFC2A1365CDD28C980BC83194BE967B43B07AAF9A3ACCC3BAE6134",
+    "Data":  "2026-10-30 22:33",
+    "Notas":  "Novo: drivers sem assinatura conhecidos podem ser marcados como confiáveis; Melhoria: Atualizar drivers Dell lembra que a Dell recusa a pasta de registro",
+    "Assinatura":  "GhJAV9GeIzAKuGdBC2Ipj92jKRV8tpVB2XWk8vCGzOzAp6F49H+5Cl68oRsN7p7ONL8f+r2DbKcg3oaJTcuUtcRkqX6XqCjxE8IawKLYw7ilkx1Gq5SZM6fNzLK4tQufC236+524ZV/rcPGvgjwCEzmlO/qkJD+eTQ0Qotn8vYNroioHOMewnZZb8xMuxaFlkbrqtIn98V5xo8ei6CCJN81OdaIBe6tDQ48Q+9jvu/TZrukHqQ8UU2PU0QpmazFPZq+fqGImJrcqJr7iPqhai2nBnyFHbvzBUepdtVhEyf1sxQJr0/LvJFfz5YDa0qKtWUFWID0K06/vdDAsOeYhy3Pxo4EFvwOHXLwviGIQh+kcTHAdFnpLqUDOtdBeVa5T3a1dAUNAod1wM0DJKiah5bKS3F5tmd08JoYVBeguS0XQIzwIbvkHFY4wBoIuk/whmnLm5sSq0NWxILq5DrbRRE4AhlJb+nWScx8zp3rfZUnKF75SXEf5q/AgoX8nh/AW"
 }
