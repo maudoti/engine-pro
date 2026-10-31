@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.120 | Números da COLMEIA certos desde a primeira abertura, busc... | 31/10/2026
+
+- **Melhoria**: Números da COLMEIA certos desde a primeira abertura, buscados pela internet.
+- **Melhoria**: Frases da linha ao vivo revisadas.
+
 ## Versão 4.5.119 | Linha ao vivo da COLMEIA sem cortes | 31/10/2026
 
 - **Melhoria**: Linha ao vivo da COLMEIA sem cortes.

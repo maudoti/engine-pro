@@ -322,9 +322,12 @@
       }
       var frases = (c.Recentes || []).filter(function (x) { return x && x.Texto; });
       if (!frases.length) frases = [{ Data: '', Texto: 'A IA com aprendizado em COLMEIA está sempre aprendendo' }];
-      var alvo = document.getElementById('vAgora'), i = 0;
+      var alvo = document.getElementById('vAgora'), ponto = caixa.querySelector('.agora i'), i = 0;
       function mostra() {
         var f = frases[i % frases.length];
+        var cores = { critico: '#FF5A4A', medio: '#FFB020', ok: '#3DDC5A', info: '#5AB4FF' };
+        ponto.style.background = cores[f.Nivel] || cores.info;
+        alvo.style.color = (f.Nivel === 'critico' || f.Nivel === 'medio') ? cores[f.Nivel] : '';
         alvo.innerHTML = f.Data ? '<small>' + quando(f.Data) + ' ·</small> ' : '';
         alvo.appendChild(document.createTextNode(f.Texto));
       }

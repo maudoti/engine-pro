@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.120",
+        "Data":  "2026-10-31 15:02",
+        "Notas":  "Números da COLMEIA certos desde a primeira abertura, buscados pela internet; frases da linha ao vivo revisadas",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.120/EnginePro_Setup_4.5.120.exe"
+    },
+    {
         "Versao":  "4.5.119",
         "Data":  "2026-10-31 13:19",
         "Notas":  "Linha ao vivo da COLMEIA sem cortes; textos das ações da IA ajustados",

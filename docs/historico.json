@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.120",
+        "Data":  "2026-10-31 15:02",
+        "Titulo":  "Números da COLMEIA certos desde a primeira abertura, busc...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Números da COLMEIA certos desde a primeira abertura, buscados pela internet."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Frases da linha ao vivo revisadas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.119",
         "Data":  "2026-10-31 13:19",
         "Titulo":  "Linha ao vivo da COLMEIA sem cortes",
