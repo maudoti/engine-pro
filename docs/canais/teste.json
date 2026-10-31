@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.103",
-    "Instalador":  "EnginePro_Setup_4.5.103.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.103/EnginePro_Setup_4.5.103.exe",
-    "SHA256":  "734A175694A625E3778C0E6AE69488BC5BDFF02F1B643E2554081FBBEA671152",
-    "Data":  "2026-10-31 03:25",
-    "Notas":  "Abertura: frase final por 3,5 segundos e a saudação aparece em seguida enquanto o programa carrega",
-    "Assinatura":  "GGNypbpHQK53xz9SHbWCrGNnT8iI5XHCC6qVBxg1V/SrYkDudl9q6WuPamyLD7gH7Zkh5DNYWZVE5UzIGU7rzjjtzZYaPa1UJFwUSmXxwcp3PCHMrQjZHkdVioHIlML9Ap3zp/HA1ACdhTTEt3GZ/GyytxVxicjG1btadTEmddnthXnkamSgxBs7qMnaxhA+XPviSwfrOTUnR3nv9TpGwEb06mf5AuWGI6laY8S7p3FPlSjckOwOGj/smDOVCiR7Kk3v6U3WCeZOXeCEvf/pEgOTFj0lF46Gw16uIHbRCQGu7tosqCj2/Bof4Wy2tcFtKdbE7rQ67z8IsFhVIDB5En1YGhhwaG/Kyof1N6uXnf3Gw5LUCEAYe9eunZra79aL+PDFpSsWs9Or6Hdwj5CO2re4YGqIylP2ezN+zOhB+5OlpsfZTCW0MHsk8Jbg8v/skzFY6oe+jAwAYdUBUeLUhXNm3UiCAlKCdMJnsAHDKU8V8D5a08BcIud4mhsX+buP"
+    "Versao":  "4.5.104",
+    "Instalador":  "EnginePro_Setup_4.5.104.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.104/EnginePro_Setup_4.5.104.exe",
+    "SHA256":  "A71773BB8F14715D5D17DBE88B12B3E257E51EF4C14492388FEA56BC76CD9AAF",
+    "Data":  "2026-10-31 03:28",
+    "Notas":  "Testes demorados (memória e disco) nunca ficam presos ao reinício da pessoa: durante o dia aparece o Corrigir, e a IA só os faz no reinício dela de madrugada",
+    "Assinatura":  "CMU4k7yQ1kq5zfANbBm1o9MMhasmEm/UrY/mwES8SSG9tEvKNW7DYvXcC4akE8PrisFojKhQWND5G9Aps1gT7Kq9W09aLGkRXjszMpQ1hpT0FnzHnwVYAcihrII+E/0PIlKSRO2sGjLE15jagxnl8whqe5bRck9RzCBL7/wbR798wRmXB5ngweO519i0OI0fiMWPAm+Q7Fucw6DGNyeswiT1volTo0I6IvGbq68e4fHFt6CVAdgkMNDu3Lc+sSfiHjSf8/kZLsk2WE6qb1njo0g8U63yTD/yoavGQaAoTH2c096N0LztWgg4suzFCxioi8iCYPhP1OsgT9UO8eODzr4bTBoie0w/qkWPRiB0IsjJCHiQo2wnsJypXmnFx9KcgSkBJ9F/axc2IFq/hhy0q/eTodNbysavJds83mLqRH+2HQfkvhSHCTs8s1fRFZFdMNDNyPeBkQM+vOL3gb6x1B7eTeKOTX7+m/y5tY8c9VNbZW2inBW1OAInp1TTRPzs"
 }

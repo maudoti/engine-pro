@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.104 | Testes demorados (memória e disco) nunca ficam presos ao ... | 31/10/2026
+
+- **Correção**: Testes demorados (memória e disco) nunca ficam presos ao reinício da pessoa: durante o dia aparece o Corrigir, e a IA só os faz no reinício dela de madrugada.
+
 ## Versão 4.5.103 | Abertura: frase final por 3,5 segundos e a saudação apare... | 31/10/2026
 
 - **Melhoria**: Abertura: frase final por 3,5 segundos e a saudação aparece em seguida enquanto o programa carrega.

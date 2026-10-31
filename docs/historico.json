@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.104",
+        "Data":  "2026-10-31 03:28",
+        "Titulo":  "Testes demorados (memória e disco) nunca ficam presos ao ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Testes demorados (memória e disco) nunca ficam presos ao reinício da pessoa: durante o dia aparece o Corrigir, e a IA só os faz no reinício dela de madrugada."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.103",
         "Data":  "2026-10-31 03:25",
         "Titulo":  "Abertura: frase final por 3,5 segundos e a saudação apare...",

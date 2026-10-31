@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.104",
+        "Data":  "2026-10-31 03:28",
+        "Notas":  "Testes demorados (memória e disco) nunca ficam presos ao reinício da pessoa: durante o dia aparece o Corrigir, e a IA só os faz no reinício dela de madrugada",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.104/EnginePro_Setup_4.5.104.exe"
+    },
+    {
         "Versao":  "4.5.103",
         "Data":  "2026-10-31 03:25",
         "Notas":  "Abertura: frase final por 3,5 segundos e a saudação aparece em seguida enquanto o programa carrega",
