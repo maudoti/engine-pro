@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.122",
+        "Data":  "2026-10-31 16:20",
+        "Notas":  "Diagnóstico da sincronização do OneDrive mais completo; Melhoria: ajustes internos de estabilidade",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.122/EnginePro_Setup_4.5.122.exe"
+    },
+    {
         "Versao":  "4.5.121",
         "Data":  "2026-10-31 15:47",
         "Notas":  "Números da COLMEIA no site atualizados a cada 10 minutos; Melhoria: ajustes internos de estabilidade",

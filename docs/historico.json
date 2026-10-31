@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.122",
+        "Data":  "2026-10-31 16:20",
+        "Titulo":  "Diagnóstico da sincronização do OneDrive mais completo",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Diagnóstico da sincronização do OneDrive mais completo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.121",
         "Data":  "2026-10-31 15:45",
         "Titulo":  "Números da COLMEIA no site atualizados a cada 10 minutos",
