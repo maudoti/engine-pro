@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.90",
-    "Instalador":  "EnginePro_Setup_4.5.90.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.90/EnginePro_Setup_4.5.90.exe",
-    "SHA256":  "38B3B226207D1009AC1C2E210D72680F52B416CF7E652B3C873B1D5620D3486C",
-    "Data":  "2026-10-30 23:53",
-    "Notas":  "Correção: nota de saúde Boa aparece em verde no Modo IA",
-    "Assinatura":  "v1iwR4cM5zqazvl0eGla7sNDwkyamgQ2WLIdR5yYJbkdvtyuIystyHj2nLiswPg/afETRflzpxUOh9u3p7RWCA4WxVBhjKf0PYu6yzfWiiccV0tNramX4eLvPbZgeNLaBKZlPWfYsPCL/KX8XpUPBSWdAlGjNCVcOFPaFK+SuaUazncQe4FI8OfgPXjvSEX6PuTPx8R+skgiWdTDUN3OLlBH2j/3m1HKK2YiqQn2qxgPFrNkTFvy7ugiGDO0OXSJReiI9eQXc2t6ZqGOY9avgayfYgWQspfYqqVThKeDgXP9o0ITiNJEbV0v/R1b62+MaGsr1yKTf090LfJtjnzk1KrxFaGtzzYENoUZ5GueTb3QKdhgYOZ4ycVC0ILZ7Nf3f2dEX3ESXYiIHcpvEMM5PE3XuGdBKVHqpJ3Y76BbVgjTHxjGvNJU3ffhOIKXI5HSaAyrllG+ln7eijzjTxYMBe5WBlicBqHhR/TN01jV/71WCfMWO84zYW2pwgDtUOIb"
+    "Versao":  "4.5.91",
+    "Instalador":  "EnginePro_Setup_4.5.91.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.91/EnginePro_Setup_4.5.91.exe",
+    "SHA256":  "01C3B7544320D97BDD76E0D44F2E7478BC94ECF3174122C58D2320CF71EB0C37",
+    "Data":  "2026-10-30 23:56",
+    "Notas":  "Melhoria: problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto",
+    "Assinatura":  "oY35uEuvqxKJ66ZNtZuCtq1WGjaGkvxXMzGS3dY2U3jZ/1eg/sLwWJIn1QVrIHDFZE1REiJxGql8+ldftMzOf9caa6eTSG0cD8696/dU3PnvHjqaGS2rZcXZLQlym+1X31+4M24cbB5SEj2ujT6J8AKxTrfAjFhw5jjAKOY2WggFuSUcdAAuqhyNxQKiT9wWPyvwI1ePBHJXhhAGnjFJAE++6zCGS4X7zCD6JJKqw6B8rMW2fnlbY2kraU6B7URmQCIIyjBzg57uCfyAenefggBXiDVzUamIUcwyh2yk/2A43Gob8KEtbA4LurJJvlywrUzxt8hi+WC5IvQZjOz64xfiIpnSssBCNaangR/voduXNOmnbXQd685qddbSbigXyEfHC9V/wk6uUoq034j2pFBrRYAj6Wj/58mXwaLN7al7tcZfZIi44wkOAcK3DJ5lgeOPfsHt3bumTJ4E8qmlxC/3zB+qRBkNKmaeAF0EJ5fo5Pyzbl+4O895b9qp1dHk"
 }

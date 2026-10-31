@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.91",
+        "Data":  "2026-10-30 23:56",
+        "Titulo":  "Problemas encontrados no Modo IA resumidos, com Ver mais ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.90",
         "Data":  "2026-10-30 23:53",
         "Titulo":  "Nota de saúde Boa aparece em verde no Modo IA",

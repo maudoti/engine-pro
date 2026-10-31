@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.91",
+        "Data":  "2026-10-30 23:56",
+        "Notas":  "Melhoria: problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.91/EnginePro_Setup_4.5.91.exe"
+    },
+    {
         "Versao":  "4.5.90",
         "Data":  "2026-10-30 23:53",
         "Notas":  "Correção: nota de saúde Boa aparece em verde no Modo IA",

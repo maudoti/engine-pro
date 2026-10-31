@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.91 | Problemas encontrados no Modo IA resumidos, com Ver mais ... | 30/10/2026
+
+- **Melhoria**: Problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto.
+
 ## Versão 4.5.90 | Nota de saúde Boa aparece em verde no Modo IA | 30/10/2026
 
 - **Correção**: Nota de saúde Boa aparece em verde no Modo IA.
