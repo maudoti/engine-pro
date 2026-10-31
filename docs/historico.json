@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.114",
+        "Data":  "2026-10-31 12:15",
+        "Titulo":  "Tela inicial mais compacta",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela inicial mais compacta."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA ao vivo com pesquisa em várias línguas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ativação com aviso para falar com o TI e abertura completa logo após ativar."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.113",
         "Data":  "2026-10-31 11:50",
         "Titulo":  "Cartão do Aprendizado em COLMEIA na tela inicial e no Mod...",

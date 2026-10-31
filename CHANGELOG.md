@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.114 | Tela inicial mais compacta | 31/10/2026
+
+- **Melhoria**: Tela inicial mais compacta.
+- **Melhoria**: COLMEIA ao vivo com pesquisa em várias línguas.
+- **Melhoria**: Ativação com aviso para falar com o TI e abertura completa logo após ativar.
+
 ## Versão 4.5.113 | Cartão do Aprendizado em COLMEIA na tela inicial e no Mod... | 31/10/2026
 
 - **Novo**: Cartão do Aprendizado em COLMEIA na tela inicial e no Modo IA, com os aprendizados da base e as pesquisas da IA.

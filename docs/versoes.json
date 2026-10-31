@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.114",
+        "Data":  "2026-10-31 12:15",
+        "Notas":  "Tela inicial mais compacta; COLMEIA ao vivo com pesquisa em várias línguas; ativação com aviso para falar com o TI e abertura completa logo após ativar",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.114/EnginePro_Setup_4.5.114.exe"
+    },
+    {
         "Versao":  "4.5.113",
         "Data":  "2026-10-31 12:01",
         "Notas":  "Novo: cartão do Aprendizado em COLMEIA na tela inicial e no Modo IA, com os aprendizados da base e as pesquisas da IA",
