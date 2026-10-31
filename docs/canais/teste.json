@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.93",
-    "Instalador":  "EnginePro_Setup_4.5.93.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.93/EnginePro_Setup_4.5.93.exe",
-    "SHA256":  "93289757DF34C6A4A2B0D92C74B9DA00FDB0062CD23BADA96C0927553950DAA1",
-    "Data":  "2026-10-31 00:11",
-    "Notas":  "Correção: eventos de programas que fecham ou travam mostram o nome do programa, o que falhou e a correção certa",
-    "Assinatura":  "JLeR9HseY4yqdFVz/cDN0h8WbPRmlj8QD9KwQiYKmHRMnfvWT72t7vMHM5EWrs+El87GtVtptpXukLSNHUvhzQ8KNXDGcyUyWGnNBZS5ZcQhn2z5FV8IkrHn3HYRiJZsGve6YfXJ4PNerCmLgKi9/lUlvJpPqj2b43tWPkCIM0AHRKe8TBNX65jVw0CWL3OZxsA1xyDYXDaR5/B16o6dFJjuJzhQY40hDGEs8XYaV0GRggUxh+HzaV2cyLnEdPE9c2RIvKQtkWOpAjQzmCKEPSosVSNOpPpIxfPXhw2CKSDCo9N8/x8xE63APwyLRbLIIP0b73Tq8gzbhU1fKv6B2QxcGMJPzNzoLuAF/ZSiJI9/PuVPMHSCmKlhc2xsrH/eRmgua/BdTbkeGHpbE8Mcvt0Ps2Q3GcLU9oPzHeHIlLlKWAJhdO2iq/Bo0p9DHcGH/8O4tuFkwCFwq56eFtfcGKMA42Ov4qJit1icvUi+2/Ok1Agtx/B9tvZjdscIfRn9"
+    "Versao":  "4.5.94",
+    "Instalador":  "EnginePro_Setup_4.5.94.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.94/EnginePro_Setup_4.5.94.exe",
+    "SHA256":  "DA880F5297436EA521040DC9E88F746365462DB4452FD9A623B7DEE51AD17CA1",
+    "Data":  "2026-10-31 00:16",
+    "Notas":  "Correção: eventos de programas que fecham mostram quem derrubou o programa",
+    "Assinatura":  "ZrgrQQsy56k6gK74h76DtrkB/Svr/avh5e5LbMONIWPMZKh+IuaA6xrEf9xYuepec5Q0gevcfDL1GVYcAvhClt67xOCFnwDYQJWJGSCWW6CVqfajabWDQwXMEYGB7+M4Q0VnjwsIcqC+Rirq9B7gSccL8IaEyhjzHnZ/gysB+j6c6YB1WTIBUu0bWhFjLTUXd+B+eem92Xiy1kjdyMfjdM+UhDhMF9V0HhQtCIXovnWtDYoArcbyu1CAm0qoQU6Y8gzgY3tbQJ0R9n9qEAlcY72K+T/hM/dZugIvNdspeKaN6GYX6jy/TkQ/R0ebpZwRRvT2xAMz+uG7FIxgAM9233Pj6Xf2K3z+F2F4pzlnGRi24zbX/7wWVJwMm3/lEpEP5+hQhJ3XFQGhuGV6q5lIDCX9MGof+VOQr4Jr2oldiGdUtvDVMTbY0fLWWWGCXVb3ts2UFKd/dlI4pqbb2ZQ8RR9epmHgcoYO6Ad8BqpgAfh1SOGppjjBPp8jwnJdI7da"
 }

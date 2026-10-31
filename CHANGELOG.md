@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.94 | Eventos de programas que fecham mostram quem derrubou o p... | 31/10/2026
+
+- **Correção**: Eventos de programas que fecham mostram quem derrubou o programa.
+
 ## Versão 4.5.93 | Eventos de programas que fecham ou travam mostram o nome ... | 31/10/2026
 
 - **Correção**: Eventos de programas que fecham ou travam mostram o nome do programa, o que falhou e a correção certa.
