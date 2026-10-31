@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.100",
-    "Instalador":  "EnginePro_Setup_4.5.100.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.100/EnginePro_Setup_4.5.100.exe",
-    "SHA256":  "4706C97DFBD427E4F6A3AC69D5DA1C6475134DCAF384409255C9CA9FA9776570",
-    "Data":  "2026-10-31 02:57",
-    "Notas":  "Selos da IA: correções agendadas não são anunciadas antes; azul enquanto corrige e verde quando corrigiu",
-    "Assinatura":  "MRd0JEHGNRTILA2SQjQit1GpTVRX6Pltc5m5EKuH2CJ4wrjYVPJSWvS60eH3DtQbGFSz3k+ertCPpmqn5XwfmTsjJU0Fhv7TVnSkYK4h86lUIMw89LU1y+cKeXT5xM/ZQhrBXTOxiZSTpm0P308p5vzRrW7pf1IyfspmUzLQQlGDcPQQz895hIugVRlnlG/qM9+sz1K+PFHE44jdHffE3n9LgLXLfBLHSDa7opySgHNRIENDlOagHgoDdTTohcIaD0Uipsb1KmIvVu5k1j7zSwXqWUTpAQ1XpfezISxuXCueTiU21rEy7N0GZ4kBIEKkLPOOB6c1zdJIyfyoyTZggF5JkNViqqJ3sB6/k0MhYo1EXe95NFIFr5I2Mhk0PMWWDetmnLGImASwxHGWlGsrPqhLp7IbvI/oFX5y96hPd8AwSf7HqMoxN29kOaGPMwqGxenoxWwOxU17sll1PrRHcubTo0ydyj7QvIY9U1wdEIJHUy4O0oyKSwsgt5nLT+xR"
+    "Versao":  "4.5.101",
+    "Instalador":  "EnginePro_Setup_4.5.101.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.101/EnginePro_Setup_4.5.101.exe",
+    "SHA256":  "E44405023677560D5FC64B05C31EAEF6D356FF391EBE3451CDB6A0F7DE2903A5",
+    "Data":  "2026-10-31 03:07",
+    "Notas":  "Espaço em disco: barra azul quando o espaço está bom; as ações de cada item foram para Limpeza e otimização",
+    "Assinatura":  "S8m5FAjln5dYXXsCE9HgT0eNH1YTcVa4NQoNld4AOkASc8F4UgNDnrtRPpvTkwWq2Mt+tRvk5wB3ZML8x5dHA6nOAUkaVXrSpl+BfdMYJiFmgaqk/Qw/7G3ZZQARpszfMXgjV/sDYgHMRLfuMM50y1a+M5BMXLz3RYSeDQNCILttunij5dRXC69lMpdlLW7zcv9soY4aQhRqw5dkc4r9zUO3Q+wLR8jwK0x2YsGbOPJCH2SQ4nEjlpvXf9BNj1SiyYcO2Mc2FfmyNGVlF2jGdL8BayNUS9WM+wyCSk6cUejd4+457m4OKJPIWrlUQaLI8UdOR9VaP5lwuI3BvyboS0unAWNBMd7vy9NCDIqnYRvmRd49BDlEik401UhC7Fo1cUIXXiXdryL2z0My3FG1oBiTxoLq3T9EmdqS9fHRKnjfWgMpkB0H6noWVl6mz42jJSBXmveALM+v1g8RBFNjZ8dNnbNbBwZ45CBHc36d6T6hwSIdLu3oYvHxeJ91T6jX"
 }

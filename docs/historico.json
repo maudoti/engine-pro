@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.101",
+        "Data":  "2026-10-31 03:07",
+        "Titulo":  "Espaço em disco: barra azul quando o espaço está bom",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Espaço em disco: barra azul quando o espaço está bom."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "As ações de cada item foram para Limpeza e otimização."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.100",
         "Data":  "2026-10-31 02:57",
         "Titulo":  "Selos da IA: correções agendadas não são anunciadas antes",

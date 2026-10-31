@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.101 | Espaço em disco: barra azul quando o espaço está bom | 31/10/2026
+
+- **Melhoria**: Espaço em disco: barra azul quando o espaço está bom.
+- **Melhoria**: As ações de cada item foram para Limpeza e otimização.
+
 ## Versão 4.5.100 | Selos da IA: correções agendadas não são anunciadas antes | 31/10/2026
 
 - **Melhoria**: Selos da IA: correções agendadas não são anunciadas antes.

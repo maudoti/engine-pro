@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.101",
+        "Data":  "2026-10-31 03:07",
+        "Notas":  "Espaço em disco: barra azul quando o espaço está bom; as ações de cada item foram para Limpeza e otimização",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.101/EnginePro_Setup_4.5.101.exe"
+    },
+    {
         "Versao":  "4.5.100",
         "Data":  "2026-10-31 02:57",
         "Notas":  "Selos da IA: correções agendadas não são anunciadas antes; azul enquanto corrige e verde quando corrigiu",
