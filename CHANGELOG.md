@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.121 | Números da COLMEIA no site atualizados a cada 10 minutos | 31/10/2026
+
+- **Melhoria**: Números da COLMEIA no site atualizados a cada 10 minutos.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.120 | Números da COLMEIA certos desde a primeira abertura, busc... | 31/10/2026
 
 - **Melhoria**: Números da COLMEIA certos desde a primeira abertura, buscados pela internet.

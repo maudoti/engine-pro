@@ -313,7 +313,21 @@
         if (quieto) { el.textContent = fmt.format(n); return; }
         setTimeout(function () { var ini = null; function passo(a) { if (!ini) ini = a; var p = Math.min(1, (a - ini) / 1400); el.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); } requestAnimationFrame(passo); }, atraso);
       }
-      conta('vConh', c.Conhecimentos, 200); conta('vN48', c.N48, 350); conta('vTotal', Math.max(+c.Pesquisas || 0, +c.N48 || 0), 500);
+      var mostrado = {};
+      function conta2(id, n, atraso) {
+        var el = document.getElementById(id), de = mostrado[id] || 0; n = +n || 0; mostrado[id] = n;
+        if (quieto || de === n) { el.textContent = fmt.format(n); return; }
+        setTimeout(function () { var ini = null; function passo(a) { if (!ini) ini = a; var p = Math.min(1, (a - ini) / 1400); el.textContent = fmt.format(Math.round(de + (n - de) * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); } requestAnimationFrame(passo); }, atraso);
+      }
+      function numeros(c) { conta2('vConh', c.Conhecimentos, 200); conta2('vN48', c.N48, 350); conta2('vTotal', Math.max(+c.Pesquisas || 0, +c.N48 || 0), 500); }
+      numeros(c);
+      // ao vivo: busca de novo a cada 2 minutos, sem recarregar a página
+      setInterval(function () {
+        fetch('colmeia.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (n) {
+          if (!n) return; numeros(n);
+          var nf = (n.Recentes || []).filter(function (x) { return x && x.Texto; }); if (nf.length) { frases = nf; }
+        }).catch(function () { });
+      }, 120000);
       function quando(d) {
         if (!d) return 'agora';
         var t = new Date(d.replace(' ', 'T')), m = Math.round((Date.now() - t.getTime()) / 60000);

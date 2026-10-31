@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.121",
+        "Data":  "2026-10-31 15:45",
+        "Titulo":  "Números da COLMEIA no site atualizados a cada 10 minutos",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Números da COLMEIA no site atualizados a cada 10 minutos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.120",
         "Data":  "2026-10-31 15:02",
         "Titulo":  "Números da COLMEIA certos desde a primeira abertura, busc...",

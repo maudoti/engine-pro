@@ -1,27 +1,27 @@
 {
     "Resolvidos":  1,
     "Conhecimentos":  446,
-    "Pesquisas":  40,
-    "N48":  40,
+    "Pesquisas":  53,
+    "N48":  53,
     "Recentes":  [
+                     {
+                         "Data":  "2026-10-31 15:16:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-10-31 14:14:44",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 53 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-10-31 13:19",
                          "Texto":  "Nova versão 4.5.119 publicada: Linha ao vivo da COLMEIA sem cortes",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 40 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-10-31 13:13:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
@@ -70,12 +70,12 @@
                   0,
                   0,
                   0,
-                  0,
                   14,
                   14,
-                  12
+                  12,
+                  13
               ],
-    "Ultima":  "2026-10-31 14:14:44",
-    "Gerado":  "2026-10-31 15:07:05",
-    "Data":  "2026-10-31 15:07"
+    "Ultima":  "2026-10-31 15:16:07",
+    "Gerado":  "2026-10-31 15:45:28",
+    "Data":  "2026-10-31 15:45"
 }
