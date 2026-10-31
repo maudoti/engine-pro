@@ -120,7 +120,8 @@
   .ato2 .frase em { font-style: normal; color: var(--marca); }
   .ato2 .frase span, .ato2 .frase em, .ato2 .contador .junto { white-space: nowrap; }
   .ato2 .traco { width: 56px; height: 3px; border-radius: 2px; background: var(--marca); margin: 14px auto; }
-  .ato2 .contador { font-size: 15px; opacity: .92; min-height: 30px; }
+  .ato2 .contador { font-size: 15px; opacity: .92; min-height: 30px; line-height: 1.6; }
+  .ato1 .quem { font-size: 12.5px; font-weight: 600; letter-spacing: 2.5px; text-transform: uppercase; color: var(--marca); opacity: .9; margin-bottom: 10px; }
   .ato2 .contador b { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: 24px; font-variant-numeric: tabular-nums; margin-right: 4px; }
   .ato2 .contador strong { color: var(--marca); font-size: 16px; letter-spacing: .5px; }
   /* ciclo de 18 s, igual à abertura do programa: 0,2 s "Ela observa, aprende e resolve."; 2 s depois, "Sozinha."
@@ -141,13 +142,13 @@
     <img src="icone.png" alt="Ícone do Engine Pro">
     <h1>Engine Pro</h1>
     <p class="slogan">Seu PC Mais Inteligente</p>
-    <div class="placa" role="img" aria-label="Ela observa, aprende e resolve. Sozinha. Aprende em um. Resolve em todos.">
+    <div class="placa" role="img" aria-label="A inteligência artificial do Engine Pro. Ela observa, aprende e resolve. Sozinha. Aprende em um. Resolve em todos.">
       <canvas id="favos" aria-hidden="true"></canvas>
-      <div class="ato ato1" aria-hidden="true"><div class="a">Ela observa, aprende e resolve.</div><div class="b">Sozinha.</div></div>
+      <div class="ato ato1" aria-hidden="true"><div class="a"><div class="quem">A inteligência artificial do Engine Pro</div>Ela observa, aprende e resolve.</div><div class="b">Sozinha.</div></div>
       <div class="ato ato2">
         <div class="frase"><span>Aprende em um.</span> <em>Resolve em todos.</em></div>
         <div class="traco"></div>
-        <div class="contador" id="contador"><span class="junto">Aprendizado em <strong>COLMEIA</strong></span></div>
+        <div class="contador" id="contador"><span class="junto">Aprendizado em <strong>COLMEIA</strong></span>, sempre aumentando</div>
       </div>
     </div>
   </header>
@@ -209,6 +210,19 @@
   <footer>Desenvolvido por Mau do TI</footer>
 
 <script>
+  // Contador privado: visitas e cliques em "Baixar o instalador". Nada disso aparece na página; só o TI vê, com
+  // .\Publicar.ps1 -Estatisticas (que também soma os downloads reais do instalador, contados pelo próprio GitHub).
+  // Sem cookies e sem dados de quem visita: só o número.
+  (function () {
+    var base = 'https://abacus.jasoncameron.dev/hit/enginepro-ryazbek-site/';
+    function contar(chave) { try { fetch(base + chave, { mode: 'cors', cache: 'no-store' }).catch(function () { }); } catch (e) { } }
+    var nova = true; try { nova = !sessionStorage.getItem('ep_visita'); sessionStorage.setItem('ep_visita', '1'); } catch (e) { }
+    if (nova) contar('visitas');
+    var b = document.getElementById('baixar');
+    if (b) b.addEventListener('click', function () { if (b.getAttribute('aria-disabled') !== 'true') contar('cliques-baixar'); });
+  })();
+</script>
+<script>
   // Placa da Colmeia: favos que acendem e se ligam, e o contador vindo de colmeia.json (só totais, sem dados de ninguém)
   (function () {
     var cv = document.getElementById('favos'); if (!cv || !cv.getContext) return;
@@ -256,10 +270,11 @@
       if (!c) return;
       var res = +c.Resolvidos || 0, conh = +c.Conhecimentos || 0;
       var n = res >= 10 ? res : conh; if (!n) return;
-      var rotulo = res >= 10 ? 'problemas resolvidos pelo Aprendizado em' : 'conhecimentos reunidos no Aprendizado em';
+      // o número não é fixo: "já reunidos até aqui ... e sempre aumentando"
+      var rotulo = res >= 10 ? 'problemas já resolvidos até aqui' : 'conhecimentos já reunidos até aqui';
+      var rotulo2 = res >= 10 ? 'pelo Aprendizado em' : 'no Aprendizado em';
       var el = document.getElementById('contador');
-      var ult = rotulo.lastIndexOf(' ');
-      el.innerHTML = '<b>0</b> ' + rotulo.slice(0, ult) + ' <span class="junto">' + rotulo.slice(ult + 1) + ' <strong>COLMEIA</strong></span>';
+      el.innerHTML = '<b>0</b> ' + rotulo + '<br>' + rotulo2 + ' <span class="junto"><strong>COLMEIA</strong> e sempre aumentando</span>';
       var b = el.querySelector('b'), fmt = new Intl.NumberFormat('pt-BR'), ini = null, atraso = Math.max(0, 5700 - (performance.now() - t0));
       setTimeout(function () {
         function passo(agora) { if (!ini) ini = agora; var p = Math.min(1, (agora - ini) / 1100); b.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); }

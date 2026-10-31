@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.105",
+        "Data":  "2026-10-31 03:54",
+        "Titulo":  "Correções automáticas mais discretas (no máximo 2 pesadas...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Correções automáticas mais discretas (no máximo 2 pesadas por dia, só com a pessoa longe há 30 minutos, em prioridade baixa)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Logs recentes do Windows e do OneDrive sempre preservados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.104",
         "Data":  "2026-10-31 03:28",
         "Titulo":  "Testes demorados (memória e disco) nunca ficam presos ao ...",

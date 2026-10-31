@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.105",
+        "Data":  "2026-10-31 03:54",
+        "Notas":  "Correções automáticas mais discretas (no máximo 2 pesadas por dia, só com a pessoa longe há 30 minutos, em prioridade baixa); logs recentes do Windows e do OneDrive sempre preservados",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.105/EnginePro_Setup_4.5.105.exe"
+    },
+    {
         "Versao":  "4.5.104",
         "Data":  "2026-10-31 03:28",
         "Notas":  "Testes demorados (memória e disco) nunca ficam presos ao reinício da pessoa: durante o dia aparece o Corrigir, e a IA só os faz no reinício dela de madrugada",
