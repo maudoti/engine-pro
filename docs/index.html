@@ -313,7 +313,7 @@
         if (quieto) { el.textContent = fmt.format(n); return; }
         setTimeout(function () { var ini = null; function passo(a) { if (!ini) ini = a; var p = Math.min(1, (a - ini) / 1400); el.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); } requestAnimationFrame(passo); }, atraso);
       }
-      conta('vConh', c.Conhecimentos, 200); conta('vN48', c.N48, 350); conta('vTotal', c.Pesquisas, 500);
+      conta('vConh', c.Conhecimentos, 200); conta('vN48', c.N48, 350); conta('vTotal', Math.max(+c.Pesquisas || 0, +c.N48 || 0), 500);
       function quando(d) {
         if (!d) return 'agora';
         var t = new Date(d.replace(' ', 'T')), m = Math.round((Date.now() - t.getTime()) / 60000);

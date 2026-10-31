@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.116 | Contador de pesquisas corrigido no site | 31/10/2026
+
+- **Correção**: Contador de pesquisas corrigido no site.
+- **Melhoria**: Frases da COLMEIA ao vivo mais simples.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.115 | Números da COLMEIA iguais na abertura, no programa e no site | 31/10/2026
 
 - **Melhoria**: Números da COLMEIA iguais na abertura, no programa e no site.

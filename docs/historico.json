@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.116",
+        "Data":  "2026-10-31 12:40",
+        "Titulo":  "Contador de pesquisas corrigido no site",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Contador de pesquisas corrigido no site."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Frases da COLMEIA ao vivo mais simples."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.115",
         "Data":  "2026-10-31 12:26",
         "Titulo":  "Números da COLMEIA iguais na abertura, no programa e no site",
