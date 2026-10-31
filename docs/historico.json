@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.113",
+        "Data":  "2026-10-31 11:50",
+        "Titulo":  "Cartão do Aprendizado em COLMEIA na tela inicial e no Mod...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Cartão do Aprendizado em COLMEIA na tela inicial e no Modo IA, com os aprendizados da base e as pesquisas da IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.112",
         "Data":  "2026-10-31 11:42",
         "Titulo":  "A IA estuda continuamente na internet e o Modo IA mostra ...",

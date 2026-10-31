@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.113 | Cartão do Aprendizado em COLMEIA na tela inicial e no Mod... | 31/10/2026
+
+- **Novo**: Cartão do Aprendizado em COLMEIA na tela inicial e no Modo IA, com os aprendizados da base e as pesquisas da IA.
+
 ## Versão 4.5.112 | A IA estuda continuamente na internet e o Modo IA mostra ... | 31/10/2026
 
 - **Melhoria**: A IA estuda continuamente na internet e o Modo IA mostra o total de pesquisas.
