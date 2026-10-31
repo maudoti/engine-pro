@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.85 | Remover e reinstalar driver conferem o resultado certo e ... | 30/10/2026
+
+- **Correção**: Remover e reinstalar driver conferem o resultado certo e mostram a saída do Windows com acentos.
+
 ## Versão 4.5.84 | Janela de drivers sem assinatura abre rápido, com a busca... | 30/10/2026
 
 - **Correção**: Janela de drivers sem assinatura abre rápido, com a busca do programa dono limitada a poucos segundos.

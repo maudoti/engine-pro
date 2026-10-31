@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.85",
+        "Data":  "2026-10-30 22:49",
+        "Titulo":  "Remover e reinstalar driver conferem o resultado certo e ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Remover e reinstalar driver conferem o resultado certo e mostram a saída do Windows com acentos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.84",
         "Data":  "2026-10-30 22:44",
         "Titulo":  "Janela de drivers sem assinatura abre rápido, com a busca...",

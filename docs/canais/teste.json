@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.84",
-    "Instalador":  "EnginePro_Setup_4.5.84.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.84/EnginePro_Setup_4.5.84.exe",
-    "SHA256":  "ABCCACDBA4B8D7FFA1C3810688DB138DC6A6B785446474796C6CFD2EFCDF6AD3",
-    "Data":  "2026-10-30 22:44",
-    "Notas":  "Correção: janela de drivers sem assinatura abre rápido, com a busca do programa dono limitada a poucos segundos",
-    "Assinatura":  "XTQEI+rrG1aK1XxBDYFC2FLGrVU+IazNWoydpSMQsx7KBtXn1iI4s2uTFAviga91eNYmIBqyzoERvvlLAXcrN2YSTixpICqsdJrX4I3JRT0pU+VGXAPC53ODfRHmwWk4ri4QtQO7keiWPOxQJomlmfFg6jcsc5D9K8Q0DEQ1X3ubadbRGnlr+x7MZBX7zAr8JXKsHZUyjic5NS3a9YdAGm3Rl9pfIzpB699VjaFwbBGugEIPS31LKumRmvC67ODbYScwe5VxkieRRMx7i8vDPwDtXlFCKdKiBUt8G768iG7x0OxiDucb4NBGxgjM3IjDfVc3sQ8UVwCUwNWC8cHdwBmveSn7umXLKHws3416RgbHBT7WGdZZNI3jtrjRJv4/8XNtggG3Q6XA/VTZ7kwWpoMmx04iYHgKBK2maAIQ1kMsJPwXMx4cEO4CIaQqv84/OOeN9phWto+0YXwGw+JBh2g2Kn7PrugrleNM7prpHh3yo8NYZtLPRBHvbjO76d75"
+    "Versao":  "4.5.85",
+    "Instalador":  "EnginePro_Setup_4.5.85.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.85/EnginePro_Setup_4.5.85.exe",
+    "SHA256":  "558AD30477C7835502E3A3C10CE20761A2AF720959C4860FC3EC77B89ABD6CD0",
+    "Data":  "2026-10-30 22:49",
+    "Notas":  "Correção: remover e reinstalar driver conferem o resultado certo e mostram a saída do Windows com acentos",
+    "Assinatura":  "iLD08XnI8NinZh7+23XKkYogmukm4e5I0NcdhK1bDJ7dFnpqe8GNb+YF93zHF/WBosh655G4TuMvjcaTvdXanGyiY/vF/7jJRNyHo+wlxpJCbrpCOlyUaomBgbjROyX8hIdMRrPVqcUrIeg0lxMDJeq3hYEWJ/r7j4QbeHwnNOITEZO530OrY0wx8SutIsb6tD2csJozNSKjDP4n6P6tpShfLAKzdJBEMIt1g4dSBr8UI4agskVgNvQ9TnJQ41q7k13Y7YgYrWNZ2JptGPIDQIvholQZTJ+64u/Swm2N6oQbY0NbAY8wCypvrnTZogUXAinjF+/h0by9cfkqlv+Q1YymcnkdRg8zYQ8DFVx8iuiaGqYZM14PH+xf6TPsuZtxk4jyHA6sKDbXs75RrBe0pCjamOBk6PMP3PTHz6iiByO2LSd+XPKX+3SpZOFZ1ptXMUa9mbRr7b7BH/zXqrSsHbslPrMfiAgwSDfuAaTLVxxSZMAkQm7Hf8lfSiT0EDAN"
 }
