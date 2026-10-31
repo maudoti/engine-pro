@@ -1,7 +1,7 @@
 [
     {
         "Versao":  "4.5.122",
-        "Data":  "2026-10-31 16:29",
+        "Data":  "2026-10-31 16:42",
         "Notas":  "Diagnóstico da sincronização do OneDrive mais completo; Melhoria: ajustes internos de estabilidade",
         "Canal":  "estavel",
         "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.122/EnginePro_Setup_4.5.122.exe"
