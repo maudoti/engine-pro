@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.96",
+        "Data":  "2026-10-31 01:25",
+        "Titulo":  "Base de conhecimento ampliada: 149 casos de OneDrive, Sha...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Base de conhecimento ampliada: 149 casos de OneDrive, SharePoint, lentidão, CPU, memória, disco, Office, AutoCAD, Revit, Adobe, impressoras e rede."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "204 códigos de erro explicados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.95",
         "Data":  "2026-10-31 00:48",
         "Titulo":  "Testes automáticos antes de cada versão e no GitHub",

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.96 | Base de conhecimento ampliada: 149 casos de OneDrive, Sha... | 31/10/2026
+
+- **Melhoria**: Base de conhecimento ampliada: 149 casos de OneDrive, SharePoint, lentidão, CPU, memória, disco, Office, AutoCAD, Revit, Adobe, impressoras e rede.
+- **Correção**: 204 códigos de erro explicados.
+
 ## Versão 4.5.95 | Testes automáticos antes de cada versão e no GitHub | 31/10/2026
 
 - **Novo**: Testes automáticos antes de cada versão e no GitHub.
