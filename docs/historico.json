@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.98",
+        "Data":  "2026-10-31 02:34",
+        "Titulo":  "Aprendizado em COLMEIA: animação em toda abertura e em ci...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aprendizado em COLMEIA: animação em toda abertura e em ciclo no site."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Janela antiga reabre sozinha na versão nova."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instalador com o tema da empresa em todas as telas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Pergunta do clima depois da abertura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.97",
         "Data":  "2026-10-31 02:14",
         "Titulo":  "Nova abertura e site com a placa da Colmeia: Ela observa,...",

@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.98 | Aprendizado em COLMEIA: animação em toda abertura e em ci... | 31/10/2026
+
+- **Melhoria**: Aprendizado em COLMEIA: animação em toda abertura e em ciclo no site.
+- **Melhoria**: Janela antiga reabre sozinha na versão nova.
+- **Melhoria**: Instalador com o tema da empresa em todas as telas.
+- **Melhoria**: Pergunta do clima depois da abertura.
+
 ## Versão 4.5.97 | Nova abertura e site com a placa da Colmeia: Ela observa,... | 31/10/2026
 
 - **Novo**: Nova abertura e site com a placa da Colmeia: Ela observa, aprende e resolve. Sozinha. Aprende em um. Resolve em todos.

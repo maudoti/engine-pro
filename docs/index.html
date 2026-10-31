@@ -31,11 +31,11 @@
     padding: 72px 24px 120px; text-align: center;
   }
   /* Y vermelho como marca d'água, centralizado atrás do ícone e do título, e um traço vermelho sob o slogan */
-  .topo::before { content: ""; position: absolute; left: 50%; top: 50%; width: 316px; height: 340px; transform: translate(-50%, -55%); background: var(--marca); opacity: .12;
+  .topo::before { content: ""; position: absolute; left: 50%; top: 34px; width: 236px; height: 254px; transform: translateX(-50%); background: var(--marca); opacity: .12;
     clip-path: polygon(0 0, 30% 0, 50% 36%, 70% 0, 100% 0, 64% 58%, 64% 100%, 36% 100%, 36% 58%); pointer-events: none; }
   .topo::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 5px; background: linear-gradient(90deg, transparent, var(--marca) 30%, var(--marca) 70%, transparent); }
   .topo p.slogan::after { content: ""; display: block; width: 56px; height: 4px; border-radius: 2px; background: var(--marca); margin: 16px auto 0; }
-  @media (max-width: 760px) { .topo::before { width: 230px; height: 248px; } }
+  @media (max-width: 760px) { .topo::before { width: 200px; height: 215px; top: 44px; } }
   .topo img { width: 112px; height: 112px; position: relative; filter: drop-shadow(0 10px 24px rgba(0,0,0,.25)); }
   .topo h1 { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(34px, 6vw, 52px); font-weight: 600; margin-top: 18px; position: relative; letter-spacing: -.5px; }
   .topo p.slogan { font-size: 19px; opacity: .92; position: relative; }
@@ -112,21 +112,21 @@
   .placa canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
   .placa::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse 65% 80% at 50% 50%, rgba(12,12,14,.82) 25%, rgba(12,12,14,0) 100%); }
   .ato { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 20px; z-index: 1; }
-  .ato1 .a { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(20px, 4vw, 28px); opacity: 0; animation: surgir .55s ease-out .2s forwards; }
+  .ato1 .a { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(20px, 4vw, 28px); opacity: 0; animation: ciclo-a 12s ease-out infinite; }
   .ato1 .b { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(34px, 7vw, 48px); font-weight: 700; color: var(--marca); opacity: 0; transform: scale(1.35);
-    animation: crescer .5s cubic-bezier(.2,.8,.2,1) .8s forwards; }
-  .ato1 { animation: sumir .35s ease-in 1.9s forwards; }
-  .ato2 { opacity: 0; animation: surgir .5s ease-out 2.15s forwards; }
+    animation: ciclo-b 12s cubic-bezier(.2,.8,.2,1) infinite; }
+  .ato2 { opacity: 0; animation: ciclo-2 12s ease-out infinite; }
   .ato2 .frase { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: clamp(24px, 5vw, 36px); font-weight: 600; letter-spacing: -.3px; }
   .ato2 .frase em { font-style: normal; color: var(--marca); }
   .ato2 .frase span, .ato2 .frase em, .ato2 .contador .junto { white-space: nowrap; }
   .ato2 .traco { width: 56px; height: 3px; border-radius: 2px; background: var(--marca); margin: 14px auto; }
   .ato2 .contador { font-size: 15px; opacity: .92; min-height: 30px; }
   .ato2 .contador b { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: 24px; font-variant-numeric: tabular-nums; margin-right: 4px; }
-  .ato2 .contador strong { color: var(--marca); font-size: 17px; }
-  @keyframes surgir { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
-  @keyframes crescer { to { opacity: 1; transform: scale(1); } }
-  @keyframes sumir { to { opacity: 0; visibility: hidden; } }
+  .ato2 .contador strong { color: var(--marca); font-size: 16px; letter-spacing: .5px; }
+  /* 12 s: 0 a 2,1 s "Ela observa, aprende e resolve. Sozinha."; 2,1 a 11,5 s "Aprende em um. Resolve em todos." */
+  @keyframes ciclo-a { 0%, 1.5% { opacity: 0; transform: translateY(6px); } 6% { opacity: 1; transform: none; } 15% { opacity: 1; } 18%, 100% { opacity: 0; } }
+  @keyframes ciclo-b { 0%, 6.5% { opacity: 0; transform: scale(1.35); } 10.5% { opacity: 1; transform: scale(1); } 15% { opacity: 1; transform: scale(1); } 18%, 100% { opacity: 0; transform: scale(1); } }
+  @keyframes ciclo-2 { 0%, 17.5% { opacity: 0; transform: translateY(6px); } 22% { opacity: 1; transform: none; } 95% { opacity: 1; } 100% { opacity: 0; } }
   @media (prefers-reduced-motion: reduce) { .ato1 { display: none; } .ato2 { animation: none; opacity: 1; } }
   @media (max-width: 560px) { .placa { height: 240px; } }
 </style>
@@ -142,7 +142,7 @@
       <div class="ato ato2">
         <div class="frase"><span>Aprende em um.</span> <em>Resolve em todos.</em></div>
         <div class="traco"></div>
-        <div class="contador" id="contador">A <strong>Colmeia</strong> aprende com cada computador.</div>
+        <div class="contador" id="contador"><span class="junto">Aprendizado em <strong>COLMEIA</strong></span></div>
       </div>
     </div>
   </header>
@@ -159,7 +159,7 @@
 
     <h3>O que ele faz</h3>
     <div class="cartao destaque-ia">
-      <div class="ia-cab"><div class="ic">ϟ</div><div><b>IA embutida que aprende em colmeia</b><span>Cada computador ensina e aprende com todos os outros, e a inteligência cresce para a empresa inteira.</span></div></div>
+      <div class="ia-cab"><div class="ic">ϟ</div><div><b>IA embutida com Aprendizado em COLMEIA</b><span>Cada computador ensina e aprende com todos os outros, e a inteligência cresce para a empresa inteira.</span></div></div>
       <div class="ia-itens">
         <div><b>Entende o problema</b><span>Cruza eventos do Windows, telas azuis, travamentos, sensores e o que mudou no computador para achar a causa, não só o sintoma.</span></div>
         <div><b>Resolve com autorização</b><span>Explica o plano, pede um OK e executa os reparos do Engine Pro, conferindo depois se resolveu. Nunca cria scripts próprios.</span></div>
@@ -220,16 +220,25 @@
       acesos.sort(function (a, b) { return a.x - b.x; });
     }
     function hexa(x, y, r) { ctx.beginPath(); for (var k = 0; k < 6; k++) { var a = Math.PI / 180 * (60 * k - 90); ctx[k ? 'lineTo' : 'moveTo'](x + r * Math.cos(a), y + r * Math.sin(a)); } ctx.closePath(); }
+    var cicloAtual = 0;
+    function sortear() {
+      var dentro = cel.filter(function (p) { return p.x > 30 && p.x < W - 30 && p.y > 20 && p.y < H - 20; });
+      acesos = []; for (var i = 0; i < 9 && dentro.length; i++) acesos.push(dentro.splice(Math.floor(Math.random() * dentro.length), 1)[0]);
+      acesos.sort(function (a, b) { return a.x - b.x; });
+    }
     function quadro(agora) {
-      var t = quieto ? 99 : (agora - t0) / 1000;
+      var total = quieto ? 99 : (agora - t0) / 1000, ciclo = Math.floor(total / 12), t = quieto ? 99 : total - ciclo * 12;
+      if (!quieto && ciclo !== cicloAtual) { cicloAtual = ciclo; sortear(); }
+      var saida = quieto ? 1 : Math.max(0, Math.min(1, (12 - t) / 0.6));   // apagam juntos no fim do ciclo
       ctx.clearRect(0, 0, W, H);
       ctx.strokeStyle = 'rgba(255,255,255,.11)'; ctx.lineWidth = 1;
       cel.forEach(function (p) { hexa(p.x, p.y, R - 1); ctx.stroke(); });
       acesos.forEach(function (p, i) {
         var ini = 2.1 + i * 0.12, f = Math.max(0, Math.min(1, (t - ini) / 0.5));
         if (!f) return;
-        var pulso = t > 4 ? 0.06 * Math.sin(t * 1.6 + i) : 0;   // depois de acender, respira devagar
-        if (i) { var q = acesos[i - 1]; ctx.globalAlpha = 0.45 * f; ctx.strokeStyle = marca; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.moveTo(q.x, q.y); ctx.lineTo(p.x, p.y); ctx.stroke(); }
+        var pulso = t > 4 ? 0.06 * Math.sin(total * 1.6 + i) : 0;   // depois de acender, respira devagar
+        if (i) { var q = acesos[i - 1]; ctx.globalAlpha = 0.45 * f * saida; ctx.strokeStyle = marca; ctx.lineWidth = 1.4; ctx.beginPath(); ctx.moveTo(q.x, q.y); ctx.lineTo(p.x, p.y); ctx.stroke(); }
+        f = f * saida;
         ctx.globalAlpha = (0.3 + pulso) * f; ctx.fillStyle = marca; hexa(p.x, p.y, R - 1); ctx.fill(); ctx.globalAlpha = 1;
       });
       if (!quieto && !document.hidden) requestAnimationFrame(quadro);
@@ -242,10 +251,10 @@
       if (!c) return;
       var res = +c.Resolvidos || 0, conh = +c.Conhecimentos || 0;
       var n = res >= 10 ? res : conh; if (!n) return;
-      var rotulo = res >= 10 ? 'problemas resolvidos pela' : 'conhecimentos reunidos na';
+      var rotulo = res >= 10 ? 'problemas resolvidos pelo Aprendizado em' : 'conhecimentos reunidos no Aprendizado em';
       var el = document.getElementById('contador');
       var ult = rotulo.lastIndexOf(' ');
-      el.innerHTML = '<b>0</b> ' + rotulo.slice(0, ult) + ' <span class="junto">' + rotulo.slice(ult + 1) + ' <strong>Colmeia</strong></span>';
+      el.innerHTML = '<b>0</b> ' + rotulo.slice(0, ult) + ' <span class="junto">' + rotulo.slice(ult + 1) + ' <strong>COLMEIA</strong></span>';
       var b = el.querySelector('b'), fmt = new Intl.NumberFormat('pt-BR'), ini = null, atraso = quieto ? 0 : Math.max(0, 2300 - (performance.now() - t0));
       setTimeout(function () {
         function passo(agora) { if (!ini) ini = agora; var p = Math.min(1, (agora - ini) / 1100); b.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); }
