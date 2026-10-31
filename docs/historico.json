@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.106",
+        "Data":  "2026-10-31 10:32",
+        "Titulo":  "Ativação do programa com código fornecido pelo TI",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Ativação do programa com código fornecido pelo TI."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Clima atualizado ao abrir o programa."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Aviso de macros do servidor só aparece no escritório."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.105",
         "Data":  "2026-10-31 03:54",
         "Titulo":  "Logs recentes do Windows e do OneDrive sempre preservados",

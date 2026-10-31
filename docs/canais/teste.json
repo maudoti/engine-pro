@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.105",
-    "Instalador":  "EnginePro_Setup_4.5.105.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.105/EnginePro_Setup_4.5.105.exe",
-    "SHA256":  "5BF5F5D921701C8D6E3008F6C12BFFA15A9D8242BC75F75E3BBEE1B31C5EDE6D",
-    "Data":  "2026-10-31 03:54",
-    "Notas":  "Melhoria: Logs recentes do Windows e do OneDrive sempre preservados",
-    "Assinatura":  "UP5MnM6ny5QSxdAaTSW59al8l5sZNOyaik0qYenmK/TUkxjCMuHe8GMzI/0Z5ZQ5im7VnOxgwZJKwfBcXYz8Gzq4e+CVQudXEofHjem6UsWhqf3DhJ5OzsGe/FSJzmsz4PS8Im2sFYJQUXnGk4G9BRRRYdTBzrHUGmgKFKbDClnWJksI7JGCaPv/sCm6qnv4Ie1ivKtcz6a+dJeUOKc0QLXZINeYYlqMsaQ9ste2bz+U3pkkSFv4wPLA4CBKrSX2pDwM4TgAVF6SspbnGgaS6Xu7qiLsZFS/J4s/0KzlDetnL9zOxEXJbdL96+fK66kecHajK9a9mk9lS7OmJCo8K1Vi7cbYEmJkywNpWyQ0CaETMSud++us9O6n7uUaAPn9U/YEJSaznjj48KOvGBkghGHq2rfuGZSqyWs/qxUEbwTm4YeSe+/Nshh0lZ+zmzDP8ZRAYQdsdtMRKT3diO0uKfUjLSZ8YROggG9fHhdSV7fMc/x4TD2xqoNxT8IbL8lb"
+    "Versao":  "4.5.106",
+    "Instalador":  "EnginePro_Setup_4.5.106.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.106/EnginePro_Setup_4.5.106.exe",
+    "SHA256":  "12038B83FBB944B776266D6602B74282BA1A1015A7419C17C3AAE96458C082FE",
+    "Data":  "2026-10-31 10:32",
+    "Notas":  "Novo: ativação do programa com código fornecido pelo TI; Melhoria: clima atualizado ao abrir o programa; Correção: aviso de macros do servidor só aparece no escritório",
+    "Assinatura":  "C5Z4bVF5Z2mmUlztH1VZxm4HNThBvRFnXx8/8qfHHxSsQXPtQnUu3fAeL1CNqAoIfghnGOFOf+x8GEvQpeKnLnxmdzBULaj6nOGXSSo+CBnCVNleuk9N87KSVfIKxEu3N6hu91Wvp10syK80ZNMX79HPXkJhzAVxV//rNTRxGkrnGy+kAghZ2QfhKIOvKK2zTNsvW8I5OmQX3X7j0nNc0/+M9mS9o90XihpRmwJJV7qmg6mLQEGEnGnF8bnswZ/vgMCdyrwuBdVUJKEQ0W1PAF2xRt7F6wIF1SPvvpP9fFgNgHtp0tbGYa7kstwA0Tc6AonDzDGt/+xAfBHbx5syaDxPTQ/7gvxfDOuyXrGf9ftN1CguRU4sNMf2tVcJhCiOjcvpoDxgCaCiTJ9XlxDUCjzarDy3S1Z4bs00BUXw5ruSuwUHRaebLR/a914lBtEC6ue6J9gHgibJG1vvjVjzx7ix1WKK0xuVhjdp9pSTz1P3ma/LKRF97bbNUqwEboiA"
 }

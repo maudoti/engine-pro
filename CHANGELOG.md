@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.106 | Ativação do programa com código fornecido pelo TI | 31/10/2026
+
+- **Novo**: Ativação do programa com código fornecido pelo TI.
+- **Melhoria**: Clima atualizado ao abrir o programa.
+- **Correção**: Aviso de macros do servidor só aparece no escritório.
+
 ## Versão 4.5.105 | Logs recentes do Windows e do OneDrive sempre preservados | 31/10/2026
 
 - **Melhoria**: Logs recentes do Windows e do OneDrive sempre preservados.
