@@ -2,9 +2,8 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
-## Versão 4.5.105 | Correções automáticas mais discretas (no máximo 2 pesadas... | 31/10/2026
+## Versão 4.5.105 | Logs recentes do Windows e do OneDrive sempre preservados | 31/10/2026
 
-- **Melhoria**: Correções automáticas mais discretas (no máximo 2 pesadas por dia, só com a pessoa longe há 30 minutos, em prioridade baixa).
 - **Melhoria**: Logs recentes do Windows e do OneDrive sempre preservados.
 
 ## Versão 4.5.104 | Testes demorados (memória e disco) nunca ficam presos ao ... | 31/10/2026

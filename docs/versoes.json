@@ -2,14 +2,14 @@
     {
         "Versao":  "4.5.105",
         "Data":  "2026-10-31 03:56",
-        "Notas":  "Correções automáticas mais discretas (no máximo 2 pesadas por dia, só com a pessoa longe há 30 minutos, em prioridade baixa); logs recentes do Windows e do OneDrive sempre preservados",
+        "Notas":  "Melhoria: Logs recentes do Windows e do OneDrive sempre preservados",
         "Canal":  "estavel",
         "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.105/EnginePro_Setup_4.5.105.exe"
     },
     {
         "Versao":  "4.5.105",
         "Data":  "2026-10-31 03:54",
-        "Notas":  "Correções automáticas mais discretas (no máximo 2 pesadas por dia, só com a pessoa longe há 30 minutos, em prioridade baixa); logs recentes do Windows e do OneDrive sempre preservados",
+        "Notas":  "Melhoria: Logs recentes do Windows e do OneDrive sempre preservados",
         "Canal":  "teste",
         "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.105/EnginePro_Setup_4.5.105.exe"
     },

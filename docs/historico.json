@@ -2,12 +2,8 @@
     {
         "Versao":  "4.5.105",
         "Data":  "2026-10-31 03:54",
-        "Titulo":  "Correções automáticas mais discretas (no máximo 2 pesadas...",
+        "Titulo":  "Logs recentes do Windows e do OneDrive sempre preservados",
         "Itens":  [
-                      {
-                          "Tipo":  "melhoria",
-                          "Texto":  "Correções automáticas mais discretas (no máximo 2 pesadas por dia, só com a pessoa longe há 30 minutos, em prioridade baixa)."
-                      },
                       {
                           "Tipo":  "melhoria",
                           "Texto":  "Logs recentes do Windows e do OneDrive sempre preservados."
