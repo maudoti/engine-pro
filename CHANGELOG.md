@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.80 | Página Estações volta a mostrar todas as estações com o i... | 30/10/2026
+
+- **Correção**: Página Estações volta a mostrar todas as estações com o inventário completo.
+
 ## Versão 4.5.79 | Porcentagem da execução segue o andamento real informado ... | 30/10/2026
 
 - **Correção**: Porcentagem da execução segue o andamento real informado pelo programa (como o download da Dell).

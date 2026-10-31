@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.80",
+        "Data":  "2026-10-30 21:52",
+        "Titulo":  "Página Estações volta a mostrar todas as estações com o i...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Página Estações volta a mostrar todas as estações com o inventário completo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.79",
         "Data":  "2026-10-30 21:24",
         "Titulo":  "Porcentagem da execução segue o andamento real informado ...",

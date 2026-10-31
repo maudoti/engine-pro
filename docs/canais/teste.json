@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.79",
-    "Instalador":  "EnginePro_Setup_4.5.79.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.79/EnginePro_Setup_4.5.79.exe",
-    "SHA256":  "631D4428C92FD0D8476176DCE8757C5F78B0D834AFCEB23776B984E2B6C989B1",
-    "Data":  "2026-10-30 21:24",
-    "Notas":  "Correção: porcentagem da execução segue o andamento real informado pelo programa (como o download da Dell); cartão Em execução do menu alinhado e com o mesmo número da tela principal",
-    "Assinatura":  "f0RY/WhaeTVIW/s1IDfC5eWpfSNIyOkZR3lDatpwcEnv3cNkq1hWHnT+6YXmI8FAS364PIppsL+BgLOQ4Vvc/q3DBT/vsy2CopMSw/g6IaZcvavOPuvkllA4TcAnQUm6vCZJEGGdaewusQaKKdgUzy4GmGByPEeRIQV/ADJryVY0ZuFlHWVdX06a20hmovfAK23yCCP4OdKh+HXpBJpkG23m6dTx1rY5fvKnAf5TE3fdOKT/nOYMunShH+ZrebDDGHnxsARCwj+Qzb7MV0Ryuwjah+eiFdWK9AJvIvZMV7kKuJP2U8WsSJatylRH8OkrmQhmQRPDqn2Md1sq7zvqHwTRXcfM2uR9q2tv09M1Hj91N/DQhTyY7lGQNshNP/1qCoQKdDYv6WvkXjSKdXoXN/DiQwmgO35X9VxM+Hvn6SLHMyjdrpar0GzeJOh1AjCnsmKRPSGU6b1gDTsM4O+ChVIKu4RaWDcknm1A+eB5l5quaLQ3RrHP90BfzongcR/v"
+    "Versao":  "4.5.80",
+    "Instalador":  "EnginePro_Setup_4.5.80.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.80/EnginePro_Setup_4.5.80.exe",
+    "SHA256":  "74E7AD624662538A0909161721CB2A86C37BB725EC3A8F9FCAB3900B62D01FEE",
+    "Data":  "2026-10-30 21:52",
+    "Notas":  "Correção: página Estações volta a mostrar todas as estações com o inventário completo",
+    "Assinatura":  "qsW2IzxoNR1uUOVs8HdSPXiuZlbk4DxTTI+vg5UQwMuBFtW25c/7iEQ5Jz6V+hQZXcDhXvNxHDa+OLE15ZEZNh9megey3UuynTL6YcjHX/3jsu3hei3/OzqkPdXd18UKybm40taJkeXa/xhv58J0LnuFcMgedN9UwnaJHw+MHzurzeHsmuwYjoK8IQ1+BLMiZ8RDm2eSbH7j0cjb/vQ1lBYvM0QxxEvAzn6pUpXra6Rswzr+LoYkGzNPOdDtngkiJeoImX0UbfpiBAb5o+n2gpj8nJHfhia8HtB1kpxB4Iy+FfOSN6lqYVX1fxvrSsc235kMpJ3D3BoIl+Cm4/HqDSyqMsur9DRdgB817iTuDnCVJam3gC+6noCDP+a8WPWTidX7s9EOt+xkmWllf37h4usC+v9WZuH3KDBhowQoSA45Kp9bGOFHbWi5XEqwzKSrsF3joXbDvcPJZUiL4APf9mMxdDzGWhQ8tMe0yNGDnT/8LFp6vNaCjDxqhxAczTl9"
 }

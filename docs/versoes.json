@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.80",
+        "Data":  "2026-10-30 21:52",
+        "Notas":  "Correção: página Estações volta a mostrar todas as estações com o inventário completo",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.80/EnginePro_Setup_4.5.80.exe"
+    },
+    {
         "Versao":  "4.5.79",
         "Data":  "2026-10-30 21:24",
         "Notas":  "Correção: porcentagem da execução segue o andamento real informado pelo programa (como o download da Dell); cartão Em execução do menu alinhado e com o mesmo número da tela principal",
