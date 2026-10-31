@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.119",
-    "Instalador":  "EnginePro_Setup_4.5.119.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.119/EnginePro_Setup_4.5.119.exe",
-    "SHA256":  "141B7E08719BA39FF88A9D4E2055E4FA51921C162D24D76662EE627158F080B0",
-    "Data":  "2026-10-31 13:19",
-    "Notas":  "Linha ao vivo da COLMEIA sem cortes; textos das ações da IA ajustados",
-    "Assinatura":  "GNC/M/VRYVhOf0Tgrfvkc4Tt0BthJugalyX9H/UAsJjZoxyIU9UyMwXx2mZSJYB+Xi18z1aLkt1Yunbf+I2hnErXGFErej6LQjZdZC3My9mqDDjyhLNpT/QflXN+NQUkOS76eajZmL7Ql+cBfqQymJURQLLS05od7EC0WqFRhDeX6AG4ME4y4+nm+HpdCCgm3Fq6w/+VRNdGxSShAhWpXqEnt2V10gvVEeo75yz2fa9TQwpnQYohi1vGqPmv3Oo3fulxqOCzS4+Qv6bl1/WeAoVP6q54ae75bQaHSDbGmLrZbs8shZarM+NQatll2pla/RiPOvkl2iSHu58bchkpeVvTpWSJV+bnPlJJ16bhWSbIYkhCkN5OdercCpDH3ClGR44t4xggGq4c1dviVOJmqJ06YUZ3ktmRRw7asK+v6IVk3H/8yOQqL7sDcg/zW7ds2V20jXFgyHlUwtcnv8GlXHJ1UTaPNB+g6iKrb3rg8+iq7/juaJ9QipaQVFKwLLjJ"
+    "Versao":  "4.5.121",
+    "Instalador":  "EnginePro_Setup_4.5.121.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.121/EnginePro_Setup_4.5.121.exe",
+    "SHA256":  "9CB2F35A3F0BC86180D9DA688A3AF864FBC04EBAB74F454F5748822156ECDAFA",
+    "Data":  "2026-10-31 15:45",
+    "Notas":  "Números da COLMEIA no site atualizados a cada 10 minutos; Melhoria: ajustes internos de estabilidade",
+    "Assinatura":  "uXGARF8qrtHElW+OMyaQ+RsLuQ5M93qiypreF3uPZIbMkDHSTUbjJfCAcWetX8g466xj9SmRj1RpHuuccuet35hcvTtr7OQWs1SEjVZ5f2mCg5422T+DNKZFZMRW9zkARZLSoYXNSGE1k6tOZOQ/VwR0w3Ckm4AfKGq5ZCnShPLVj9a6DNgeGBz4vut60vL8vRzmLGWioKr2iHEKEAOOsFPg2ef5fjbwsZyWn2gf/Xo9bEMhaPsC9eci9XuPioU7qIRqigyMcx2SrDhiwLpYVk0fTda7ddoJU2iDCJ533Wabpp7eAIxuImFdmPxjEDrGZ71RQHD1NTiAplVXVm0QEBqMCmCh1lALs3J16vPYRA4BtpgbxykX5JP23H/lB/c7gCRmGdNQpioLm7evbhV9SAYzHWSSxCKeax732Ade/062Issmx454wB/odhLWwQUlasHUPyhXo7LQ30826pyATAinFxXWjUO0oi6c7ULh2V3lBBm58raKko3t19BQuk8w"
 }
