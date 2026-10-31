@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.114",
-    "Instalador":  "EnginePro_Setup_4.5.114.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.114/EnginePro_Setup_4.5.114.exe",
-    "SHA256":  "6E48B022FA4B04C4812D83E3487FA9FA8E6ED66548F1A7EE5F7670D7A1416D43",
-    "Data":  "2026-10-31 12:15",
-    "Notas":  "Tela inicial mais compacta; COLMEIA ao vivo com pesquisa em várias línguas; ativação com aviso para falar com o TI e abertura completa logo após ativar",
-    "Assinatura":  "TZkw2NEusys33ol+5168abbb96wiN81/C5xJx90Njz2nWdC7GXevnurbeJHbyAcp8g7O91jTv7r1hKS0UPEA/YGYh0d3XVmcRhx9EhV7lg6L7LGAu8FlASnKHV+Zu6+EE0x73I3pXDhE7WD7bO6Xo7erF1vof4X2VeIyPVoZyg5fs3L7a4924Z0yCsuhpwF+tNpa+lzXP0Fm7IUgWpsW2hL07rHRBi7oK4x/te+ovL1W/850glYXmBtFxi7Za2nO9ACM/h9QSmebwzzRpjw+NBnPCvlHGVIR7gNC0cDQ8wySNF90qFluo/niiIpeeWN157kZN2eHEW9JG1s7expCRI7EPbJ67rGYbjb6ETyMPQFCmwLhU5cfaCaOhypw7X7wPQVw+R9sVQPsUcwTmrSou4FecL3rjaPUSKlMHsFjDnOBDmyfTBZJjKNWt3RQVUAb5lS0pxWU/yJWTOl+KPYA3pmkzTvyRTx/Xi/gs+ASyP/MWmPViskv2wQyoiFUIvqv"
+    "Versao":  "4.5.115",
+    "Instalador":  "EnginePro_Setup_4.5.115.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.115/EnginePro_Setup_4.5.115.exe",
+    "SHA256":  "6267A33BF97F09C0B3464AC350A796C62414AA2E6EAA436C7295364F8F7CD342",
+    "Data":  "2026-10-31 12:26",
+    "Notas":  "Números da COLMEIA iguais na abertura, no programa e no site; site com pesquisas e COLMEIA ao vivo; cartões da COLMEIA ajustados; Melhoria: ajustes internos de estabilidade",
+    "Assinatura":  "Nnow2oa4DaQ4CLZLd2z4bu+DQlrmwlvX9DnBEzeA0d07hkiEEmyiXJDL+ICbW2+/T1Dr5g/dExyBeN00n8nA8b6Xuk0avM5XxfMaduJTrMqDAwczjGPjTFlZh83NCXqTxJfaJK+ijFf7p+Y7tB/UI5xErnPAIm/aeIzNvdJI9eC1XnXMo0ZjWO/V0pDrELxPshZ1dyMgjeMtMcAK6TYDbJdVWzX2cbTFVUVhnJUClrFVgYw4qI/G4D3mttne7FhH3Lu82loYP5RenwllLrnP6Qt3hlDNU/eTX66keuvBJd84IC/MvhchFKWT2cfUp3N0rDzdWc6hXO1ik7hyOkOLYsERX48MIiaC3yteMhlBq/5rjdoSGBsSHcm0a1RA9IFRjIRvoTLJeDLZkURSEBwpqpcyeOcMsYsHn1HWSlrK32Uru6sDqTqDs0E+qjC8AvWZmUGRWtQEAfqroFBU8IG+PtnyqanSh72GG/+8UDlWc64VMUy1CaO3EYdZY0EhHV3a"
 }

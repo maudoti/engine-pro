@@ -107,6 +107,19 @@
   @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .tag.correcao { color: #F0A35E; }  }
 
   /* ===== Placa da Colmeia: dois atos sobre favos que acendem e se ligam ===== */
+  .vivo { width: min(680px, 100%); margin: 14px auto 0; border-radius: 16px; background: linear-gradient(135deg, var(--hero1), var(--hero2)); color: #fff; padding: 16px 22px 14px; text-align: left; position: relative; overflow: hidden; display: none; }
+  .vivo::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 3px; background: linear-gradient(90deg, var(--marca), transparent 80%); }
+  .vivo .nums { display: flex; flex-wrap: wrap; gap: 10px 28px; }
+  .vivo .num b { display: block; font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: 27px; font-weight: 700; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .vivo .num span { font-size: 12.5px; opacity: .75; }
+  .vivo .num.marca b { color: var(--marca); }
+  .vivo .agora { margin-top: 12px; font-size: 15px; font-weight: 600; display: flex; align-items: center; gap: 9px; min-height: 24px; }
+  .vivo .agora i { width: 7px; height: 7px; border-radius: 50%; background: #3DDC5A; flex: none; animation: respira 1.6s ease-in-out infinite; }
+  .vivo .agora span { transition: opacity .5s; }
+  .vivo .agora small { font-weight: 400; opacity: .7; margin-right: 4px; }
+  @keyframes respira { 50% { opacity: .2; } }
+  @media (prefers-reduced-motion: reduce) { .vivo .agora i { animation: none; } .vivo .agora span { transition: none; } }
+  @media (max-width: 520px) { .vivo { padding: 14px 16px 12px; } .vivo .num b { font-size: 23px; } .vivo .agora { font-size: 14px; } }
   .placa { position: relative; width: min(680px, 100%); height: 220px; margin: 40px auto 0; border-radius: 20px; overflow: hidden;
     background: #0C0C0E; border: 1px solid rgba(255,255,255,.14); box-shadow: 0 24px 60px rgba(0,0,0,.45); text-align: center; }
   .placa canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
@@ -150,6 +163,14 @@
         <div class="traco"></div>
         <div class="contador" id="contador"><span class="junto">Aprendizado em <strong>COLMEIA</strong></span>, sempre aumentando</div>
       </div>
+    </div>
+    <div class="vivo" id="vivo" aria-live="polite">
+      <div class="nums">
+        <div class="num marca"><b id="vConh">0</b><span>aprendizados na base da COLMEIA</span></div>
+        <div class="num"><b id="vN48">0</b><span>pesquisas nas últimas 48 horas</span></div>
+        <div class="num"><b id="vTotal">0</b><span>pesquisas desde o início</span></div>
+      </div>
+      <div class="agora"><i></i><span id="vAgora"></span></div>
     </div>
   </header>
 
@@ -269,10 +290,10 @@
     fetch('colmeia.json', { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (c) {
       if (!c) return;
       var res = +c.Resolvidos || 0, conh = +c.Conhecimentos || 0;
-      var n = res >= 10 ? res : conh; if (!n) return;
+      var n = conh; if (!n) return;
       // o número não é fixo: "já reunidos até aqui ... e sempre aumentando"
-      var rotulo = res >= 10 ? 'problemas já resolvidos até aqui' : 'conhecimentos já reunidos até aqui';
-      var rotulo2 = res >= 10 ? 'pelo Aprendizado em' : 'no Aprendizado em';
+      var rotulo = 'aprendizados já reunidos até aqui';
+      var rotulo2 = 'no Aprendizado em';
       var el = document.getElementById('contador');
       el.innerHTML = '<b>0</b> ' + rotulo + '<br>' + rotulo2 + ' <span class="junto"><strong>COLMEIA</strong> e sempre aumentando</span>';
       var b = el.querySelector('b'), fmt = new Intl.NumberFormat('pt-BR'), ini = null, atraso = Math.max(0, 5700 - (performance.now() - t0));
@@ -280,6 +301,38 @@
         function passo(agora) { if (!ini) ini = agora; var p = Math.min(1, (agora - ini) / 1100); b.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); }
         if (quieto) b.textContent = fmt.format(n); else requestAnimationFrame(passo);
       }, atraso);
+    }).catch(function () { });
+
+    // COLMEIA ao vivo: os mesmos números do programa e o que a COLMEIA pesquisou por último (só totais e fontes públicas)
+    fetch('colmeia.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (c) {
+      if (!c || !(+c.Conhecimentos)) return;
+      var fmt = new Intl.NumberFormat('pt-BR'), caixa = document.getElementById('vivo');
+      caixa.style.display = 'block';
+      function conta(id, n, atraso) {
+        var el = document.getElementById(id); n = +n || 0;
+        if (quieto) { el.textContent = fmt.format(n); return; }
+        setTimeout(function () { var ini = null; function passo(a) { if (!ini) ini = a; var p = Math.min(1, (a - ini) / 1400); el.textContent = fmt.format(Math.round(n * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(passo); } requestAnimationFrame(passo); }, atraso);
+      }
+      conta('vConh', c.Conhecimentos, 200); conta('vN48', c.N48, 350); conta('vTotal', c.Pesquisas, 500);
+      function quando(d) {
+        if (!d) return 'agora';
+        var t = new Date(d.replace(' ', 'T')), m = Math.round((Date.now() - t.getTime()) / 60000);
+        if (isNaN(m) || m < 1) return 'agora'; if (m < 60) return 'há ' + m + ' min';
+        var h = Math.round(m / 60); return h < 24 ? 'há ' + h + ' h' : 'há ' + Math.round(h / 24) + ' dia(s)';
+      }
+      var frases = (c.Recentes || []).filter(function (x) { return x && x.Texto; });
+      if (!frases.length) frases = [{ Data: '', Texto: 'A COLMEIA está sempre aprendendo' }];
+      var alvo = document.getElementById('vAgora'), i = 0;
+      function mostra() {
+        var f = frases[i % frases.length];
+        alvo.innerHTML = '<small>' + quando(f.Data) + ' ·</small> ';
+        alvo.appendChild(document.createTextNode(f.Texto));
+      }
+      mostra();
+      if (frases.length > 1) setInterval(function () {
+        if (quieto) { i++; mostra(); return; }
+        alvo.style.opacity = 0; setTimeout(function () { i++; mostra(); alvo.style.opacity = 1; }, 500);
+      }, 6000);
     }).catch(function () { });
   })();
 </script>

@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.115",
+        "Data":  "2026-10-31 12:26",
+        "Titulo":  "Números da COLMEIA iguais na abertura, no programa e no site",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Números da COLMEIA iguais na abertura, no programa e no site."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Site com pesquisas e COLMEIA ao vivo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cartões da COLMEIA ajustados."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.114",
         "Data":  "2026-10-31 12:15",
         "Titulo":  "Tela inicial mais compacta",

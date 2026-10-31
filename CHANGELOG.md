@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.115 | Números da COLMEIA iguais na abertura, no programa e no site | 31/10/2026
+
+- **Melhoria**: Números da COLMEIA iguais na abertura, no programa e no site.
+- **Melhoria**: Site com pesquisas e COLMEIA ao vivo.
+- **Melhoria**: Cartões da COLMEIA ajustados.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.114 | Tela inicial mais compacta | 31/10/2026
 
 - **Melhoria**: Tela inicial mais compacta.

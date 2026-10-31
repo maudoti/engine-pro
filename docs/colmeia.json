@@ -1,5 +1,49 @@
 {
     "Resolvidos":  1,
     "Conhecimentos":  446,
-    "Data":  "2026-10-31 12:15"
+    "Pesquisas":  0,
+    "N48":  14,
+    "Recentes":  [
+                     {
+                         "Data":  "2026-10-31 12:18:45",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em alemão"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:44",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em espanhol"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:43",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em inglês"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:42",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em português"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:37",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em alemão"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:36",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em espanhol"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:34",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em inglês"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:33",
+                         "Texto":  "A COLMEIA pesquisou na base da Microsoft, em português"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:28",
+                         "Texto":  "A COLMEIA pesquisou no fórum técnico Super User, em inglês"
+                     },
+                     {
+                         "Data":  "2026-10-31 12:18:28",
+                         "Texto":  "A COLMEIA pesquisou no fórum técnico Server Fault, em inglês"
+                     }
+                 ],
+    "Data":  "2026-10-31 12:26"
 }
