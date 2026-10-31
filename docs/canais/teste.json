@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.77",
-    "Instalador":  "EnginePro_Setup_4.5.77.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.77/EnginePro_Setup_4.5.77.exe",
-    "SHA256":  "08B1DF3D683A21E9C51A6E21D6F2163880BE14E32672B835130FFF7B1962D0F5",
-    "Data":  "2026-10-30 21:15",
-    "Notas":  "Melhoria: Atualizar drivers Dell espera o serviço da Dell ficar pronto e explica cada resultado; Novo: Dell com o Dell Update doméstico recebe aviso e correção, e a troca bem sucedida entra no aprendizado da colmeia",
-    "Assinatura":  "mWxtu/7aD27ZJBlXKTh3NH6iet3ReG+TxuyS6Yue4FgXpF9ZZ4eGmuJm7lJKXeo+13NP9RwwAL+otf0s3SFEMVcEnNISglNdMQaAUSo1XHLhKyzrbFC6YGi6zJsjT8ryPAPukZSbUZtwoiOZ5q62NatYru0CoL+Nd3OM092WaoOObCWAjsESQQ6eksvI+MGZ9nARAOAPyrJCNhyetJ4+9En+pB9wtjEgK0byiGAacVF7OUk4Xbxf1nzX1hjLv25ytLTkkGsjlv6UpYGZb97J9GlpCbfb1zYVG0E9ZktHGFxF/BPLaQsiVtE93kb+EBT2zkJPShK+CwljTkAha2dH88GqWxjatEror1JHxvx9G30/IhTm7DfcBHehJjNq3rwgKBavu0kZnxF9yjtXLynk3Eu5lf/JQH1FEBQR0wIN6/zOD9jdGxvfgCFE96ha4eaXTQRKb5o7tsMCftH1DJ7CBx24WnUgUJwMrbEYhbF4NmU+445RTvLHgiRukC00mP8/"
+    "Versao":  "4.5.78",
+    "Instalador":  "EnginePro_Setup_4.5.78.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.78/EnginePro_Setup_4.5.78.exe",
+    "SHA256":  "4D41D62407CBA9CB09FB80D5A5FB1CCB43FDEEB2E47565F5DCDB694C14F790A6",
+    "Data":  "2026-10-30 21:18",
+    "Notas":  "Correção: Atualizar drivers Dell funciona com o Dell Command | Update 5, que recusa algumas pastas de registro",
+    "Assinatura":  "HB2YdNsG9TG8tcB8WtKTzKM+BvRUoXDemVLv6wRdAUcnz0jIXE0dc7vnLQG2tw4OHHnOghXNejwF9US7pMpXotdBBF3GvC9h/k2EFlqR/2Jy5fHVpN+tH6GIUQFQuaEf+/qZsP2D10EI+hDo1bggh9mkLmee+ECwppccRjgXScrPLgns9SmHNr98KcW7bKPGyX6/4n2hflgyferrojeKsZyjkHLdsUhbUTtU2KSHc6VlQ1GN484mNnjM35HJmRDmuZ76erS/BJS0CJMs6En8LAHabMa6pE8tGnRZHYoFtYCjCBHal+OXdlhyskXrSwR6wS5VG5fiMADdf607mJu3s4Mq+P0n8bC2YTgh90DUZUxbUhYUdUfhAhy5XxZhzdjGNERrdjGmgHJRpcgTRz1iyhnW7/Hr8Gv6NqnG6xOeUCXXVBy8sLd8w+n+V6aBmTRs0Swr8oHrSzIIdVi1b7tet/l7PixQUsdYdEa02hIKDxvCzOeVaRkIvET+ucQrubXm"
 }

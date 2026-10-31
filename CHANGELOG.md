@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.78 | Atualizar drivers Dell funciona com o Dell Command | Upda... | 30/10/2026
+
+- **Correção**: Atualizar drivers Dell funciona com o Dell Command | Update 5, que recusa algumas pastas de registro.
+
 ## Versão 4.5.77 | Atualizar drivers Dell espera o serviço da Dell ficar pro... | 30/10/2026
 
 - **Melhoria**: Atualizar drivers Dell espera o serviço da Dell ficar pronto e explica cada resultado.
