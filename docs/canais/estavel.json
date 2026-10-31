@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.80",
-    "Instalador":  "EnginePro_Setup_4.5.80.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.80/EnginePro_Setup_4.5.80.exe",
-    "SHA256":  "74E7AD624662538A0909161721CB2A86C37BB725EC3A8F9FCAB3900B62D01FEE",
-    "Data":  "2026-10-30 21:52",
-    "Notas":  "Correção: página Estações volta a mostrar todas as estações com o inventário completo",
-    "Assinatura":  "qsW2IzxoNR1uUOVs8HdSPXiuZlbk4DxTTI+vg5UQwMuBFtW25c/7iEQ5Jz6V+hQZXcDhXvNxHDa+OLE15ZEZNh9megey3UuynTL6YcjHX/3jsu3hei3/OzqkPdXd18UKybm40taJkeXa/xhv58J0LnuFcMgedN9UwnaJHw+MHzurzeHsmuwYjoK8IQ1+BLMiZ8RDm2eSbH7j0cjb/vQ1lBYvM0QxxEvAzn6pUpXra6Rswzr+LoYkGzNPOdDtngkiJeoImX0UbfpiBAb5o+n2gpj8nJHfhia8HtB1kpxB4Iy+FfOSN6lqYVX1fxvrSsc235kMpJ3D3BoIl+Cm4/HqDSyqMsur9DRdgB817iTuDnCVJam3gC+6noCDP+a8WPWTidX7s9EOt+xkmWllf37h4usC+v9WZuH3KDBhowQoSA45Kp9bGOFHbWi5XEqwzKSrsF3joXbDvcPJZUiL4APf9mMxdDzGWhQ8tMe0yNGDnT/8LFp6vNaCjDxqhxAczTl9"
+    "Versao":  "4.5.81",
+    "Instalador":  "EnginePro_Setup_4.5.81.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.81/EnginePro_Setup_4.5.81.exe",
+    "SHA256":  "B95CE5DC3DF6B827227D84FF84F099811B7FD013700A0FD1218E8F306D88589F",
+    "Data":  "2026-10-30 22:00",
+    "Notas":  "Correção: visão ao vivo das estações também pela rede do escritório, com o andamento do pedido na tela e registro na estação",
+    "Assinatura":  "QJCSV+uBRSzZ/qbz2TVjWOLOPLfNzhyJOKVW8uMmIBZqTwvUlPI/j04Vq9r1eJfDLwHNZXw4M68T+tO7aKWywk5M7UY/gFiPQQ0/vsfSZZFtLf92foIg7si4eZV86Pk4HBpnR1YPO2jcF/V7YMND0vy+E0NFCZlL1RxuvZkxO2puumCe3RluUoPwg++3jO5Icmwl7tn8doq3JPZ47zm6aCFgilHP8JDrfg3YozWgbpzVTmi5PHW4hQ+ZDEryVg9IRb4l0BWtm3WNUr2Vg6Wlr8iIqXGOnRpZ2QQVbnbrjyuxzElK9+Rnqvsal2D753TtmjUZ9Uw06s2h4pdOh26Yzz6oGaG7tlctu3Tqn/j6+Bf6sLm+pAu2AzscIeUbnJqbIvmD0U+zqDj01DPbPYre8dy2doZOqlLlXu5Irh8PRrxgREymxdiPTMzhsAFZuhA9audN2Jvq61OAuxLQwlPewVV9TtaEZ+nss1LyjmncMXle1gk+BvJIbvXkWfrf5gu6"
 }
