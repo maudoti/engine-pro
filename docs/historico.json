@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.110",
+        "Data":  "2026-10-31 10:59",
+        "Titulo":  "E-mail da empresa no cadastro da ativação",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "E-mail da empresa no cadastro da ativação."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.109",
         "Data":  "2026-10-31 10:48",
         "Titulo":  "O chat do Modo IA mostra a saudação antes de descer para ...",

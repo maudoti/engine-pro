@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.110 | E-mail da empresa no cadastro da ativação | 31/10/2026
+
+- **Melhoria**: E-mail da empresa no cadastro da ativação.
+
 ## Versão 4.5.109 | O chat do Modo IA mostra a saudação antes de descer para ... | 31/10/2026
 
 - **Melhoria**: O chat do Modo IA mostra a saudação antes de descer para a varredura.

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.110",
+        "Data":  "2026-10-31 10:59",
+        "Notas":  "Melhoria: e-mail da empresa no cadastro da ativação",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.110/EnginePro_Setup_4.5.110.exe"
+    },
+    {
         "Versao":  "4.5.109",
         "Data":  "2026-10-31 10:48",
         "Notas":  "Melhoria: o chat do Modo IA mostra a saudação antes de descer para a varredura",
