@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.78",
-    "Instalador":  "EnginePro_Setup_4.5.78.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.78/EnginePro_Setup_4.5.78.exe",
-    "SHA256":  "4D41D62407CBA9CB09FB80D5A5FB1CCB43FDEEB2E47565F5DCDB694C14F790A6",
-    "Data":  "2026-10-30 21:18",
-    "Notas":  "Correção: Atualizar drivers Dell funciona com o Dell Command | Update 5, que recusa algumas pastas de registro",
-    "Assinatura":  "HB2YdNsG9TG8tcB8WtKTzKM+BvRUoXDemVLv6wRdAUcnz0jIXE0dc7vnLQG2tw4OHHnOghXNejwF9US7pMpXotdBBF3GvC9h/k2EFlqR/2Jy5fHVpN+tH6GIUQFQuaEf+/qZsP2D10EI+hDo1bggh9mkLmee+ECwppccRjgXScrPLgns9SmHNr98KcW7bKPGyX6/4n2hflgyferrojeKsZyjkHLdsUhbUTtU2KSHc6VlQ1GN484mNnjM35HJmRDmuZ76erS/BJS0CJMs6En8LAHabMa6pE8tGnRZHYoFtYCjCBHal+OXdlhyskXrSwR6wS5VG5fiMADdf607mJu3s4Mq+P0n8bC2YTgh90DUZUxbUhYUdUfhAhy5XxZhzdjGNERrdjGmgHJRpcgTRz1iyhnW7/Hr8Gv6NqnG6xOeUCXXVBy8sLd8w+n+V6aBmTRs0Swr8oHrSzIIdVi1b7tet/l7PixQUsdYdEa02hIKDxvCzOeVaRkIvET+ucQrubXm"
+    "Versao":  "4.5.79",
+    "Instalador":  "EnginePro_Setup_4.5.79.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.79/EnginePro_Setup_4.5.79.exe",
+    "SHA256":  "631D4428C92FD0D8476176DCE8757C5F78B0D834AFCEB23776B984E2B6C989B1",
+    "Data":  "2026-10-30 21:24",
+    "Notas":  "Correção: porcentagem da execução segue o andamento real informado pelo programa (como o download da Dell); cartão Em execução do menu alinhado e com o mesmo número da tela principal",
+    "Assinatura":  "f0RY/WhaeTVIW/s1IDfC5eWpfSNIyOkZR3lDatpwcEnv3cNkq1hWHnT+6YXmI8FAS364PIppsL+BgLOQ4Vvc/q3DBT/vsy2CopMSw/g6IaZcvavOPuvkllA4TcAnQUm6vCZJEGGdaewusQaKKdgUzy4GmGByPEeRIQV/ADJryVY0ZuFlHWVdX06a20hmovfAK23yCCP4OdKh+HXpBJpkG23m6dTx1rY5fvKnAf5TE3fdOKT/nOYMunShH+ZrebDDGHnxsARCwj+Qzb7MV0Ryuwjah+eiFdWK9AJvIvZMV7kKuJP2U8WsSJatylRH8OkrmQhmQRPDqn2Md1sq7zvqHwTRXcfM2uR9q2tv09M1Hj91N/DQhTyY7lGQNshNP/1qCoQKdDYv6WvkXjSKdXoXN/DiQwmgO35X9VxM+Hvn6SLHMyjdrpar0GzeJOh1AjCnsmKRPSGU6b1gDTsM4O+ChVIKu4RaWDcknm1A+eB5l5quaLQ3RrHP90BfzongcR/v"
 }

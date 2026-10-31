@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.79",
+        "Data":  "2026-10-30 21:24",
+        "Titulo":  "Porcentagem da execução segue o andamento real informado ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Porcentagem da execução segue o andamento real informado pelo programa (como o download da Dell)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cartão Em execução do menu alinhado e com o mesmo número da tela principal."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.78",
         "Data":  "2026-10-30 21:18",
         "Titulo":  "Atualizar drivers Dell funciona com o Dell Command | Upda...",
