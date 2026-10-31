@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.93",
+        "Data":  "2026-10-31 00:11",
+        "Titulo":  "Eventos de programas que fecham ou travam mostram o nome ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Eventos de programas que fecham ou travam mostram o nome do programa, o que falhou e a correção certa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.92",
         "Data":  "2026-10-31 00:06",
         "Titulo":  "Eventos e telas azuis com botão Corrigir direto quando o ...",

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.93",
+        "Data":  "2026-10-31 00:11",
+        "Notas":  "Correção: eventos de programas que fecham ou travam mostram o nome do programa, o que falhou e a correção certa",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.93/EnginePro_Setup_4.5.93.exe"
+    },
+    {
         "Versao":  "4.5.92",
         "Data":  "2026-10-31 00:07",
         "Notas":  "Melhoria: eventos e telas azuis com botão Corrigir direto quando o reparo é conhecido",

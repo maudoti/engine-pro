@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.93 | Eventos de programas que fecham ou travam mostram o nome ... | 31/10/2026
+
+- **Correção**: Eventos de programas que fecham ou travam mostram o nome do programa, o que falhou e a correção certa.
+
 ## Versão 4.5.92 | Eventos e telas azuis com botão Corrigir direto quando o ... | 31/10/2026
 
 - **Melhoria**: Eventos e telas azuis com botão Corrigir direto quando o reparo é conhecido.
