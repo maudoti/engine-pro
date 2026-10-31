@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.130",
+        "Data":  "2026-10-31 18:05",
+        "Titulo":  "COLMEIA: mais IAs disponíveis para dar opinião",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA: mais IAs disponíveis para dar opinião."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.129",
         "Data":  "2026-10-31 17:57",
         "Titulo":  "COLMEIA: recomendação clara das IAs em cada solução",
