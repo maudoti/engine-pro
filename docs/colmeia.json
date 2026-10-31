@@ -5,13 +5,13 @@
     "N48":  53,
     "Recentes":  [
                      {
-                         "Data":  "2026-10-31 15:16:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-10-31 15:47",
+                         "Texto":  "Nova versão 4.5.121 publicada: Números da COLMEIA no site atualizados a cada 10 minutos",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-10-31 14:14:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-10-31 15:16:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-10-31 13:19",
-                         "Texto":  "Nova versão 4.5.119 publicada: Linha ao vivo da COLMEIA sem cortes",
+                         "Data":  "2026-10-31 14:14:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
@@ -76,6 +76,6 @@
                   13
               ],
     "Ultima":  "2026-10-31 15:16:07",
-    "Gerado":  "2026-10-31 15:47:06",
-    "Data":  "2026-10-31 15:47"
+    "Gerado":  "2026-10-31 15:57:05",
+    "Data":  "2026-10-31 15:57"
 }
