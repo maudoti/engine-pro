@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.118",
+        "Data":  "2026-10-31 13:18",
+        "Notas":  "Linha ao vivo da COLMEIA sem cortes; textos das ações da IA ajustados",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.118/EnginePro_Setup_4.5.118.exe"
+    },
+    {
         "Versao":  "4.5.117",
         "Data":  "2026-10-31 12:50",
         "Notas":  "Linha ao vivo da COLMEIA com o que a IA aprendeu, quantos computadores aprendem juntos e resumo das pesquisas; Melhoria: ajustes internos de estabilidade",

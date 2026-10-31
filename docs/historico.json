@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.118",
+        "Data":  "2026-10-31 13:18",
+        "Titulo":  "Linha ao vivo da COLMEIA sem cortes",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Linha ao vivo da COLMEIA sem cortes."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Textos das ações da IA ajustados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.117",
         "Data":  "2026-10-31 12:49",
         "Titulo":  "Linha ao vivo da COLMEIA com o que a IA aprendeu, quantos...",

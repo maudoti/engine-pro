@@ -1,9 +1,13 @@
 {
     "Resolvidos":  1,
     "Conhecimentos":  446,
-    "Pesquisas":  14,
-    "N48":  14,
+    "Pesquisas":  28,
+    "N48":  28,
     "Recentes":  [
+                     {
+                         "Data":  "2026-10-31 13:13:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países"
+                     },
                      {
                          "Data":  "2026-10-31 12:18:45",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países"
@@ -13,5 +17,5 @@
                          "Texto":  "446 aprendizados reunidos até aqui, e a base continua crescendo"
                      }
                  ],
-    "Data":  "2026-10-31 13:07"
+    "Data":  "2026-10-31 13:18"
 }
