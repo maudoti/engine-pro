@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.83",
-    "Instalador":  "EnginePro_Setup_4.5.83.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.83/EnginePro_Setup_4.5.83.exe",
-    "SHA256":  "90193A3C2C74B3ABFD230C838D5BDAADF9B3706F1939FC612407557ED1A02C03",
-    "Data":  "2026-10-30 22:38",
-    "Notas":  "Melhoria: drivers sem assinatura mostram qual programa usa os arquivos do driver, e quando é sobra de programa antigo",
-    "Assinatura":  "LQj+Yh+TtJmj8ZgCdzwmz7Z5VxEuBxouSCiBVZAbY6vK7aXHwM2DmucY7BAKUMAs5Hv9h5x6RxX94qZyHCbZ0DlGmalFOlXj9KlO1m9vUayWWH1xYiiX0xkefoa95NokQTj13KsVDXD54AiW7/aQV6h+EsDye03l6q8peTL0Jeb9YepQ9Vo/kJSY0PbF3/axrP9TVmwiiPkEthRdgJcRr5IwFwZ3QSl6FX/v5PCBfBm8vNPdcr6+qW635+mz8UUUpF3QRrNDoagLlbse3u6t3Djq8OIJb6KyPQpXOarGHgd3fKD/gPQGD7l0bJvEMMH4fiZevf4hTyekqD9oBgqz4Tge96ArDCjyZ8EnqLN02AsJgedGiT4YdcupPjen2US0kjJzDwx87RS1txsBIN6wTbFzcee++pZfFVDTGsvXdss8y90mYNZLy9TDYyHj0cPKRcus+6iiSfhfjGbClt0KoBVkgfvT1Mr2fec6QbMoNhPLfc3+tNOI/hu9nDTtSUS2"
+    "Versao":  "4.5.84",
+    "Instalador":  "EnginePro_Setup_4.5.84.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.84/EnginePro_Setup_4.5.84.exe",
+    "SHA256":  "ABCCACDBA4B8D7FFA1C3810688DB138DC6A6B785446474796C6CFD2EFCDF6AD3",
+    "Data":  "2026-10-30 22:44",
+    "Notas":  "Correção: janela de drivers sem assinatura abre rápido, com a busca do programa dono limitada a poucos segundos",
+    "Assinatura":  "XTQEI+rrG1aK1XxBDYFC2FLGrVU+IazNWoydpSMQsx7KBtXn1iI4s2uTFAviga91eNYmIBqyzoERvvlLAXcrN2YSTixpICqsdJrX4I3JRT0pU+VGXAPC53ODfRHmwWk4ri4QtQO7keiWPOxQJomlmfFg6jcsc5D9K8Q0DEQ1X3ubadbRGnlr+x7MZBX7zAr8JXKsHZUyjic5NS3a9YdAGm3Rl9pfIzpB699VjaFwbBGugEIPS31LKumRmvC67ODbYScwe5VxkieRRMx7i8vDPwDtXlFCKdKiBUt8G768iG7x0OxiDucb4NBGxgjM3IjDfVc3sQ8UVwCUwNWC8cHdwBmveSn7umXLKHws3416RgbHBT7WGdZZNI3jtrjRJv4/8XNtggG3Q6XA/VTZ7kwWpoMmx04iYHgKBK2maAIQ1kMsJPwXMx4cEO4CIaQqv84/OOeN9phWto+0YXwGw+JBh2g2Kn7PrugrleNM7prpHh3yo8NYZtLPRBHvbjO76d75"
 }

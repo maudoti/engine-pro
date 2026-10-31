@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.84 | Janela de drivers sem assinatura abre rápido, com a busca... | 30/10/2026
+
+- **Correção**: Janela de drivers sem assinatura abre rápido, com a busca do programa dono limitada a poucos segundos.
+
 ## Versão 4.5.83 | Drivers sem assinatura mostram qual programa usa os arqui... | 30/10/2026
 
 - **Melhoria**: Drivers sem assinatura mostram qual programa usa os arquivos do driver, e quando é sobra de programa antigo.

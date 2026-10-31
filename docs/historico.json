@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.84",
+        "Data":  "2026-10-30 22:44",
+        "Titulo":  "Janela de drivers sem assinatura abre rápido, com a busca...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Janela de drivers sem assinatura abre rápido, com a busca do programa dono limitada a poucos segundos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.83",
         "Data":  "2026-10-30 22:38",
         "Titulo":  "Drivers sem assinatura mostram qual programa usa os arqui...",
