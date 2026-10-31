@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.91",
-    "Instalador":  "EnginePro_Setup_4.5.91.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.91/EnginePro_Setup_4.5.91.exe",
-    "SHA256":  "01C3B7544320D97BDD76E0D44F2E7478BC94ECF3174122C58D2320CF71EB0C37",
-    "Data":  "2026-10-30 23:56",
-    "Notas":  "Melhoria: problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto",
-    "Assinatura":  "oY35uEuvqxKJ66ZNtZuCtq1WGjaGkvxXMzGS3dY2U3jZ/1eg/sLwWJIn1QVrIHDFZE1REiJxGql8+ldftMzOf9caa6eTSG0cD8696/dU3PnvHjqaGS2rZcXZLQlym+1X31+4M24cbB5SEj2ujT6J8AKxTrfAjFhw5jjAKOY2WggFuSUcdAAuqhyNxQKiT9wWPyvwI1ePBHJXhhAGnjFJAE++6zCGS4X7zCD6JJKqw6B8rMW2fnlbY2kraU6B7URmQCIIyjBzg57uCfyAenefggBXiDVzUamIUcwyh2yk/2A43Gob8KEtbA4LurJJvlywrUzxt8hi+WC5IvQZjOz64xfiIpnSssBCNaangR/voduXNOmnbXQd685qddbSbigXyEfHC9V/wk6uUoq034j2pFBrRYAj6Wj/58mXwaLN7al7tcZfZIi44wkOAcK3DJ5lgeOPfsHt3bumTJ4E8qmlxC/3zB+qRBkNKmaeAF0EJ5fo5Pyzbl+4O895b9qp1dHk"
+    "Versao":  "4.5.92",
+    "Instalador":  "EnginePro_Setup_4.5.92.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.92/EnginePro_Setup_4.5.92.exe",
+    "SHA256":  "D51E13A7455BD59B3E655DE2F716B27971E590D7FA25D52F5BA611EC8F1C8D6E",
+    "Data":  "2026-10-31 00:06",
+    "Notas":  "Melhoria: eventos e telas azuis com botão Corrigir direto quando o reparo é conhecido",
+    "Assinatura":  "Lel6M/I/lA/HMhb9uRo/NwFikvFb1lOBMEawOb/20wuKz9k5Vp8KqKF02S/8BlEeSduJc2acQDr+Fha6qUHCOdsOEwXeNZso4ZbCcgoAfbENmQE0gXR7qIRsn4fGjS7v2oU2m7W9sNPhnIMjaacVzNw4XcNMwckw+bJNP4lZmBBobGV6NjzqqtC6mATNB/FvRW0yF+9Dq1LZxwb9bVH0PrwWv3sLE2170DW8LZPNr/z+KVamwGFRVnuvr1QbdIFSh6Qa7xv7BzTdOqXuPhx4pIbpVOr7bxYaz0vAMnK9c3S7h3APgmBEEzd44QPmhcJdKNIMEDpIScpxt5yvvDIQdGnYXB6c2S/lXp1eMQNB31zlP0+ggevkhUn0uEEbEDXTCP3yarrzkamxNCNSKd63SwonP8AQh076LpfPyeNvQAqbyJi+3X7VaeNzEJKzMPWjSuQIcZ7ZXLMw7C7mbcRTEnzESQjE8giHhO+KLFkxgS68CeR53ZFGhrkcDSEdzMt8"
 }

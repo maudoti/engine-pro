@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.92",
+        "Data":  "2026-10-31 00:06",
+        "Titulo":  "Eventos e telas azuis com botão Corrigir direto quando o ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Eventos e telas azuis com botão Corrigir direto quando o reparo é conhecido."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.91",
         "Data":  "2026-10-30 23:56",
         "Titulo":  "Problemas encontrados no Modo IA resumidos, com Ver mais ...",

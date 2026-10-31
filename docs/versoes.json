@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.92",
+        "Data":  "2026-10-31 00:06",
+        "Notas":  "Melhoria: eventos e telas azuis com botão Corrigir direto quando o reparo é conhecido",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.92/EnginePro_Setup_4.5.92.exe"
+    },
+    {
         "Versao":  "4.5.91",
         "Data":  "2026-10-30 23:59",
         "Notas":  "Melhoria: problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto",

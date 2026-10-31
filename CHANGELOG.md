@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.92 | Eventos e telas azuis com botão Corrigir direto quando o ... | 31/10/2026
+
+- **Melhoria**: Eventos e telas azuis com botão Corrigir direto quando o reparo é conhecido.
+
 ## Versão 4.5.91 | Problemas encontrados no Modo IA resumidos, com Ver mais ... | 30/10/2026
 
 - **Melhoria**: Problemas encontrados no Modo IA resumidos, com Ver mais e o botão de correção embaixo do texto.
