@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.76",
+        "Data":  "2026-10-30 21:04",
+        "Notas":  "Melhoria: Atualizar drivers Dell troca sozinho o Dell Update (versão doméstica) pelo Dell Command | Update quando os dois entram em conflito",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.76/EnginePro_Setup_4.5.76.exe"
+    },
+    {
         "Versao":  "4.5.75",
         "Data":  "2026-10-30 21:00",
         "Notas":  "Correção: a ficha da estação mostra a versão e explica quando a visão ao vivo ainda não está disponível; resposta mais rápida aos pedidos do TI",

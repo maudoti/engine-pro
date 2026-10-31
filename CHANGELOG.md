@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.76 | Atualizar drivers Dell troca sozinho o Dell Update (versã... | 30/10/2026
+
+- **Melhoria**: Atualizar drivers Dell troca sozinho o Dell Update (versão doméstica) pelo Dell Command | Update quando os dois entram em conflito.
+
 ## Versão 4.5.75 | A ficha da estação mostra a versão e explica quando a vis... | 30/10/2026
 
 - **Correção**: A ficha da estação mostra a versão e explica quando a visão ao vivo ainda não está disponível.

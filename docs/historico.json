@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.76",
+        "Data":  "2026-10-30 21:04",
+        "Titulo":  "Atualizar drivers Dell troca sozinho o Dell Update (versã...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizar drivers Dell troca sozinho o Dell Update (versão doméstica) pelo Dell Command | Update quando os dois entram em conflito."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.75",
         "Data":  "2026-10-30 20:59",
         "Titulo":  "A ficha da estação mostra a versão e explica quando a vis...",

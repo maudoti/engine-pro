@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.75",
-    "Instalador":  "EnginePro_Setup_4.5.75.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.75/EnginePro_Setup_4.5.75.exe",
-    "SHA256":  "788C6D33492BF909C95EBC9D02B5EED3434924B4E2ED86EAC1FBF38F973ADA0C",
-    "Data":  "2026-10-30 20:59",
-    "Notas":  "Correção: a ficha da estação mostra a versão e explica quando a visão ao vivo ainda não está disponível; resposta mais rápida aos pedidos do TI",
-    "Assinatura":  "SWWlsadamIxO2V09BFWnLABVtPvu859cZw5KMPNWgVRaJHBZQlF42qzM0cIhmI3PqbQYgW/kNO3ajGB5rqN4eQC7pzfRxL7Dai47uBhSH+iNDn42YTVoJMXrGv5Py6IRUBLF9QnIFofPJQVBdRpKOBrNXsDjc8HZvsFSmyOOsTcoZgGCS4zxoxDAk9EtUrk0Jy4yIh41EEcXyAP8mtZZMCJekIa7xXig6Cw3dqOsDtOlY8brkhswUkm1d/oVvtZjgHb7nmXTvVimtylFPOa2n0ALmUuddZhc/Z0m7QyJ9OmM/dNffF94de0Bu2mln3q3qhc2TjdKttOk3ndj3jOQ3nGbUy4K9IxIznVUfc/QXB6EDt1ua3vdtJBuB7A0pmshzvpLXUQ8daJA9So7vdTa1tYJ5ENcveUjFDkiG/oBiN9XS410lJ2AUZDG8FCWQ2UjIxR6i8b4PqBubvp26bOjC7nv+yLqRwTU+gWmzP8XuEZbTuOoyOAmAVAQYgdsvANV"
+    "Versao":  "4.5.76",
+    "Instalador":  "EnginePro_Setup_4.5.76.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.76/EnginePro_Setup_4.5.76.exe",
+    "SHA256":  "C28EFD2D750CB5E432BFF4C3C2B80B23899467EDA91E601453416207007CCD90",
+    "Data":  "2026-10-30 21:04",
+    "Notas":  "Melhoria: Atualizar drivers Dell troca sozinho o Dell Update (versão doméstica) pelo Dell Command | Update quando os dois entram em conflito",
+    "Assinatura":  "K+JWnkZoQuoT0iUm+ShbACPZYSqPeJCxUDKoY4Txs1uP4re6YRPTPjISMFqKPYGOuAkT+g4VSv9d6hv82gKdYsserV4scZ6/31WpBg8G2NhPLPr8EqU4cDQX/zYR0hETMtOvVsXFj3yY8TY6MVnp+qQE/GbNrd9eH6GoOtFLEdfCYmgqtobbrmLbzLsPbdG7rJdDa5IkNDLbM+dy+0EGCUfH2bHK18RIvDrOzdrHnBJcry2QrDzTeo+xPppYESh9i/kUfZl1qktirE8wzkZKbvlfA+M83G+geZLpIofwK2bA0Tlr4Ui5HRYg9ghUU0n/pveIs0MDM/19Z37MHYnv80Wg3veUsAV1HqYtR1rikwrIvn5EppChUXd3TI18uGH2DqylIUoP5Fox2xGiHlTsd4eQQRO11pOHz2E9iU+hclt4Tzq2c5aTTmUg6QUNtd7IyHlFqCl3c0PLNVtzSZsyog8qKzartmhIeeDcOWAkauc4IgMFgj1mhnC3JC9y/o9j"
 }
