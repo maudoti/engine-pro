@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.88",
+        "Data":  "2026-10-30 23:41",
+        "Titulo":  "Avisos com explicação longa aparecem resumidos, com Ver mais",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Avisos com explicação longa aparecem resumidos, com Ver mais."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.87",
         "Data":  "2026-10-30 23:36",
         "Titulo":  "Item Eventos e telas azuis no menu lateral, em Suporte",

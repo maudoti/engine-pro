@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.88 | Avisos com explicação longa aparecem resumidos, com Ver mais | 30/10/2026
+
+- **Melhoria**: Avisos com explicação longa aparecem resumidos, com Ver mais.
+
 ## Versão 4.5.87 | Item Eventos e telas azuis no menu lateral, em Suporte | 30/10/2026
 
 - **Novo**: Item Eventos e telas azuis no menu lateral, em Suporte.
