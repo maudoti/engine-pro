@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.5.128",
+        "Data":  "2026-10-31 17:52",
+        "Notas":  "COLMEIA: opinião de outra IA na hora; Melhoria: ajustes internos de estabilidade",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.128/EnginePro_Setup_4.5.128.exe"
+    },
+    {
+        "Versao":  "4.5.128",
         "Data":  "2026-10-31 17:51",
         "Notas":  "COLMEIA: opinião de outra IA na hora; Melhoria: ajustes internos de estabilidade",
         "Canal":  "teste",
