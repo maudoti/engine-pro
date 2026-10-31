@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.117 | Linha ao vivo da COLMEIA com o que a IA aprendeu, quantos... | 31/10/2026
+
+- **Melhoria**: Linha ao vivo da COLMEIA com o que a IA aprendeu, quantos computadores aprendem juntos e resumo das pesquisas.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.116 | Contador de pesquisas corrigido no site | 31/10/2026
 
 - **Correção**: Contador de pesquisas corrigido no site.

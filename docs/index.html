@@ -321,11 +321,11 @@
         var h = Math.round(m / 60); return h < 24 ? 'há ' + h + ' h' : 'há ' + Math.round(h / 24) + ' dia(s)';
       }
       var frases = (c.Recentes || []).filter(function (x) { return x && x.Texto; });
-      if (!frases.length) frases = [{ Data: '', Texto: 'A COLMEIA está sempre aprendendo' }];
+      if (!frases.length) frases = [{ Data: '', Texto: 'A IA com aprendizado em COLMEIA está sempre aprendendo' }];
       var alvo = document.getElementById('vAgora'), i = 0;
       function mostra() {
         var f = frases[i % frases.length];
-        alvo.innerHTML = '<small>' + quando(f.Data) + ' ·</small> ';
+        alvo.innerHTML = f.Data ? '<small>' + quando(f.Data) + ' ·</small> ' : '';
         alvo.appendChild(document.createTextNode(f.Texto));
       }
       mostra();
