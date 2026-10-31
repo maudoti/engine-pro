@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.125 | O Engine Pro volta a abrir quando uma janela antiga fica ... | 31/10/2026
+
+- **Correção**: O Engine Pro volta a abrir quando uma janela antiga fica presa depois de uma atualização.
+
 ## Versão 4.5.124 | Instalador com textos mais claros | 31/10/2026
 
 - **Melhoria**: Instalador com textos mais claros.

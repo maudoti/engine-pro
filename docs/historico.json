@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.125",
+        "Data":  "2026-10-31 16:59",
+        "Titulo":  "O Engine Pro volta a abrir quando uma janela antiga fica ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "O Engine Pro volta a abrir quando uma janela antiga fica presa depois de uma atualização."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.124",
         "Data":  "2026-10-31 16:52",
         "Titulo":  "Instalador com textos mais claros",
