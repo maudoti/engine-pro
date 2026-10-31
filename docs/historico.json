@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.109",
+        "Data":  "2026-10-31 10:48",
+        "Titulo":  "O chat do Modo IA mostra a saudação antes de descer para ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "O chat do Modo IA mostra a saudação antes de descer para a varredura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.108",
         "Data":  "2026-10-31 10:42",
         "Titulo":  "Assinatura da inteligência artificial na abertura e no site",

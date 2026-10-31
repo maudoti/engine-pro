@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.108",
-    "Instalador":  "EnginePro_Setup_4.5.108.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.108/EnginePro_Setup_4.5.108.exe",
-    "SHA256":  "43937A37FA9F558973734BE64F6A99D383B036A6AD2E6EB37AA7164956759FAD",
-    "Data":  "2026-10-31 10:42",
-    "Notas":  "Melhoria: assinatura da inteligência artificial na abertura e no site",
-    "Assinatura":  "a+xKGIJvSCh0gQNdHmdPusm9wNFyINcysjceUn+r7S6nLBChFVDicJEZyyhAp+FIbSCwMuR+PHQIOIOWBDHYvx6LS9hm4Gt1d7/vhaSAsX9ApSs2EW05+GhyxFZVtBL+TEzH+xmzBmS3A8aCukPtQOs8lOy8Co8FWy+DQuRQdYJ/jS1XYNNBToxwqZOwsLl7wmAPN5ucr2D95zFOMB1eBRRzHi67ENwNpJ2IWHzhlS7IZ2xeunKbUOx0j1lwoa0gvy1L+oanweN2R7t89NGAdjuA7BiKCZkl6lc50nodF6n6YHzHumshKLDa1H3zV+Jui0+kT2A7QpiPeoMmVWc/TISKlW6f8MBLB8F7ZV6awgtZxk6bnqIGuPvV9bRQv1c8izIfSj9SNOpaGYTHrBAsuefmgO5fO9/e6LP0SW3b7TvE0UywSvn38eUmBYZLBlEuPPsQ4gwF5wNq16UMZ7r1YqHC3dpdmqjl1WcFMr1Qv+lJ946ZUtC6xpdtnUwbptsE"
+    "Versao":  "4.5.109",
+    "Instalador":  "EnginePro_Setup_4.5.109.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.109/EnginePro_Setup_4.5.109.exe",
+    "SHA256":  "E263B374FD386567E3902013634B80958D8006E44AAA0784E6EC5E726A00DB28",
+    "Data":  "2026-10-31 10:48",
+    "Notas":  "Melhoria: o chat do Modo IA mostra a saudação antes de descer para a varredura",
+    "Assinatura":  "IzIvclR0jNVUyFhocyE+EmlIiXAOAeVFd2JVppnWJN8C78p1o+u1LW2w7jJwVj642dqEDFl+gerN98fxSg1o8WuBhz0XyY36Wm5hitw5izv438cFGMC7mzyEepMMffOXwrYsu/4T7yyI6zpvxZ0UAZ64jjYJLbr0Tkqk/4u2fwPxY+tUPW1OkkwVo+GO5z8ZG4yhjN20Av+j/LSl590F0xrNmSOExnEa59v98tAxCvmdhNl946r/ULF1x78l6cXQeKfRu4ST6XCzOO70Aq6ySJgulU1G18g570zwc2iv7yzocioAJh7EgDpEOipAAL5Wh4wAbcmzkRxSijh8eZpMWKOCrFUveIrbKJO0YKYdHm8x51PRVDzVrNz1mU3+TZGP5F+xcKFBR0oCbD8g9W7ugc6XBnOcw2Qd17VhpPVmdwUOG6GArBm7eQ94IcMdKYZsBav+WJ89FTdTW/Zp+1WWZAD9s2OOKVo/z5RThHnQT2S1G6RmLry7ldfE+M+zeqna"
 }
