@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.111",
-    "Instalador":  "EnginePro_Setup_4.5.111.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.111/EnginePro_Setup_4.5.111.exe",
-    "SHA256":  "1EFFE8BCAF4BE0E333D62F04A87244CF51C8ECD44AE75EF8A8924E8DCDA1B1CF",
-    "Data":  "2026-10-31 11:25",
-    "Notas":  "Melhoria: ajustes internos de estabilidade",
-    "Assinatura":  "wDmy+nmAKhMtW9wS1N7O1mk3L7n1tacvpgf3Qn00gEkpltw+eUH2ojWqSVDiwoJCyhxZN+rgK0CcGOIPw4VlBwRQs12n96RbvnVWpnzFY/ZuMrSss+0QumPEQdgWh0GcPhmBW+5K5wzMi+y3rqEmBSmAhtClOW5pWhR2vlFmjnNxD4wmCIjbFzxXfVniqn6Z+CCyhBx5hXZJW51W3mJdO/gJL3QEDTxpJiWuhxjyIsakJg7SN5FmsbCgaqbOH+gBB/eoVD0p/XfJ1qKOuxC1Qui3F0IFPzVpUrirECXKxJYy6aAqrfUkIeOZiIzLXY/OsGX+e/Me2fcOfG1427zn6nYIjBiw2QHhfj1lWSdpPBB7XifFC+vzCWGzGc7MrGmFU8EigBGrxL4tQLQ4sVKHfWtyvdPV1w0rtj4hy2dphxoxT+Ri0kn10z0x8ZXj5cwlfX5iPkAqELhyxkCuPM6O2UZ9KeguTClS4KiU3VarQFvHtj5vDTukb8vtCTOrESmc"
+    "Versao":  "4.5.112",
+    "Instalador":  "EnginePro_Setup_4.5.112.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.112/EnginePro_Setup_4.5.112.exe",
+    "SHA256":  "95EF626459997A5B74D367B2CC414CAC1BEBEA755B6B2AFF88E0890DC0A4809F",
+    "Data":  "2026-10-31 11:42",
+    "Notas":  "Melhoria: a IA estuda continuamente na internet e o Modo IA mostra o total de pesquisas",
+    "Assinatura":  "gEq3zA73vPwgb7/bImir7U+X5pddn3fcQH88py0UXtxc3jSMY8d3JgZ+UFRL5cSdHGz+kR/QdBaj5pWwv1YuidkeSVEOWBa9QgNfCcYCb8jykgPH6kNRaeDKsCeZN82GAgN/9Gy8cDtd4lBOAkTe9tqJ4tGwMdkieluHrohdv+iB4LI3JstxPfX/xlydV9HuUfrcElrXnDlx1CmZYoaVeL18S1BWJbyx+gXl6+ypsTi2oXdyDY2Qt1p3gz4C0Om0hHmYezBvdovxNxtNQbEkeBU/XLIHbQx5yg1H1Yas0bh+9hh9hS7cg8lQNpEf3y4EcR5hXwN4rABZNcprzQjvfRAn4UMtgox6JexbeQQcPWJht4xn9TRCdS4/b/tX+AbmigrRzaryvL3KkQDbGR/6ieAgo9lyws84JOldZH9U5m2r7TXrqccnhODAFp9SFjU5grak6+XcFjTiIXFfkyrxsIf2QMuaABGDQHyqkl0VhAC3OqE4sSZoCWEfltaTbYpL"
 }

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.112",
+        "Data":  "2026-10-31 11:42",
+        "Notas":  "Melhoria: a IA estuda continuamente na internet e o Modo IA mostra o total de pesquisas",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.112/EnginePro_Setup_4.5.112.exe"
+    },
+    {
         "Versao":  "4.5.111",
         "Data":  "2026-10-31 11:25",
         "Notas":  "Melhoria: ajustes internos de estabilidade",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.112 | A IA estuda continuamente na internet e o Modo IA mostra ... | 31/10/2026
+
+- **Melhoria**: A IA estuda continuamente na internet e o Modo IA mostra o total de pesquisas.
+
 ## Versão 4.5.111 | Ajustes internos de estabilidade | 31/10/2026
 
 - **Melhoria**: Ajustes internos de estabilidade.
