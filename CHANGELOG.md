@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.126 | COLMEIA: pesquisa sob demanda e mais soluções chegando pa... | 31/10/2026
+
+- **Melhoria**: COLMEIA: pesquisa sob demanda e mais soluções chegando para aprovação.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.125 | O Engine Pro volta a abrir quando uma janela antiga fica ... | 31/10/2026
 
 - **Correção**: O Engine Pro volta a abrir quando uma janela antiga fica presa depois de uma atualização.

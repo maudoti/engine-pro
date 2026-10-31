@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.125",
-    "Instalador":  "EnginePro_Setup_4.5.125.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.125/EnginePro_Setup_4.5.125.exe",
-    "SHA256":  "6B869775FD74723CFAE5C2A528A975B531E21A22A568068A965203773729DB53",
-    "Data":  "2026-10-31 16:59",
-    "Notas":  "Correção: o Engine Pro volta a abrir quando uma janela antiga fica presa depois de uma atualização",
-    "Assinatura":  "Qm1S+ppjP5FcEDgLaoCGB6AKXGXwlS3oSEUF/G8LpaCGnINaou4tszBYl5NeRe4QSLW3mWSJOb2Bp9h27ki+YHKCzYIC3vPjHiDtzsrJWp3s6BAGsFA1fVMLpaZHkj0cJRak+tL9TW3YfaeGzeMtOarp2pzl9uOLFFwif1NQiD7I91hNQD/zessU8h+/kHjsCpFeIhBzkJMBD6MO7LxOegIqxagZZ5rqqkV04PHreSikl8Gi1Jg18hkYr5guhaGn163wKilYs5uKDd1y/Opl2JtF2uHpgbxPe+vRE4fYaQe2omoTSJHdl8O5rO7uKbZRxizqiIhs42wV7tCpGxedZV/8F8xHvqN3DGm6E5hhE+Jz/shJZ5wFYi9DE7QfjAiGYKpmNrZlX+g8bZRIphC/eP5thh0ByiJA5arZkUJevOK6yTwWutL3y/s7ZByHu+GbEYUNGOv7sk5q4NCo7PxWz5gaPeIDQMLhqH4MuKTa7uwecIvwFZ660dTnIxxDvC+o"
+    "Versao":  "4.5.126",
+    "Instalador":  "EnginePro_Setup_4.5.126.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.126/EnginePro_Setup_4.5.126.exe",
+    "SHA256":  "7A0E2C458D7C7949A87345472F2FA1A0C4AA37E5E834A188C23ACA54399BABD5",
+    "Data":  "2026-10-31 17:02",
+    "Notas":  "COLMEIA: pesquisa sob demanda e mais soluções chegando para aprovação; Melhoria: ajustes internos de estabilidade",
+    "Assinatura":  "cczxeo1RH9Fv2CiJZTDS+9q2LKZIDAdR3LeAn12O3BVn4w6kumwrswWY5JXTkF2xwD7asJLha5ZL4JB5YVzyghI618c43QRW3XImStsa6uwP9kOJaHYb9B6ef6ZMXh2qSwHqUdSp4+p6zMTBoeN55mGihECv4x6f9M/l20LiPettikRY2fsGzWFzrTZHRABTmVO840496eT9srLvuXJHVvLQYHvMHYsqsaArF1Lqh1lta07wwcuS9mnU41RzPWvEEMDxEBQq6Pf4WhcX98bwXfYjT7UUd7VQ8WHPd1YDv9VzPYJZQEtVzubMkPRtrb4iV6xpNVp+3f8OXzf9+qkCgCuJsUCYDcppAyTtnnds+PS7ikQKGkOqYy4ShB11phSDZfrrHq66nvDXJo4i4oy7/uoAiMI01OZVGJi8PR4ov23m4Y7eCqN4WFZtxpLkfAh/HMyNmULFWZ+XJvGJ0BNb2JwBjBsVNueBva/6oIEw2KJjPgAt+CSlodpWcji+P0NJ"
 }
