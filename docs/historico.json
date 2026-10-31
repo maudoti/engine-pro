@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.81",
+        "Data":  "2026-10-30 22:00",
+        "Titulo":  "Visão ao vivo das estações também pela rede do escritório...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Visão ao vivo das estações também pela rede do escritório, com o andamento do pedido na tela e registro na estação."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.80",
         "Data":  "2026-10-30 21:52",
         "Titulo":  "Página Estações volta a mostrar todas as estações com o i...",

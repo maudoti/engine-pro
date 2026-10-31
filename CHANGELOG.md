@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.81 | Visão ao vivo das estações também pela rede do escritório... | 30/10/2026
+
+- **Correção**: Visão ao vivo das estações também pela rede do escritório, com o andamento do pedido na tela e registro na estação.
+
 ## Versão 4.5.80 | Página Estações volta a mostrar todas as estações com o i... | 30/10/2026
 
 - **Correção**: Página Estações volta a mostrar todas as estações com o inventário completo.
