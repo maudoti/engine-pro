@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.5.133",
+        "Data":  "2026-10-31 19:50",
+        "Titulo":  "COLMEIA: fila se atualiza sozinha",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA: fila se atualiza sozinha."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Drivers repetidos tratados como um só."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA sempre com os modelos atuais."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.132",
         "Data":  "2026-10-31 19:42",
         "Titulo":  "Drivers repetidos tratados como um só",

@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.133 | COLMEIA: fila se atualiza sozinha | 31/10/2026
+
+- **Melhoria**: COLMEIA: fila se atualiza sozinha.
+- **Melhoria**: Drivers repetidos tratados como um só.
+- **Melhoria**: IA sempre com os modelos atuais.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.132 | Drivers repetidos tratados como um só | 31/10/2026
 
 - **Melhoria**: Drivers repetidos tratados como um só.
