@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.90",
+        "Data":  "2026-10-30 23:53",
+        "Notas":  "Correção: nota de saúde Boa aparece em verde no Modo IA",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.90/EnginePro_Setup_4.5.90.exe"
+    },
+    {
         "Versao":  "4.5.89",
         "Data":  "2026-10-30 23:46",
         "Notas":  "Novo: a IA corrige sozinha problemas vistos no Visualizador de Eventos (relógio, DNS, antivírus, impressão e políticas); Melhoria: letras maiores nas janelas de eventos e drivers",

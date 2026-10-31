@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.90 | Nota de saúde Boa aparece em verde no Modo IA | 30/10/2026
+
+- **Correção**: Nota de saúde Boa aparece em verde no Modo IA.
+
 ## Versão 4.5.89 | A IA corrige sozinha problemas vistos no Visualizador de ... | 30/10/2026
 
 - **Novo**: A IA corrige sozinha problemas vistos no Visualizador de Eventos (relógio, DNS, antivírus, impressão e políticas).

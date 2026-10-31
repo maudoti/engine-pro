@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.90",
+        "Data":  "2026-10-30 23:53",
+        "Titulo":  "Nota de saúde Boa aparece em verde no Modo IA",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Nota de saúde Boa aparece em verde no Modo IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.89",
         "Data":  "2026-10-30 23:46",
         "Titulo":  "A IA corrige sozinha problemas vistos no Visualizador de ...",
