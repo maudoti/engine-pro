@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.94",
-    "Instalador":  "EnginePro_Setup_4.5.94.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.94/EnginePro_Setup_4.5.94.exe",
-    "SHA256":  "DA880F5297436EA521040DC9E88F746365462DB4452FD9A623B7DEE51AD17CA1",
-    "Data":  "2026-10-31 00:16",
-    "Notas":  "Correção: eventos de programas que fecham mostram quem derrubou o programa",
-    "Assinatura":  "ZrgrQQsy56k6gK74h76DtrkB/Svr/avh5e5LbMONIWPMZKh+IuaA6xrEf9xYuepec5Q0gevcfDL1GVYcAvhClt67xOCFnwDYQJWJGSCWW6CVqfajabWDQwXMEYGB7+M4Q0VnjwsIcqC+Rirq9B7gSccL8IaEyhjzHnZ/gysB+j6c6YB1WTIBUu0bWhFjLTUXd+B+eem92Xiy1kjdyMfjdM+UhDhMF9V0HhQtCIXovnWtDYoArcbyu1CAm0qoQU6Y8gzgY3tbQJ0R9n9qEAlcY72K+T/hM/dZugIvNdspeKaN6GYX6jy/TkQ/R0ebpZwRRvT2xAMz+uG7FIxgAM9233Pj6Xf2K3z+F2F4pzlnGRi24zbX/7wWVJwMm3/lEpEP5+hQhJ3XFQGhuGV6q5lIDCX9MGof+VOQr4Jr2oldiGdUtvDVMTbY0fLWWWGCXVb3ts2UFKd/dlI4pqbb2ZQ8RR9epmHgcoYO6Ad8BqpgAfh1SOGppjjBPp8jwnJdI7da"
+    "Versao":  "4.5.105",
+    "Instalador":  "EnginePro_Setup_4.5.105.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.105/EnginePro_Setup_4.5.105.exe",
+    "SHA256":  "5BF5F5D921701C8D6E3008F6C12BFFA15A9D8242BC75F75E3BBEE1B31C5EDE6D",
+    "Data":  "2026-10-31 03:54",
+    "Notas":  "Correções automáticas mais discretas (no máximo 2 pesadas por dia, só com a pessoa longe há 30 minutos, em prioridade baixa); logs recentes do Windows e do OneDrive sempre preservados",
+    "Assinatura":  "UP5MnM6ny5QSxdAaTSW59al8l5sZNOyaik0qYenmK/TUkxjCMuHe8GMzI/0Z5ZQ5im7VnOxgwZJKwfBcXYz8Gzq4e+CVQudXEofHjem6UsWhqf3DhJ5OzsGe/FSJzmsz4PS8Im2sFYJQUXnGk4G9BRRRYdTBzrHUGmgKFKbDClnWJksI7JGCaPv/sCm6qnv4Ie1ivKtcz6a+dJeUOKc0QLXZINeYYlqMsaQ9ste2bz+U3pkkSFv4wPLA4CBKrSX2pDwM4TgAVF6SspbnGgaS6Xu7qiLsZFS/J4s/0KzlDetnL9zOxEXJbdL96+fK66kecHajK9a9mk9lS7OmJCo8K1Vi7cbYEmJkywNpWyQ0CaETMSud++us9O6n7uUaAPn9U/YEJSaznjj48KOvGBkghGHq2rfuGZSqyWs/qxUEbwTm4YeSe+/Nshh0lZ+zmzDP8ZRAYQdsdtMRKT3diO0uKfUjLSZ8YROggG9fHhdSV7fMc/x4TD2xqoNxT8IbL8lb"
 }
