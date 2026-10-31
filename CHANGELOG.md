@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.127 | COLMEIA: mais IAs gratuitas conferindo as soluções | 31/10/2026
+
+- **Melhoria**: COLMEIA: mais IAs gratuitas conferindo as soluções.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.126 | COLMEIA: pesquisa sob demanda e mais soluções chegando pa... | 31/10/2026
 
 - **Melhoria**: COLMEIA: pesquisa sob demanda e mais soluções chegando para aprovação.
