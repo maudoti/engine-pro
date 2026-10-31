@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.99",
+        "Data":  "2026-10-31 02:44",
+        "Titulo":  "Abertura: Sozinha fica 2 segundos na tela e o Y não fica ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: Sozinha fica 2 segundos na tela e o Y não fica mais atrás da placa."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Site com a mesma animação do programa, também com as animações do Windows desligadas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.98",
         "Data":  "2026-10-31 02:34",
         "Titulo":  "Aprendizado em COLMEIA: animação em toda abertura e em ci...",

@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.98",
-    "Instalador":  "EnginePro_Setup_4.5.98.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.98/EnginePro_Setup_4.5.98.exe",
-    "SHA256":  "848F4F61654168591682B1189B891437B7266549899CD9848F2DC4D222F96B38",
-    "Data":  "2026-10-31 02:34",
-    "Notas":  "Aprendizado em COLMEIA: animação em toda abertura e em ciclo no site; janela antiga reabre sozinha na versão nova; instalador com o tema da empresa em todas as telas; pergunta do clima depois da abertura",
-    "Assinatura":  "N2Zz+Jcnp+A+2Q2Cwvau4CWsCXo+QuVpILcK8HiKxzYg7sS5bov4r6kVkg6zFTyuIU7E9hz08RWrlQIPwNaKyNCegLJyYu+Ua/tWpvxYrWU+yBFVML8Mj+MwPM5iKKD2c8yfCdk1nbmt99QUKr3mk78a/AF0G8ralUl7b+Ax/PAvxWXnLZKn1wdKsllZFDftccUONYWki7e0y26QA0RgMWM7m3SJDgfoLNXyyxW7+hGvoONOfELNNCsG622//SfSKsWB55NInPmY7+2kQnUC3JxOUyYHn7wMELErBjYC2mKc5j1uckFHxW1dx9FdFTJw+JPwkUt2QHaCw+xlh96mTKUYZLBavLoAm9OcPivUdS19co3Aztjesp/cpO3RoIySanjyG+QrBs+1Sa9ExwEK1ESdYHlc0J1JAOGFjyAgHqKrSsq+xnso+EjfMWgSPWaE+2jjIFqwJSQZiMLvaBVcLKbX/009piuyF98EvNN0kWOl0eTZ8624pfPo9VWNP4Oo"
+    "Versao":  "4.5.99",
+    "Instalador":  "EnginePro_Setup_4.5.99.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.99/EnginePro_Setup_4.5.99.exe",
+    "SHA256":  "DCCD17B8BF4E0DDB0074C083C58FDD4139E0638B8314CDF689BCE43A5CEF8835",
+    "Data":  "2026-10-31 02:44",
+    "Notas":  "Abertura: Sozinha fica 2 segundos na tela e o Y não fica mais atrás da placa; site com a mesma animação do programa, também com as animações do Windows desligadas",
+    "Assinatura":  "tTd74qMYjndFlik3psC3colNUPmpGu4SfnY2b3NTPFtXrMDF1N/QMJ/TR0FHLwzR/+uXjPDzo5jDAgmf9zyFQHHlMcAIQIjQ+OcLfd5VzNcVPBjhVprSwKIxisG3cvIuq4Oj2KKw8hDZ9Nha358gEmddOYxKYIEbeE5XMIAmobggPaasoMoAVEt14WRFSIQy7fCjADjht80ZrT/92ntbnxfsSTu2xu9e/VHZd0uHsqu3IPpOg4nq+Ih2Qx2NJOUpkHhKJmr44QVoIT35pdpqzsH4HdJl9Zn9c6RFHY3Z1HX3fdHwubynSKshBzDXjpuOeXs5rNUui3lTv4sxVJstEKjkryC+arQyhwxzVG1Y65e/RrT1P2asVZa4va36GjV1D6qrNEHX+h/RSUaeKCdieBtdijRXwMfAbmXwjy12bBYL6H6pHwnZYLfDOtsUASPKMkPjyD2JCyTP8EDVN8D2E3p8qh8MNvdxsEwHdCXO+WsGUUQksOf1bnkU/K/hlAh4"
 }

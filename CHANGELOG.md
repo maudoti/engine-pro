@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.99 | Abertura: Sozinha fica 2 segundos na tela e o Y não fica ... | 31/10/2026
+
+- **Melhoria**: Abertura: Sozinha fica 2 segundos na tela e o Y não fica mais atrás da placa.
+- **Melhoria**: Site com a mesma animação do programa, também com as animações do Windows desligadas.
+
 ## Versão 4.5.98 | Aprendizado em COLMEIA: animação em toda abertura e em ci... | 31/10/2026
 
 - **Melhoria**: Aprendizado em COLMEIA: animação em toda abertura e em ciclo no site.
