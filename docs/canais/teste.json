@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.88",
-    "Instalador":  "EnginePro_Setup_4.5.88.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.88/EnginePro_Setup_4.5.88.exe",
-    "SHA256":  "BE21FDDBAB7A2B064673D456EF32B2D4D3586ED8BEB66D12C835E57A2FD62B65",
-    "Data":  "2026-10-30 23:41",
-    "Notas":  "Melhoria: avisos com explicação longa aparecem resumidos, com Ver mais",
-    "Assinatura":  "IthI6tLMMsFlYeWaZ5ytfCOjzzKopS+oCkZS6CMN7BEJbab3HfEIUTBfAQxJd52pIJU2Lz8O9/JLv+JO6Yj3bu1Gm/+mEE/MrY6GG892RnoqJC4lfva4+cvUW0WKHEfcO3FKxG99+wEeCCZ1G42hvzNbu6wpzwL83Dp4XYyvBUSZaMDDvDC+7uiO2iMrHtu3yp3WM0HaknpbIUYLwl580co9ShM95W6zQJlkexYwysr9Oj6yJ+3jPmnRoiFssWvAyDiFswooGTJJte31pG5elpaWkBHZgmBU83yjM7vG9nKzhOHBhMGxBT4sb9KfPUIrF4kKu58fUa8ppqVzKUWSIL+cd4jEGiSj20oSlUgPNxWoW/7jDwX4IkZOSCagBOFCCdESvb8hQo1FdiYr3fiXcA/kKecMLJz0L2BJSoNdYawYg+KxiWOIbni7wpc6lKknWeCuH9SPmgLE4ScxLIHGvZ3fYMzuf6JIK2hOEhH/FZ0WCVhtU0HnFF4ToZ+1IfFq"
+    "Versao":  "4.5.89",
+    "Instalador":  "EnginePro_Setup_4.5.89.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.89/EnginePro_Setup_4.5.89.exe",
+    "SHA256":  "F1830E3406BB7CD8A5F61993B46D26167F5A2508C5E4254D2BAC018737368CBD",
+    "Data":  "2026-10-30 23:46",
+    "Notas":  "Novo: a IA corrige sozinha problemas vistos no Visualizador de Eventos (relógio, DNS, antivírus, impressão e políticas); Melhoria: letras maiores nas janelas de eventos e drivers",
+    "Assinatura":  "RxETPw01DZ4vM5rGoyqH7FknHF3/N39kJTN8N1CvX9CymoFNnO1JSMGLVMV2O9VGnFwWPHuvMzpQrAofxhm06XddAjxxwo+lOvhuUOeCQAsAOOMiat0ZAjVE3HWzQgIyJdyNwhmEgcbIjd01AlfPZlWyqvV4j4zFTDD+DOtvQ2G0fbkORmtnrZhxt8HFTUabn0V3kyUTi5NtUe4WRCH7bt4u5kwCfLyrsiN2fzrKGyxbnRLW0gDry7skOoMtghX0nDVmk2iJlIB/pPB4NvZUH20EGC2p1BqdCEmdE4fnRKzvTA+z7ef1MhZbJr0VqmkMneyXUJe2NzfDJvq9Q7B3JE8aLbsw2jD4n9PFKFNsrTEGqUENPaDbGWNxxiTYnmRy2QSYNpd6f9lEIlgn+a5UT3+LbBbj7PWtM+WlRgrDXbalEN/8hmTczslpe2vu5IRex0pv4rTLWPSFBKBjom2I9M1sEDaJapt6LkzhdR11eOTdSBFytma6EXwaJNaBWGlR"
 }

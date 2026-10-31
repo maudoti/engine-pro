@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.89",
+        "Data":  "2026-10-30 23:46",
+        "Titulo":  "A IA corrige sozinha problemas vistos no Visualizador de ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "A IA corrige sozinha problemas vistos no Visualizador de Eventos (relógio, DNS, antivírus, impressão e políticas)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Letras maiores nas janelas de eventos e drivers."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.88",
         "Data":  "2026-10-30 23:41",
         "Titulo":  "Avisos com explicação longa aparecem resumidos, com Ver mais",

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.89 | A IA corrige sozinha problemas vistos no Visualizador de ... | 30/10/2026
+
+- **Novo**: A IA corrige sozinha problemas vistos no Visualizador de Eventos (relógio, DNS, antivírus, impressão e políticas).
+- **Melhoria**: Letras maiores nas janelas de eventos e drivers.
+
 ## Versão 4.5.88 | Avisos com explicação longa aparecem resumidos, com Ver mais | 30/10/2026
 
 - **Melhoria**: Avisos com explicação longa aparecem resumidos, com Ver mais.

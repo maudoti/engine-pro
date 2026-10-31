@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.89",
+        "Data":  "2026-10-30 23:46",
+        "Notas":  "Novo: a IA corrige sozinha problemas vistos no Visualizador de Eventos (relógio, DNS, antivírus, impressão e políticas); Melhoria: letras maiores nas janelas de eventos e drivers",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.89/EnginePro_Setup_4.5.89.exe"
+    },
+    {
         "Versao":  "4.5.88",
         "Data":  "2026-10-30 23:41",
         "Notas":  "Melhoria: avisos com explicação longa aparecem resumidos, com Ver mais",
