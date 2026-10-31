@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.119 | Linha ao vivo da COLMEIA sem cortes | 31/10/2026
+
+- **Melhoria**: Linha ao vivo da COLMEIA sem cortes.
+- **Melhoria**: Textos das ações da IA ajustados.
+
 ## Versão 4.5.118 | Linha ao vivo da COLMEIA sem cortes | 31/10/2026
 
 - **Melhoria**: Linha ao vivo da COLMEIA sem cortes.
