@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.146",
+        "Data":  "2026-11-01 14:04",
+        "Titulo":  "Kit 212: aviso de atualizacoes (Java/apps), SystemSetting...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Kit 212: aviso de atualizacoes (Java/apps), SystemSettings corrigido, OneDrive nuvem cheia."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.145",
         "Data":  "2026-11-01 13:44",
         "Titulo":  "Kit 211: ignora apps UWP do Windows na deteccao de travados",

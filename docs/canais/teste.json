@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.145",
-    "Instalador":  "EnginePro_Setup_4.5.145.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.145/EnginePro_Setup_4.5.145.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.145/EnginePro_Setup_4.5.145.exe.gz",
-    "SHA256":  "A108E1041C8D100EB0FD6954B20DADB56FB651DB33CEB8B084CF3FA3216CA698",
-    "Data":  "2026-11-01 13:44",
-    "Notas":  "Kit 211: ignora apps UWP do Windows na deteccao de travados",
-    "Assinatura":  "VWDBFvm7L4WLEpY2ViMmkFcSiECMGLQYDMKDvu1pORQ1N/sIhVB1uoc7DURyUgqR8Wp7HujHjPkGyiz/KHvB5vjM8ul0DcwSDLqIfJfIIGDneFROKrSYYuIPHq9PZe/OpqFKqRcqeLsLeSEf+1cQh9WE70ObgPTX/OciArR7goaKKPP56XsgqHcg0jCEnea69MNQEVUfYvUxub9VKt06UafNZTPJz1w/4XZkUVqbxdDFnamUXZmF8m4nsTbou4no+BHdDuSY/B5V5eTDICDPdq907eu+FBNN9OD5DUcUGgJbWEI2SLFnbWzeKURToA2FFNdliYI/VBlSwMVAZGA1XJCzY7dN5a3wmUegwGDQ6Rr0MdJ2d6n8Xkg5drl2e38uD74axPcBYXQ5yduePIvzjQ/F4xUZdoIXCnPBMwrkZ12jyS0Ge9cjL4KxD/0FMJO4tVqJDeRrxtAiMJq94ihgBZ4ym9P6B6pdXJuOPE8HccY1y5fjd3NZeMeCqkaG381b"
+    "Versao":  "4.5.146",
+    "Instalador":  "EnginePro_Setup_4.5.146.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.146/EnginePro_Setup_4.5.146.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.146/EnginePro_Setup_4.5.146.exe.gz",
+    "SHA256":  "7790DA3FEB9AD80B1AD65196C8281E557171B6A064113CE056A30A98AA453EDF",
+    "Data":  "2026-11-01 14:04",
+    "Notas":  "Kit 212: aviso de atualizacoes (Java/apps), SystemSettings corrigido, OneDrive nuvem cheia",
+    "Assinatura":  "SBWfHfsEf4TB3tfjlC4tvZXbsETSPSA1lCZwF8oKgxUu7/wIYz4iZY06UIjdbf1V0lIyYso7mmnujziqDHX3i04Cbggk6W15OKcpCWj4Hlg1Um6HOv4OcBJ7QcAgQpPDXGIqLrt6rmwzE5Zqm97WemgIWPPTdLIaqlgJ0OYZEK1DdB2s/9ezDgDr5uJH2XJWmr2uSsBEpe7E39OvYXcaLO0SX/9OPjvI4TT7qg9E739vQG0YWqZD+uYgYZfoDRSb5avltExEbxukpjinMg2wfja5MA9p6URullLecDxCK3mWPRvOh0cdi0NiViOlp4HbJEGlXOHeSkfXN7D4b/y74B0Kv9iPPOXLGzxYySXMwwlXNd8wT8OsqxFBqeByEu8RnpTImaHF9mu6ZBv1lyNByufuzIInckFwzBcmQeH2KKpCY26YVJ1LwglZFpRo6uedS4YzB7xOugxX8APAeM3EavhMFYknbzCNBfkMFyrS3/u2xQtZknIReZl0Ke4FLBoV"
 }
