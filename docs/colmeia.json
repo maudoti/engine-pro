@@ -1,22 +1,27 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  447,
+    "Conhecimentos":  448,
     "Pesquisas":  208,
     "N48":  208,
     "Recentes":  [
+                     {
+                         "Data":  "2026-10-31 22:40:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003D (INTERRUPT_EXCEPTION_NOT_HANDLED) no Windows",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-10-31 22:00:47",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-10-31 21:59:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 208 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 208 pesquisas em bases técnicas",
+                         "Data":  "2026-10-31 21:59:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -81,6 +86,6 @@
                   21
               ],
     "Ultima":  "2026-10-31 22:00:47",
-    "Gerado":  "2026-10-31 22:37:03",
-    "Data":  "2026-10-31 22:37"
+    "Gerado":  "2026-10-31 22:47:03",
+    "Data":  "2026-10-31 22:47"
 }
