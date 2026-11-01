@@ -1,28 +1,33 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  449,
-    "Pesquisas":  472,
-    "N48":  472,
+    "Pesquisas":  493,
+    "N48":  493,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-01 11:29:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-01 10:27:24",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-01 09:25:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 244 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-10-31 23:43:58",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003F (NO_MORE_SYSTEM_PTES) no Windows",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 265 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-10-31 22:40:40",
@@ -87,10 +92,10 @@
                   22,
                   28,
                   24,
-                  15,
-                  9
+                  24,
+                  21
               ],
-    "Ultima":  "2026-11-01 10:27:24",
-    "Gerado":  "2026-11-01 11:27:03",
-    "Data":  "2026-11-01 11:27"
+    "Ultima":  "2026-11-01 11:29:53",
+    "Gerado":  "2026-11-01 11:37:03",
+    "Data":  "2026-11-01 11:37"
 }
