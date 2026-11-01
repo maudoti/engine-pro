@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.143",
+        "Data":  "2026-11-01 12:24",
+        "Notas":  "Kit 209: OneDrive - detecta falta de espaco no disco (X vermelho)",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.143/EnginePro_Setup_4.5.143.exe"
+    },
+    {
         "Versao":  "4.5.142",
         "Data":  "2026-11-01 12:02",
         "Notas":  "Kit 208: OneDrive - sem falso fechado no boot e sem \u0027falta pouco\u0027 eterno",

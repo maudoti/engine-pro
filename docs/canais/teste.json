@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.142",
-    "Instalador":  "EnginePro_Setup_4.5.142.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.142/EnginePro_Setup_4.5.142.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.142/EnginePro_Setup_4.5.142.exe.gz",
-    "SHA256":  "305AACC72C87D911FE984D5543137C48FF4C43BD649FF58A1B2AF13589311719",
-    "Data":  "2026-11-01 12:02",
-    "Notas":  "Kit 208: OneDrive - sem falso fechado no boot e sem \u0027falta pouco\u0027 eterno",
-    "Assinatura":  "DE8/WKOWwVzDyn8U0tzzqP5mSHS3M7iRMohNbhvwSVypN2Q23ZiDl5qjXnYDB7VKqjB3wWkqx0AHEFIMRcnUni7SDNtqH7EkzGziHmyslLp2hU+ZmS47AivTwwgUkvZAKesn0dgcGNVe3Nr3pPPBxEhY6CKKKTiGJy1dGJs5YG0NiQ3YPWtkTNBlCrcGm8IlWxgGGiRp9wsgliQNQIapLqMPFgqckVfnkfonBEWP3qyXjOouT5/HkSIaoA7yIFUKIFMXe0lQQkvE0LWXDbx3fKIYrN3/z5Z1OxqyLlc8J+uQOPBEksSg0N4tOihF/aNbW6CDFSsIZ8j1cu2ZoZaMS6m5gwrwuwxeRRtxemVuERMh8Qsus4XYlffrMmJbukstW4VXI5FX13oAaXxhkQ03sDOlNihVg69Ixo4btMYEuB593kugcdfV5erha9ZVsBkrjdVwjuDEjuwSF72CHydBzbczDvqNZc151k5Daecmv+mNMJeD8JdcKTif4E3WHLfg"
+    "Versao":  "4.5.143",
+    "Instalador":  "EnginePro_Setup_4.5.143.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.143/EnginePro_Setup_4.5.143.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.143/EnginePro_Setup_4.5.143.exe.gz",
+    "SHA256":  "99B45960590D18781F766A47DEE75131E839596900C7798220585098D8B47E9A",
+    "Data":  "2026-11-01 12:24",
+    "Notas":  "Kit 209: OneDrive - detecta falta de espaco no disco (X vermelho)",
+    "Assinatura":  "B9U6HHhkDSTTVLfVhj+z+otxsiZoPBMx2Z/9SB4ogAe9ESTXGd0WRbLtueLd90daavmgvPVdpC1X/vhLsKb8WZ1Tz/R2JXf9Gc43GB7i26BqZr9SXTrNwwWeWxsTf2ka8+tP/L5I8FbS0/N7vqEe5qOqXzby/UKAm9G8UZRBRJBENW9v2h9+cYjOIzOOh+rfOJgcTUJ9QEkZfApCGGdH77YrscEAnQd6DUYyAGu5J4kENgPCIanWZsh2IrYMFevaYaj+0B97qakhElZIWl2bklnAUt5MSPHzwzOMX8P0poYQmNobx2BlYyUq/M77rdTvTHTYh84j4vJxA7JP+MsbtSqLEW8kHm1T24qQcem8OwLiFcI2MJrUAmI42iR34IKKrYHClAp6kH7j+2RzmLcGX80EDH6fXWZL0Nr6Cn9gtfUlndjulMIWnt5Qj6viB1AlmRzJ1QqSPoWMR1Y9v7RMQ2W+ZybDu4MkpRZTWQoJA05sqGUiqZWwyrbR/92PbaSQ"
 }

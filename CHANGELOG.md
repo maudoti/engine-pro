@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.143 | Kit 209: OneDrive - detecta falta de espaco no disco (X v... | 01/11/2026
+
+- **Melhoria**: Kit 209: OneDrive - detecta falta de espaco no disco (X vermelho).
+
 ## Versão 4.5.142 | Kit 208: OneDrive - sem falso fechado no boot e sem 'falt... | 01/11/2026
 
 - **Melhoria**: Kit 208: OneDrive - sem falso fechado no boot e sem 'falta pouco' eterno.
