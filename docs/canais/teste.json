@@ -1,9 +1,9 @@
 {
-    "Versao":  "4.5.133",
-    "Instalador":  "EnginePro_Setup_4.5.133.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.133/EnginePro_Setup_4.5.133.exe",
-    "SHA256":  "AD417021A574C77CD22E7586E9DAFB3ED20D2D8A7201F6D4F239E9371E5A16F5",
-    "Data":  "2026-10-31 19:50",
-    "Notas":  "COLMEIA: fila se atualiza sozinha; drivers repetidos tratados como um só; IA sempre com os modelos atuais; Melhoria: ajustes internos de estabilidade",
-    "Assinatura":  "R4sGSigP1IBfRjDMpkPGgxZTUsF72zWLGu7cmNVwKIp2PjBGHnLac9m2/LhpwZIUIj6smXaI2R8cyB1eobPsl7wSzlXUfwyE1JXBIkLtPNLGCKmuqVk54kJupGdmwztzY5EZ+KIUJ4YAAkwMCJeRNjKlNv9UVFhtkJ2iCFbOqXF4oOWfjnqRWlz4dr77MxuuDVmj7lLocHGJNmJZnWsTUmSPqvR6/76UTsvPP4bBLlRIrbBhEETRovlvDjGDdJrP8MYI8//1o3FKSmU9gGOGXQLmkitDRgNskNervsXA3gg8s+Jq/CsvZr/XsZ6Y1mRhmB/dCDRA17F4dil3x3W2QWsPAd5IsXy5VVFjmfFd9y6SC39uyJEwz+WQw6LyuxbDH+s5nl7H1KgC3uNy0S5/sdmYj1KEbknoHIHfxSHWpPx7n+5kvy378NhOpm5gYHnWMLOpUKIrytm5Fc+DI+jMt7JncTZUpRepRAo5zIMGotka6U5gP1xpOpO15MDSQ4Ie"
+    "Versao":  "4.5.134",
+    "Instalador":  "EnginePro_Setup_4.5.134.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.134/EnginePro_Setup_4.5.134.exe",
+    "SHA256":  "E56F539965F3C07EC441F282F3E51E1D92138BCEDC7E0071C1719337DD9314ED",
+    "Data":  "2026-10-31 23:16",
+    "Notas":  "Mudancas internas: tarefas da IA em segundo plano e scripts como arquivos; Melhoria: ajustes internos de estabilidade",
+    "Assinatura":  "RsyyclbmeRn2g9OARFv7vWTo7J74PTGbuJMFdBOYrG4t4fl185KQ9la36chg/JgaUOpDhwvtDzQXoRxcuuFFG5LfuqdJp9ypyFZPY0xGFel3QDiyaMtrQqdNXsAKQUdBkQNVi6iUxqB9XWbyEx9EcDkYinsSmnOkVed3J9JCRYeq+UE1Vza2dV5T1C3yFD76MHkPZrXlNBd/H0PBD12XCpCA1WignuhYs6EUXVARqKG4Hh7ZIh3lGOZys8igHLns+fIVlokDlddkmGfqLd2ZHTpbjrCbUmJMYtDGaX/6cD5dD68jvkf6Z8cuAm/RQnMe8DDA+yLmox7Guxu5pS2aGw0EzLyN0qzWc0XigKX6efIvgxRI3Zpv6H5vXqFfGPaw1Scs6kB7ErVQJIQDE2cdufKRveM8v0QfNh/KVOazR1k/IBgHlJVzFohAN9Mq8ZjPCH1+ob+ZrwoGKSTbgM1RRujePgXXFMYqPgnGszKA+3kV05bujOMiTJE80Gh7FwJx"
 }

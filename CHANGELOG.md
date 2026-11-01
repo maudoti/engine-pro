@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.134 | Mudancas internas: tarefas da IA em segundo plano e scrip... | 31/10/2026
+
+- **Melhoria**: Mudancas internas: tarefas da IA em segundo plano e scripts como arquivos.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.133 | COLMEIA: fila se atualiza sozinha | 31/10/2026
 
 - **Melhoria**: COLMEIA: fila se atualiza sozinha.

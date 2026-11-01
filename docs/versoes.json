@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.134",
+        "Data":  "2026-10-31 23:16",
+        "Notas":  "Mudancas internas: tarefas da IA em segundo plano e scripts como arquivos; Melhoria: ajustes internos de estabilidade",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.134/EnginePro_Setup_4.5.134.exe"
+    },
+    {
         "Versao":  "4.5.133",
         "Data":  "2026-10-31 19:50",
         "Notas":  "COLMEIA: fila se atualiza sozinha; drivers repetidos tratados como um só; IA sempre com os modelos atuais; Melhoria: ajustes internos de estabilidade",

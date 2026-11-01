@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.134",
+        "Data":  "2026-10-31 23:16",
+        "Titulo":  "Mudancas internas: tarefas da IA em segundo plano e scrip...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mudancas internas: tarefas da IA em segundo plano e scripts como arquivos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.133",
         "Data":  "2026-10-31 19:50",
         "Titulo":  "COLMEIA: fila se atualiza sozinha",
