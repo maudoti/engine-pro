@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.151",
+        "Data":  "2026-11-01 19:41",
+        "Titulo":  "Kit 217: botao COLMEIA busca 2a opiniao e aprova os que 2...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 217: botao COLMEIA busca 2a opiniao e aprova os que 2+ IAs confirmarem."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.150",
         "Data":  "2026-11-01 15:36",
         "Titulo":  "Kit 216: OneDrive cheio, SystemSettings, driver remove+re...",

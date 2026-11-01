@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.150",
-    "Instalador":  "EnginePro_Setup_4.5.150.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.150/EnginePro_Setup_4.5.150.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.150/EnginePro_Setup_4.5.150.exe.gz",
-    "SHA256":  "9E965CD057CB5F03971E2E8B2FE2DE59A584D19678C3B60C261720E940C6D969",
-    "Data":  "2026-11-01 15:36",
-    "Notas":  "Kit 216: OneDrive cheio, SystemSettings, driver remove+reinstala, botao COLMEIA",
-    "Assinatura":  "WzDBzSb03rqYLeIyA5RLnzLmlC9fzmhrTN0auY/ayvp/FmSh1bF420Is1tOuOrT/PZw7M7iu3Xgg7piqGElpB1dNGrPUj+U/9eGZiB5R7xMOxuMr7mIAnoZfwEyMOLaTRZ0AyUO+8iEtivHDX7s+HPgdiLbuWu+tv4hOemUPmN796TbPLKLB12SOVphnGdXHsVkut1B9VYv7047DtJpA3Ntj6MOi03gdLFw9FKayVw8vPeQ4585M83eyX0FVKQoTyeA6aEncuDUvN7XVHF+pZK8hMEfdzGXmKjMoyXzE4BlBUYvinPRnI83ZbZsobs+t9PZmfmhLs9l4BJkWvjUK6Uq+5HXeewiwIwftAHcRieo3+JYm30BUNYgcBAGnuxzJeFIobiXhd285rf/RyDitGzQdMm8yEYw2DBecMf5MGRdPFy+osA50/EARLtgA1k3ibPTUjI93Fz6/HWjezi8zSV3EFKTet8fZaToobBXYeY04TZ9EA9xhVil2FYbuYOx4"
+    "Versao":  "4.5.151",
+    "Instalador":  "EnginePro_Setup_4.5.151.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.151/EnginePro_Setup_4.5.151.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.151/EnginePro_Setup_4.5.151.exe.gz",
+    "SHA256":  "815672522AC91EC2AB71C9525D23FEF876633AD06106CD9B21895BEB1D1994EE",
+    "Data":  "2026-11-01 19:41",
+    "Notas":  "Kit 217: botao COLMEIA busca 2a opiniao e aprova os que 2+ IAs confirmarem",
+    "Assinatura":  "Brha52hc55ByRBiooGsBtJ98sE75ZHlk+FuK/Kw+Y6gC019GyAjnxBNO/mkCcHBJP3MFbI7iigi+0s3C+CbmIrfPKkp/y4oZsiLvcwWON8QFm+kUCMFypEa0VqXDVsWNUyDniRFA2l0GR4Kp4oYk8LvUaLL6iKdalhExbOvgr/FvRuwqrPhP65cXiL2CZ3qqXnSc9c1GNTceLVUvcAVOskw3Itzmpbt0L0WeklTyTLuDc2Cb/TlXcAiyoyIsXn42wmWenCkcrmMae1C6410kgb7va/KAl3z3aU1dC5KRsQ2EDpNMeew3OdKbArs+nKufVcyjcJ1lYwAGYLPQiE4VlsfKInibyZ2wAwK7cBAL9ez/1H+baqogx25g9jKOv+iFdBpnWxNk9KYsSsXVYVpqYGvv+7WR9y7eRhcd7rPFnF0wiudrmSdC8OPFbou41fIEyHezY7y8OU/1/M0YJy5+KPDWs1UxQIGLbnZvsmssdV5V1fEVORGCgAaH1JL7UHCB"
 }

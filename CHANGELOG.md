@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.151 | Kit 217: botao COLMEIA busca 2a opiniao e aprova os que 2... | 01/11/2026
+
+- **Melhoria**: Kit 217: botao COLMEIA busca 2a opiniao e aprova os que 2+ IAs confirmarem.
+
 ## Versão 4.5.150 | Kit 216: OneDrive cheio, SystemSettings, driver remove+re... | 01/11/2026
 
 - **Melhoria**: Kit 216: OneDrive cheio, SystemSettings, driver remove+reinstala, botao COLMEIA.
