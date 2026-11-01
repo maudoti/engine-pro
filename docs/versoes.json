@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.137",
+        "Data":  "2026-11-01 00:16",
+        "Notas":  "Atualizacao baixa o instalador compactado (nao bloqueia no antivirus); Melhoria: ajustes internos de estabilidade",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.137/EnginePro_Setup_4.5.137.exe"
+    },
+    {
         "Versao":  "4.5.136",
         "Data":  "2026-10-31 23:42",
         "Notas":  "COLMEIA: aprovar a opiniao de outra IA como solucao; Melhoria: ajustes internos de estabilidade",

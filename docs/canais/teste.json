@@ -1,9 +1,10 @@
 {
-    "Versao":  "4.5.136",
-    "Instalador":  "EnginePro_Setup_4.5.136.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.136/EnginePro_Setup_4.5.136.exe",
-    "SHA256":  "12DFD700767AE80242D64B34FBBA32D8953DA8AB6F8949112A815DAF2ED549BE",
-    "Data":  "2026-10-31 23:42",
-    "Notas":  "COLMEIA: aprovar a opiniao de outra IA como solucao; Melhoria: ajustes internos de estabilidade",
-    "Assinatura":  "NJar8ttTpka6yLL+Wq6L3hFg+Ziflx+j1J/CxS+XiWhuCWKEO4a8X/LLF7nLW5BWereYUYgGmiS39ZABiMsDmny1xwMrJthWTGzK0ykDqYhJE+plWiYD8X77TnakFVUxbUKkd92rg7+U1zZnpVfFFlQ4dijmcUVPEGPgH9zGZsgdyAW71mVQcf9Rd/pfdPWuL31vn07TltGOd55ddzxC4kJXW/wdO4NN3oCzKev2w5yMOohtzaoVc2a0RZfq+oezDLijIcRsxhTLhcNeCMOPG6/+UmC+si3e2AewgmhpAIDezL5GLaC4i8UpPF6YlLmZZyKEjTE6ryRRCW75HLkMjl8C96vHexL+33xi8AXBi2sqXXsBsCKGXOPweR1czY9Kz3tyFgcl96I25Obyum/5z61kGKnnlyXVli6ELt1UOby9RRUVYe/qEbv37GREXfZyvAHRabLOGXHuuLpt2y0aWHL46BtbwyPi9vHGgb5bI7pG+tomQbs7u3dWF/gfruVs"
+    "Versao":  "4.5.137",
+    "Instalador":  "EnginePro_Setup_4.5.137.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.137/EnginePro_Setup_4.5.137.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.137/EnginePro_Setup_4.5.137.exe.gz",
+    "SHA256":  "FB2FBBCECD1EFFB9C9BA28B757FB5E40541FC36C1ED57D92340F5F6AB2040AEA",
+    "Data":  "2026-11-01 00:16",
+    "Notas":  "Atualizacao baixa o instalador compactado (nao bloqueia no antivirus); Melhoria: ajustes internos de estabilidade",
+    "Assinatura":  "SIHauLJ4M1uOaBKooF/LbpLiHh8X3ORySlg1yrDtGste6cBTPEl1SWclZHeOW/+2Zeov/toSyruHDedEOsFYi0KDAMJqTEkZSwiRkwXwzxf4PASfwV4aI1silnMt1r1Ft+7Tq8AHmwUxb1FgiA2e+PUEVjoiq0+MXQwIEfgwzdf/5334SxfqibedkfAzHrZNqYeuoQ5DeTsj+HRgfowXw/ERuVeb5Xf8cr0L8C91LyD0GSWk1+77SpKDSxXmsapH5snZNxOLMsMqfZAOAU8DRQRZAMucao6pfM3Tq5Yjv2zY2qpquG7DGf9cQLD5Vy2XiK6V1CW5hp4TxMT+yy9XPNum0OQKM7JOPyOW0d4V+aaf4XNVBKcXngepBYcURb7/qENuydTShi2+2DlRv+hYSYBLpDIwWlddLfFwVG6MwbalzW+FCeaQkWNtsmiD0XuGOwm79O2boYpZG6vcmq/7oTO4Axn28M3sJTZPEENmR0TU3A7ol76E8IH8s56ile+e"
 }

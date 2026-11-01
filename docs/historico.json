@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.137",
+        "Data":  "2026-11-01 00:16",
+        "Titulo":  "Atualizacao baixa o instalador compactado (nao bloqueia n...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizacao baixa o instalador compactado (nao bloqueia no antivirus)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.136",
         "Data":  "2026-10-31 23:42",
         "Titulo":  "COLMEIA: aprovar a opiniao de outra IA como solucao",
