@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.149",
+        "Data":  "2026-11-01 15:09",
+        "Titulo":  "Kit 216: OneDrive nuvem cheia (log antigo + varredura), i...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 216: OneDrive nuvem cheia (log antigo + varredura), instalador fecha interface, driver remove+reinstala."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.148",
         "Data":  "2026-11-01 14:40",
         "Titulo":  "Kit 214: instalador reinicia servico e monitor",

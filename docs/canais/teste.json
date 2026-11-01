@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.148",
-    "Instalador":  "EnginePro_Setup_4.5.148.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.148/EnginePro_Setup_4.5.148.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.148/EnginePro_Setup_4.5.148.exe.gz",
-    "SHA256":  "0247FCAE1C429AD012D46567C08CB6C691D01EA4283E0EA4BF308F8645FED8B8",
-    "Data":  "2026-11-01 14:40",
-    "Notas":  "Kit 214: instalador reinicia servico e monitor; botao aprovar confirmados na COLMEIA",
-    "Assinatura":  "bwNM8xBI46hc2Z0VTmJRfknryXCKRqzIcDvRyXjYvOpclKk6Xd70oY9sq4Z8AtzZBrxWjVgjpt9wlNjHyMsN/NSh5UocfmLXRSnUA9AtwdwjWNXFWNgKq2SknK4+H3CITw4rhXANdqng9ZqXrkjGZDReaxVADAITQ5KIHI1FE0HFlZbAe8yjJ150hJsT5RRzlvTG3H1xcBKk5+UBrdWf5s2yY88c/c+j0nw976QSKiKUA85GokSCv8WYPQtpVRmZyd9FyMOWFFe0eeWTYinM9qtqj/CcEYbvusb3H2bQ4WDCHi2573QLY1knro6AWYRdCPJs2uQYE4H/igdjy44KGcU0pyy1DdiDnpNddOzid4Fn2Ku1jgv9JmalX4kkDz4fk4uBape9Ypbj9yfEBHaI7V7O/MSvVZexJMYGVmiROvmYplNcoi2VP/i4laVVXfjZKtSVMQ1D1V/T5TLZkCaGlA+AqotYNMwc5pKqImvw7wK4knL2Rjho823e4pQkMfmH"
+    "Versao":  "4.5.149",
+    "Instalador":  "EnginePro_Setup_4.5.149.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.149/EnginePro_Setup_4.5.149.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.149/EnginePro_Setup_4.5.149.exe.gz",
+    "SHA256":  "4056DBE245501D4308D2737D9AE5C8B3E578272EB7201AA817A4829DDB1BD014",
+    "Data":  "2026-11-01 15:09",
+    "Notas":  "Kit 216: OneDrive nuvem cheia (log antigo + varredura), instalador fecha interface, driver remove+reinstala",
+    "Assinatura":  "ADz8GCvF+vss4fU68EFddIaiaveZRjmNDCkgdNyZxvYDPAPHzHSWToQTBnwj8fwPH7PnDVjiQ/RuBQzYVwYavrC9kV4S1ITBkHHbuBNC3dLzX1X9Kb+zqzv2d5uxc1gpcgb+nj818DZcrpVolnR3rBsBUqbjhPMszI1QMC0NVSG4PLfk1gkLMNVSxFT0BQfmrRjEtAUTYvLbZAQgI+LM+ol5Ae3gsXsCS/Zpfrfsdz0AnrlLvQuoRIGPSueWwjg6FADj9BA11oKYg2T7c5V0JzBCw+W2nSWeNeA4rxi0oZxgBQrSBU5gNv34YNYJ7+TRpKWD4WdYZ897AiniOb6vVlf6yRF9rYZ5t6DcinoCWCjlXarTN8mp9xWyxIwn3I+wJmNl8eUzLtyq60G/YE/wOdDXd/AzQcyIKzfwqLk8U95bd1x11ucQfn12PcwJUtCcyVRJ8CSWeSSqe3ZGISVohJdHoge29q0JvtpzkNrBvAV98oEbG2Va+sg13PpQDShp"
 }

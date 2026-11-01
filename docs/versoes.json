@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.149",
+        "Data":  "2026-11-01 15:09",
+        "Notas":  "Kit 216: OneDrive nuvem cheia (log antigo + varredura), instalador fecha interface, driver remove+reinstala",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.149/EnginePro_Setup_4.5.149.exe"
+    },
+    {
         "Versao":  "4.5.148",
         "Data":  "2026-11-01 14:40",
         "Notas":  "Kit 214: instalador reinicia servico e monitor; botao aprovar confirmados na COLMEIA",

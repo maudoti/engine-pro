@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.149 | Kit 216: OneDrive nuvem cheia (log antigo + varredura), i... | 01/11/2026
+
+- **Melhoria**: Kit 216: OneDrive nuvem cheia (log antigo + varredura), instalador fecha interface, driver remove+reinstala.
+
 ## Versão 4.5.148 | Kit 214: instalador reinicia servico e monitor | 01/11/2026
 
 - **Melhoria**: Kit 214: instalador reinicia servico e monitor.
