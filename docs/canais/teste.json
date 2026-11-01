@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.151",
-    "Instalador":  "EnginePro_Setup_4.5.151.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.151/EnginePro_Setup_4.5.151.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.151/EnginePro_Setup_4.5.151.exe.gz",
-    "SHA256":  "815672522AC91EC2AB71C9525D23FEF876633AD06106CD9B21895BEB1D1994EE",
-    "Data":  "2026-11-01 19:41",
-    "Notas":  "Kit 217: botao COLMEIA busca 2a opiniao e aprova os que 2+ IAs confirmarem",
-    "Assinatura":  "Brha52hc55ByRBiooGsBtJ98sE75ZHlk+FuK/Kw+Y6gC019GyAjnxBNO/mkCcHBJP3MFbI7iigi+0s3C+CbmIrfPKkp/y4oZsiLvcwWON8QFm+kUCMFypEa0VqXDVsWNUyDniRFA2l0GR4Kp4oYk8LvUaLL6iKdalhExbOvgr/FvRuwqrPhP65cXiL2CZ3qqXnSc9c1GNTceLVUvcAVOskw3Itzmpbt0L0WeklTyTLuDc2Cb/TlXcAiyoyIsXn42wmWenCkcrmMae1C6410kgb7va/KAl3z3aU1dC5KRsQ2EDpNMeew3OdKbArs+nKufVcyjcJ1lYwAGYLPQiE4VlsfKInibyZ2wAwK7cBAL9ez/1H+baqogx25g9jKOv+iFdBpnWxNk9KYsSsXVYVpqYGvv+7WR9y7eRhcd7rPFnF0wiudrmSdC8OPFbou41fIEyHezY7y8OU/1/M0YJy5+KPDWs1UxQIGLbnZvsmssdV5V1fEVORGCgAaH1JL7UHCB"
+    "Versao":  "4.5.152",
+    "Instalador":  "EnginePro_Setup_4.5.152.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.152/EnginePro_Setup_4.5.152.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.152/EnginePro_Setup_4.5.152.exe.gz",
+    "SHA256":  "18389938D568337D1DCE0FDC5F77960F5B6C4759FF870A826F11888CB175433E",
+    "Data":  "2026-11-01 20:16",
+    "Notas":  "Kit 218: OneDrive cheio lido do icone da bandeja (varredura e aviso)",
+    "Assinatura":  "CBoIR0OqBuz/blQ3k415m9OTgqstOqCF4wJ4+gNMmB6z1EPY5wZERYngVcdM6snSLzNB1CfV7TYtAM2UYTa88U55/xvplevMCH+rKd/eCVn8vFjDwxj8RT6wT+RNLfVyJ8WZ+ZQm98yDpD0KcEdSH57h29WdYU6NSmUEHb7QMB5ok8yGYwNaYCBFJby7Y8bt4kmlQsB6JKLW36QpFsPJUw1sR+lV56EZ8gRyQkE7vSo2asUhiLI+6xze3kYbTRA42kgbem6RxEM3azh98699aWuOiGaADVV7BuExmJ5zC/WBw2ziGZRvlmZcPMu3xT9mviafhI+41JJw0lkGcsffKILmK7oMkCPRRn6gJxX+O9jFzPJK3jfLuZsYpR3o192tTT8DAtHOUfzlJCy1EZpuVLwWV6mqMNSvxGTyTaGAVjUBNCdektPRHfrZRR2ydk5uIT5oqO3XJGazAl2k8IntdbFyDRC9hNr1lLNE7m1GtCuMgQJAoVvqgFL62o1WWaVd"
 }

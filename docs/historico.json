@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.152",
+        "Data":  "2026-11-01 20:16",
+        "Titulo":  "Kit 218: OneDrive cheio lido do icone da bandeja (varredu...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 218: OneDrive cheio lido do icone da bandeja (varredura e aviso)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.151",
         "Data":  "2026-11-01 19:41",
         "Titulo":  "Kit 217: botao COLMEIA busca 2a opiniao e aprova os que 2...",
