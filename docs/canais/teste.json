@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.141",
-    "Instalador":  "EnginePro_Setup_4.5.141.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.141/EnginePro_Setup_4.5.141.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.141/EnginePro_Setup_4.5.141.exe.gz",
-    "SHA256":  "7FE1564B80CD4374CE372353579D09C4093486BDE8B8DC29B59AE374C6077CF7",
-    "Data":  "2026-11-01 01:52",
-    "Notas":  "Tela de provisionamento aparece sobre a janela principal; clima corrigido; Melhoria: ajustes internos de estabilidade",
-    "Assinatura":  "QrVTE+dJCm67QkVkLjbWXr8P87/1ep4geGjjum5gI36K2nymx/iCTxJLWswk2Szj8mLlrUo1boycdYfHocw1Cow0iHrLghxkTYRjC5IXofjdYsdmajshkK3Sy/J73CWEV33aDeIPcraPhNnS1RPvDe5NRuexPDtEYDiY9c9vqJitAk4gNdR4l1eHHsvFEo1zjk8cx9eZhetyjtagE6BgJz0rgbUNRXoXp+QdXwJdcyqsDw4NTRHH8Q2WeXThEYJZV3JkWevIllrBbpL9hMSQ8tSpKVEevb1wBmfQvaPKS5sqh59U4Yk1mhxtFqb9F1OCs55efbheO69fu9iGyhDfbV5gl+aGXq7jSw2HdR+721EQKAKd+rloKloHs95VJYqsBLeFu4lmx8CyFQZkohYh+Yzmpqpo8iewLdHtD2Doj4df2EuIeJe+2xaEruG3nRZjNRAfmoeELnbAlQbYMstuHSkn14tKP6Ui8AbvToL4yzmhF4y3ZtNEmf7DU/iZGxdR"
+    "Versao":  "4.5.142",
+    "Instalador":  "EnginePro_Setup_4.5.142.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.142/EnginePro_Setup_4.5.142.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.142/EnginePro_Setup_4.5.142.exe.gz",
+    "SHA256":  "305AACC72C87D911FE984D5543137C48FF4C43BD649FF58A1B2AF13589311719",
+    "Data":  "2026-11-01 12:02",
+    "Notas":  "Kit 208: OneDrive - sem falso fechado no boot e sem \u0027falta pouco\u0027 eterno",
+    "Assinatura":  "DE8/WKOWwVzDyn8U0tzzqP5mSHS3M7iRMohNbhvwSVypN2Q23ZiDl5qjXnYDB7VKqjB3wWkqx0AHEFIMRcnUni7SDNtqH7EkzGziHmyslLp2hU+ZmS47AivTwwgUkvZAKesn0dgcGNVe3Nr3pPPBxEhY6CKKKTiGJy1dGJs5YG0NiQ3YPWtkTNBlCrcGm8IlWxgGGiRp9wsgliQNQIapLqMPFgqckVfnkfonBEWP3qyXjOouT5/HkSIaoA7yIFUKIFMXe0lQQkvE0LWXDbx3fKIYrN3/z5Z1OxqyLlc8J+uQOPBEksSg0N4tOihF/aNbW6CDFSsIZ8j1cu2ZoZaMS6m5gwrwuwxeRRtxemVuERMh8Qsus4XYlffrMmJbukstW4VXI5FX13oAaXxhkQ03sDOlNihVg69Ixo4btMYEuB593kugcdfV5erha9ZVsBkrjdVwjuDEjuwSF72CHydBzbczDvqNZc151k5Daecmv+mNMJeD8JdcKTif4E3WHLfg"
 }

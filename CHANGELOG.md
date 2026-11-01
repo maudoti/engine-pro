@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.142 | Kit 208: OneDrive - sem falso fechado no boot e sem 'falt... | 01/11/2026
+
+- **Melhoria**: Kit 208: OneDrive - sem falso fechado no boot e sem 'falta pouco' eterno.
+
 ## Versão 4.5.141 | Tela de provisionamento aparece sobre a janela principal | 01/11/2026
 
 - **Melhoria**: Tela de provisionamento aparece sobre a janela principal.

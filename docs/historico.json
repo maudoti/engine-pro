@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.142",
+        "Data":  "2026-11-01 12:02",
+        "Titulo":  "Kit 208: OneDrive - sem falso fechado no boot e sem \u0027falt...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 208: OneDrive - sem falso fechado no boot e sem \u0027falta pouco\u0027 eterno."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.141",
         "Data":  "2026-11-01 01:52",
         "Titulo":  "Tela de provisionamento aparece sobre a janela principal",
