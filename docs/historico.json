@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.150",
+        "Data":  "2026-11-01 15:36",
+        "Titulo":  "Kit 216: OneDrive cheio, SystemSettings, driver remove+re...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 216: OneDrive cheio, SystemSettings, driver remove+reinstala, botao COLMEIA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.149",
         "Data":  "2026-11-01 15:09",
         "Titulo":  "Kit 216: OneDrive nuvem cheia (log antigo + varredura), i...",

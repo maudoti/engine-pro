@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.150 | Kit 216: OneDrive cheio, SystemSettings, driver remove+re... | 01/11/2026
+
+- **Melhoria**: Kit 216: OneDrive cheio, SystemSettings, driver remove+reinstala, botao COLMEIA.
+
 ## Versão 4.5.149 | Kit 216: OneDrive nuvem cheia (log antigo + varredura), i... | 01/11/2026
 
 - **Melhoria**: Kit 216: OneDrive nuvem cheia (log antigo + varredura), instalador fecha interface, driver remove+reinstala.
