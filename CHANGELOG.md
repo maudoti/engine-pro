@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.148 | Kit 214: instalador reinicia servico e monitor | 01/11/2026
+
+- **Melhoria**: Kit 214: instalador reinicia servico e monitor.
+- **Melhoria**: Botao aprovar confirmados na COLMEIA.
+
 ## Versão 4.5.147 | Kit 213: SystemSettings fora da varredura | 01/11/2026
 
 - **Melhoria**: Kit 213: SystemSettings fora da varredura.

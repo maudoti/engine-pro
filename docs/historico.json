@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.148",
+        "Data":  "2026-11-01 14:40",
+        "Titulo":  "Kit 214: instalador reinicia servico e monitor",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 214: instalador reinicia servico e monitor."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao aprovar confirmados na COLMEIA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.147",
         "Data":  "2026-11-01 14:20",
         "Titulo":  "Kit 213: SystemSettings fora da varredura",

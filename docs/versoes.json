@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.148",
+        "Data":  "2026-11-01 14:40",
+        "Notas":  "Kit 214: instalador reinicia servico e monitor; botao aprovar confirmados na COLMEIA",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.148/EnginePro_Setup_4.5.148.exe"
+    },
+    {
         "Versao":  "4.5.147",
         "Data":  "2026-11-01 14:20",
         "Notas":  "Kit 213: SystemSettings fora da varredura; nuvem cheia robusta, sem loop de fechado/reiniciar",

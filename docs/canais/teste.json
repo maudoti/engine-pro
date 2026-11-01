@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.147",
-    "Instalador":  "EnginePro_Setup_4.5.147.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.147/EnginePro_Setup_4.5.147.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.147/EnginePro_Setup_4.5.147.exe.gz",
-    "SHA256":  "D03D397CF23C586751E3493968477935DAC10F1D79EBACA9584D2A1B7800E4FC",
-    "Data":  "2026-11-01 14:20",
-    "Notas":  "Kit 213: SystemSettings fora da varredura; nuvem cheia robusta, sem loop de fechado/reiniciar",
-    "Assinatura":  "jhdHzwCPwG/wHGzj5H5I9yvAW0BRkBS/HjockthaykV/3zi/Lo1QgmrVHVoOxSP6L8zboDxixy9xdIXjCtc+5X52PSqML3LDbpxvOy2adGqG1dkTYSVZW0f3OjYGxFt3Fuz5jG1e2rqWYtavSXmDDM248D3WKZkydwQiZDDy34wMEhy97mc9F2HQK8pR+c/Au4SeCYNlgAWACVIKRJSTcCgg7XldUD9lnmme9C4AtBp4ZnA6npltwe136mCeXvvne0sdiUM2dOoEsv5801DK7BuxFWKJfMLuR36xAqJIR2+a5brboXGaUNBSyDZEYRZrE3gLs4bHQYa6MGjI3xkj3FnXU98LKJUgeEcDS7d8ZWDxiXJ85525Ng/8D3BH3d25VsZk51oUEgQqELO9lgWv07v3mcLaBa5EafyhszO1bjpb5apFy9htzp5wwmXwNHEKWiYZ2yHjZInosR7S19X42lnnsU0nGNj1zOc4IdzYgfSx3Gl/z98IyigQrt3gDJLk"
+    "Versao":  "4.5.148",
+    "Instalador":  "EnginePro_Setup_4.5.148.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.148/EnginePro_Setup_4.5.148.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.148/EnginePro_Setup_4.5.148.exe.gz",
+    "SHA256":  "0247FCAE1C429AD012D46567C08CB6C691D01EA4283E0EA4BF308F8645FED8B8",
+    "Data":  "2026-11-01 14:40",
+    "Notas":  "Kit 214: instalador reinicia servico e monitor; botao aprovar confirmados na COLMEIA",
+    "Assinatura":  "bwNM8xBI46hc2Z0VTmJRfknryXCKRqzIcDvRyXjYvOpclKk6Xd70oY9sq4Z8AtzZBrxWjVgjpt9wlNjHyMsN/NSh5UocfmLXRSnUA9AtwdwjWNXFWNgKq2SknK4+H3CITw4rhXANdqng9ZqXrkjGZDReaxVADAITQ5KIHI1FE0HFlZbAe8yjJ150hJsT5RRzlvTG3H1xcBKk5+UBrdWf5s2yY88c/c+j0nw976QSKiKUA85GokSCv8WYPQtpVRmZyd9FyMOWFFe0eeWTYinM9qtqj/CcEYbvusb3H2bQ4WDCHi2573QLY1knro6AWYRdCPJs2uQYE4H/igdjy44KGcU0pyy1DdiDnpNddOzid4Fn2Ku1jgv9JmalX4kkDz4fk4uBape9Ypbj9yfEBHaI7V7O/MSvVZexJMYGVmiROvmYplNcoi2VP/i4laVVXfjZKtSVMQ1D1V/T5TLZkCaGlA+AqotYNMwc5pKqImvw7wK4knL2Rjho823e4pQkMfmH"
 }
