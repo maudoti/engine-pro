@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.143",
-    "Instalador":  "EnginePro_Setup_4.5.143.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.143/EnginePro_Setup_4.5.143.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.143/EnginePro_Setup_4.5.143.exe.gz",
-    "SHA256":  "99B45960590D18781F766A47DEE75131E839596900C7798220585098D8B47E9A",
-    "Data":  "2026-11-01 12:24",
-    "Notas":  "Kit 209: OneDrive - detecta falta de espaco no disco (X vermelho)",
-    "Assinatura":  "B9U6HHhkDSTTVLfVhj+z+otxsiZoPBMx2Z/9SB4ogAe9ESTXGd0WRbLtueLd90daavmgvPVdpC1X/vhLsKb8WZ1Tz/R2JXf9Gc43GB7i26BqZr9SXTrNwwWeWxsTf2ka8+tP/L5I8FbS0/N7vqEe5qOqXzby/UKAm9G8UZRBRJBENW9v2h9+cYjOIzOOh+rfOJgcTUJ9QEkZfApCGGdH77YrscEAnQd6DUYyAGu5J4kENgPCIanWZsh2IrYMFevaYaj+0B97qakhElZIWl2bklnAUt5MSPHzwzOMX8P0poYQmNobx2BlYyUq/M77rdTvTHTYh84j4vJxA7JP+MsbtSqLEW8kHm1T24qQcem8OwLiFcI2MJrUAmI42iR34IKKrYHClAp6kH7j+2RzmLcGX80EDH6fXWZL0Nr6Cn9gtfUlndjulMIWnt5Qj6viB1AlmRzJ1QqSPoWMR1Y9v7RMQ2W+ZybDu4MkpRZTWQoJA05sqGUiqZWwyrbR/92PbaSQ"
+    "Versao":  "4.5.144",
+    "Instalador":  "EnginePro_Setup_4.5.144.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.144/EnginePro_Setup_4.5.144.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.144/EnginePro_Setup_4.5.144.exe.gz",
+    "SHA256":  "62504ABFDD21F530778524D3417ECFCA8D9592BE6CE961E7F772DFECE925C9B9",
+    "Data":  "2026-11-01 12:45",
+    "Notas":  "Kit 210: OneDrive nuvem cheia (estado 1283) detectado e avisado",
+    "Assinatura":  "AxgSo0KdQn7dVThhrb9K/KbLwEXIk42jbeyIbUmm3ka38fmubZsYmERzyCAu/KjXCNisMjcFtW1js6A6HfiT0YLR6uixiNPZdT3n73CZT5G19hmr0VhE30z/G78Tt7K/m3g2T7w/pl7W9Qgz4Xz8n6LAn7d7purx3Mg4OX3+DiVTOrdynNpi/JmiNS42EQGG11T5PEq3cNYDEFVdEtH1is62pebET62wBJWun+sc4L4M9oxfSHXWU6cp2zhsEegoF66hRxSgUCUfTCmnLPfCJ9Rv3Qwk3cWe8QUp9pl6JcqLhpaky4T5We7tt+0ja4pIAby1OGy6fQC9PBBqyfoM+vAkqEoHZnQ2xAHlIB0uzPXZmvtc9Hoe86EjAeumsBsLCMtyZONZ1eDbQ6GMW2RCeUAt2Pl0HR93gEz/sZZ7Qz5/UyX+P4qVZ3EW50OKZiZ1CjnVo9Pa27V8lSKg8ckzR90bENi9ED1rnr8YrA2HfqM4QEdsBDz5iLB8qKhT4jLv"
 }

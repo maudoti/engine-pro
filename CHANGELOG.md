@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.144 | Kit 210: OneDrive nuvem cheia (estado 1283) detectado e a... | 01/11/2026
+
+- **Melhoria**: Kit 210: OneDrive nuvem cheia (estado 1283) detectado e avisado.
+
 ## Versão 4.5.143 | Kit 209: OneDrive - detecta falta de espaco no disco (X v... | 01/11/2026
 
 - **Melhoria**: Kit 209: OneDrive - detecta falta de espaco no disco (X vermelho).

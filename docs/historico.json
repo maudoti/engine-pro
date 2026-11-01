@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.144",
+        "Data":  "2026-11-01 12:45",
+        "Titulo":  "Kit 210: OneDrive nuvem cheia (estado 1283) detectado e a...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 210: OneDrive nuvem cheia (estado 1283) detectado e avisado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.143",
         "Data":  "2026-11-01 12:24",
         "Titulo":  "Kit 209: OneDrive - detecta falta de espaco no disco (X v...",
