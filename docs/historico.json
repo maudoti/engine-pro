@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.5.145",
+        "Data":  "2026-11-01 13:44",
+        "Titulo":  "Kit 211: ignora apps UWP do Windows na deteccao de travados",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 211: ignora apps UWP do Windows na deteccao de travados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.144",
         "Data":  "2026-11-01 12:45",
         "Titulo":  "Kit 210: OneDrive nuvem cheia (estado 1283) detectado e a...",

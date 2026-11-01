@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.144",
-    "Instalador":  "EnginePro_Setup_4.5.144.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.144/EnginePro_Setup_4.5.144.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.144/EnginePro_Setup_4.5.144.exe.gz",
-    "SHA256":  "62504ABFDD21F530778524D3417ECFCA8D9592BE6CE961E7F772DFECE925C9B9",
-    "Data":  "2026-11-01 12:45",
-    "Notas":  "Kit 210: OneDrive nuvem cheia (estado 1283) detectado e avisado",
-    "Assinatura":  "AxgSo0KdQn7dVThhrb9K/KbLwEXIk42jbeyIbUmm3ka38fmubZsYmERzyCAu/KjXCNisMjcFtW1js6A6HfiT0YLR6uixiNPZdT3n73CZT5G19hmr0VhE30z/G78Tt7K/m3g2T7w/pl7W9Qgz4Xz8n6LAn7d7purx3Mg4OX3+DiVTOrdynNpi/JmiNS42EQGG11T5PEq3cNYDEFVdEtH1is62pebET62wBJWun+sc4L4M9oxfSHXWU6cp2zhsEegoF66hRxSgUCUfTCmnLPfCJ9Rv3Qwk3cWe8QUp9pl6JcqLhpaky4T5We7tt+0ja4pIAby1OGy6fQC9PBBqyfoM+vAkqEoHZnQ2xAHlIB0uzPXZmvtc9Hoe86EjAeumsBsLCMtyZONZ1eDbQ6GMW2RCeUAt2Pl0HR93gEz/sZZ7Qz5/UyX+P4qVZ3EW50OKZiZ1CjnVo9Pa27V8lSKg8ckzR90bENi9ED1rnr8YrA2HfqM4QEdsBDz5iLB8qKhT4jLv"
+    "Versao":  "4.5.145",
+    "Instalador":  "EnginePro_Setup_4.5.145.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.145/EnginePro_Setup_4.5.145.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.145/EnginePro_Setup_4.5.145.exe.gz",
+    "SHA256":  "A108E1041C8D100EB0FD6954B20DADB56FB651DB33CEB8B084CF3FA3216CA698",
+    "Data":  "2026-11-01 13:44",
+    "Notas":  "Kit 211: ignora apps UWP do Windows na deteccao de travados",
+    "Assinatura":  "VWDBFvm7L4WLEpY2ViMmkFcSiECMGLQYDMKDvu1pORQ1N/sIhVB1uoc7DURyUgqR8Wp7HujHjPkGyiz/KHvB5vjM8ul0DcwSDLqIfJfIIGDneFROKrSYYuIPHq9PZe/OpqFKqRcqeLsLeSEf+1cQh9WE70ObgPTX/OciArR7goaKKPP56XsgqHcg0jCEnea69MNQEVUfYvUxub9VKt06UafNZTPJz1w/4XZkUVqbxdDFnamUXZmF8m4nsTbou4no+BHdDuSY/B5V5eTDICDPdq907eu+FBNN9OD5DUcUGgJbWEI2SLFnbWzeKURToA2FFNdliYI/VBlSwMVAZGA1XJCzY7dN5a3wmUegwGDQ6Rr0MdJ2d6n8Xkg5drl2e38uD74axPcBYXQ5yduePIvzjQ/F4xUZdoIXCnPBMwrkZ12jyS0Ge9cjL4KxD/0FMJO4tVqJDeRrxtAiMJq94ihgBZ4ym9P6B6pdXJuOPE8HccY1y5fjd3NZeMeCqkaG381b"
 }

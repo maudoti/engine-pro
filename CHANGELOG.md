@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.145 | Kit 211: ignora apps UWP do Windows na deteccao de travados | 01/11/2026
+
+- **Melhoria**: Kit 211: ignora apps UWP do Windows na deteccao de travados.
+
 ## Versão 4.5.144 | Kit 210: OneDrive nuvem cheia (estado 1283) detectado e a... | 01/11/2026
 
 - **Melhoria**: Kit 210: OneDrive nuvem cheia (estado 1283) detectado e avisado.
