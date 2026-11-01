@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.139 | Painel de ativações: quais máquinas e quando | 01/11/2026
+
+- **Melhoria**: Painel de ativações: quais máquinas e quando.
+- **Melhoria**: Ajustes internos de estabilidade.
+
 ## Versão 4.5.138 | Tela de conhecimentos aprovados (corrigir e remover) | 01/11/2026
 
 - **Correção**: Tela de conhecimentos aprovados (corrigir e remover).

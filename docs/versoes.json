@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.5.139",
+        "Data":  "2026-11-01 01:10",
+        "Notas":  "Painel de ativações: quais máquinas e quando; Melhoria: ajustes internos de estabilidade",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.139/EnginePro_Setup_4.5.139.exe"
+    },
+    {
         "Versao":  "4.5.138",
         "Data":  "2026-11-01 00:53",
         "Notas":  "Tela de conhecimentos aprovados (corrigir e remover); hardware tratado com honestidade; Melhoria: ajustes internos de estabilidade",

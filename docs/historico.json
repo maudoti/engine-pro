@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.139",
+        "Data":  "2026-11-01 01:10",
+        "Titulo":  "Painel de ativações: quais máquinas e quando",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Painel de ativações: quais máquinas e quando."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.138",
         "Data":  "2026-11-01 00:53",
         "Titulo":  "Tela de conhecimentos aprovados (corrigir e remover)",
