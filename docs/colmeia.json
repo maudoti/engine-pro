@@ -1,23 +1,28 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  448,
+    "Conhecimentos":  449,
     "Pesquisas":  228,
     "N48":  228,
     "Recentes":  [
+                     {
+                         "Data":  "2026-10-31 23:43:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003F (NO_MORE_SYSTEM_PTES) no Windows",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-10-31 23:02:45",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-10-31 22:40:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003D (INTERRUPT_EXCEPTION_NOT_HANDLED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 228 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-10-31 22:40:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003D (INTERRUPT_EXCEPTION_NOT_HANDLED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-10-31 22:00:47",
@@ -86,6 +91,6 @@
                   20
               ],
     "Ultima":  "2026-10-31 23:02:45",
-    "Gerado":  "2026-10-31 23:42:09",
-    "Data":  "2026-10-31 23:42"
+    "Gerado":  "2026-10-31 23:47:03",
+    "Data":  "2026-10-31 23:47"
 }
