@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.141",
+        "Data":  "2026-11-01 01:52",
+        "Titulo":  "Tela de provisionamento aparece sobre a janela principal",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela de provisionamento aparece sobre a janela principal."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Clima corrigido."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.140",
         "Data":  "2026-11-01 01:47",
         "Titulo":  "Segredo de provisionamento fora do instalador",
