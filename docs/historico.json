@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.5.138",
+        "Data":  "2026-11-01 00:53",
+        "Titulo":  "Tela de conhecimentos aprovados (corrigir e remover)",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Tela de conhecimentos aprovados (corrigir e remover)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Hardware tratado com honestidade."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes internos de estabilidade."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.137",
         "Data":  "2026-11-01 00:16",
         "Titulo":  "Atualizacao baixa o instalador compactado (nao bloqueia n...",
