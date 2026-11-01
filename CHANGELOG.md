@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.5.147 | Kit 213: SystemSettings fora da varredura | 01/11/2026
+
+- **Melhoria**: Kit 213: SystemSettings fora da varredura.
+- **Melhoria**: Nuvem cheia robusta, sem loop de fechado/reiniciar.
+
 ## Versão 4.5.146 | Kit 212: aviso de atualizacoes (Java/apps), SystemSetting... | 01/11/2026
 
 - **Correção**: Kit 212: aviso de atualizacoes (Java/apps), SystemSettings corrigido, OneDrive nuvem cheia.

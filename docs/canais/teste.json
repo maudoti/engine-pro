@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.5.146",
-    "Instalador":  "EnginePro_Setup_4.5.146.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.146/EnginePro_Setup_4.5.146.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.146/EnginePro_Setup_4.5.146.exe.gz",
-    "SHA256":  "7790DA3FEB9AD80B1AD65196C8281E557171B6A064113CE056A30A98AA453EDF",
-    "Data":  "2026-11-01 14:04",
-    "Notas":  "Kit 212: aviso de atualizacoes (Java/apps), SystemSettings corrigido, OneDrive nuvem cheia",
-    "Assinatura":  "SBWfHfsEf4TB3tfjlC4tvZXbsETSPSA1lCZwF8oKgxUu7/wIYz4iZY06UIjdbf1V0lIyYso7mmnujziqDHX3i04Cbggk6W15OKcpCWj4Hlg1Um6HOv4OcBJ7QcAgQpPDXGIqLrt6rmwzE5Zqm97WemgIWPPTdLIaqlgJ0OYZEK1DdB2s/9ezDgDr5uJH2XJWmr2uSsBEpe7E39OvYXcaLO0SX/9OPjvI4TT7qg9E739vQG0YWqZD+uYgYZfoDRSb5avltExEbxukpjinMg2wfja5MA9p6URullLecDxCK3mWPRvOh0cdi0NiViOlp4HbJEGlXOHeSkfXN7D4b/y74B0Kv9iPPOXLGzxYySXMwwlXNd8wT8OsqxFBqeByEu8RnpTImaHF9mu6ZBv1lyNByufuzIInckFwzBcmQeH2KKpCY26YVJ1LwglZFpRo6uedS4YzB7xOugxX8APAeM3EavhMFYknbzCNBfkMFyrS3/u2xQtZknIReZl0Ke4FLBoV"
+    "Versao":  "4.5.147",
+    "Instalador":  "EnginePro_Setup_4.5.147.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.147/EnginePro_Setup_4.5.147.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.147/EnginePro_Setup_4.5.147.exe.gz",
+    "SHA256":  "D03D397CF23C586751E3493968477935DAC10F1D79EBACA9584D2A1B7800E4FC",
+    "Data":  "2026-11-01 14:20",
+    "Notas":  "Kit 213: SystemSettings fora da varredura; nuvem cheia robusta, sem loop de fechado/reiniciar",
+    "Assinatura":  "jhdHzwCPwG/wHGzj5H5I9yvAW0BRkBS/HjockthaykV/3zi/Lo1QgmrVHVoOxSP6L8zboDxixy9xdIXjCtc+5X52PSqML3LDbpxvOy2adGqG1dkTYSVZW0f3OjYGxFt3Fuz5jG1e2rqWYtavSXmDDM248D3WKZkydwQiZDDy34wMEhy97mc9F2HQK8pR+c/Au4SeCYNlgAWACVIKRJSTcCgg7XldUD9lnmme9C4AtBp4ZnA6npltwe136mCeXvvne0sdiUM2dOoEsv5801DK7BuxFWKJfMLuR36xAqJIR2+a5brboXGaUNBSyDZEYRZrE3gLs4bHQYa6MGjI3xkj3FnXU98LKJUgeEcDS7d8ZWDxiXJ85525Ng/8D3BH3d25VsZk51oUEgQqELO9lgWv07v3mcLaBa5EafyhszO1bjpb5apFy9htzp5wwmXwNHEKWiYZ2yHjZInosR7S19X42lnnsU0nGNj1zOc4IdzYgfSx3Gl/z98IyigQrt3gDJLk"
 }

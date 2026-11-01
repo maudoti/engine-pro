@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.5.147",
+        "Data":  "2026-11-01 14:20",
+        "Titulo":  "Kit 213: SystemSettings fora da varredura",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 213: SystemSettings fora da varredura."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nuvem cheia robusta, sem loop de fechado/reiniciar."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.5.146",
         "Data":  "2026-11-01 14:04",
         "Titulo":  "Kit 212: aviso de atualizacoes (Java/apps), SystemSetting...",
