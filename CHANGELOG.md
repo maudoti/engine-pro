@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.17.1 | Corrige o falso aviso de OneDrive fechado (confere tambem... | 02/11/2026
+
+- **Correção**: Corrige o falso aviso de OneDrive fechado (confere tambem pelo WMI, entre sessoes).
+- **Melhoria**: Barra de rolagem sempre visivel na tela inicial.
+
 ## Versão 4.17.0 | Deteccao proativa de caminhos longos do OneDrive | 02/11/2026
 
 - **Melhoria**: Deteccao proativa de caminhos longos do OneDrive.

@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.17.1",
+        "Data":  "2026-11-02 11:35",
+        "Titulo":  "Corrige o falso aviso de OneDrive fechado (confere tambem...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige o falso aviso de OneDrive fechado (confere tambem pelo WMI, entre sessoes)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Barra de rolagem sempre visivel na tela inicial."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.17.0",
         "Data":  "2026-11-02 10:19",
         "Titulo":  "Deteccao proativa de caminhos longos do OneDrive",

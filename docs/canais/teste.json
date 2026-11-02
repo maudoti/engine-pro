@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.17.0",
-    "Instalador":  "EnginePro_Setup_4.17.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.0/EnginePro_Setup_4.17.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.0/EnginePro_Setup_4.17.0.exe.gz",
-    "SHA256":  "9ECD7517CAD400B547831B38F0A82AA5F0C533E6F9F35B6B75A47873C641F18B",
-    "Data":  "2026-11-02 10:19",
-    "Notas":  "Deteccao proativa de caminhos longos do OneDrive; Claude pago no TI; pesquisa a 5 temas",
-    "Assinatura":  "uAXCXWeXzvpLdxFN4XC0RijntKyTI/KtFzMlSXGKpFuSgeOjUN80UNteqc9m/ijq+toFmvO0RK/BFdyAFreWcMIyTAiG7UyHpACia/TTi1Nr6nhAPuXaHk4mI4VDGpStDXlLWIH/+Ccpb27gUmbuBKnBiY2v4+piKqVVOK23DqEINTc0SmUAqugR6GvKSyJAcM8DbBffW5+s66IKdh2IaJDxAN41chDucuwCWvGxvFKxif5hH86Ua8GNNsaTGCyo1TqQNV8SvUycg5FK+hhNje3W5/69IU9ltOc68HPakx/t4YRGtxSvDVqGp6/Se5t60KXTmR89gbFy5sn4grNWCVHnjeo1C20V+YXG4aVaR2Je15r85zPjaXPMEqplcFFvq6YNNHRdsU6ucGlo8WToCS8drIVbIYucMhelwx5obL2z1RUNr0KcyVIWb4Qy5qn+x0+HEe21/XooNaBm84KSJSztVSux8EVtBw34OKGFGH0iwWf8Jr0lkuv6+95d+SgT"
+    "Versao":  "4.17.1",
+    "Instalador":  "EnginePro_Setup_4.17.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.1/EnginePro_Setup_4.17.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.1/EnginePro_Setup_4.17.1.exe.gz",
+    "SHA256":  "3B91F65D0A92657E26E9F63D92A9925754CEB0DA2C01BDAAFE9CB3FC0BAFBD4A",
+    "Data":  "2026-11-02 11:35",
+    "Notas":  "Corrige o falso aviso de OneDrive fechado (confere tambem pelo WMI, entre sessoes); barra de rolagem sempre visivel na tela inicial",
+    "Assinatura":  "oRxeo7wjrZ9K6r/vRnbb2XYpNLEH7Vj9PoIBueRxME2HAYXJcz95GHzyKXWDH/2nhg7tQ3LaoCHIZDHSPw+BoRMildLLrCI0WXQ8UIuKMDxoRYg+pts8WgcYPeQ0ZWQN+6jCF8x7ED6GgbJp44Z34ePXnLz/U0NRJ1BZR0CMtKJ8otXMhDdxzQDSatRQEDqs0LLWz7MlLQGfeZGjAyU4cgiwy23SGN6hrqk6Q0yNOWQQ9PbtUiPFSNtBtfpL9nDtLrJOgHyfMdIVlTuLcsICzqMZgSr3qVVVt0APBh7zyMRzzQ6+FG+hLJfoCLHHPGUXstuVLzxeHx1uRpgO93YKvwLjqonJDIOcNPUoBbUEE+yI7YdBnRuuUfR8rEijMFGUr9xHZzs0W6N2QhnmBIJhMRymUseCaogqlfvXSb3T7ykCME1XhPUf3bVLKqRurUwE2kE5ARk9gyij3R23CNAumpmGl1BqbkSp3/nCCElkzRQLOV0IpS5+pEwWgCXUoWaG"
 }

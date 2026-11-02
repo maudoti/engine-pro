@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.17.1",
+        "Data":  "2026-11-02 11:35",
+        "Notas":  "Corrige o falso aviso de OneDrive fechado (confere tambem pelo WMI, entre sessoes); barra de rolagem sempre visivel na tela inicial",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.1/EnginePro_Setup_4.17.1.exe"
+    },
+    {
         "Versao":  "4.17.0",
         "Data":  "2026-11-02 10:19",
         "Notas":  "Deteccao proativa de caminhos longos do OneDrive; Claude pago no TI; pesquisa a 5 temas",
