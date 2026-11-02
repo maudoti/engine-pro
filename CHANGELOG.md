@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.7.0 | Engine Neural Pro, COLMEIA, sensor de Excel e base de con... | 01/11/2026
+
+- **Melhoria**: Engine Neural Pro, COLMEIA, sensor de Excel e base de conhecimento ampliada.
+
 ## Versão 4.6.0 | Engine Neural Pro, COLMEIA ajustada, sensor de Excel e ba... | 01/11/2026
 
 - **Melhoria**: Engine Neural Pro, COLMEIA ajustada, sensor de Excel e base de conhecimento ampliada.

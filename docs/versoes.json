@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.7.0",
+        "Data":  "2026-11-01 23:19",
+        "Notas":  "Engine Neural Pro, COLMEIA, sensor de Excel e base de conhecimento ampliada",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.7.0/EnginePro_Setup_4.7.0.exe"
+    },
+    {
         "Versao":  "4.6.0",
         "Data":  "2026-11-01 23:09",
         "Notas":  "Engine Neural Pro, COLMEIA ajustada, sensor de Excel e base de conhecimento ampliada",
