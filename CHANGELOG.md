@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.11.0 | Descoberta promissora respeita o historico de reparo que ... | 02/11/2026
+
+- **Melhoria**: Descoberta promissora respeita o historico de reparo que ja falhou aqui.
+
 ## Versão 4.10.0 | Fim dos empates artificiais na COLMEIA e pesquisa mais ec... | 02/11/2026
 
 - **Melhoria**: Fim dos empates artificiais na COLMEIA e pesquisa mais economica.

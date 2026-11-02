@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.11.0",
+        "Data":  "2026-11-02 00:54",
+        "Titulo":  "Descoberta promissora respeita o historico de reparo que ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Descoberta promissora respeita o historico de reparo que ja falhou aqui."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.10.0",
         "Data":  "2026-11-02 00:15",
         "Titulo":  "Fim dos empates artificiais na COLMEIA e pesquisa mais ec...",
