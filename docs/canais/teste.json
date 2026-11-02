@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.18.3",
-    "Instalador":  "EnginePro_Setup_4.18.3.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.3/EnginePro_Setup_4.18.3.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.3/EnginePro_Setup_4.18.3.exe.gz",
-    "SHA256":  "723562F745709D3169FFE5AF0F5B92D9C6B34E834B0979851B347F9E2C2C4B03",
-    "Data":  "2026-11-02 15:16",
-    "Notas":  "Botao de opiniao: limite de tokens maior para o Claude (modelo que raciocina) e leitura do bloco de texto",
-    "Assinatura":  "WUIgpR9eS9yXjotAXfjRAPUW8HnLo0tUntbFzD+fs8owIZgzSj4MK6oaWvftqB98WKnk17QkUQbTnPJJUYSv/mXIylowgTFbNmvpPDMlmPdyX7qbaoZOLcZ9LsWJCWn9aJjQs1cpDVZRS3/3yQfPCYcpjbptkSKSwrUHpFqq19skx8SEnBOP/We9WENovHSqT270svjLIM4C1kH5YMqMEzYpcVSZgaXxrtzlQrcFo3NWns/UsCYpEz7nGb804ICfw8vfSjqGWszShJKezyBbouglA5gxdoAH/FGMB8Ey4Rucm6yDy8G1x21v45DiMXrRj9hxuW0RSDfRe1FeAJWqR/vYyiXh03rGvZ+AuX/GjrLKH7U9uYBhHn6biYzjkjHLrxZM5Lqn61/qEOPay1mIK89aZWstlEfyiZPJD8v0Xm1p2etIrDZ6Qj0PTXhJ8hYZu7LvjiCpaIS3YHNx7G85Y0/bKs5i4oWrpg4LV3aUo/rjqxGdd6YqcqT7RAsFQpZs"
+    "Versao":  "4.19.0",
+    "Instalador":  "EnginePro_Setup_4.19.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.19.0/EnginePro_Setup_4.19.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.19.0/EnginePro_Setup_4.19.0.exe.gz",
+    "SHA256":  "18AFFD18F6FF4E77AEA7FD973659A05F8A0D81799F91068FD4370FC40DDA8F67",
+    "Data":  "2026-11-02 18:39",
+    "Notas":  "IA que discorda propoe a solucao correta e o Aprovar esta usa ela; erro das IAs gratis mais discreto",
+    "Assinatura":  "rkOgZZEqbmQJ6IGb+cUQokwZrvet4OBcYFsN/6EZZYnzcTBKW3LRnCZ48/hmkfash7a5AG1pSSoj5PMNXUXaia3MVYRPt3TCnLAcAlZiCZTEP943i/mgTLymxzG9+OtPZ2q1zXCJD1PwAkF8M4thE8iJp7afl82pbbB4gxq+Xyv5pshGntTZKDCb5RiEADyBPJ21oBpPUz8OF6FWzlIVkm/vKvIggYe68HkbTxqi4YY0rlgcoz2v3fBPvc7KyYScu6wbm2jG6rXWQ8SZ35XTwzfbik70EPt7Myuip8WAxyLg6D+nTMO9s93rJLkh09MgeWYppSX+Ez8m9HMtNHIFUSSAnBLBoCDP+qeqViERQWYV2WJ/Y9evLKCL5USZa2gJ9XhwOu1LGJxd6eS7W1agV1uHlu5r+Y+Oufw/oBCnVjQNQTIKH1NtGdZW610zWrRV1gOgQwdIOWy2Oj9sggYE80HEjpzwee0bgqveS3f++AAchwDL2rebWNw+NMiZgGvM"
 }

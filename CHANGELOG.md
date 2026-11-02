@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.19.0 | IA que discorda propoe a solucao correta e o Aprovar esta... | 02/11/2026
+
+- **Melhoria**: IA que discorda propoe a solucao correta e o Aprovar esta usa ela.
+- **Correção**: Erro das IAs gratis mais discreto.
+
 ## Versão 4.18.3 | Botao de opiniao: limite de tokens maior para o Claude (m... | 02/11/2026
 
 - **Melhoria**: Botao de opiniao: limite de tokens maior para o Claude (modelo que raciocina) e leitura do bloco de texto.
