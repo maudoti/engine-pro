@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.15.0 | Medidores de Desempenho atualizam sozinhos | 02/11/2026
+
+- **Melhoria**: Medidores de Desempenho atualizam sozinhos.
+- **Melhoria**: Limpeza num so lugar.
+- **Melhoria**: Bolinha verde para estacoes online e barras de contribuicao em azul.
+- **Correção**: Correcao do erro de avaliacao de riscos na tela de estacoes.
+
 ## Versão 4.14.0 | Corte de empate automatico em 80 por cento | 02/11/2026
 
 - **Melhoria**: Corte de empate automatico em 80 por cento.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.14.0",
-    "Instalador":  "EnginePro_Setup_4.14.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.14.0/EnginePro_Setup_4.14.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.14.0/EnginePro_Setup_4.14.0.exe.gz",
-    "SHA256":  "4A93BFEA1410A9DCCA91303B30329E6CE1D9DC8F4C825B70D94F89DC85DEACBE",
-    "Data":  "2026-11-02 02:14",
-    "Notas":  "Corte de empate automatico em 80 por cento",
-    "Assinatura":  "iZarTL6Bx7IIFJUggmfYYuPlbO9MlJNMP1wHQjK/YWw6RHiBtUvsZyv2WZLXQVtE4bjJqa7c0TU3xXXwYkOqLBVmflesF78sOziSH7845e/T0TA03BkLz2PKZT2Foyd4KGg3SGeRPXUrSJFPLs+C9UMPKfAxuUX5gkf8aIHUf+qhNJG2bShls3JrMesqSr8eKOPn6eQ4eF2vPstTQGBsCDiKz2jrF49MDGzZR/0ixf0pN/dP5oExiADUtQT/Ydho62A9dIedJrjvDSXUKO62epD0IY3JGJr0I9x+bH8ABuT9bfW5enI0cOpPmltBvlR8jt2ikber9an1p8kVSNOEL/ihbvV348cNU6cawgUUqFhlYVgagHNyjv9Zhw16x5ctndZ4QY/ymaGTDcMPAkatpS61YfdhvIEQ/z6FLDYTtUuK3XyydwV7b98c6w1L3gOd1rgv7SsjuGLCuxhio0pom+77QKvY6x4x7YskmlrqQZDXefqCm5QdBJU69NhTmC3b"
+    "Versao":  "4.15.0",
+    "Instalador":  "EnginePro_Setup_4.15.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.15.0/EnginePro_Setup_4.15.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.15.0/EnginePro_Setup_4.15.0.exe.gz",
+    "SHA256":  "4D274D1A6D701DE625DF0A77D6FFD8947BFBF302C0EDA1F48083209B816E6C9A",
+    "Data":  "2026-11-02 02:41",
+    "Notas":  "Medidores de Desempenho atualizam sozinhos; limpeza num so lugar; bolinha verde para estacoes online e barras de contribuicao em azul; correcao do erro de avaliacao de riscos na tela de estacoes",
+    "Assinatura":  "uImWDPb7c7Gabn5e9UL7jIsSbwrVLq/CTjOg+uBlHarS/tEXGWmV5VqfsfvA2+lvp2AY+c10y3oM71DkOc09AuPk3ou1f8wik6Wq1kwayeDbM/4JkNvlvXt1IbIfGi9L2vF9OtiYJCa93SDDIutcipkLmRwlQp1fLc0BX6YPwcg1i2/6il6eXvDTzBVUFQ1cbi+LVC2Eq4Jy4Ib0DfJznX/v709DSD70ggR/+yOApLv5Ck5ei6zfk5qK2Nm4QUnap7Ycl5atVfCW6UEfedkq8vEqXyCSzgk8uEJMB1bKaJH4f/P077Cd8mIICoMDnoqfcMZrvNd+QFwBVkvhO5YtgTXqX0gZH5bH8rApuSNUWCvP7C6IdSlsk4oaTaur+Rz3QM9a6b0W6jNXYVwm1qM/JtxHisCrxZPdHlKRmjwG35LN4v/BO6xsx4YSbTiojSf8DJTXXJPUV+8cFLW6Xee6PjdTByYn8WMeW4nbhMJJhV4WBBNGJyTC1X20U9kKwcOS"
 }

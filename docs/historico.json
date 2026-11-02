@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.15.0",
+        "Data":  "2026-11-02 02:41",
+        "Titulo":  "Medidores de Desempenho atualizam sozinhos",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Medidores de Desempenho atualizam sozinhos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Limpeza num so lugar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Bolinha verde para estacoes online e barras de contribuicao em azul."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Correcao do erro de avaliacao de riscos na tela de estacoes."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.14.0",
         "Data":  "2026-11-02 02:14",
         "Titulo":  "Corte de empate automatico em 80 por cento",
