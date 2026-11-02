@@ -1,9 +1,24 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  629,
+    "Conhecimentos":  631,
     "Pesquisas":  947,
     "N48":  907,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-02 14:27:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800CCC0F (IXP_E_CONNECTION_DROPPED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-02 14:27:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 201 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-02 14:06:09",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
@@ -13,21 +28,6 @@
                          "Data":  "2026-11-02 13:03:17",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 201 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-02 11:51:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F074 (SL_E_VL_KMS_UNREACHABLE) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-02 11:51:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000225 (BOOT_SELECTION_FAILED) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-02 11:51:57",
@@ -65,8 +65,7 @@
                   22,
                   28,
                   24,
-                  15,
-                  9,
+                  24,
                   21,
                   22,
                   22,
@@ -74,6 +73,7 @@
                   20,
                   21,
                   21,
+                  0,
                   20,
                   21,
                   20,
@@ -96,6 +96,6 @@
                   20
               ],
     "Ultima":  "2026-11-02 14:06:09",
-    "Gerado":  "2026-11-02 14:27:04",
-    "Data":  "2026-11-02 14:27"
+    "Gerado":  "2026-11-02 14:37:04",
+    "Data":  "2026-11-02 14:37"
 }
