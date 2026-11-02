@@ -1,5 +1,36 @@
 [
     {
+        "Versao":  "4.16.0",
+        "Data":  "2026-11-02 03:09",
+        "Titulo":  "Erro de riscos nas estacoes corrigido por completo",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Erro de riscos nas estacoes corrigido por completo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Desempenho atualiza a cada 3s."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Limpeza rapida e profunda num so lugar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Avisos com detalhe e OneDrive na ficha."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Exportar ficha completa."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Menos delay no Modo IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.15.0",
         "Data":  "2026-11-02 02:41",
         "Titulo":  "Medidores de Desempenho atualizam sozinhos",

@@ -2,6 +2,15 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.16.0 | Erro de riscos nas estacoes corrigido por completo | 02/11/2026
+
+- **Correção**: Erro de riscos nas estacoes corrigido por completo.
+- **Melhoria**: Desempenho atualiza a cada 3s.
+- **Melhoria**: Limpeza rapida e profunda num so lugar.
+- **Melhoria**: Avisos com detalhe e OneDrive na ficha.
+- **Melhoria**: Exportar ficha completa.
+- **Melhoria**: Menos delay no Modo IA.
+
 ## Versão 4.15.0 | Medidores de Desempenho atualizam sozinhos | 02/11/2026
 
 - **Melhoria**: Medidores de Desempenho atualizam sozinhos.

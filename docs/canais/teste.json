@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.15.0",
-    "Instalador":  "EnginePro_Setup_4.15.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.15.0/EnginePro_Setup_4.15.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.15.0/EnginePro_Setup_4.15.0.exe.gz",
-    "SHA256":  "4D274D1A6D701DE625DF0A77D6FFD8947BFBF302C0EDA1F48083209B816E6C9A",
-    "Data":  "2026-11-02 02:41",
-    "Notas":  "Medidores de Desempenho atualizam sozinhos; limpeza num so lugar; bolinha verde para estacoes online e barras de contribuicao em azul; correcao do erro de avaliacao de riscos na tela de estacoes",
-    "Assinatura":  "uImWDPb7c7Gabn5e9UL7jIsSbwrVLq/CTjOg+uBlHarS/tEXGWmV5VqfsfvA2+lvp2AY+c10y3oM71DkOc09AuPk3ou1f8wik6Wq1kwayeDbM/4JkNvlvXt1IbIfGi9L2vF9OtiYJCa93SDDIutcipkLmRwlQp1fLc0BX6YPwcg1i2/6il6eXvDTzBVUFQ1cbi+LVC2Eq4Jy4Ib0DfJznX/v709DSD70ggR/+yOApLv5Ck5ei6zfk5qK2Nm4QUnap7Ycl5atVfCW6UEfedkq8vEqXyCSzgk8uEJMB1bKaJH4f/P077Cd8mIICoMDnoqfcMZrvNd+QFwBVkvhO5YtgTXqX0gZH5bH8rApuSNUWCvP7C6IdSlsk4oaTaur+Rz3QM9a6b0W6jNXYVwm1qM/JtxHisCrxZPdHlKRmjwG35LN4v/BO6xsx4YSbTiojSf8DJTXXJPUV+8cFLW6Xee6PjdTByYn8WMeW4nbhMJJhV4WBBNGJyTC1X20U9kKwcOS"
+    "Versao":  "4.16.0",
+    "Instalador":  "EnginePro_Setup_4.16.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.16.0/EnginePro_Setup_4.16.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.16.0/EnginePro_Setup_4.16.0.exe.gz",
+    "SHA256":  "AA93F10959480C9765D15AA307B648777362E7322F4E956A73664B80AEDF787B",
+    "Data":  "2026-11-02 03:09",
+    "Notas":  "Erro de riscos nas estacoes corrigido por completo; Desempenho atualiza a cada 3s; Limpeza rapida e profunda num so lugar; avisos com detalhe e OneDrive na ficha; exportar ficha completa; menos delay no Modo IA",
+    "Assinatura":  "RW4oYY2g7PcXbugAkg8eIys5wA5Y188Yy5t1q6rX1R2/RUVyXwMnHKzySWDbvY/VuN5oRRbRId9TDdwzpvMckVHHjY2opGWAv2LajwXkhJQjZjIZPFLMuTEKROW/AZ7giH+sGV69MYH4Ai2xy/8r6TWpnrSN/aoGe6jhxFRit5xS/O/DngvmA6koYluR+4FzqQ0m+dJkeOzIuTlvJZjj2fSX6juUN2XDHsKEcmw1EvfuDLP5MVg4nqDRPeGZZMTkc5rdWVpWt3i0IB74GrmEctGigGeRZ97pwMmc5Tw+xs+xHsX1QJQwAp4bXRb8GqUIH5YKWHxEGo5R8Haj2mvpT2sOu/r5WkYcQfGjjNRcRhFj31rF6mfKNK5ACnvsKvje0oQPHHX3jz73mhN/5BIS6FQH7Z7r0PNSRaf+iIjRK1H7aFmIkqDOkdPQzmOQ4N1aWX6yd2dIbIZ+cFjOqvBGvXGHbKEJ+hB1wUORoWVLB6kAKvOHhF8Ck8I8E1Qzd5Hw"
 }
