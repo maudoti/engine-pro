@@ -1,28 +1,33 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  614,
-    "Pesquisas":  806,
-    "N48":  806,
+    "Pesquisas":  821,
+    "N48":  821,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-02 05:50:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-02 04:47:23",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-02 03:44:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 60 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-02 02:46:57",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070185 (ERROR_CLOUD_FILE_UNSUCCESSFUL) no Windows",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 75 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-02 02:46:57",
@@ -58,9 +63,9 @@
                   13,
                   21,
                   21,
-                  24,
-                  25,
-                  21,
+                  34,
+                  36,
+                  0,
                   22,
                   21,
                   20,
@@ -86,16 +91,16 @@
                   21,
                   20,
                   26,
-                  0,
-                  40,
-                  0,
+                  20,
+                  20,
                   12,
-                  24,
                   12,
-                  2,
-                  10
+                  12,
+                  12,
+                  12,
+                  15
               ],
-    "Ultima":  "2026-11-02 04:47:23",
-    "Gerado":  "2026-11-02 05:47:03",
-    "Data":  "2026-11-02 05:47"
+    "Ultima":  "2026-11-02 05:50:36",
+    "Gerado":  "2026-11-02 05:57:03",
+    "Data":  "2026-11-02 05:57"
 }
