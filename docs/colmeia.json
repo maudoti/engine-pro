@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  631,
+    "Conhecimentos":  632,
     "Pesquisas":  1028,
     "N48":  909,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-02 18:07:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-02 18:24:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, \"Não foi possível redefinir o OneDrive\"",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 17:05:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-02 18:07:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 14:27:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800CCC0F (IXP_E_CONNECTION_DROPPED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-02 17:05:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,13 +30,13 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-02 14:27:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
+                         "Data":  "2026-11-02 14:27:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800CCC0F (IXP_E_CONNECTION_DROPPED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 11:51:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC000000E (BOOT_DEVICE_INACCESSIBLE) no Windows",
+                         "Data":  "2026-11-02 14:27:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -57,12 +57,12 @@
                   20,
                   20,
                   20,
-                  8,
-                  12,
+                  20,
                   22,
                   28,
                   24,
-                  24,
+                  15,
+                  9,
                   21,
                   22,
                   22,
@@ -96,6 +96,6 @@
                   24
               ],
     "Ultima":  "2026-11-02 18:07:38",
-    "Gerado":  "2026-11-02 18:17:03",
-    "Data":  "2026-11-02 18:17"
+    "Gerado":  "2026-11-02 18:27:03",
+    "Data":  "2026-11-02 18:27"
 }
