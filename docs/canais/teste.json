@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.18.0",
-    "Instalador":  "EnginePro_Setup_4.18.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.0/EnginePro_Setup_4.18.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.0/EnginePro_Setup_4.18.0.exe.gz",
-    "SHA256":  "C252929455A52CDE3686C16B2FCDBA96CC6F9021FE92102693FEAA54ECE9317B",
-    "Data":  "2026-11-02 14:40",
-    "Notas":  "Botao Pedir opiniao de outra IA usa o Claude no computador do TI",
-    "Assinatura":  "CCeDe7iDDze+TOUIz2V7z2g4erSLJoVS5KFfgWVQU1anT9s3lDabsLVukYavwB5miI02Yk0XXUncviTMgLGUsVD/tPx2kizkHqeXbeaDg8WKGVKAGDrPPjDMVatI+5MKAv5LsHEGcmG/M+HVp1rt1Q7Wy4KSRvaiYikWKk0i9EFIBJrIwTxE6zQjdQ69vOYT6xYvibDWTy+xdlASm9cWmMrbf8+D43zYe8YakgHin1WAWHvQcSxQUMk61WBD4yWrJhbWKPL9K6f8w+pjq3DaGntcEvE9LMlC3aiPB1X594kyNxXPg7f3YijrGxE2ZkSPCuQY7Fs9/B3z4PnKWOw9Oy49GZMVuJwB3JRF3VVAjVOLc0bh2tk2fHNb1qlHk5XvW9i1bywbvjM/gZw/tZwJrBKvRtDzMlnKQm0UmgYVvs68mWy7evt6xmArooYPKKqLRwQzBcGq2uMwDxn36SkCBsF3O4KZWtUEn49vHfSXd18iJPSB+zHVJqJTYHiI2Rqf"
+    "Versao":  "4.18.1",
+    "Instalador":  "EnginePro_Setup_4.18.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.1/EnginePro_Setup_4.18.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.1/EnginePro_Setup_4.18.1.exe.gz",
+    "SHA256":  "3C4C89EDAF64037AA617CEFDA570DF7A9BEC9E07422122936D773B74BA795C40",
+    "Data":  "2026-11-02 14:58",
+    "Notas":  "Corrige travamento do botao de opiniao: Claude via Get-Json e modelo fixo, sem Invoke-RestMethod no runspace",
+    "Assinatura":  "vnTyioOYGSIwFMeV8BBF5HzEeq9NO0RhqrJTwy3dX5AMGLsI4WjVgrbN2D7lbQ2XJJHJQiwA7pCce2s/YnCjqIXPg7LhLrtOwgX9iMuaD8Q9XJjZeNByDm00vStFxpIaxKi2L3JBrdLT0lZS3fkyxCar2wEeWP8EfpIgUshrUIoVSMSKEEl46o0wzPP11uK8NJFJx9myE7d3Ays1+WPf++RrDuNETMW5gFNmPCtEqNGUUEDoLsWzT5XgmMikcpyrga43s7mnsu52iIPLAI/VSca92AFj4AfARevobuxQNN3ZVuCyyc23l9+RPCuyCkezWKaaFBUfqeN1fxZUHH7FGpXzybeTfHrGc1dV5W3wyoqJ3ucvfp8lp407+vtzffPXxOQhldD1rN2ITU+av7JhdkT2s7uuRXNcWylpV8/3HSmwpPH3D+f1xrqY4Na0rcRjPd2qhJohwB2R897hXE3YLHRYN3ds7URl0CRb/wx1llGDg/BHX+Vwl6IM0FCbAd1S"
 }

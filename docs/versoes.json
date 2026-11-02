@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.18.1",
+        "Data":  "2026-11-02 14:58",
+        "Notas":  "Corrige travamento do botao de opiniao: Claude via Get-Json e modelo fixo, sem Invoke-RestMethod no runspace",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.1/EnginePro_Setup_4.18.1.exe"
+    },
+    {
         "Versao":  "4.18.0",
         "Data":  "2026-11-02 14:40",
         "Notas":  "Botao Pedir opiniao de outra IA usa o Claude no computador do TI",

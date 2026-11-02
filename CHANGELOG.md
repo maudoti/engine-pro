@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.18.1 | Corrige travamento do botao de opiniao: Claude via Get-Js... | 02/11/2026
+
+- **Correção**: Corrige travamento do botao de opiniao: Claude via Get-Json e modelo fixo, sem Invoke-RestMethod no runspace.
+
 ## Versão 4.18.0 | Botao Pedir opiniao de outra IA usa o Claude no computado... | 02/11/2026
 
 - **Melhoria**: Botao Pedir opiniao de outra IA usa o Claude no computador do TI.
