@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.18.1",
-    "Instalador":  "EnginePro_Setup_4.18.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.1/EnginePro_Setup_4.18.1.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.1/EnginePro_Setup_4.18.1.exe.gz",
-    "SHA256":  "3C4C89EDAF64037AA617CEFDA570DF7A9BEC9E07422122936D773B74BA795C40",
-    "Data":  "2026-11-02 14:58",
-    "Notas":  "Corrige travamento do botao de opiniao: Claude via Get-Json e modelo fixo, sem Invoke-RestMethod no runspace",
-    "Assinatura":  "vnTyioOYGSIwFMeV8BBF5HzEeq9NO0RhqrJTwy3dX5AMGLsI4WjVgrbN2D7lbQ2XJJHJQiwA7pCce2s/YnCjqIXPg7LhLrtOwgX9iMuaD8Q9XJjZeNByDm00vStFxpIaxKi2L3JBrdLT0lZS3fkyxCar2wEeWP8EfpIgUshrUIoVSMSKEEl46o0wzPP11uK8NJFJx9myE7d3Ays1+WPf++RrDuNETMW5gFNmPCtEqNGUUEDoLsWzT5XgmMikcpyrga43s7mnsu52iIPLAI/VSca92AFj4AfARevobuxQNN3ZVuCyyc23l9+RPCuyCkezWKaaFBUfqeN1fxZUHH7FGpXzybeTfHrGc1dV5W3wyoqJ3ucvfp8lp407+vtzffPXxOQhldD1rN2ITU+av7JhdkT2s7uuRXNcWylpV8/3HSmwpPH3D+f1xrqY4Na0rcRjPd2qhJohwB2R897hXE3YLHRYN3ds7URl0CRb/wx1llGDg/BHX+Vwl6IM0FCbAd1S"
+    "Versao":  "4.18.2",
+    "Instalador":  "EnginePro_Setup_4.18.2.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.2/EnginePro_Setup_4.18.2.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.2/EnginePro_Setup_4.18.2.exe.gz",
+    "SHA256":  "1AB5EEF2BE2B0AABCAF6B19D7396B16FE180157F336970092C308F71E44C91BB",
+    "Data":  "2026-11-02 15:07",
+    "Notas":  "Botao de opiniao mostra o motivo quando o Claude nao responde",
+    "Assinatura":  "ucLEGtmDfa5P6kxzwgIRdD4BV8lkNzhtrxrOzJAgl2k6OAUT0Ig7fc7e5GVkHkRvjJC59YTAIF3UzXlyPb7L2uM+J2DZoLWXbbLFEscJ92tGeZ/+qWrMQ6Hu++8O4GNho52eCVgWF1oj4J/1NCOFgG0nW2fnCLiHE8JZQoetyx5uGVlo+GCJFtFIR/cLroHAGIK7Ic20AyA8gswut9navV7DPbEFfzLyMkKIppQBV0M7gFuX03LMqaYfuCZuqv5fhWnwxUNEOE0LQQOvnD5+ttaQZsHvPadxQi9GKRO/ozlJNro1iOzk2hwmnmr92koBIG827uN+JxLxhnUBNNUC7AOes2UI/hv/aeLRYqP/qHMQTzOfkiOWnCT8PFGeowB+E1LERkn6+sc8PAo4SQuoIqFNIkdKz+UqNbz/EYppcS7KkpmdqzOy8ngRfK6OIDEs5bNmiyRHGeLIU1FZ5MgforsBLxM/Sqsf/zPrFU2OuK54Tahgeln++Zqv36QN4scS"
 }

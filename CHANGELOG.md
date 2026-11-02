@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.18.2 | Botao de opiniao mostra o motivo quando o Claude nao resp... | 02/11/2026
+
+- **Melhoria**: Botao de opiniao mostra o motivo quando o Claude nao responde.
+
 ## Versão 4.18.1 | Corrige travamento do botao de opiniao: Claude via Get-Js... | 02/11/2026
 
 - **Correção**: Corrige travamento do botao de opiniao: Claude via Get-Json e modelo fixo, sem Invoke-RestMethod no runspace.

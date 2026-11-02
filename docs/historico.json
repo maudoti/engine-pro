@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.18.2",
+        "Data":  "2026-11-02 15:07",
+        "Titulo":  "Botao de opiniao mostra o motivo quando o Claude nao resp...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao de opiniao mostra o motivo quando o Claude nao responde."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.18.1",
         "Data":  "2026-11-02 14:58",
         "Titulo":  "Corrige travamento do botao de opiniao: Claude via Get-Js...",
