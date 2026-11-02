@@ -2,6 +2,14 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.17.2 | Logo Y animado | 02/11/2026
+
+- **Melhoria**: Logo Y animado.
+- **Melhoria**: Desliga nag do Java.
+- **Correção**: Corrige falso OneDrive fechado.
+- **Melhoria**: Barra de rolagem na tela inicial.
+- **Correção**: Chat da IA nao pergunta sintomas quando ja ha erros.
+
 ## Versão 4.17.1 | Corrige o falso aviso de OneDrive fechado (confere tambem... | 02/11/2026
 
 - **Correção**: Corrige o falso aviso de OneDrive fechado (confere tambem pelo WMI, entre sessoes).

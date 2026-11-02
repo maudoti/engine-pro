@@ -1,5 +1,32 @@
 [
     {
+        "Versao":  "4.17.2",
+        "Data":  "2026-11-02 11:39",
+        "Titulo":  "Logo Y animado",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Logo Y animado."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Desliga nag do Java."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige falso OneDrive fechado."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Barra de rolagem na tela inicial."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Chat da IA nao pergunta sintomas quando ja ha erros."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.17.1",
         "Data":  "2026-11-02 11:35",
         "Titulo":  "Corrige o falso aviso de OneDrive fechado (confere tambem...",

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.17.1",
-    "Instalador":  "EnginePro_Setup_4.17.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.1/EnginePro_Setup_4.17.1.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.1/EnginePro_Setup_4.17.1.exe.gz",
-    "SHA256":  "3B91F65D0A92657E26E9F63D92A9925754CEB0DA2C01BDAAFE9CB3FC0BAFBD4A",
-    "Data":  "2026-11-02 11:35",
-    "Notas":  "Corrige o falso aviso de OneDrive fechado (confere tambem pelo WMI, entre sessoes); barra de rolagem sempre visivel na tela inicial",
-    "Assinatura":  "oRxeo7wjrZ9K6r/vRnbb2XYpNLEH7Vj9PoIBueRxME2HAYXJcz95GHzyKXWDH/2nhg7tQ3LaoCHIZDHSPw+BoRMildLLrCI0WXQ8UIuKMDxoRYg+pts8WgcYPeQ0ZWQN+6jCF8x7ED6GgbJp44Z34ePXnLz/U0NRJ1BZR0CMtKJ8otXMhDdxzQDSatRQEDqs0LLWz7MlLQGfeZGjAyU4cgiwy23SGN6hrqk6Q0yNOWQQ9PbtUiPFSNtBtfpL9nDtLrJOgHyfMdIVlTuLcsICzqMZgSr3qVVVt0APBh7zyMRzzQ6+FG+hLJfoCLHHPGUXstuVLzxeHx1uRpgO93YKvwLjqonJDIOcNPUoBbUEE+yI7YdBnRuuUfR8rEijMFGUr9xHZzs0W6N2QhnmBIJhMRymUseCaogqlfvXSb3T7ykCME1XhPUf3bVLKqRurUwE2kE5ARk9gyij3R23CNAumpmGl1BqbkSp3/nCCElkzRQLOV0IpS5+pEwWgCXUoWaG"
+    "Versao":  "4.17.2",
+    "Instalador":  "EnginePro_Setup_4.17.2.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.2/EnginePro_Setup_4.17.2.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.2/EnginePro_Setup_4.17.2.exe.gz",
+    "SHA256":  "8BAED7DD4C6EB1E175BF363F2BC15BF9990317660363B0B8555B837FC0A291F9",
+    "Data":  "2026-11-02 11:39",
+    "Notas":  "Logo Y animado; desliga nag do Java; corrige falso OneDrive fechado; barra de rolagem na tela inicial; chat da IA nao pergunta sintomas quando ja ha erros",
+    "Assinatura":  "kfGO/s10tDBaMJlsMitOX+ioUphEmbSw6ZRgA9Ice6uQSKBuiNlIlyRVf1pBxUd2zysKIkhOD9ShDgw+jUSPssSTsrOEzlav/Af0NPGjilpCN9dOWWgd1NIqj1J9y4vdmjuNFZHglbqFak4df2lVdmhr5DQvtOZ7AdHtRep7SVOWLoDL11gvMiDryRU293/nGvofPDnC6HYnlzbcqt1zdZj0yznJ/VJQtwjM7xnKS5cOlAv/WoM4aUYE3Nfi6I4HZvotCriS8gzJ9sJ5HWtpnZ7j0+zYY4jFD9PqyhX3x1Rgq7S+NK+9sdEzedHeEqcP5HROWiYclurO1orhfoobsPmCusSyZUTJRtEzakzie17U5VG7NjdnJn6ayxH0pqe/oEquUIqtfmNnlR+Co6aeskFCJ0VFgo0H9wjqpDPLI6++G+TYa7FaJJVHUC7IkNcvC1tG0cedqgyOZV3+ftDhqlwTEGx7UWh0l/Vji7SvUoHzhCfaL13uSqWTd6Fq80oO"
 }
