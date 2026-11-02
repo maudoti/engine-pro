@@ -16,18 +16,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 258 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-02 14:27:20",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800CCC0F (IXP_E_CONNECTION_DROPPED) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 258 pesquisas em bases técnicas",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-02 14:27:03",
@@ -63,12 +58,12 @@
                   20,
                   20,
                   20,
-                  8,
-                  12,
+                  20,
                   22,
                   28,
                   24,
-                  24,
+                  15,
+                  9,
                   21,
                   22,
                   22,
@@ -101,6 +96,6 @@
                   14
               ],
     "Ultima":  "2026-11-02 17:05:15",
-    "Gerado":  "2026-11-02 17:17:03",
-    "Data":  "2026-11-02 17:17"
+    "Gerado":  "2026-11-02 17:27:03",
+    "Data":  "2026-11-02 17:27"
 }
