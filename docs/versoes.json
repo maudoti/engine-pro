@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.6.0",
+        "Data":  "2026-11-01 23:09",
+        "Notas":  "Engine Neural Pro, COLMEIA ajustada, sensor de Excel e base de conhecimento ampliada",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.6.0/EnginePro_Setup_4.6.0.exe"
+    },
+    {
         "Versao":  "4.5.152",
         "Data":  "2026-11-01 20:16",
         "Notas":  "Kit 218: OneDrive cheio lido do icone da bandeja (varredura e aviso)",
