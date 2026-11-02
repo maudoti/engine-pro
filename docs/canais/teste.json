@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.11.0",
-    "Instalador":  "EnginePro_Setup_4.11.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.11.0/EnginePro_Setup_4.11.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.11.0/EnginePro_Setup_4.11.0.exe.gz",
-    "SHA256":  "6B2C84D821A379E9DA8896019DE8AAF9752D19A0E4B388D89A54ADF28DC1C268",
-    "Data":  "2026-11-02 00:54",
-    "Notas":  "Descoberta promissora respeita o historico de reparo que ja falhou aqui",
-    "Assinatura":  "SUt5nHphS+SwaXueuxWpj4E2aBR2w6QIErMt0x1+0t0sucg8Xq9t0xjMeIXa5tLXgHr8Nvp0U9f+1PdzdgC6RSiaSirch/ib/2149dqLT6bx1ajO1LwqVY+LzsxvWSrKh3liSmGMJ4tb+ktKG/cZA3Q+2Jaf817FQ/qYAddYW4pBYYEG9crRdYFwcEqRiPtuE4C2Cqf/l4fwjhuuhdMLIuHG1Q5kQqqr//KtcfFwNRVZCkfgM1DihFj/1v54YlR1pc6BJ0ySu46JFPaUm53exqyolWsGXXJIdAv8ZdX7LqZuNN4+O6dviJmqFrYw+FAHz2j5tlQKpHoAhQGolK63sHCP8yXWVDnNXG9HBYq2CW205kvJKPX1tNADe6tOnufWjEUjs0lP488BCFvEITrmHAVxFmRwUa8YGmLN+vTz07iYvoyPZCFJwalOklsGH9Upj6JAlAXzoNQtxVFLRWVUWXJmc/Pn9nCMYlQSANweSb9me7AxVxPs6Gdydzi8rrO+"
+    "Versao":  "4.12.0",
+    "Instalador":  "EnginePro_Setup_4.12.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.12.0/EnginePro_Setup_4.12.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.12.0/EnginePro_Setup_4.12.0.exe.gz",
+    "SHA256":  "C4D615033B8C619A0A26E6DD38B81EEBA5164EFCB8FB5A0B71826F4D338F026D",
+    "Data":  "2026-11-02 01:44",
+    "Notas":  "Busca por programa, historico de avisos e nao avisar mais",
+    "Assinatura":  "XbKcrPhotS/BxobZCuGgkV+2HXyWEKo4Gt36V4FiiClFS6umsKOubgf2w0p7MFjzGAa+QyCWtDkLxg+ZL3t39JEE1ihv+cNeDEudrjEyY7XReWy5mgr0wE4paEJ4QbBm7yjyItcT0J/ca6pRo1fp9hLh5uxdW4huMluvPaxnVq0MHsXLJOG+NKa5Fr58cBZNrPcy+DWmtBSAfuh70Sc22ekU6ovFEOcyQ/ELItyXjIBaCFBdXIEppOp9bSMonhqMniZQjCjo0C9xEF3iAwrh72X2RlJ2A8KQSlA5RwbfSaGNhOoUocRLuGem7VFheMIMZA4zCT1BfA/o3UY/iIInNMEHksioywCW2HNAq0dyHFWnQAUd5w2eCRUCXT+lILLlxDu9uruwozawTcljI5oLmGX2qwFD4srLVGzcgsdZS5m8+QSjO4t81qEia7jrGFn36pBbWRc4DPepU7IW7uhu6fum5dCyq2DidZ17tArb2DgmrlnnpjBkXzyoz1s6ELOE"
 }

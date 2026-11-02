@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.12.0",
+        "Data":  "2026-11-02 01:44",
+        "Notas":  "Busca por programa, historico de avisos e nao avisar mais",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.12.0/EnginePro_Setup_4.12.0.exe"
+    },
+    {
         "Versao":  "4.11.0",
         "Data":  "2026-11-02 00:54",
         "Notas":  "Descoberta promissora respeita o historico de reparo que ja falhou aqui",

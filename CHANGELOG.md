@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.12.0 | Busca por programa, historico de avisos e nao avisar mais | 02/11/2026
+
+- **Melhoria**: Busca por programa, historico de avisos e nao avisar mais.
+
 ## Versão 4.11.0 | Descoberta promissora respeita o historico de reparo que ... | 02/11/2026
 
 - **Melhoria**: Descoberta promissora respeita o historico de reparo que ja falhou aqui.

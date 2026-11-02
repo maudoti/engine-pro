@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.12.0",
+        "Data":  "2026-11-02 01:44",
+        "Titulo":  "Busca por programa, historico de avisos e nao avisar mais",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Busca por programa, historico de avisos e nao avisar mais."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.11.0",
         "Data":  "2026-11-02 00:54",
         "Titulo":  "Descoberta promissora respeita o historico de reparo que ...",
