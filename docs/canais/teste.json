@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.7.0",
-    "Instalador":  "EnginePro_Setup_4.7.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.7.0/EnginePro_Setup_4.7.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.7.0/EnginePro_Setup_4.7.0.exe.gz",
-    "SHA256":  "4F2EE2E3303C8DEBF0EF0E5AF3BA5018E3BD73ED1E9A0D4A39548D2C9BE0D93C",
-    "Data":  "2026-11-01 23:19",
-    "Notas":  "Engine Neural Pro, COLMEIA, sensor de Excel e base de conhecimento ampliada",
-    "Assinatura":  "BfUMxYyB+8H+uc50j7lbqU60QaxcEnmhgJI5gU7Mqfle+eXG3nZ2DuSyklqEt/I709BQRBaDtHc0LOmJZzzqntGwfPOGkV10CqadK8ox2gHZM00FubSlYNT2hNIcLnqg5j0fDgigA/4YOZRfvxUyYYaSiFN2+4V22rJiRkkpQkzHQDBWXwVqUdn2A3G4TRSgz88iaMdfZbSI+3uM8o3RJO2PbsuSSYvhdK7u3Iz+q08KCiVmFzrx5TeCVmAREzC9jy7RHrD6dLqohuGMMCeSovCPevHAYYaeBInJ784fNDRfzMAY1fJYH4CHppVzP8RK9d2K6wd3gMepT6bRSxb3HiZPZs+3nVW/P+5G53B+cgHBZw+fVIr0XCdZo57TFaE21dLauXiC+N3KYwehAQmC7pWZIGVdC0cqizS8ko5edlx1yPKGLVDPF7LSkaxanqieVz6Tuh/LLcdbikxPDjKwLdMS/3MEPtYww4D8bxz7ih1Th7TiqMGuit0Cnc5Oalmo"
+    "Versao":  "4.8.0",
+    "Instalador":  "EnginePro_Setup_4.8.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.8.0/EnginePro_Setup_4.8.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.8.0/EnginePro_Setup_4.8.0.exe.gz",
+    "SHA256":  "2AB14B314274D7C8822387C5215510A5E7768D805651C13F247AA73A8F03FAC1",
+    "Data":  "2026-11-01 23:42",
+    "Notas":  "Engine Neural Pro, COLMEIA, sensor de Excel, base ampliada e pesquisa aprimorada",
+    "Assinatura":  "ctHDkEw9YlJnSJJzAQ8/duQL3w9AAWSFUokpu2gg4n165gKf4lniYzUgeQFp14BAVcKa/y4J3UI+ioqaBnQJNPpTxAN3EBdchVLinKR9sEQgplQby95dp9oHsMwWIvwpkXfk9+5cx52BZw5Z/oj7s4kpSkhJciW5vd8uBSqZZ32FfU4VqEVOIDzf3CrYF4Rgxqz1edrIY5IxHvC1UmopSAiw0klJmQBSY7sWT3RszIl2Ocog3nKWrsESmxZNzDR2zr8ne4Kx7dQqxNVwHoIZhkbtn3b3bC7jA2M0J7Kir5d9iz0KPACvYYyRzQNQZWXmiqkYu2Jdh1d8nY3LqpCymp+32M83iV6m7Y0RK5VpUFbIlTQhzmTu7/KeHWLgphFMXwIZ8s0/wUHKTX0+FhMXtwftzEdvdi3F8Z7ZaqjJHE8nl7ws7VOR7lV5kzSGcSDpzSladAihTU1pR6qZKMdwVM2lOGdrjIS0vFTSHIzpM+mPg2ZsKuHfrJm8U3XCGjTN"
 }

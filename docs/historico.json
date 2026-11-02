@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.8.0",
+        "Data":  "2026-11-01 23:42",
+        "Titulo":  "Engine Neural Pro, COLMEIA, sensor de Excel, base ampliad...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Engine Neural Pro, COLMEIA, sensor de Excel, base ampliada e pesquisa aprimorada."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.7.0",
         "Data":  "2026-11-01 23:19",
         "Titulo":  "Engine Neural Pro, COLMEIA, sensor de Excel e base de con...",
