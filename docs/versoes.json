@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.13.0",
+        "Data":  "2026-11-02 02:09",
+        "Notas":  "Card de busca abaixo das Acoes rapidas e botao Limpeza profunda",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.13.0/EnginePro_Setup_4.13.0.exe"
+    },
+    {
         "Versao":  "4.12.0",
         "Data":  "2026-11-02 01:44",
         "Notas":  "Busca por programa, historico de avisos e nao avisar mais",

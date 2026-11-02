@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.13.0 | Card de busca abaixo das Acoes rapidas e botao Limpeza pr... | 02/11/2026
+
+- **Melhoria**: Card de busca abaixo das Acoes rapidas e botao Limpeza profunda.
+
 ## Versão 4.12.0 | Busca por programa, historico de avisos e nao avisar mais | 02/11/2026
 
 - **Melhoria**: Busca por programa, historico de avisos e nao avisar mais.

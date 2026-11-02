@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.13.0",
+        "Data":  "2026-11-02 02:09",
+        "Titulo":  "Card de busca abaixo das Acoes rapidas e botao Limpeza pr...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Card de busca abaixo das Acoes rapidas e botao Limpeza profunda."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.12.0",
         "Data":  "2026-11-02 01:44",
         "Titulo":  "Busca por programa, historico de avisos e nao avisar mais",
