@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  610,
+    "Conhecimentos":  612,
     "Pesquisas":  770,
     "N48":  770,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-02 01:48:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-02 01:59:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007017C (ERROR_CLOUD_FILE_INVALID_REQUEST) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 00:56:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
+                         "Data":  "2026-11-02 01:59:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007016A (ERROR_CLOUD_FILE_PROVIDER_NOT_RUNNING) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 00:56:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DEF7 (ONEDRIVE_QUOTA_SUSPENDED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-02 01:48:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,8 +30,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-02 00:56:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
+                         "Data":  "2026-11-02 00:56:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -65,17 +65,17 @@
                   14,
                   12,
                   13,
+                  42,
+                  24,
+                  25,
                   21,
-                  21,
-                  34,
-                  36,
-                  0,
                   22,
                   21,
                   20,
                   22,
-                  23,
-                  21,
+                  0,
+                  44,
+                  0,
                   20,
                   20,
                   20,
@@ -101,6 +101,6 @@
                   12
               ],
     "Ultima":  "2026-11-02 01:48:00",
-    "Gerado":  "2026-11-02 01:57:03",
-    "Data":  "2026-11-02 01:57"
+    "Gerado":  "2026-11-02 02:07:03",
+    "Data":  "2026-11-02 02:07"
 }
