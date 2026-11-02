@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.18.0",
+        "Data":  "2026-11-02 14:40",
+        "Titulo":  "Botao Pedir opiniao de outra IA usa o Claude no computado...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao Pedir opiniao de outra IA usa o Claude no computador do TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.17.3",
         "Data":  "2026-11-02 11:46",
         "Titulo":  "OneDrive, rolagem e chat",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.18.0 | Botao Pedir opiniao de outra IA usa o Claude no computado... | 02/11/2026
+
+- **Melhoria**: Botao Pedir opiniao de outra IA usa o Claude no computador do TI.
+
 ## Versão 4.17.3 | OneDrive, rolagem e chat | 02/11/2026
 
 - **Melhoria**: OneDrive, rolagem e chat.

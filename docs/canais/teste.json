@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.17.3",
-    "Instalador":  "EnginePro_Setup_4.17.3.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.3/EnginePro_Setup_4.17.3.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.3/EnginePro_Setup_4.17.3.exe.gz",
-    "SHA256":  "EAD226D728A6A2A1731CC95262F82B7D743F37E68762A3BEAF16A6796587F263",
-    "Data":  "2026-11-02 11:46",
-    "Notas":  "OneDrive, rolagem e chat",
-    "Assinatura":  "VdZ5LAgHqp+3jy/03TV12qC+hjCz2Gmf2UCrvmdUzAPFXZgfP8KbwDTuQkxFQBs0qPf4Z+w9aaIpHPnsdx44NlVHpwH8QkrvKLFDkIOKIvDDJllf7JA2ibjqPIk2qSc4pTeoORGjwSpzS6v7C76GpDEMSL62i5WAPzRuPjlMm+XE1jUaZke7QhMgNsUPrEwdvs7hHeheb/8V7bzI63DDOE9fqAwGhfun3mEk6biEE9SE89DCiVcgSv9eWyRBJfzMMjIjJ4FDcuaynJtdawnewbiQid5dGN+y1g++GwLw+f7rjOKXKzhkrokyv35uKu6aWNLYARCwfQ6CtozDY3/ZgizbzqViQ4Opz09969RXo1YomdaZVL2SwlI2gG2v2vhWXso/L43pdjCZUmeqDBDj3QdaLxDYhmmPJu2qTh0gUD1yrSfEJ7z+z6o+djuB4n8dF9l0+Sm1xpdWxlxEIH/oFTJHiav7lP1JTWEs/+mwtgEiBdfoZiJ8SRBNgwnGQTi5"
+    "Versao":  "4.18.0",
+    "Instalador":  "EnginePro_Setup_4.18.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.0/EnginePro_Setup_4.18.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.0/EnginePro_Setup_4.18.0.exe.gz",
+    "SHA256":  "C252929455A52CDE3686C16B2FCDBA96CC6F9021FE92102693FEAA54ECE9317B",
+    "Data":  "2026-11-02 14:40",
+    "Notas":  "Botao Pedir opiniao de outra IA usa o Claude no computador do TI",
+    "Assinatura":  "CCeDe7iDDze+TOUIz2V7z2g4erSLJoVS5KFfgWVQU1anT9s3lDabsLVukYavwB5miI02Yk0XXUncviTMgLGUsVD/tPx2kizkHqeXbeaDg8WKGVKAGDrPPjDMVatI+5MKAv5LsHEGcmG/M+HVp1rt1Q7Wy4KSRvaiYikWKk0i9EFIBJrIwTxE6zQjdQ69vOYT6xYvibDWTy+xdlASm9cWmMrbf8+D43zYe8YakgHin1WAWHvQcSxQUMk61WBD4yWrJhbWKPL9K6f8w+pjq3DaGntcEvE9LMlC3aiPB1X594kyNxXPg7f3YijrGxE2ZkSPCuQY7Fs9/B3z4PnKWOw9Oy49GZMVuJwB3JRF3VVAjVOLc0bh2tk2fHNb1qlHk5XvW9i1bywbvjM/gZw/tZwJrBKvRtDzMlnKQm0UmgYVvs68mWy7evt6xmArooYPKKqLRwQzBcGq2uMwDxn36SkCBsF3O4KZWtUEn49vHfSXd18iJPSB+zHVJqJTYHiI2Rqf"
 }
