@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.8.0",
-    "Instalador":  "EnginePro_Setup_4.8.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.8.0/EnginePro_Setup_4.8.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.8.0/EnginePro_Setup_4.8.0.exe.gz",
-    "SHA256":  "2AB14B314274D7C8822387C5215510A5E7768D805651C13F247AA73A8F03FAC1",
-    "Data":  "2026-11-01 23:42",
-    "Notas":  "Engine Neural Pro, COLMEIA, sensor de Excel, base ampliada e pesquisa aprimorada",
-    "Assinatura":  "ctHDkEw9YlJnSJJzAQ8/duQL3w9AAWSFUokpu2gg4n165gKf4lniYzUgeQFp14BAVcKa/y4J3UI+ioqaBnQJNPpTxAN3EBdchVLinKR9sEQgplQby95dp9oHsMwWIvwpkXfk9+5cx52BZw5Z/oj7s4kpSkhJciW5vd8uBSqZZ32FfU4VqEVOIDzf3CrYF4Rgxqz1edrIY5IxHvC1UmopSAiw0klJmQBSY7sWT3RszIl2Ocog3nKWrsESmxZNzDR2zr8ne4Kx7dQqxNVwHoIZhkbtn3b3bC7jA2M0J7Kir5d9iz0KPACvYYyRzQNQZWXmiqkYu2Jdh1d8nY3LqpCymp+32M83iV6m7Y0RK5VpUFbIlTQhzmTu7/KeHWLgphFMXwIZ8s0/wUHKTX0+FhMXtwftzEdvdi3F8Z7ZaqjJHE8nl7ws7VOR7lV5kzSGcSDpzSladAihTU1pR6qZKMdwVM2lOGdrjIS0vFTSHIzpM+mPg2ZsKuHfrJm8U3XCGjTN"
+    "Versao":  "4.9.0",
+    "Instalador":  "EnginePro_Setup_4.9.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.9.0/EnginePro_Setup_4.9.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.9.0/EnginePro_Setup_4.9.0.exe.gz",
+    "SHA256":  "4916DAD4AF96DB09721671EA1A9545478E9B2EA746968BE0C9893CF2F39F5DCD",
+    "Data":  "2026-11-02 00:01",
+    "Notas":  "COLMEIA aprova por maioria simples e back-off nas cotas das IAs",
+    "Assinatura":  "PEHaGTiiDTMlQnoQnMDk1FqY7KhhCMS8tOZ+L1hL4rrxqpC/6UchWeGMcl/EOF6Kk1goK+eaFemCd3go26uKS7y4E2uThrwPDcYCfdrpxDy6mdMKWv+5taZ8qvBHjfUQvmOPVPsNosPstBNmcuTG2jh4tYv0xw+l/qHu4NFn2giSilO4TMZYgSBmJVKYsnKS1/jTz/GVlaBybRMA5E4eXD5DjncavWb5icDSc96W0i1lJScefJq29+ST7goAPJoiwPE7oAha728yOASHqKeteL+D5bN3TtLTIdKrPFQJ/OS62jpcv+AUpDsFdV6V0o2jeXw/he5xJ/QwZWrKuRm71MWu+aVETkQ0WkltBrNwYmixXbFN8MMfNuA1i2qXuBV6701dJM3MSQJbGzya1lOzoedyrjq+ptNImmIPl7asH5u7cmjVzZqoMusiZcDkXedpVLFDeneq9mrQjaHYl0VPahXcICwaxvPzTbrj7gi1kWjfXxsFD9/pdlL+0EHwxeT7"
 }

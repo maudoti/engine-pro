@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.9.0 | COLMEIA aprova por maioria simples e back-off nas cotas d... | 02/11/2026
+
+- **Melhoria**: COLMEIA aprova por maioria simples e back-off nas cotas das IAs.
+
 ## Versão 4.8.0 | Engine Neural Pro, COLMEIA, sensor de Excel, base ampliad... | 01/11/2026
 
 - **Melhoria**: Engine Neural Pro, COLMEIA, sensor de Excel, base ampliada e pesquisa aprimorada.
