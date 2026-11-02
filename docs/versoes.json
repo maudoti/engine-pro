@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.17.0",
+        "Data":  "2026-11-02 10:19",
+        "Notas":  "Deteccao proativa de caminhos longos do OneDrive; Claude pago no TI; pesquisa a 5 temas",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.0/EnginePro_Setup_4.17.0.exe"
+    },
+    {
         "Versao":  "4.16.0",
         "Data":  "2026-11-02 03:09",
         "Notas":  "Erro de riscos nas estacoes corrigido por completo; Desempenho atualiza a cada 3s; Limpeza rapida e profunda num so lugar; avisos com detalhe e OneDrive na ficha; exportar ficha completa; menos delay no Modo IA",

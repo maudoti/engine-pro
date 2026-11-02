@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.17.0 | Deteccao proativa de caminhos longos do OneDrive | 02/11/2026
+
+- **Melhoria**: Deteccao proativa de caminhos longos do OneDrive.
+- **Melhoria**: Claude pago no TI.
+- **Melhoria**: Pesquisa a 5 temas.
+
 ## Versão 4.16.0 | Erro de riscos nas estacoes corrigido por completo | 02/11/2026
 
 - **Correção**: Erro de riscos nas estacoes corrigido por completo.

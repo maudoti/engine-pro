@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.17.0",
+        "Data":  "2026-11-02 10:19",
+        "Titulo":  "Deteccao proativa de caminhos longos do OneDrive",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Deteccao proativa de caminhos longos do OneDrive."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Claude pago no TI."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Pesquisa a 5 temas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.16.0",
         "Data":  "2026-11-02 03:09",
         "Titulo":  "Erro de riscos nas estacoes corrigido por completo",

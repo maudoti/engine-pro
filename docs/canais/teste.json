@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.16.0",
-    "Instalador":  "EnginePro_Setup_4.16.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.16.0/EnginePro_Setup_4.16.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.16.0/EnginePro_Setup_4.16.0.exe.gz",
-    "SHA256":  "AA93F10959480C9765D15AA307B648777362E7322F4E956A73664B80AEDF787B",
-    "Data":  "2026-11-02 03:09",
-    "Notas":  "Erro de riscos nas estacoes corrigido por completo; Desempenho atualiza a cada 3s; Limpeza rapida e profunda num so lugar; avisos com detalhe e OneDrive na ficha; exportar ficha completa; menos delay no Modo IA",
-    "Assinatura":  "RW4oYY2g7PcXbugAkg8eIys5wA5Y188Yy5t1q6rX1R2/RUVyXwMnHKzySWDbvY/VuN5oRRbRId9TDdwzpvMckVHHjY2opGWAv2LajwXkhJQjZjIZPFLMuTEKROW/AZ7giH+sGV69MYH4Ai2xy/8r6TWpnrSN/aoGe6jhxFRit5xS/O/DngvmA6koYluR+4FzqQ0m+dJkeOzIuTlvJZjj2fSX6juUN2XDHsKEcmw1EvfuDLP5MVg4nqDRPeGZZMTkc5rdWVpWt3i0IB74GrmEctGigGeRZ97pwMmc5Tw+xs+xHsX1QJQwAp4bXRb8GqUIH5YKWHxEGo5R8Haj2mvpT2sOu/r5WkYcQfGjjNRcRhFj31rF6mfKNK5ACnvsKvje0oQPHHX3jz73mhN/5BIS6FQH7Z7r0PNSRaf+iIjRK1H7aFmIkqDOkdPQzmOQ4N1aWX6yd2dIbIZ+cFjOqvBGvXGHbKEJ+hB1wUORoWVLB6kAKvOHhF8Ck8I8E1Qzd5Hw"
+    "Versao":  "4.17.0",
+    "Instalador":  "EnginePro_Setup_4.17.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.0/EnginePro_Setup_4.17.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.0/EnginePro_Setup_4.17.0.exe.gz",
+    "SHA256":  "9ECD7517CAD400B547831B38F0A82AA5F0C533E6F9F35B6B75A47873C641F18B",
+    "Data":  "2026-11-02 10:19",
+    "Notas":  "Deteccao proativa de caminhos longos do OneDrive; Claude pago no TI; pesquisa a 5 temas",
+    "Assinatura":  "uAXCXWeXzvpLdxFN4XC0RijntKyTI/KtFzMlSXGKpFuSgeOjUN80UNteqc9m/ijq+toFmvO0RK/BFdyAFreWcMIyTAiG7UyHpACia/TTi1Nr6nhAPuXaHk4mI4VDGpStDXlLWIH/+Ccpb27gUmbuBKnBiY2v4+piKqVVOK23DqEINTc0SmUAqugR6GvKSyJAcM8DbBffW5+s66IKdh2IaJDxAN41chDucuwCWvGxvFKxif5hH86Ua8GNNsaTGCyo1TqQNV8SvUycg5FK+hhNje3W5/69IU9ltOc68HPakx/t4YRGtxSvDVqGp6/Se5t60KXTmR89gbFy5sn4grNWCVHnjeo1C20V+YXG4aVaR2Je15r85zPjaXPMEqplcFFvq6YNNHRdsU6ucGlo8WToCS8drIVbIYucMhelwx5obL2z1RUNr0KcyVIWb4Qy5qn+x0+HEe21/XooNaBm84KSJSztVSux8EVtBw34OKGFGH0iwWf8Jr0lkuv6+95d+SgT"
 }
