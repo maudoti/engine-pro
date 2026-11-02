@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.14.0",
+        "Data":  "2026-11-02 02:14",
+        "Titulo":  "Corte de empate automatico em 80 por cento",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Corte de empate automatico em 80 por cento."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.13.0",
         "Data":  "2026-11-02 02:09",
         "Titulo":  "Card de busca abaixo das Acoes rapidas e botao Limpeza pr...",

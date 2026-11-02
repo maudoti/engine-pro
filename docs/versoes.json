@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.14.0",
+        "Data":  "2026-11-02 02:14",
+        "Notas":  "Corte de empate automatico em 80 por cento",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.14.0/EnginePro_Setup_4.14.0.exe"
+    },
+    {
         "Versao":  "4.13.0",
         "Data":  "2026-11-02 02:09",
         "Notas":  "Card de busca abaixo das Acoes rapidas e botao Limpeza profunda",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.14.0 | Corte de empate automatico em 80 por cento | 02/11/2026
+
+- **Melhoria**: Corte de empate automatico em 80 por cento.
+
 ## Versão 4.13.0 | Card de busca abaixo das Acoes rapidas e botao Limpeza pr... | 02/11/2026
 
 - **Melhoria**: Card de busca abaixo das Acoes rapidas e botao Limpeza profunda.

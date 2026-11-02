@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.13.0",
-    "Instalador":  "EnginePro_Setup_4.13.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.13.0/EnginePro_Setup_4.13.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.13.0/EnginePro_Setup_4.13.0.exe.gz",
-    "SHA256":  "E6224C186A43015AC101F892B36D854D663F7E4C3735931560985A3BC2728397",
-    "Data":  "2026-11-02 02:09",
-    "Notas":  "Card de busca abaixo das Acoes rapidas e botao Limpeza profunda",
-    "Assinatura":  "k5v+ZbaZwlqbtbGIGZ3zFZ5bcKUffFrK0dPCfhz5b+zHQoRPFbe6krsrvrD/asGjZXECnbpUvQ4kS2F0ZH86f50nhKzC5noRBUWZU+4BXIW8IKkaiVZTWWCbwRDjOMfsqGss9wQ05LcHwQUPIBR52csrjDCs7ivXpCdC6ymWoShAGk7oNZu1nxzzEw3e4nQFEAUOHB/otIJBC1r2WY2x620YnAMpd5bkVAAFC0Jd2y1Jgv+XKvBzTMQBYPYsguUKgIUaNWiqECnuc5D9RDK+/Euw5GXY2NIgoApemsyr/ZcN7QLWiu36wLHfG4JTgFvDYcGej/9cKmotpJS4yN0mYgvScuDgcdu3hp8KJWi5Ip2h6wUjSV9nXjvNmsprUxBRWk+ccwx7MukrwzDFf2hfYnDV5+evt4nwnRxcmywivLT1WQJaxLjMWdeEfjllcYAmxhLdoFAwjlBLs3NtjvsM2fJyjGrfeMLvAmjHqcpUjrnuIVQBBkQ6Jll/PhbD9S87"
+    "Versao":  "4.14.0",
+    "Instalador":  "EnginePro_Setup_4.14.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.14.0/EnginePro_Setup_4.14.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.14.0/EnginePro_Setup_4.14.0.exe.gz",
+    "SHA256":  "4A93BFEA1410A9DCCA91303B30329E6CE1D9DC8F4C825B70D94F89DC85DEACBE",
+    "Data":  "2026-11-02 02:14",
+    "Notas":  "Corte de empate automatico em 80 por cento",
+    "Assinatura":  "iZarTL6Bx7IIFJUggmfYYuPlbO9MlJNMP1wHQjK/YWw6RHiBtUvsZyv2WZLXQVtE4bjJqa7c0TU3xXXwYkOqLBVmflesF78sOziSH7845e/T0TA03BkLz2PKZT2Foyd4KGg3SGeRPXUrSJFPLs+C9UMPKfAxuUX5gkf8aIHUf+qhNJG2bShls3JrMesqSr8eKOPn6eQ4eF2vPstTQGBsCDiKz2jrF49MDGzZR/0ixf0pN/dP5oExiADUtQT/Ydho62A9dIedJrjvDSXUKO62epD0IY3JGJr0I9x+bH8ABuT9bfW5enI0cOpPmltBvlR8jt2ikber9an1p8kVSNOEL/ihbvV348cNU6cawgUUqFhlYVgagHNyjv9Zhw16x5ctndZ4QY/ymaGTDcMPAkatpS61YfdhvIEQ/z6FLDYTtUuK3XyydwV7b98c6w1L3gOd1rgv7SsjuGLCuxhio0pom+77QKvY6x4x7YskmlrqQZDXefqCm5QdBJU69NhTmC3b"
 }
