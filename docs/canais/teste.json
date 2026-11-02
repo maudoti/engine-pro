@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.18.2",
-    "Instalador":  "EnginePro_Setup_4.18.2.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.2/EnginePro_Setup_4.18.2.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.2/EnginePro_Setup_4.18.2.exe.gz",
-    "SHA256":  "1AB5EEF2BE2B0AABCAF6B19D7396B16FE180157F336970092C308F71E44C91BB",
-    "Data":  "2026-11-02 15:07",
-    "Notas":  "Botao de opiniao mostra o motivo quando o Claude nao responde",
-    "Assinatura":  "ucLEGtmDfa5P6kxzwgIRdD4BV8lkNzhtrxrOzJAgl2k6OAUT0Ig7fc7e5GVkHkRvjJC59YTAIF3UzXlyPb7L2uM+J2DZoLWXbbLFEscJ92tGeZ/+qWrMQ6Hu++8O4GNho52eCVgWF1oj4J/1NCOFgG0nW2fnCLiHE8JZQoetyx5uGVlo+GCJFtFIR/cLroHAGIK7Ic20AyA8gswut9navV7DPbEFfzLyMkKIppQBV0M7gFuX03LMqaYfuCZuqv5fhWnwxUNEOE0LQQOvnD5+ttaQZsHvPadxQi9GKRO/ozlJNro1iOzk2hwmnmr92koBIG827uN+JxLxhnUBNNUC7AOes2UI/hv/aeLRYqP/qHMQTzOfkiOWnCT8PFGeowB+E1LERkn6+sc8PAo4SQuoIqFNIkdKz+UqNbz/EYppcS7KkpmdqzOy8ngRfK6OIDEs5bNmiyRHGeLIU1FZ5MgforsBLxM/Sqsf/zPrFU2OuK54Tahgeln++Zqv36QN4scS"
+    "Versao":  "4.18.3",
+    "Instalador":  "EnginePro_Setup_4.18.3.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.3/EnginePro_Setup_4.18.3.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.18.3/EnginePro_Setup_4.18.3.exe.gz",
+    "SHA256":  "723562F745709D3169FFE5AF0F5B92D9C6B34E834B0979851B347F9E2C2C4B03",
+    "Data":  "2026-11-02 15:16",
+    "Notas":  "Botao de opiniao: limite de tokens maior para o Claude (modelo que raciocina) e leitura do bloco de texto",
+    "Assinatura":  "WUIgpR9eS9yXjotAXfjRAPUW8HnLo0tUntbFzD+fs8owIZgzSj4MK6oaWvftqB98WKnk17QkUQbTnPJJUYSv/mXIylowgTFbNmvpPDMlmPdyX7qbaoZOLcZ9LsWJCWn9aJjQs1cpDVZRS3/3yQfPCYcpjbptkSKSwrUHpFqq19skx8SEnBOP/We9WENovHSqT270svjLIM4C1kH5YMqMEzYpcVSZgaXxrtzlQrcFo3NWns/UsCYpEz7nGb804ICfw8vfSjqGWszShJKezyBbouglA5gxdoAH/FGMB8Ey4Rucm6yDy8G1x21v45DiMXrRj9hxuW0RSDfRe1FeAJWqR/vYyiXh03rGvZ+AuX/GjrLKH7U9uYBhHn6biYzjkjHLrxZM5Lqn61/qEOPay1mIK89aZWstlEfyiZPJD8v0Xm1p2etIrDZ6Qj0PTXhJ8hYZu7LvjiCpaIS3YHNx7G85Y0/bKs5i4oWrpg4LV3aUo/rjqxGdd6YqcqT7RAsFQpZs"
 }

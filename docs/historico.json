@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.18.3",
+        "Data":  "2026-11-02 15:16",
+        "Titulo":  "Botao de opiniao: limite de tokens maior para o Claude (m...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao de opiniao: limite de tokens maior para o Claude (modelo que raciocina) e leitura do bloco de texto."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.18.2",
         "Data":  "2026-11-02 15:07",
         "Titulo":  "Botao de opiniao mostra o motivo quando o Claude nao resp...",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.18.3 | Botao de opiniao: limite de tokens maior para o Claude (m... | 02/11/2026
+
+- **Melhoria**: Botao de opiniao: limite de tokens maior para o Claude (modelo que raciocina) e leitura do bloco de texto.
+
 ## Versão 4.18.2 | Botao de opiniao mostra o motivo quando o Claude nao resp... | 02/11/2026
 
 - **Melhoria**: Botao de opiniao mostra o motivo quando o Claude nao responde.
