@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.20.0",
+        "Data":  "2026-11-02 19:45",
+        "Titulo":  "Aba Recusadas com botao Recuperar",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aba Recusadas com botao Recuperar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aprovar esta solucao em destaque na sugestao da IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.19.0",
         "Data":  "2026-11-02 18:39",
         "Titulo":  "IA que discorda propoe a solucao correta e o Aprovar esta...",

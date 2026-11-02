@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.20.0 | Aba Recusadas com botao Recuperar | 02/11/2026
+
+- **Melhoria**: Aba Recusadas com botao Recuperar.
+- **Melhoria**: Aprovar esta solucao em destaque na sugestao da IA.
+
 ## Versão 4.19.0 | IA que discorda propoe a solucao correta e o Aprovar esta... | 02/11/2026
 
 - **Melhoria**: IA que discorda propoe a solucao correta e o Aprovar esta usa ela.

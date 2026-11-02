@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.19.0",
-    "Instalador":  "EnginePro_Setup_4.19.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.19.0/EnginePro_Setup_4.19.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.19.0/EnginePro_Setup_4.19.0.exe.gz",
-    "SHA256":  "18AFFD18F6FF4E77AEA7FD973659A05F8A0D81799F91068FD4370FC40DDA8F67",
-    "Data":  "2026-11-02 18:39",
-    "Notas":  "IA que discorda propoe a solucao correta e o Aprovar esta usa ela; erro das IAs gratis mais discreto",
-    "Assinatura":  "rkOgZZEqbmQJ6IGb+cUQokwZrvet4OBcYFsN/6EZZYnzcTBKW3LRnCZ48/hmkfash7a5AG1pSSoj5PMNXUXaia3MVYRPt3TCnLAcAlZiCZTEP943i/mgTLymxzG9+OtPZ2q1zXCJD1PwAkF8M4thE8iJp7afl82pbbB4gxq+Xyv5pshGntTZKDCb5RiEADyBPJ21oBpPUz8OF6FWzlIVkm/vKvIggYe68HkbTxqi4YY0rlgcoz2v3fBPvc7KyYScu6wbm2jG6rXWQ8SZ35XTwzfbik70EPt7Myuip8WAxyLg6D+nTMO9s93rJLkh09MgeWYppSX+Ez8m9HMtNHIFUSSAnBLBoCDP+qeqViERQWYV2WJ/Y9evLKCL5USZa2gJ9XhwOu1LGJxd6eS7W1agV1uHlu5r+Y+Oufw/oBCnVjQNQTIKH1NtGdZW610zWrRV1gOgQwdIOWy2Oj9sggYE80HEjpzwee0bgqveS3f++AAchwDL2rebWNw+NMiZgGvM"
+    "Versao":  "4.20.0",
+    "Instalador":  "EnginePro_Setup_4.20.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.20.0/EnginePro_Setup_4.20.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.20.0/EnginePro_Setup_4.20.0.exe.gz",
+    "SHA256":  "640803B4BE1F6266A3A9A8DEC4595ECDB4D7384DA16BDBD8CD69432E7555544F",
+    "Data":  "2026-11-02 19:45",
+    "Notas":  "Aba Recusadas com botao Recuperar; Aprovar esta solucao em destaque na sugestao da IA",
+    "Assinatura":  "ZcVPrgbXCl/8kBLALAyM6i9Wi36RqQwkUQ7NEMjRilMQ//vpGBgvHTJVN93rL7NV2fi/z6FEwJQ9ixaXas0OmwSnFGIgMhkUxk+gZhqg4U4VFXXb4IyGXsHEYn7jLsKUTtlzkXqvuz1jprWPvabivzeswT4z6PXQysIZWRbB0RBhuuDQvWjQWPAFRYkIIgUaaAbkzDC6s5PBnsQeadiCh1VSZ6WokuW/nC2tyic+vLfkZGjPtO3ARvtdZyHJzRDXf9mnKR4lCsq9WqZRVzW6pgXpXcKXPUdv1IWwKqV30F0bQ6zCFpbSEezl5xUuFLqEF/+IcvRWX7uugrmgocEtdCGGDsBMsV85qMImJcn0ov1obBa+T6SDYR17+g4yD6vLN5OEPzNvBvJOJTJ5b4foWh7DHTsCGtonN6Scx2fbMggk75ozQ7VNaRwjBHuQ/2l+w2KS7A7KUmqpux9gg/eDLypZEbEvVK20yqF+lNThrS0vcm775+nXvsvJ5ZM0JezF"
 }

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.20.0",
+        "Data":  "2026-11-02 19:45",
+        "Notas":  "Aba Recusadas com botao Recuperar; Aprovar esta solucao em destaque na sugestao da IA",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.20.0/EnginePro_Setup_4.20.0.exe"
+    },
+    {
         "Versao":  "4.19.0",
         "Data":  "2026-11-02 18:39",
         "Notas":  "IA que discorda propoe a solucao correta e o Aprovar esta usa ela; erro das IAs gratis mais discreto",
