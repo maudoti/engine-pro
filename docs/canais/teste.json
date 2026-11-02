@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.9.0",
-    "Instalador":  "EnginePro_Setup_4.9.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.9.0/EnginePro_Setup_4.9.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.9.0/EnginePro_Setup_4.9.0.exe.gz",
-    "SHA256":  "4916DAD4AF96DB09721671EA1A9545478E9B2EA746968BE0C9893CF2F39F5DCD",
-    "Data":  "2026-11-02 00:01",
-    "Notas":  "COLMEIA aprova por maioria simples e back-off nas cotas das IAs",
-    "Assinatura":  "PEHaGTiiDTMlQnoQnMDk1FqY7KhhCMS8tOZ+L1hL4rrxqpC/6UchWeGMcl/EOF6Kk1goK+eaFemCd3go26uKS7y4E2uThrwPDcYCfdrpxDy6mdMKWv+5taZ8qvBHjfUQvmOPVPsNosPstBNmcuTG2jh4tYv0xw+l/qHu4NFn2giSilO4TMZYgSBmJVKYsnKS1/jTz/GVlaBybRMA5E4eXD5DjncavWb5icDSc96W0i1lJScefJq29+ST7goAPJoiwPE7oAha728yOASHqKeteL+D5bN3TtLTIdKrPFQJ/OS62jpcv+AUpDsFdV6V0o2jeXw/he5xJ/QwZWrKuRm71MWu+aVETkQ0WkltBrNwYmixXbFN8MMfNuA1i2qXuBV6701dJM3MSQJbGzya1lOzoedyrjq+ptNImmIPl7asH5u7cmjVzZqoMusiZcDkXedpVLFDeneq9mrQjaHYl0VPahXcICwaxvPzTbrj7gi1kWjfXxsFD9/pdlL+0EHwxeT7"
+    "Versao":  "4.10.0",
+    "Instalador":  "EnginePro_Setup_4.10.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.10.0/EnginePro_Setup_4.10.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.10.0/EnginePro_Setup_4.10.0.exe.gz",
+    "SHA256":  "C67D9AF329C9A7D86B29CFEF6093E7722BEDAB88B0676BAA392724BEA39A8E27",
+    "Data":  "2026-11-02 00:15",
+    "Notas":  "Fim dos empates artificiais na COLMEIA e pesquisa mais economica",
+    "Assinatura":  "kWMv61BMtbe3HjKaXxWqYjiMz2Nj+JMSoYZT099XDAsBW0dVdPiBfOVXA+lBxEXU+5SWrrlSQZBpcqIBWeFT5Do+guqO4w2cXoeOvVuQtBp4vpQHMs2Ce7GObM7dvADWRGQaPs7/EydEkFp0bps4H6kDTCj0WBfoXjiLhgzvi98XQ5jyTZZk3PnmImPAPJKNT0/BTLxwcX149Fa1FrtsEicyvU4NwQnk0KPJcm4+ZzH1b0PjHEkHGf+fzpq6fsOdJJl7zmHLMRrTW8fjaNaF8Cfbm0+4+maWaqBCCJRgIKcmDh9YIfF5TOe9NYzyrq06cBMIjDfCEu6Wgjn8ferDdn4fx3grzHzqXA6IcqTe2HmyjZo7kMhjtXne+kLZuYAVDn4lqjHf3IXCNB0GDQuCYvmdSEmKlTVoFOWMhymWJ8bPtNBJB+6JF3SDgCjAWLJBwZq3zDKBG1A/fQS00PLd4r2WrjWU1Zzk6uw0T6G9ZG9Y7NehnEH/ERYVHbEeVYdC"
 }

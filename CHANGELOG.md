@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.10.0 | Fim dos empates artificiais na COLMEIA e pesquisa mais ec... | 02/11/2026
+
+- **Melhoria**: Fim dos empates artificiais na COLMEIA e pesquisa mais economica.
+
 ## Versão 4.9.0 | COLMEIA aprova por maioria simples e back-off nas cotas d... | 02/11/2026
 
 - **Melhoria**: COLMEIA aprova por maioria simples e back-off nas cotas das IAs.

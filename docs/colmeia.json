@@ -1,22 +1,27 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  482,
+    "Conhecimentos":  607,
     "Pesquisas":  746,
     "N48":  746,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-02 00:02:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007A (KERNEL_DATA_INPAGE_ERROR) no Windows",
+                         "Data":  "2026-11-02 00:11:08",
+                         "Texto":  "A base da COLMEIA passou de 600 aprendizados",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 00:02:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007E (SYSTEM_THREAD_EXCEPTION_NOT_HANDLED) no Windows",
+                         "Data":  "2026-11-02 00:10:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000135 (DLL_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 00:02:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000074 (BAD_SYSTEM_CONFIG_INFO) no Windows",
+                         "Data":  "2026-11-02 00:10:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000022 (ACCESS_DENIED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-02 00:10:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000142 (DLL_INIT_FAILED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -48,9 +53,9 @@
                   0,
                   0,
                   0,
-                  14,
-                  14,
+                  28,
                   12,
+                  0,
                   13,
                   42,
                   24,
@@ -60,12 +65,12 @@
                   21,
                   20,
                   22,
+                  23,
+                  21,
+                  20,
+                  20,
+                  20,
                   0,
-                  44,
-                  0,
-                  20,
-                  20,
-                  20,
                   20,
                   22,
                   28,
@@ -86,6 +91,6 @@
                   20
               ],
     "Ultima":  "2026-11-01 23:46:40",
-    "Gerado":  "2026-11-02 00:07:04",
-    "Data":  "2026-11-02 00:07"
+    "Gerado":  "2026-11-02 00:15:19",
+    "Data":  "2026-11-02 00:15"
 }
