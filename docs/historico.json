@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.20.1",
+        "Data":  "2026-11-02 20:30",
+        "Titulo":  "Recusadas: servico guarda os recusados e o Recuperar traz...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Recusadas: servico guarda os recusados e o Recuperar traz o item de volta a fila."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.20.0",
         "Data":  "2026-11-02 19:45",
         "Titulo":  "Aba Recusadas com botao Recuperar",
