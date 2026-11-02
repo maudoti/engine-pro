@@ -1,9 +1,29 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  626,
+    "Conhecimentos":  629,
     "Pesquisas":  890,
     "N48":  890,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-02 11:51:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC000000E (BOOT_DEVICE_INACCESSIBLE) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-02 11:51:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F074 (SL_E_VL_KMS_UNREACHABLE) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 144 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-02 11:51:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000225 (BOOT_SELECTION_FAILED) no Windows",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-02 11:03:36",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
@@ -13,26 +33,6 @@
                          "Data":  "2026-11-02 10:02:36",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 144 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-02 09:21:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007045D (ERROR_IO_DEVICE) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-02 09:21:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071AC3 (ERROR_DIRTY_VOLUME) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-02 09:21:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070017 (ERROR_CRC) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-02 00:11:08",
@@ -52,9 +52,9 @@
                   13,
                   21,
                   21,
-                  24,
-                  25,
-                  21,
+                  35,
+                  35,
+                  0,
                   22,
                   21,
                   20,
@@ -80,22 +80,22 @@
                   21,
                   20,
                   26,
-                  0,
-                  40,
-                  0,
+                  20,
+                  20,
                   12,
-                  24,
                   12,
-                  4,
-                  8,
+                  12,
+                  12,
+                  12,
                   15,
                   12,
                   12,
+                  0,
                   12,
                   12,
                   21
               ],
     "Ultima":  "2026-11-02 11:03:36",
-    "Gerado":  "2026-11-02 11:47:06",
-    "Data":  "2026-11-02 11:47"
+    "Gerado":  "2026-11-02 11:57:04",
+    "Data":  "2026-11-02 11:57"
 }
