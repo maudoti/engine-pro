@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  612,
+    "Conhecimentos":  614,
     "Pesquisas":  782,
     "N48":  782,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-02 02:44:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-02 02:46:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (4 de 10)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 01:59:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007017C (ERROR_CLOUD_FILE_INVALID_REQUEST) no Windows",
+                         "Data":  "2026-11-02 02:46:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070185 (ERROR_CLOUD_FILE_UNSUCCESSFUL) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 01:59:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007016A (ERROR_CLOUD_FILE_PROVIDER_NOT_RUNNING) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-02 02:44:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,14 +30,14 @@
                          "Nivel":  "info"
                      },
                      {
+                         "Data":  "2026-11-02 01:59:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007017C (ERROR_CLOUD_FILE_INVALID_REQUEST) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-02 01:48:00",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-02 00:56:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-02 00:11:08",
@@ -66,9 +66,9 @@
                   13,
                   21,
                   21,
-                  24,
-                  25,
-                  21,
+                  34,
+                  36,
+                  0,
                   22,
                   21,
                   20,
@@ -94,13 +94,13 @@
                   21,
                   20,
                   26,
-                  0,
-                  40,
-                  0,
+                  20,
+                  20,
                   12,
-                  24
+                  12,
+                  12
               ],
     "Ultima":  "2026-11-02 02:44:32",
-    "Gerado":  "2026-11-02 02:47:03",
-    "Data":  "2026-11-02 02:47"
+    "Gerado":  "2026-11-02 02:57:03",
+    "Data":  "2026-11-02 02:57"
 }
