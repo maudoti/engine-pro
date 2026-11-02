@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.17.3 | OneDrive, rolagem e chat | 02/11/2026
+
+- **Melhoria**: OneDrive, rolagem e chat.
+
 ## Versão 4.17.2 | Logo Y animado | 02/11/2026
 
 - **Melhoria**: Logo Y animado.

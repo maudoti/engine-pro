@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.17.3",
+        "Data":  "2026-11-02 11:46",
+        "Notas":  "OneDrive, rolagem e chat",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.17.3/EnginePro_Setup_4.17.3.exe"
+    },
+    {
         "Versao":  "4.17.2",
         "Data":  "2026-11-02 11:39",
         "Notas":  "Logo Y animado; desliga nag do Java; corrige falso OneDrive fechado; barra de rolagem na tela inicial; chat da IA nao pergunta sintomas quando ja ha erros",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.17.3",
+        "Data":  "2026-11-02 11:46",
+        "Titulo":  "OneDrive, rolagem e chat",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "OneDrive, rolagem e chat."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.17.2",
         "Data":  "2026-11-02 11:39",
         "Titulo":  "Logo Y animado",
