@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.22.0",
-    "Instalador":  "EnginePro_Setup_4.22.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.22.0/EnginePro_Setup_4.22.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.22.0/EnginePro_Setup_4.22.0.exe.gz",
-    "SHA256":  "8DC45AF0DA2C965AA09D4E1923EB2968FE4D796EF1FD39D602EE406EC3C3CE0E",
-    "Data":  "2026-11-02 21:31",
-    "Notas":  "Botao Estudar mais a fundo: a COLMEIA busca mais fontes (TechNet, Sysinternals, MSRC/CVEs, Catalogo do Update, SDKs) e le mais resultados",
-    "Assinatura":  "oJMgdtgic4RUJYiCWQYJXs1521moERWbgw2nH/dMfAOAI3g5QPFy7wVY1Sjm719klMsBTJXjta2QPFcMvYMd8Fj8c+j+NSf6Vlbu5nf+72a8L4fqNYj2zxUbjUKcP6cIBLWlZJTrUjUu/0SoLT050utDq/BnU+XwN+EgZtq3+6gsbaMamoCsYe4Bt2NxVN5N0rFgBee5vccKR1hbcSGCw3DgC/q8LmUjvvCF9uA2LFcAn7oFPlPS/a9rsm/m1/Rn0bqlwzHnYifHVLJVprb4Du0jRE9IOvHMkfd4gFtY35H4mYbgfFggf18Bl1RSAopOK/xaD+d6QX7zAmgnJ4T7BMuO1DcpmLkWEHd0d5hdvoA9cUhGBS7tlMeESBQlDqdKL7Zh+80qHMaIJIOASzvbHk9xc5sdxeBWVCkBQN+3zBhkTymcGhQyrPEIscL4dYyWA8nqcNtGhyNoq1Y5HPHvSbQvcNZkgihfTTB+CVmIODgMjhfHPiDR7V7JPbkQ6snu"
+    "Versao":  "4.23.0",
+    "Instalador":  "EnginePro_Setup_4.23.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.23.0/EnginePro_Setup_4.23.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.23.0/EnginePro_Setup_4.23.0.exe.gz",
+    "SHA256":  "B34A355BAFC7CFAD8E97522DBF168BE646A5B0DB0863B2F9A2B26DD7D27CE7D0",
+    "Data":  "2026-11-02 21:41",
+    "Notas":  "Botao Em estudo: mostra os temas que a COLMEIA esta estudando e os que aguardam a proxima rodada",
+    "Assinatura":  "YKrUs+iEyapDLLg3K23MMXVHK7chvUtOv/4lgCLa0oSbVabgPSsTPVPNpMbkhCClRwwH3WUbRlnulVpJep1wSVYC7ScaKMY9MliPgB3Q+SoJfScWe0uOB1jk/4SpwLfz2QU8ZpO+/O+Rp7u24dRWLlwSGzu0fYlbQm8I/yZ6KJbefwwahieGo/zfIlY1H0L1oOuvopGO/cr6ev7bv8gmMr2b3I/sspjJRrEpADbtS1jjXvgPx44dofc928KFrEOFDZPIgiITGzl/kH4OAjKqarQy73+4wq4JmPxKrmm++t8YYokCU6HWVUxwLaf5YSOOxPXkNUDpcStFh4EQozZ76zNf6lJ6zoG2Z16JNRNMH//mZOLbT/JFID9TTndesWO/qz5gbHEag1NLBcCefMET6y+PUhU25ezdmPv9gL6Ns/OJ7YAAmXaCg9fI+Ieg+Iu1dZCATImcdEUojUakCI9fn3NlcMbRrVoIAsNT+8rTi3PGrZUxARqDR/iALg11dLRB"
 }

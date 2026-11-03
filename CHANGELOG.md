@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.23.0 | Botao Em estudo: mostra os temas que a COLMEIA esta estud... | 02/11/2026
+
+- **Melhoria**: Botao Em estudo: mostra os temas que a COLMEIA esta estudando e os que aguardam a proxima rodada.
+
 ## Versão 4.22.0 | Botao Estudar mais a fundo: a COLMEIA busca mais fontes (... | 02/11/2026
 
 - **Melhoria**: Botao Estudar mais a fundo: a COLMEIA busca mais fontes (TechNet, Sysinternals, MSRC/CVEs, Catalogo do Update, SDKs) e le mais resultados.

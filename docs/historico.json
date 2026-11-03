@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.23.0",
+        "Data":  "2026-11-02 21:41",
+        "Titulo":  "Botao Em estudo: mostra os temas que a COLMEIA esta estud...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao Em estudo: mostra os temas que a COLMEIA esta estudando e os que aguardam a proxima rodada."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.22.0",
         "Data":  "2026-11-02 21:31",
         "Titulo":  "Botao Estudar mais a fundo: a COLMEIA busca mais fontes (...",
