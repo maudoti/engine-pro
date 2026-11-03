@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.31.0",
-    "Instalador":  "EnginePro_Setup_4.31.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.31.0/EnginePro_Setup_4.31.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.31.0/EnginePro_Setup_4.31.0.exe.gz",
-    "SHA256":  "70AA511340E685F9E4D8491B483B1290C3C72F6E2D8E93813ECC134861452042",
-    "Data":  "2026-11-03 08:57",
-    "Notas":  "Engine aplica exclusoes do ESET sozinho (antes do update e diario) e detecta arquivos do OneDrive acima de 400 caracteres que nao sincronizam",
-    "Assinatura":  "uZOE9IfVRRX/PLZsFS76Hmh8zXSNASql5lae8l4YkOTtrrF19bRn60pP7rSFl7DWAAb5aGbjFcz1o9KyIWedk28KF832TR6LtfE9CdhzwyljTbQpNnyVL19C664t9ChLzviNX0xx7x6NZ7WuxrN+NKfFh3OS4BbtXZv/Q63AivEcDxJZRlx4/AhrHpKtoP1CXqFpoLtAqA2Yi2RAE/0kytMb7KnluW/1Q/ORiiQkUElBLi1/5JS56UkrtRFydCEFfpNbMQl5zkUdbI4Ach93NRhAUlW/OpCRv0K/vU1GorE4HJhYvkm718kwX79K6CfvveRgP4tBkR8iE5QsOf9Tj1wXTWU0Xegl8REkkfsy6KM0EIX6/ZDMur8GYV3gfDsB30g4j6PQIIS/h2UBHv6iRp2wTBcsgoLZJc19RKwUe162tS1KmYZ16VRB9QOGkyHfKQ78FawYFiisreGK6junG9hfhdhYFGnp7xOPVzZAbuOsvca4myLU4A236aUJyxSZ"
+    "Versao":  "4.32.0",
+    "Instalador":  "EnginePro_Setup_4.32.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.32.0/EnginePro_Setup_4.32.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.32.0/EnginePro_Setup_4.32.0.exe.gz",
+    "SHA256":  "76F3BA4E8882B65C7DF8BCD41BA28F95174AACB1AE866C7D5E1E193FFC136BE4",
+    "Data":  "2026-11-03 09:36",
+    "Notas":  "Banner \u0027A IA observou\u0027: setas Voltar/Avancar para folhear quando ha mais de uma descoberta",
+    "Assinatura":  "ca7tTwuxYgl1y6DH5xxC8/XCGzz/F77tmAlsRp9yZScJR2tZcz9Kd3FYihcF3+PjRoYs03IYEqKjlX+rZzPwsuLoDcH8/k/AS1AbdGWof3tXsL0HVTduQ29FQlWPHSOeEZtlDEfDeIJXGOiTjEpQEGZY+ovQqV6wD1PudBKBfP6Bvcg4TELQ8EEm1JlOk2zDQactXIfQNF30YrhC3HlVX83EVWyVWLwIYJVBr58FHvvqSMHIg7d5rszH/96ZfQQkTWGSfX38wdMDKBiK2vuEqeKTRIu9JGtc0+yT6xJF+MQ6nFkOROq4BK4EG6tR+bwJRnfuXXqXRJmkpJ2zRDGio5Kk5k4ScxGopHeexut66spp3I0TZvmVd9sE7pwq9F5IVCW86tUnjZVHp0yiFmhscgbJUt/w6cUjNEBs3ySyhOcWrfzf3x45l4GS6bpgUZtrStI1fWOIWMWUedExR7SYhYIQi+0ebstyl2puZX+MfdNtgdOkH8ZXrsJvZUygAeG8"
 }

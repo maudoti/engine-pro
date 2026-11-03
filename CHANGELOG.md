@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.32.0 | Banner 'A IA observou': setas Voltar/Avancar para folhear... | 03/11/2026
+
+- **Melhoria**: Banner 'A IA observou': setas Voltar/Avancar para folhear quando ha mais de uma descoberta.
+
 ## Versão 4.31.0 | Engine aplica exclusoes do ESET sozinho (antes do update ... | 03/11/2026
 
 - **Melhoria**: Engine aplica exclusoes do ESET sozinho (antes do update e diario) e detecta arquivos do OneDrive acima de 400 caracteres que nao sincronizam.

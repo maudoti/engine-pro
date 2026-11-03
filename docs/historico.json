@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.32.0",
+        "Data":  "2026-11-03 09:36",
+        "Titulo":  "Banner \u0027A IA observou\u0027: setas Voltar/Avancar para folhear...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Banner \u0027A IA observou\u0027: setas Voltar/Avancar para folhear quando ha mais de uma descoberta."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.31.0",
         "Data":  "2026-11-03 08:57",
         "Titulo":  "Engine aplica exclusoes do ESET sozinho (antes do update ...",
