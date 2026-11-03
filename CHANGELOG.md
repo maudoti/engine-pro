@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.25.0 | Selo 'Pesquisando agora' na tela principal da Fila da COL... | 02/11/2026
+
+- **Melhoria**: Selo 'Pesquisando agora' na tela principal da Fila da COLMEIA.
+- **Correção**: Corrige o parentese vazio da rodada em andamento.
+
 ## Versão 4.24.2 | Recupera GUI com os botoes da fila e o Y do capacitor | 02/11/2026
 
 - **Melhoria**: Recupera GUI com os botoes da fila e o Y do capacitor.

@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.25.0",
+        "Data":  "2026-11-02 22:24",
+        "Titulo":  "Selo \u0027Pesquisando agora\u0027 na tela principal da Fila da COL...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Selo \u0027Pesquisando agora\u0027 na tela principal da Fila da COLMEIA."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige o parentese vazio da rodada em andamento."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.24.2",
         "Data":  "2026-11-02 22:11",
         "Titulo":  "Recupera GUI com os botoes da fila e o Y do capacitor",

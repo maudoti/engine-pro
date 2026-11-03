@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.25.0",
+        "Data":  "2026-11-02 22:24",
+        "Notas":  "Selo \u0027Pesquisando agora\u0027 na tela principal da Fila da COLMEIA; corrige o parentese vazio da rodada em andamento",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.25.0/EnginePro_Setup_4.25.0.exe"
+    },
+    {
         "Versao":  "4.24.2",
         "Data":  "2026-11-02 22:11",
         "Notas":  "Recupera GUI com os botoes da fila e o Y do capacitor; COLMEIA com Claude de reserva na pesquisa",
