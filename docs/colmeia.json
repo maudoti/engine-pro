@@ -1,37 +1,42 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  659,
-    "Pesquisas":  1466,
-    "N48":  973,
+    "Conhecimentos":  665,
+    "Pesquisas":  1495,
+    "N48":  1002,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 11:55:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
+                         "Data":  "2026-11-03 12:05:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Servidor ou NAS antigo exige SMB1",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 11:55:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Spooler de impressão parando sozinho",
+                         "Data":  "2026-11-03 12:05:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Wi-Fi sumiu ou não encontra redes",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 232 pesquisas em bases técnicas",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-03 12:05:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 261 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-03 11:55:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-03 12:04:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-03 11:03:52",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-03 10:01:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,7 +66,6 @@
                   15,
                   12,
                   12,
-                  0,
                   12,
                   12,
                   21,
@@ -71,26 +75,27 @@
                   18,
                   25,
                   14,
-                  24,
-                  20,
-                  14,
-                  79,
+                  0,
+                  44,
+                  0,
+                  37,
+                  56,
                   62,
                   31,
                   25,
                   16,
-                  0,
                   18,
                   17,
                   28,
                   26,
                   27,
-                  16,
-                  17,
+                  0,
+                  33,
                   15,
-                  27
+                  27,
+                  29
               ],
-    "Ultima":  "2026-11-03 11:03:52",
-    "Gerado":  "2026-11-03 11:57:03",
-    "Data":  "2026-11-03 11:57"
+    "Ultima":  "2026-11-03 12:04:41",
+    "Gerado":  "2026-11-03 12:07:03",
+    "Data":  "2026-11-03 12:07"
 }
