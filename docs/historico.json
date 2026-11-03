@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.22.0",
+        "Data":  "2026-11-02 21:31",
+        "Titulo":  "Botao Estudar mais a fundo: a COLMEIA busca mais fontes (...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao Estudar mais a fundo: a COLMEIA busca mais fontes (TechNet, Sysinternals, MSRC/CVEs, Catalogo do Update, SDKs) e le mais resultados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.21.0",
         "Data":  "2026-11-02 21:13",
         "Titulo":  "Botao Estudar um tema na Fila da COLMEIA: o TI pede um as...",

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.22.0",
+        "Data":  "2026-11-02 21:31",
+        "Notas":  "Botao Estudar mais a fundo: a COLMEIA busca mais fontes (TechNet, Sysinternals, MSRC/CVEs, Catalogo do Update, SDKs) e le mais resultados",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.22.0/EnginePro_Setup_4.22.0.exe"
+    },
+    {
         "Versao":  "4.21.0",
         "Data":  "2026-11-02 21:13",
         "Notas":  "Botao Estudar um tema na Fila da COLMEIA: o TI pede um assunto e a COLMEIA pesquisa de novo",

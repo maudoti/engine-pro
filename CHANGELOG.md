@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.22.0 | Botao Estudar mais a fundo: a COLMEIA busca mais fontes (... | 02/11/2026
+
+- **Melhoria**: Botao Estudar mais a fundo: a COLMEIA busca mais fontes (TechNet, Sysinternals, MSRC/CVEs, Catalogo do Update, SDKs) e le mais resultados.
+
 ## Versão 4.21.0 | Botao Estudar um tema na Fila da COLMEIA: o TI pede um as... | 02/11/2026
 
 - **Melhoria**: Botao Estudar um tema na Fila da COLMEIA: o TI pede um assunto e a COLMEIA pesquisa de novo.
