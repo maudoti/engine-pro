@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  636,
+    "Conhecimentos":  639,
     "Pesquisas":  1221,
     "N48":  993,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-02 23:25:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Vínculos entre planilhas quebram no OneDrive",
+                         "Data":  "2026-11-02 23:27:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Processador em 100%",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 23:23:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-02 23:27:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Office com \"envio pendente\" ou falha no carregamento",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 22:41:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 62 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-02 23:25:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Vínculos entre planilhas quebram no OneDrive",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -30,14 +30,14 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-02 21:35:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Área de Trabalho ou Documentos foram para o OneDrive",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-02 23:23:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-02 21:32:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo não sobe porque a biblioteca exige informações",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-02 22:41:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 62 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-02 00:11:08",
@@ -56,14 +56,14 @@
                   22,
                   28,
                   24,
-                  15,
-                  9,
+                  24,
                   21,
                   22,
                   22,
+                  0,
                   20,
-                  20,
-                  21,
+                  41,
+                  0,
                   21,
                   20,
                   21,
@@ -92,10 +92,10 @@
                   20,
                   14,
                   47,
-                  54,
-                  58
+                  77,
+                  35
               ],
     "Ultima":  "2026-11-02 23:23:56",
-    "Gerado":  "2026-11-02 23:27:04",
-    "Data":  "2026-11-02 23:27"
+    "Gerado":  "2026-11-02 23:33:27",
+    "Data":  "2026-11-02 23:33"
 }

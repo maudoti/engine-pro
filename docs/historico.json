@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.30.0",
+        "Data":  "2026-11-02 23:33",
+        "Titulo":  "Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA,...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA, Sozinha com atraso e saudacao centralizada no Y."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.29.0",
         "Data":  "2026-11-02 23:20",
         "Titulo":  "Abertura: energia do capacitor do centro para fora, mensa...",

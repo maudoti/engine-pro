@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.29.0",
-    "Instalador":  "EnginePro_Setup_4.29.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.29.0/EnginePro_Setup_4.29.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.29.0/EnginePro_Setup_4.29.0.exe.gz",
-    "SHA256":  "C1283CD145EFF2C928425169BBD722A6691DF143F24F9CB4A1DB0ABB0B370127",
-    "Data":  "2026-11-02 23:20",
-    "Notas":  "Abertura: energia do capacitor do centro para fora, mensagem da COLMEIA como heroi sem numeros, boas-vindas so com o Y marca dagua",
-    "Assinatura":  "CLwd+20H22AsGL2Jt7bZVDItoZnq+/5gep9txc4pW4mSfbOE9DqmrCvDy7EipelBLL9vBDsneqKPpkx6Po4hpOu8tWzDii5sgWWwX9vrcQ9HbuOVcakBxut4s91ws/5K6B8nwW5WB+iAHtPviIUjVDb3FmcHeBoS4RxxOJO4H3UyscoX7hVMtsVjH6/8FPD2WgyISCWWVz6iZ9Ys0NR3tSa6IUrAVZg5H/KfsxKmdT0xIvNAARmG8qaQe8vAn3cyVX/mANH9pyU7a+Ieun0J0+u9L8ciRE3A6Qo8+qOh94ndzSw123EUULVst/UxK8YtHl3eng8dZzJAHu4u1WF7F890x9/Ph2DcLRhZTUb0sjoRrpb3pa/Vq+q57wauZvRQLWZmrElKtlrACKtPI0BvIVAMyQALLRX++ovm5iSetxFALOGNw5I8a96wA9Stm9hAZm7OPaFF2HWNNbnkYi+pp9j2AZoPCpx+SmCWzW+Zwfs33u5IfwsJAruR5T7ku62J"
+    "Versao":  "4.30.0",
+    "Instalador":  "EnginePro_Setup_4.30.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.30.0/EnginePro_Setup_4.30.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.30.0/EnginePro_Setup_4.30.0.exe.gz",
+    "SHA256":  "B87B701CA6CD42D60E8989799E1664E726A9A4B65897463D374B39EE9A36EFDE",
+    "Data":  "2026-11-02 23:33",
+    "Notas":  "Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA, Sozinha com atraso e saudacao centralizada no Y",
+    "Assinatura":  "udPhQ6AnPSpSwySQg/EJ+Qso+oOhSk8URcXn7B9I/2Sw7uY/HBHt5mFlXoWwKt+UjKpZgYoGv1OxYhL7XO7AcXX4aYMaVK4mSGNukKNttO/NDW+ZjHmO0+REktIeeUzonqtFS7IhO0+P14C4Ny3NvwSFOuXEl8f8Fh8vYgjsRuN+r98+ZVeoC/J1s6IKMJuVeqZEDoshLDITf5zXpBiy8mGyqA9Ujf9I0bfHY7hsakA7FcoOXogESsu9hPsJy02bdHdQqOy88SU9GJ4J8ayeQgVx2NuKo2F62AgsZmZEt0e8WG3ZVBUcpbZlSNLf/9/zeYt8wJlGZDDYbOj29nU8+Qdbdl4u9ObiYNoVAythSI7+7Qfr7nQlsMg4z2w0J9qxi9jSdAT5SF+jjUU9qF33nnJB8pLstZ1DZrX3IrAf5L6IMSf/1BdZ/1JbvsBCjUfR0u1iIzjbAcWzgSH2Qcb3eyW0aHcTXCiINcSHRFwrMpsk+GA7tJzGLc73qlv61zQ2"
 }

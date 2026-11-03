@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.30.0 | Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA,... | 02/11/2026
+
+- **Melhoria**: Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA, Sozinha com atraso e saudacao centralizada no Y.
+
 ## Versão 4.29.0 | Abertura: energia do capacitor do centro para fora, mensa... | 02/11/2026
 
 - **Melhoria**: Abertura: energia do capacitor do centro para fora, mensagem da COLMEIA como heroi sem numeros, boas-vindas so com o Y marca dagua.
