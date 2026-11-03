@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.26.0",
+        "Data":  "2026-11-02 22:38",
+        "Titulo":  "Selo \u0027ja enviado para estudo a fundo\u0027 no card e botao tra...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Selo \u0027ja enviado para estudo a fundo\u0027 no card e botao travado para nao reenviar."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.25.0",
         "Data":  "2026-11-02 22:24",
         "Titulo":  "Selo \u0027Pesquisando agora\u0027 na tela principal da Fila da COL...",

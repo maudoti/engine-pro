@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.25.0",
-    "Instalador":  "EnginePro_Setup_4.25.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.25.0/EnginePro_Setup_4.25.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.25.0/EnginePro_Setup_4.25.0.exe.gz",
-    "SHA256":  "B4BA709159478021F77FC27E3A2498D5967D65568A3460D0873A47F3FB9D2F0D",
-    "Data":  "2026-11-02 22:24",
-    "Notas":  "Selo \u0027Pesquisando agora\u0027 na tela principal da Fila da COLMEIA; corrige o parentese vazio da rodada em andamento",
-    "Assinatura":  "EVNhxr+YplEcaPOnWRcVqJxvxCtwmwb7PHOXTBFUD+79fNzh1yX//7jr5gdtgvfNSdv7Ub7JhqUsMO9FhHqGo9rehvsHyiHQM02Iu0/2brTMTjUxY4SsZ+dnvjYJM++fk/nhfe9PnkecRgr+rvYK8LR5vQGJOQ+aQjudKVaXmdjjUIqSzpGC8ElWfeLyvW8M0s2nUJdxrOZHqIGrWtqK5oV14wB68CpIwJLL7GX+jrY3oLGLGbkWFI34bJWbwb/wDjgTdiB0i8hguIOwuItwjPKmM15PknrLLzLa6XW3gJumWEobsiN9KfiWfJ4ZM57d+LkAcVcCjnJLslrzmpU83FLR2hDubjMNPjhWUT8jlGvFdKOrJcSGKDyrv6XH7q5xrpJa+FPm1l1oloPC2JTVJONZj4gDGvPBu3mRCuRJP+6/09o7YZpLrI7ODa8oIkrMYDWNArH6M71O+xsKvtMLxwk1oKkOl/tyMygN3HNgEt5UEUvmQks3KjC1M+sBFEUa"
+    "Versao":  "4.26.0",
+    "Instalador":  "EnginePro_Setup_4.26.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.26.0/EnginePro_Setup_4.26.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.26.0/EnginePro_Setup_4.26.0.exe.gz",
+    "SHA256":  "7A09684C3AE93795AE0FA95B124B56D5247768101AC2ABBD48072CA4FC2CE09F",
+    "Data":  "2026-11-02 22:38",
+    "Notas":  "Selo \u0027ja enviado para estudo a fundo\u0027 no card e botao travado para nao reenviar",
+    "Assinatura":  "DfApfdCwpsNaHzGZeFC7lT22Wz931KQqzUnApQue+F99HXQikjnINCEf35mzX46vk0gj+vmJWeoIK/5qshAKCWTZfgT7kZHF7UtSVqpfTD8YJkLCNOufH1eOnEBEFyHbSf9JD0p3NuJZszFCwuzBhFKcZXZp8rLezaQrtf/c/wJ2TV1T8nMelWUuki0w/rSYRGx8/Hryh54+INWAlLptns/9G+SG7YG314kFwJT5jgVd6Xdtzuc4eXi7s0AjK9tmtF3HTvYuCOdy/bmABb7rm1llysPQT+cWv/q2NMXh1BWHCftaqgYSB25xN3O5cqlVzThz+gJpg2T0Af9npxE6VO6He0A1bCMHKvw2ZOBb25MUmDnOLmNQxS+j6vhTgwOlXGtRvwOzmhaWle4BuSyWwI3pBrdPxweO91N7em5zLMoauyAmtLl5tGbwb3AwSb6W9XVgr/822qJQPkz0RnXyTwYCn7GxvCOS4N/cpEi3QLTE25JauzAykqpEoVrz8sN8"
 }
