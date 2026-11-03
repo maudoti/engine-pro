@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.33.5",
+        "Data":  "2026-11-03 11:50",
+        "Titulo":  "Nome da saudacao em branco (destaque pelo negrito) e font...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nome da saudacao em branco (destaque pelo negrito) e fonte Candara nas frases de destaque da abertura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.33.4",
         "Data":  "2026-11-03 11:33",
         "Titulo":  "Claude com temperature 1 (exigida pelo modelo de raciocin...",

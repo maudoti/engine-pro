@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.33.5",
+        "Data":  "2026-11-03 11:50",
+        "Notas":  "Nome da saudacao em branco (destaque pelo negrito) e fonte Candara nas frases de destaque da abertura",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.5/EnginePro_Setup_4.33.5.exe"
+    },
+    {
         "Versao":  "4.33.4",
         "Data":  "2026-11-03 11:33",
         "Notas":  "Claude com temperature 1 (exigida pelo modelo de raciocinio): corrige o HTTP 400 e destrava a fila",
