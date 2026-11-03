@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.30.1",
+        "Data":  "2026-11-02 23:36",
+        "Notas":  "Abertura: remove a barrinha de carregamento que travava na tela de boas-vindas",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.30.1/EnginePro_Setup_4.30.1.exe"
+    },
+    {
         "Versao":  "4.30.0",
         "Data":  "2026-11-02 23:33",
         "Notas":  "Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA, Sozinha com atraso e saudacao centralizada no Y",

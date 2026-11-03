@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.30.1 | Abertura: remove a barrinha de carregamento que travava n... | 02/11/2026
+
+- **Melhoria**: Abertura: remove a barrinha de carregamento que travava na tela de boas-vindas.
+
 ## Versão 4.30.0 | Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA,... | 02/11/2026
 
 - **Melhoria**: Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA, Sozinha com atraso e saudacao centralizada no Y.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.30.1",
+        "Data":  "2026-11-02 23:36",
+        "Titulo":  "Abertura: remove a barrinha de carregamento que travava n...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: remove a barrinha de carregamento que travava na tela de boas-vindas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.30.0",
         "Data":  "2026-11-02 23:33",
         "Titulo":  "Abertura: sem Y-moeda no Aguarde, Aprendizado em COLMEIA,...",
