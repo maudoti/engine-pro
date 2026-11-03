@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.32.1 | Claude: 429 nao bloqueia mais o dia todo (recuo por tempo) | 03/11/2026
+
+- **Melhoria**: Claude: 429 nao bloqueia mais o dia todo (recuo por tempo).
+- **Melhoria**: Claude vira pesquisador do estudo a fundo com orcamento maior quando o Gemini esta fora.
+
 ## Versão 4.32.0 | Banner 'A IA observou': setas Voltar/Avancar para folhear... | 03/11/2026
 
 - **Melhoria**: Banner 'A IA observou': setas Voltar/Avancar para folhear quando ha mais de uma descoberta.
