@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.33.1",
+        "Data":  "2026-11-03 10:52",
+        "Titulo":  "Piloto aprova verdes direto (independente da confianca)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Piloto aprova verdes direto (independente da confianca)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nome da pessoa em vermelho na saudacao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.33.0",
         "Data":  "2026-11-03 10:34",
         "Titulo":  "Tela de boas-vindas repaginada: saudacao mais leve, filet...",

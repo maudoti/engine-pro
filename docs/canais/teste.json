@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.33.0",
-    "Instalador":  "EnginePro_Setup_4.33.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.0/EnginePro_Setup_4.33.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.0/EnginePro_Setup_4.33.0.exe.gz",
-    "SHA256":  "FD08E49D4CAE5E2F9B1E5967D8FC3F1771F123DB5F059C151E3F47FABB1A2879",
-    "Data":  "2026-11-03 10:34",
-    "Notas":  "Tela de boas-vindas repaginada: saudacao mais leve, filete da marca, Pro em vermelho, Aguarde/Carregando mais suaves",
-    "Assinatura":  "O8EmneWClHoSQuMbP09NbXwqUZ3aom9AczXGJfMKCnACw0ZH6QEHH5QbVIvPa03iWejcZm1cyooaQXPoBqtor5pSXRyF6B+P0Z4ZU1C2G/l0Hh57pelzchbH2ArJxHFsFKLwBfszdGXcFYQq5ZiaY2Z1r0ald/y2nXG8FhShSLhMqxT8wNHiGlN3R3aEJG6s8joFLWEk8yPv73DeDS2/1L/YvyyY4cBECMdCKHbJ2F4a2zfFidvuSq/fVfg3u2j918GIlOHG1I/vm/zVP6U+35+cGewmGleHQLAVZ9pT+1Axq9vVvqXkZMN+j7TIJp29CEQAQFj2BWt7lvn3RU+eFji7ZIgj6aQclwZQz8QEb+0CKULvphSAqZ5wjmjgwkg0w9ViFg9UjShgYSM90zcWhPVddBTy/pdlo7WrSbR7g85rdP8GPHStFYBOJBuFJY/HephUMMmVKHlQI2n5EEHaE9GBluVeF66XBaDjjNPxxYUAaBMgoDq31nX5T1/Quvik"
+    "Versao":  "4.33.1",
+    "Instalador":  "EnginePro_Setup_4.33.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.1/EnginePro_Setup_4.33.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.1/EnginePro_Setup_4.33.1.exe.gz",
+    "SHA256":  "3FB579097FE8FB3449FA46A4FB92ADDBACBBE989971B96340D210095009D5275",
+    "Data":  "2026-11-03 10:52",
+    "Notas":  "Piloto aprova verdes direto (independente da confianca); nome da pessoa em vermelho na saudacao",
+    "Assinatura":  "GDwuS7RIuQeoFjCHB9/bT+rU/KtYtqyyih6Z6kWC4OY3kMlvpWsCk3E9eep2Gyfy2VmeHHFUSc9uDVtF0GcMmYb4MBcts1F5Y+RZgxu4J63uYtQtVwHwSy9w/LS8j6/Rc2E7QVMsHs9WL4yVPY5unw8gGm7avdWxugu3Ad3SqoSc5VrTG1N0/nWbCGdGOsfCJkI5IPsIKTqMybaBR2o2VQWPSWJm293w8dH7m7QA6sza2I1SzlLmurbJunpq/wv4RBPfTRspJ2fE6iSPhJP5/EjXnnCYFgEIoA2iHHaXFzA5KBELVg+pKhuZcya4QyBnm7ujqmaLiZR6qZgShBmUKaoFJoS2WQ8Ackzq7VTpe5rYLQSiafC1Xa8HYBkF8UgZBk3h/s0IHybtU/duQmcR6dQsokXSZQL8QAVYOuJdfFXSB9yAeMbyDZxjEYbIvU3OvcM6KyjfAINx7yCRAkbL2FliOEWv3OK2v8+tXFGWGJSfj5qV+RIvgY/J8pR8K/bg"
 }

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.1 | Piloto aprova verdes direto (independente da confianca) | 03/11/2026
+
+- **Melhoria**: Piloto aprova verdes direto (independente da confianca).
+- **Melhoria**: Nome da pessoa em vermelho na saudacao.
+
 ## Versão 4.33.0 | Tela de boas-vindas repaginada: saudacao mais leve, filet... | 03/11/2026
 
 - **Melhoria**: Tela de boas-vindas repaginada: saudacao mais leve, filete da marca, Pro em vermelho, Aguarde/Carregando mais suaves.
