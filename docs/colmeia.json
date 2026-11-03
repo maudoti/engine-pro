@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  633,
-    "Pesquisas":  1109,
-    "N48":  922,
+    "Conhecimentos":  635,
+    "Pesquisas":  1127,
+    "N48":  940,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-02 21:16:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-02 21:36:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-02 21:15:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
+                         "Data":  "2026-11-02 21:35:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Área de Trabalho ou Documentos foram para o OneDrive",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 20:09:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-02 21:32:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo não sobe porque a biblioteca exige informações",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 363 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 381 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-02 18:24:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, \"Não foi possível redefinir o OneDrive\"",
+                         "Data":  "2026-11-02 21:15:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-02 14:27:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800CCC0F (IXP_E_CONNECTION_DROPPED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-02 20:09:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-02 00:11:08",
@@ -61,12 +61,12 @@
                   24,
                   21,
                   22,
-                  0,
                   22,
                   20,
                   20,
                   21,
                   21,
+                  0,
                   20,
                   21,
                   20,
@@ -93,9 +93,9 @@
                   24,
                   20,
                   14,
-                  47
+                  65
               ],
-    "Ultima":  "2026-11-02 21:16:45",
-    "Gerado":  "2026-11-02 21:31:12",
-    "Data":  "2026-11-02 21:31"
+    "Ultima":  "2026-11-02 21:36:52",
+    "Gerado":  "2026-11-02 21:37:04",
+    "Data":  "2026-11-02 21:37"
 }
