@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  678,
-    "Pesquisas":  1573,
-    "N48":  1016,
+    "Conhecimentos":  683,
+    "Pesquisas":  1577,
+    "N48":  1020,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 15:16:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-03 15:25:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Segurança, Suspeita de vírus ou golpe",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 15:14:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
+                         "Data":  "2026-11-03 15:25:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 14:22:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
+                         "Data":  "2026-11-03 15:25:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 339 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 343 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-03 14:22:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-03 15:17:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-03 14:13:40",
@@ -76,9 +76,9 @@
                   20,
                   14,
                   47,
-                  49,
-                  45,
-                  31,
+                  54,
+                  58,
+                  13,
                   25,
                   16,
                   18,
@@ -93,9 +93,9 @@
                   29,
                   28,
                   30,
-                  20
+                  24
               ],
-    "Ultima":  "2026-11-03 15:16:52",
-    "Gerado":  "2026-11-03 15:17:04",
-    "Data":  "2026-11-03 15:17"
+    "Ultima":  "2026-11-03 15:17:10",
+    "Gerado":  "2026-11-03 15:27:03",
+    "Data":  "2026-11-03 15:27"
 }
