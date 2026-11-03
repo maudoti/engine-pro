@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.24.0",
+        "Data":  "2026-11-02 21:50",
+        "Notas":  "Resultado do estudo aprofundado chega marcado com selo na fila",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.24.0/EnginePro_Setup_4.24.0.exe"
+    },
+    {
         "Versao":  "4.23.0",
         "Data":  "2026-11-02 21:41",
         "Notas":  "Botao Em estudo: mostra os temas que a COLMEIA esta estudando e os que aguardam a proxima rodada",

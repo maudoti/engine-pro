@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.24.0 | Resultado do estudo aprofundado chega marcado com selo na... | 02/11/2026
+
+- **Melhoria**: Resultado do estudo aprofundado chega marcado com selo na fila.
+
 ## Versão 4.23.0 | Botao Em estudo: mostra os temas que a COLMEIA esta estud... | 02/11/2026
 
 - **Melhoria**: Botao Em estudo: mostra os temas que a COLMEIA esta estudando e os que aguardam a proxima rodada.

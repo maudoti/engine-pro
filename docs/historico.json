@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.24.0",
+        "Data":  "2026-11-02 21:50",
+        "Titulo":  "Resultado do estudo aprofundado chega marcado com selo na...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Resultado do estudo aprofundado chega marcado com selo na fila."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.23.0",
         "Data":  "2026-11-02 21:41",
         "Titulo":  "Botao Em estudo: mostra os temas que a COLMEIA esta estud...",
