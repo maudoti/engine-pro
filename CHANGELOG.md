@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.24.1 | COLMEIA: Claude assume a pesquisa quando o Gemini esta se... | 02/11/2026
+
+- **Melhoria**: COLMEIA: Claude assume a pesquisa quando o Gemini esta sem cota.
+- **Melhoria**: Pedidos repetidos de 'Estudar mais a fundo' viram um estudo so.
+
 ## Versão 4.24.0 | Resultado do estudo aprofundado chega marcado com selo na... | 02/11/2026
 
 - **Melhoria**: Resultado do estudo aprofundado chega marcado com selo na fila.

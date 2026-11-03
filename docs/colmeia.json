@@ -2,7 +2,7 @@
     "Resolvidos":  2,
     "Conhecimentos":  635,
     "Pesquisas":  1141,
-    "N48":  954,
+    "N48":  933,
     "Recentes":  [
                      {
                          "Data":  "2026-11-02 21:44:58",
@@ -16,18 +16,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 395 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-02 21:32:24",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo não sobe porque a biblioteca exige informações",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 395 pesquisas em bases técnicas",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-02 21:15:49",
@@ -46,8 +41,8 @@
                      }
                  ],
     "Horas":  [
-                  21,
                   20,
+                  0,
                   22,
                   23,
                   21,
@@ -80,22 +75,22 @@
                   15,
                   12,
                   12,
-                  0,
                   12,
                   12,
                   21,
                   21,
                   16,
-                  20,
-                  18,
+                  4,
+                  34,
                   25,
                   14,
-                  24,
-                  20,
-                  14,
-                  79
+                  0,
+                  44,
+                  0,
+                  37,
+                  56
               ],
     "Ultima":  "2026-11-02 21:44:58",
-    "Gerado":  "2026-11-02 21:57:03",
-    "Data":  "2026-11-02 21:57"
+    "Gerado":  "2026-11-02 22:05:36",
+    "Data":  "2026-11-02 22:05"
 }

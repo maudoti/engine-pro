@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.24.0",
-    "Instalador":  "EnginePro_Setup_4.24.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.24.0/EnginePro_Setup_4.24.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.24.0/EnginePro_Setup_4.24.0.exe.gz",
-    "SHA256":  "A2D672828014A00F4EF4CE17AAEC79C37664740879129B786159BB9BD593AD0C",
-    "Data":  "2026-11-02 21:50",
-    "Notas":  "Resultado do estudo aprofundado chega marcado com selo na fila",
-    "Assinatura":  "UhhpCAmEm0aQe2s8UbKhP2N6zb0IMygjfZZwA4rDiYFPiG0/n2vidRufGdxSpi6II2nF+7hWduOW2zmKsHEpLsB4eNf47udtEpvrLNy5Ddh340D6ZL3UGVBvUW6pjLkXgERVeka43IrGNzDZT2qZfpd8KzEYjXv8Z+M7ZYqpz+CYuDfZxazxF63TMLx5SLLLUeZ4PF3yuWEvU3cQl0GLmLNWH83kwZTlFtY/kWDPq6MGYcCekoWVVTdHW6hopWHGHgpKFUV9bydHK8by2+Z54A3GUklexr5TpPxMxmTiGLLp29I/rDkYMPgg+O5TEhT6n8BNWORj4LMWRzsw14N9IFHKruPpt5YQD7wDmUFUv+jpv/CVqW585ua1BXTwSaF+z6ut87UO762rluKUlUQ6jrQApCOtDYYZ6P4kd6YE+9X5KDmf5QIHxMg6ok14oG9Q/nss0mPQ97pbZ9FwpXz5I8+Egjonlwd+7RYFxhCCbPZH3kesxiD8NCQAHrXwiROY"
+    "Versao":  "4.24.1",
+    "Instalador":  "EnginePro_Setup_4.24.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.24.1/EnginePro_Setup_4.24.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.24.1/EnginePro_Setup_4.24.1.exe.gz",
+    "SHA256":  "568688C0EB1191C37B80445CB3D38FBC652229E144474740898E66C5079F8ED3",
+    "Data":  "2026-11-02 22:05",
+    "Notas":  "COLMEIA: Claude assume a pesquisa quando o Gemini esta sem cota; pedidos repetidos de \u0027Estudar mais a fundo\u0027 viram um estudo so",
+    "Assinatura":  "l8KD+aJUJh9sngPx1Vfc3XZAaZDQgSGVevnL4J/zt3PmUmZvbnoierNWG82huTLfv6JlOwuWZ+5ou00eFYEMZN2zuswR+E2ZWm1/jVN4PP3HGOXBcEr4oMQQ53Z5xqudADwVYek6yQuSMOwWgUw1TumGog2JqIdBQy6+8x3g3KLg4nwkimSDn3Sc3D55OoA4sOUj6LxhYRhNrDSf8H1L6ITZSHSKB0wgvNZNwc+PNKL5UTAA7+kauAFcScierKZUJCI/FFpZ5jtadiod53jdSu7IOWCG5jkXQ7Mw75oYtC4zNbEZ8KsEdXBP9r+QwtPOqlWCLD5KSTuCZfbQqBtco6v6dNn+qDbz7Ya41PKt1iILzFHHawCA/8OsoGXIFYd/RZNk5zUvCyuNADJ9MDeqbnISfgeHVttS4dIKeMh+jgIbwKjuEIxO234RJuOoeryUnNW6tsoUQw+DGEHGTu1H0d/nov5gAcrFVkbT9Ry4ms/tvZ3Uf2PYU9Fabg2PWUGq"
 }

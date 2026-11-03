@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.24.1",
+        "Data":  "2026-11-02 22:05",
+        "Titulo":  "COLMEIA: Claude assume a pesquisa quando o Gemini esta se...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA: Claude assume a pesquisa quando o Gemini esta sem cota."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Pedidos repetidos de \u0027Estudar mais a fundo\u0027 viram um estudo so."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.24.0",
         "Data":  "2026-11-02 21:50",
         "Titulo":  "Resultado do estudo aprofundado chega marcado com selo na...",
