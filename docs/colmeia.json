@@ -15,11 +15,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-02 23:27:07",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Office com \"envio pendente\" ou falha no carregamento",
                          "Nivel":  "ok"
@@ -41,13 +36,13 @@
                      }
                  ],
     "Horas":  [
-                  0,
-                  44,
-                  0,
+                  23,
+                  21,
                   20,
                   20,
                   20,
-                  20,
+                  8,
+                  12,
                   22,
                   28,
                   24,
@@ -82,15 +77,15 @@
                   18,
                   25,
                   14,
-                  0,
-                  44,
-                  0,
-                  37,
-                  56,
-                  62,
+                  24,
+                  20,
+                  14,
+                  47,
+                  49,
+                  45,
                   31
               ],
     "Ultima":  "2026-11-02 23:53:23",
-    "Gerado":  "2026-11-03 00:07:03",
-    "Data":  "2026-11-03 00:07"
+    "Gerado":  "2026-11-03 00:17:04",
+    "Data":  "2026-11-03 00:17"
 }
