@@ -1,9 +1,14 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  639,
+    "Conhecimentos":  640,
     "Pesquisas":  1234,
     "N48":  984,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-03 00:24:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Excel não recalcula as fórmulas",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-02 23:53:23",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
@@ -17,11 +22,6 @@
                      {
                          "Data":  "2026-11-02 23:27:07",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Office com \"envio pendente\" ou falha no carregamento",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-02 23:25:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Vínculos entre planilhas quebram no OneDrive",
                          "Nivel":  "ok"
                      },
                      {
@@ -41,8 +41,7 @@
                   20,
                   20,
                   20,
-                  8,
-                  12,
+                  20,
                   22,
                   28,
                   24,
@@ -54,6 +53,7 @@
                   20,
                   21,
                   21,
+                  0,
                   20,
                   21,
                   20,
@@ -80,12 +80,12 @@
                   24,
                   20,
                   14,
-                  47,
-                  49,
-                  45,
-                  31
+                  65,
+                  59,
+                  35,
+                  13
               ],
     "Ultima":  "2026-11-02 23:53:23",
-    "Gerado":  "2026-11-03 00:17:04",
-    "Data":  "2026-11-03 00:17"
+    "Gerado":  "2026-11-03 00:37:04",
+    "Data":  "2026-11-03 00:37"
 }
