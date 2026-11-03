@@ -1,13 +1,23 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  688,
+    "Conhecimentos":  689,
     "Pesquisas":  1671,
     "N48":  1052,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-03 18:34:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Explorador de Arquivos travando ou lento",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-03 18:26:56",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-03 17:21:02",
@@ -16,23 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 437 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-03 17:20:50",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 437 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-03 16:28:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Project, Microsoft Project lento ou travando",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-03 16:28:22",
@@ -72,9 +72,9 @@
                   24,
                   20,
                   14,
-                  47,
-                  54,
-                  58,
+                  65,
+                  59,
+                  35,
                   13,
                   25,
                   16,
@@ -96,6 +96,6 @@
                   36
               ],
     "Ultima":  "2026-11-03 18:26:56",
-    "Gerado":  "2026-11-03 18:27:03",
-    "Data":  "2026-11-03 18:27"
+    "Gerado":  "2026-11-03 18:37:03",
+    "Data":  "2026-11-03 18:37"
 }
