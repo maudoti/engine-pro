@@ -1,12 +1,12 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  635,
-    "Pesquisas":  1163,
-    "N48":  955,
+    "Pesquisas":  1186,
+    "N48":  978,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-02 22:19:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-02 22:29:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 417 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 440 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -57,8 +57,7 @@
                   22,
                   28,
                   24,
-                  15,
-                  9,
+                  24,
                   21,
                   22,
                   22,
@@ -66,6 +65,7 @@
                   20,
                   21,
                   21,
+                  0,
                   20,
                   21,
                   20,
@@ -92,10 +92,10 @@
                   24,
                   20,
                   14,
-                  47,
-                  54
+                  65,
+                  59
               ],
-    "Ultima":  "2026-11-02 22:19:19",
-    "Gerado":  "2026-11-02 22:27:04",
-    "Data":  "2026-11-02 22:27"
+    "Ultima":  "2026-11-02 22:29:52",
+    "Gerado":  "2026-11-02 22:37:03",
+    "Data":  "2026-11-02 22:37"
 }
