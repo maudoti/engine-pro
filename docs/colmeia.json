@@ -2,7 +2,7 @@
     "Resolvidos":  2,
     "Conhecimentos":  639,
     "Pesquisas":  1234,
-    "N48":  1006,
+    "N48":  984,
     "Recentes":  [
                      {
                          "Data":  "2026-11-02 23:53:23",
@@ -25,11 +25,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 488 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-02 23:25:58",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Vínculos entre planilhas quebram no OneDrive",
                          "Nivel":  "ok"
@@ -46,9 +41,9 @@
                      }
                  ],
     "Horas":  [
-                  22,
-                  23,
-                  21,
+                  0,
+                  44,
+                  0,
                   20,
                   20,
                   20,
@@ -78,7 +73,6 @@
                   15,
                   12,
                   12,
-                  0,
                   12,
                   12,
                   21,
@@ -88,14 +82,15 @@
                   18,
                   25,
                   14,
-                  24,
-                  20,
-                  14,
-                  79,
+                  0,
+                  44,
+                  0,
+                  37,
+                  56,
                   62,
                   31
               ],
     "Ultima":  "2026-11-02 23:53:23",
-    "Gerado":  "2026-11-02 23:57:03",
-    "Data":  "2026-11-02 23:57"
+    "Gerado":  "2026-11-03 00:07:03",
+    "Data":  "2026-11-03 00:07"
 }
