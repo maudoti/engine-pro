@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.27.0",
+        "Data":  "2026-11-02 22:49",
+        "Titulo":  "Abertura: remove o Y duplicado e deixa o capacitor mais l...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: remove o Y duplicado e deixa o capacitor mais leve (sem o brilho que travava)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.26.0",
         "Data":  "2026-11-02 22:38",
         "Titulo":  "Selo \u0027ja enviado para estudo a fundo\u0027 no card e botao tra...",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.27.0 | Abertura: remove o Y duplicado e deixa o capacitor mais l... | 02/11/2026
+
+- **Melhoria**: Abertura: remove o Y duplicado e deixa o capacitor mais leve (sem o brilho que travava).
+
 ## Versão 4.26.0 | Selo 'ja enviado para estudo a fundo' no card e botao tra... | 02/11/2026
 
 - **Melhoria**: Selo 'ja enviado para estudo a fundo' no card e botao travado para nao reenviar.

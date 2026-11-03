@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.27.0",
+        "Data":  "2026-11-02 22:49",
+        "Notas":  "Abertura: remove o Y duplicado e deixa o capacitor mais leve (sem o brilho que travava)",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.27.0/EnginePro_Setup_4.27.0.exe"
+    },
+    {
         "Versao":  "4.26.0",
         "Data":  "2026-11-02 22:38",
         "Notas":  "Selo \u0027ja enviado para estudo a fundo\u0027 no card e botao travado para nao reenviar",

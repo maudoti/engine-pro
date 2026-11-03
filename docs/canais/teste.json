@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.26.0",
-    "Instalador":  "EnginePro_Setup_4.26.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.26.0/EnginePro_Setup_4.26.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.26.0/EnginePro_Setup_4.26.0.exe.gz",
-    "SHA256":  "7A09684C3AE93795AE0FA95B124B56D5247768101AC2ABBD48072CA4FC2CE09F",
-    "Data":  "2026-11-02 22:38",
-    "Notas":  "Selo \u0027ja enviado para estudo a fundo\u0027 no card e botao travado para nao reenviar",
-    "Assinatura":  "DfApfdCwpsNaHzGZeFC7lT22Wz931KQqzUnApQue+F99HXQikjnINCEf35mzX46vk0gj+vmJWeoIK/5qshAKCWTZfgT7kZHF7UtSVqpfTD8YJkLCNOufH1eOnEBEFyHbSf9JD0p3NuJZszFCwuzBhFKcZXZp8rLezaQrtf/c/wJ2TV1T8nMelWUuki0w/rSYRGx8/Hryh54+INWAlLptns/9G+SG7YG314kFwJT5jgVd6Xdtzuc4eXi7s0AjK9tmtF3HTvYuCOdy/bmABb7rm1llysPQT+cWv/q2NMXh1BWHCftaqgYSB25xN3O5cqlVzThz+gJpg2T0Af9npxE6VO6He0A1bCMHKvw2ZOBb25MUmDnOLmNQxS+j6vhTgwOlXGtRvwOzmhaWle4BuSyWwI3pBrdPxweO91N7em5zLMoauyAmtLl5tGbwb3AwSb6W9XVgr/822qJQPkz0RnXyTwYCn7GxvCOS4N/cpEi3QLTE25JauzAykqpEoVrz8sN8"
+    "Versao":  "4.27.0",
+    "Instalador":  "EnginePro_Setup_4.27.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.27.0/EnginePro_Setup_4.27.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.27.0/EnginePro_Setup_4.27.0.exe.gz",
+    "SHA256":  "D5008B9372E5D8CBC69D2D7D5F9DEA69891F5433A4B1521A15C3AE9733755E7A",
+    "Data":  "2026-11-02 22:49",
+    "Notas":  "Abertura: remove o Y duplicado e deixa o capacitor mais leve (sem o brilho que travava)",
+    "Assinatura":  "s+eEVO77ORZovioRl3Q61b7d2uVfXYcW7No4AXqPV32LF4IjT6tnX+0iZFAXygA0rT61Xrl27WHA9XD+w1XbX7Ho+bS8zIFjD6jwNeKqT1t0J6KEgRLHvYy8PDBjQ6YZqrV3IYxr1E0yXgVQVB4WNACfU+pnE+37KlixAwE6i7/QgwnImPS40vQoR53OpOxN/tBiXYTpbl/Im3RHwnC7fwg1fso9tnLu1Tax3nnPgriWxSr37d3pjS6+6tSe9U9zJKQw6jwb0ycMpFagup+t4sLLdTlrbwyJHGo1xz9WcSQtMv0RNT32488pRkGg4HvIHAQbp+cl6dWqrwxnUnds0nzM2riG5aWaYPUYvfcdE8OVcPrClWWJe0ZZFNpAHNvHRA7/0dlOY19T90UnnM3qsjymue9+6krTs6bNfwgm0tMuSaRqtgpynxLFIbYaCmI81g78uR2YszMlioG6oKfCXraDhNEayJyHo5z8BfzOX/2Q2sXlvNfkj0ja46jaAQS+"
 }
