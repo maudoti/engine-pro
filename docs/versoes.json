@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.28.0",
+        "Data":  "2026-11-02 23:07",
+        "Notas":  "Abertura: capacitor animado vira heroi no lancador, dois atos da COLMEIA viram um so (mais curta), Y da GUI estatico",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.28.0/EnginePro_Setup_4.28.0.exe"
+    },
+    {
         "Versao":  "4.27.0",
         "Data":  "2026-11-02 22:49",
         "Notas":  "Abertura: remove o Y duplicado e deixa o capacitor mais leve (sem o brilho que travava)",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.28.0",
+        "Data":  "2026-11-02 23:07",
+        "Titulo":  "Abertura: capacitor animado vira heroi no lancador, dois ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: capacitor animado vira heroi no lancador, dois atos da COLMEIA viram um so (mais curta), Y da GUI estatico."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.27.0",
         "Data":  "2026-11-02 22:49",
         "Titulo":  "Abertura: remove o Y duplicado e deixa o capacitor mais l...",

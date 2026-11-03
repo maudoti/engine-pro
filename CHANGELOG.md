@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.28.0 | Abertura: capacitor animado vira heroi no lancador, dois ... | 02/11/2026
+
+- **Melhoria**: Abertura: capacitor animado vira heroi no lancador, dois atos da COLMEIA viram um so (mais curta), Y da GUI estatico.
+
 ## Versão 4.27.0 | Abertura: remove o Y duplicado e deixa o capacitor mais l... | 02/11/2026
 
 - **Melhoria**: Abertura: remove o Y duplicado e deixa o capacitor mais leve (sem o brilho que travava).

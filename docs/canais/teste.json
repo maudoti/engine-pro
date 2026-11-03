@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.27.0",
-    "Instalador":  "EnginePro_Setup_4.27.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.27.0/EnginePro_Setup_4.27.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.27.0/EnginePro_Setup_4.27.0.exe.gz",
-    "SHA256":  "D5008B9372E5D8CBC69D2D7D5F9DEA69891F5433A4B1521A15C3AE9733755E7A",
-    "Data":  "2026-11-02 22:49",
-    "Notas":  "Abertura: remove o Y duplicado e deixa o capacitor mais leve (sem o brilho que travava)",
-    "Assinatura":  "s+eEVO77ORZovioRl3Q61b7d2uVfXYcW7No4AXqPV32LF4IjT6tnX+0iZFAXygA0rT61Xrl27WHA9XD+w1XbX7Ho+bS8zIFjD6jwNeKqT1t0J6KEgRLHvYy8PDBjQ6YZqrV3IYxr1E0yXgVQVB4WNACfU+pnE+37KlixAwE6i7/QgwnImPS40vQoR53OpOxN/tBiXYTpbl/Im3RHwnC7fwg1fso9tnLu1Tax3nnPgriWxSr37d3pjS6+6tSe9U9zJKQw6jwb0ycMpFagup+t4sLLdTlrbwyJHGo1xz9WcSQtMv0RNT32488pRkGg4HvIHAQbp+cl6dWqrwxnUnds0nzM2riG5aWaYPUYvfcdE8OVcPrClWWJe0ZZFNpAHNvHRA7/0dlOY19T90UnnM3qsjymue9+6krTs6bNfwgm0tMuSaRqtgpynxLFIbYaCmI81g78uR2YszMlioG6oKfCXraDhNEayJyHo5z8BfzOX/2Q2sXlvNfkj0ja46jaAQS+"
+    "Versao":  "4.28.0",
+    "Instalador":  "EnginePro_Setup_4.28.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.28.0/EnginePro_Setup_4.28.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.28.0/EnginePro_Setup_4.28.0.exe.gz",
+    "SHA256":  "362C8DB79532F7988B285D4309E5EF76506209E852F0D2544888F4BF7D36DB65",
+    "Data":  "2026-11-02 23:07",
+    "Notas":  "Abertura: capacitor animado vira heroi no lancador, dois atos da COLMEIA viram um so (mais curta), Y da GUI estatico",
+    "Assinatura":  "qeNeMZloBtqG60zGphJwD0xykpGtqLBIb/atdpQSm0Hd89joT67H8ev0cCTwnsTV67rzQP3dvBIcnbixBXw1XrECtAQWuuuPTBi65HHDZxCbau5MMs7XdnmfAtrSXDL5bLuzBppYtPQb3ntm0x7maAiCPm+sBkfPAiTuK1FfyrXiEOUZ80e6FTEJnVd0bY0PtMLCUIW53lSk58g6Gib5KBwt6vwM+T/d8EqophJDeJUpUVSodADkWkTJ9O+XX0NTolW88jZihsuyCjnjjuc7D1931oziVWn0C/Wy/fHJJ0EFUW0iEiVYZNdQ5L3YsCt1OlLYoD/6AeCQJmE+idqjJN+E2bA/nzH8fgJaYNat0js7T1Ef0Cfn6mBr9nD96TVi8osd/NOAV2kH3g0e9iObY8xzFwA8ihQ8oNTryFUpwXXvpaaGkkmvHpmJ4WT7lqko12eQMZzdvsXcpZtvXoJKW/p6pmkqiJRhQhYIRxM71mJIK459ytBykFP2MIlpFoQU"
 }
