@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  685,
+    "Conhecimentos":  687,
     "Pesquisas":  1618,
-    "N48":  1041,
+    "N48":  1020,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 16:20:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-03 16:28:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Project, Microsoft Project lento ou travando",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 16:18:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
+                         "Data":  "2026-11-03 16:28:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Project, Arquivo .mpp do Project corrompido ou abre só leitura",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 16:18:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome lento ou consumindo muita memória",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-03 16:20:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,8 +30,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-03 15:25:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Data":  "2026-11-03 16:18:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome lento ou consumindo muita memória",
                          "Nivel":  "ok"
                      },
                      {
@@ -47,7 +47,7 @@
                  ],
     "Horas":  [
                   21,
-                  21,
+                  0,
                   20,
                   21,
                   20,
@@ -74,9 +74,9 @@
                   24,
                   20,
                   14,
-                  47,
-                  54,
-                  58,
+                  65,
+                  59,
+                  35,
                   13,
                   25,
                   16,
@@ -96,6 +96,6 @@
                   41
               ],
     "Ultima":  "2026-11-03 16:20:20",
-    "Gerado":  "2026-11-03 16:27:05",
-    "Data":  "2026-11-03 16:27"
+    "Gerado":  "2026-11-03 16:37:04",
+    "Data":  "2026-11-03 16:37"
 }
