@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  665,
+    "Conhecimentos":  666,
     "Pesquisas":  1495,
     "N48":  1002,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 12:05:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Servidor ou NAS antigo exige SMB1",
+                         "Data":  "2026-11-03 12:15:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, \"A relação de confiança entre a estação e o domínio falhou\"",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-03 12:05:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Wi-Fi sumiu ou não encontra redes",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,7 +21,7 @@
                      },
                      {
                          "Data":  "2026-11-03 12:05:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Servidor ou NAS antigo exige SMB1",
                          "Nivel":  "ok"
                      },
                      {
@@ -75,12 +75,12 @@
                   18,
                   25,
                   14,
-                  0,
-                  44,
-                  0,
-                  37,
-                  56,
-                  62,
+                  24,
+                  20,
+                  14,
+                  47,
+                  49,
+                  45,
                   31,
                   25,
                   16,
@@ -89,13 +89,13 @@
                   28,
                   26,
                   27,
-                  0,
-                  33,
+                  16,
+                  17,
                   15,
                   27,
                   29
               ],
     "Ultima":  "2026-11-03 12:04:41",
-    "Gerado":  "2026-11-03 12:07:03",
-    "Data":  "2026-11-03 12:07"
+    "Gerado":  "2026-11-03 12:17:03",
+    "Data":  "2026-11-03 12:17"
 }
