@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.33.4",
+        "Data":  "2026-11-03 11:33",
+        "Titulo":  "Claude com temperature 1 (exigida pelo modelo de raciocin...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Claude com temperature 1 (exigida pelo modelo de raciocinio): corrige o HTTP 400 e destrava a fila."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.33.3",
         "Data":  "2026-11-03 11:05",
         "Titulo":  "Piso de 4000 tokens no Claude: desempate do piloto nao vo...",

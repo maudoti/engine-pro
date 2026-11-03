@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.33.3",
-    "Instalador":  "EnginePro_Setup_4.33.3.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.3/EnginePro_Setup_4.33.3.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.3/EnginePro_Setup_4.33.3.exe.gz",
-    "SHA256":  "C1991AE506B4D27C253E365E06CBD387B5DB5F7DC4ED0E96CC99DBD9E43200F0",
-    "Data":  "2026-11-03 11:05",
-    "Notas":  "Piso de 4000 tokens no Claude: desempate do piloto nao volta mais vazio; destrava a fila",
-    "Assinatura":  "QC0AikDWJ1I/0ApDvWlK9+82Aifl4yNA55SAyQ54d7LNFjhAP5ZcwE1MGJWxwHBREEHLiwkrFBK4Bp902ucb0rwM904YbDJHFDnqtDza6z/Cwvydx+nNRyvQGLjQ/3Xx4i3Qs1KAWECjHBMKyZmnbPqjn6LmE1VTVePgHRi3PoDOWWOWr+oQJVzhRMT+gliot4cCDNiswnBwUAkEYaoVBuQTvNbdmEeZcLye3jqovUSU9SoPbtscwL2DG+SoAcwqaBM7/AnlCeRUnYczIGjUxpLQcbdLlx74WlUaqKY/K7l+8I22Hqwonn/f23Xg5QOjrB8yZt1KJXETE/kwJpn/h+3Wk61vG98OC+mDzi+6YxhqTFGa6VCiSTeY6Pfms5plB7wIFkdb/n1JCmwg1cwDKVL0/o3SSvc9zTwq2Wy+Tc53IFtQh56CKkzyL8qTIFYOlX6+iO3fbxMBPMHgJmeFnHgE9W8/MrTAI1F4ZDd6aAOYiNqLJKm/sJKXO1Vmp7tP"
+    "Versao":  "4.33.4",
+    "Instalador":  "EnginePro_Setup_4.33.4.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.4/EnginePro_Setup_4.33.4.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.4/EnginePro_Setup_4.33.4.exe.gz",
+    "SHA256":  "F669370DB6D04E1A40908E7192F20E5FBF83647F838E3B374AC8FC9145FD28B6",
+    "Data":  "2026-11-03 11:33",
+    "Notas":  "Claude com temperature 1 (exigida pelo modelo de raciocinio): corrige o HTTP 400 e destrava a fila",
+    "Assinatura":  "ndXKMIZP7pHunK4H3RZQfEa6YFWXcW9blrpdBnD3kufkgaIK2ocxyPnz4PWwnp2hI8wQ5vH3B/RdKCpypgP0snPkNvWvl92FBDqfN4gn5nKLxn0+oaK8hyyHOlIVBjGXzmSOyq8QEixCHDh5oth4oMqVMTPVO48UKBrm/3NkDrVKWSOeXKiOMSZsuMZIUXfqrWQf/JMlI9EgWw6e5863vNILK3kg2DHcT3uy+vZZ/rv7EGHqA8JJISZGr1/4IQzy81sfAg+ZvEQzU+I1Z++P5dwAxwsVPKHV9nabGr9kcd727N+M2elPFSyu6SF5PwwfEdaCiHHV/NnRHjFaK3Nr5ksKFAAido6MKP8TPGIxJaHPcbnvo/wuQC3ZIPPYaP86BWLaFomGU1TfAC25lBzmsslW9og+BgEebYj5VKobwtzO0jbt2HSrKFxRUyVaUm+lMHlDC89zZM3n+fV4jTYYTtsiiDphczGd4TFCJIh8b0btxw9wvW/IC0EsRtNFpxlf"
 }

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.4 | Claude com temperature 1 (exigida pelo modelo de raciocin... | 03/11/2026
+
+- **Correção**: Claude com temperature 1 (exigida pelo modelo de raciocinio): corrige o HTTP 400 e destrava a fila.
+
 ## Versão 4.33.3 | Piso de 4000 tokens no Claude: desempate do piloto nao vo... | 03/11/2026
 
 - **Melhoria**: Piso de 4000 tokens no Claude: desempate do piloto nao volta mais vazio.
