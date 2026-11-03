@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  643,
+    "Conhecimentos":  647,
     "Pesquisas":  1424,
     "N48":  976,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 09:06:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Áudio ou microfone não funciona no Teams",
+                         "Data":  "2026-11-03 09:42:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Erro 0x00000bc4: nenhuma impressora encontrada",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 09:05:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-03 09:42:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Falta componente Visual C++ (vcruntime ou msvcp)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,14 +20,14 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-03 09:00:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo de dados do Outlook (OST) muito grande",
+                         "Data":  "2026-11-03 09:42:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Problema para plotar no AutoCAD",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 08:58:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook lento ou travando",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-03 09:05:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-03 08:09:14",
@@ -49,18 +49,18 @@
                   20,
                   21,
                   21,
-                  0,
                   20,
                   21,
                   20,
                   26,
-                  20,
-                  20,
+                  0,
+                  40,
+                  0,
                   12,
+                  24,
                   12,
-                  12,
-                  12,
-                  12,
+                  2,
+                  10,
                   15,
                   12,
                   12,
@@ -76,9 +76,9 @@
                   24,
                   20,
                   14,
-                  65,
-                  59,
-                  35,
+                  79,
+                  62,
+                  18,
                   13,
                   25,
                   16,
@@ -91,6 +91,6 @@
                   17
               ],
     "Ultima":  "2026-11-03 09:05:38",
-    "Gerado":  "2026-11-03 09:37:03",
-    "Data":  "2026-11-03 09:37"
+    "Gerado":  "2026-11-03 09:47:03",
+    "Data":  "2026-11-03 09:47"
 }
