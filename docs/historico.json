@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.21.0",
+        "Data":  "2026-11-02 21:13",
+        "Titulo":  "Botao Estudar um tema na Fila da COLMEIA: o TI pede um as...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao Estudar um tema na Fila da COLMEIA: o TI pede um assunto e a COLMEIA pesquisa de novo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.20.1",
         "Data":  "2026-11-02 20:30",
         "Titulo":  "Recusadas: servico guarda os recusados e o Recuperar traz...",

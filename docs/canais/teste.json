@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.20.1",
-    "Instalador":  "EnginePro_Setup_4.20.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.20.1/EnginePro_Setup_4.20.1.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.20.1/EnginePro_Setup_4.20.1.exe.gz",
-    "SHA256":  "0120162B675BCDBD7AFD45EFBFA0BAA55BF1534C43E1934425134B8C80CB0311",
-    "Data":  "2026-11-02 20:30",
-    "Notas":  "Recusadas: servico guarda os recusados e o Recuperar traz o item de volta a fila",
-    "Assinatura":  "gFIZY3tk6lbYdm3QqyR4W/sVFbAoyuV+a+g5KqkICuchoWa88rGmmfF2odSdbBMBiNLuaE+dI2T/sdEuy5ycC0LLIfQbh28WcIsJcoCKfxx6bnrGx2rMOitNYmEMRLl4TP1TOZlwuIFy+J5tGndqG+q1EpScHIdrB58E493Ub6v58bq51eXqJ1PcRcatFjkhuBy98fTmmsZ9Qfw54fnHAtBd0XUY52mbWpJ3y+n4YqDwUPO2po/L9lxR0rZSprkWRLQCyC5OeHj5+sOcLikF81En1YiKU9zPLT/Hoy96L3/XhLiTB1cQ8iRWmFrsvTWrWX9O4LbqAnYXHdNGbOy3ZYJ8IjEvu+j3qO7kYI1rjBdluWz1+coViJ0z/IuhOPyouQ36th2vEBKR3vIyKW+Gsa0GsvYvaNFX0DkCBkyh1qpBzAMEN7KI1K55dwgBEUqmZzBI0E96jbPWGu5wiDPGCbV6yR1hZThSN/EsH3oiYXW4rGzGog3ItHpNBjYULdfj"
+    "Versao":  "4.21.0",
+    "Instalador":  "EnginePro_Setup_4.21.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.21.0/EnginePro_Setup_4.21.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.21.0/EnginePro_Setup_4.21.0.exe.gz",
+    "SHA256":  "4FABD128D0CF0EBC76F56384B473B33DBDB05DD17384AAF537B8CC75F8EC8EC9",
+    "Data":  "2026-11-02 21:13",
+    "Notas":  "Botao Estudar um tema na Fila da COLMEIA: o TI pede um assunto e a COLMEIA pesquisa de novo",
+    "Assinatura":  "eWbDcgDg1sthjk/tBVSK92ugB9Wn05YCKDZvpEj8ucki8CHsoecE/Qdf1ttzLBb6/KWdzffUtg5OllkSRv2jjqhM2ZBjRSW8ZP7yvyN7LwVbD9ZUk1urY6ZrsAROBnq7NNl6lK8fgolqqHBRXIJtfiO0cm6OUOKye4MiWVqklv46ouw4uEExLZIKpBYyQTfaAbNN6Jpgku3k5mSTb32bJPqnrCWnIIkiK5DSxGAT+6ygZstqaMFkEJQS85Nycl7K5p+nxy+CCjTgOpdJSYmR3miaMwql4SOnDmXgEY2lx0dkvoiStPwHYQ2zL5Vtr4QiANxCNZHZ3JHG3omeJSaSx9UhdKG1IaG+DQpKQTeHeRJAHa1RLLuj8Ya+OTll9O2owr15AZgBlKjZQ6MXqcs7dAVIoWe8hv9XqtzRd9hLMKdHwOIMY7PbkMsMVWXWSPpiMAOSxutKwwpeWv6HCGNEJfV3p9szFvkTnKes+VFIogKGxE7X3C/DtWPClJTPvog+"
 }

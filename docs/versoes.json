@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.21.0",
+        "Data":  "2026-11-02 21:13",
+        "Notas":  "Botao Estudar um tema na Fila da COLMEIA: o TI pede um assunto e a COLMEIA pesquisa de novo",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.21.0/EnginePro_Setup_4.21.0.exe"
+    },
+    {
         "Versao":  "4.20.1",
         "Data":  "2026-11-02 20:30",
         "Notas":  "Recusadas: servico guarda os recusados e o Recuperar traz o item de volta a fila",

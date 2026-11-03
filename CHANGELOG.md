@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.21.0 | Botao Estudar um tema na Fila da COLMEIA: o TI pede um as... | 02/11/2026
+
+- **Melhoria**: Botao Estudar um tema na Fila da COLMEIA: o TI pede um assunto e a COLMEIA pesquisa de novo.
+
 ## Versão 4.20.1 | Recusadas: servico guarda os recusados e o Recuperar traz... | 02/11/2026
 
 - **Melhoria**: Recusadas: servico guarda os recusados e o Recuperar traz o item de volta a fila.
