@@ -1,9 +1,29 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  647,
+    "Conhecimentos":  653,
     "Pesquisas":  1466,
     "N48":  973,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-03 11:43:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Erro 1618: outra instalação em andamento",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-03 11:43:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDF não imprime pelo Adobe Reader",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 232 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-03 11:43:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, Adobe Reader não abre o PDF",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-03 11:03:52",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
@@ -13,26 +33,6 @@
                          "Data":  "2026-11-03 10:01:29",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 232 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-03 09:42:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Erro 0x00000bc4: nenhuma impressora encontrada",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-03 09:42:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Falta componente Visual C++ (vcruntime ou msvcp)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-03 09:42:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Problema para plotar no AutoCAD",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-02 00:11:08",
@@ -47,18 +47,18 @@
                   20,
                   21,
                   21,
-                  0,
                   20,
                   21,
                   20,
                   26,
-                  20,
-                  20,
+                  0,
+                  40,
+                  0,
                   12,
+                  24,
                   12,
-                  12,
-                  12,
-                  12,
+                  2,
+                  10,
                   15,
                   12,
                   12,
@@ -74,9 +74,9 @@
                   24,
                   20,
                   14,
-                  65,
-                  59,
-                  35,
+                  79,
+                  62,
+                  18,
                   13,
                   25,
                   16,
@@ -91,6 +91,6 @@
                   27
               ],
     "Ultima":  "2026-11-03 11:03:52",
-    "Gerado":  "2026-11-03 11:37:03",
-    "Data":  "2026-11-03 11:37"
+    "Gerado":  "2026-11-03 11:47:03",
+    "Data":  "2026-11-03 11:47"
 }
