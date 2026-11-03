@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  673,
+    "Conhecimentos":  677,
     "Pesquisas":  1553,
     "N48":  1016,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 14:13:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-03 14:22:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 14:11:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Windows Update falhando",
+                         "Data":  "2026-11-03 14:22:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 14:11:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Arquivos do Windows danificados",
+                         "Data":  "2026-11-03 14:22:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-03 14:11:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Periféricos, Dispositivo USB não reconhecido",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-03 14:13:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-03 13:08:38",
@@ -77,9 +77,9 @@
                   20,
                   14,
                   47,
-                  49,
-                  45,
-                  31,
+                  54,
+                  58,
+                  13,
                   25,
                   16,
                   18,
@@ -96,6 +96,6 @@
                   30
               ],
     "Ultima":  "2026-11-03 14:13:40",
-    "Gerado":  "2026-11-03 14:17:03",
-    "Data":  "2026-11-03 14:17"
+    "Gerado":  "2026-11-03 14:27:03",
+    "Data":  "2026-11-03 14:27"
 }
