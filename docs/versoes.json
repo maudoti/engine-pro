@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.33.2",
+        "Data":  "2026-11-03 11:00",
+        "Notas":  "Nome coral legivel na abertura; janela do bom dia segura no topo ao abrir; titulo IA no Comando no lancador",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.2/EnginePro_Setup_4.33.2.exe"
+    },
+    {
         "Versao":  "4.33.1",
         "Data":  "2026-11-03 10:52",
         "Notas":  "Piloto aprova verdes direto (independente da confianca); nome da pessoa em vermelho na saudacao",

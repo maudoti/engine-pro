@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.2 | Nome coral legivel na abertura | 03/11/2026
+
+- **Melhoria**: Nome coral legivel na abertura.
+- **Melhoria**: Janela do bom dia segura no topo ao abrir.
+- **Melhoria**: Titulo IA no Comando no lancador.
+
 ## Versão 4.33.1 | Piloto aprova verdes direto (independente da confianca) | 03/11/2026
 
 - **Melhoria**: Piloto aprova verdes direto (independente da confianca).

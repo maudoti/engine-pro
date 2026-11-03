@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.33.2",
+        "Data":  "2026-11-03 11:00",
+        "Titulo":  "Nome coral legivel na abertura",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nome coral legivel na abertura."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Janela do bom dia segura no topo ao abrir."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Titulo IA no Comando no lancador."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.33.1",
         "Data":  "2026-11-03 10:52",
         "Titulo":  "Piloto aprova verdes direto (independente da confianca)",
