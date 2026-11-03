@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  653,
+    "Conhecimentos":  659,
     "Pesquisas":  1466,
     "N48":  973,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 11:43:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Erro 1618: outra instalação em andamento",
+                         "Data":  "2026-11-03 11:55:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 11:43:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDF não imprime pelo Adobe Reader",
+                         "Data":  "2026-11-03 11:55:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Spooler de impressão parando sozinho",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-03 11:43:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, Adobe Reader não abre o PDF",
+                         "Data":  "2026-11-03 11:55:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
                          "Nivel":  "ok"
                      },
                      {
@@ -58,10 +58,10 @@
                   12,
                   12,
                   12,
-                  0,
                   15,
                   12,
                   12,
+                  0,
                   12,
                   12,
                   21,
@@ -76,10 +76,10 @@
                   14,
                   79,
                   62,
-                  18,
-                  13,
+                  31,
                   25,
                   16,
+                  0,
                   18,
                   17,
                   28,
@@ -91,6 +91,6 @@
                   27
               ],
     "Ultima":  "2026-11-03 11:03:52",
-    "Gerado":  "2026-11-03 11:50:14",
-    "Data":  "2026-11-03 11:50"
+    "Gerado":  "2026-11-03 11:57:03",
+    "Data":  "2026-11-03 11:57"
 }
