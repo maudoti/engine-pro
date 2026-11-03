@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.31.0 | Engine aplica exclusoes do ESET sozinho (antes do update ... | 03/11/2026
+
+- **Melhoria**: Engine aplica exclusoes do ESET sozinho (antes do update e diario) e detecta arquivos do OneDrive acima de 400 caracteres que nao sincronizam.
+
 ## Versão 4.30.1 | Abertura: remove a barrinha de carregamento que travava n... | 02/11/2026
 
 - **Melhoria**: Abertura: remove a barrinha de carregamento que travava na tela de boas-vindas.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.31.0",
+        "Data":  "2026-11-03 08:57",
+        "Titulo":  "Engine aplica exclusoes do ESET sozinho (antes do update ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Engine aplica exclusoes do ESET sozinho (antes do update e diario) e detecta arquivos do OneDrive acima de 400 caracteres que nao sincronizam."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.30.1",
         "Data":  "2026-11-02 23:36",
         "Titulo":  "Abertura: remove a barrinha de carregamento que travava n...",
