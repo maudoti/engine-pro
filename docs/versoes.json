@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.33.0",
+        "Data":  "2026-11-03 10:34",
+        "Notas":  "Tela de boas-vindas repaginada: saudacao mais leve, filete da marca, Pro em vermelho, Aguarde/Carregando mais suaves",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.0/EnginePro_Setup_4.33.0.exe"
+    },
+    {
         "Versao":  "4.32.1",
         "Data":  "2026-11-03 10:26",
         "Notas":  "Claude: 429 nao bloqueia mais o dia todo (recuo por tempo); Claude vira pesquisador do estudo a fundo com orcamento maior quando o Gemini esta fora",

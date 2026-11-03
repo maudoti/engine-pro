@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.0 | Tela de boas-vindas repaginada: saudacao mais leve, filet... | 03/11/2026
+
+- **Melhoria**: Tela de boas-vindas repaginada: saudacao mais leve, filete da marca, Pro em vermelho, Aguarde/Carregando mais suaves.
+
 ## Versão 4.32.1 | Claude: 429 nao bloqueia mais o dia todo (recuo por tempo) | 03/11/2026
 
 - **Melhoria**: Claude: 429 nao bloqueia mais o dia todo (recuo por tempo).

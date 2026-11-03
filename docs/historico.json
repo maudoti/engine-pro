@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.33.0",
+        "Data":  "2026-11-03 10:34",
+        "Titulo":  "Tela de boas-vindas repaginada: saudacao mais leve, filet...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela de boas-vindas repaginada: saudacao mais leve, filete da marca, Pro em vermelho, Aguarde/Carregando mais suaves."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.32.1",
         "Data":  "2026-11-03 10:26",
         "Titulo":  "Claude: 429 nao bloqueia mais o dia todo (recuo por tempo)",
