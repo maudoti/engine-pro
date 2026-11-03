@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.33.3",
+        "Data":  "2026-11-03 11:05",
+        "Titulo":  "Piso de 4000 tokens no Claude: desempate do piloto nao vo...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Piso de 4000 tokens no Claude: desempate do piloto nao volta mais vazio."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Destrava a fila."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.33.2",
         "Data":  "2026-11-03 11:00",
         "Titulo":  "Nome coral legivel na abertura",

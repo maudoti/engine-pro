@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.33.3",
+        "Data":  "2026-11-03 11:05",
+        "Notas":  "Piso de 4000 tokens no Claude: desempate do piloto nao volta mais vazio; destrava a fila",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.3/EnginePro_Setup_4.33.3.exe"
+    },
+    {
         "Versao":  "4.33.2",
         "Data":  "2026-11-03 11:00",
         "Notas":  "Nome coral legivel na abertura; janela do bom dia segura no topo ao abrir; titulo IA no Comando no lancador",

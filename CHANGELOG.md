@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.3 | Piso de 4000 tokens no Claude: desempate do piloto nao vo... | 03/11/2026
+
+- **Melhoria**: Piso de 4000 tokens no Claude: desempate do piloto nao volta mais vazio.
+- **Melhoria**: Destrava a fila.
+
 ## Versão 4.33.2 | Nome coral legivel na abertura | 03/11/2026
 
 - **Melhoria**: Nome coral legivel na abertura.
