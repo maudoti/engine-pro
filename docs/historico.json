@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.29.0",
+        "Data":  "2026-11-02 23:20",
+        "Titulo":  "Abertura: energia do capacitor do centro para fora, mensa...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: energia do capacitor do centro para fora, mensagem da COLMEIA como heroi sem numeros, boas-vindas so com o Y marca dagua."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.28.0",
         "Data":  "2026-11-02 23:07",
         "Titulo":  "Abertura: capacitor animado vira heroi no lancador, dois ...",

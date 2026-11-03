@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.29.0 | Abertura: energia do capacitor do centro para fora, mensa... | 02/11/2026
+
+- **Melhoria**: Abertura: energia do capacitor do centro para fora, mensagem da COLMEIA como heroi sem numeros, boas-vindas so com o Y marca dagua.
+
 ## Versão 4.28.0 | Abertura: capacitor animado vira heroi no lancador, dois ... | 02/11/2026
 
 - **Melhoria**: Abertura: capacitor animado vira heroi no lancador, dois atos da COLMEIA viram um so (mais curta), Y da GUI estatico.
