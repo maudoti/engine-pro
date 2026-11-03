@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.24.2 | Recupera GUI com os botoes da fila e o Y do capacitor | 02/11/2026
+
+- **Melhoria**: Recupera GUI com os botoes da fila e o Y do capacitor.
+- **Melhoria**: COLMEIA com Claude de reserva na pesquisa.
+
 ## Versão 4.24.1 | COLMEIA: Claude assume a pesquisa quando o Gemini esta se... | 02/11/2026
 
 - **Melhoria**: COLMEIA: Claude assume a pesquisa quando o Gemini esta sem cota.

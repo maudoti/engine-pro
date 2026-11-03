@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.24.2",
+        "Data":  "2026-11-02 22:11",
+        "Notas":  "Recupera GUI com os botoes da fila e o Y do capacitor; COLMEIA com Claude de reserva na pesquisa",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.24.2/EnginePro_Setup_4.24.2.exe"
+    },
+    {
         "Versao":  "4.24.1",
         "Data":  "2026-11-02 22:05",
         "Notas":  "COLMEIA: Claude assume a pesquisa quando o Gemini esta sem cota; pedidos repetidos de \u0027Estudar mais a fundo\u0027 viram um estudo so",

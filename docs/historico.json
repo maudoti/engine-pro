@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.24.2",
+        "Data":  "2026-11-02 22:11",
+        "Titulo":  "Recupera GUI com os botoes da fila e o Y do capacitor",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Recupera GUI com os botoes da fila e o Y do capacitor."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA com Claude de reserva na pesquisa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.24.1",
         "Data":  "2026-11-02 22:05",
         "Titulo":  "COLMEIA: Claude assume a pesquisa quando o Gemini esta se...",
