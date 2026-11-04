@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.37.0",
+        "Data":  "2026-11-03 23:30",
+        "Notas":  "Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe"
+    },
+    {
         "Versao":  "4.36.0",
         "Data":  "2026-11-03 23:19",
         "Notas":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h",

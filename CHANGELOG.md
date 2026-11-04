@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.37.0 | Camada 2: conhecimento conectado (sintese de varios conhe... | 03/11/2026
+
+- **Melhoria**: Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs.
+
 ## Versão 4.36.0 | COLMEIA: semeador de temas pelo Claude (fonte infinita), ... | 03/11/2026
 
 - **Melhoria**: COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h.

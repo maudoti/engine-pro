@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.37.0",
+        "Data":  "2026-11-03 23:30",
+        "Titulo":  "Camada 2: conhecimento conectado (sintese de varios conhe...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.36.0",
         "Data":  "2026-11-03 23:10",
         "Titulo":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), ...",
