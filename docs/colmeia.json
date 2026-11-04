@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  718,
-    "Pesquisas":  1836,
-    "N48":  1066,
+    "Conhecimentos":  723,
+    "Pesquisas":  1852,
+    "N48":  1082,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 01:41:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro \u0027Nenhum dispositivo de inicialização encontrado\u0027 usando...",
+                         "Data":  "2026-11-04 02:02:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4625 e identificar tentativas de logon com falha?",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 01:41:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como identificar um driver com problema no Gerenciador de Dispositivos pelo c...",
+                         "Data":  "2026-11-04 02:02:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver falhas de DNS com ipconfig /flushdns, renovação de IP e correçã...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 01:41:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar DISM e SFC para corrigir arquivos de sistema corrompidos no Windows...",
+                         "Data":  "2026-11-04 02:02:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que uma impressora de rede aparece offline e como corrigir a porta WSD ou...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 107 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 123 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-04 02:02:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -43,11 +48,6 @@
                          "Data":  "2026-11-04 01:02:10",
                          "Texto":  "A base da COLMEIA passou de 700 aprendizados",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 00:39:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
@@ -57,7 +57,6 @@
                   15,
                   12,
                   12,
-                  0,
                   12,
                   12,
                   21,
@@ -67,40 +66,41 @@
                   18,
                   25,
                   14,
-                  24,
-                  20,
-                  14,
-                  79,
+                  1,
+                  43,
+                  0,
+                  37,
+                  56,
                   62,
                   31,
                   25,
                   16,
-                  0,
                   18,
                   17,
                   28,
                   26,
                   27,
-                  16,
-                  17,
+                  0,
+                  33,
                   15,
                   27,
                   29,
+                  0,
                   28,
                   30,
                   24,
                   41,
                   17,
-                  36,
-                  10,
+                  46,
                   4,
                   8,
                   14,
-                  22,
-                  46,
-                  61
+                  8,
+                  14,
+                  60,
+                  63
               ],
-    "Ultima":  "2026-11-04 01:40:50",
-    "Gerado":  "2026-11-04 01:57:04",
-    "Data":  "2026-11-04 01:57"
+    "Ultima":  "2026-11-04 02:02:07",
+    "Gerado":  "2026-11-04 02:07:04",
+    "Data":  "2026-11-04 02:07"
 }
