@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.33.6",
-    "Instalador":  "EnginePro_Setup_4.33.6.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.6/EnginePro_Setup_4.33.6.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.6/EnginePro_Setup_4.33.6.exe.gz",
-    "SHA256":  "DA2E83B47F98571117F656651CFAE84B4A591A8FD13F78149720700535FF7C60",
-    "Data":  "2026-11-03 21:29",
-    "Notas":  "Avisos da IA repetidos viram um so que atualiza o numero (dedupe por programa e tipo), na gravacao e na exibicao",
-    "Assinatura":  "gMPIP+80VfGVrNOzVV61PPql9jqHcrGtf5RdNY1RJ0RmRlk+ZGe19vqrf0c6tBufC9jWBvz7U2E1kf0rBnG2l3gQG0SG9rMxWM7tWB1PGQMWWipJTWKTQ44Jyy7EPsUXenZQ6+FIcdPvC1SuiKFSgengOUy1cDQY9S6dPaJ+jaeBiuVn0BQ0X6fDU0NL7dqwXa9e14Qnc+H1vT5yReo5XQRrz5RCHlDlKAYNV1cwh90fWd7PRz1h62fW4x52nyEE/8EZr4euA+iYd5WUYMUfF+ryZtqkVQqJeWHEf+ilnKuBWQkKKcg90Wx00qPVJQ4o03TQfny91Dh+eTY3p2HIZQj61VpgFfoa6ZUy9xElyCebKS0MU+uU1jEZ1nBXygtdsK8DvekxlyG75GJR2v1xOZbJc81Nez0utSyhVuEAn72aEixp0a/+19/6Iec2OspKmrLtaQACy1P2tuwm0Hffc6Lt0mKqjjNQ7HzcajSvLFUtPQqczFCI5rvzJDERT34n"
+    "Versao":  "4.33.7",
+    "Instalador":  "EnginePro_Setup_4.33.7.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.7/EnginePro_Setup_4.33.7.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.7/EnginePro_Setup_4.33.7.exe.gz",
+    "SHA256":  "4BBA97D37E997AE5850595633993C3CF6F7160B29D53B6B5A7B388C969639E0A",
+    "Data":  "2026-11-03 21:44",
+    "Notas":  "Estacoes: ligada mostra bolinha verde sempre; triangulo so para desligada com risco grave",
+    "Assinatura":  "seYxfAuW5B9mpmy8FMjiZUpetTKZBz9cdbdtcGbczWogOBvYG+agudwZmHuS7+CaJZ5gasDvZdfBi4NKzOAaDzej/ERlwygH6hTHrLWWwA5EaZGTxxKjR+XRM/Sho8xghOQvGcIHxNqDftCravLMBVEch2kTvXz3c349VKVUsjZ+sZy7FqyHDkV1nxi7+lgAEN9lVReys3D3SklrP0UVm6CFVqPlU+aNMdVG1cJcA+At7tz0CQCdkq4XNMXzae/BaiqHCaYwDEGnlywB7qAs8GPEc0OPsLe6uYkkyDaQ9yhf6I0jgJDTMbm/G1JXaRN4//CttaUfMzaST0b8ibZwVuc1NiCPpKYh+lsmVS0/Rc4fxg7mCt6ZBohGyi4CQZPso2RrcJDhXzck9NYKp5uvYWR9npM1lHfiVhjFJ5Wv9Nr7lgk9ES89UmYeKyuvt/3eEDLxSFrdj6caRz8YFp1aHutfZVY95vUrR2nULoYYhnBOM8WqvI3njD59FR0ZR7eT"
 }

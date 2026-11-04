@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.7 | Estacoes: ligada mostra bolinha verde sempre | 03/11/2026
+
+- **Melhoria**: Estacoes: ligada mostra bolinha verde sempre.
+- **Melhoria**: Triangulo so para desligada com risco grave.
+
 ## Versão 4.33.6 | Avisos da IA repetidos viram um so que atualiza o numero ... | 03/11/2026
 
 - **Melhoria**: Avisos da IA repetidos viram um so que atualiza o numero (dedupe por programa e tipo), na gravacao e na exibicao.

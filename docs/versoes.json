@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.33.7",
+        "Data":  "2026-11-03 21:44",
+        "Notas":  "Estacoes: ligada mostra bolinha verde sempre; triangulo so para desligada com risco grave",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.7/EnginePro_Setup_4.33.7.exe"
+    },
+    {
         "Versao":  "4.33.6",
         "Data":  "2026-11-03 21:29",
         "Notas":  "Avisos da IA repetidos viram um so que atualiza o numero (dedupe por programa e tipo), na gravacao e na exibicao",

@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.33.7",
+        "Data":  "2026-11-03 21:44",
+        "Titulo":  "Estacoes: ligada mostra bolinha verde sempre",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Estacoes: ligada mostra bolinha verde sempre."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Triangulo so para desligada com risco grave."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.33.6",
         "Data":  "2026-11-03 21:29",
         "Titulo":  "Avisos da IA repetidos viram um so que atualiza o numero ...",
