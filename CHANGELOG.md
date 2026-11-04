@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.41.0 | Kit 285: varredura SharePoint/OneDrive lista arquivos de ... | 04/11/2026
+
+- **Correção**: Kit 285: varredura SharePoint/OneDrive lista arquivos de 0 bytes e atalhos quebrados, com sugestao de correcao (so leitura).
+
 ## Versão 4.40.1 | Aviso do ESET CMD some rapido apos ligar (re-tenta a cada... | 04/11/2026
 
 - **Melhoria**: Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar.

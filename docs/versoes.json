@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.41.0",
+        "Data":  "2026-11-04 01:12",
+        "Notas":  "Kit 285: varredura SharePoint/OneDrive lista arquivos de 0 bytes e atalhos quebrados, com sugestao de correcao (so leitura)",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.41.0/EnginePro_Setup_4.41.0.exe"
+    },
+    {
         "Versao":  "4.40.1",
         "Data":  "2026-11-04 00:46",
         "Notas":  "Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar; sensor de hora em hora)",
