@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.0",
-    "Instalador":  "EnginePro_Setup_4.42.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.0/EnginePro_Setup_4.42.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.0/EnginePro_Setup_4.42.0.exe.gz",
-    "SHA256":  "0CABD52F6EA13BC2926D18B53EFB9DE2FAED47E29781AB2C1CDE93CE8A20DEC6",
-    "Data":  "2026-11-04 11:26",
-    "Notas":  "Assinatura de codigo ponta a ponta e varredura OneDrive",
-    "Assinatura":  "X4ntQnCxesVm3FG0lkDU96OyenKA6f2LxrFn5E0dMJFEFxoJ87XtLVaYVTkWcmgGd2UY22tY6LgzEp9jE2E3LUEaP7oXaHtZ7D9TZQtx7o3QdGdZgNw4J14EZlN1xb5hLFsL6xANQ9Cmy01c1YHH5WNaZQxb70Y3hlp6HPRJQNdg2EOMq0+rI7VDToJHKU9hVF3CAkLJHgOP7REFKuFRbgcWvGUt9MUJv+P7L32BOnK2YwQXjyK0qYyKjJt5RDdjvgGPIH1XURe4HgctVOZOOY2XLw/YuRcf/2SMN4LbvkAMPQGtuq4KC5MVMMQdmy0u5dIwTAyo45TXG6/xNPRh7pIwuBcSwNr7yGI2C9mkpFqtRI0ehy4KKKYgU8Dc3Mmg1mfo4W+tAnuQ2tu8xiaKRWMbiKgwpSbGLWLnyV34KBBXZvB8B4l7Jy+TyeG/kql4CqS3zndVBDa8NivDXV+WRk67DqqfRbwAuqkFDCZ8dAu2ONYKAieb2eYVcA8ItMJI"
+    "Versao":  "4.42.1",
+    "Instalador":  "EnginePro_Setup_4.42.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.1/EnginePro_Setup_4.42.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.1/EnginePro_Setup_4.42.1.exe.gz",
+    "SHA256":  "FE8BCB9321660B94C4A3A85CF9E6B8AF05898D18740B755B983A5DF172F96A1C",
+    "Data":  "2026-11-04 11:44",
+    "Notas":  "Instalador confia no certificado antes de copiar os scripts",
+    "Assinatura":  "OW9W6AuToWKflA/spylKnSVciyuDczbtqn5SpdiUNYbbIh6TrZRXFKekHNVwz5i+x4R87QOXt8+JC2E25DWIm9rIdURptu1JG+hMIXxERE+8y5KYqJ0FeeFl74XXV4EQjfbEI/c9cHb5O4qkkm1FAiMh6KIC6xrfaWq43MhVybAc6ypLIb3o1tLoRGeuhFRlCvUp3XL5s8EppIcfI9km0M88kX7S+kZNMuO3FUcyP+KjQxmW9pdl8pu3dy/HgyK047s0zIfnjLvwHAyUJCM06CHWhASnlLb3hncHXUfzoov4Pah68SG2EV5V88OgPYwaA3R756u80NQWOGNPKWkVgnr8yTzxHs9UctWAiBNEdnqYivdXlih3BLRhVjLuKm5T+OHMRFrD3OoUIem/w8sjcmjCRaWu2HYvSTEUVcRojCd8QxMKx2UvvfcHIBCLLYGwPR1nIH/AEzORQSVhm9LN+r+hlH78oIzKNE8d7QLcNvYoM2cxZp37Wv813GY5ucB2"
 }
