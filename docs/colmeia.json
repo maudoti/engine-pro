@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  727,
-    "Pesquisas":  1934,
-    "N48":  1128,
+    "Pesquisas":  1946,
+    "N48":  1140,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 04:51:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Data":  "2026-11-04 05:13:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 04:49:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-04 05:10:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 04:08:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007A (KERNEL_DATA_INPAGE_ERROR) no Windows",
+                         "Data":  "2026-11-04 04:51:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 205 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 217 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-04 03:47:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000006B (PROCESS1_INITIALIZATION_FAILED) no Windows",
+                         "Data":  "2026-11-04 04:49:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-04 04:08:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007A (KERNEL_DATA_INPAGE_ERROR) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 03:47:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 01:13",
@@ -63,12 +63,12 @@
                   18,
                   25,
                   14,
-                  0,
-                  44,
-                  0,
-                  37,
-                  56,
-                  62,
+                  24,
+                  20,
+                  14,
+                  47,
+                  49,
+                  45,
                   31,
                   25,
                   16,
@@ -77,30 +77,30 @@
                   28,
                   26,
                   27,
-                  0,
-                  33,
+                  16,
+                  17,
                   15,
                   27,
                   29,
-                  0,
                   28,
                   30,
-                  24,
-                  41,
+                  20,
+                  8,
+                  37,
                   17,
                   46,
                   4,
                   8,
                   14,
                   8,
-                  14,
-                  60,
-                  63,
+                  26,
+                  76,
+                  35,
                   25,
-                  28,
-                  29
+                  34,
+                  35
               ],
-    "Ultima":  "2026-11-04 04:49:49",
-    "Gerado":  "2026-11-04 05:07:03",
-    "Data":  "2026-11-04 05:07"
+    "Ultima":  "2026-11-04 05:10:09",
+    "Gerado":  "2026-11-04 05:17:03",
+    "Data":  "2026-11-04 05:17"
 }
