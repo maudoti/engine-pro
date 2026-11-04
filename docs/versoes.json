@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.35.0",
+        "Data":  "2026-11-03 22:22",
+        "Notas":  "Botao Estatisticas na fila da COLMEIA: contadores de aprovados, recusados, desempates do Claude, estudos a fundo e correcoes produtivas",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.35.0/EnginePro_Setup_4.35.0.exe"
+    },
+    {
         "Versao":  "4.34.0",
         "Data":  "2026-11-03 22:10",
         "Notas":  "Botao Estatisticas na fila da COLMEIA: contadores de aprovados, recusados, desempates do Claude, estudos a fundo e correcoes produtivas",

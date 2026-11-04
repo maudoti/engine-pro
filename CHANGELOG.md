@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.35.0 | Botao Estatisticas na fila da COLMEIA: contadores de apro... | 03/11/2026
+
+- **Melhoria**: Botao Estatisticas na fila da COLMEIA: contadores de aprovados, recusados, desempates do Claude, estudos a fundo e correcoes produtivas.
+
 ## Versão 4.34.0 | Botao Estatisticas na fila da COLMEIA: contadores de apro... | 03/11/2026
 
 - **Melhoria**: Botao Estatisticas na fila da COLMEIA: contadores de aprovados, recusados, desempates do Claude, estudos a fundo e correcoes produtivas.

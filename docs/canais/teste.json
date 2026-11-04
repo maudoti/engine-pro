@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.34.0",
-    "Instalador":  "EnginePro_Setup_4.34.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.34.0/EnginePro_Setup_4.34.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.34.0/EnginePro_Setup_4.34.0.exe.gz",
-    "SHA256":  "2EACBDEB9ED9A08C2848AE189BD8CA8C609552E7ACB2855C3701038F661E1D87",
-    "Data":  "2026-11-03 22:10",
+    "Versao":  "4.35.0",
+    "Instalador":  "EnginePro_Setup_4.35.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.35.0/EnginePro_Setup_4.35.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.35.0/EnginePro_Setup_4.35.0.exe.gz",
+    "SHA256":  "58B62DC758904BA4950AAE1BD1570C99EE4F4263B01C910DA0DB944FEF561143",
+    "Data":  "2026-11-03 22:22",
     "Notas":  "Botao Estatisticas na fila da COLMEIA: contadores de aprovados, recusados, desempates do Claude, estudos a fundo e correcoes produtivas",
-    "Assinatura":  "lmxH5Fhh8eC9nVRWZZWK3vuAA+I/ron3Q0Wyf9qPQdFSxYoVB2IDR6I6zfnkGzdip6d0pcPOUflQlFXQ3TOyzdst5UdamQr/wHwgD5YOMyP8Evvn1MmRuGu6hl7+4hWRXUn5lnWL/UIRx2zIfXLyPF75R29vzXRC4q2ApmpHELpKE0w+qxDGpXNeOrCPxQGwrU8FQyAGGvPdoE6yGAn5wGJj0MDHIzkeARJWxSp+I3wTOInzLw5MdKeamTOiR8j++v45sB6TWnPFGfzuk3vb+5WoNMrmmj7yqWmPZJIpU0MwYyT5I2NVpG7cvpVF3hbkICZa0Bn/Q4RpJ66xZCVQUoml5r18aE5zhmJnEknjPHKWBpBkCRTq4HWYq8ofaEE78CEdA5Qef7MqyYRzwE573o3npPVcaKJ8Omf9/s8Xnj0Evwio9xewJMXc+N+W/1pk1nixPqEnY/OqfpdXwfySmrqGM2eH9fvbrp4DmxkfP7PysbP2DEM8k0+i3iMT2ZK+"
+    "Assinatura":  "Lezjpwxn1t+0jGOf+p5Hbv9fFYKyWOs/6oJGy5RjU6nUEt78OBN1yoPmjCs9qIVEx3WnCCTDKnSE3lx4FA5MGuh2Kg76f8W00j9eRHK/wsH/v11N2EAJ0cVcmM6hfzIwThDGhz0Y6g5Gmlx1HKqZoxvy/OXwfXmJOzNVeZA8u4wXaG8ktVah85Vf8H5vvVDsmUgIcIyhzcgelHWEwKD9O+n9lyTUzH0FO6unP5aVCnflOwvdT9Sp74Wj985HJWllZXWrsXp62u4Unp7vtKPMYMn6ZWWBKvUsA0xNPsysPVTSNjT/gKhQcvfOou6ssz3kNVa+j0q20meTH9lUjQFliKspGjkDni6y1/jK2I21SFshcWlnNcaK13ao7Hir1xoKL/3/w3pJwAQD8WSRb4/4mkhtQh1+KcWbhEgqCTlNt1864c4ra0FuFGAtJcbxZd1NrqBDGiVGPLJI4O7n7SDM1zgSsCbJ68cds5dC6IA+3fpO50d4v7jqPdF9bc1YwQoL"
 }
