@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.37.0",
-    "Instalador":  "EnginePro_Setup_4.37.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe.gz",
-    "SHA256":  "07BC15BDD1D3CA74E652D7ED12EFCD748AEC91DDC144D09173DC8C54DE4D711F",
-    "Data":  "2026-11-03 23:30",
-    "Notas":  "Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
-    "Assinatura":  "B/1EmWEuna73pUeSTEV2b+JRkbwby1GWs9sbPKs8LVyp738d4dC6DTCdqfgqdoV5pxErbsArCoKcAHrARWWyPfQGSGcuRcT4BxirzOi9xrL7vnRMYkdEZVx/fd2+NgO2/kHbyuwZSvRuF4hNMaaojqNu9huyFbwbsb9Neo0YfQQckRtpG/fHOGCmzspH1pTJt/mNoHEKcc4wEpctg7Q5AhrHGs4mk+UxR20lMVTvYrpx929kDo2X5mvzCPrBUyuFldUhjCHznrCjkbCgJ1VKpV3pODhUarFc72ECSDYUovxeyaehhxl/MSjUeprm1ItuXN8wNJMkC1YpBVqpMLTOJJCQMkvEXG4vIyoyjIi6xIRKgI/nVvULtwj2yHpb70+vAej1G6+ZRr0A54Zcm2gT9zFYd2XVAYXy1oX9tToFaQ0F23VDPPT1B+nhESbAjZC+XW2viYDCPCVypAYiCbZZbOFNWPlmgpG1z1ooBGRLJu2l4R3AxHJ0xgg/z8SM/kkR"
+    "Versao":  "4.40.1",
+    "Instalador":  "EnginePro_Setup_4.40.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.1/EnginePro_Setup_4.40.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.1/EnginePro_Setup_4.40.1.exe.gz",
+    "SHA256":  "EF065AE7284C18510970ED90152F79EED7DCBB1A16934440BC5467BE8E7632F4",
+    "Data":  "2026-11-04 00:46",
+    "Notas":  "Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar; sensor de hora em hora)",
+    "Assinatura":  "gP/6ehIMvSc5hU89mX7sw9gHdX7SvwOR61Mdtj3Bwa2ExAjwCngV2KiDt60aH5kEbe5PnT3NPjWcPexMsJIX8uyajzRi6KsysnwbS5ZBgOztnMhUHir9tHQv4950jzDRx2nKBCQT/O0bfYc66FSSfOnsQnl0LEoXBoLTVDjE21d9OWlXGTw6m3zpFhbu7U66hNRS1Il7vDZY1BDmiX/Ig8kq0Jt+niwQZkNLRl9bPyyp34TI14P+TUA0mup2CuuK31wE2UQb0CL7f2tUzMTWKagh4wCWwW71Ft93sL+NiTXczVJ8qy58Box6+dtGLPz9hDm5peZ2Iwg1X2Trd8XxSmq4wn4zzgTG+vmnLBDaUxuAEu1W6KAeTTaafajKrvQhQJsLj4YBQV6rVPSKxWocRkw6tcPEJmYQzdOmpMBTNrvTpl5RU1h0pc6/o6vieVonyyZMM2j5sAZOsInhrOleFkp3AsxEiN81zQ8Q45HxwSq2jWCfbgfzxC8nRiD5Qvjf"
 }
