@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.39.0",
-    "Instalador":  "EnginePro_Setup_4.39.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.39.0/EnginePro_Setup_4.39.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.39.0/EnginePro_Setup_4.39.0.exe.gz",
-    "SHA256":  "1DB5AE3F0B4C3CC8F691B3D6FE85D5C321AD918CE7C9AC382F435E6582EAAA6D",
-    "Data":  "2026-11-04 00:25",
-    "Notas":  "Favos da COLMEIA reagem a consolidacao da base; nucleo pulsando; termo verificacao adversarial no texto",
-    "Assinatura":  "tgLSOP++Iiv9DM+a819/R5AL4/iGV40huf/TS2qRlMPKB0Ns1HOpHk+EXYL8+f5KkHByqMDDZpkc0TVzBv35t3n84k2Dn2bf0N+my7agTljS8hbJaO44d461HhC5ob+cukvUoEoCkodpcikWC4idGN8whMgClaTDM4xrWVnRayVtpemudpBEqoSVl8pCJKXn0HrqzTuJ0qtjxz1io6AAfv6W1+F1hlAoCnElJn1lZaqzZ7PmvMu4c7FV8irMwpZ3Dunx1Tx+0AJSYP2efU6LC/j4jNnW6h2PCZQtHhbL5iN760WSnXZuGNvApSngImdV7INC+pIR5T1OpcXMn9vQkxRA+iLspP6YjMpSiw5yuWs7fR+gJOAw6YqyJUmGgk7nr1X0p6oj/5yMFQrzIYewyp1PPbDAvL35av3Wiixm+JNKaxCdWW2p2vfOmRRlXVzf/SgnH4A3LRa/0R9K4tFB9gG4VM7HfE47osW51CcGoDDgLGmxL428LAT2hoSj1a9a"
+    "Versao":  "4.40.0",
+    "Instalador":  "EnginePro_Setup_4.40.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.0/EnginePro_Setup_4.40.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.0/EnginePro_Setup_4.40.0.exe.gz",
+    "SHA256":  "FA71B8016D138446B2AC5C346E4FEBFE45C2F7C84F90B83C06B3664445468652",
+    "Data":  "2026-11-04 00:34",
+    "Notas":  "Mata bloco de 40 (pesquisa + piloto); mais termos na placa; Nucleo Neural com pulsos e producao real; Camada 2 com titulo melhor",
+    "Assinatura":  "RaXCr3+/XDfPIg2i3pC5Y/blKj3iPVE85FDoz6Pj5IDKFKAxOXICvjOkGoJmE3Y+iUt7NWFAjyibIMJKVpYlDf7113uTxKTKfQe7ga3MqdUVPIS20KHBM2O47s/w9p+OUuDnpqt7uUPC3cX7kILBkeexFQqVdWm9u5u/nGU3wOlBCxWMnfoIonmwau7D5UTq3+vHKsaeVK1+/q80Rjt2j/ThjW8y5DS6Nl7pOd72HIgthqYSTAZNhhTc5ldgDV5pJxoZj8fo9I4SWV+9KjBM8wQXYGeRSbOdgwll3a0elmaFS75tiXhwtiOvvww7SgaUEoGa+uZCJxsGTHeH4NTlY3HRBA2nNDEVQ7ZbEOEMNm4DS3Z6V98Ooh+yw+AlOTvGPcEY7/7gCbAsPwCKq4Zf0hAkzUBggib1M9VyeaGWhrCaorfWINZDgdhnDn2uAkUyJatlS0Di2dZCTp8UQsMRp4I3QcdgU8vNmvcDwHwAuAcOfNwLoP2QgawARAdWgaZG"
 }

@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.40.0 | Mata bloco de 40 (pesquisa + piloto) | 04/11/2026
+
+- **Melhoria**: Mata bloco de 40 (pesquisa + piloto).
+- **Melhoria**: Mais termos na placa.
+- **Melhoria**: Nucleo Neural com pulsos e producao real.
+- **Melhoria**: Camada 2 com titulo melhor.
+
 ## Versão 4.39.0 | Favos da COLMEIA reagem a consolidacao da base | 04/11/2026
 
 - **Melhoria**: Favos da COLMEIA reagem a consolidacao da base.

@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.40.0",
+        "Data":  "2026-11-04 00:34",
+        "Titulo":  "Mata bloco de 40 (pesquisa + piloto)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mata bloco de 40 (pesquisa + piloto)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mais termos na placa."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nucleo Neural com pulsos e producao real."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Camada 2 com titulo melhor."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.39.0",
         "Data":  "2026-11-04 00:25",
         "Titulo":  "Favos da COLMEIA reagem a consolidacao da base",

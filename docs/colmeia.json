@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  692,
+    "Conhecimentos":  693,
     "Pesquisas":  1741,
     "N48":  995,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 00:16:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-04 00:30:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0x800CCC0E no Outlook ao enviar e-mails? Como corrigir o...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 23:56:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-04 00:16:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-03 23:32",
-                         "Texto":  "Nova versão 4.37.0 publicada: Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
+                         "Data":  "2026-11-03 23:56:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 12 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-03 23:32",
+                         "Texto":  "Nova versão 4.37.0 publicada: Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
                          "Nivel":  "info"
                      },
                      {
@@ -37,11 +42,6 @@
                      {
                          "Data":  "2026-11-03 18:34:59",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Explorador de Arquivos travando ou lento",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-03 17:21:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
                          "Nivel":  "ok"
                      }
                  ],
@@ -67,8 +67,8 @@
                   20,
                   14,
                   47,
-                  54,
-                  58,
+                  77,
+                  35,
                   13,
                   25,
                   16,
@@ -96,6 +96,6 @@
                   26
               ],
     "Ultima":  "2026-11-04 00:16:28",
-    "Gerado":  "2026-11-04 00:27:04",
-    "Data":  "2026-11-04 00:27"
+    "Gerado":  "2026-11-04 00:34:01",
+    "Data":  "2026-11-04 00:34"
 }
