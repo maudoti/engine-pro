@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  726,
-    "Pesquisas":  1911,
-    "N48":  1117,
+    "Pesquisas":  1922,
+    "N48":  1128,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-04 04:28:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-04 04:08:41",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007A (KERNEL_DATA_INPAGE_ERROR) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 04:07:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 182 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 193 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -67,9 +67,9 @@
                   24,
                   20,
                   14,
-                  47,
-                  54,
-                  58,
+                  65,
+                  59,
+                  35,
                   13,
                   25,
                   16,
@@ -98,9 +98,9 @@
                   76,
                   42,
                   28,
-                  24
+                  35
               ],
-    "Ultima":  "2026-11-04 04:07:16",
-    "Gerado":  "2026-11-04 04:27:03",
-    "Data":  "2026-11-04 04:27"
+    "Ultima":  "2026-11-04 04:28:25",
+    "Gerado":  "2026-11-04 04:37:03",
+    "Data":  "2026-11-04 04:37"
 }
