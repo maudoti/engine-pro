@@ -5,13 +5,13 @@
     "N48":  1167,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 11:18:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-04 11:31",
+                         "Texto":  "Nova versão 4.42.0 publicada: Assinatura de codigo ponta a ponta e varredura OneDrive",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-04 10:46:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-04 11:18:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 08:03:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-04 10:46:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 328 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-04 08:03:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-04 06:17:01",
@@ -38,11 +43,6 @@
                          "Data":  "2026-11-04 05:13:02",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 01:13",
-                         "Texto":  "Nova versão 4.41.0 publicada: Kit 285: varredura SharePoint/OneDrive lista arquivos de 0 bytes e atalhos quebrados, com sugestao de correcao (so leitura)",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 01:02:10",
@@ -60,9 +60,9 @@
                   24,
                   20,
                   14,
-                  47,
-                  54,
-                  58,
+                  65,
+                  59,
+                  35,
                   13,
                   25,
                   16,
@@ -91,16 +91,16 @@
                   76,
                   42,
                   28,
-                  24,
                   35,
-                  34,
-                  14,
+                  38,
+                  26,
+                  8,
                   13,
                   22,
                   7,
                   21
               ],
     "Ultima":  "2026-11-04 11:18:24",
-    "Gerado":  "2026-11-04 11:27:03",
-    "Data":  "2026-11-04 11:27"
+    "Gerado":  "2026-11-04 11:37:03",
+    "Data":  "2026-11-04 11:37"
 }
