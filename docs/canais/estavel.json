@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.36.0",
-    "Instalador":  "EnginePro_Setup_4.36.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.36.0/EnginePro_Setup_4.36.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.36.0/EnginePro_Setup_4.36.0.exe.gz",
-    "SHA256":  "F127F3EB6F8312EBDF04A74EE3DDCC15EDFF5289D3699A74404AC3A661B81A27",
-    "Data":  "2026-11-03 23:10",
-    "Notas":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h",
-    "Assinatura":  "QYVAFWwpwW+vz/EII2SqXD6rNA5zR5Vc5FiF618ldnwxBGtGEId2tpr6E5A0GdrCi86TMxNSHvMv23I3macXy25Enzky8XTsd6tejxldmXGZxUDJNnOzVuhL1lCevTCt9gzQV3uEgbhXGEr9jc7zKG6o2e6JVMOTJn26BiPhoG0WrKzqSt4MVqnn+8W4cI8ODAtZmHUdx41glDFbr9wDkUIlnGRlBr0fc8cRX6tljvekisON4ll+UBnP9GomZelQfcD74LT94vO0jDCwioIeh7KrJmSInJEoJmT+Gg4YbOcnxtVaVqTAIicTs8QYulWI9z4MX0XH0v387mBn2B01odAeiq3PRulofV+G9xxfuWf+7iL62N/jV4j233UkzHzE3IGHm5wb5Yj9v6CwCwsE7QxjduU1bEMvAdiRVBGWmDUbUOiRceJyqFNgwnV4ItJnY+PVStZQxcOFhrR1UTjEGI+WptT/4/zYIoRIMVGAhMXyYJHFaInC20S1gbxa0N+w"
+    "Versao":  "4.37.0",
+    "Instalador":  "EnginePro_Setup_4.37.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe.gz",
+    "SHA256":  "07BC15BDD1D3CA74E652D7ED12EFCD748AEC91DDC144D09173DC8C54DE4D711F",
+    "Data":  "2026-11-03 23:30",
+    "Notas":  "Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
+    "Assinatura":  "B/1EmWEuna73pUeSTEV2b+JRkbwby1GWs9sbPKs8LVyp738d4dC6DTCdqfgqdoV5pxErbsArCoKcAHrARWWyPfQGSGcuRcT4BxirzOi9xrL7vnRMYkdEZVx/fd2+NgO2/kHbyuwZSvRuF4hNMaaojqNu9huyFbwbsb9Neo0YfQQckRtpG/fHOGCmzspH1pTJt/mNoHEKcc4wEpctg7Q5AhrHGs4mk+UxR20lMVTvYrpx929kDo2X5mvzCPrBUyuFldUhjCHznrCjkbCgJ1VKpV3pODhUarFc72ECSDYUovxeyaehhxl/MSjUeprm1ItuXN8wNJMkC1YpBVqpMLTOJJCQMkvEXG4vIyoyjIi6xIRKgI/nVvULtwj2yHpb70+vAej1G6+ZRr0A54Zcm2gT9zFYd2XVAYXy1oX9tToFaQ0F23VDPPT1B+nhESbAjZC+XW2viYDCPCVypAYiCbZZbOFNWPlmgpG1z1ooBGRLJu2l4R3AxHJ0xgg/z8SM/kkR"
 }

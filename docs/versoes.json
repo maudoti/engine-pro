@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.37.0",
+        "Data":  "2026-11-03 23:32",
+        "Notas":  "Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe"
+    },
+    {
+        "Versao":  "4.37.0",
         "Data":  "2026-11-03 23:30",
         "Notas":  "Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
         "Canal":  "teste",
