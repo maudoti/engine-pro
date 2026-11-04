@@ -5,8 +5,8 @@
     "N48":  989,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-03 23:19",
-                         "Texto":  "Nova versão 4.36.0 publicada: COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h",
+                         "Data":  "2026-11-03 23:32",
+                         "Texto":  "Nova versão 4.37.0 publicada: Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
                          "Nivel":  "info"
                      },
                      {
@@ -67,8 +67,8 @@
                   24,
                   20,
                   14,
-                  47,
-                  77,
+                  65,
+                  59,
                   35,
                   13,
                   25,
@@ -96,6 +96,6 @@
                   8
               ],
     "Ultima":  "2026-11-03 22:58:35",
-    "Gerado":  "2026-11-03 23:30:54",
-    "Data":  "2026-11-03 23:30"
+    "Gerado":  "2026-11-03 23:37:04",
+    "Data":  "2026-11-03 23:37"
 }
