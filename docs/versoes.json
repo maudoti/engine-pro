@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.41.0",
+        "Data":  "2026-11-04 01:13",
+        "Notas":  "Kit 285: varredura SharePoint/OneDrive lista arquivos de 0 bytes e atalhos quebrados, com sugestao de correcao (so leitura)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.41.0/EnginePro_Setup_4.41.0.exe"
+    },
+    {
+        "Versao":  "4.41.0",
         "Data":  "2026-11-04 01:12",
         "Notas":  "Kit 285: varredura SharePoint/OneDrive lista arquivos de 0 bytes e atalhos quebrados, com sugestao de correcao (so leitura)",
         "Canal":  "teste",
