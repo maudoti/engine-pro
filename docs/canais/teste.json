@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.40.0",
-    "Instalador":  "EnginePro_Setup_4.40.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.0/EnginePro_Setup_4.40.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.0/EnginePro_Setup_4.40.0.exe.gz",
-    "SHA256":  "FA71B8016D138446B2AC5C346E4FEBFE45C2F7C84F90B83C06B3664445468652",
-    "Data":  "2026-11-04 00:34",
-    "Notas":  "Mata bloco de 40 (pesquisa + piloto); mais termos na placa; Nucleo Neural com pulsos e producao real; Camada 2 com titulo melhor",
-    "Assinatura":  "RaXCr3+/XDfPIg2i3pC5Y/blKj3iPVE85FDoz6Pj5IDKFKAxOXICvjOkGoJmE3Y+iUt7NWFAjyibIMJKVpYlDf7113uTxKTKfQe7ga3MqdUVPIS20KHBM2O47s/w9p+OUuDnpqt7uUPC3cX7kILBkeexFQqVdWm9u5u/nGU3wOlBCxWMnfoIonmwau7D5UTq3+vHKsaeVK1+/q80Rjt2j/ThjW8y5DS6Nl7pOd72HIgthqYSTAZNhhTc5ldgDV5pJxoZj8fo9I4SWV+9KjBM8wQXYGeRSbOdgwll3a0elmaFS75tiXhwtiOvvww7SgaUEoGa+uZCJxsGTHeH4NTlY3HRBA2nNDEVQ7ZbEOEMNm4DS3Z6V98Ooh+yw+AlOTvGPcEY7/7gCbAsPwCKq4Zf0hAkzUBggib1M9VyeaGWhrCaorfWINZDgdhnDn2uAkUyJatlS0Di2dZCTp8UQsMRp4I3QcdgU8vNmvcDwHwAuAcOfNwLoP2QgawARAdWgaZG"
+    "Versao":  "4.40.1",
+    "Instalador":  "EnginePro_Setup_4.40.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.1/EnginePro_Setup_4.40.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.1/EnginePro_Setup_4.40.1.exe.gz",
+    "SHA256":  "EF065AE7284C18510970ED90152F79EED7DCBB1A16934440BC5467BE8E7632F4",
+    "Data":  "2026-11-04 00:46",
+    "Notas":  "Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar; sensor de hora em hora)",
+    "Assinatura":  "gP/6ehIMvSc5hU89mX7sw9gHdX7SvwOR61Mdtj3Bwa2ExAjwCngV2KiDt60aH5kEbe5PnT3NPjWcPexMsJIX8uyajzRi6KsysnwbS5ZBgOztnMhUHir9tHQv4950jzDRx2nKBCQT/O0bfYc66FSSfOnsQnl0LEoXBoLTVDjE21d9OWlXGTw6m3zpFhbu7U66hNRS1Il7vDZY1BDmiX/Ig8kq0Jt+niwQZkNLRl9bPyyp34TI14P+TUA0mup2CuuK31wE2UQb0CL7f2tUzMTWKagh4wCWwW71Ft93sL+NiTXczVJ8qy58Box6+dtGLPz9hDm5peZ2Iwg1X2Trd8XxSmq4wn4zzgTG+vmnLBDaUxuAEu1W6KAeTTaafajKrvQhQJsLj4YBQV6rVPSKxWocRkw6tcPEJmYQzdOmpMBTNrvTpl5RU1h0pc6/o6vieVonyyZMM2j5sAZOsInhrOleFkp3AsxEiN81zQ8Q45HxwSq2jWCfbgfzxC8nRiD5Qvjf"
 }

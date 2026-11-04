@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.40.1 | Aviso do ESET CMD some rapido apos ligar (re-tenta a cada... | 04/11/2026
+
+- **Melhoria**: Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar.
+- **Melhoria**: Sensor de hora em hora).
+
 ## Versão 4.40.0 | Mata bloco de 40 (pesquisa + piloto) | 04/11/2026
 
 - **Melhoria**: Mata bloco de 40 (pesquisa + piloto).

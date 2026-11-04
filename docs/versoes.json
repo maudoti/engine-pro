@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.40.1",
+        "Data":  "2026-11-04 00:46",
+        "Notas":  "Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar; sensor de hora em hora)",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.40.1/EnginePro_Setup_4.40.1.exe"
+    },
+    {
         "Versao":  "4.40.0",
         "Data":  "2026-11-04 00:34",
         "Notas":  "Mata bloco de 40 (pesquisa + piloto); mais termos na placa; Nucleo Neural com pulsos e producao real; Camada 2 com titulo melhor",

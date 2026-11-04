@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.40.1",
+        "Data":  "2026-11-04 00:46",
+        "Titulo":  "Aviso do ESET CMD some rapido apos ligar (re-tenta a cada...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Sensor de hora em hora)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.40.0",
         "Data":  "2026-11-04 00:34",
         "Titulo":  "Mata bloco de 40 (pesquisa + piloto)",
