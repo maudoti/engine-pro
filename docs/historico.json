@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.33.6",
+        "Data":  "2026-11-03 21:29",
+        "Titulo":  "Avisos da IA repetidos viram um so que atualiza o numero ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Avisos da IA repetidos viram um so que atualiza o numero (dedupe por programa e tipo), na gravacao e na exibicao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.33.5",
         "Data":  "2026-11-03 11:50",
         "Titulo":  "Nome da saudacao em branco (destaque pelo negrito) e font...",

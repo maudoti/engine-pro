@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.33.5",
-    "Instalador":  "EnginePro_Setup_4.33.5.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.5/EnginePro_Setup_4.33.5.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.5/EnginePro_Setup_4.33.5.exe.gz",
-    "SHA256":  "7010866F111571952D07A878AB2E6549189A2501B01E03D671BAA89716541868",
-    "Data":  "2026-11-03 11:50",
-    "Notas":  "Nome da saudacao em branco (destaque pelo negrito) e fonte Candara nas frases de destaque da abertura",
-    "Assinatura":  "of3Y3VaeHP6QPLLhXUjHwRNqQx846FNk9Mp+LahlySVOZFWpZX4yjYRH58AognEDPv/je/nHIjicMlJfV/0sQ+M4l8utDNiteFLDVmh6McksXM0K+k7XogIOdcmwqb7HZt/v3tjZnH1Io9mTD2WScRQ9iCkBGMZh+cF0iFPu5fBTSBxEq573UO0DIscdwk7kwRMfEBkVNKe47oRlh+jg2Y3IGmxZTmHHXFLyXGuweGVPEGerB8vRsGrHlqtXeyYYMWzTsHT2xPh90n2FVGGlIy4znjHI7Ij9RwZGd8fRlQzzRgSpV6+bMDCYEZo+tZGVrcQMsL49/Eay9ftnZcfsDM4oO3ijpjkUa3s+1msgM7hzo0lpvbohGVBJBkgx4seOunRCmA8dHuwcbFXSj6ob9cwhwE+coSnkh5ZvFL/GuIK28QNkWolg5+Y9uNcvBYY9OoAiE5hu6p4s9Odhl47cwa496/rLhSGTRHabG+sKM9sry7wqKS28Ncn5pDlg265j"
+    "Versao":  "4.33.6",
+    "Instalador":  "EnginePro_Setup_4.33.6.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.6/EnginePro_Setup_4.33.6.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.6/EnginePro_Setup_4.33.6.exe.gz",
+    "SHA256":  "DA2E83B47F98571117F656651CFAE84B4A591A8FD13F78149720700535FF7C60",
+    "Data":  "2026-11-03 21:29",
+    "Notas":  "Avisos da IA repetidos viram um so que atualiza o numero (dedupe por programa e tipo), na gravacao e na exibicao",
+    "Assinatura":  "gMPIP+80VfGVrNOzVV61PPql9jqHcrGtf5RdNY1RJ0RmRlk+ZGe19vqrf0c6tBufC9jWBvz7U2E1kf0rBnG2l3gQG0SG9rMxWM7tWB1PGQMWWipJTWKTQ44Jyy7EPsUXenZQ6+FIcdPvC1SuiKFSgengOUy1cDQY9S6dPaJ+jaeBiuVn0BQ0X6fDU0NL7dqwXa9e14Qnc+H1vT5yReo5XQRrz5RCHlDlKAYNV1cwh90fWd7PRz1h62fW4x52nyEE/8EZr4euA+iYd5WUYMUfF+ryZtqkVQqJeWHEf+ilnKuBWQkKKcg90Wx00qPVJQ4o03TQfny91Dh+eTY3p2HIZQj61VpgFfoa6ZUy9xElyCebKS0MU+uU1jEZ1nBXygtdsK8DvekxlyG75GJR2v1xOZbJc81Nez0utSyhVuEAn72aEixp0a/+19/6Iec2OspKmrLtaQACy1P2tuwm0Hffc6Lt0mKqjjNQ7HzcajSvLFUtPQqczFCI5rvzJDERT34n"
 }

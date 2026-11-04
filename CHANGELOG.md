@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.6 | Avisos da IA repetidos viram um so que atualiza o numero ... | 03/11/2026
+
+- **Melhoria**: Avisos da IA repetidos viram um so que atualiza o numero (dedupe por programa e tipo), na gravacao e na exibicao.
+
 ## Versão 4.33.5 | Nome da saudacao em branco (destaque pelo negrito) e font... | 03/11/2026
 
 - **Melhoria**: Nome da saudacao em branco (destaque pelo negrito) e fonte Candara nas frases de destaque da abertura.

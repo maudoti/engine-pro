@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.33.6",
+        "Data":  "2026-11-03 21:29",
+        "Notas":  "Avisos da IA repetidos viram um so que atualiza o numero (dedupe por programa e tipo), na gravacao e na exibicao",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.6/EnginePro_Setup_4.33.6.exe"
+    },
+    {
         "Versao":  "4.33.5",
         "Data":  "2026-11-03 11:50",
         "Notas":  "Nome da saudacao em branco (destaque pelo negrito) e fonte Candara nas frases de destaque da abertura",
