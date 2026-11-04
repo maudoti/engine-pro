@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.37.0",
-    "Instalador":  "EnginePro_Setup_4.37.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.37.0/EnginePro_Setup_4.37.0.exe.gz",
-    "SHA256":  "07BC15BDD1D3CA74E652D7ED12EFCD748AEC91DDC144D09173DC8C54DE4D711F",
-    "Data":  "2026-11-03 23:30",
-    "Notas":  "Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
-    "Assinatura":  "B/1EmWEuna73pUeSTEV2b+JRkbwby1GWs9sbPKs8LVyp738d4dC6DTCdqfgqdoV5pxErbsArCoKcAHrARWWyPfQGSGcuRcT4BxirzOi9xrL7vnRMYkdEZVx/fd2+NgO2/kHbyuwZSvRuF4hNMaaojqNu9huyFbwbsb9Neo0YfQQckRtpG/fHOGCmzspH1pTJt/mNoHEKcc4wEpctg7Q5AhrHGs4mk+UxR20lMVTvYrpx929kDo2X5mvzCPrBUyuFldUhjCHznrCjkbCgJ1VKpV3pODhUarFc72ECSDYUovxeyaehhxl/MSjUeprm1ItuXN8wNJMkC1YpBVqpMLTOJJCQMkvEXG4vIyoyjIi6xIRKgI/nVvULtwj2yHpb70+vAej1G6+ZRr0A54Zcm2gT9zFYd2XVAYXy1oX9tToFaQ0F23VDPPT1B+nhESbAjZC+XW2viYDCPCVypAYiCbZZbOFNWPlmgpG1z1ooBGRLJu2l4R3AxHJ0xgg/z8SM/kkR"
+    "Versao":  "4.38.0",
+    "Instalador":  "EnginePro_Setup_4.38.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.0/EnginePro_Setup_4.38.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.0/EnginePro_Setup_4.38.0.exe.gz",
+    "SHA256":  "AAB50110E4A57ECA8C9E4873C9A436F280F82A890B2794892EC2B8B793D339EA",
+    "Data":  "2026-11-04 00:08",
+    "Notas":  "Tela Nucleo Neural na COLMEIA: fluxo animado em camadas com termos e numeros reais",
+    "Assinatura":  "QXijPZXTMaQ62J/uP8YfWoievcZaMtNIVvOi1LIE4NFAmWG/U98S/wNucDaxNmpLk4zXRn2dtAQK6ErXCYP+sHW5tBgf+4AOm6QKmRkXa1ZJXznY4vR/RXpw8dZxP2OJQlKlK/EGEpwcPPdxronZewQ/n8Q08jPcFIFiNFRVYxp3JvSq1r7aLP3JIa4hjn+6Rf7bOLTUP802FMZYibn2VuxZg5EqoIjHeJSeqvFVl5D7zNWGMr7h+HkGv8nHa8qJbh11QoPhP31kW7n0WpVsl/NxYuO+eYsb5kjDyNzVhunhjErKlwu6Pghf2WF+veeXcOIB0+gkAjCp1uIvh2fWWhZpCtPMjDXGVBLUY85jto7F4vz0onifBAhQ9iZo1LD68uZVAK5YL1w4uzrjxQ7wLrmQ+LSTaa9S85GcqqH+Uczq3Cua3iB4vFHSPGIN+MivksSVbl4gx6WbL8iveexaY3lHRNx9iWl2wL2Szf8jU5heaF4eOuZpQy9H5+ul8e6H"
 }

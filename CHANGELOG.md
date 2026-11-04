@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.38.0 | Tela Nucleo Neural na COLMEIA: fluxo animado em camadas c... | 04/11/2026
+
+- **Melhoria**: Tela Nucleo Neural na COLMEIA: fluxo animado em camadas com termos e numeros reais.
+
 ## Versão 4.37.0 | Camada 2: conhecimento conectado (sintese de varios conhe... | 03/11/2026
 
 - **Melhoria**: Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs.

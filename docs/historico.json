@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.38.0",
+        "Data":  "2026-11-04 00:08",
+        "Titulo":  "Tela Nucleo Neural na COLMEIA: fluxo animado em camadas c...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela Nucleo Neural na COLMEIA: fluxo animado em camadas com termos e numeros reais."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.37.0",
         "Data":  "2026-11-03 23:30",
         "Titulo":  "Camada 2: conhecimento conectado (sintese de varios conhe...",
