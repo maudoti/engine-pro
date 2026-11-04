@@ -1,33 +1,28 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  711,
+    "Conhecimentos":  713,
     "Pesquisas":  1817,
     "N48":  1059,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 01:17:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como limpar o cache do novo Microsoft Teams para corrigir falhas de login e t...",
+                         "Data":  "2026-11-04 01:28:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como restaurar itens excluídos da lixeira do SharePoint e da lixeira de segun...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 01:17:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o acesso negado no SharePoint causado por quebra de herança de...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 01:17:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Teams que não detecta microfone ou alto-falante após atualiza...",
+                         "Data":  "2026-11-04 01:28:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a falha de atualização do Windows com código 0x80070002 durante...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 88 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-04 01:17:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como limpar o cache do novo Microsoft Teams para corrigir falhas de login e t...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-04 01:16:49",
@@ -70,9 +65,9 @@
                   24,
                   20,
                   14,
-                  47,
-                  54,
-                  58,
+                  65,
+                  59,
+                  35,
                   13,
                   25,
                   16,
@@ -101,6 +96,6 @@
                   76
               ],
     "Ultima":  "2026-11-04 01:16:49",
-    "Gerado":  "2026-11-04 01:27:04",
-    "Data":  "2026-11-04 01:27"
+    "Gerado":  "2026-11-04 01:37:04",
+    "Data":  "2026-11-04 01:37"
 }
