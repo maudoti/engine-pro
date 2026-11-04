@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.1 | Instalador confia no certificado antes de copiar os scripts | 04/11/2026
+
+- **Melhoria**: Instalador confia no certificado antes de copiar os scripts.
+
 ## Versão 4.42.0 | Assinatura de codigo ponta a ponta e varredura OneDrive | 04/11/2026
 
 - **Melhoria**: Assinatura de codigo ponta a ponta e varredura OneDrive.

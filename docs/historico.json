@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.1",
+        "Data":  "2026-11-04 11:44",
+        "Titulo":  "Instalador confia no certificado antes de copiar os scripts",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instalador confia no certificado antes de copiar os scripts."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.0",
         "Data":  "2026-11-04 11:26",
         "Titulo":  "Assinatura de codigo ponta a ponta e varredura OneDrive",
