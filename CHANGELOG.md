@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.33.8 | Estacoes: ligada com aviso serio mostra bolinha verde + t... | 03/11/2026
+
+- **Melhoria**: Estacoes: ligada com aviso serio mostra bolinha verde + triangulo ao lado.
+
 ## Versão 4.33.7 | Estacoes: ligada mostra bolinha verde sempre | 03/11/2026
 
 - **Melhoria**: Estacoes: ligada mostra bolinha verde sempre.

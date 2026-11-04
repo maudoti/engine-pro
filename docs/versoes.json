@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.33.8",
+        "Data":  "2026-11-03 21:56",
+        "Notas":  "Estacoes: ligada com aviso serio mostra bolinha verde + triangulo ao lado",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.33.8/EnginePro_Setup_4.33.8.exe"
+    },
+    {
         "Versao":  "4.33.7",
         "Data":  "2026-11-03 21:44",
         "Notas":  "Estacoes: ligada mostra bolinha verde sempre; triangulo so para desligada com risco grave",
