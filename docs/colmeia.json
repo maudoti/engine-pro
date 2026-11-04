@@ -1,12 +1,22 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  727,
-    "Pesquisas":  2144,
-    "N48":  1096,
+    "Pesquisas":  2148,
+    "N48":  1100,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-04 19:56:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-04 18:53:39",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 1 arquivo(s) por causa do caminho longo",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
                          "Nivel":  "ok"
                      },
                      {
@@ -16,18 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 415 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 419 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 17:53:34",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000141 (VIDEO_ENGINE_TIMEOUT_DETECTED) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 17:49:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 13:48:05",
@@ -49,10 +54,10 @@
                   14,
                   79,
                   62,
-                  18,
-                  13,
+                  31,
                   25,
                   16,
+                  0,
                   18,
                   17,
                   28,
@@ -73,14 +78,14 @@
                   4,
                   8,
                   14,
-                  8,
-                  60,
+                  22,
+                  46,
                   61,
                   33,
-                  27,
-                  26,
-                  38,
-                  26,
+                  31,
+                  34,
+                  34,
+                  18,
                   8,
                   13,
                   29,
@@ -91,11 +96,11 @@
                   12,
                   12,
                   12,
-                  0,
                   12,
-                  9
+                  9,
+                  4
               ],
-    "Ultima":  "2026-11-04 18:53:26",
-    "Gerado":  "2026-11-04 19:47:03",
-    "Data":  "2026-11-04 19:47"
+    "Ultima":  "2026-11-04 19:56:32",
+    "Gerado":  "2026-11-04 19:57:03",
+    "Data":  "2026-11-04 19:57"
 }
