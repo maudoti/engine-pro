@@ -1,12 +1,22 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  726,
-    "Pesquisas":  1869,
-    "N48":  1087,
+    "Pesquisas":  1877,
+    "N48":  1095,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-04 03:04:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-04 02:44:50",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
                          "Nivel":  "ok"
                      },
                      {
@@ -16,8 +26,8 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 148 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 02:23:24",
@@ -25,19 +35,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 140 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-04 02:23:24",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar memória defeituosa com o Diagnóstico de Memória do Windows...",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 01:40:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 61 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 01:13",
@@ -56,7 +56,6 @@
                   15,
                   12,
                   12,
-                  0,
                   12,
                   12,
                   21,
@@ -66,41 +65,42 @@
                   18,
                   25,
                   14,
-                  24,
-                  20,
-                  14,
-                  79,
+                  1,
+                  43,
+                  0,
+                  37,
+                  56,
                   62,
                   31,
                   25,
                   16,
-                  0,
                   18,
                   17,
                   28,
                   26,
                   27,
-                  16,
-                  17,
+                  0,
+                  33,
                   15,
                   27,
                   29,
+                  0,
                   28,
                   30,
                   24,
                   41,
                   17,
-                  36,
-                  10,
+                  46,
                   4,
                   8,
                   14,
-                  22,
-                  46,
-                  61,
-                  33
+                  8,
+                  14,
+                  60,
+                  63,
+                  25
               ],
-    "Ultima":  "2026-11-04 02:44:26",
-    "Gerado":  "2026-11-04 02:57:04",
-    "Data":  "2026-11-04 02:57"
+    "Ultima":  "2026-11-04 03:04:30",
+    "Gerado":  "2026-11-04 03:07:04",
+    "Data":  "2026-11-04 03:07"
 }
