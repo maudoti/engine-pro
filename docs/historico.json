@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.38.1",
+        "Data":  "2026-11-04 00:21",
+        "Titulo":  "Semeador: um tema por pergunta (sem bloco gigante)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Semeador: um tema por pergunta (sem bloco gigante)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Descarta blocos no estoque."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.38.0",
         "Data":  "2026-11-04 00:08",
         "Titulo":  "Tela Nucleo Neural na COLMEIA: fluxo animado em camadas c...",

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.38.1 | Semeador: um tema por pergunta (sem bloco gigante) | 04/11/2026
+
+- **Melhoria**: Semeador: um tema por pergunta (sem bloco gigante).
+- **Melhoria**: Descarta blocos no estoque.
+
 ## Versão 4.38.0 | Tela Nucleo Neural na COLMEIA: fluxo animado em camadas c... | 04/11/2026
 
 - **Melhoria**: Tela Nucleo Neural na COLMEIA: fluxo animado em camadas com termos e numeros reais.

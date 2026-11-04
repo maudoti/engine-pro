@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.38.0",
-    "Instalador":  "EnginePro_Setup_4.38.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.0/EnginePro_Setup_4.38.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.0/EnginePro_Setup_4.38.0.exe.gz",
-    "SHA256":  "AAB50110E4A57ECA8C9E4873C9A436F280F82A890B2794892EC2B8B793D339EA",
-    "Data":  "2026-11-04 00:08",
-    "Notas":  "Tela Nucleo Neural na COLMEIA: fluxo animado em camadas com termos e numeros reais",
-    "Assinatura":  "QXijPZXTMaQ62J/uP8YfWoievcZaMtNIVvOi1LIE4NFAmWG/U98S/wNucDaxNmpLk4zXRn2dtAQK6ErXCYP+sHW5tBgf+4AOm6QKmRkXa1ZJXznY4vR/RXpw8dZxP2OJQlKlK/EGEpwcPPdxronZewQ/n8Q08jPcFIFiNFRVYxp3JvSq1r7aLP3JIa4hjn+6Rf7bOLTUP802FMZYibn2VuxZg5EqoIjHeJSeqvFVl5D7zNWGMr7h+HkGv8nHa8qJbh11QoPhP31kW7n0WpVsl/NxYuO+eYsb5kjDyNzVhunhjErKlwu6Pghf2WF+veeXcOIB0+gkAjCp1uIvh2fWWhZpCtPMjDXGVBLUY85jto7F4vz0onifBAhQ9iZo1LD68uZVAK5YL1w4uzrjxQ7wLrmQ+LSTaa9S85GcqqH+Uczq3Cua3iB4vFHSPGIN+MivksSVbl4gx6WbL8iveexaY3lHRNx9iWl2wL2Szf8jU5heaF4eOuZpQy9H5+ul8e6H"
+    "Versao":  "4.38.1",
+    "Instalador":  "EnginePro_Setup_4.38.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.1/EnginePro_Setup_4.38.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.1/EnginePro_Setup_4.38.1.exe.gz",
+    "SHA256":  "ADF76D5BE8956E38179279D281D77F6E89B7125081E99364BC9C041C74A69C8D",
+    "Data":  "2026-11-04 00:21",
+    "Notas":  "Semeador: um tema por pergunta (sem bloco gigante); descarta blocos no estoque",
+    "Assinatura":  "s9DWs0t+gUH21aL1eyElFGFKpagUsIC8oXiSg/Klf28JKuvIW0A57cxlM2azbI22zoif5zdZDwXyRlbUngbjGrs3xjddhAam7aT2KelJRos5vAUql6Z78I34v2u7UVZU1Tpir/0kXzPurgZqq/zq+iodUewwRFGpUeFQSz6XSoXYrgL2FYZEuB0VNA2O2EN05ThFiqXF+0MVBeoBzMGIeU8unR5Y7WPOweEUuhq+w41kQollLlMUeLOiOjRYN11ekeUQJiAg0rEHjg5TMSCwxVIgOeh6PS7cpqiLMxCMXdF7nKvk/+cgI3P/fQEvtcVazsHKlyP3P5rINTtr19xV8BWx+5neJOKrXDW96Vamsw+qiv5FT/ojZ+iKSwtynudmqeDP9yJeBw+E7Pd8dqfwAkZhIwR+wY8IDkqz6Kdsdw1lsg5jXiuXefujvo5z0VSj100TIVtsUm5Q+g7jMn4JS66O69NkiaTPC0PBGmV9wYYmccypeAeKG50jM6c7f15N"
 }
