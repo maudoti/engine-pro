@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.36.0",
+        "Data":  "2026-11-03 23:19",
+        "Notas":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.36.0/EnginePro_Setup_4.36.0.exe"
+    },
+    {
+        "Versao":  "4.36.0",
         "Data":  "2026-11-03 23:10",
         "Notas":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h",
         "Canal":  "teste",

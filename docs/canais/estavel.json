@@ -1,9 +1,10 @@
 {
-    "Versao":  "4.5.128",
-    "Instalador":  "EnginePro_Setup_4.5.128.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.5.128/EnginePro_Setup_4.5.128.exe",
-    "SHA256":  "39C63282709B6AAD83B59CCBEECE4872439B1391B3AF9A6924BAB1E3946F8A15",
-    "Data":  "2026-10-31 17:51",
-    "Notas":  "COLMEIA: opinião de outra IA na hora; Melhoria: ajustes internos de estabilidade",
-    "Assinatura":  "rv1wZSGKP0AYqFCICNkcSYcW1hK7WyPfraOPr9Lr/Y7UI/D5YFdG+qPJxspxNb3gWvA8DHo4A4ciCuQW2+bmDYNZ5IHSqFzSusj4sAMvbrh1Br+wjazqasbbPpgYbR3YENCkX8VdHcnk2pUMoyYD0wGAXJXU+T0WkF/KSGKPSTwLx/IUNCqsO4b+KbJ5ohVV/i5fomJdq247o1THtiTBRzqYeeiEjSZJvO7c7Am8TRSznTf0GNZcWd62K1OpIcqx1ZBKuKpNfxq/KyAnl/99BgX8cH32+bHcj4s17CDIYLGqW74NcrVyzhIo300YEw8fizbnvgPH4MYik4G9mYBGvLB+NjQjaBYT0oawEyM5robVXT9e59VlXSia1M58PivfWyGlxIrzyxVJMA6dSL1V/ajZImzXzfXihCLMisTm0vs1jEmyTjo3pdHTHeY2a+lVKhBCwiV/PFoop25ihTDHCBoCH3xHGvFH4gEPJLOUn/3ukM6ksMnZNhKeEhZVZtO1"
+    "Versao":  "4.36.0",
+    "Instalador":  "EnginePro_Setup_4.36.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.36.0/EnginePro_Setup_4.36.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.36.0/EnginePro_Setup_4.36.0.exe.gz",
+    "SHA256":  "F127F3EB6F8312EBDF04A74EE3DDCC15EDFF5289D3699A74404AC3A661B81A27",
+    "Data":  "2026-11-03 23:10",
+    "Notas":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h",
+    "Assinatura":  "QYVAFWwpwW+vz/EII2SqXD6rNA5zR5Vc5FiF618ldnwxBGtGEId2tpr6E5A0GdrCi86TMxNSHvMv23I3macXy25Enzky8XTsd6tejxldmXGZxUDJNnOzVuhL1lCevTCt9gzQV3uEgbhXGEr9jc7zKG6o2e6JVMOTJn26BiPhoG0WrKzqSt4MVqnn+8W4cI8ODAtZmHUdx41glDFbr9wDkUIlnGRlBr0fc8cRX6tljvekisON4ll+UBnP9GomZelQfcD74LT94vO0jDCwioIeh7KrJmSInJEoJmT+Gg4YbOcnxtVaVqTAIicTs8QYulWI9z4MX0XH0v387mBn2B01odAeiq3PRulofV+G9xxfuWf+7iL62N/jV4j233UkzHzE3IGHm5wb5Yj9v6CwCwsE7QxjduU1bEMvAdiRVBGWmDUbUOiRceJyqFNgwnV4ItJnY+PVStZQxcOFhrR1UTjEGI+WptT/4/zYIoRIMVGAhMXyYJHFaInC20S1gbxa0N+w"
 }
