@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  723,
-    "Pesquisas":  1852,
-    "N48":  1082,
+    "Conhecimentos":  725,
+    "Pesquisas":  1859,
+    "N48":  1089,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 02:02:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4625 e identificar tentativas de logon com falha?",
+                         "Data":  "2026-11-04 02:23:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar memória defeituosa com o Diagnóstico de Memória do Windows...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 02:02:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver falhas de DNS com ipconfig /flushdns, renovação de IP e correçã...",
+                         "Data":  "2026-11-04 02:23:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a conta Microsoft 365 bloqueada por MFA quando o usuário perdeu...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 02:02:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que uma impressora de rede aparece offline e como corrigir a porta WSD ou...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-04 02:23:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 123 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 130 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-04 02:02:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-04 02:02:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4625 e identificar tentativas de logon com falha?",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-04 01:40:50",
@@ -70,9 +70,9 @@
                   20,
                   14,
                   47,
-                  49,
-                  45,
-                  31,
+                  54,
+                  58,
+                  13,
                   25,
                   16,
                   18,
@@ -87,20 +87,20 @@
                   29,
                   28,
                   30,
-                  20,
-                  8,
-                  37,
+                  24,
+                  41,
                   17,
-                  46,
+                  36,
+                  10,
                   4,
                   8,
                   14,
                   8,
                   26,
                   76,
-                  35
+                  42
               ],
-    "Ultima":  "2026-11-04 02:02:07",
-    "Gerado":  "2026-11-04 02:17:04",
-    "Data":  "2026-11-04 02:17"
+    "Ultima":  "2026-11-04 02:23:02",
+    "Gerado":  "2026-11-04 02:27:04",
+    "Data":  "2026-11-04 02:27"
 }
