@@ -5,13 +5,13 @@
     "N48":  1029,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 00:39:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Outlook travado em \u0027Processando\u0027 ao abrir por causa de perfil...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-04 00:46",
+                         "Texto":  "Nova versão 4.40.1 publicada: Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 00:39:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro \u0027O formato do arquivo não é válido\u0027 ao abrir uma planilh...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Outlook travado em \u0027Processando\u0027 ao abrir por causa de perfil...",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,13 +21,18 @@
                      },
                      {
                          "Data":  "2026-11-04 00:39:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reparar um arquivo PST corrompido com a ferramenta ScanPST?",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro \u0027O formato do arquivo não é válido\u0027 ao abrir uma planilh...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 46 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-04 00:39:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reparar um arquivo PST corrompido com a ferramenta ScanPST?",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-04 00:39:21",
@@ -38,19 +43,14 @@
                          "Data":  "2026-11-03 23:56:39",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-03 23:32",
-                         "Texto":  "Nova versão 4.37.0 publicada: Camada 2: conhecimento conectado (sintese de varios conhecimentos) com auto-aprovacao 90%+ e duas IAs",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
                   12,
                   24,
                   12,
-                  0,
-                  12,
+                  4,
+                  8,
                   15,
                   12,
                   12,
@@ -96,6 +96,6 @@
                   60
               ],
     "Ultima":  "2026-11-04 00:39:21",
-    "Gerado":  "2026-11-04 00:46:32",
-    "Data":  "2026-11-04 00:46"
+    "Gerado":  "2026-11-04 00:47:05",
+    "Data":  "2026-11-04 00:47"
 }
