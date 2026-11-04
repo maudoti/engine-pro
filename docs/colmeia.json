@@ -5,13 +5,13 @@
     "N48":  1160,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 13:38:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-04 13:48:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000113 (VIDEO_DXGKRNL_FATAL_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 12:21:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 9 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-04 13:38:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 11:45",
-                         "Texto":  "Nova versão 4.42.1 publicada: Instalador confia no certificado antes de copiar os scripts",
+                         "Data":  "2026-11-04 12:21:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 9 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 358 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-04 11:45",
+                         "Texto":  "Nova versão 4.42.1 publicada: Instalador confia no certificado antes de copiar os scripts",
                          "Nivel":  "info"
                      },
                      {
@@ -37,11 +42,6 @@
                      {
                          "Data":  "2026-11-04 06:17:01",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000CE (DRIVER_UNLOADED_WITHOUT_CANCELLING_PENDING_OPERATI...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-04 05:13:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -60,10 +60,10 @@
                   14,
                   79,
                   62,
-                  18,
-                  13,
+                  31,
                   25,
                   16,
+                  0,
                   18,
                   17,
                   28,
@@ -84,14 +84,14 @@
                   4,
                   8,
                   14,
-                  8,
-                  60,
+                  22,
+                  46,
                   61,
                   33,
-                  27,
-                  26,
-                  38,
-                  26,
+                  31,
+                  34,
+                  34,
+                  18,
                   8,
                   13,
                   29,
@@ -101,6 +101,6 @@
                   21
               ],
     "Ultima":  "2026-11-04 13:38:58",
-    "Gerado":  "2026-11-04 13:47:03",
-    "Data":  "2026-11-04 13:47"
+    "Gerado":  "2026-11-04 13:57:03",
+    "Data":  "2026-11-04 13:57"
 }
