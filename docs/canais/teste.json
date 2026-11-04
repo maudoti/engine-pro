@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.35.0",
-    "Instalador":  "EnginePro_Setup_4.35.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.35.0/EnginePro_Setup_4.35.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.35.0/EnginePro_Setup_4.35.0.exe.gz",
-    "SHA256":  "58B62DC758904BA4950AAE1BD1570C99EE4F4263B01C910DA0DB944FEF561143",
-    "Data":  "2026-11-03 22:22",
-    "Notas":  "Botao Estatisticas na fila da COLMEIA: contadores de aprovados, recusados, desempates do Claude, estudos a fundo e correcoes produtivas",
-    "Assinatura":  "Lezjpwxn1t+0jGOf+p5Hbv9fFYKyWOs/6oJGy5RjU6nUEt78OBN1yoPmjCs9qIVEx3WnCCTDKnSE3lx4FA5MGuh2Kg76f8W00j9eRHK/wsH/v11N2EAJ0cVcmM6hfzIwThDGhz0Y6g5Gmlx1HKqZoxvy/OXwfXmJOzNVeZA8u4wXaG8ktVah85Vf8H5vvVDsmUgIcIyhzcgelHWEwKD9O+n9lyTUzH0FO6unP5aVCnflOwvdT9Sp74Wj985HJWllZXWrsXp62u4Unp7vtKPMYMn6ZWWBKvUsA0xNPsysPVTSNjT/gKhQcvfOou6ssz3kNVa+j0q20meTH9lUjQFliKspGjkDni6y1/jK2I21SFshcWlnNcaK13ao7Hir1xoKL/3/w3pJwAQD8WSRb4/4mkhtQh1+KcWbhEgqCTlNt1864c4ra0FuFGAtJcbxZd1NrqBDGiVGPLJI4O7n7SDM1zgSsCbJ68cds5dC6IA+3fpO50d4v7jqPdF9bc1YwQoL"
+    "Versao":  "4.36.0",
+    "Instalador":  "EnginePro_Setup_4.36.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.36.0/EnginePro_Setup_4.36.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.36.0/EnginePro_Setup_4.36.0.exe.gz",
+    "SHA256":  "F127F3EB6F8312EBDF04A74EE3DDCC15EDFF5289D3699A74404AC3A661B81A27",
+    "Data":  "2026-11-03 23:10",
+    "Notas":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h",
+    "Assinatura":  "QYVAFWwpwW+vz/EII2SqXD6rNA5zR5Vc5FiF618ldnwxBGtGEId2tpr6E5A0GdrCi86TMxNSHvMv23I3macXy25Enzky8XTsd6tejxldmXGZxUDJNnOzVuhL1lCevTCt9gzQV3uEgbhXGEr9jc7zKG6o2e6JVMOTJn26BiPhoG0WrKzqSt4MVqnn+8W4cI8ODAtZmHUdx41glDFbr9wDkUIlnGRlBr0fc8cRX6tljvekisON4ll+UBnP9GomZelQfcD74LT94vO0jDCwioIeh7KrJmSInJEoJmT+Gg4YbOcnxtVaVqTAIicTs8QYulWI9z4MX0XH0v387mBn2B01odAeiq3PRulofV+G9xxfuWf+7iL62N/jV4j233UkzHzE3IGHm5wb5Yj9v6CwCwsE7QxjduU1bEMvAdiRVBGWmDUbUOiRceJyqFNgwnV4ItJnY+PVStZQxcOFhrR1UTjEGI+WptT/4/zYIoRIMVGAhMXyYJHFaInC20S1gbxa0N+w"
 }

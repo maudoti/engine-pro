@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.36.0",
+        "Data":  "2026-11-03 23:10",
+        "Titulo":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.35.0",
         "Data":  "2026-11-03 22:22",
         "Titulo":  "Botao Estatisticas na fila da COLMEIA: contadores de apro...",

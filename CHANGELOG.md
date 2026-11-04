@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.36.0 | COLMEIA: semeador de temas pelo Claude (fonte infinita), ... | 03/11/2026
+
+- **Melhoria**: COLMEIA: semeador de temas pelo Claude (fonte infinita), 8 temas por rodada e modo madrugada 0h-7h.
+
 ## Versão 4.35.0 | Botao Estatisticas na fila da COLMEIA: contadores de apro... | 03/11/2026
 
 - **Melhoria**: Botao Estatisticas na fila da COLMEIA: contadores de aprovados, recusados, desempates do Claude, estudos a fundo e correcoes produtivas.
