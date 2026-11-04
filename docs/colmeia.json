@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  705,
-    "Pesquisas":  1789,
-    "N48":  1031,
+    "Pesquisas":  1817,
+    "N48":  1059,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-04 01:02:10",
-                         "Texto":  "A base da COLMEIA passou de 700 aprendizados",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-04 01:16:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 42 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-04 01:02:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-04 01:13",
+                         "Texto":  "Nova versão 4.41.0 publicada: Kit 285: varredura SharePoint/OneDrive lista arquivos de 0 bytes e atalhos quebrados, com sugestao de correcao (so leitura)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 01:02:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como evitar que a numeração de listas do Word reinicie ao colar conteúdo de o...",
+                         "Data":  "2026-11-04 01:02:10",
+                         "Texto":  "A base da COLMEIA passou de 700 aprendizados",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 60 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 88 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -35,14 +35,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 01:01:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-04 01:02:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-04 00:46",
-                         "Texto":  "Nova versão 4.40.1 publicada: Aviso do ESET CMD some rapido apos ligar (re-tenta a cada 1h enquanto o aviso esta no ar",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-04 01:02:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como evitar que a numeração de listas do Word reinicie ao colar conteúdo de o...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-04 00:39:21",
@@ -70,9 +70,9 @@
                   24,
                   20,
                   14,
-                  23,
-                  56,
-                  62,
+                  47,
+                  49,
+                  45,
                   31,
                   25,
                   16,
@@ -87,20 +87,20 @@
                   27,
                   29,
                   28,
+                  30,
                   20,
-                  10,
-                  24,
-                  41,
+                  8,
+                  37,
                   17,
                   46,
                   4,
                   8,
                   14,
                   8,
-                  18,
-                  56
+                  26,
+                  76
               ],
-    "Ultima":  "2026-11-04 01:01:36",
-    "Gerado":  "2026-11-04 01:12:01",
-    "Data":  "2026-11-04 01:12"
+    "Ultima":  "2026-11-04 01:16:49",
+    "Gerado":  "2026-11-04 01:17:03",
+    "Data":  "2026-11-04 01:17"
 }
