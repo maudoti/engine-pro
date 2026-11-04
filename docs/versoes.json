@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.39.0",
+        "Data":  "2026-11-04 00:25",
+        "Notas":  "Favos da COLMEIA reagem a consolidacao da base; nucleo pulsando; termo verificacao adversarial no texto",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.39.0/EnginePro_Setup_4.39.0.exe"
+    },
+    {
         "Versao":  "4.38.1",
         "Data":  "2026-11-04 00:21",
         "Notas":  "Semeador: um tema por pergunta (sem bloco gigante); descarta blocos no estoque",

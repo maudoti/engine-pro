@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.39.0 | Favos da COLMEIA reagem a consolidacao da base | 04/11/2026
+
+- **Melhoria**: Favos da COLMEIA reagem a consolidacao da base.
+- **Melhoria**: Nucleo pulsando.
+- **Melhoria**: Termo verificacao adversarial no texto.
+
 ## Versão 4.38.1 | Semeador: um tema por pergunta (sem bloco gigante) | 04/11/2026
 
 - **Melhoria**: Semeador: um tema por pergunta (sem bloco gigante).

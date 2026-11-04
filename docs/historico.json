@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.39.0",
+        "Data":  "2026-11-04 00:25",
+        "Titulo":  "Favos da COLMEIA reagem a consolidacao da base",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Favos da COLMEIA reagem a consolidacao da base."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nucleo pulsando."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Termo verificacao adversarial no texto."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.38.1",
         "Data":  "2026-11-04 00:21",
         "Titulo":  "Semeador: um tema por pergunta (sem bloco gigante)",

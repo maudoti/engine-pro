@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.38.1",
-    "Instalador":  "EnginePro_Setup_4.38.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.1/EnginePro_Setup_4.38.1.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.38.1/EnginePro_Setup_4.38.1.exe.gz",
-    "SHA256":  "ADF76D5BE8956E38179279D281D77F6E89B7125081E99364BC9C041C74A69C8D",
-    "Data":  "2026-11-04 00:21",
-    "Notas":  "Semeador: um tema por pergunta (sem bloco gigante); descarta blocos no estoque",
-    "Assinatura":  "s9DWs0t+gUH21aL1eyElFGFKpagUsIC8oXiSg/Klf28JKuvIW0A57cxlM2azbI22zoif5zdZDwXyRlbUngbjGrs3xjddhAam7aT2KelJRos5vAUql6Z78I34v2u7UVZU1Tpir/0kXzPurgZqq/zq+iodUewwRFGpUeFQSz6XSoXYrgL2FYZEuB0VNA2O2EN05ThFiqXF+0MVBeoBzMGIeU8unR5Y7WPOweEUuhq+w41kQollLlMUeLOiOjRYN11ekeUQJiAg0rEHjg5TMSCwxVIgOeh6PS7cpqiLMxCMXdF7nKvk/+cgI3P/fQEvtcVazsHKlyP3P5rINTtr19xV8BWx+5neJOKrXDW96Vamsw+qiv5FT/ojZ+iKSwtynudmqeDP9yJeBw+E7Pd8dqfwAkZhIwR+wY8IDkqz6Kdsdw1lsg5jXiuXefujvo5z0VSj100TIVtsUm5Q+g7jMn4JS66O69NkiaTPC0PBGmV9wYYmccypeAeKG50jM6c7f15N"
+    "Versao":  "4.39.0",
+    "Instalador":  "EnginePro_Setup_4.39.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.39.0/EnginePro_Setup_4.39.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.39.0/EnginePro_Setup_4.39.0.exe.gz",
+    "SHA256":  "1DB5AE3F0B4C3CC8F691B3D6FE85D5C321AD918CE7C9AC382F435E6582EAAA6D",
+    "Data":  "2026-11-04 00:25",
+    "Notas":  "Favos da COLMEIA reagem a consolidacao da base; nucleo pulsando; termo verificacao adversarial no texto",
+    "Assinatura":  "tgLSOP++Iiv9DM+a819/R5AL4/iGV40huf/TS2qRlMPKB0Ns1HOpHk+EXYL8+f5KkHByqMDDZpkc0TVzBv35t3n84k2Dn2bf0N+my7agTljS8hbJaO44d461HhC5ob+cukvUoEoCkodpcikWC4idGN8whMgClaTDM4xrWVnRayVtpemudpBEqoSVl8pCJKXn0HrqzTuJ0qtjxz1io6AAfv6W1+F1hlAoCnElJn1lZaqzZ7PmvMu4c7FV8irMwpZ3Dunx1Tx+0AJSYP2efU6LC/j4jNnW6h2PCZQtHhbL5iN760WSnXZuGNvApSngImdV7INC+pIR5T1OpcXMn9vQkxRA+iLspP6YjMpSiw5yuWs7fR+gJOAw6YqyJUmGgk7nr1X0p6oj/5yMFQrzIYewyp1PPbDAvL35av3Wiixm+JNKaxCdWW2p2vfOmRRlXVzf/SgnH4A3LRa/0R9K4tFB9gG4VM7HfE47osW51CcGoDDgLGmxL428LAT2hoSj1a9a"
 }
