@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.41.0",
-    "Instalador":  "EnginePro_Setup_4.41.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.41.0/EnginePro_Setup_4.41.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.41.0/EnginePro_Setup_4.41.0.exe.gz",
-    "SHA256":  "22AA74C99A3F798E4F17DC29B4FEDC68EBEEB127358F4439AEC37F70F0A502DC",
-    "Data":  "2026-11-04 01:12",
-    "Notas":  "Kit 285: varredura SharePoint/OneDrive lista arquivos de 0 bytes e atalhos quebrados, com sugestao de correcao (so leitura)",
-    "Assinatura":  "uWU5GDj/Tr2hghzKC5K8Gq8IbZjOHGNEILZQOU6NCOo24JCJw5vS8ffHFv/sLpys1RnB1BNSKYVw8MEFb9iuUW1dMOq0duszygd2a7QFYgDFKZL+70QVX4OT4SMlw35JTWA14ki26UthbePdfo6bVENlCPPCEEZOkHm1hGQVSsPFAs6SbfmnB+7LWdvFY0klnCmLl9cbtQeLpNb5HzMa6p4OMvacslINsI4TZqJDI+8/IjsytRd1Qna96RC9udWkyceyr8UvimoIHRR/fa8+JQPxYNP1aAOwHZPQjYjm7RqKLIpRu4p1SFfmbmIeatppr0rYaY3vaB5F4mTJ2LnffxoqWw+9NTuo3nKFMAa+cqazaMOWeOg+KzHrRDfEUdV2CXdy10xobajGb7ynINEtaFNggDtWvPp4IbWk2wA/7Qme3S6RwLPeQpjTtDJ7P/V6KzHgoY+T5HS4/z67vl6qcs6xP6RSyMcqM/5jF11kYEJ9CNh08MGmM8/GzLJ+Rw8c"
+    "Versao":  "4.42.0",
+    "Instalador":  "EnginePro_Setup_4.42.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.0/EnginePro_Setup_4.42.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.0/EnginePro_Setup_4.42.0.exe.gz",
+    "SHA256":  "0CABD52F6EA13BC2926D18B53EFB9DE2FAED47E29781AB2C1CDE93CE8A20DEC6",
+    "Data":  "2026-11-04 11:26",
+    "Notas":  "Assinatura de codigo ponta a ponta e varredura OneDrive",
+    "Assinatura":  "X4ntQnCxesVm3FG0lkDU96OyenKA6f2LxrFn5E0dMJFEFxoJ87XtLVaYVTkWcmgGd2UY22tY6LgzEp9jE2E3LUEaP7oXaHtZ7D9TZQtx7o3QdGdZgNw4J14EZlN1xb5hLFsL6xANQ9Cmy01c1YHH5WNaZQxb70Y3hlp6HPRJQNdg2EOMq0+rI7VDToJHKU9hVF3CAkLJHgOP7REFKuFRbgcWvGUt9MUJv+P7L32BOnK2YwQXjyK0qYyKjJt5RDdjvgGPIH1XURe4HgctVOZOOY2XLw/YuRcf/2SMN4LbvkAMPQGtuq4KC5MVMMQdmy0u5dIwTAyo45TXG6/xNPRh7pIwuBcSwNr7yGI2C9mkpFqtRI0ehy4KKKYgU8Dc3Mmg1mfo4W+tAnuQ2tu8xiaKRWMbiKgwpSbGLWLnyV34KBBXZvB8B4l7Jy+TyeG/kql4CqS3zndVBDa8NivDXV+WRk67DqqfRbwAuqkFDCZ8dAu2ONYKAieb2eYVcA8ItMJI"
 }
