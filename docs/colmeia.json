@@ -5,13 +5,13 @@
     "N48":  930,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 16:25:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-05 16:34:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE40 (ONEDRIVE_CONNECTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 15:18",
-                         "Texto":  "Nova versão 4.42.6 publicada: Instalacao via GPO",
+                         "Data":  "2026-11-05 16:25:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 15:17:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-05 15:18",
+                         "Texto":  "Nova versão 4.42.6 publicada: Instalacao via GPO",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 364 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-05 15:17:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -37,11 +42,6 @@
                      {
                          "Data":  "2026-11-05 13:22:28",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070043 (ERROR_BAD_NET_NAME) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-05 10:58:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x887A0006 (DXGI_ERROR_DEVICE_HUNG) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -62,17 +62,17 @@
                   76,
                   42,
                   28,
-                  24,
                   35,
-                  34,
-                  14,
+                  38,
+                  26,
+                  8,
                   13,
                   22,
                   7,
                   21,
                   9,
-                  12,
-                  9,
+                  17,
+                  4,
                   12,
                   12,
                   12,
@@ -82,11 +82,11 @@
                   12,
                   12,
                   12,
-                  12,
-                  60,
-                  35,
-                  40,
-                  30,
+                  33,
+                  39,
+                  47,
+                  34,
+                  24,
                   30,
                   35,
                   20,
@@ -101,6 +101,6 @@
                   16
               ],
     "Ultima":  "2026-11-05 16:25:27",
-    "Gerado":  "2026-11-05 16:27:04",
-    "Data":  "2026-11-05 16:27"
+    "Gerado":  "2026-11-05 16:37:04",
+    "Data":  "2026-11-05 16:37"
 }
