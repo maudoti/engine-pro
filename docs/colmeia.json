@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2361,
-    "N48":  1051,
+    "Pesquisas":  2368,
+    "N48":  1058,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 04:19:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-05 04:40:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 03:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 04:39:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,12 +21,12 @@
                      },
                      {
                          "Data":  "2026-11-05 03:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024200B (WU_E_UH_INSTALLERFAILURE) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 177 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 184 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -70,37 +70,37 @@
                   8,
                   14,
                   8,
+                  60,
+                  61,
+                  33,
+                  27,
                   26,
-                  76,
-                  42,
-                  28,
-                  35,
                   38,
                   26,
                   8,
                   13,
-                  22,
-                  7,
-                  21,
-                  9,
+                  29,
                   17,
                   4,
+                  9,
+                  21,
                   12,
                   12,
                   12,
+                  0,
                   12,
                   9,
                   4,
                   12,
                   12,
                   12,
-                  33,
                   39,
-                  47,
-                  34,
-                  24
+                  49,
+                  31,
+                  37,
+                  28
               ],
-    "Ultima":  "2026-11-05 04:19:05",
-    "Gerado":  "2026-11-05 04:37:04",
-    "Data":  "2026-11-05 04:37"
+    "Ultima":  "2026-11-05 04:39:27",
+    "Gerado":  "2026-11-05 04:47:03",
+    "Data":  "2026-11-05 04:47"
 }
