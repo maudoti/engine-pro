@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.6",
+        "Data":  "2026-11-05 15:18",
+        "Notas":  "Instalacao via GPO",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe"
+    },
+    {
         "Versao":  "4.42.5",
         "Data":  "2026-11-05 15:11",
         "Notas":  "Instalacao via GPO",

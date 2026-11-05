@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.6",
+        "Data":  "2026-11-05 15:18",
+        "Titulo":  "Instalacao via GPO",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instalacao via GPO."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.5",
         "Data":  "2026-11-05 15:11",
         "Titulo":  "Instalacao via GPO",

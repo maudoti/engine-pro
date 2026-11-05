@@ -1,13 +1,23 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2528,
+    "Pesquisas":  2532,
     "N48":  955,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 15:11",
-                         "Texto":  "Nova versão 4.42.5 publicada: Instalacao via GPO",
+                         "Data":  "2026-11-05 15:18",
+                         "Texto":  "Nova versão 4.42.6 publicada: Instalacao via GPO",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-05 15:17:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-05 14:16:02",
@@ -16,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 344 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 348 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -30,11 +40,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 13:14:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-05 10:58:31",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x887A0006 (DXGI_ERROR_DEVICE_HUNG) no Windows",
                          "Nivel":  "ok"
@@ -46,8 +51,8 @@
                      }
                  ],
     "Horas":  [
-                  8,
-                  37,
+                  23,
+                  18,
                   17,
                   46,
                   4,
@@ -65,8 +70,8 @@
                   13,
                   22,
                   7,
-                  17,
-                  4,
+                  21,
+                  0,
                   9,
                   21,
                   12,
@@ -82,8 +87,8 @@
                   42,
                   53,
                   40,
-                  19,
-                  30,
+                  22,
+                  27,
                   34,
                   28,
                   12,
@@ -93,9 +98,9 @@
                   8,
                   22,
                   15,
-                  0
+                  4
               ],
-    "Ultima":  "2026-11-05 14:15:49",
-    "Gerado":  "2026-11-05 15:17:03",
-    "Data":  "2026-11-05 15:17"
+    "Ultima":  "2026-11-05 15:17:26",
+    "Gerado":  "2026-11-05 15:18:34",
+    "Data":  "2026-11-05 15:18"
 }

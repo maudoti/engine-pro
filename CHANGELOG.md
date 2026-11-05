@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.6 | Instalacao via GPO | 05/11/2026
+
+- **Melhoria**: Instalacao via GPO.
+
 ## Versão 4.42.5 | Instalacao via GPO | 05/11/2026
 
 - **Melhoria**: Instalacao via GPO.
