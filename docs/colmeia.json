@@ -2,16 +2,16 @@
     "Resolvidos":  2,
     "Conhecimentos":  728,
     "Pesquisas":  2483,
-    "N48":  1044,
+    "N48":  1017,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-05 10:58:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x887A0006 (DXGI_ERROR_DEVICE_HUNG) no Windows",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-05 10:53:42",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-05 09:56:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 06:24:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000135 (DLL_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 09:56:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,13 +30,13 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-05 05:43:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
+                         "Data":  "2026-11-05 06:24:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000135 (DLL_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 05:22:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
+                         "Data":  "2026-11-05 05:43:08",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,29 +51,29 @@
                      }
                  ],
     "Horas":  [
-                  27,
                   29,
+                  0,
                   28,
                   30,
                   24,
                   41,
                   17,
-                  36,
-                  10,
+                  46,
                   4,
                   8,
                   14,
-                  22,
-                  46,
-                  61,
-                  33,
-                  31,
-                  34,
-                  34,
-                  18,
                   8,
-                  13,
+                  14,
+                  60,
+                  63,
+                  25,
+                  28,
                   29,
+                  34,
+                  26,
+                  13,
+                  13,
+                  16,
                   17,
                   4,
                   9,
@@ -84,23 +84,23 @@
                   12,
                   9,
                   4,
+                  12,
+                  12,
+                  12,
                   0,
-                  12,
-                  12,
-                  12,
-                  39,
-                  55,
-                  37,
-                  25,
-                  28,
-                  33,
+                  54,
+                  40,
                   41,
+                  31,
+                  30,
+                  34,
+                  28,
                   4,
                   8,
                   21,
                   8
               ],
     "Ultima":  "2026-11-05 10:53:42",
-    "Gerado":  "2026-11-05 10:57:03",
-    "Data":  "2026-11-05 10:57"
+    "Gerado":  "2026-11-05 11:07:03",
+    "Data":  "2026-11-05 11:07"
 }
