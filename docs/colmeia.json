@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2368,
-    "N48":  1058,
+    "Pesquisas":  2380,
+    "N48":  1042,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 04:40:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 05:03:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-05 04:39:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-05 05:01:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072EE7 (ERROR_INTERNET_NAME_NOT_RESOLVED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 03:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 04:59:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 184 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 196 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-05 04:40:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-05 03:59:21",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024002E (WU_E_WU_DISABLED) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-05 03:58:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 11:45",
@@ -51,35 +51,35 @@
                      }
                  ],
     "Horas":  [
-                  28,
                   26,
                   27,
-                  16,
-                  17,
+                  0,
+                  33,
                   15,
                   27,
                   29,
+                  0,
                   28,
                   30,
                   24,
                   41,
                   17,
-                  36,
-                  10,
+                  46,
                   4,
                   8,
                   14,
-                  22,
-                  46,
-                  61,
-                  33,
-                  31,
-                  34,
-                  34,
-                  18,
                   8,
-                  13,
+                  14,
+                  60,
+                  63,
+                  25,
+                  28,
                   29,
+                  34,
+                  26,
+                  13,
+                  13,
+                  16,
                   17,
                   4,
                   9,
@@ -90,17 +90,17 @@
                   12,
                   9,
                   4,
+                  12,
+                  12,
+                  12,
                   0,
-                  12,
-                  12,
-                  12,
-                  39,
-                  55,
-                  37,
-                  25,
-                  28
+                  54,
+                  40,
+                  41,
+                  31,
+                  30
               ],
-    "Ultima":  "2026-11-05 04:39:27",
-    "Gerado":  "2026-11-05 04:57:03",
-    "Data":  "2026-11-05 04:57"
+    "Ultima":  "2026-11-05 05:03:04",
+    "Gerado":  "2026-11-05 05:07:03",
+    "Data":  "2026-11-05 05:07"
 }
