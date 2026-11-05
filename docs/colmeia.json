@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  727,
-    "Pesquisas":  2291,
-    "N48":  1016,
+    "Pesquisas":  2303,
+    "N48":  1028,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 02:14:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
+                         "Data":  "2026-11-05 02:35:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 02:13:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-05 02:35:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 01:54:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 40 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-05 02:35:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736B3 (ERROR_SXS_ASSEMBLY_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 107 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 119 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-05 01:21:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 02:34:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-04 20:59:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O arquivo de dados do Outlook continua com 47,47 GB",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 01:54:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 40 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 11:45",
@@ -76,17 +76,17 @@
                   76,
                   42,
                   28,
-                  24,
                   35,
-                  34,
-                  14,
+                  38,
+                  26,
+                  8,
                   13,
                   22,
                   7,
                   21,
                   9,
-                  12,
-                  9,
+                  17,
+                  4,
                   12,
                   12,
                   12,
@@ -96,11 +96,11 @@
                   12,
                   12,
                   12,
-                  12,
-                  60,
-                  35
+                  33,
+                  39,
+                  47
               ],
-    "Ultima":  "2026-11-05 02:13:17",
-    "Gerado":  "2026-11-05 02:27:03",
-    "Data":  "2026-11-05 02:27"
+    "Ultima":  "2026-11-05 02:34:05",
+    "Gerado":  "2026-11-05 02:37:04",
+    "Data":  "2026-11-05 02:37"
 }
