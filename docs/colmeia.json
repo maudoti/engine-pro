@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2350,
-    "N48":  1040,
+    "Pesquisas":  2361,
+    "N48":  1051,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 03:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024002E (WU_E_WU_DISABLED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 04:19:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-05 03:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024200B (WU_E_UH_INSTALLERFAILURE) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,22 +21,22 @@
                      },
                      {
                          "Data":  "2026-11-05 03:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024200B (WU_E_UH_INSTALLERFAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 166 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 177 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-05 03:59:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024002E (WU_E_WU_DISABLED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-05 03:58:09",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-05 02:57:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,30 +61,30 @@
                   29,
                   28,
                   30,
-                  20,
-                  8,
-                  37,
+                  24,
+                  41,
                   17,
-                  46,
+                  36,
+                  10,
                   4,
                   8,
                   14,
                   8,
                   26,
                   76,
-                  35,
-                  25,
-                  34,
+                  42,
+                  28,
+                  24,
                   35,
                   34,
                   14,
                   13,
                   22,
                   7,
-                  17,
-                  4,
-                  9,
                   21,
+                  9,
+                  12,
+                  9,
                   12,
                   12,
                   12,
@@ -95,12 +95,12 @@
                   12,
                   12,
                   12,
-                  42,
-                  53,
+                  60,
+                  35,
                   40,
-                  19
+                  30
               ],
-    "Ultima":  "2026-11-05 03:58:09",
-    "Gerado":  "2026-11-05 04:17:03",
-    "Data":  "2026-11-05 04:17"
+    "Ultima":  "2026-11-05 04:19:05",
+    "Gerado":  "2026-11-05 04:27:03",
+    "Data":  "2026-11-05 04:27"
 }
