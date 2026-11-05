@@ -5,18 +5,23 @@
     "N48":  975,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-05 15:11",
+                         "Texto":  "Nova versão 4.42.5 publicada: Instalacao via GPO",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-05 14:16:02",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007007E (ERROR_MOD_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 14:15:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 344 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 344 pesquisas em bases técnicas",
+                         "Data":  "2026-11-05 14:15:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -27,11 +32,6 @@
                      {
                          "Data":  "2026-11-05 13:14:03",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-05 12:06",
-                         "Texto":  "Nova versão 4.42.2 publicada: Simulacao de update completo apos exclusoes ESET",
                          "Nivel":  "info"
                      },
                      {
@@ -58,13 +58,13 @@
                   60,
                   63,
                   25,
-                  28,
-                  29,
                   34,
+                  35,
+                  22,
                   26,
                   13,
-                  13,
-                  16,
+                  18,
+                  11,
                   17,
                   4,
                   9,
@@ -78,8 +78,8 @@
                   12,
                   12,
                   12,
-                  0,
-                  54,
+                  12,
+                  42,
                   40,
                   41,
                   31,
@@ -96,6 +96,6 @@
                   15
               ],
     "Ultima":  "2026-11-05 14:15:49",
-    "Gerado":  "2026-11-05 15:07:03",
-    "Data":  "2026-11-05 15:07"
+    "Gerado":  "2026-11-05 15:11:15",
+    "Data":  "2026-11-05 15:11"
 }

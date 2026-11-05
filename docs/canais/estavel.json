@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.2",
-    "Instalador":  "EnginePro_Setup_4.42.2.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.2/EnginePro_Setup_4.42.2.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.2/EnginePro_Setup_4.42.2.exe.gz",
-    "SHA256":  "92B8339537CD076AA10B19D0B338FF63572A183ABC052A515D02AA595D101320",
-    "Data":  "2026-11-05 12:05",
-    "Notas":  "Simulacao de update completo apos exclusoes ESET",
-    "Assinatura":  "kFOoOKcNwfzVrA0ViXL89AmSbnbXUeWe98Z2AdHiW3vl8bhJ2tkT0yjrD4tzV7G0CODzOFcC0QlllSct8xJHDcVnWb7iYjuDpUviuo9lrz1ZBQoqaqCGyMfuVpas8nq/WXGk/RdEC+yGgQ0Kt3tvZ2d6Q86G0ZMe5TLaE8YHzkyZL5hBgRNi35XXh/Rk3pciD8Spe8X84Rpbb6JYMpZgYEKPFhT+N66pinCudd8BOB7wZEZQkRMXHPSfheQYrJQs2T4nMVUKkI/lOwPX2vutEupDfyYd+S2dZSKxEGIWGuZ93ZlcOkoAlypqTni+A5gcFm3+jWK6tApozrNaiIdMMpxXzX2s2cfmRt4FSuDL0bGlAhR3WWCoselefzly4V8wnYf3iJwy3OEiQSp1x8pSCc+iuO3rN18bsGC3A83gr5GfAqmOZu+ScLYi/sPkIPf2A6RO8XG/9GDkQDXz+tEa5E9eCRKI4X6Sy1gt6dAzuCy3OgL9+qWxN0Nqmr6/zgOe"
+    "Versao":  "4.42.5",
+    "Instalador":  "EnginePro_Setup_4.42.5.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.5/EnginePro_Setup_4.42.5.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.5/EnginePro_Setup_4.42.5.exe.gz",
+    "SHA256":  "018114F73284759E2EC248B33D8BE73E6261EC2C294D29F4824F458A148F3BC4",
+    "Data":  "2026-11-05 15:11",
+    "Notas":  "Instalacao via GPO",
+    "Assinatura":  "tLwHxNhIKDDqffpWxSHQQbHge7YIsBBlMcM9u1iNJsWRW8ysEOtXFwLnTSeu1x+6I/LXvc1l3J3Sm0RO8TfUc0AEh45+Pwp44mnfSFcRozBQfSUUOzpGaTdNZYv2qniNhrx4oY9JEsqINCSDTkzDedAeiq9jbK2HamVLvJgwVluWN1hQlMUw1ELFlyD6M+w+x091pxtyNLcGnWNsdZmVC4kYRSZhgBKbipPZRqnruAKHX3dCzPd5Q+w6Mx64Qorfc0sHJd5WLEqk+TWxCFb8UH6D56mSTylK65GI5PBxcvpwwgGJbMLi0ihGZVpjqeoH2GitQTbAq2NZKK3huszM/WE+KBF1qHf+KRPCELP3FXazfH1ic1fnFwF6Z4FqHBSVK8zIV9Rds0vOYoDSyifP1kiyA67Ie7kcg5XN2Kt77F6+IpyKA3ve14Ce4eI3VeG61XiVBBZ6JxZU86ySj/PUS5oriYo/glm8f7FinTOMsOkr57BbAqnTqJXhHVXOjh3T"
 }
