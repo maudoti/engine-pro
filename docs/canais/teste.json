@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.3",
-    "Instalador":  "EnginePro_Setup_4.42.3.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.3/EnginePro_Setup_4.42.3.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.3/EnginePro_Setup_4.42.3.exe.gz",
-    "SHA256":  "C319BA06BB821CC83060BCFB3A98ECDB4449552FBF2BC27F4AE2E688B6A22A82",
-    "Data":  "2026-11-05 14:57",
-    "Notas":  "Abertura nova",
-    "Assinatura":  "KDxsKEbXSJ9SMyhJ1lWhTAjBDgqmxNp1xbtiYK+L4qcjTVA75H0mtdaq+jjs20TALMnNxjkbvyBPAU3F3+bAGXrV2vVcMxa64BERtvna6/iIqQ1TwKCPIIjthfdgTaJIo8UPBf56AAKR5qvHncVfm410xPN9iv6iilgq6ER1V2qwaqjNXjMRDP0GrdxxDncKfsbZ4N8uCP2+/MCLBaDwEWsV9jN6FCq3TXhfJ+1t2r+eEmEi4KNV8xE5C9ooBCYN4YQ+vRE1QaRj/LKcUU56QydEzAGy1TZFyvNtDq0Y4YgBljHnDwn8aHPhnYR3ewu0CH6G53s80NMkDGJbdkytbmM5yl4xGsk5fKlDb8wVLZHQrjOZpuxgPWMpBh899lvDJKTW9LA1hY9HGMK9qw2dTV4KnD83nRsZlSwwv0XVj1iJObKjIENe0A49hdoAOaAKBP7Zo6QhUXPKAvx4kzg/rSGZl//2PTeY18iLthTz4IQAS6twULWyBHiICyGUlBGW"
+    "Versao":  "4.42.4",
+    "Instalador":  "EnginePro_Setup_4.42.4.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe.gz",
+    "SHA256":  "741060D667CFD34E0A419BF49790E8AC0FDB0BB931C273AADFF7D5E8F16EC373",
+    "Data":  "2026-11-05 15:03",
+    "Notas":  "Abertura sem tela de carregando",
+    "Assinatura":  "W3+/4QfFFn3IzM93NEWywxzCTVD774sGntaYjmol8RJJPqBEF7MDJ4nM220w3MensSNQ1yzhBJhseaAhU+WBV6dkxMQzVn+sENb3wzmoaPLlQOpvKkQ6I+DFbAtBn9IGHiVjH0ekLFid1uMv0yLYWsgTITBPqI0Q2yLIDNmeRjZJZe6DTsqq5tLEyHlaF5Nve21egBu2owJTzk3elhaq86weRyfpoEeYO2h6vpaLBYSuK3h3HAz9W9M03yBQVxqs88mDLqI1W8tbuHBsIKsf7ZggUFxn9kVazxAMocCtVynLF4J8Q1O5S+aeNtj0qRxgkhXEKgEWg+q46YBTA0C+CgpiIA3vO0nH4A2jDL1iyDA21MOa9zI9Uq4sLBktDn0SMgLUxKx+NuUX5jCkmjSREbSBEQ4mRg6OggzC2BAwqz30o/eoAjiVDMt7yMKezONd/uDi73E3GFKCb2HwI6jFXoGhKGCebRiqip0SYGmJHy6mfTIm3+OxYo10FFg11jG7"
 }

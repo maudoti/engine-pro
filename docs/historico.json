@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.4",
+        "Data":  "2026-11-05 15:03",
+        "Titulo":  "Abertura sem tela de carregando",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura sem tela de carregando."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.3",
         "Data":  "2026-11-05 14:57",
         "Titulo":  "Abertura nova",

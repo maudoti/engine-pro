@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.4",
+        "Data":  "2026-11-05 15:03",
+        "Notas":  "Abertura sem tela de carregando",
+        "Canal":  "teste",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe"
+    },
+    {
         "Versao":  "4.42.3",
         "Data":  "2026-11-05 14:57",
         "Notas":  "Abertura nova",

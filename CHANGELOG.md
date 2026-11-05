@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.4 | Abertura sem tela de carregando | 05/11/2026
+
+- **Melhoria**: Abertura sem tela de carregando.
+
 ## Versão 4.42.3 | Abertura nova | 05/11/2026
 
 - **Melhoria**: Abertura nova.
