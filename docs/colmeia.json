@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2380,
-    "N48":  1042,
+    "Pesquisas":  2391,
+    "N48":  1053,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 05:11:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024A105 (WU_E_AU_NO_REGISTERED_SERVICE) no Windows",
+                         "Data":  "2026-11-05 05:22:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 05:03:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-05 05:20:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-05 05:11:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024A105 (WU_E_AU_NO_REGISTERED_SERVICE) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 207 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-05 05:01:36",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072EE7 (ERROR_INTERNET_NAME_NOT_RESOLVED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 196 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-05 04:59:55",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-05 04:40:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-04 11:45",
@@ -60,30 +60,30 @@
                   29,
                   28,
                   30,
-                  20,
-                  8,
-                  37,
+                  24,
+                  41,
                   17,
-                  46,
+                  36,
+                  10,
                   4,
                   8,
                   14,
                   8,
                   26,
                   76,
-                  35,
-                  25,
-                  34,
+                  42,
+                  28,
+                  24,
                   35,
                   34,
                   14,
                   13,
                   22,
                   7,
-                  17,
-                  4,
-                  9,
                   21,
+                  9,
+                  12,
+                  9,
                   12,
                   12,
                   12,
@@ -94,13 +94,13 @@
                   12,
                   12,
                   12,
-                  42,
-                  53,
+                  60,
+                  35,
                   40,
-                  19,
+                  30,
                   30
               ],
-    "Ultima":  "2026-11-05 05:03:04",
-    "Gerado":  "2026-11-05 05:17:03",
-    "Data":  "2026-11-05 05:17"
+    "Ultima":  "2026-11-05 05:20:59",
+    "Gerado":  "2026-11-05 05:27:02",
+    "Data":  "2026-11-05 05:27"
 }
