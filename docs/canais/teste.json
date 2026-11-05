@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.1",
-    "Instalador":  "EnginePro_Setup_4.42.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.1/EnginePro_Setup_4.42.1.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.1/EnginePro_Setup_4.42.1.exe.gz",
-    "SHA256":  "FE8BCB9321660B94C4A3A85CF9E6B8AF05898D18740B755B983A5DF172F96A1C",
-    "Data":  "2026-11-04 11:44",
-    "Notas":  "Instalador confia no certificado antes de copiar os scripts",
-    "Assinatura":  "OW9W6AuToWKflA/spylKnSVciyuDczbtqn5SpdiUNYbbIh6TrZRXFKekHNVwz5i+x4R87QOXt8+JC2E25DWIm9rIdURptu1JG+hMIXxERE+8y5KYqJ0FeeFl74XXV4EQjfbEI/c9cHb5O4qkkm1FAiMh6KIC6xrfaWq43MhVybAc6ypLIb3o1tLoRGeuhFRlCvUp3XL5s8EppIcfI9km0M88kX7S+kZNMuO3FUcyP+KjQxmW9pdl8pu3dy/HgyK047s0zIfnjLvwHAyUJCM06CHWhASnlLb3hncHXUfzoov4Pah68SG2EV5V88OgPYwaA3R756u80NQWOGNPKWkVgnr8yTzxHs9UctWAiBNEdnqYivdXlih3BLRhVjLuKm5T+OHMRFrD3OoUIem/w8sjcmjCRaWu2HYvSTEUVcRojCd8QxMKx2UvvfcHIBCLLYGwPR1nIH/AEzORQSVhm9LN+r+hlH78oIzKNE8d7QLcNvYoM2cxZp37Wv813GY5ucB2"
+    "Versao":  "4.42.2",
+    "Instalador":  "EnginePro_Setup_4.42.2.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.2/EnginePro_Setup_4.42.2.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.2/EnginePro_Setup_4.42.2.exe.gz",
+    "SHA256":  "92B8339537CD076AA10B19D0B338FF63572A183ABC052A515D02AA595D101320",
+    "Data":  "2026-11-05 12:05",
+    "Notas":  "Simulacao de update completo apos exclusoes ESET",
+    "Assinatura":  "kFOoOKcNwfzVrA0ViXL89AmSbnbXUeWe98Z2AdHiW3vl8bhJ2tkT0yjrD4tzV7G0CODzOFcC0QlllSct8xJHDcVnWb7iYjuDpUviuo9lrz1ZBQoqaqCGyMfuVpas8nq/WXGk/RdEC+yGgQ0Kt3tvZ2d6Q86G0ZMe5TLaE8YHzkyZL5hBgRNi35XXh/Rk3pciD8Spe8X84Rpbb6JYMpZgYEKPFhT+N66pinCudd8BOB7wZEZQkRMXHPSfheQYrJQs2T4nMVUKkI/lOwPX2vutEupDfyYd+S2dZSKxEGIWGuZ93ZlcOkoAlypqTni+A5gcFm3+jWK6tApozrNaiIdMMpxXzX2s2cfmRt4FSuDL0bGlAhR3WWCoselefzly4V8wnYf3iJwy3OEiQSp1x8pSCc+iuO3rN18bsGC3A83gr5GfAqmOZu+ScLYi/sPkIPf2A6RO8XG/9GDkQDXz+tEa5E9eCRKI4X6Sy1gt6dAzuCy3OgL9+qWxN0Nqmr6/zgOe"
 }

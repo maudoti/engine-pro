@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.2 | Simulacao de update completo apos exclusoes ESET | 05/11/2026
+
+- **Melhoria**: Simulacao de update completo apos exclusoes ESET.
+
 ## Versão 4.42.1 | Instalador confia no certificado antes de copiar os scripts | 04/11/2026
 
 - **Melhoria**: Instalador confia no certificado antes de copiar os scripts.
