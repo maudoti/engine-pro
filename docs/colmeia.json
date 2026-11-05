@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2426,
-    "N48":  1062,
+    "Pesquisas":  2438,
+    "N48":  1074,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-05 06:44:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 37 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-05 06:24:57",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000135 (DLL_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-05 06:23:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 242 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 254 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -68,39 +68,39 @@
                   8,
                   14,
                   8,
+                  60,
+                  61,
+                  33,
+                  27,
                   26,
-                  76,
-                  42,
-                  28,
-                  35,
                   38,
                   26,
                   8,
                   13,
-                  22,
-                  7,
-                  21,
-                  9,
+                  29,
                   17,
                   4,
+                  9,
+                  21,
                   12,
                   12,
                   12,
+                  0,
                   12,
                   9,
                   4,
                   12,
                   12,
                   12,
-                  33,
                   39,
-                  47,
-                  34,
-                  24,
-                  30,
-                  35
+                  49,
+                  31,
+                  37,
+                  28,
+                  33,
+                  37
               ],
-    "Ultima":  "2026-11-05 06:23:45",
-    "Gerado":  "2026-11-05 06:37:03",
-    "Data":  "2026-11-05 06:37"
+    "Ultima":  "2026-11-05 06:44:28",
+    "Gerado":  "2026-11-05 06:47:03",
+    "Data":  "2026-11-05 06:47"
 }
