@@ -5,13 +5,13 @@
     "N48":  1038,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 03:16:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-05 03:17:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0988 (PSFX_E_INVALID_DELTA_COMBINATION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 03:07:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F081F (CBS_E_SOURCE_MISSING) no Windows",
+                         "Data":  "2026-11-05 03:17:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0922 (CBS_E_INSTALLERS_FAILED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 02:57:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-05 03:16:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -30,14 +30,14 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-05 02:56:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
+                         "Data":  "2026-11-05 03:07:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F081F (CBS_E_SOURCE_MISSING) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 02:35:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-05 02:57:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-04 11:45",
@@ -62,30 +62,30 @@
                   29,
                   28,
                   30,
-                  20,
-                  8,
-                  37,
+                  24,
+                  41,
                   17,
-                  46,
+                  36,
+                  10,
                   4,
                   8,
                   14,
                   8,
                   26,
                   76,
-                  35,
-                  25,
-                  34,
+                  42,
+                  28,
+                  24,
                   35,
                   34,
                   14,
                   13,
                   22,
                   7,
-                  17,
-                  4,
-                  9,
                   21,
+                  9,
+                  12,
+                  9,
                   12,
                   12,
                   12,
@@ -96,11 +96,11 @@
                   12,
                   12,
                   12,
-                  42,
-                  53,
+                  60,
+                  35,
                   40
               ],
     "Ultima":  "2026-11-05 03:16:36",
-    "Gerado":  "2026-11-05 03:17:04",
-    "Data":  "2026-11-05 03:17"
+    "Gerado":  "2026-11-05 03:27:04",
+    "Data":  "2026-11-05 03:27"
 }
