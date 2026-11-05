@@ -5,13 +5,13 @@
     "N48":  990,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 13:14:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-05 13:22:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070043 (ERROR_BAD_NET_NAME) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 12:06",
-                         "Texto":  "Nova versão 4.42.2 publicada: Simulacao de update completo apos exclusoes ESET",
+                         "Data":  "2026-11-05 13:14:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 11:56:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-05 12:06",
+                         "Texto":  "Nova versão 4.42.2 publicada: Simulacao de update completo apos exclusoes ESET",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 329 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-05 11:56:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -40,11 +45,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 05:43:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-04 01:02:10",
                          "Texto":  "A base da COLMEIA passou de 700 aprendizados",
                          "Nivel":  "ok"
@@ -52,55 +52,55 @@
                  ],
     "Horas":  [
                   30,
-                  20,
-                  8,
-                  37,
+                  24,
+                  41,
                   17,
-                  46,
+                  36,
+                  10,
                   4,
                   8,
                   14,
                   8,
                   26,
                   76,
-                  35,
-                  25,
-                  34,
+                  42,
+                  28,
+                  24,
                   35,
                   34,
                   14,
                   13,
                   22,
                   7,
+                  21,
+                  9,
+                  12,
+                  9,
+                  12,
+                  12,
+                  12,
+                  12,
+                  9,
+                  4,
+                  12,
+                  12,
+                  12,
+                  12,
+                  60,
+                  35,
+                  40,
+                  30,
+                  30,
+                  35,
+                  20,
+                  8,
                   17,
                   4,
-                  9,
-                  21,
-                  12,
-                  12,
-                  12,
-                  12,
-                  9,
-                  4,
-                  12,
-                  12,
-                  12,
-                  12,
-                  42,
-                  53,
-                  40,
-                  19,
-                  30,
-                  34,
-                  28,
-                  12,
-                  0,
-                  21,
                   8,
                   8,
                   22
               ],
     "Ultima":  "2026-11-05 13:14:03",
-    "Gerado":  "2026-11-05 13:17:04",
-    "Data":  "2026-11-05 13:17"
+    "Gerado":  "2026-11-05 13:27:03",
+    "Data":  "2026-11-05 13:27"
 }
