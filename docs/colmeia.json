@@ -1,13 +1,23 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2491,
-    "N48":  996,
+    "Pesquisas":  2509,
+    "N48":  1014,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-05 13:03:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-05 12:06",
                          "Texto":  "Nova versão 4.42.2 publicada: Simulacao de update completo apos exclusoes ESET",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-05 11:56:49",
@@ -16,18 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 307 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 325 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-05 10:58:31",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x887A0006 (DXGI_ERROR_DEVICE_HUNG) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-05 10:53:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-05 06:24:57",
@@ -51,22 +56,22 @@
                   24,
                   41,
                   17,
-                  36,
-                  10,
+                  46,
                   4,
                   8,
                   14,
-                  22,
-                  46,
-                  61,
-                  33,
-                  31,
-                  34,
-                  34,
-                  18,
                   8,
-                  13,
+                  14,
+                  60,
+                  63,
+                  25,
+                  28,
                   29,
+                  34,
+                  26,
+                  13,
+                  13,
+                  16,
                   17,
                   4,
                   9,
@@ -77,25 +82,25 @@
                   12,
                   9,
                   4,
+                  12,
+                  12,
+                  12,
                   0,
-                  12,
-                  12,
-                  12,
-                  39,
-                  55,
-                  37,
-                  25,
-                  28,
-                  33,
+                  54,
+                  40,
                   41,
+                  31,
+                  30,
+                  34,
+                  28,
                   4,
                   8,
                   21,
                   8,
                   8,
-                  0
+                  18
               ],
-    "Ultima":  "2026-11-05 11:56:49",
-    "Gerado":  "2026-11-05 12:57:03",
-    "Data":  "2026-11-05 12:57"
+    "Ultima":  "2026-11-05 13:03:28",
+    "Gerado":  "2026-11-05 13:07:03",
+    "Data":  "2026-11-05 13:07"
 }
