@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  727,
-    "Pesquisas":  2315,
-    "N48":  1040,
+    "Pesquisas":  2319,
+    "N48":  1026,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-05 02:57:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-05 02:56:14",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-05 02:55:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 37 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 131 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 135 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -51,37 +51,37 @@
                      }
                  ],
     "Horas":  [
-                  18,
                   17,
                   28,
                   26,
                   27,
-                  16,
-                  17,
+                  0,
+                  33,
                   15,
                   27,
                   29,
+                  0,
                   28,
                   30,
                   24,
                   41,
                   17,
-                  36,
-                  10,
+                  46,
                   4,
                   8,
                   14,
-                  22,
-                  46,
-                  61,
-                  33,
-                  31,
-                  34,
-                  34,
-                  18,
                   8,
-                  13,
+                  14,
+                  60,
+                  63,
+                  25,
+                  28,
                   29,
+                  34,
+                  26,
+                  13,
+                  13,
+                  16,
                   17,
                   4,
                   9,
@@ -92,15 +92,15 @@
                   12,
                   9,
                   4,
+                  12,
+                  12,
+                  12,
                   0,
-                  12,
-                  12,
-                  12,
-                  39,
-                  55,
-                  37
+                  54,
+                  40,
+                  41
               ],
-    "Ultima":  "2026-11-05 02:55:00",
-    "Gerado":  "2026-11-05 02:57:03",
-    "Data":  "2026-11-05 02:57"
+    "Ultima":  "2026-11-05 02:57:42",
+    "Gerado":  "2026-11-05 03:07:03",
+    "Data":  "2026-11-05 03:07"
 }
