@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2391,
-    "N48":  1053,
+    "Pesquisas":  2401,
+    "N48":  1063,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 05:22:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
+                         "Data":  "2026-11-05 05:43:08",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 05:20:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-05 05:41:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 05:11:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024A105 (WU_E_AU_NO_REGISTERED_SERVICE) no Windows",
+                         "Data":  "2026-11-05 05:22:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 207 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 217 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-05 05:01:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072EE7 (ERROR_INTERNET_NAME_NOT_RESOLVED) no Windows",
+                         "Data":  "2026-11-05 05:11:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024A105 (WU_E_AU_NO_REGISTERED_SERVICE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -69,38 +69,38 @@
                   8,
                   14,
                   8,
+                  60,
+                  61,
+                  33,
+                  27,
                   26,
-                  76,
-                  42,
-                  28,
-                  35,
                   38,
                   26,
                   8,
                   13,
-                  22,
-                  7,
-                  21,
-                  9,
+                  29,
                   17,
                   4,
+                  9,
+                  21,
                   12,
                   12,
                   12,
+                  0,
                   12,
                   9,
                   4,
                   12,
                   12,
                   12,
-                  33,
                   39,
-                  47,
-                  34,
-                  24,
-                  30
+                  49,
+                  31,
+                  37,
+                  28,
+                  33
               ],
-    "Ultima":  "2026-11-05 05:20:59",
-    "Gerado":  "2026-11-05 05:37:03",
-    "Data":  "2026-11-05 05:37"
+    "Ultima":  "2026-11-05 05:41:39",
+    "Gerado":  "2026-11-05 05:47:02",
+    "Data":  "2026-11-05 05:47"
 }
