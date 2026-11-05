@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.3",
+        "Data":  "2026-11-05 14:57",
+        "Titulo":  "Abertura nova",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura nova."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.2",
         "Data":  "2026-11-05 12:05",
         "Titulo":  "Simulacao de update completo apos exclusoes ESET",
