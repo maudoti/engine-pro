@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.7",
+        "Data":  "2026-11-05 17:34",
+        "Titulo":  "Remove o atalho do Engine Pro da area de trabalho",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Remove o atalho do Engine Pro da area de trabalho."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.6",
         "Data":  "2026-11-05 15:18",
         "Titulo":  "Instalacao via GPO",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.7 | Remove o atalho do Engine Pro da area de trabalho | 05/11/2026
+
+- **Melhoria**: Remove o atalho do Engine Pro da area de trabalho.
+
 ## Versão 4.42.6 | Instalacao via GPO | 05/11/2026
 
 - **Melhoria**: Instalacao via GPO.
