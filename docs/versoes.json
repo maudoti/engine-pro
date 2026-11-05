@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.42.2",
+        "Data":  "2026-11-05 12:06",
+        "Notas":  "Simulacao de update completo apos exclusoes ESET",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.2/EnginePro_Setup_4.42.2.exe"
+    },
+    {
+        "Versao":  "4.42.2",
         "Data":  "2026-11-05 12:05",
         "Notas":  "Simulacao de update completo apos exclusoes ESET",
         "Canal":  "teste",
