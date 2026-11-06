@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  775,
-    "Pesquisas":  3958,
-    "N48":  1810,
+    "Pesquisas":  3991,
+    "N48":  1843,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 19:56:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-06 20:00:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 18:54:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000141 (VIDEO_ENGINE_TIMEOUT_DETECTED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 19:59:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,18 +21,18 @@
                      },
                      {
                          "Data":  "2026-11-06 18:54:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000141 (VIDEO_ENGINE_TIMEOUT_DETECTED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1332 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1365 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 18:53:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-06 18:54:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-06 18:00:55",
@@ -46,24 +46,24 @@
                      }
                  ],
     "Horas":  [
+                  12,
+                  12,
+                  12,
                   0,
-                  12,
-                  12,
-                  12,
-                  39,
-                  55,
-                  37,
-                  25,
-                  28,
-                  33,
+                  54,
+                  40,
                   41,
+                  31,
+                  30,
+                  34,
+                  28,
                   4,
                   8,
                   21,
                   8,
                   8,
-                  0,
-                  22,
+                  18,
+                  4,
                   15,
                   4,
                   16,
@@ -75,27 +75,27 @@
                   12,
                   14,
                   39,
-                  25,
-                  45,
-                  25,
-                  28,
-                  46,
+                  38,
+                  37,
+                  31,
+                  31,
+                  32,
                   29,
                   15,
-                  52,
-                  125,
-                  118,
-                  109,
-                  99,
-                  110,
-                  125,
-                  145,
-                  65,
+                  75,
+                  124,
+                  117,
+                  105,
+                  91,
+                  128,
+                  124,
+                  141,
+                  43,
                   76,
                   28,
-                  28
+                  61
               ],
-    "Ultima":  "2026-11-06 19:56:39",
-    "Gerado":  "2026-11-06 19:57:04",
-    "Data":  "2026-11-06 19:57"
+    "Ultima":  "2026-11-06 20:00:53",
+    "Gerado":  "2026-11-06 20:07:03",
+    "Data":  "2026-11-06 20:07"
 }
