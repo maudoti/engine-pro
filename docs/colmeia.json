@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  734,
-    "Pesquisas":  2780,
-    "N48":  858,
+    "Conhecimentos":  736,
+    "Pesquisas":  2788,
+    "N48":  866,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 04:20:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000709 (ERROR_INVALID_PRINTER_NAME) no Windows",
+                         "Data":  "2026-11-06 04:41:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BCB (ERROR_PRINTER_DRIVER_DOWNLOAD_NEEDED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 04:20:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000011B (PRINT_RPC_PRIVACY) no Windows",
+                         "Data":  "2026-11-06 04:41:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BC4 (ERROR_NO_PRINTERS_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 04:20:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 04:41:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 154 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 162 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 04:20:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 9 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-06 04:20:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-06 03:59:32",
@@ -50,29 +50,29 @@
                   26,
                   8,
                   13,
-                  22,
-                  7,
-                  21,
-                  9,
+                  29,
                   17,
                   4,
+                  9,
+                  21,
                   12,
                   12,
                   12,
+                  0,
                   12,
                   9,
                   4,
                   12,
                   12,
                   12,
-                  33,
                   39,
-                  47,
-                  34,
-                  24,
-                  30,
-                  35,
-                  20,
+                  49,
+                  31,
+                  37,
+                  28,
+                  33,
+                  37,
+                  8,
                   8,
                   17,
                   4,
@@ -88,14 +88,14 @@
                   16,
                   8,
                   12,
-                  11,
-                  26,
-                  33,
-                  34,
-                  44,
-                  20
+                  14,
+                  23,
+                  41,
+                  40,
+                  30,
+                  28
               ],
-    "Ultima":  "2026-11-06 04:20:15",
-    "Gerado":  "2026-11-06 04:37:03",
-    "Data":  "2026-11-06 04:37"
+    "Ultima":  "2026-11-06 04:41:22",
+    "Gerado":  "2026-11-06 04:47:03",
+    "Data":  "2026-11-06 04:47"
 }
