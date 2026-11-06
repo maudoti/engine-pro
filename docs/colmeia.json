@@ -1,13 +1,13 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2626,
-    "N48":  897,
+    "Pesquisas":  2640,
+    "N48":  899,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-05 23:38:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 00:07:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-05 23:38:22",
@@ -15,13 +15,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-05 23:37:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-05 23:38:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 14 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-05 22:32:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-05 23:37:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -41,16 +51,16 @@
                      }
                  ],
     "Horas":  [
-                  60,
-                  63,
+                  76,
+                  35,
                   25,
-                  28,
-                  29,
                   34,
-                  26,
+                  35,
+                  34,
+                  14,
                   13,
-                  13,
-                  16,
+                  22,
+                  7,
                   17,
                   4,
                   9,
@@ -64,22 +74,22 @@
                   12,
                   12,
                   12,
-                  0,
-                  54,
+                  12,
+                  42,
+                  53,
                   40,
-                  41,
-                  31,
+                  19,
                   30,
                   34,
                   28,
-                  4,
-                  8,
+                  12,
+                  0,
                   21,
                   8,
                   8,
-                  18,
-                  4,
+                  22,
                   15,
+                  0,
                   4,
                   16,
                   8,
@@ -88,9 +98,9 @@
                   16,
                   8,
                   12,
-                  14
+                  28
               ],
-    "Ultima":  "2026-11-05 23:37:05",
-    "Gerado":  "2026-11-06 00:07:03",
-    "Data":  "2026-11-06 00:07"
+    "Ultima":  "2026-11-06 00:07:56",
+    "Gerado":  "2026-11-06 00:17:03",
+    "Data":  "2026-11-06 00:17"
 }
