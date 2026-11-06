@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.8",
+        "Data":  "2026-11-06 08:29",
+        "Titulo":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmei...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmeia continua sem parar, analise de inicializacao mais profunda, tela de carregamento e localizacao automatica."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.7",
         "Data":  "2026-11-05 17:34",
         "Titulo":  "Remove o atalho do Engine Pro da area de trabalho",

@@ -5,18 +5,23 @@
     "N48":  871,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-06 08:29",
+                         "Texto":  "Nova versão 4.42.8 publicada: Autodeteccao na instalacao, chat na nuvem, fila da Colmeia continua sem parar, analise de inicializacao mais profunda, tela de carregamento e localizacao automatica",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-06 07:51:52",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 06:51:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 252 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 252 pesquisas em bases técnicas",
+                         "Data":  "2026-11-06 06:51:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -33,11 +38,6 @@
                          "Data":  "2026-11-06 05:44:31",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Caminho longo demais (OneDrive, SharePoint e Excel)",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-05 17:34",
-                         "Texto":  "Nova versão 4.42.7 publicada: Remove o atalho do Engine Pro da area de trabalho",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
@@ -45,8 +45,8 @@
                   7,
                   21,
                   9,
-                  12,
-                  9,
+                  17,
+                  4,
                   12,
                   12,
                   12,
@@ -56,8 +56,8 @@
                   12,
                   12,
                   12,
-                  12,
-                  60,
+                  23,
+                  49,
                   35,
                   40,
                   30,
@@ -76,12 +76,12 @@
                   8,
                   8,
                   12,
-                  4,
                   12,
                   8,
+                  4,
                   12,
-                  28,
-                  42,
+                  37,
+                  33,
                   34,
                   36,
                   28,
@@ -91,6 +91,6 @@
                   15
               ],
     "Ultima":  "2026-11-06 07:51:52",
-    "Gerado":  "2026-11-06 08:27:03",
-    "Data":  "2026-11-06 08:27"
+    "Gerado":  "2026-11-06 08:29:39",
+    "Data":  "2026-11-06 08:29"
 }

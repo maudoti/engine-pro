@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.7",
-    "Instalador":  "EnginePro_Setup_4.42.7.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.7/EnginePro_Setup_4.42.7.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.7/EnginePro_Setup_4.42.7.exe.gz",
-    "SHA256":  "E899D573AC2E89A122C533D43F157F0BD60E24D4F4EDC99C506F1CE4A843584F",
-    "Data":  "2026-11-05 17:34",
-    "Notas":  "Remove o atalho do Engine Pro da area de trabalho",
-    "Assinatura":  "pVXrwP0BEgXDqr3OmRcJmrdi6R2DovREzBd/wlPpJUqMTLouYRyJ7Vq4zmbiwv7HvMhCXQPZe1Id9ex+rjujwSBWy37KakOpyoOWx5AV5/ddLQ/0NB2a8ceW7ujjkKQBwvjWb07oUY/RZ7+N6MvBVpILUKBDjHFtUZ7+5wTddGLCaA1YdruNrBppQmyFNd+XojnJREgIHqAsknal83GcTZxvtTd+JuVlOHEgJg3g/UMYQhGs5ETb0DIFueurz0k4L3+1JqWO+YaUUPNc9lqqfH9iZv0Mgp7oZlE5RgMde1qxO8Yr3OcUrx58zxTGmOhmQ42g+HMOE2WkRu+X82tvA/U9CNVfy1A+pDniV2qfnO5S0YIZE8qADLrsFL6len6cQ/oAILI3OmzykukZa6+fkMQ3JD8tQcv+BJgfY+4fOr5ENugxIwaX+kaPFeP5qPnzTK0SKStHazsoNlcAqCHzBujdRyA/I2qtKdGqgXjLkRroICLYxe6dZ54QZiJlG+0X"
+    "Versao":  "4.42.8",
+    "Instalador":  "EnginePro_Setup_4.42.8.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.8/EnginePro_Setup_4.42.8.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.8/EnginePro_Setup_4.42.8.exe.gz",
+    "SHA256":  "2854124F3F4C93DDADE42E17FBCB515DE66505BA338D480FFA17476036915150",
+    "Data":  "2026-11-06 08:29",
+    "Notas":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmeia continua sem parar, analise de inicializacao mais profunda, tela de carregamento e localizacao automatica",
+    "Assinatura":  "r6ajV5zCbCCdIBzXuL9GjUrQKPMxzgCZVSiKFUULGC7AMa4bDErcjOlCNiYvAqhP5mCmsjrDwpJiVCgYOe/UvvSDMPR/nkLZ7E9vhh1Wfz8dlvrfHU+U1Jm7GNYD+/rSFjgHNf6386gvUZKZfBCE+uSDKUDv1TVYFEpUPPfL9+XNR/J3UH+/VVqqyZ+9EKwnK5UcgvLImkOqyrxz36GlymMXlM9B2x4WPdbcH9/4fC8jep0Zxr2ME+mpa4SGjL6mAabQZUco6S4RjAXw+xKbA97JObAjphRJc4S5Knesz4cJcy+SkVMXhJTpzZz+8MuTTyevHPA7kfuSB9U41OECOqzQsK2WPY5vpm1Jf1EizX4WYO7ow0z72URMS0P5VTvNVuwUCgAT/m967CGRKd5C3gewAVgcsZ6nWeV05L8oi0XkpNcXJ9pJvK8emV9onxNurJACLBNahhJumdBvg86HdbxnkL/s38WrYrxuuWTJfeWKzFZ/P8L4pScPAWVcpoB3"
 }
