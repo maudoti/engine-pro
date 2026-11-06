@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.13",
+        "Data":  "2026-11-06 13:49",
+        "Titulo":  "Piloto da Colmeia usa o Claude para drenar a fila quando ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Piloto da Colmeia usa o Claude para drenar a fila quando as IAs gratuitas estao sem cota."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.12",
         "Data":  "2026-11-06 11:46",
         "Titulo":  "Correcao da numeracao de versao e provisionamento so no P...",

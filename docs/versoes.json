@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.13",
+        "Data":  "2026-11-06 13:49",
+        "Notas":  "Piloto da Colmeia usa o Claude para drenar a fila quando as IAs gratuitas estao sem cota",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.13/EnginePro_Setup_4.42.13.exe"
+    },
+    {
         "Versao":  "4.42.12",
         "Data":  "2026-11-06 11:46",
         "Notas":  "Correcao da numeracao de versao e provisionamento so no PC do TI",

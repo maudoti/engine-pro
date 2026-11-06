@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.13 | Piloto da Colmeia usa o Claude para drenar a fila quando ... | 06/11/2026
+
+- **Melhoria**: Piloto da Colmeia usa o Claude para drenar a fila quando as IAs gratuitas estao sem cota.
+
 ## Versão 4.42.12 | Correcao da numeracao de versao e provisionamento so no P... | 06/11/2026
 
 - **Correção**: Correcao da numeracao de versao e provisionamento so no PC do TI.

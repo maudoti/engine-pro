@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.12",
-    "Instalador":  "EnginePro_Setup_4.42.12.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.12/EnginePro_Setup_4.42.12.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.12/EnginePro_Setup_4.42.12.exe.gz",
-    "SHA256":  "E256EA33B58EEFC9B2EC29006BC9EF9D7F2F1421AF2A235A9BCFD8E75B86FBDC",
-    "Data":  "2026-11-06 11:46",
-    "Notas":  "Correcao da numeracao de versao e provisionamento so no PC do TI",
-    "Assinatura":  "pZ17E+4IuXOUP3sqZxnzcHQxmjowEFnmVYK/oTkCQTSPSHuJf45HXGMQD+9JL/MY5rkrPDfxmeVhjNC8Gxl6dC1jQQpegFgHSHSCB60LMW3qObxidRIpIgzT3C55/F5o+UoKC0YG3hEwu6SDtudBfyo1A93JEmn2fI9QW+L1wbnHCPntqfxwZ6bKhuMf1qXibGNmCq8gupUtqTrUZueI4bgJTysPlJIPTH7n74mnM2e/bnnoFMwpilgvkKW+bxebvlS7rYFXLnRYsjXQ84HGFNFBN5xKyYaBmcswpWl+n132MXfpb8LD569TuYvSpF/WILbeNXPB5DihnQ2mBwIhn9idVKQhMZuqnMD6DB7xtSnLBdzR7UODdotYgF9ZIQkd1U3T4evRwaFLpPkRLllp05BwbQXbZfoeDuSnITAvA+BhB6B3w3fUGW1YUuYzUNeAHtQ/n9WU3QUFB90uN8UCK5gybiM0R+CUmIiXMoahcNlFuFV86b3tVHtk//Mes4y4"
+    "Versao":  "4.42.13",
+    "Instalador":  "EnginePro_Setup_4.42.13.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.13/EnginePro_Setup_4.42.13.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.13/EnginePro_Setup_4.42.13.exe.gz",
+    "SHA256":  "B72D381E03263E31F10844C321097471FA735EBAD64F43B5F460D980BE6FE33E",
+    "Data":  "2026-11-06 13:49",
+    "Notas":  "Piloto da Colmeia usa o Claude para drenar a fila quando as IAs gratuitas estao sem cota",
+    "Assinatura":  "tHd6L61f+g3vdUg73+pX9y6/xdKAPBtEqiBGjzmSxpN6XYK6LBFWPUQxDlBcn1O/aEnZVxqDAeZqvqwnZivXY9hZqj+xSpCmvphehfOZjW3SP84iX8MMdZmcp2ALrx2PZSPSFFRK9mugnEqVBt2NtZ+gqJQCXlHlRYsxDC33+NqSGbZY48y83iUZs7SFvwTCm31K9ROFnq3tRG+QJa8NDGQkrvsHzhx/RMJo09Fsv4CRyp/gpbtgytKjrZsWG8cncXD2s+q2BAbMe7tSPasair35U4yRlj6bPzXQ4iyY6t0FbAmmu6KFEr+TLH9/L/3Lxc9LyD/yFmrTToo1vbi3a208e79wzidvInHhGaV23WTGNV5Zzn7OTVOY92cYl6NzqJWCnway1cVonkepi/aunc38oipb9v1A09b+1uCY2MlCNczQEOrnJKl/VUbaVpIpIJh6zlrZOyvE4ayYbEn7wHuVdF8vIdWM3DtieSVy5rZsRWg73RR58Wlc5CYpP05D"
 }
