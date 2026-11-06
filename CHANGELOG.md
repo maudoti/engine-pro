@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.17 | Ativacao desligada (maquinas da GPO nao pedem mais codigo... | 06/11/2026
+
+- **Melhoria**: Ativacao desligada (maquinas da GPO nao pedem mais codigo) e SegredoIA embutido (auto-provisionamento das obras).
+
 ## Versão 4.42.16 | Provisionamento: o SegredoIA passa a ser embutido na comp... | 06/11/2026
 
 - **Melhoria**: Provisionamento: o SegredoIA passa a ser embutido na compilacao, entao maquinas novas (obra) decifram o chamados.json e aparecem na lista sozinhas, sem provisionamento manual.

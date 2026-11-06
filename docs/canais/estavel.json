@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.16",
-    "Instalador":  "EnginePro_Setup_4.42.16.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.16/EnginePro_Setup_4.42.16.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.16/EnginePro_Setup_4.42.16.exe.gz",
-    "SHA256":  "94DD3B0CFC68AE0BEEBF07497E4D6FEED723D52BAADA94A8C1494C9CF9451B00",
-    "Data":  "2026-11-06 17:35",
-    "Notas":  "Provisionamento: o SegredoIA passa a ser embutido na compilacao, entao maquinas novas (obra) decifram o chamados.json e aparecem na lista sozinhas, sem provisionamento manual.",
-    "Assinatura":  "d4cJzFNI7b16pvPPKDtFmikaSvV+b528rUOD05abRoGGeOwmSptrltZgmA7D3VPyJWDB1yl+kFtjeyTPUBNrBRyjGBA/pzSxTWjU4mjF8T3UFXBHL1BalHHhyA+JfeKAYdaWDHgIj9kakY6Ka+TlomTk+V6IVRK2xo+z+r/d1rIDQeelz3CV//wk64zpNuV1AmryI5ZrsPTE6ca2D/eyqZZrXW1VVC/QUE9iCiaT46gi1wOiG3EsexM+PuTZ+0DEjBE4qDDvmjLqKiKqXJ9iKZ1xWu69vDX+ZOAIhThHbU8GfISqMIaUug34gR8o/DBPldDC5s9UREFapfZ9LaZxl76M7KuiOPkj+8KEaTxHnBWgDVBwHTfRxxaalmoNfVm/MB/UgmziYfZujYL2hv4tQM/wy+PKD1uMb4CIUvwdRKm8crODu/vAcsbkZDoGjsinoOhR16/4FlSytD8fz+S19zWKZ8F4E2Pc59y8x109xiAyKsUbi8EYNFdZxdGDPMY4"
+    "Versao":  "4.42.17",
+    "Instalador":  "EnginePro_Setup_4.42.17.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.17/EnginePro_Setup_4.42.17.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.17/EnginePro_Setup_4.42.17.exe.gz",
+    "SHA256":  "E0E87B289CE985D69A616A613AC865360EDD99FE44C755A6A1F0503C37646E5C",
+    "Data":  "2026-11-06 17:54",
+    "Notas":  "Ativacao desligada (maquinas da GPO nao pedem mais codigo) e SegredoIA embutido (auto-provisionamento das obras).",
+    "Assinatura":  "DCzXjvAmgW9qNaxriCdKyj7cxfmSlN5jrKlir/wzKYjFpg+9ywsWOVgyuqXFwYu/KYUnmuaoE9zW3JYnZDnv8NfoI8watIUwuYEzJ6wrgZKr7moiZNsfr6dR4vVYy1oBRjaWyejeSmMwlQuneoOWmrbzcwf+MkZ9K0l0EBHTyPiffyDtpYgs/H3l+1YSEQJ6SMul3HU1Ltgm13E+g7Q/tUVqdxDhuyS+MIIIdNJfENDxAnCaUi2fY2TFsVwWFGCxJE7fklDIUsf5s7o0nJRuOuKDNZgPQvju6tq4DVE/9yZgnyZ0+QTTeM2zYqWG5o5DIrdfDfElnRfBOzNtT3nedaiw93H7trbxLql4YTg8Mlb/paJtMNAqLcsTbGUA7Sy9jhozlw1mkGJaFtdJ8t1xXx5a3H3jyETnak+ET/n3JUtdwsQ7nE1LsLSN5hA4EdpnrwtnVkcW1E4aMTv6IsDEhNNagDw98OqNaZIjwNaNqRN91S2Eyh0ydzNIiN339K0c"
 }
