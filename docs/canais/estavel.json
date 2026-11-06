@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.5",
-    "Instalador":  "EnginePro_Setup_4.42.5.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.5/EnginePro_Setup_4.42.5.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.5/EnginePro_Setup_4.42.5.exe.gz",
-    "SHA256":  "1CC408BEEA7BEE894FA61F7E5F244928816F7922F68707AD1DC68F1BFF823A21",
-    "Data":  "2026-11-06 11:35",
+    "Versao":  "4.42.6",
+    "Instalador":  "EnginePro_Setup_4.42.6.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe.gz",
+    "SHA256":  "91940B6DDBCC0132263136E442133B69EB545DB1A682A1756DA622241CC1FDE3",
+    "Data":  "2026-11-06 11:38",
     "Notas":  "Tela de provisionamento da IA aparece so no PC do TI",
-    "Assinatura":  "p6qVJneutCj+zDaAxnvXh1DHTbbqPpZ9HQ+gH/3ItTX9XB7p5qmvpT/CQFSMu3JH+qsJ/amFQFwjigLmVchiN0GmjYHgWZ9pb+PQU3dUaEvQJBLljdxmH2bRCHqYlTr+rUgmeoke+D+4yZ+ue/NKkCp3vjnVR6sQmF0DL+AF8qHeElcDtRxvthmCNmxAI+R7HyJibgwCp7Ys0y+zh1iFOW2ymkMqXpdL+Fb+rSpPGBlUqNnRt8PToAaW1c4J05UkWRQDFm8U0pZEQ9QMXLQdC1jfwG1YMUg52NrB8m/cYIEgKkYhiF2WQ0wMsMeDGMrA691w9xq6GBM5erLTs6bBfpYZZIMNQ+zJZiyEATtUMdSRH3pHyNXbbeMynFb0QcIB5aIzkxMOfUTllklRHJsbAhdN6DW43CfJPN9Ob1vT4E7tti5lUN6tdR3SnoyrWpJxqcSo3OYWkfh+OpKZ79blplYyuX84XpBR0Bhr7cYB5t2OB42XgXHvPV1YU/ts+4g8"
+    "Assinatura":  "P/iJLcnpENT5jrG9M+PlEtJ+NmpCxrVJqtrgLWsTACZzyNSDIK9c+fu8b+p6zVerJkK0ArpI0POavNqA96O22q9N+7DBzZldICZUa4WG+tOilzSawBiOn2K5xtW2QdrQVzIKNN1gHjJSG1+Y3QATdPmmTOAvL4aSmOpjssYt7LdbRZjj83CE3xeEezJSWzk1CCmiuWeqyvJhR+UMoI2UK6c6gmio5gMpZxgwuHiHI1UgY4Atf1zODjeqLWhcquKJIRVaL7cYPVs1BbeLR8IgYWcCzZldSlGRWS8fe4QYiFYb9xE4GzVWZHU7R9RaRVGu54JZ8QCEDZkRynLF8N/wIc4fZiqRUi0V7sq0kzZkkf0vXzjtllLTUNpG64jklMwlNG2nWiX5Z9EfcRvHhuehU+f03TuFEtb24Z+3UPYO/pcIyOuUrsz5hsZ5vhJnUChuCZTZgBKR3nSjQYNtSK3/JIy3XfcCvVyhlVjxpmsCVy+U/bGslOXPAeYfVnDQ/6kJ"
 }

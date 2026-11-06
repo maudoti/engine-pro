@@ -5,8 +5,8 @@
     "N48":  1180,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 11:35",
-                         "Texto":  "Nova versão 4.42.5 publicada: Tela de provisionamento da IA aparece so no PC do TI",
+                         "Data":  "2026-11-06 11:38",
+                         "Texto":  "Nova versão 4.42.6 publicada: Tela de provisionamento da IA aparece so no PC do TI",
                          "Nivel":  "info"
                      },
                      {
@@ -48,8 +48,8 @@
     "Horas":  [
                   9,
                   17,
-                  4,
-                  12,
+                  5,
+                  11,
                   12,
                   12,
                   12,
@@ -61,8 +61,8 @@
                   33,
                   39,
                   47,
-                  34,
-                  24,
+                  37,
+                  21,
                   30,
                   35,
                   20,
@@ -90,12 +90,12 @@
                   35,
                   36,
                   12,
-                  15,
-                  133,
+                  38,
+                  110,
                   127,
                   99
               ],
     "Ultima":  "2026-11-06 11:21:50",
-    "Gerado":  "2026-11-06 11:37:05",
-    "Data":  "2026-11-06 11:37"
+    "Gerado":  "2026-11-06 11:38:33",
+    "Data":  "2026-11-06 11:38"
 }

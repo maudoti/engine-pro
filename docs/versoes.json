@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.6",
+        "Data":  "2026-11-06 11:38",
+        "Notas":  "Tela de provisionamento da IA aparece so no PC do TI",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe"
+    },
+    {
         "Versao":  "4.42.5",
         "Data":  "2026-11-06 11:35",
         "Notas":  "Tela de provisionamento da IA aparece so no PC do TI",
@@ -47,13 +54,6 @@
         "Notas":  "Remove o atalho do Engine Pro da area de trabalho",
         "Canal":  "estavel",
         "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.7/EnginePro_Setup_4.42.7.exe"
-    },
-    {
-        "Versao":  "4.42.6",
-        "Data":  "2026-11-05 15:18",
-        "Notas":  "Instalacao via GPO",
-        "Canal":  "estavel",
-        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe"
     },
     {
         "Versao":  "4.42.4",
