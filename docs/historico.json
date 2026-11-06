@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.42.11",
+        "Data":  "2026-11-06 11:28",
+        "Titulo":  "Tela de provisionamento da IA aparece so no PC do TI",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela de provisionamento da IA aparece so no PC do TI."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Estacoes nao pedem mais o segredo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.10",
         "Data":  "2026-11-06 10:52",
         "Titulo":  "Migracao de ativacao reforcada: maquinas que ja rodavam n...",

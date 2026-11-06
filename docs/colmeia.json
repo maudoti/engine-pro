@@ -5,13 +5,13 @@
     "N48":  1180,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 11:21:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 64 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-06 11:28",
+                         "Texto":  "Nova versão 4.42.11 publicada: Tela de provisionamento da IA aparece so no PC do TI",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 10:52",
-                         "Texto":  "Nova versão 4.42.10 publicada: Migracao de ativacao reforcada: maquinas que ja rodavam nao pedem codigo, so instalacoes novas de verdade exigem o codigo do TI",
+                         "Data":  "2026-11-06 11:21:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 64 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -47,8 +47,8 @@
                  ],
     "Horas":  [
                   9,
-                  12,
-                  9,
+                  17,
+                  4,
                   12,
                   12,
                   12,
@@ -78,12 +78,12 @@
                   8,
                   8,
                   12,
-                  4,
                   12,
+                  4,
                   8,
                   12,
-                  28,
-                  42,
+                  37,
+                  33,
                   34,
                   36,
                   28,
@@ -96,6 +96,6 @@
                   115
               ],
     "Ultima":  "2026-11-06 11:21:50",
-    "Gerado":  "2026-11-06 11:27:03",
-    "Data":  "2026-11-06 11:27"
+    "Gerado":  "2026-11-06 11:28:56",
+    "Data":  "2026-11-06 11:28"
 }

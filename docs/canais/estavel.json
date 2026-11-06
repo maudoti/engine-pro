@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.10",
-    "Instalador":  "EnginePro_Setup_4.42.10.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.10/EnginePro_Setup_4.42.10.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.10/EnginePro_Setup_4.42.10.exe.gz",
-    "SHA256":  "B5E87EA48435AE095D69DDFC1220318F34A4E93278C8775CC4BC9560C73FD898",
-    "Data":  "2026-11-06 10:52",
-    "Notas":  "Migracao de ativacao reforcada: maquinas que ja rodavam nao pedem codigo, so instalacoes novas de verdade exigem o codigo do TI",
-    "Assinatura":  "aGwfRYu0P/HgH/nHYuWScoyONmOBYu4rRi6AcvSxK1cR9Z7cwi6Tg2WDCua16+Cpgq4GAIP0d1lZlM5ZLtf43R1pfO4xvnXtBx4sXVdkNtYah8lnTC+FIcabr4rFVSmaSlo4RpPeWlGf6rzJtlM3/7ELcD2w5sMicqoTQ68pcUWa/hEkI3l++hK2OAVyupXo+xgnjRtNfJNXZDXYhUhSzn4shAzFQAvxxQf1HQMju9UD05H3iQd/VB6tB5PkbFlrWoHkcdQBXQlyWpJ3N7PU9LZAFNL3YAAqw/RYGq95roxp5sp5zIWNUxSzI862CYSbrZWF3aihghbUdiTchc1FN/XfB+WvW9KTrSFFwgbSuh0yNBbs/dk0NPB86E2yi2FA2be7ElQtZnMCaQ2iLlrO8nKR0bMBHNXLPLUOfHoe+Q+DVOqsa5u3spoGt+GZbkIaPw/jyGgv3XbQ2Z4TxyogJ7362yah08nImMglZpTMkJvHglnER9pq96SGPGGOgiHq"
+    "Versao":  "4.42.11",
+    "Instalador":  "EnginePro_Setup_4.42.11.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.11/EnginePro_Setup_4.42.11.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.11/EnginePro_Setup_4.42.11.exe.gz",
+    "SHA256":  "E468BBB48F760DA8D77FCE0A20F12081A85667705138F2468AAB0416F78BAEAB",
+    "Data":  "2026-11-06 11:28",
+    "Notas":  "Tela de provisionamento da IA aparece so no PC do TI; estacoes nao pedem mais o segredo",
+    "Assinatura":  "dy42DYtMiOQ6sUrVLJ1JTBtQ/kAT1o+U8zTTB48C5wYZm5i+lZz+2/pU+JQlX/JaD5lU9wrDduBc15XJpAk5RwE3oVtgBIVnLs1paO4rMhmP2IKrL6+QK3RtD4LKlpG9plU7ZY7ziN7AVNlIGQ7Km/YmfVYq5IOlsDFGs2KuVjj5ILYUY/GdLPG4g9FkhV5Eo6nwsSOj+jXN9Ma0JA8OJiAyW9j78ojuoSQnKfN3hbFMSls/4szT+aGe5fCe0msjvEj5p316TpYQ2Lxlq4VumsWwlpicYoMPvzQpcOIKODhHibfp5OH+XlYUzsE4zNqOMwsGR01wKB5RBOyGtIQR9OUn11IJrWHwwPoYqbR5yE2Oyv7F8ELh1kiB/N/cYurFJvTuergqnWVG4bnA57WPUbnuGdQ2jXE63D/UFjzHaL0/6O8QJBf7BSdozJGUvjRGcdiqBXoyw3txiORqKpCcUZ/Jrh/LjxtYfFY4YqRAM9SNglLn92BggvpY8Ri76aPv"
 }

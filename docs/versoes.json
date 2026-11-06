@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.11",
+        "Data":  "2026-11-06 11:28",
+        "Notas":  "Tela de provisionamento da IA aparece so no PC do TI; estacoes nao pedem mais o segredo",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.11/EnginePro_Setup_4.42.11.exe"
+    },
+    {
         "Versao":  "4.42.10",
         "Data":  "2026-11-06 10:52",
         "Notas":  "Migracao de ativacao reforcada: maquinas que ja rodavam nao pedem codigo, so instalacoes novas de verdade exigem o codigo do TI",

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.11 | Tela de provisionamento da IA aparece so no PC do TI | 06/11/2026
+
+- **Melhoria**: Tela de provisionamento da IA aparece so no PC do TI.
+- **Melhoria**: Estacoes nao pedem mais o segredo.
+
 ## Versão 4.42.10 | Migracao de ativacao reforcada: maquinas que ja rodavam n... | 06/11/2026
 
 - **Melhoria**: Migracao de ativacao reforcada: maquinas que ja rodavam nao pedem codigo, so instalacoes novas de verdade exigem o codigo do TI.
