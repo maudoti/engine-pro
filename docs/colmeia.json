@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  741,
-    "Pesquisas":  2953,
-    "N48":  933,
+    "Pesquisas":  2969,
+    "N48":  940,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 08:58:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 75 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-06 09:09:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 08:29",
-                         "Texto":  "Nova versão 4.42.8 publicada: Autodeteccao na instalacao, chat na nuvem, fila da Colmeia continua sem parar, analise de inicializacao mais profunda, tela de carregamento e localizacao automatica",
+                         "Data":  "2026-11-06 08:58:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 75 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 07:51:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-06 08:29",
+                         "Texto":  "Nova versão 4.42.8 publicada: Autodeteccao na instalacao, chat na nuvem, fila da Colmeia continua sem parar, analise de inicializacao mais profunda, tela de carregamento e localizacao automatica",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 327 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 343 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -46,7 +46,7 @@
                      }
                  ],
     "Horas":  [
-                  16,
+                  7,
                   17,
                   4,
                   9,
@@ -60,22 +60,22 @@
                   12,
                   12,
                   12,
-                  0,
-                  54,
+                  12,
+                  42,
+                  53,
                   40,
-                  41,
-                  31,
+                  19,
                   30,
                   34,
                   28,
-                  4,
-                  8,
+                  12,
+                  0,
                   21,
                   8,
                   8,
-                  18,
-                  4,
+                  22,
                   15,
+                  0,
                   4,
                   16,
                   8,
@@ -84,18 +84,18 @@
                   16,
                   8,
                   12,
-                  14,
-                  39,
+                  28,
                   38,
-                  37,
+                  25,
+                  49,
+                  19,
                   31,
-                  31,
-                  32,
-                  29,
+                  41,
+                  20,
                   15,
-                  75
+                  91
               ],
-    "Ultima":  "2026-11-06 08:58:46",
-    "Gerado":  "2026-11-06 09:07:03",
-    "Data":  "2026-11-06 09:07"
+    "Ultima":  "2026-11-06 09:09:01",
+    "Gerado":  "2026-11-06 09:17:02",
+    "Data":  "2026-11-06 09:17"
 }
