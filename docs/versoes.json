@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.5",
+        "Data":  "2026-11-06 11:35",
+        "Notas":  "Tela de provisionamento da IA aparece so no PC do TI",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.5/EnginePro_Setup_4.42.5.exe"
+    },
+    {
         "Versao":  "4.42.4",
         "Data":  "2026-11-06 11:32",
         "Notas":  "Abertura sem tela de carregando",
@@ -47,13 +54,6 @@
         "Notas":  "Instalacao via GPO",
         "Canal":  "estavel",
         "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe"
-    },
-    {
-        "Versao":  "4.42.5",
-        "Data":  "2026-11-05 15:11",
-        "Notas":  "Instalacao via GPO",
-        "Canal":  "estavel",
-        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.5/EnginePro_Setup_4.42.5.exe"
     },
     {
         "Versao":  "4.42.4",
