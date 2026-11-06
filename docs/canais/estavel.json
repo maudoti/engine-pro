@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.11",
-    "Instalador":  "EnginePro_Setup_4.42.11.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.11/EnginePro_Setup_4.42.11.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.11/EnginePro_Setup_4.42.11.exe.gz",
-    "SHA256":  "E468BBB48F760DA8D77FCE0A20F12081A85667705138F2468AAB0416F78BAEAB",
-    "Data":  "2026-11-06 11:28",
-    "Notas":  "Tela de provisionamento da IA aparece so no PC do TI; estacoes nao pedem mais o segredo",
-    "Assinatura":  "dy42DYtMiOQ6sUrVLJ1JTBtQ/kAT1o+U8zTTB48C5wYZm5i+lZz+2/pU+JQlX/JaD5lU9wrDduBc15XJpAk5RwE3oVtgBIVnLs1paO4rMhmP2IKrL6+QK3RtD4LKlpG9plU7ZY7ziN7AVNlIGQ7Km/YmfVYq5IOlsDFGs2KuVjj5ILYUY/GdLPG4g9FkhV5Eo6nwsSOj+jXN9Ma0JA8OJiAyW9j78ojuoSQnKfN3hbFMSls/4szT+aGe5fCe0msjvEj5p316TpYQ2Lxlq4VumsWwlpicYoMPvzQpcOIKODhHibfp5OH+XlYUzsE4zNqOMwsGR01wKB5RBOyGtIQR9OUn11IJrWHwwPoYqbR5yE2Oyv7F8ELh1kiB/N/cYurFJvTuergqnWVG4bnA57WPUbnuGdQ2jXE63D/UFjzHaL0/6O8QJBf7BSdozJGUvjRGcdiqBXoyw3txiORqKpCcUZ/Jrh/LjxtYfFY4YqRAM9SNglLn92BggvpY8Ri76aPv"
+    "Versao":  "4.42.4",
+    "Instalador":  "EnginePro_Setup_4.42.4.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe.gz",
+    "SHA256":  "741060D667CFD34E0A419BF49790E8AC0FDB0BB931C273AADFF7D5E8F16EC373",
+    "Data":  "2026-11-05 15:03",
+    "Notas":  "Abertura sem tela de carregando",
+    "Assinatura":  "W3+/4QfFFn3IzM93NEWywxzCTVD774sGntaYjmol8RJJPqBEF7MDJ4nM220w3MensSNQ1yzhBJhseaAhU+WBV6dkxMQzVn+sENb3wzmoaPLlQOpvKkQ6I+DFbAtBn9IGHiVjH0ekLFid1uMv0yLYWsgTITBPqI0Q2yLIDNmeRjZJZe6DTsqq5tLEyHlaF5Nve21egBu2owJTzk3elhaq86weRyfpoEeYO2h6vpaLBYSuK3h3HAz9W9M03yBQVxqs88mDLqI1W8tbuHBsIKsf7ZggUFxn9kVazxAMocCtVynLF4J8Q1O5S+aeNtj0qRxgkhXEKgEWg+q46YBTA0C+CgpiIA3vO0nH4A2jDL1iyDA21MOa9zI9Uq4sLBktDn0SMgLUxKx+NuUX5jCkmjSREbSBEQ4mRg6OggzC2BAwqz30o/eoAjiVDMt7yMKezONd/uDi73E3GFKCb2HwI6jFXoGhKGCebRiqip0SYGmJHy6mfTIm3+OxYo10FFg11jG7"
 }
