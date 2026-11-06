@@ -5,14 +5,14 @@
     "N48":  1693,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 16:14:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 43 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-06 16:21:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070422 (ERROR_SERVICE_DISABLED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 16:14",
-                         "Texto":  "Nova versão 4.42.14 publicada: COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila.",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-06 16:21:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 15:53:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 139 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-06 16:21:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000FE (BUGCODE_USB_DRIVER) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -30,19 +30,19 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 06:15:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 16:21",
+                         "Texto":  "Nova versão 4.42.15 publicada: COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila.",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 06:05:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive parou de sincronizar",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 16:14:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 43 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 05:44:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Caminho longo demais (OneDrive, SharePoint e Excel)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 15:53:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 139 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
@@ -54,25 +54,25 @@
                   12,
                   12,
                   12,
-                  42,
-                  53,
+                  56,
+                  39,
                   40,
-                  19,
                   30,
-                  34,
-                  28,
-                  12,
-                  0,
-                  21,
+                  30,
+                  23,
+                  32,
+                  8,
+                  13,
+                  8,
                   8,
                   8,
                   22,
                   15,
-                  0,
                   4,
+                  0,
                   16,
-                  8,
-                  8,
+                  16,
+                  0,
                   12,
                   16,
                   8,
@@ -81,21 +81,21 @@
                   38,
                   25,
                   49,
+                  28,
+                  22,
+                  42,
                   19,
-                  31,
-                  41,
-                  20,
                   15,
-                  91,
-                  130,
-                  118,
-                  102,
-                  92,
-                  108,
-                  145,
-                  140
+                  114,
+                  107,
+                  138,
+                  82,
+                  114,
+                  112,
+                  134,
+                  125
               ],
     "Ultima":  "2026-11-06 16:14:30",
-    "Gerado":  "2026-11-06 16:17:03",
-    "Data":  "2026-11-06 16:17"
+    "Gerado":  "2026-11-06 16:21:52",
+    "Data":  "2026-11-06 16:21"
 }
