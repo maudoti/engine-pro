@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  728,
-    "Pesquisas":  2649,
-    "N48":  874,
+    "Pesquisas":  2665,
+    "N48":  890,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-06 00:53:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 39 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-06 00:31:04",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071AC3 (ERROR_DIRTY_VOLUME) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-06 00:28:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 23 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 39 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -53,10 +53,10 @@
     "Horas":  [
                   61,
                   33,
-                  27,
-                  26,
-                  38,
-                  26,
+                  31,
+                  34,
+                  34,
+                  18,
                   8,
                   13,
                   29,
@@ -67,26 +67,26 @@
                   12,
                   12,
                   12,
-                  0,
                   12,
                   9,
                   4,
+                  0,
                   12,
                   12,
                   12,
                   39,
-                  49,
-                  31,
+                  55,
                   37,
+                  25,
                   28,
                   33,
-                  37,
-                  8,
-                  8,
-                  17,
+                  41,
                   4,
                   8,
+                  21,
                   8,
+                  8,
+                  0,
                   22,
                   15,
                   4,
@@ -98,9 +98,9 @@
                   8,
                   12,
                   14,
-                  23
+                  39
               ],
-    "Ultima":  "2026-11-06 00:28:49",
-    "Gerado":  "2026-11-06 00:47:03",
-    "Data":  "2026-11-06 00:47"
+    "Ultima":  "2026-11-06 00:53:29",
+    "Gerado":  "2026-11-06 00:57:03",
+    "Data":  "2026-11-06 00:57"
 }
