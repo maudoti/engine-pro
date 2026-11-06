@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.13",
-    "Instalador":  "EnginePro_Setup_4.42.13.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.13/EnginePro_Setup_4.42.13.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.13/EnginePro_Setup_4.42.13.exe.gz",
-    "SHA256":  "B72D381E03263E31F10844C321097471FA735EBAD64F43B5F460D980BE6FE33E",
-    "Data":  "2026-11-06 13:49",
-    "Notas":  "Piloto da Colmeia usa o Claude para drenar a fila quando as IAs gratuitas estao sem cota",
-    "Assinatura":  "tHd6L61f+g3vdUg73+pX9y6/xdKAPBtEqiBGjzmSxpN6XYK6LBFWPUQxDlBcn1O/aEnZVxqDAeZqvqwnZivXY9hZqj+xSpCmvphehfOZjW3SP84iX8MMdZmcp2ALrx2PZSPSFFRK9mugnEqVBt2NtZ+gqJQCXlHlRYsxDC33+NqSGbZY48y83iUZs7SFvwTCm31K9ROFnq3tRG+QJa8NDGQkrvsHzhx/RMJo09Fsv4CRyp/gpbtgytKjrZsWG8cncXD2s+q2BAbMe7tSPasair35U4yRlj6bPzXQ4iyY6t0FbAmmu6KFEr+TLH9/L/3Lxc9LyD/yFmrTToo1vbi3a208e79wzidvInHhGaV23WTGNV5Zzn7OTVOY92cYl6NzqJWCnway1cVonkepi/aunc38oipb9v1A09b+1uCY2MlCNczQEOrnJKl/VUbaVpIpIJh6zlrZOyvE4ayYbEn7wHuVdF8vIdWM3DtieSVy5rZsRWg73RR58Wlc5CYpP05D"
+    "Versao":  "4.42.14",
+    "Instalador":  "EnginePro_Setup_4.42.14.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.14/EnginePro_Setup_4.42.14.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.14/EnginePro_Setup_4.42.14.exe.gz",
+    "SHA256":  "8F85816C39CA188D0481D481C985055180F04391DDF0739097B3CFA6009C3BA5",
+    "Data":  "2026-11-06 16:14",
+    "Notas":  "COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila.",
+    "Assinatura":  "PrMcbK7r01Gb2OjrXtacapOKXGCfgKHO5gNmWVkRds8qPIihubxr5vJy6uu/KMiTri/uwGvC5944Nzq9QP8egB6A4aOIxfO9nElCCeg39A+j0ovZX//AhYIiJ5PsmNP3lUHNq47EDcM0hN1VXWks0EQIO1HsQRwnwQOWjbZUfnIOVDeXwV1kTHiP8P7EWc9sqI3DCNVcBaAcvQJ5M6t+Au30g/uD7TBfB4fAQSwumYH29zJIBne4o8Gc2vriD1vBVybAaUiTmex5BZGKfQjGcHFGJddYJDWS76B9uxyGZ1MeCARxgfomZYQSAIGXRRI7SIeWZT5woDZTwkxkQZvkdY6UOB7RedwxV3jY8MweTD3Scfjn4Gje8M40JtFCAgWqp2M/X5JVIOMQoWRl9z7cN2wj6wTL8bCE3uYrjn229+AIJbdt/nTvLF1jVNn59/FHMf446jhqtafoDr6aHMxWEK4jx+ixmK+ZHuhu/5gsotoheIUVVzZnAfa4J6cH9+rh"
 }

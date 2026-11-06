@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.14",
+        "Data":  "2026-11-06 16:14",
+        "Titulo":  "COLMEIA: a fila para de crescer sozinha. Conhecimento con...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.13",
         "Data":  "2026-11-06 13:49",
         "Titulo":  "Piloto da Colmeia usa o Claude para drenar a fila quando ...",

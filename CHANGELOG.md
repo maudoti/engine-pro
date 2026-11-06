@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.14 | COLMEIA: a fila para de crescer sozinha. Conhecimento con... | 06/11/2026
+
+- **Melhoria**: COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila.
+
 ## Versão 4.42.13 | Piloto da Colmeia usa o Claude para drenar a fila quando ... | 06/11/2026
 
 - **Melhoria**: Piloto da Colmeia usa o Claude para drenar a fila quando as IAs gratuitas estao sem cota.
