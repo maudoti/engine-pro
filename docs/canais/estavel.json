@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.8",
-    "Instalador":  "EnginePro_Setup_4.42.8.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.8/EnginePro_Setup_4.42.8.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.8/EnginePro_Setup_4.42.8.exe.gz",
-    "SHA256":  "2854124F3F4C93DDADE42E17FBCB515DE66505BA338D480FFA17476036915150",
-    "Data":  "2026-11-06 08:29",
-    "Notas":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmeia continua sem parar, analise de inicializacao mais profunda, tela de carregamento e localizacao automatica",
-    "Assinatura":  "r6ajV5zCbCCdIBzXuL9GjUrQKPMxzgCZVSiKFUULGC7AMa4bDErcjOlCNiYvAqhP5mCmsjrDwpJiVCgYOe/UvvSDMPR/nkLZ7E9vhh1Wfz8dlvrfHU+U1Jm7GNYD+/rSFjgHNf6386gvUZKZfBCE+uSDKUDv1TVYFEpUPPfL9+XNR/J3UH+/VVqqyZ+9EKwnK5UcgvLImkOqyrxz36GlymMXlM9B2x4WPdbcH9/4fC8jep0Zxr2ME+mpa4SGjL6mAabQZUco6S4RjAXw+xKbA97JObAjphRJc4S5Knesz4cJcy+SkVMXhJTpzZz+8MuTTyevHPA7kfuSB9U41OECOqzQsK2WPY5vpm1Jf1EizX4WYO7ow0z72URMS0P5VTvNVuwUCgAT/m967CGRKd5C3gewAVgcsZ6nWeV05L8oi0XkpNcXJ9pJvK8emV9onxNurJACLBNahhJumdBvg86HdbxnkL/s38WrYrxuuWTJfeWKzFZ/P8L4pScPAWVcpoB3"
+    "Versao":  "4.42.9",
+    "Instalador":  "EnginePro_Setup_4.42.9.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.9/EnginePro_Setup_4.42.9.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.9/EnginePro_Setup_4.42.9.exe.gz",
+    "SHA256":  "A9BFDC977066C591DF394FFC1A326E38F73F000417D40DB811CBE9F8FBC522F1",
+    "Data":  "2026-11-06 10:42",
+    "Notas":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmeia sem parar, analise de inicializacao mais profunda, tela de carregamento, localizacao automatica e ativacao obrigatoria por codigo",
+    "Assinatura":  "Ir5FN9o+X35RNxc9OIVTwR2VoTv2oCo9m0ONTd5OwJup4FqBhxj0B8VSZ00qiPW6o25BdAkcY2Zpj0xWo+HB47G/M3Jpn72NPSklv3+FtJcv9W44O7rr5F57rBhKMFC9C6fdupgWvtdu9+1RdMvcH4yklnbFelv+uADNshU0LE3me31Xt7aogen0L7e8ybEoMZBMV0lvesyLQp0rjSuCjiVYWektt3vCzwujv0uBY3v/KP6Tg66quvXgpDVQUTMpx257KLWTVuzY8yUbV+NSKv6Td72QaZvNLMbyslrmINqnOZOMmQ/CbtPByccNRg/vsOYEj9zx7Oajmr3uCAbrCNj+9V5WKJAC6MUIjLzoIi0kwr0yLyCA/dyK0iCsinGJWdGZ+3qv8GL+YFxHT7kIgzuMuHOnNqmhdX944njfxnRUl0sZJmdVZWatKLkI7/prsg5/IE4KI6PlFArnVNEm6c4R27OyWe78XC0PlLplSESxgis//2Ub6OiR4vY9EZ5C"
 }

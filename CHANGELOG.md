@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.9 | Autodeteccao na instalacao, chat na nuvem, fila da Colmei... | 06/11/2026
+
+- **Melhoria**: Autodeteccao na instalacao, chat na nuvem, fila da Colmeia sem parar, analise de inicializacao mais profunda, tela de carregamento, localizacao automatica e ativacao obrigatoria por codigo.
+
 ## Versão 4.42.8 | Autodeteccao na instalacao, chat na nuvem, fila da Colmei... | 06/11/2026
 
 - **Melhoria**: Autodeteccao na instalacao, chat na nuvem, fila da Colmeia continua sem parar, analise de inicializacao mais profunda, tela de carregamento e localizacao automatica.
