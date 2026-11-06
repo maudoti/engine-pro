@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  730,
-    "Pesquisas":  2716,
-    "N48":  857,
+    "Pesquisas":  2730,
+    "N48":  861,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-06 02:43:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 40 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-06 02:25:19",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-06 02:23:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 90 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 104 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -46,35 +46,35 @@
                      }
                  ],
     "Horas":  [
-                  28,
-                  35,
+                  27,
+                  26,
                   38,
                   26,
                   8,
                   13,
-                  22,
-                  7,
-                  21,
-                  9,
+                  29,
                   17,
                   4,
+                  9,
+                  21,
                   12,
                   12,
                   12,
+                  0,
                   12,
                   9,
                   4,
                   12,
                   12,
                   12,
-                  33,
                   39,
-                  47,
-                  34,
-                  24,
-                  30,
-                  35,
-                  20,
+                  49,
+                  31,
+                  37,
+                  28,
+                  33,
+                  37,
+                  8,
                   8,
                   17,
                   4,
@@ -90,12 +90,12 @@
                   16,
                   8,
                   12,
-                  11,
-                  26,
-                  33,
-                  34
+                  14,
+                  23,
+                  41,
+                  40
               ],
-    "Ultima":  "2026-11-06 02:23:05",
-    "Gerado":  "2026-11-06 02:37:03",
-    "Data":  "2026-11-06 02:37"
+    "Ultima":  "2026-11-06 02:43:58",
+    "Gerado":  "2026-11-06 02:47:03",
+    "Data":  "2026-11-06 02:47"
 }
