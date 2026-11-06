@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  741,
+    "Conhecimentos":  743,
     "Pesquisas":  3826,
     "N48":  1715,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 16:26:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-06 16:27:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Office com \"envio pendente\" ou falha no carregamento",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 16:21:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070422 (ERROR_SERVICE_DISABLED) no Windows",
+                         "Data":  "2026-11-06 16:27:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 16:21:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
+                         "Data":  "2026-11-06 16:27:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007003B (ERROR_UNEXP_NET_ERR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 16:21:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000FE (BUGCODE_USB_DRIVER) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 16:26:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-06 16:21",
@@ -53,11 +53,11 @@
                   12,
                   12,
                   12,
-                  12,
-                  60,
-                  35,
-                  40,
-                  30,
+                  33,
+                  39,
+                  47,
+                  34,
+                  24,
                   30,
                   35,
                   20,
@@ -73,29 +73,29 @@
                   8,
                   8,
                   12,
-                  4,
-                  12,
+                  16,
                   8,
                   12,
-                  28,
-                  42,
+                  11,
+                  26,
+                  33,
                   34,
-                  36,
-                  28,
+                  44,
+                  20,
                   35,
-                  29,
-                  19,
+                  36,
+                  12,
                   15,
-                  114,
-                  130,
-                  115,
-                  101,
-                  95,
-                  112,
-                  146,
-                  135
+                  133,
+                  127,
+                  99,
+                  113,
+                  104,
+                  117,
+                  145,
+                  110
               ],
     "Ultima":  "2026-11-06 16:26:41",
-    "Gerado":  "2026-11-06 16:27:03",
-    "Data":  "2026-11-06 16:27"
+    "Gerado":  "2026-11-06 16:37:03",
+    "Data":  "2026-11-06 16:37"
 }
