@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.15",
-    "Instalador":  "EnginePro_Setup_4.42.15.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.15/EnginePro_Setup_4.42.15.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.15/EnginePro_Setup_4.42.15.exe.gz",
-    "SHA256":  "3F493CAF73B79B9EBBD6EF6270AFFF1C75C8614EE13442C3B9122FE7A6740DFA",
-    "Data":  "2026-11-06 16:21",
-    "Notas":  "COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila.",
-    "Assinatura":  "EUHzcbkr2eeIV6jwlGAt/8ytoQ8gN1dUPJOUo8txmAWmEG6JwvXqz2hObr4h09WMgV1FoMcCwuywtM2nNveQqVszSQTw5j/JT+zs0ru3bD8NNdTP1fkNaqbKfeIlbc2fyf2ljeQjnsbc9FtIXldNKlVa7WVKI4pzWicS5KyFM/BTnk1/Ba5e9O30dKFleFEEJfr+95ewizIluX4LVKteyYTAIHgQrPUeD0KerjsbzcozpTPAbkFh8IywjhBOi2iyzJN57FpCXKgyuMf4Bm+x7ENjImgKrYkkH9js0oadoHOy6E8D43sVPrxxfCg4mTdUTYbZpCIUsnmKtwzIHtZXVgaEK0OnR3Ddijm3w/XyieoGYS8XMh3e3VI2Gd09QyC/Dsr1e49uO900clCDEyOVhI/XRELFZwolRXq68IzSrTyZFveZC/ySmjln/OiSGe6EtWRubMJYmg/5CMu9Be16sCCR/rrCORw3BMlNiAnVooYnNsX7pzlPUva9muESY36R"
+    "Versao":  "4.42.16",
+    "Instalador":  "EnginePro_Setup_4.42.16.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.16/EnginePro_Setup_4.42.16.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.16/EnginePro_Setup_4.42.16.exe.gz",
+    "SHA256":  "94DD3B0CFC68AE0BEEBF07497E4D6FEED723D52BAADA94A8C1494C9CF9451B00",
+    "Data":  "2026-11-06 17:35",
+    "Notas":  "Provisionamento: o SegredoIA passa a ser embutido na compilacao, entao maquinas novas (obra) decifram o chamados.json e aparecem na lista sozinhas, sem provisionamento manual.",
+    "Assinatura":  "d4cJzFNI7b16pvPPKDtFmikaSvV+b528rUOD05abRoGGeOwmSptrltZgmA7D3VPyJWDB1yl+kFtjeyTPUBNrBRyjGBA/pzSxTWjU4mjF8T3UFXBHL1BalHHhyA+JfeKAYdaWDHgIj9kakY6Ka+TlomTk+V6IVRK2xo+z+r/d1rIDQeelz3CV//wk64zpNuV1AmryI5ZrsPTE6ca2D/eyqZZrXW1VVC/QUE9iCiaT46gi1wOiG3EsexM+PuTZ+0DEjBE4qDDvmjLqKiKqXJ9iKZ1xWu69vDX+ZOAIhThHbU8GfISqMIaUug34gR8o/DBPldDC5s9UREFapfZ9LaZxl76M7KuiOPkj+8KEaTxHnBWgDVBwHTfRxxaalmoNfVm/MB/UgmziYfZujYL2hv4tQM/wy+PKD1uMb4CIUvwdRKm8crODu/vAcsbkZDoGjsinoOhR16/4FlSytD8fz+S19zWKZ8F4E2Pc59y8x109xiAyKsUbi8EYNFdZxdGDPMY4"
 }

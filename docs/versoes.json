@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.16",
+        "Data":  "2026-11-06 17:35",
+        "Notas":  "Provisionamento: o SegredoIA passa a ser embutido na compilacao, entao maquinas novas (obra) decifram o chamados.json e aparecem na lista sozinhas, sem provisionamento manual.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.16/EnginePro_Setup_4.42.16.exe"
+    },
+    {
         "Versao":  "4.42.15",
         "Data":  "2026-11-06 16:21",
         "Notas":  "COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila.",

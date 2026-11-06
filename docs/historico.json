@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.16",
+        "Data":  "2026-11-06 17:35",
+        "Titulo":  "Provisionamento: o SegredoIA passa a ser embutido na comp...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Provisionamento: o SegredoIA passa a ser embutido na compilacao, entao maquinas novas (obra) decifram o chamados.json e aparecem na lista sozinhas, sem provisionamento manual."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.15",
         "Data":  "2026-11-06 16:21",
         "Titulo":  "COLMEIA: a fila para de crescer sozinha. Conhecimento con...",

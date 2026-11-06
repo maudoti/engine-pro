@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.16 | Provisionamento: o SegredoIA passa a ser embutido na comp... | 06/11/2026
+
+- **Melhoria**: Provisionamento: o SegredoIA passa a ser embutido na compilacao, entao maquinas novas (obra) decifram o chamados.json e aparecem na lista sozinhas, sem provisionamento manual.
+
 ## Versão 4.42.15 | COLMEIA: a fila para de crescer sozinha. Conhecimento con... | 06/11/2026
 
 - **Melhoria**: COLMEIA: a fila para de crescer sozinha. Conhecimento conectado sem 90 por cento faz 1 estudo a fundo, vai ao desempate do Claude e, se nao validar, e descartado em vez de ficar preso na fila.
