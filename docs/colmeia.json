@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  737,
+    "Conhecimentos":  738,
     "Pesquisas":  2802,
-    "N48":  868,
+    "N48":  856,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-06 05:12:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-06 05:04:03",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-06 05:02:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 04:41:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BCB (ERROR_PRINTER_DRIVER_DOWNLOAD_NEEDED) no Windows",
+                         "Data":  "2026-11-06 05:02:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
                          "Nivel":  "ok"
                      },
                      {
@@ -47,10 +47,10 @@
                  ],
     "Horas":  [
                   34,
-                  26,
+                  14,
                   13,
-                  13,
-                  16,
+                  22,
+                  7,
                   17,
                   4,
                   9,
@@ -64,22 +64,22 @@
                   12,
                   12,
                   12,
-                  0,
-                  54,
+                  12,
+                  42,
+                  53,
                   40,
-                  41,
-                  31,
+                  19,
                   30,
                   34,
                   28,
-                  4,
-                  8,
+                  12,
+                  0,
                   21,
                   8,
                   8,
-                  18,
-                  4,
+                  22,
                   15,
+                  0,
                   4,
                   16,
                   8,
@@ -88,14 +88,14 @@
                   16,
                   8,
                   12,
-                  14,
-                  39,
+                  28,
                   38,
-                  37,
-                  31,
+                  25,
+                  49,
+                  19,
                   31
               ],
     "Ultima":  "2026-11-06 05:04:03",
-    "Gerado":  "2026-11-06 05:07:04",
-    "Data":  "2026-11-06 05:07"
+    "Gerado":  "2026-11-06 05:17:03",
+    "Data":  "2026-11-06 05:17"
 }
