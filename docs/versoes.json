@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.10",
+        "Data":  "2026-11-06 10:52",
+        "Notas":  "Migracao de ativacao reforcada: maquinas que ja rodavam nao pedem codigo, so instalacoes novas de verdade exigem o codigo do TI",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.10/EnginePro_Setup_4.42.10.exe"
+    },
+    {
         "Versao":  "4.42.9",
         "Data":  "2026-11-06 10:42",
         "Notas":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmeia sem parar, analise de inicializacao mais profunda, tela de carregamento, localizacao automatica e ativacao obrigatoria por codigo",

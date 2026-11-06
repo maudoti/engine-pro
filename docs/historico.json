@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.10",
+        "Data":  "2026-11-06 10:52",
+        "Titulo":  "Migracao de ativacao reforcada: maquinas que ja rodavam n...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Migracao de ativacao reforcada: maquinas que ja rodavam nao pedem codigo, so instalacoes novas de verdade exigem o codigo do TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.9",
         "Data":  "2026-11-06 10:42",
         "Titulo":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmei...",

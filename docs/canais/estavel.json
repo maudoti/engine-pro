@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.9",
-    "Instalador":  "EnginePro_Setup_4.42.9.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.9/EnginePro_Setup_4.42.9.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.9/EnginePro_Setup_4.42.9.exe.gz",
-    "SHA256":  "A9BFDC977066C591DF394FFC1A326E38F73F000417D40DB811CBE9F8FBC522F1",
-    "Data":  "2026-11-06 10:42",
-    "Notas":  "Autodeteccao na instalacao, chat na nuvem, fila da Colmeia sem parar, analise de inicializacao mais profunda, tela de carregamento, localizacao automatica e ativacao obrigatoria por codigo",
-    "Assinatura":  "Ir5FN9o+X35RNxc9OIVTwR2VoTv2oCo9m0ONTd5OwJup4FqBhxj0B8VSZ00qiPW6o25BdAkcY2Zpj0xWo+HB47G/M3Jpn72NPSklv3+FtJcv9W44O7rr5F57rBhKMFC9C6fdupgWvtdu9+1RdMvcH4yklnbFelv+uADNshU0LE3me31Xt7aogen0L7e8ybEoMZBMV0lvesyLQp0rjSuCjiVYWektt3vCzwujv0uBY3v/KP6Tg66quvXgpDVQUTMpx257KLWTVuzY8yUbV+NSKv6Td72QaZvNLMbyslrmINqnOZOMmQ/CbtPByccNRg/vsOYEj9zx7Oajmr3uCAbrCNj+9V5WKJAC6MUIjLzoIi0kwr0yLyCA/dyK0iCsinGJWdGZ+3qv8GL+YFxHT7kIgzuMuHOnNqmhdX944njfxnRUl0sZJmdVZWatKLkI7/prsg5/IE4KI6PlFArnVNEm6c4R27OyWe78XC0PlLplSESxgis//2Ub6OiR4vY9EZ5C"
+    "Versao":  "4.42.10",
+    "Instalador":  "EnginePro_Setup_4.42.10.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.10/EnginePro_Setup_4.42.10.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.10/EnginePro_Setup_4.42.10.exe.gz",
+    "SHA256":  "B5E87EA48435AE095D69DDFC1220318F34A4E93278C8775CC4BC9560C73FD898",
+    "Data":  "2026-11-06 10:52",
+    "Notas":  "Migracao de ativacao reforcada: maquinas que ja rodavam nao pedem codigo, so instalacoes novas de verdade exigem o codigo do TI",
+    "Assinatura":  "aGwfRYu0P/HgH/nHYuWScoyONmOBYu4rRi6AcvSxK1cR9Z7cwi6Tg2WDCua16+Cpgq4GAIP0d1lZlM5ZLtf43R1pfO4xvnXtBx4sXVdkNtYah8lnTC+FIcabr4rFVSmaSlo4RpPeWlGf6rzJtlM3/7ELcD2w5sMicqoTQ68pcUWa/hEkI3l++hK2OAVyupXo+xgnjRtNfJNXZDXYhUhSzn4shAzFQAvxxQf1HQMju9UD05H3iQd/VB6tB5PkbFlrWoHkcdQBXQlyWpJ3N7PU9LZAFNL3YAAqw/RYGq95roxp5sp5zIWNUxSzI862CYSbrZWF3aihghbUdiTchc1FN/XfB+WvW9KTrSFFwgbSuh0yNBbs/dk0NPB86E2yi2FA2be7ElQtZnMCaQ2iLlrO8nKR0bMBHNXLPLUOfHoe+Q+DVOqsa5u3spoGt+GZbkIaPw/jyGgv3XbQ2Z4TxyogJ7362yah08nImMglZpTMkJvHglnER9pq96SGPGGOgiHq"
 }
