@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  741,
-    "Pesquisas":  3237,
-    "N48":  1180,
+    "Pesquisas":  3262,
+    "N48":  1205,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 11:38",
-                         "Texto":  "Nova versão 4.42.6 publicada: Tela de provisionamento da IA aparece so no PC do TI",
+                         "Data":  "2026-11-06 11:46:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 89 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 11:21:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 64 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-06 11:46",
+                         "Texto":  "Nova versão 4.42.12 publicada: Correcao da numeracao de versao e provisionamento so no PC do TI",
                          "Nivel":  "info"
                      },
                      {
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 611 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 636 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -47,25 +47,25 @@
                  ],
     "Horas":  [
                   9,
-                  17,
-                  5,
-                  11,
+                  21,
                   12,
                   12,
+                  12,
+                  0,
                   12,
                   9,
                   4,
                   12,
                   12,
                   12,
-                  33,
                   39,
-                  47,
+                  49,
+                  31,
                   37,
-                  21,
-                  30,
-                  35,
-                  20,
+                  28,
+                  33,
+                  37,
+                  8,
                   8,
                   17,
                   4,
@@ -83,19 +83,19 @@
                   12,
                   14,
                   23,
-                  33,
-                  34,
-                  44,
-                  20,
-                  35,
-                  36,
-                  12,
-                  38,
-                  110,
+                  41,
+                  40,
+                  30,
+                  28,
+                  40,
+                  27,
+                  8,
+                  43,
                   127,
-                  99
+                  111,
+                  118
               ],
-    "Ultima":  "2026-11-06 11:21:50",
-    "Gerado":  "2026-11-06 11:38:33",
-    "Data":  "2026-11-06 11:38"
+    "Ultima":  "2026-11-06 11:46:24",
+    "Gerado":  "2026-11-06 11:46:26",
+    "Data":  "2026-11-06 11:46"
 }

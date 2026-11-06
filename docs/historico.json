@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.12",
+        "Data":  "2026-11-06 11:46",
+        "Titulo":  "Correcao da numeracao de versao e provisionamento so no P...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Correcao da numeracao de versao e provisionamento so no PC do TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.11",
         "Data":  "2026-11-06 11:28",
         "Titulo":  "Tela de provisionamento da IA aparece so no PC do TI",

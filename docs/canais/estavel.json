@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.6",
-    "Instalador":  "EnginePro_Setup_4.42.6.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.6/EnginePro_Setup_4.42.6.exe.gz",
-    "SHA256":  "91940B6DDBCC0132263136E442133B69EB545DB1A682A1756DA622241CC1FDE3",
-    "Data":  "2026-11-06 11:38",
-    "Notas":  "Tela de provisionamento da IA aparece so no PC do TI",
-    "Assinatura":  "P/iJLcnpENT5jrG9M+PlEtJ+NmpCxrVJqtrgLWsTACZzyNSDIK9c+fu8b+p6zVerJkK0ArpI0POavNqA96O22q9N+7DBzZldICZUa4WG+tOilzSawBiOn2K5xtW2QdrQVzIKNN1gHjJSG1+Y3QATdPmmTOAvL4aSmOpjssYt7LdbRZjj83CE3xeEezJSWzk1CCmiuWeqyvJhR+UMoI2UK6c6gmio5gMpZxgwuHiHI1UgY4Atf1zODjeqLWhcquKJIRVaL7cYPVs1BbeLR8IgYWcCzZldSlGRWS8fe4QYiFYb9xE4GzVWZHU7R9RaRVGu54JZ8QCEDZkRynLF8N/wIc4fZiqRUi0V7sq0kzZkkf0vXzjtllLTUNpG64jklMwlNG2nWiX5Z9EfcRvHhuehU+f03TuFEtb24Z+3UPYO/pcIyOuUrsz5hsZ5vhJnUChuCZTZgBKR3nSjQYNtSK3/JIy3XfcCvVyhlVjxpmsCVy+U/bGslOXPAeYfVnDQ/6kJ"
+    "Versao":  "4.42.12",
+    "Instalador":  "EnginePro_Setup_4.42.12.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.12/EnginePro_Setup_4.42.12.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.12/EnginePro_Setup_4.42.12.exe.gz",
+    "SHA256":  "E256EA33B58EEFC9B2EC29006BC9EF9D7F2F1421AF2A235A9BCFD8E75B86FBDC",
+    "Data":  "2026-11-06 11:46",
+    "Notas":  "Correcao da numeracao de versao e provisionamento so no PC do TI",
+    "Assinatura":  "pZ17E+4IuXOUP3sqZxnzcHQxmjowEFnmVYK/oTkCQTSPSHuJf45HXGMQD+9JL/MY5rkrPDfxmeVhjNC8Gxl6dC1jQQpegFgHSHSCB60LMW3qObxidRIpIgzT3C55/F5o+UoKC0YG3hEwu6SDtudBfyo1A93JEmn2fI9QW+L1wbnHCPntqfxwZ6bKhuMf1qXibGNmCq8gupUtqTrUZueI4bgJTysPlJIPTH7n74mnM2e/bnnoFMwpilgvkKW+bxebvlS7rYFXLnRYsjXQ84HGFNFBN5xKyYaBmcswpWl+n132MXfpb8LD569TuYvSpF/WILbeNXPB5DihnQ2mBwIhn9idVKQhMZuqnMD6DB7xtSnLBdzR7UODdotYgF9ZIQkd1U3T4evRwaFLpPkRLllp05BwbQXbZfoeDuSnITAvA+BhB6B3w3fUGW1YUuYzUNeAHtQ/n9WU3QUFB90uN8UCK5gybiM0R+CUmIiXMoahcNlFuFV86b3tVHtk//Mes4y4"
 }

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.12",
+        "Data":  "2026-11-06 11:46",
+        "Notas":  "Correcao da numeracao de versao e provisionamento so no PC do TI",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.12/EnginePro_Setup_4.42.12.exe"
+    },
+    {
         "Versao":  "4.42.6",
         "Data":  "2026-11-06 11:38",
         "Notas":  "Tela de provisionamento da IA aparece so no PC do TI",

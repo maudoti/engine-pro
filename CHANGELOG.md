@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.12 | Correcao da numeracao de versao e provisionamento so no P... | 06/11/2026
+
+- **Correção**: Correcao da numeracao de versao e provisionamento so no PC do TI.
+
 ## Versão 4.42.11 | Tela de provisionamento da IA aparece so no PC do TI | 06/11/2026
 
 - **Melhoria**: Tela de provisionamento da IA aparece so no PC do TI.
