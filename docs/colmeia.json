@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  776,
-    "Pesquisas":  4844,
-    "N48":  2296,
+    "Pesquisas":  4856,
+    "N48":  2308,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 17:17:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-07 17:22",
+                         "Texto":  "Nova versão 4.42.30 publicada: Bandeja: Y grande e aviso por piscar lento do Y (branco-amarelo), sem cobrir o Y",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 17:13",
-                         "Texto":  "Nova versão 4.42.29 publicada: Icone da bandeja desenhado como vetor: escudo com Y nitido, sem depender de imagem",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-07 17:18:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Explorador de Arquivos travando ou lento",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 16:14:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Disco com sinais de defeito",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-07 17:18:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 662 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 674 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -35,19 +35,19 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-07 16:14:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Disco com sinais de defeito",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-07 16:14:36",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-07 15:19:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Disco do sistema quase cheio",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  8,
-                  8,
+                  16,
+                  0,
                   12,
                   16,
                   8,
@@ -56,46 +56,46 @@
                   38,
                   25,
                   49,
+                  28,
+                  22,
+                  42,
                   19,
-                  31,
-                  41,
-                  20,
                   15,
-                  91,
-                  130,
-                  118,
-                  102,
-                  92,
-                  109,
-                  144,
-                  140,
+                  114,
+                  107,
+                  138,
+                  82,
+                  114,
+                  112,
+                  142,
+                  117,
                   22,
                   76,
                   28,
-                  116,
-                  57,
+                  145,
+                  28,
                   27,
                   24,
-                  28,
-                  66,
-                  60,
+                  50,
+                  62,
+                  42,
                   92,
                   42,
                   39,
-                  39,
-                  50,
+                  60,
+                  29,
                   17,
                   42,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11
+                  26,
+                  26,
+                  30,
+                  41,
+                  23
               ],
-    "Ultima":  "2026-11-07 17:17:03",
-    "Gerado":  "2026-11-07 17:17:04",
-    "Data":  "2026-11-07 17:17"
+    "Ultima":  "2026-11-07 17:18:23",
+    "Gerado":  "2026-11-07 17:22:17",
+    "Data":  "2026-11-07 17:22"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.30",
+        "Data":  "2026-11-07 17:22",
+        "Titulo":  "Bandeja: Y grande e aviso por piscar lento do Y (branco-a...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Bandeja: Y grande e aviso por piscar lento do Y (branco-amarelo), sem cobrir o Y."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.29",
         "Data":  "2026-11-07 17:13",
         "Titulo":  "Icone da bandeja desenhado como vetor: escudo com Y nitid...",

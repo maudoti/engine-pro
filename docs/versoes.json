@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.30",
+        "Data":  "2026-11-07 17:22",
+        "Notas":  "Bandeja: Y grande e aviso por piscar lento do Y (branco-amarelo), sem cobrir o Y",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.30/EnginePro_Setup_4.42.30.exe"
+    },
+    {
         "Versao":  "4.42.29",
         "Data":  "2026-11-07 17:13",
         "Notas":  "Icone da bandeja desenhado como vetor: escudo com Y nitido, sem depender de imagem",

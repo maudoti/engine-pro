@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.30 | Bandeja: Y grande e aviso por piscar lento do Y (branco-a... | 07/11/2026
+
+- **Melhoria**: Bandeja: Y grande e aviso por piscar lento do Y (branco-amarelo), sem cobrir o Y.
+
 ## Versão 4.42.29 | Icone da bandeja desenhado como vetor: escudo com Y nitid... | 07/11/2026
 
 - **Melhoria**: Icone da bandeja desenhado como vetor: escudo com Y nitido, sem depender de imagem.

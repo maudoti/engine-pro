@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.29",
-    "Instalador":  "EnginePro_Setup_4.42.29.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.29/EnginePro_Setup_4.42.29.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.29/EnginePro_Setup_4.42.29.exe.gz",
-    "SHA256":  "9B53FAC1971EBDA216F1ABC23D2FAC252DA7B6718A782D276A7FFC1CB6690B5A",
-    "Data":  "2026-11-07 17:13",
-    "Notas":  "Icone da bandeja desenhado como vetor: escudo com Y nitido, sem depender de imagem",
-    "Assinatura":  "lchJibBbIWZLlPbQkrJR5z4OuzyPhZ8L8tZ1HXRD7HOaqF9DRkKP5mr4iIaC95xpY2VlIIh7Dl/H77+ehSMdxBrAYBH9pXjCYrxMDP0RqD+RwZlDh4oQVvGbpoDrmzKlmtpX8HUh4mlsqX/rC+N3ydj7YrPv6uHZO3Bwh8KQ6entuq/93y3Oc+IY0tfBnEdtrBIWlEaBoXgFh+Z6g/rPC0pglIJSbVpmKbVT9NrxkhZJS61crKeyh1KyzrYqEA+1L/GAkTQV0cxVyQeVA9WHEvXjKYUFbtDkgKVLmc4o7D/J5ahGzoLHTfI8CJvI4lJUiqZNpqdRQmySLsxrDj6dI7DC/l7Yu3+FdDEnt3PnLhkEaMEb+LQjeVnyuZEsr8sjtS6ddgRkd5zwr2to38YDDIT7hvYglNQRwwTIQUxT4Kus2LZVal546tC7joF9MbZkzkSAMg+kEqjPKvdIr2hLTnopps/afji/a8Q12AEVNeQoVUjX2OoL1VX2ZnESHukU"
+    "Versao":  "4.42.30",
+    "Instalador":  "EnginePro_Setup_4.42.30.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.30/EnginePro_Setup_4.42.30.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.30/EnginePro_Setup_4.42.30.exe.gz",
+    "SHA256":  "511CAF430399EE49D19A75B604D968E26163313A283885E162F0105E60DA98DE",
+    "Data":  "2026-11-07 17:22",
+    "Notas":  "Bandeja: Y grande e aviso por piscar lento do Y (branco-amarelo), sem cobrir o Y",
+    "Assinatura":  "JklX5ShoJardR4BJTpruf/WApJf5jC/J/6qmKlp75SstKFX3C1z+kh3psgxTqUQfkVr7/FI0Nw27IUZa+G09toNt1H0zGDNyT0Z1gwahAiuX8p4FtmBiYOW8qzDs92fo5tNi5FhQOLkG4YNulTCwmlikRUYfK0H9gO+EEqNuyWl9rzBweDtVTUWInu+qpTFZ3znI0RhnBd8AsRoTJFSNjAU2Uo/Wg7uJxQvyfG8LKfteCsaattnHYg+lKM6Hy0QM1jXLPt1A/9ON3vFMbk+KJsytdMyVCyrbJ0rq4QqBcRfiLEewIXiRBfP9tQKIx69481yR2qKtAlJzg5/H29zeHp4us9Hh263ePo9LaKY1bQz9N2I3duQBwMr7KbrkaeI78FQ5/dT7utUg/uDC491LDBCU/pc+kNPCq1yEfFsQz4Gd7qlVgquq1BKrLhl1F2Queblo2dIWrvJ/RrlFJb/3NIePLhcuueoCQMsO+fXt7lQFtL4VkEFpLAS/a7/AP+OF"
 }
