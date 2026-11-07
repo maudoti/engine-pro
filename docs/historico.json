@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.18",
+        "Data":  "2026-11-07 08:03",
+        "Titulo":  "Ativacao desligada (GPO nao pede mais codigo) e SegredoIA...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ativacao desligada (GPO nao pede mais codigo) e SegredoIA embutido (auto-provisionamento das obras)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.17",
         "Data":  "2026-11-06 17:54",
         "Titulo":  "Ativacao desligada (maquinas da GPO nao pedem mais codigo...",

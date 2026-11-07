@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.18",
+        "Data":  "2026-11-07 08:03",
+        "Notas":  "Ativacao desligada (GPO nao pede mais codigo) e SegredoIA embutido (auto-provisionamento das obras).",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.18/EnginePro_Setup_4.42.18.exe"
+    },
+    {
         "Versao":  "4.42.17",
         "Data":  "2026-11-06 17:54",
         "Notas":  "Ativacao desligada (maquinas da GPO nao pedem mais codigo) e SegredoIA embutido (auto-provisionamento das obras).",

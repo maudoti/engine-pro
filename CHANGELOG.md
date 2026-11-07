@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.18 | Ativacao desligada (GPO nao pede mais codigo) e SegredoIA... | 07/11/2026
+
+- **Melhoria**: Ativacao desligada (GPO nao pede mais codigo) e SegredoIA embutido (auto-provisionamento das obras).
+
 ## Versão 4.42.17 | Ativacao desligada (maquinas da GPO nao pedem mais codigo... | 06/11/2026
 
 - **Melhoria**: Ativacao desligada (maquinas da GPO nao pedem mais codigo) e SegredoIA embutido (auto-provisionamento das obras).
