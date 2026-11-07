@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.31",
-    "Instalador":  "EnginePro_Setup_4.42.31.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.31/EnginePro_Setup_4.42.31.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.31/EnginePro_Setup_4.42.31.exe.gz",
-    "SHA256":  "BAF115F35E078CAAA106DA6C3D432B047077CB2A031300E2EFCE9A60A5477A02",
-    "Data":  "2026-11-07 17:28",
-    "Notas":  "Icone da bandeja maior (escudo e Y preenchendo a celula)",
-    "Assinatura":  "XbyXJSHJOAxy5aHeMbNWIVVlv6qPlU5zFqdAyU5nCI3QHFZIykExUIC0kqQbO5YhIXCayX+gDI0W78oxn/lMEqrA6dHmqYu7bI7xm1yXBFVXzbtMaFXiL51SYAE9GmwsrKiTWSXEfx4+1bWbcaRvg8FEZ/lr2a/DxQAJ0yv/GK7qnxzqUgVJthqPu9GWmFuWtQuqYzChwg5Jyw0zSGYFIld/fehWTY1otyAFGXaQlvG0Xc5TxUr9wHYNlFiH0pYuUiMMngDLMGyIo0StH8rUz4LtHOlmm5fWie1Duf3YeIe2Glt1j2LLyFR9CAgd1nA7oPwsaEBGgFpfrmXmEi880+sDAQgH8tgIwNbjt4+rg1NOtamxWFVIObqeOIi+PgPVWrYXtL6UFuvK+Rqco4NnZOOvM12USxcaYeEFjB02MRdGx4nEOjHKWuJ/1SYJH34it5rZHfd8RPHK0XnlK90tChIzArgbyrR5RqH+pvqUYJN89B35YF48Zy+ygDm3fhPN"
+    "Versao":  "4.42.32",
+    "Instalador":  "EnginePro_Setup_4.42.32.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.32/EnginePro_Setup_4.42.32.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.32/EnginePro_Setup_4.42.32.exe.gz",
+    "SHA256":  "40D87694A6D482F5923BD15F8470E8E562DB8837A57D9641C4BA65E3EC8874A1",
+    "Data":  "2026-11-07 17:37",
+    "Notas":  "Icone da bandeja em alta resolucao, preenchendo a celula, com o Y maior",
+    "Assinatura":  "Z1Bt3buiLvXffE+l1H4JVVg/eTTtsJaR9jkYq5qKsSrnf84sHaB+ZXb/gKsOmk78eaP+zJsMjbhc4j3g6okRTntYfj20oF1XIbut3jlYF70LmFWt8QQl1Sv0+FmX7scemvPNoo0d7HQZrsRJHVT1tNxt4AYN/vlJzdC41a5Sx+uWLIHFCieRqhuQpXM9GFNTaEWz6sy84PcM2iUE9g8Slh3HH6e5TrPEBJ3dZ32riVq3w3IC3iLcBp+Y76r19w53A9w9NSD8aFByFh8jhdW//ogC3HgnT3CNGmti8Vt31rqe+oC4QLTtL+8AHCM6tJZ02nd80oEbwgiBLYzTA4lB1A2p1Ub5uC0qiLQN1nK+xpmbgeVWRpV8BVAh8kCSy8YniV8PkQ3ySgfVeWS4YqsAe1UYvQvaoAsDBLOsmyQScOIrVSpZEl7hlxFmyBMR3Qa2IfAgYayviWJDwRl1JITJxs4dQA7VfMy0Tb7Q5y2j+mysbHpp4WbPqe7IZfNmFRTi"
 }

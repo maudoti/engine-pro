@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.32 | Icone da bandeja em alta resolucao, preenchendo a celula,... | 07/11/2026
+
+- **Melhoria**: Icone da bandeja em alta resolucao, preenchendo a celula, com o Y maior.
+
 ## Versão 4.42.31 | Icone da bandeja maior (escudo e Y preenchendo a celula) | 07/11/2026
 
 - **Melhoria**: Icone da bandeja maior (escudo e Y preenchendo a celula).

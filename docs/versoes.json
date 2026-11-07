@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.32",
+        "Data":  "2026-11-07 17:37",
+        "Notas":  "Icone da bandeja em alta resolucao, preenchendo a celula, com o Y maior",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.32/EnginePro_Setup_4.42.32.exe"
+    },
+    {
         "Versao":  "4.42.31",
         "Data":  "2026-11-07 17:28",
         "Notas":  "Icone da bandeja maior (escudo e Y preenchendo a celula)",

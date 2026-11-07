@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.32",
+        "Data":  "2026-11-07 17:37",
+        "Titulo":  "Icone da bandeja em alta resolucao, preenchendo a celula,...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone da bandeja em alta resolucao, preenchendo a celula, com o Y maior."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.31",
         "Data":  "2026-11-07 17:28",
         "Titulo":  "Icone da bandeja maior (escudo e Y preenchendo a celula)",
