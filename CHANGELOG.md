@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.19 | Publicacao passa a copiar o instalador para a GPO automat... | 07/11/2026
+
+- **Melhoria**: Publicacao passa a copiar o instalador para a GPO automaticamente.
+
 ## Versão 4.42.18 | Ativacao desligada (GPO nao pede mais codigo) e SegredoIA... | 07/11/2026
 
 - **Melhoria**: Ativacao desligada (GPO nao pede mais codigo) e SegredoIA embutido (auto-provisionamento das obras).

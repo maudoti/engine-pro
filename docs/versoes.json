@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.19",
+        "Data":  "2026-11-07 08:23",
+        "Notas":  "Publicacao passa a copiar o instalador para a GPO automaticamente.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.19/EnginePro_Setup_4.42.19.exe"
+    },
+    {
         "Versao":  "4.42.18",
         "Data":  "2026-11-07 08:03",
         "Notas":  "Ativacao desligada (GPO nao pede mais codigo) e SegredoIA embutido (auto-provisionamento das obras).",

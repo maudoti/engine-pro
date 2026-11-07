@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.19",
+        "Data":  "2026-11-07 08:23",
+        "Titulo":  "Publicacao passa a copiar o instalador para a GPO automat...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Publicacao passa a copiar o instalador para a GPO automaticamente."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.18",
         "Data":  "2026-11-07 08:03",
         "Titulo":  "Ativacao desligada (GPO nao pede mais codigo) e SegredoIA...",
