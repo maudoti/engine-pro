@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.45 | Abertura: tela do Y marca d'agua removida de vez e carreg... | 07/11/2026
+
+- **Melhoria**: Abertura: tela do Y marca d'agua removida de vez e carregamento por modulos.
+
 ## Versão 4.42.44 | Abertura: splash da GUI nunca aparece vindo do lancador e... | 07/11/2026
 
 - **Melhoria**: Abertura: splash da GUI nunca aparece vindo do lancador e teto de tempo na abertura.

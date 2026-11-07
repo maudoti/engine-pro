@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.45",
+        "Data":  "2026-11-07 19:11",
+        "Titulo":  "Abertura: tela do Y marca d\u0027agua removida de vez e carreg...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: tela do Y marca d\u0027agua removida de vez e carregamento por modulos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.44",
         "Data":  "2026-11-07 18:58",
         "Titulo":  "Abertura: splash da GUI nunca aparece vindo do lancador e...",

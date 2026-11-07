@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.45",
+        "Data":  "2026-11-07 19:11",
+        "Notas":  "Abertura: tela do Y marca d\u0027agua removida de vez e carregamento por modulos",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.45/EnginePro_Setup_4.42.45.exe"
+    },
+    {
         "Versao":  "4.42.44",
         "Data":  "2026-11-07 18:58",
         "Notas":  "Abertura: splash da GUI nunca aparece vindo do lancador e teto de tempo na abertura",
