@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.33",
+        "Data":  "2026-11-07 17:42",
+        "Titulo":  "Icone da bandeja: proporcao equilibrada (sem esticar) em ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone da bandeja: proporcao equilibrada (sem esticar) em alta resolucao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.32",
         "Data":  "2026-11-07 17:37",
         "Titulo":  "Icone da bandeja em alta resolucao, preenchendo a celula,...",
