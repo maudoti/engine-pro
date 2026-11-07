@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.28",
+        "Data":  "2026-11-07 17:03",
+        "Titulo":  "Icone da bandeja corrigido: escudo com Y nitido (sem depe...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Icone da bandeja corrigido: escudo com Y nitido (sem depender de .ico)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.27",
         "Data":  "2026-11-07 16:57",
         "Titulo":  "Icone da bandeja (escudo + Y) nitido e legivel em tamanho...",
