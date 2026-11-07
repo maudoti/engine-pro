@@ -5,13 +5,13 @@
     "N48":  2158,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 09:25:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Servidor ou NAS antigo exige SMB1",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-07 09:30",
+                         "Texto":  "Nova versão 4.42.21 publicada: Colmeia aplica reparos seguros sozinha",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 09:14:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
+                         "Data":  "2026-11-07 09:25:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Servidor ou NAS antigo exige SMB1",
                          "Nivel":  "ok"
                      },
                      {
@@ -25,9 +25,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 09:07",
-                         "Texto":  "Nova versão 4.42.20 publicada: Colmeia valida reparos do catalogo seguro com o Claude (90%+) e as estacoes aplicam sozinhas, reversivel, com selo verde. Modo conservador.",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-07 09:14:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-07 09:04:05",
@@ -51,12 +51,12 @@
                   8,
                   8,
                   12,
-                  4,
-                  12,
+                  16,
                   8,
+                  0,
                   12,
-                  28,
-                  42,
+                  37,
+                  33,
                   34,
                   36,
                   28,
@@ -64,13 +64,13 @@
                   29,
                   19,
                   15,
-                  114,
-                  130,
+                  133,
+                  111,
                   115,
-                  101,
-                  95,
-                  112,
-                  146,
+                  102,
+                  113,
+                  119,
+                  120,
                   135,
                   0,
                   76,
@@ -82,15 +82,15 @@
                   50,
                   64,
                   60,
-                  81,
-                  33,
+                  89,
                   39,
+                  25,
                   60,
                   29,
                   33,
                   26
               ],
     "Ultima":  "2026-11-07 09:04:05",
-    "Gerado":  "2026-11-07 09:27:03",
-    "Data":  "2026-11-07 09:27"
+    "Gerado":  "2026-11-07 09:30:44",
+    "Data":  "2026-11-07 09:30"
 }

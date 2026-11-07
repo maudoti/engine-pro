@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.20",
-    "Instalador":  "EnginePro_Setup_4.42.20.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.20/EnginePro_Setup_4.42.20.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.20/EnginePro_Setup_4.42.20.exe.gz",
-    "SHA256":  "3B0B00879857EA6595704E00CEFD6E2C14E14E526C190552C0D3C4583581EB3E",
-    "Data":  "2026-11-07 09:07",
-    "Notas":  "Colmeia valida reparos do catalogo seguro com o Claude (90%+) e as estacoes aplicam sozinhas, reversivel, com selo verde. Modo conservador.",
-    "Assinatura":  "SSGW9oBJwICN6Wj4YXvLdHw3Z+0UkgJt+b7PE42HZ6BRQhaAu+TAach/IaUZL92ivE13FO/NkRyhYo2uuHTfC5tapwKd7s9+f/iO642V3ZCo8IIFrb4FVgQkuwkoMrICdeO7WjG01pa3yQUNQIOVwXYvIJEk2fIOrnV9tmigjgATnMQgk1+TYgXE5KeVjMObpWPyqq1NoltdqBlMTM25KcWehLus0CUyH0dDbMMrJxRjVNy8Y9hvRi4Y84r5qRQTe1LyZK+DcUnAbg0A7OO5o0CgeJ0mqF7h3qwN50D0w//60hasEfQQBriiXJiAp8XUW5Cq4ibPBLRSjO/H3qCejP+QnSpG1fDs6ifVX8LT2jlKTg0YEVrCU7htmpPRU9XDGMCiRHsv/MtA7ibg1UZeuy4s7Et0YMG0otsk7UJBhvW5tyfjXD//bA0RX1gfqXWWgSZE6GUhB48onYd2c5JBouW/BPltvjYtUeaL83UajZZGnTdi4uUb1voErItenON2"
+    "Versao":  "4.42.21",
+    "Instalador":  "EnginePro_Setup_4.42.21.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.21/EnginePro_Setup_4.42.21.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.21/EnginePro_Setup_4.42.21.exe.gz",
+    "SHA256":  "101A51082DF28B691E4F9D2B89E44A18118895478CBAB354DE968845C09A0BFE",
+    "Data":  "2026-11-07 09:30",
+    "Notas":  "Colmeia aplica reparos seguros sozinha; reparo que falha volta ao estudo profundo ate corrigir; defeito de peca (disco, memoria, processador, video, placa-mae, ventoinha, fonte, audio, rede, perifericos) vira e-mail de chamado para a TI.",
+    "Assinatura":  "k3AwbEb61sqL4aQmbdmo6qx6lVjNAdlA1JGEowBkWnM6wCkVpizvnH+Fgl2AmZexTEvSgqyYx6sPMhtux9WcW0nlugQU+au8a6uWaYu4d1vs8B/teD8VKoAdBPYPqBonyiTof+4ReDIMlkZUoxPM4j6kyZmbCce8zgBPn+UjyUaXDYPcrRqcg7Xvzq6QcPtsrtEkJi8ykXZRG8Fsq98X41O+BVNN5bKROanodH3bM0XZyEvbXd4dUtTB3eD0G8hH7YnRZ39SC9mJ6KCIUd0Up2EDkA89KVeBC6DpR/gsm+j5m9XjFE6BMXAenEiyheGPZvglc1ZIfcE/ijPXpbe4Skb0KEp8Wb8qeMkdeldyAMmNzWtZtr42xYUavWosvHAXwowqnfKZNcWyyFqlvS0/uN1vAnxJPJ3be4C2OkJEA0dCXk9YhRpMblEZLP1x8ir5pJGR3NAk37Ec0ncjRll+zU/bXkwcu8mW+isEXiXqp9YYB1sCw6xKoeIpHGUlmlLO"
 }

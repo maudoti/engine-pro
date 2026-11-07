@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.21",
+        "Data":  "2026-11-07 09:30",
+        "Notas":  "Colmeia aplica reparos seguros sozinha; reparo que falha volta ao estudo profundo ate corrigir; defeito de peca (disco, memoria, processador, video, placa-mae, ventoinha, fonte, audio, rede, perifericos) vira e-mail de chamado para a TI.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.21/EnginePro_Setup_4.42.21.exe"
+    },
+    {
         "Versao":  "4.42.20",
         "Data":  "2026-11-07 09:07",
         "Notas":  "Colmeia valida reparos do catalogo seguro com o Claude (90%+) e as estacoes aplicam sozinhas, reversivel, com selo verde. Modo conservador.",

@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.42.21",
+        "Data":  "2026-11-07 09:30",
+        "Titulo":  "Colmeia aplica reparos seguros sozinha",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Colmeia aplica reparos seguros sozinha."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Reparo que falha volta ao estudo profundo ate corrigir."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Defeito de peca (disco, memoria, processador, video, placa-mae, ventoinha, fonte, audio, rede, perifericos) vira e-mail de chamado para a TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.20",
         "Data":  "2026-11-07 09:07",
         "Titulo":  "Colmeia valida reparos do catalogo seguro com o Claude (9...",

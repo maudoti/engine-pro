@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.21 | Colmeia aplica reparos seguros sozinha | 07/11/2026
+
+- **Melhoria**: Colmeia aplica reparos seguros sozinha.
+- **Correção**: Reparo que falha volta ao estudo profundo ate corrigir.
+- **Melhoria**: Defeito de peca (disco, memoria, processador, video, placa-mae, ventoinha, fonte, audio, rede, perifericos) vira e-mail de chamado para a TI.
+
 ## Versão 4.42.20 | Colmeia valida reparos do catalogo seguro com o Claude (9... | 07/11/2026
 
 - **Melhoria**: Colmeia valida reparos do catalogo seguro com o Claude (90%+) e as estacoes aplicam sozinhas, reversivel, com selo verde. Modo conservador.
