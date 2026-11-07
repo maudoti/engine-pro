@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.47",
+        "Data":  "2026-11-07 20:12",
+        "Notas":  "Clima com carregando e idade; paginas nao remontam ao voltar",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.47/EnginePro_Setup_4.42.47.exe"
+    },
+    {
         "Versao":  "4.42.46",
         "Data":  "2026-11-07 19:44",
         "Notas":  "Abertura mais rapida: animacao sai assim que o programa esta pronto; fim do b64 duplicado",

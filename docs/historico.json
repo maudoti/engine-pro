@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.42.47",
+        "Data":  "2026-11-07 20:12",
+        "Titulo":  "Clima com carregando e idade",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Clima com carregando e idade."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Paginas nao remontam ao voltar."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.46",
         "Data":  "2026-11-07 19:44",
         "Titulo":  "Abertura mais rapida: animacao sai assim que o programa e...",
