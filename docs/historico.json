@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.26",
+        "Data":  "2026-11-07 16:43",
+        "Titulo":  "Nova identidade: logo Y limpo no programa, escudo na band...",
+        "Itens":  [
+                      {
+                          "Tipo":  "novo",
+                          "Texto":  "Nova identidade: logo Y limpo no programa, escudo na bandeja, e icone novo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.25",
         "Data":  "2026-11-07 15:27",
         "Titulo":  "Renomeado para Engine Pro em todo o texto visivel",

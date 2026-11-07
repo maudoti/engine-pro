@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.26 | Nova identidade: logo Y limpo no programa, escudo na band... | 07/11/2026
+
+- **Novo**: Nova identidade: logo Y limpo no programa, escudo na bandeja, e icone novo.
+
 ## Versão 4.42.25 | Renomeado para Engine Pro em todo o texto visivel | 07/11/2026
 
 - **Melhoria**: Renomeado para Engine Pro em todo o texto visivel.
