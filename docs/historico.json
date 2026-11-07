@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.42.48",
+        "Data":  "2026-11-07 20:28",
+        "Titulo":  "Modo IA abre instantaneo (analise so ao clicar)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Modo IA abre instantaneo (analise so ao clicar)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Menos travamento ao trocar de pagina."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela inicial e clima na hora."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.47",
         "Data":  "2026-11-07 20:12",
         "Titulo":  "Clima com carregando e idade",

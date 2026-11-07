@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.47",
-    "Instalador":  "EnginePro_Setup_4.42.47.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.47/EnginePro_Setup_4.42.47.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.47/EnginePro_Setup_4.42.47.exe.gz",
-    "SHA256":  "34469A2346348BF16130B550A666E77708467F13566C2663C3EF4B35681111BA",
-    "Data":  "2026-11-07 20:12",
-    "Notas":  "Clima com carregando e idade; paginas nao remontam ao voltar",
-    "Assinatura":  "ixxktKn4Pw+Bhywzc5dlgISOqtHn852JG/9hUsh6X4TQPTgIyPQXaIEXs5T9nrS309OsSlSX/F8KFbJZhrDnuA4hwx4tHWgxEg0dFetmLjMGd5WTh32org5PWTnlKfYrxbkJSaZWnBIssy2GsrOtK+57BB3ehconKEaYAvA+VjCK0cfjesyGL+kWlpULSMRR2dyqRbnFIRYGgjXoiTpX9zw7admInQvZYuwZeOWdapdGd0fTAE+WL/yGPZKFpbq6P1MlLpHm3xJoYXAxOEgEThkrw6JegqJVNZ1Y7IZwcsTvmd6OsbV9QOq3nhUliySas1YpSFzA3mcctU3kSSI9uEia0ZDNpkUIXP+l3Dg2lBpc9A/b4B2OFH+6Kg4M0/y0H2UkprQRqq5PGyjj0cdWEW1l5EkK/EhUMKGjRHo/7WxA8lzyy+YPnWSuFq4aTR9nryjKXIVbYAA/KcdtQBZo5WQK8nOctFuzl+Uw19wpeBhrusr0T0CkxELXj/NZkkLE"
+    "Versao":  "4.42.48",
+    "Instalador":  "EnginePro_Setup_4.42.48.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.48/EnginePro_Setup_4.42.48.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.48/EnginePro_Setup_4.42.48.exe.gz",
+    "SHA256":  "5BF5B4894BC4A5CFBA257013465D8CB41E678AEC3880F62625976A1C33C13C8E",
+    "Data":  "2026-11-07 20:28",
+    "Notas":  "Modo IA abre instantaneo (analise so ao clicar); menos travamento ao trocar de pagina; tela inicial e clima na hora",
+    "Assinatura":  "qFCz47EMEDzs+cbkegvHev8rUV8J4+OQTptLfxgo1hk9tpAscvlvd/RxG1j6gp1GFZCYZopzkZ+0i9H2zfEqXvXAbs2anJS6Pf+D8P379hTd/2aO10DV66+P9HiKoBMw/cTpCpNxFJQ/kMxYac9+Zxoimte9N4DWj8BaV+mzScQoAegdeDNOlyCLLhxgtKn6+pl5vJZt6hBZ35Sot9FSYaTz3RbMIEfdyMzoGvmudpwVRZPX0wmMN0vUQfxaPA+YGOD87WaiRNEwJSZX5mjQkn+K1CQMk+kKQSjfoj7EpwLVeWKL80X06cqvTl5g7gBWPNGn8bVfij/0L6mBalW0HHpSG0cbTl2MsGPixrtWQKP/Hfb8TcuSKa+cowKAqoL1Z+Aar7jfM85/WdREwvonO5kXtjkhHP1XOrVwZCJMDJPT8kB9zwLYasNEnVkcSKSAVLMuJgKZm7G+wFJFi8rvGQE9cNuHSEeni8Dt8HX6Nt+UDB7LcZX14LiLp1rYRrg0"
 }

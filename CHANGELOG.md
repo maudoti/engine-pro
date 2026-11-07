@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.48 | Modo IA abre instantaneo (analise so ao clicar) | 07/11/2026
+
+- **Melhoria**: Modo IA abre instantaneo (analise so ao clicar).
+- **Melhoria**: Menos travamento ao trocar de pagina.
+- **Melhoria**: Tela inicial e clima na hora.
+
 ## Versão 4.42.47 | Clima com carregando e idade | 07/11/2026
 
 - **Melhoria**: Clima com carregando e idade.

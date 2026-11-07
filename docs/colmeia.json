@@ -2,16 +2,16 @@
     "Resolvidos":  2,
     "Conhecimentos":  776,
     "Pesquisas":  4954,
-    "N48":  2374,
+    "N48":  2366,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 20:17:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reparar um arquivo PST corrompido com a ferramenta ScanPST?",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-07 20:28",
+                         "Texto":  "Nova versão 4.42.48 publicada: Modo IA abre instantaneo (analise so ao clicar)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-07 20:17:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro \u0027O formato do arquivo não é válido\u0027 ao abrir uma planilh...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reparar um arquivo PST corrompido com a ferramenta ScanPST?",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,7 +21,7 @@
                      },
                      {
                          "Data":  "2026-11-07 20:17:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que o cache OST do Outlook não sincroniza e como forçar a reconstrução?",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro \u0027O formato do arquivo não é válido\u0027 ao abrir uma planilh...",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,13 +30,13 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 20:17:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-07 20:17:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que o cache OST do Outlook não sincroniza e como forçar a reconstrução?",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 20:12",
-                         "Texto":  "Nova versão 4.42.47 publicada: Clima com carregando e idade",
+                         "Data":  "2026-11-07 20:17:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -46,7 +46,7 @@
                      }
                  ],
     "Horas":  [
-                  12,
+                  4,
                   8,
                   12,
                   28,
@@ -61,10 +61,10 @@
                   114,
                   130,
                   115,
-                  101,
-                  95,
-                  112,
-                  146,
+                  102,
+                  94,
+                  132,
+                  126,
                   135,
                   0,
                   76,
@@ -76,8 +76,8 @@
                   50,
                   64,
                   60,
-                  82,
-                  32,
+                  89,
+                  25,
                   39,
                   60,
                   29,
@@ -96,6 +96,6 @@
                   36
               ],
     "Ultima":  "2026-11-07 20:17:02",
-    "Gerado":  "2026-11-07 20:27:04",
-    "Data":  "2026-11-07 20:27"
+    "Gerado":  "2026-11-07 20:28:23",
+    "Data":  "2026-11-07 20:28"
 }
