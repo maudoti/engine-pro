@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.42",
-    "Instalador":  "EnginePro_Setup_4.42.42.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.42/EnginePro_Setup_4.42.42.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.42/EnginePro_Setup_4.42.42.exe.gz",
-    "SHA256":  "C5C29AD047827066CEEB9AD264D052FED9BE81A58B6B433DC6D281003A09C08E",
-    "Data":  "2026-11-07 18:36",
-    "Notas":  "Splash: Arquitetura Autonoma de IA",
-    "Assinatura":  "ETxL4KkUvT3cUSsImNDDZMXlr7B2nNt+IewGmkiDM1iIanIhjTMi1RGp+E895oKp9awEFzlQ+RY6Z9SChRz+yJTUiPmDElhpwlcOxWsij9+wDR1q6xsrxSA405G2btBm3eS0VLfELrI7d2Sun5y3VB651a99uT+7e+qRNRsZs2gxyjgNQRdUrZXEHgWbSAawebVV2KdtH9DcbxHPXDDoecpfpAXJn8cC1N+qHn7NBVdf4KT1hE6WhzxuEvjg3Ll7wzN7jaSg4Gl6Rt5eh4p2jIU6LkkzJMyAjmmTFfJ1XIg35WxWDfZ49wI9FCBKp2B9cJGYHRsh7x2xJcSBdpKEankaO4k7gPl6aH2ufGSuAOm/Y0YPdo2xWOZQVW/UnfovHSJt8vWgSlIbVp7/7r3QQuB70Ez/AuN4eHiIHnsIgTHa0ERSOGLnVmyPLKfuUttRrMXNrK5dRwmbjoiKjAwsFL0oNcOgvcRegAfQOtKxqR786+jVhN1a8UFkbZxlXby3"
+    "Versao":  "4.42.43",
+    "Instalador":  "EnginePro_Setup_4.42.43.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.43/EnginePro_Setup_4.42.43.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.43/EnginePro_Setup_4.42.43.exe.gz",
+    "SHA256":  "4A56688AB6ECB38C8C99BF857315373714103B5A12574D77AF98DC8387335D4E",
+    "Data":  "2026-11-07 18:49",
+    "Notas":  "Abertura: remove a tela Aguarde/Carregando da GUI quando vem do lancador",
+    "Assinatura":  "VF5nfyAvu8QoXbqiJ95eKNdkFRT1Z3ffGtOLjaeiWxvDBQoz8my+kSA0NvHvCuL6lfxubB6waUmF9PZi/4RFa3axxb+i2FrsStS4C+FR7d6Vu25DdSBszgFYyuj1e/+VNlKEBy92kpZvY6YHIp9FNfK6tfKA1e4OpNUuhI5g7zz27WCTj3LdjMHQHN55WXMgzw77u0aah9mWYSkGb6/9dEU1XzsjBAVb5PL9Sc9bjBceDLc/uzD7G7dBxJgBHLWQaWmRoffVsdeqJUeAoznPFmQ44K7jSphCqyCjPImpoAG2vS9q5AnrarZdH1+RjQUdy8FYEpAV97MBSP45TCbT00v00U3Lz+0OWC8ShC//+VSzch/BpV96/RI6M5l/deNUCEgXTzMpvl+zjmVw/Y56VqdQmvSlDbNkVEWs80bGlFvEnIrxmafAE8CW/4qva5djXv+nDoCOS+ktdHhM43v4zZ8QzT1/TAC16P50Yy4RcRaryBN4x5pddMnITXD4CK8z"
 }

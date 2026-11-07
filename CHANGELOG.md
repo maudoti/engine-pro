@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.43 | Abertura: remove a tela Aguarde/Carregando da GUI quando ... | 07/11/2026
+
+- **Melhoria**: Abertura: remove a tela Aguarde/Carregando da GUI quando vem do lancador.
+
 ## Versão 4.42.42 | Splash: Arquitetura Autonoma de IA | 07/11/2026
 
 - **Melhoria**: Splash: Arquitetura Autonoma de IA.

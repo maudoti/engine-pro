@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.43",
+        "Data":  "2026-11-07 18:49",
+        "Titulo":  "Abertura: remove a tela Aguarde/Carregando da GUI quando ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: remove a tela Aguarde/Carregando da GUI quando vem do lancador."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.42",
         "Data":  "2026-11-07 18:36",
         "Titulo":  "Splash: Arquitetura Autonoma de IA",
