@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  776,
-    "Pesquisas":  4374,
-    "N48":  2059,
+    "Pesquisas":  4400,
+    "N48":  2081,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 02:50:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 86 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-07 03:06:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 02:47:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
+                         "Data":  "2026-11-07 02:57:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 02:47:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040600 (MAPI_E_CORRUPT_STORE) no Windows",
+                         "Data":  "2026-11-07 02:57:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BCB (ERROR_PRINTER_DRIVER_DOWNLOAD_NEEDED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 192 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 218 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 02:26:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
+                         "Data":  "2026-11-07 02:50:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 86 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-07 02:47:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040600 (MAPI_E_CORRUPT_STORE) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-07 01:43:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 53 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-06 17:54",
@@ -46,17 +46,17 @@
                      }
                  ],
     "Horas":  [
-                  25,
+                  31,
+                  30,
+                  34,
                   28,
-                  33,
-                  41,
                   4,
                   8,
                   21,
                   8,
                   8,
-                  0,
-                  22,
+                  18,
+                  4,
                   15,
                   4,
                   16,
@@ -68,34 +68,34 @@
                   12,
                   14,
                   39,
-                  25,
-                  45,
-                  25,
-                  28,
-                  46,
+                  38,
+                  37,
+                  31,
+                  31,
+                  32,
                   29,
                   15,
-                  52,
-                  125,
-                  118,
-                  109,
-                  98,
-                  111,
-                  125,
-                  145,
-                  65,
+                  75,
+                  124,
+                  117,
+                  105,
+                  91,
+                  128,
+                  124,
+                  141,
+                  43,
                   76,
                   28,
-                  28,
-                  145,
+                  61,
+                  112,
                   27,
                   24,
-                  16,
-                  54,
-                  64,
-                  86
+                  28,
+                  66,
+                  60,
+                  92
               ],
-    "Ultima":  "2026-11-07 02:50:03",
-    "Gerado":  "2026-11-07 02:57:03",
-    "Data":  "2026-11-07 02:57"
+    "Ultima":  "2026-11-07 03:06:39",
+    "Gerado":  "2026-11-07 03:07:04",
+    "Data":  "2026-11-07 03:07"
 }
