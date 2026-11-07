@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.42.23",
+        "Data":  "2026-11-07 13:56",
+        "Titulo":  "Variantes sem maquina-piloto (so replica o que ja funcion...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca)."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Botao Corrigir parado ha dias concluido sozinho pela IA na madrugada quando e seguro."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.22",
         "Data":  "2026-11-07 12:09",
         "Titulo":  "Evolucao fase 1: mantem o reparo onde funciona, compara o...",

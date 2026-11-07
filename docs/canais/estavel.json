@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.22",
-    "Instalador":  "EnginePro_Setup_4.42.22.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.22/EnginePro_Setup_4.42.22.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.22/EnginePro_Setup_4.42.22.exe.gz",
-    "SHA256":  "C62B3841C13CBABDB8EBD5F0BDA4087404AAB79D6208A49584628CDB91170F53",
-    "Data":  "2026-11-07 12:09",
-    "Notas":  "Evolucao fase 1: mantem o reparo onde funciona, compara o contexto das maquinas (build/modelo) e propoe ao TI, com recomendacao do Claude, quando o catalogo precisa evoluir.",
-    "Assinatura":  "EwXneFW7MW1oRAVI9ubCf8eK96a7Safr6Uxpa9fhX+kAGaCz7KC7XkefYUF2vay6UzEgciBwTFd5ZJ1l3gN8kyXzthlzAkF6NVPfFMO/vfS55y0gYWDcix4WNRjTYuJ6F29mhnNa/a5Xzu6AP6ut9G/aD+wDEOWhw0WkOBRlKWMKYeRUYV9cqzrnEqmmMSL6zb9ueVvaRtMQS/CXIodfQ3WbWPdHJ3zTQDd4mXwFZS48bGsDGubSJZ1Rwu6qQDkI+0YDFXrYVeg67aaKeFVz2lWo9aQonSkR3NEoRm5aKZfzDxJFLFLFvbVCXeks6qtkaUg+QpJ9VQgbisnpoNkubpxBZ3MbYX2lEpjXoOh36jHt0JGn/6wE0idR/z8gvrVYf1Whie8fCexU7rgDL5ap0KxJ2pGW+9A0ta2w/QCxs4HMFWxQ6t3640WxgBuiykZVTH2z5FXEsV9DZRk38iIQSKECNI4XDXQ9VDIObUZZ0yGlLg1TIqQHn0nw9kBeMvo+"
+    "Versao":  "4.42.23",
+    "Instalador":  "EnginePro_Setup_4.42.23.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.23/EnginePro_Setup_4.42.23.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.23/EnginePro_Setup_4.42.23.exe.gz",
+    "SHA256":  "46F72865CDE1569FDD644E81596082D6A3C0C364C53C61CDE8529C2C8497BD1C",
+    "Data":  "2026-11-07 13:56",
+    "Notas":  "Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca); botao Corrigir parado ha dias concluido sozinho pela IA na madrugada quando e seguro",
+    "Assinatura":  "ZDmWFmDysoikwXQW/1U6+osxHUs6FqgfVZd5TOx9mDbLUx/A5pHT+2fI7hq20psqlambZPVZnBOrubDurt0vhzbhmDGTe+PthFdAs6J4rZk7xCCztENWtk7kCXGuqM5WtC1vR1CIZ/7w91r+udEd86oTFKfipZcwkmtzx2efXILNHc/54RmfThgVqWVPmGVwd44EVcI3uZw9xPkRG6MwvWT3mAmBUli9o+3TEo+Xj+nL2g+XtgC8EP4orCLKC6zbLNO64Z+F9b63Jqsww8TEtKa8gHFVBwo5Qf/dSaE/fCZOuVuhmHt3ZuPVaafDsE9xn2qAOnBG3PX857D7ymvdzOujMUvjr3QoUzwd+W4HmRFJKMxzsUvM8N5rU7YDnhmH+wlf2d2b1IureKxzzZPuSW7hb9LO1PsLHJy/gVEmpKVlRT57uXOpz9z6emEsjCcofGaIn+6olURzZxwgsuwGd4tIvPAJLEs7d064/d+eU2fbbC3tn9aZYyym+zJtPKc5"
 }

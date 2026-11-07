@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.23",
+        "Data":  "2026-11-07 13:56",
+        "Notas":  "Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca); botao Corrigir parado ha dias concluido sozinho pela IA na madrugada quando e seguro",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.23/EnginePro_Setup_4.42.23.exe"
+    },
+    {
         "Versao":  "4.42.22",
         "Data":  "2026-11-07 12:09",
         "Notas":  "Evolucao fase 1: mantem o reparo onde funciona, compara o contexto das maquinas (build/modelo) e propoe ao TI, com recomendacao do Claude, quando o catalogo precisa evoluir.",

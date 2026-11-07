@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.23 | Variantes sem maquina-piloto (so replica o que ja funcion... | 07/11/2026
+
+- **Melhoria**: Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca).
+- **Correção**: Botao Corrigir parado ha dias concluido sozinho pela IA na madrugada quando e seguro.
+
 ## Versão 4.42.22 | Evolucao fase 1: mantem o reparo onde funciona, compara o... | 07/11/2026
 
 - **Melhoria**: Evolucao fase 1: mantem o reparo onde funciona, compara o contexto das maquinas (build/modelo) e propoe ao TI, com recomendacao do Claude, quando o catalogo precisa evoluir.
