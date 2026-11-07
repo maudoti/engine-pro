@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.34",
+        "Data":  "2026-11-07 17:54",
+        "Titulo":  "Icone da bandeja adaptativo ao tema: escuro=escudo branco...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone da bandeja adaptativo ao tema: escuro=escudo branco/Y vermelho, claro=escudo vermelho/Y branco."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.33",
         "Data":  "2026-11-07 17:42",
         "Titulo":  "Icone da bandeja: proporcao equilibrada (sem esticar) em ...",

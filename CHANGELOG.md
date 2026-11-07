@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.34 | Icone da bandeja adaptativo ao tema: escuro=escudo branco... | 07/11/2026
+
+- **Melhoria**: Icone da bandeja adaptativo ao tema: escuro=escudo branco/Y vermelho, claro=escudo vermelho/Y branco.
+
 ## Versão 4.42.33 | Icone da bandeja: proporcao equilibrada (sem esticar) em ... | 07/11/2026
 
 - **Melhoria**: Icone da bandeja: proporcao equilibrada (sem esticar) em alta resolucao.

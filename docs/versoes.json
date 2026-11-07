@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.34",
+        "Data":  "2026-11-07 17:54",
+        "Notas":  "Icone da bandeja adaptativo ao tema: escuro=escudo branco/Y vermelho, claro=escudo vermelho/Y branco",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.34/EnginePro_Setup_4.42.34.exe"
+    },
+    {
         "Versao":  "4.42.33",
         "Data":  "2026-11-07 17:42",
         "Notas":  "Icone da bandeja: proporcao equilibrada (sem esticar) em alta resolucao",
