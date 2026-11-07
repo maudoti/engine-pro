@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.46 | Abertura mais rapida: animacao sai assim que o programa e... | 07/11/2026
+
+- **Melhoria**: Abertura mais rapida: animacao sai assim que o programa esta pronto.
+- **Melhoria**: Fim do b64 duplicado.
+
 ## Versão 4.42.45 | Abertura: tela do Y marca d'agua removida de vez e carreg... | 07/11/2026
 
 - **Melhoria**: Abertura: tela do Y marca d'agua removida de vez e carregamento por modulos.

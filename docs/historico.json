@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.42.46",
+        "Data":  "2026-11-07 19:44",
+        "Titulo":  "Abertura mais rapida: animacao sai assim que o programa e...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura mais rapida: animacao sai assim que o programa esta pronto."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Fim do b64 duplicado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.45",
         "Data":  "2026-11-07 19:11",
         "Titulo":  "Abertura: tela do Y marca d\u0027agua removida de vez e carreg...",

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.45",
-    "Instalador":  "EnginePro_Setup_4.42.45.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.45/EnginePro_Setup_4.42.45.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.45/EnginePro_Setup_4.42.45.exe.gz",
-    "SHA256":  "7E9A18373F9C706D61A1F87B4CF626AA3666C6E7BF11B4522C082E3C83909E7B",
-    "Data":  "2026-11-07 19:11",
-    "Notas":  "Abertura: tela do Y marca d\u0027agua removida de vez e carregamento por modulos",
-    "Assinatura":  "YBzAA140X0d3IFKzmqmmD3m6/JPhDLnY06Cu3aYY179ejTERgAMry8IQXnyZLwgQZvs93yiCJM6qK/LxHgH+ULG0vgzd01wZnhqA8mW5wzjdPMpG4xkqd8flJr2RYSDGkxJmWlOO5sh36ch5YLgitBaZlZKmpdNvoG+IfaNIQSaq8556+N64S92fEDYNlQIs8NCbm8kl9MPmPeJN+pa3T1jt8giXUL06A9iKGmm282KEEzZCGDgGnR4pBLdvpZNHDSK6fHMlQU9mgwQdQJZYouRUA34uDU7fjwuETttYoH1wHayuDoyvAa1zJQ96bCmJXRyzwNFRMp/L8bvk8mCrPMrC7yTdYj/r05a57K35vmD5m765oQTVtj/CNnAqUwDUH+9kWYgoWh+o1JVdENUjK0iC9EWWU3odRAOP2Sd0BIrcgLTmNGfeRT0U8b5MrhQ5iwb6w2oM4bH0yzHsk/PsJV/aRAYXLd6lfmvTvHVVSHCiaFG/mTbMw/YVCzCts9UJ"
+    "Versao":  "4.42.46",
+    "Instalador":  "EnginePro_Setup_4.42.46.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.46/EnginePro_Setup_4.42.46.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.46/EnginePro_Setup_4.42.46.exe.gz",
+    "SHA256":  "E1AE5507BB16F6479AA416661F0B452173C7DCA15D0332EEF4A4F9AB5F26D64A",
+    "Data":  "2026-11-07 19:44",
+    "Notas":  "Abertura mais rapida: animacao sai assim que o programa esta pronto; fim do b64 duplicado",
+    "Assinatura":  "Y2HAsdP735zNgry6DlA1uw0mpOq6UK32DiEiDHBxsU2SH4jsHUNxoBTzrDeYoUwTIike8FdDkl6XvoKiI9H6IZPxURCNLLuJewnvTWwh9FU1GI5inBAfKPIugnPmHF8jEl0nnI8NaQR3m6e3a+eO+BnwacLjcyI+REpqSkk9uB1GVT3QFFI+OUY1lNGNxV3NVYMnzeDsajsIaLI5mVRSk2xRJhuO3Iw7NDC5kKO0kzxiFzRaf/TBjbd0eE7YfIjLImIVZk7FVzuMTRceVyuigVyqUPUJ5BbuJ7fHJ0ssDi3zF9bY5c0Ems02CM/WCWSsJjTxKT1dtZ27hcoUzK3yO1CSLx5XMt9zoNxhW4k6f5GvUR8XnbqdOtyNJVyRdJIjqu8B/lAMeysufsE7Coz6x6GQ9+2XaRVwsKUSj/ETaJGOPH5S17boFM4AZe3woadKH7db3dbHWPFIkzOKkuqyAABgD2OxDitEy2/M4xdlsiyBxgsEi8lrqU6TqnM6GEup"
 }
