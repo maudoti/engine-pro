@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.36",
+        "Data":  "2026-11-07 18:04",
+        "Titulo":  "Icone da bandeja: Y mais grosso e escudo um pouco maior",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone da bandeja: Y mais grosso e escudo um pouco maior."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.35",
         "Data":  "2026-11-07 17:59",
         "Titulo":  "Icone da bandeja: escudo mais cheio, preenchendo melhor a...",

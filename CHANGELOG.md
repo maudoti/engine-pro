@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.36 | Icone da bandeja: Y mais grosso e escudo um pouco maior | 07/11/2026
+
+- **Melhoria**: Icone da bandeja: Y mais grosso e escudo um pouco maior.
+
 ## Versão 4.42.35 | Icone da bandeja: escudo mais cheio, preenchendo melhor a... | 07/11/2026
 
 - **Melhoria**: Icone da bandeja: escudo mais cheio, preenchendo melhor a celula (sem esticar o Y).

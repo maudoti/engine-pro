@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.35",
-    "Instalador":  "EnginePro_Setup_4.42.35.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.35/EnginePro_Setup_4.42.35.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.35/EnginePro_Setup_4.42.35.exe.gz",
-    "SHA256":  "ED371AE0478AFE18DAED1DD215FC487A35DA81BD55B7EAF7889CBB966845FAC1",
-    "Data":  "2026-11-07 17:59",
-    "Notas":  "Icone da bandeja: escudo mais cheio, preenchendo melhor a celula (sem esticar o Y)",
-    "Assinatura":  "fLoW0F99HW0PF8hDOSgOCcKyeV14aj1/teQTlvctyfadjfNICr+4jD38FVlT4R4qTu3SqNXiqsT1Prk5SkYJvoFwamzlw66G7EDxe2LApwh1PKYoiSam1EO0ZkMhI2fwJnofPGRywofgQt52/P7W1QYNhInaDxtlNoAWXrWIiL8OH2gYS0NENkCFHpBrIzclz7wxwddakZEdg+ZsP6MMq3RxZNp2p949fwqTiM4pBpkjcdXddxqCoVY3i5RnpjcPHNAPspIZecgWNZZ/Fks9uOU0kjgK+scuAWYKhjm8zGa+Pb7E7U1aH18chJUs1tKle0fO4lykCp32vGWyEynWyd+F/vmwliJTUWaE68LzuPZqmyAWCeU+CA99qSDOXvD2zxC6k3TRVMOS2fyZB3N7hCRw+cu3Rx92z2rrfO9mfUKmFANSsVdi1rlCLf9MUjJdk02umy5QhPUHSEW+wJxqCzvKLmm2Gg7BJexL0jZGUDW8xG5MA6ZgbGqds42NiFB8"
+    "Versao":  "4.42.36",
+    "Instalador":  "EnginePro_Setup_4.42.36.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.36/EnginePro_Setup_4.42.36.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.36/EnginePro_Setup_4.42.36.exe.gz",
+    "SHA256":  "D1EF244697AF917539ABF026E971C34E8ADA27FE6D5862ED5FE088340CC63894",
+    "Data":  "2026-11-07 18:04",
+    "Notas":  "Icone da bandeja: Y mais grosso e escudo um pouco maior",
+    "Assinatura":  "NjtdfvXztaIdZMEENmw5J9bVWw49fbhzL6HtvEd2BrfSLHbsKE1YhzxkYbHShmjDQWUGeTniwdc5JNJsm5Wfj64WTd69FENmYQVmHDN8d2gOpLU3mbTSFl0QOMVWhYME+YbuhufhPMpu+zAlyOFGIzpZz/sbYxocAoOfkmrUMZDtWNThdCttJC+EutLp0apP30oMXRBNdHOBZJY12DhwDKVrHEEWf9pSDcRLjspnNuh4qGyOOEQ2WzjB9QiLn6n34ydKz48wpdbtwM4rieApm/moxWKr49pt5wym85RQ340FEZfmo6fBuxkm+msV1+lxI9PDGczlJvWA1w5aCEk9LYyir70/sSzvusY/LwaA42HFyzjbksy4W2hy+QH8gnZTNsRWTJXHj2fYCZSqPTJCQD0L4X3yXqxTbwuEKaFxSaNwouchU5nhg4QHa9oucYlx9ObAZ7fEspvWHm7uAV9+bVskcIm00c49DKBrVAK157VVpY/7Xik95djdSkiuctwR"
 }
