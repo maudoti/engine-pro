@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  776,
-    "Pesquisas":  4409,
-    "N48":  2078,
+    "Pesquisas":  4417,
+    "N48":  2080,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 03:27:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-07 03:31:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Biblioteca do SharePoint sincronizada duas vezes (atalho e sincro...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 03:10:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
+                         "Data":  "2026-11-07 03:31:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 03:10:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Caminho longo demais (OneDrive, SharePoint e Excel)",
+                         "Data":  "2026-11-07 03:31:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, \"Não foi possível redefinir o OneDrive\"",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 227 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 235 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 03:10:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive parou de sincronizar",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-07 03:28:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 43 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-07 02:50:03",
@@ -46,7 +46,7 @@
                      }
                  ],
     "Horas":  [
-                  30,
+                  24,
                   30,
                   35,
                   20,
@@ -62,29 +62,29 @@
                   8,
                   8,
                   12,
-                  4,
-                  12,
+                  16,
                   8,
                   12,
-                  28,
-                  42,
+                  11,
+                  26,
+                  33,
                   34,
-                  36,
-                  28,
+                  44,
+                  20,
                   35,
-                  29,
-                  19,
+                  36,
+                  12,
                   15,
-                  114,
-                  130,
-                  115,
-                  101,
-                  95,
-                  112,
-                  146,
-                  135,
-                  0,
-                  76,
+                  133,
+                  127,
+                  99,
+                  113,
+                  104,
+                  117,
+                  145,
+                  110,
+                  29,
+                  47,
                   28,
                   145,
                   28,
@@ -93,9 +93,9 @@
                   50,
                   64,
                   60,
-                  81
+                  89
               ],
-    "Ultima":  "2026-11-07 03:27:03",
-    "Gerado":  "2026-11-07 03:27:03",
-    "Data":  "2026-11-07 03:27"
+    "Ultima":  "2026-11-07 03:28:01",
+    "Gerado":  "2026-11-07 03:37:03",
+    "Data":  "2026-11-07 03:37"
 }
