@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.37",
+        "Data":  "2026-11-07 18:08",
+        "Titulo":  "Icone da bandeja: perna do Y mais grossa",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone da bandeja: perna do Y mais grossa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.36",
         "Data":  "2026-11-07 18:04",
         "Titulo":  "Icone da bandeja: Y mais grosso e escudo um pouco maior",

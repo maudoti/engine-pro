@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.37",
+        "Data":  "2026-11-07 18:08",
+        "Notas":  "Icone da bandeja: perna do Y mais grossa",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.37/EnginePro_Setup_4.42.37.exe"
+    },
+    {
         "Versao":  "4.42.36",
         "Data":  "2026-11-07 18:04",
         "Notas":  "Icone da bandeja: Y mais grosso e escudo um pouco maior",

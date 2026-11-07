@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.37 | Icone da bandeja: perna do Y mais grossa | 07/11/2026
+
+- **Melhoria**: Icone da bandeja: perna do Y mais grossa.
+
 ## Versão 4.42.36 | Icone da bandeja: Y mais grosso e escudo um pouco maior | 07/11/2026
 
 - **Melhoria**: Icone da bandeja: Y mais grosso e escudo um pouco maior.
