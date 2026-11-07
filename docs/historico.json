@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.39",
+        "Data":  "2026-11-07 18:18",
+        "Titulo":  "Tooltip da bandeja: sempre \u0027aprendendo\u0027",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tooltip da bandeja: sempre \u0027aprendendo\u0027."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.38",
         "Data":  "2026-11-07 18:13",
         "Titulo":  "Icone da bandeja: Y da opcao A, reenquadrado",

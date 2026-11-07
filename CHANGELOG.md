@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.39 | Tooltip da bandeja: sempre 'aprendendo' | 07/11/2026
+
+- **Melhoria**: Tooltip da bandeja: sempre 'aprendendo'.
+
 ## Versão 4.42.38 | Icone da bandeja: Y da opcao A, reenquadrado | 07/11/2026
 
 - **Melhoria**: Icone da bandeja: Y da opcao A, reenquadrado.

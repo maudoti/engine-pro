@@ -5,13 +5,13 @@
     "N48":  2333,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 18:13:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-07 18:18",
+                         "Texto":  "Nova versão 4.42.39 publicada: Tooltip da bandeja: sempre \u0027aprendendo\u0027",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 18:13",
-                         "Texto":  "Nova versão 4.42.38 publicada: Icone da bandeja: Y da opcao A, reenquadrado",
+                         "Data":  "2026-11-07 18:13:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -57,16 +57,16 @@
                   49,
                   19,
                   31,
-                  41,
-                  20,
+                  42,
+                  19,
                   15,
                   91,
                   130,
                   118,
                   102,
                   92,
-                  108,
-                  145,
+                  129,
+                  124,
                   140,
                   22,
                   76,
@@ -81,21 +81,21 @@
                   92,
                   42,
                   39,
-                  39,
-                  50,
+                  59,
+                  30,
                   17,
                   42,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45
+                  26,
+                  0,
+                  56,
+                  41,
+                  21,
+                  35
               ],
     "Ultima":  "2026-11-07 18:13:29",
-    "Gerado":  "2026-11-07 18:17:03",
-    "Data":  "2026-11-07 18:17"
+    "Gerado":  "2026-11-07 18:18:07",
+    "Data":  "2026-11-07 18:18"
 }

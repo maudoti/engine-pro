@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.39",
+        "Data":  "2026-11-07 18:18",
+        "Notas":  "Tooltip da bandeja: sempre \u0027aprendendo\u0027",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.39/EnginePro_Setup_4.42.39.exe"
+    },
+    {
         "Versao":  "4.42.38",
         "Data":  "2026-11-07 18:13",
         "Notas":  "Icone da bandeja: Y da opcao A, reenquadrado",
