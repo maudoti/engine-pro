@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.41",
+        "Data":  "2026-11-07 18:22",
+        "Titulo":  "Tooltip da bandeja: Aprendendo com reticencias",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tooltip da bandeja: Aprendendo com reticencias."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.40",
         "Data":  "2026-11-07 18:20",
         "Titulo":  "Tooltip da bandeja: Aprendendo com A maiusculo",

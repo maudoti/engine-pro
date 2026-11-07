@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.41 | Tooltip da bandeja: Aprendendo com reticencias | 07/11/2026
+
+- **Melhoria**: Tooltip da bandeja: Aprendendo com reticencias.
+
 ## Versão 4.42.40 | Tooltip da bandeja: Aprendendo com A maiusculo | 07/11/2026
 
 - **Melhoria**: Tooltip da bandeja: Aprendendo com A maiusculo.
