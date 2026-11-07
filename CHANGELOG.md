@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.20 | Colmeia valida reparos do catalogo seguro com o Claude (9... | 07/11/2026
+
+- **Melhoria**: Colmeia valida reparos do catalogo seguro com o Claude (90%+) e as estacoes aplicam sozinhas, reversivel, com selo verde. Modo conservador.
+
 ## Versão 4.42.19 | Publicacao passa a copiar o instalador para a GPO automat... | 07/11/2026
 
 - **Melhoria**: Publicacao passa a copiar o instalador para a GPO automaticamente.

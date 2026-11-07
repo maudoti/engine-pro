@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.20",
+        "Data":  "2026-11-07 09:07",
+        "Titulo":  "Colmeia valida reparos do catalogo seguro com o Claude (9...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Colmeia valida reparos do catalogo seguro com o Claude (90%+) e as estacoes aplicam sozinhas, reversivel, com selo verde. Modo conservador."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.19",
         "Data":  "2026-11-07 08:23",
         "Titulo":  "Publicacao passa a copiar o instalador para a GPO automat...",

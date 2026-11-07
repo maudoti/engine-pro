@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.19",
-    "Instalador":  "EnginePro_Setup_4.42.19.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.19/EnginePro_Setup_4.42.19.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.19/EnginePro_Setup_4.42.19.exe.gz",
-    "SHA256":  "C7550BC5ADBA9D6CBAE28E60A079C1B244A13655FA23EFE5BF634F811CD43AF5",
-    "Data":  "2026-11-07 08:23",
-    "Notas":  "Publicacao passa a copiar o instalador para a GPO automaticamente.",
-    "Assinatura":  "ITLn4lMF1Tf3CvWNqOVc6acNYUZWUHlF0/1fNFqzl8YLw4V5epE6WAf6lay8DEBLj1rEm0CUUO1Zq5YRfQrt5CNRz5/QC2zhrlkOwufAveN/LlBG5s97STPrqCMxRiUahGbaWqSe/sKuSh6ZyG1uq+rJEMct/P2bVP4pfhrCCD2QJgzw/cBMISfTcrJiGeeQS9BiKqMxFMAjjOCq7UNTnduzzKPtSB5ia0l+cKsfNhBN6Y/zgO+kG7xqzIHIJEVnPxK03NajIBCfLNYpqDCKXKjdj+t7/+kj8nDj7SY+rTCNjSs8tEmoXpE8iMREGfZ5gzY4bD1JP3oc8eAlV1mKY/GSUdBr5d91xC0HE/Ue7IpA2Ay8YI/6QBrUn8PaLCGHx78doS7nb6rE2eXQaQlhtltOes28HbQH5iRv+rWVpAuG8n/XplYbSeUYf3lt2tykIUjxqatVu4mkACuBCJMeJ4q6M0Rp+c0PuUz+uLGEWOOpWkY9Nj3mHUq2nNnkWlew"
+    "Versao":  "4.42.20",
+    "Instalador":  "EnginePro_Setup_4.42.20.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.20/EnginePro_Setup_4.42.20.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.20/EnginePro_Setup_4.42.20.exe.gz",
+    "SHA256":  "3B0B00879857EA6595704E00CEFD6E2C14E14E526C190552C0D3C4583581EB3E",
+    "Data":  "2026-11-07 09:07",
+    "Notas":  "Colmeia valida reparos do catalogo seguro com o Claude (90%+) e as estacoes aplicam sozinhas, reversivel, com selo verde. Modo conservador.",
+    "Assinatura":  "SSGW9oBJwICN6Wj4YXvLdHw3Z+0UkgJt+b7PE42HZ6BRQhaAu+TAach/IaUZL92ivE13FO/NkRyhYo2uuHTfC5tapwKd7s9+f/iO642V3ZCo8IIFrb4FVgQkuwkoMrICdeO7WjG01pa3yQUNQIOVwXYvIJEk2fIOrnV9tmigjgATnMQgk1+TYgXE5KeVjMObpWPyqq1NoltdqBlMTM25KcWehLus0CUyH0dDbMMrJxRjVNy8Y9hvRi4Y84r5qRQTe1LyZK+DcUnAbg0A7OO5o0CgeJ0mqF7h3qwN50D0w//60hasEfQQBriiXJiAp8XUW5Cq4ibPBLRSjO/H3qCejP+QnSpG1fDs6ifVX8LT2jlKTg0YEVrCU7htmpPRU9XDGMCiRHsv/MtA7ibg1UZeuy4s7Et0YMG0otsk7UJBhvW5tyfjXD//bA0RX1gfqXWWgSZE6GUhB48onYd2c5JBouW/BPltvjYtUeaL83UajZZGnTdi4uUb1voErItenON2"
 }
