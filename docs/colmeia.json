@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  776,
-    "Pesquisas":  4520,
-    "N48":  2106,
+    "Pesquisas":  4541,
+    "N48":  2115,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 06:16:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-07 06:21:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Windows não ativado",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 05:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDFs abrindo no navegador em vez do Reader",
+                         "Data":  "2026-11-07 06:20:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Reinstalação limpa do OneDrive",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 05:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
+                         "Data":  "2026-11-07 06:20:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Falta componente Visual C++ (vcruntime ou msvcp)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 338 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 359 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 05:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Limite de exibição de 5 mil itens do SharePoint",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-07 06:18:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-07 05:57:03",
@@ -46,56 +46,56 @@
                      }
                  ],
     "Horas":  [
-                  28,
-                  12,
-                  0,
-                  21,
+                  20,
+                  8,
+                  17,
+                  4,
                   8,
                   8,
                   22,
                   15,
-                  0,
                   4,
                   16,
                   8,
                   8,
                   12,
-                  16,
+                  4,
+                  12,
                   8,
                   12,
                   28,
-                  38,
-                  25,
-                  49,
+                  42,
+                  34,
+                  36,
+                  28,
+                  35,
+                  29,
                   19,
-                  31,
-                  41,
-                  20,
                   15,
-                  91,
+                  114,
                   130,
-                  118,
-                  102,
-                  92,
-                  108,
-                  145,
-                  140,
-                  22,
+                  115,
+                  101,
+                  95,
+                  112,
+                  146,
+                  135,
+                  0,
                   76,
                   28,
-                  116,
-                  57,
+                  145,
+                  28,
                   27,
                   24,
-                  28,
-                  66,
+                  50,
+                  64,
                   60,
-                  92,
-                  42,
+                  81,
+                  33,
                   39,
-                  39
+                  60
               ],
-    "Ultima":  "2026-11-07 06:16:59",
-    "Gerado":  "2026-11-07 06:17:03",
-    "Data":  "2026-11-07 06:17"
+    "Ultima":  "2026-11-07 06:18:16",
+    "Gerado":  "2026-11-07 06:27:03",
+    "Data":  "2026-11-07 06:27"
 }
