@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.29",
+        "Data":  "2026-11-07 17:13",
+        "Titulo":  "Icone da bandeja desenhado como vetor: escudo com Y nitid...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone da bandeja desenhado como vetor: escudo com Y nitido, sem depender de imagem."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.28",
         "Data":  "2026-11-07 17:03",
         "Titulo":  "Icone da bandeja corrigido: escudo com Y nitido (sem depe...",

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.28",
-    "Instalador":  "EnginePro_Setup_4.42.28.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.28/EnginePro_Setup_4.42.28.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.28/EnginePro_Setup_4.42.28.exe.gz",
-    "SHA256":  "1BC1A45412F657DB33D0CD5E7662EA1EF64EF83D1DAF0AAE99FC4EE0CB034255",
-    "Data":  "2026-11-07 17:03",
-    "Notas":  "Icone da bandeja corrigido: escudo com Y nitido (sem depender de .ico)",
-    "Assinatura":  "gswRbb6fVF/+oy3hJtZyONV9qIzRs1mGFRwZJ61wi0nqlPM21a2ifbua8C428Vzp5EvFdUlYnbZkc86Y7GtKVjD3mC2ETzAusq1CM5ceEN32QA34klOxNJEcsrEAjDZ5Rt5LahKu1RKmtzgXJuK5uJItyKKbzOg4MtmmLos6FpuucTOYRCEnQZo8v6J4Hgh7ZI7lH0I6JKzUAie1Vadje1bWtKe5QRdRrhEq/2VAVuEXeY3Ow7eCyk9/BdSmrYFJVgpiUdGLCYqs1zFuYk8VZZTIcUIjwK1p3U3ZYZs6yA1CUXcX9Z4TYO2bOz9yIbtjj1DE6RBpiC+S2GTXSiOaOs0Ix64nVwMpNRIENOfsUyx4PobXGA9dlutf6Sb187AEGLY6I+XfE6061OywLDckjVL81nsNCyNXsBpUgtUIIttRpdJFsSScKaeAEGn+gxVuO4QxkgjZQOVIWi9WC2YzULpzRVypEbRR/wVbTNeoEtzA0WxUCquEap7xiDJRJmxT"
+    "Versao":  "4.42.29",
+    "Instalador":  "EnginePro_Setup_4.42.29.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.29/EnginePro_Setup_4.42.29.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.29/EnginePro_Setup_4.42.29.exe.gz",
+    "SHA256":  "9B53FAC1971EBDA216F1ABC23D2FAC252DA7B6718A782D276A7FFC1CB6690B5A",
+    "Data":  "2026-11-07 17:13",
+    "Notas":  "Icone da bandeja desenhado como vetor: escudo com Y nitido, sem depender de imagem",
+    "Assinatura":  "lchJibBbIWZLlPbQkrJR5z4OuzyPhZ8L8tZ1HXRD7HOaqF9DRkKP5mr4iIaC95xpY2VlIIh7Dl/H77+ehSMdxBrAYBH9pXjCYrxMDP0RqD+RwZlDh4oQVvGbpoDrmzKlmtpX8HUh4mlsqX/rC+N3ydj7YrPv6uHZO3Bwh8KQ6entuq/93y3Oc+IY0tfBnEdtrBIWlEaBoXgFh+Z6g/rPC0pglIJSbVpmKbVT9NrxkhZJS61crKeyh1KyzrYqEA+1L/GAkTQV0cxVyQeVA9WHEvXjKYUFbtDkgKVLmc4o7D/J5ahGzoLHTfI8CJvI4lJUiqZNpqdRQmySLsxrDj6dI7DC/l7Yu3+FdDEnt3PnLhkEaMEb+LQjeVnyuZEsr8sjtS6ddgRkd5zwr2to38YDDIT7hvYglNQRwwTIQUxT4Kus2LZVal546tC7joF9MbZkzkSAMg+kEqjPKvdIr2hLTnopps/afji/a8Q12AEVNeQoVUjX2OoL1VX2ZnESHukU"
 }

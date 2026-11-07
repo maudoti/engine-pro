@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.29 | Icone da bandeja desenhado como vetor: escudo com Y nitid... | 07/11/2026
+
+- **Melhoria**: Icone da bandeja desenhado como vetor: escudo com Y nitido, sem depender de imagem.
+
 ## Versão 4.42.28 | Icone da bandeja corrigido: escudo com Y nitido (sem depe... | 07/11/2026
 
 - **Correção**: Icone da bandeja corrigido: escudo com Y nitido (sem depender de .ico).
