@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.42.25",
+        "Data":  "2026-11-07 15:27",
+        "Titulo":  "Renomeado para Engine Pro em todo o texto visivel",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Renomeado para Engine Pro em todo o texto visivel."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Frase de abertura \u0027Software Autonomo 100% em IA\u0027."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.24",
         "Data":  "2026-11-07 15:02",
         "Titulo":  "Envio de alerta de hardware por Microsoft Graph (app-only...",

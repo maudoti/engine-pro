@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.25",
+        "Data":  "2026-11-07 15:27",
+        "Notas":  "Renomeado para Engine Pro em todo o texto visivel; frase de abertura \u0027Software Autonomo 100% em IA\u0027",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.25/EnginePro_Setup_4.42.25.exe"
+    },
+    {
         "Versao":  "4.42.24",
         "Data":  "2026-11-07 15:02",
         "Notas":  "Envio de alerta de hardware por Microsoft Graph (app-only), sem senha nem SMTP",

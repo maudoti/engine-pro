@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.25 | Renomeado para Engine Pro em todo o texto visivel | 07/11/2026
+
+- **Melhoria**: Renomeado para Engine Pro em todo o texto visivel.
+- **Melhoria**: Frase de abertura 'Software Autonomo 100% em IA'.
+
 ## Versão 4.42.24 | Envio de alerta de hardware por Microsoft Graph (app-only... | 07/11/2026
 
 - **Melhoria**: Envio de alerta de hardware por Microsoft Graph (app-only), sem senha nem SMTP.
