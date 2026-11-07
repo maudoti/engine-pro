@@ -1,47 +1,46 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  776,
-    "Pesquisas":  4736,
-    "N48":  2223,
+    "Pesquisas":  4762,
+    "N48":  2234,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-07 14:20:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-07 14:20:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Excel trava a cada clique (recálculo pesado)",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 580 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-07 14:20:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-07 14:20:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-07 13:56",
                          "Texto":  "Nova versão 4.42.23 publicada: Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca)",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-07 13:17:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Segurança, Suspeita de vírus ou golpe",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 554 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-07 13:17:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-07 13:17:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Teams pesado",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-07 13:17:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-07 12:14:09",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  15,
                   4,
                   16,
                   8,
@@ -56,41 +55,42 @@
                   45,
                   25,
                   28,
-                  40,
-                  35,
+                  46,
+                  29,
                   15,
                   52,
                   125,
                   118,
                   109,
-                  91,
-                  118,
+                  99,
+                  110,
                   125,
                   145,
                   65,
                   76,
                   28,
-                  24,
-                  149,
+                  28,
+                  145,
                   27,
                   24,
-                  3,
-                  67,
+                  16,
+                  54,
                   64,
                   86,
                   54,
                   39,
-                  37,
-                  51,
+                  45,
+                  43,
                   15,
                   33,
                   26,
                   32,
                   23,
                   26,
+                  26,
                   26
               ],
-    "Ultima":  "2026-11-07 13:17:20",
-    "Gerado":  "2026-11-07 13:56:14",
-    "Data":  "2026-11-07 13:56"
+    "Ultima":  "2026-11-07 14:20:17",
+    "Gerado":  "2026-11-07 14:57:04",
+    "Data":  "2026-11-07 14:57"
 }
