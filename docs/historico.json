@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.22",
+        "Data":  "2026-11-07 12:09",
+        "Titulo":  "Evolucao fase 1: mantem o reparo onde funciona, compara o...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Evolucao fase 1: mantem o reparo onde funciona, compara o contexto das maquinas (build/modelo) e propoe ao TI, com recomendacao do Claude, quando o catalogo precisa evoluir."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.21",
         "Data":  "2026-11-07 09:30",
         "Titulo":  "Colmeia aplica reparos seguros sozinha",

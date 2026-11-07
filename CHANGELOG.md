@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.22 | Evolucao fase 1: mantem o reparo onde funciona, compara o... | 07/11/2026
+
+- **Melhoria**: Evolucao fase 1: mantem o reparo onde funciona, compara o contexto das maquinas (build/modelo) e propoe ao TI, com recomendacao do Claude, quando o catalogo precisa evoluir.
+
 ## Versão 4.42.21 | Colmeia aplica reparos seguros sozinha | 07/11/2026
 
 - **Melhoria**: Colmeia aplica reparos seguros sozinha.

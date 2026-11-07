@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.22",
+        "Data":  "2026-11-07 12:09",
+        "Notas":  "Evolucao fase 1: mantem o reparo onde funciona, compara o contexto das maquinas (build/modelo) e propoe ao TI, com recomendacao do Claude, quando o catalogo precisa evoluir.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.22/EnginePro_Setup_4.42.22.exe"
+    },
+    {
         "Versao":  "4.42.21",
         "Data":  "2026-11-07 09:30",
         "Notas":  "Colmeia aplica reparos seguros sozinha; reparo que falha volta ao estudo profundo ate corrigir; defeito de peca (disco, memoria, processador, video, placa-mae, ventoinha, fonte, audio, rede, perifericos) vira e-mail de chamado para a TI.",

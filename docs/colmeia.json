@@ -5,19 +5,24 @@
     "N48":  2193,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 11:11:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-07 12:09",
+                         "Texto":  "Nova versão 4.42.22 publicada: Evolucao fase 1: mantem o reparo onde funciona, compara o contexto das maquinas (build/modelo) e propoe ao TI, com recomendacao do Claude, quando o catalogo precisa evoluir.",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-07 11:11:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 502 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-07 11:11:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-07 11:11:27",
@@ -33,11 +38,6 @@
                          "Data":  "2026-11-07 10:07:35",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 32 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-07 09:30",
-                         "Texto":  "Nova versão 4.42.21 publicada: Colmeia aplica reparos seguros sozinha",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
@@ -52,8 +52,8 @@
                   16,
                   8,
                   12,
-                  14,
-                  39,
+                  28,
+                  25,
                   38,
                   37,
                   31,
@@ -61,36 +61,36 @@
                   32,
                   29,
                   15,
-                  75,
-                  124,
+                  91,
+                  108,
                   117,
                   105,
-                  91,
-                  128,
-                  124,
+                  112,
+                  108,
+                  123,
                   141,
                   43,
                   76,
                   28,
-                  61,
-                  112,
+                  66,
+                  107,
                   27,
                   24,
                   28,
                   66,
                   60,
                   92,
-                  28,
-                  39,
+                  42,
+                  25,
                   45,
                   58,
                   17,
                   42,
-                  21,
-                  11,
+                  32,
+                  0,
                   23
               ],
     "Ultima":  "2026-11-07 11:11:27",
-    "Gerado":  "2026-11-07 12:07:03",
-    "Data":  "2026-11-07 12:07"
+    "Gerado":  "2026-11-07 12:09:27",
+    "Data":  "2026-11-07 12:09"
 }
