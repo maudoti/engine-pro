@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.35 | Icone da bandeja: escudo mais cheio, preenchendo melhor a... | 07/11/2026
+
+- **Melhoria**: Icone da bandeja: escudo mais cheio, preenchendo melhor a celula (sem esticar o Y).
+
 ## Versão 4.42.34 | Icone da bandeja adaptativo ao tema: escuro=escudo branco... | 07/11/2026
 
 - **Melhoria**: Icone da bandeja adaptativo ao tema: escuro=escudo branco/Y vermelho, claro=escudo vermelho/Y branco.

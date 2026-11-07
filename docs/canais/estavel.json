@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.34",
-    "Instalador":  "EnginePro_Setup_4.42.34.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.34/EnginePro_Setup_4.42.34.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.34/EnginePro_Setup_4.42.34.exe.gz",
-    "SHA256":  "EAF7C3F72147340F133BF68F0C73C1B6C974237666518EB95D4A92C3650F6F1E",
-    "Data":  "2026-11-07 17:54",
-    "Notas":  "Icone da bandeja adaptativo ao tema: escuro=escudo branco/Y vermelho, claro=escudo vermelho/Y branco",
-    "Assinatura":  "aTUhq9QznSuac7ZFqw65fU4IU5COApwcFXfYonjH32iFA4WP9vwjLmCOBx8pKgP9gTK2NF7JHUoR6/GqpAZN1qPW4i9raf3VlFPVl1s6QHO8FAnEJKJusvttIBIgHMo3qUfrDkp34C1PxjTVfZdkx9cryOzKO4xHQXji+F8vpbNpvtSx3JwsLGTq+GDD0U0weOSI8V6qxQedZ/s7Hpp39hrQ06j1OSg80TXXXPjU5jfZYsoC6zA5Jl8Rl1aTCM/abaL10O8SEijrNfuPrFjHXJxNZ0wEEifyRQm7x2JSrFTNiDFbZYMYy7yshzMgAeXyee9P1snnTkZabyZVQzKVV4yvHOnhK12uhXE5aCCoOpGxA44xoZwPqdfnmr01k8PZX8FXuNRPdg/PqBU4fkZAHXRDiJ7Uk6icYjZQef+Ao1Inwno/DBhtdsrSRE+pt9qeurhNolQjgarZNGoKjmCQLVFP9oSdUIMxFoOATAxOAaBgLe1hKupoRouGoyN/61wo"
+    "Versao":  "4.42.35",
+    "Instalador":  "EnginePro_Setup_4.42.35.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.35/EnginePro_Setup_4.42.35.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.35/EnginePro_Setup_4.42.35.exe.gz",
+    "SHA256":  "ED371AE0478AFE18DAED1DD215FC487A35DA81BD55B7EAF7889CBB966845FAC1",
+    "Data":  "2026-11-07 17:59",
+    "Notas":  "Icone da bandeja: escudo mais cheio, preenchendo melhor a celula (sem esticar o Y)",
+    "Assinatura":  "fLoW0F99HW0PF8hDOSgOCcKyeV14aj1/teQTlvctyfadjfNICr+4jD38FVlT4R4qTu3SqNXiqsT1Prk5SkYJvoFwamzlw66G7EDxe2LApwh1PKYoiSam1EO0ZkMhI2fwJnofPGRywofgQt52/P7W1QYNhInaDxtlNoAWXrWIiL8OH2gYS0NENkCFHpBrIzclz7wxwddakZEdg+ZsP6MMq3RxZNp2p949fwqTiM4pBpkjcdXddxqCoVY3i5RnpjcPHNAPspIZecgWNZZ/Fks9uOU0kjgK+scuAWYKhjm8zGa+Pb7E7U1aH18chJUs1tKle0fO4lykCp32vGWyEynWyd+F/vmwliJTUWaE68LzuPZqmyAWCeU+CA99qSDOXvD2zxC6k3TRVMOS2fyZB3N7hCRw+cu3Rx92z2rrfO9mfUKmFANSsVdi1rlCLf9MUjJdk02umy5QhPUHSEW+wJxqCzvKLmm2Gg7BJexL0jZGUDW8xG5MA6ZgbGqds42NiFB8"
 }

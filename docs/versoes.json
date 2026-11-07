@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.35",
+        "Data":  "2026-11-07 17:59",
+        "Notas":  "Icone da bandeja: escudo mais cheio, preenchendo melhor a celula (sem esticar o Y)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.35/EnginePro_Setup_4.42.35.exe"
+    },
+    {
         "Versao":  "4.42.34",
         "Data":  "2026-11-07 17:54",
         "Notas":  "Icone da bandeja adaptativo ao tema: escuro=escudo branco/Y vermelho, claro=escudo vermelho/Y branco",
