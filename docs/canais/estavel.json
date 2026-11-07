@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.37",
-    "Instalador":  "EnginePro_Setup_4.42.37.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.37/EnginePro_Setup_4.42.37.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.37/EnginePro_Setup_4.42.37.exe.gz",
-    "SHA256":  "F514F399C6CF718A323484A5ABF4A34204E8E2343E1D0BB0EC272B3C59202AD4",
-    "Data":  "2026-11-07 18:08",
-    "Notas":  "Icone da bandeja: perna do Y mais grossa",
-    "Assinatura":  "KuGV+JAc+mmK+h/5DW6zmtJlerJ78PFJ8ephlNe6nGCHyUxPP1/h9ewF51F2/SoqmcwTGGSAE3/RX5Vl/Fq8BTyWMIQKIA4Po0YSBVZTFMiXlFGjYMQY0ru4sEVpPf7iFL+6GiORLKqlH67jaXs2lgvd6d7P5bsWbA4V2b35JCBU/dAXwpTljjJ3eFppmn8dH0mWgyPJ1/cVtBn8+S9CyvtRLxeLayqtG6vkPTIUMVRANoi4YGAJSCs7E4QiNPRx0nnJFdRoMD6E6b7Hagk1kTAgLcMMidkFSnNLZ6sF6gb6ICMFoil0RpkxQdX6pUIcfJhr+hjVgDGinjvU1t+wyWHIxYD2zVtWdaXhQAxPuE5xwyQV1yi76eaFCjrcn7/btCbb7LfhLde06tUHv2gks4y2P01iqfUmN5evexgejKqR1JBeVK8KU5cFjALOouQfKg42sATXykcS3HkI8yqMGniCF5pTO3bqfS5SBCsiAJSWUrzaHPOmAJmPH5fYWLnE"
+    "Versao":  "4.42.38",
+    "Instalador":  "EnginePro_Setup_4.42.38.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.38/EnginePro_Setup_4.42.38.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.38/EnginePro_Setup_4.42.38.exe.gz",
+    "SHA256":  "10BDEB2F7731360AB7C14DFFC79432B07D86B78C08B34B2787A7C8E527228077",
+    "Data":  "2026-11-07 18:13",
+    "Notas":  "Icone da bandeja: Y da opcao A, reenquadrado",
+    "Assinatura":  "ryNxbjhV8uW6JrzwgxT4IbpPlLKrCZMI1ZByLbumEz6JazIibaZUkUqDBFxwq8TOLAJxIKBuY2S0gD2tvVTMjhBHVu6yBaSQ+R+wjj3h32pJ3/xs0evQD9kp0hhBZSOjdbj7yoRLMabvxyCI7ErwK1V1GAoLMvKuGjWAW5sVyT1rDtdJhEVSuqH1aQeZQFYa487B76tFar/SvWeb02CV9JSitqVtcnprJINsG//gIO7UV8gi3do7JWv/Nc6LBZlcwbKhlYdT1xP0UV+YbXvgoO2N/dunPEymrWmdHp2LLgn6JCcfsmwXx/ZSo73RzJfm+jkmTHGBM54SFfshCt64dxqKz/ACGUcUha2jz03yp/Fsn44ro58d3Q1gzrDR7j96bS/C3t+LqFtC0qwl/lKZWTW4Ae9ZbAd11NUaZBzLyt5h9HykpnGppRtSg8YxQ2JU2J07KmGa0SOwpi6nbDrNYp9hMbRRQSKmu0U4pxGs2DnXoS50NImkoYj5Ed36PJAD"
 }

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.38 | Icone da bandeja: Y da opcao A, reenquadrado | 07/11/2026
+
+- **Melhoria**: Icone da bandeja: Y da opcao A, reenquadrado.
+
 ## Versão 4.42.37 | Icone da bandeja: perna do Y mais grossa | 07/11/2026
 
 - **Melhoria**: Icone da bandeja: perna do Y mais grossa.
