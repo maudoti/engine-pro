@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.27 | Icone da bandeja (escudo + Y) nitido e legivel em tamanho... | 07/11/2026
+
+- **Melhoria**: Icone da bandeja (escudo + Y) nitido e legivel em tamanho pequeno.
+
 ## Versão 4.42.26 | Nova identidade: logo Y limpo no programa, escudo na band... | 07/11/2026
 
 - **Novo**: Nova identidade: logo Y limpo no programa, escudo na bandeja, e icone novo.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.27",
+        "Data":  "2026-11-07 16:57",
+        "Titulo":  "Icone da bandeja (escudo + Y) nitido e legivel em tamanho...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone da bandeja (escudo + Y) nitido e legivel em tamanho pequeno."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.26",
         "Data":  "2026-11-07 16:43",
         "Titulo":  "Nova identidade: logo Y limpo no programa, escudo na band...",

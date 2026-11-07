@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.26",
-    "Instalador":  "EnginePro_Setup_4.42.26.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.26/EnginePro_Setup_4.42.26.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.26/EnginePro_Setup_4.42.26.exe.gz",
-    "SHA256":  "BA64F5504D34B9122A562F211A8330C9261D6C2E7A6218E05685EB05BC918DD8",
-    "Data":  "2026-11-07 16:43",
-    "Notas":  "Nova identidade: logo Y limpo no programa, escudo na bandeja, e icone novo",
-    "Assinatura":  "KJ0Ox0rSds03wLc9TKi0Brs+iBT+1xUrDESa1SITkWSCsTadBbn05+bM35EDTqymfCklzEt1rSVnT5VtDI4rz3aIDpPol6e4exkif825A24XtsGLtH5HsurDzIhM9hwYou0shlscPUWThuAzCOczTluNfX5zi6BbQsu5RUDt2/+2HZPIXhaOtAiBzElWmWYMkcs21pq9dqZS1Eoze5UgZ0P33CmaZkzuMchy3nkYNvduxnxWcFWa+ZNSxTclYxyN1SGlGQhIbjnt6/8GlLbf662wXzv9Iyz5XmYcsX2pgQjkRI7T2ynD9rSXQZG/LeNXby5rMS1vSnNlMyGqAIuGXwxp7VbKsbFxkjCPuN3K1Yqr5D/pk1A47j/ZeAQ9zwuo8QmjCa8p8CzNej2H6yI+lcXD52gxePS8WRrBFZt/FGPWGz52cUrTG2pCkEqVlknlXVtEwn+lNN/ic2L0//hrccumSt3DSgVIr46/2Y5xEvKi0e1ATt5el2zGSYhe1++s"
+    "Versao":  "4.42.27",
+    "Instalador":  "EnginePro_Setup_4.42.27.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.27/EnginePro_Setup_4.42.27.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.27/EnginePro_Setup_4.42.27.exe.gz",
+    "SHA256":  "EDC7AE17E7E79AF74C06DA0BCDE35AC3EF143A5DD1F399DC280A1AAB016182D3",
+    "Data":  "2026-11-07 16:57",
+    "Notas":  "Icone da bandeja (escudo + Y) nitido e legivel em tamanho pequeno",
+    "Assinatura":  "q6T1xTYWA8FyMM0B+n5SPL7hI+N5X4c2joJ6W2YRsBaUsdmjCEb684ToSEZpiWoI5jOcCgOg5VJRttWjtrcq57Hse0TTKjHVQDh0u0B5QxvMxeDrEgXlOJ9jvpt2bNFiMy4XY59riZ3HbEWLM8uUGiB2CMniNiz6ySDHvag8s8EyCk9p7PxIPMp//3IYtfV2mFj7LC3qlZ+I70e19Ww+IxVRoRoUhHhNzZd1yDONVCBQfNIW0ehRCiSsSamSnPflo6foaP6Iu+bZOgmwUgcfDnohT3G+x3qQmu2I97gpBDwQfgaVz8e9WQM3skCk06TwLrq17BZnd/XWaWSTHGJ3Du2h32LgmBdharuRjfDmOV68Yr0YtsIrajgCVYFNtclvD7nazSzvmzY1fJ6ZaeQ5csjY9F5juUza+s5WmunaUECXB14r5v+JFkbvTKuJ+gX6JcpvGCs/ZFfnXikxXxuYLCSEF6hmDlT1ltHVsSn5GSXZoJirVmXLDDC0KRQwLVfW"
 }
