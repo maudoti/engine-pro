@@ -2,16 +2,16 @@
     "Resolvidos":  2,
     "Conhecimentos":  776,
     "Pesquisas":  4103,
-    "N48":  1955,
+    "N48":  1943,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-06 20:53:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 128 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-06 21:00:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 20:39:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240017 (WU_E_NOT_APPLICABLE) no Windows",
+                         "Data":  "2026-11-06 21:00:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-06 20:39:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024000B (WU_E_CALL_CANCELLED) no Windows",
+                         "Data":  "2026-11-06 21:00:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-06 20:28:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0906 (CBS_E_DOWNLOAD_FAILURE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-06 20:53:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 128 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-06 19:59:55",
@@ -48,21 +48,21 @@
     "Horas":  [
                   12,
                   12,
-                  12,
-                  39,
-                  55,
-                  37,
-                  25,
-                  28,
-                  33,
+                  0,
+                  54,
+                  40,
                   41,
+                  31,
+                  30,
+                  34,
+                  28,
                   4,
                   8,
                   21,
                   8,
                   8,
-                  0,
-                  22,
+                  18,
+                  4,
                   15,
                   4,
                   16,
@@ -74,28 +74,28 @@
                   12,
                   14,
                   39,
-                  25,
-                  45,
-                  25,
-                  28,
-                  46,
+                  38,
+                  37,
+                  31,
+                  31,
+                  32,
                   29,
                   15,
-                  52,
-                  125,
-                  118,
-                  109,
-                  98,
-                  111,
-                  125,
-                  145,
-                  65,
+                  75,
+                  124,
+                  117,
+                  105,
+                  91,
+                  128,
+                  124,
+                  141,
+                  43,
                   76,
                   28,
-                  28,
-                  145
+                  61,
+                  112
               ],
     "Ultima":  "2026-11-06 20:53:07",
-    "Gerado":  "2026-11-06 20:57:03",
-    "Data":  "2026-11-06 20:57"
+    "Gerado":  "2026-11-06 21:07:03",
+    "Data":  "2026-11-06 21:07"
 }
