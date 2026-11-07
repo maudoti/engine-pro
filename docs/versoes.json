@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.42",
+        "Data":  "2026-11-07 18:36",
+        "Notas":  "Splash: Arquitetura Autonoma de IA",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.42/EnginePro_Setup_4.42.42.exe"
+    },
+    {
         "Versao":  "4.42.41",
         "Data":  "2026-11-07 18:22",
         "Notas":  "Tooltip da bandeja: Aprendendo com reticencias",

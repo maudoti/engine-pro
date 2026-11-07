@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.42",
+        "Data":  "2026-11-07 18:36",
+        "Titulo":  "Splash: Arquitetura Autonoma de IA",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Splash: Arquitetura Autonoma de IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.41",
         "Data":  "2026-11-07 18:22",
         "Titulo":  "Tooltip da bandeja: Aprendendo com reticencias",

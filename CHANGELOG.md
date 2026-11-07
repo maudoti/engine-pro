@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.42 | Splash: Arquitetura Autonoma de IA | 07/11/2026
+
+- **Melhoria**: Splash: Arquitetura Autonoma de IA.
+
 ## Versão 4.42.41 | Tooltip da bandeja: Aprendendo com reticencias | 07/11/2026
 
 - **Melhoria**: Tooltip da bandeja: Aprendendo com reticencias.
