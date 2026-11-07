@@ -5,13 +5,13 @@
     "N48":  2234,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 14:20:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-07 15:02",
+                         "Texto":  "Nova versão 4.42.24 publicada: Envio de alerta de hardware por Microsoft Graph (app-only), sem senha nem SMTP",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-07 14:20:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Excel trava a cada clique (recálculo pesado)",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,17 +21,17 @@
                      },
                      {
                          "Data":  "2026-11-07 14:20:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Excel trava a cada clique (recálculo pesado)",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-07 14:20:30",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-07 14:20:17",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-07 13:56",
-                         "Texto":  "Nova versão 4.42.23 publicada: Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca)",
                          "Nivel":  "info"
                      },
                      {
@@ -51,39 +51,39 @@
                   12,
                   14,
                   39,
-                  25,
-                  45,
-                  25,
-                  28,
-                  46,
+                  38,
+                  37,
+                  31,
+                  27,
+                  36,
                   29,
                   15,
-                  52,
-                  125,
+                  75,
+                  123,
                   118,
-                  109,
-                  99,
-                  110,
+                  88,
+                  108,
+                  112,
+                  140,
                   125,
-                  145,
-                  65,
+                  59,
                   76,
                   28,
-                  28,
-                  145,
+                  61,
+                  112,
                   27,
                   24,
-                  16,
-                  54,
-                  64,
-                  86,
+                  28,
+                  66,
+                  52,
+                  74,
                   54,
                   39,
                   45,
-                  43,
+                  58,
                   15,
-                  33,
                   26,
+                  18,
                   32,
                   23,
                   26,
@@ -91,6 +91,6 @@
                   26
               ],
     "Ultima":  "2026-11-07 14:20:17",
-    "Gerado":  "2026-11-07 14:57:04",
-    "Data":  "2026-11-07 14:57"
+    "Gerado":  "2026-11-07 15:02:50",
+    "Data":  "2026-11-07 15:02"
 }

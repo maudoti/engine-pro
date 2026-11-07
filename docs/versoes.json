@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.24",
+        "Data":  "2026-11-07 15:02",
+        "Notas":  "Envio de alerta de hardware por Microsoft Graph (app-only), sem senha nem SMTP",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.24/EnginePro_Setup_4.42.24.exe"
+    },
+    {
         "Versao":  "4.42.23",
         "Data":  "2026-11-07 13:56",
         "Notas":  "Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca); botao Corrigir parado ha dias concluido sozinho pela IA na madrugada quando e seguro",

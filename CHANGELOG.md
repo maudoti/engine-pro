@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.24 | Envio de alerta de hardware por Microsoft Graph (app-only... | 07/11/2026
+
+- **Melhoria**: Envio de alerta de hardware por Microsoft Graph (app-only), sem senha nem SMTP.
+
 ## Versão 4.42.23 | Variantes sem maquina-piloto (so replica o que ja funcion... | 07/11/2026
 
 - **Melhoria**: Variantes sem maquina-piloto (so replica o que ja funcionou com selo verde e alta confianca).

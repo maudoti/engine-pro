@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.24",
+        "Data":  "2026-11-07 15:02",
+        "Titulo":  "Envio de alerta de hardware por Microsoft Graph (app-only...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Envio de alerta de hardware por Microsoft Graph (app-only), sem senha nem SMTP."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.23",
         "Data":  "2026-11-07 13:52",
         "Titulo":  "Variantes sem maquina-piloto (so replica o que ja funcion...",
