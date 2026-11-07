@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.43",
-    "Instalador":  "EnginePro_Setup_4.42.43.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.43/EnginePro_Setup_4.42.43.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.43/EnginePro_Setup_4.42.43.exe.gz",
-    "SHA256":  "4A56688AB6ECB38C8C99BF857315373714103B5A12574D77AF98DC8387335D4E",
-    "Data":  "2026-11-07 18:49",
-    "Notas":  "Abertura: remove a tela Aguarde/Carregando da GUI quando vem do lancador",
-    "Assinatura":  "VF5nfyAvu8QoXbqiJ95eKNdkFRT1Z3ffGtOLjaeiWxvDBQoz8my+kSA0NvHvCuL6lfxubB6waUmF9PZi/4RFa3axxb+i2FrsStS4C+FR7d6Vu25DdSBszgFYyuj1e/+VNlKEBy92kpZvY6YHIp9FNfK6tfKA1e4OpNUuhI5g7zz27WCTj3LdjMHQHN55WXMgzw77u0aah9mWYSkGb6/9dEU1XzsjBAVb5PL9Sc9bjBceDLc/uzD7G7dBxJgBHLWQaWmRoffVsdeqJUeAoznPFmQ44K7jSphCqyCjPImpoAG2vS9q5AnrarZdH1+RjQUdy8FYEpAV97MBSP45TCbT00v00U3Lz+0OWC8ShC//+VSzch/BpV96/RI6M5l/deNUCEgXTzMpvl+zjmVw/Y56VqdQmvSlDbNkVEWs80bGlFvEnIrxmafAE8CW/4qva5djXv+nDoCOS+ktdHhM43v4zZ8QzT1/TAC16P50Yy4RcRaryBN4x5pddMnITXD4CK8z"
+    "Versao":  "4.42.44",
+    "Instalador":  "EnginePro_Setup_4.42.44.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.44/EnginePro_Setup_4.42.44.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.44/EnginePro_Setup_4.42.44.exe.gz",
+    "SHA256":  "16F354DEA8D1346D50664D8B9AAF1F1BF4B883EABF243630ED5A9A10DD0238E7",
+    "Data":  "2026-11-07 18:58",
+    "Notas":  "Abertura: splash da GUI nunca aparece vindo do lancador e teto de tempo na abertura",
+    "Assinatura":  "dZbDXyVnxnabRlCJJ3psCorm+PmNHq/TUb/SIbankF7vxUSQMQsi1Gpr8A6T0jtj7oJfHHJokNAyxjJXJlFXQVo/F1LC85Gvp4BOeMgEx1ROQQooZrF7o6GwHPcfb6+9BGckRS8baW7R1YGe+4lvWbbP5NXD2BBI8UZsiTwoNy2raAUpkIWf6LxyBWSx6WExRBSkj/Ttud8TyqK6Hyi3ce3pOZWlsoKCA1rWu9nFt3v7dHci/PIVTxviR61HhlFzIvx6yNQiK0QIJJ5PYhWDazoKpmG9LdeDUkdnPMEqXDGK19A8YO+6fqLg77JrRPFnI0pcfT7WLiihZal6beFsX0YObSypLsOYKy+gqM3dlR5R2q14hFLfEjc5YTShW8+Yu4wfRcZD8aq6YhIkZ8OhJfcT2mKIPT0YFfqKXFAepRPZfmi9RjjgtxeCmUak/W5vnafUjK/e4BB7XJU/Sn3zhSCviLqZrj/AcqSngE7KtwXr4CNmHq9qVWDW8GZdJ1lt"
 }

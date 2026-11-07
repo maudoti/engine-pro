@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.44 | Abertura: splash da GUI nunca aparece vindo do lancador e... | 07/11/2026
+
+- **Melhoria**: Abertura: splash da GUI nunca aparece vindo do lancador e teto de tempo na abertura.
+
 ## Versão 4.42.43 | Abertura: remove a tela Aguarde/Carregando da GUI quando ... | 07/11/2026
 
 - **Melhoria**: Abertura: remove a tela Aguarde/Carregando da GUI quando vem do lancador.

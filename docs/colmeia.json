@@ -5,8 +5,8 @@
     "N48":  2325,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-07 18:49",
-                         "Texto":  "Nova versão 4.42.43 publicada: Abertura: remove a tela Aguarde/Carregando da GUI quando vem do lancador",
+                         "Data":  "2026-11-07 18:58",
+                         "Texto":  "Nova versão 4.42.44 publicada: Abertura: splash da GUI nunca aparece vindo do lancador e teto de tempo na abertura",
                          "Nivel":  "info"
                      },
                      {
@@ -54,13 +54,13 @@
                   46,
                   29,
                   15,
-                  52,
-                  125,
+                  73,
+                  104,
                   118,
                   109,
-                  99,
-                  110,
-                  125,
+                  108,
+                  112,
+                  114,
                   145,
                   65,
                   76,
@@ -69,8 +69,8 @@
                   145,
                   27,
                   24,
-                  16,
-                  54,
+                  28,
+                  42,
                   64,
                   86,
                   54,
@@ -91,6 +91,6 @@
                   33
               ],
     "Ultima":  "2026-11-07 18:13:29",
-    "Gerado":  "2026-11-07 18:57:04",
-    "Data":  "2026-11-07 18:57"
+    "Gerado":  "2026-11-07 18:58:27",
+    "Data":  "2026-11-07 18:58"
 }

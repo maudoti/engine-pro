@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.44",
+        "Data":  "2026-11-07 18:58",
+        "Titulo":  "Abertura: splash da GUI nunca aparece vindo do lancador e...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura: splash da GUI nunca aparece vindo do lancador e teto de tempo na abertura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.43",
         "Data":  "2026-11-07 18:49",
         "Titulo":  "Abertura: remove a tela Aguarde/Carregando da GUI quando ...",
