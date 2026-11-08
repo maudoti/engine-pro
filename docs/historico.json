@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.6",
+        "Data":  "2026-11-08 19:26",
+        "Titulo":  "Caixa cheia: avisa usuario por email e resumo ao TI",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Caixa cheia: avisa usuario por email e resumo ao TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.5",
         "Data":  "2026-11-08 18:42",
         "Titulo":  "Chamado automatico tambem envia email para a TI",

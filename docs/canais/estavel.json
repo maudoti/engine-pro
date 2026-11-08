@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.5",
-    "Instalador":  "EnginePro_Setup_4.50.5.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.5/EnginePro_Setup_4.50.5.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.5/EnginePro_Setup_4.50.5.exe.gz",
-    "SHA256":  "663BA3275C8235AF2D316B433E8C9AC7132339FCC3B32F4E5CA0D10A5A3CDE77",
-    "Data":  "2026-11-08 18:42",
-    "Notas":  "Chamado automatico tambem envia email para a TI",
-    "Assinatura":  "a8GcJEMiFqEdr8QGwh3g98XW7XUlCeSwN/bGzyezNxKB9jvbdv8IxKVz1ND8iUJLSTr5AG4hbeWWH5AQBvVCGDVnW2h1xv28bZdjIEzKBlQatbxkH6zViK5d5VyQ2VM4fRcnvh5VFRMg84b0TqVGWVABrQWF9paB4OecyimO7IqxxP5Eq8YLHKyEBf1P/RP25o92wkyHJ0kpfNZcQyqNIIo2UoYqQJE/l/+Qb34fIERUyV8aZCwl2+ch44kM4LLLtBZLvlu8Aqr3kXfjz7TnXRBrdxvyWql0U0Dh+7x7BwuOZUBZKG69KGhBe01vwr8RElCMZzNjaxrmKFtPW7xc6s26Ib755H7f6dRwD7pGCy+lYj5Y00/JP/ob/aasW5mr5P0iIA98tpyeiF/YABusKwSxkYDXgqF/DcuagWMDKXTgWMn5VoUjCkIfnt433uVY5RSTZQnKygzxn2EKaEoVEIS1wadb9pDrrQERMqA5/B/YiIPvhORzgJkLrqS7uOYf"
+    "Versao":  "4.50.6",
+    "Instalador":  "EnginePro_Setup_4.50.6.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.6/EnginePro_Setup_4.50.6.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.6/EnginePro_Setup_4.50.6.exe.gz",
+    "SHA256":  "B33089015BF4914C026F31C4B675E5CE100919B7E6E973FE3080285C0BF014DE",
+    "Data":  "2026-11-08 19:26",
+    "Notas":  "Caixa cheia: avisa usuario por email e resumo ao TI",
+    "Assinatura":  "liJjtLjh1e7Gt9vPgjHnOzyz525qI7uavsHRy0SNBE2RYfLytgAPk3WyzCts1JajofkOL/FYp+Byf651aDo93EYPEuigRNv1oksjonsgoavv8Su8scLNWnW0qn2Urz8c/WLRTircCTD/3Tw8fQA4qEKkjBEtYDSOdrj4qjJFTCswM3QBDeP2PooMPtm3HnTu8mc0W2v4d09k1nJUvB5m4qXE22mw/hvsq0MQ3b1qaPr2bAivLUa5KfvNVWGSqgrHyrnUCjpiRdLN7xmg/tH7gxEjt82rmnHE0+grSfipIi20kFLCITl614OvWah8X97viFYdt6QzBhLpcUCz2cYHbGV8a06MVYOTdObiQXajaz7Zx+aC/OvTmrsXkfHR/evL+x/cfjYYo1FMNLPMY0SJbaQQPfLzb3rTpDsoBtxvX0Kd2hFSQsowHpiEB/2bO/FdAaaVpVR9LgQMDkbKPEUIlY2rbXLYbV4DuJ9VqLw+0lzDemHVA3V1vtMXssSb9x0x"
 }
