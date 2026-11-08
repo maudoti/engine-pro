@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.8 | Ajustes da tela de abertura: espaco, subtitulo com brilho... | 08/11/2026
+
+- **Melhoria**: Ajustes da tela de abertura: espaco, subtitulo com brilho e frase Analise Integrada em Rede.
+
 ## Versão 4.50.7 | Todo chamado ao TI (automatico ou do usuario) tambem cheg... | 08/11/2026
 
 - **Melhoria**: Todo chamado ao TI (automatico ou do usuario) tambem chega por email.

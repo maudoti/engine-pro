@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.8",
+        "Data":  "2026-11-08 20:13",
+        "Titulo":  "Ajustes da tela de abertura: espaco, subtitulo com brilho...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Ajustes da tela de abertura: espaco, subtitulo com brilho e frase Analise Integrada em Rede."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.7",
         "Data":  "2026-11-08 19:43",
         "Titulo":  "Todo chamado ao TI (automatico ou do usuario) tambem cheg...",
