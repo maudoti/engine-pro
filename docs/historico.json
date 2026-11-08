@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.44.1",
+        "Data":  "2026-11-08 13:06",
+        "Titulo":  "Avisos: card de problemas ganha botao Pedir para a IA qua...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Avisos: card de problemas ganha botao Pedir para a IA quando o reparo foi esgotado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.44.0",
         "Data":  "2026-11-08 12:59",
         "Titulo":  "Performance: ajustes automaticos seguros (menus instantan...",

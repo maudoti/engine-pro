@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.44.1",
+        "Data":  "2026-11-08 13:06",
+        "Notas":  "Avisos: card de problemas ganha botao Pedir para a IA quando o reparo foi esgotado",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.1/EnginePro_Setup_4.44.1.exe"
+    },
+    {
         "Versao":  "4.44.0",
         "Data":  "2026-11-08 12:59",
         "Notas":  "Performance: ajustes automaticos seguros (menus instantaneos, sem atraso de inicio, foco imediato, animacoes adaptativas e plano de energia Alto Desempenho)",

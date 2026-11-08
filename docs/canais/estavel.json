@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.44.0",
-    "Instalador":  "EnginePro_Setup_4.44.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.0/EnginePro_Setup_4.44.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.0/EnginePro_Setup_4.44.0.exe.gz",
-    "SHA256":  "73C55098D4A4F357701378A157C706E44F4284DFAEBC27A1402895FC718F9271",
-    "Data":  "2026-11-08 12:59",
-    "Notas":  "Performance: ajustes automaticos seguros (menus instantaneos, sem atraso de inicio, foco imediato, animacoes adaptativas e plano de energia Alto Desempenho)",
-    "Assinatura":  "oayozsvrToX7lg007cq0ix7HUmrtIupxcE0OEefcWHJ7Tjk+cmM3xGvQK5WYgCgSc3DBH9T0fR9CulW/eQkTX05bIMa6oAmwM1OgB2onDt/F7WRcyoTElGThyGKZIM0Vg+YZArI9UOU74Xu7GsU9Yo4GaPhvqWa//YX7eP0HJaX1esQgNAqDyJLezi9ulf6771dIREelBFlJrKhROePffaMZL/d5QgAEZHnecZ1Rwmi+36owaLl8iHVZRjt2OP7g4I9oHUYEWTPNHsmRhdotyNjkRBUrhCKz65O/hoc+ljsRQiLYmsli2uODO4ROQAdkXz5cDCAzTefZ5g4ZP+UqtJJqN+4kmEdxbjhLyA6UozVl7sqljAsJaQnz9Fx6pxrOKVfZ7Uv8cD8N711CLPzDU6IH5Yh29bBSEp0DP1qH/NtZqJhDdMwux6OdK+nkY+9MQhpmWZ/n63tBwTunzjCfD8H3AUDiAb5oHJxDfz5UOXrNsPnATiE1ypBCVNiBogzu"
+    "Versao":  "4.44.1",
+    "Instalador":  "EnginePro_Setup_4.44.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.1/EnginePro_Setup_4.44.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.1/EnginePro_Setup_4.44.1.exe.gz",
+    "SHA256":  "93CB0550CE0192C3842B8550CFEF0810F05D6E5F4C3380D180487CA7ABB277C7",
+    "Data":  "2026-11-08 13:06",
+    "Notas":  "Avisos: card de problemas ganha botao Pedir para a IA quando o reparo foi esgotado",
+    "Assinatura":  "jtGEv3tsS68ay5dhPLZgWjfB1xpmEzx8OxiTGTnMGtwyOtNccnI3LZGUIQzoiAivHidghSdrgYBecwwBDbg5ghwwWWQbyz3jdtzDFpPO9Nx259BpCMCndELUF4CrkJrk85Y/JVb2iRMVyyvm2d1z+ALby2Squ8s1IM2RwebK6tVw/CySlPYFFGwz+bWo/02VSgXtUU0wIHVQx6babsOfsOU3MSZ+ScICE30KAt/thBsK1+kyN//n3ZeW3CGYN57QmrUaCnJ34bgr2wG6ymKUZGiCVRDG3yF8L96aVzWzQA4BceiaZoyA8qoI2yRVeWgfQURjVbfGJmCH8Ze9krTesBmX6j7KtOERheaO4c2adX958RhHx9/nPEYb6IcyW2zSNc7OLEiP0q6Mholz9J81e/BQsXvKDH1xr0+yuELCAAubKEqU8SGSxwaycDjAgJX3teV6nP2IvuU3OGMMOCETBGuGsQ1oWFDxTYhT5uE/IIWT7NmBzCUXsjGShSadigxN"
 }

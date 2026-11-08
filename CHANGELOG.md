@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.44.1 | Avisos: card de problemas ganha botao Pedir para a IA qua... | 08/11/2026
+
+- **Melhoria**: Avisos: card de problemas ganha botao Pedir para a IA quando o reparo foi esgotado.
+
 ## Versão 4.44.0 | Performance: ajustes automaticos seguros (menus instantan... | 08/11/2026
 
 - **Melhoria**: Performance: ajustes automaticos seguros (menus instantaneos, sem atraso de inicio, foco imediato, animacoes adaptativas e plano de energia Alto Desempenho).
