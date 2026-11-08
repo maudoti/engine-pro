@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.3 | Deteccao robusta do Windows Update e ajuste de texto | 08/11/2026
+
+- **Melhoria**: Deteccao robusta do Windows Update e ajuste de texto.
+
 ## Versão 4.50.2 | Autodiagnostico completo, correcao do aviso do Windows Up... | 08/11/2026
 
 - **Correção**: Autodiagnostico completo, correcao do aviso do Windows Update e frase nova.

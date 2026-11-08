@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.2",
-    "Instalador":  "EnginePro_Setup_4.50.2.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.2/EnginePro_Setup_4.50.2.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.2/EnginePro_Setup_4.50.2.exe.gz",
-    "SHA256":  "77AB3F103EF3E375DBA463914F77E8C2E6B7B3BF4BBA75F86914D18CA8429FD9",
-    "Data":  "2026-11-08 18:20",
-    "Notas":  "Autodiagnostico completo, correcao do aviso do Windows Update e frase nova",
-    "Assinatura":  "S71/7bOEfUE+Ej8QPsHs106tQeoNgbk10zbrRgAxH0V1fTQdddGsN8n/7R0kK054SnKOSbq6Bsm1XkVIR4IBiVadE7Zk8AdcyqUCFgdadByzUQP8a9p8yOQXCqzZM4uYhHSMQ1jDlshmf6Gb7mLtlPnYCP0nQ1i5GBC5/F3k+fZ1pvt5CZjf1bbsYuCR6FKWEvkMSOROah4aJnRqaj8xVT4W/zM4KTsFgy+o6t7iYLGX3oXHXLeveYYLKoAtfPxQ+MyCmChLwdJJ4aHWrZDeydKxrnRkFvXTu8Tn4QZphsIwIwKN7A6xnLrXNVCO7Xf0OZrQI6m3AbhmBdrTAwiLr2zletRxjKkqoKMow/x4BP1CUGa9UgQ/TAsO4Pq9+0q39nj/Ba2yzcVnvYDykHJlyFWrvJ6TV6yD/AT8zcvheazpXd4h2ghCIvNgjh22NSLwKsO78zXYf64QLkwgAMwMnUMPhBEAYKu8e27mxWEY72wv6obSj60wwndLcYGjAPXd"
+    "Versao":  "4.50.3",
+    "Instalador":  "EnginePro_Setup_4.50.3.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.3/EnginePro_Setup_4.50.3.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.3/EnginePro_Setup_4.50.3.exe.gz",
+    "SHA256":  "C6ED7C5F6949E7076C5B0E9AC28EB5F9032F1FD18FEF878BD5BEA1E1610086C4",
+    "Data":  "2026-11-08 18:30",
+    "Notas":  "Deteccao robusta do Windows Update e ajuste de texto",
+    "Assinatura":  "FY2p0gfjWoD/TnXhdaT+hD96AfvXLACKg82vSlNNDWbOcO8PaMQ8qObXuw9E8TiKx64vCQbc65dIAzQozmYyMhAK5JLcOaxC2k4QV4jxKwmKPUoN0nQlw/in7qvqygFgBehDwU60gZy3ZAUF9/03QjoSIUbnylDTn4RgsmmlJ6SKYruRD1Yygi2FsUyvORdzenfP2y2V3Tju8yHHSUPvE4lWta2P0scHCtzgt9Or2J1XEekyBmln5qomitE+pefv1FfiA881iDujqxN+NUS/dTZfEj3A4zAHT4dr6WnLj25MjZ1MJPuOjff7oM2uqfOEC9uSajGSh9BuoDbUpomkshIXVTpNyNwavvtTaETntQFCLRQ/SGypej3DdTyv+rhSv2vJNSdRFGYCJKTzxMpEO9JfyoQgUFWELg19VHzt+GpJ8VeAkjak/SZHycWZPpDGrHXsy7vNGPIfendTnKiTlHuMg+8F+tjhzBDWbDUDJqcns628JKhWXo9bjCtpUfhr"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.3",
+        "Data":  "2026-11-08 18:30",
+        "Titulo":  "Deteccao robusta do Windows Update e ajuste de texto",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Deteccao robusta do Windows Update e ajuste de texto."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.2",
         "Data":  "2026-11-08 18:20",
         "Titulo":  "Autodiagnostico completo, correcao do aviso do Windows Up...",
