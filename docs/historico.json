@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.46.0",
+        "Data":  "2026-11-08 13:47",
+        "Titulo":  "IA sempre aprofundada",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA sempre aprofundada."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Monitor automatico do tamanho das caixas via Microsoft Graph."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.45.0",
         "Data":  "2026-11-08 13:40",
         "Titulo":  "Energia Alto Desempenho robusto (Dell/oculto+slider)",

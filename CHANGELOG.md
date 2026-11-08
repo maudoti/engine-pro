@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.46.0 | IA sempre aprofundada | 08/11/2026
+
+- **Melhoria**: IA sempre aprofundada.
+- **Melhoria**: Monitor automatico do tamanho das caixas via Microsoft Graph.
+
 ## Versão 4.45.0 | Energia Alto Desempenho robusto (Dell/oculto+slider) | 08/11/2026
 
 - **Melhoria**: Energia Alto Desempenho robusto (Dell/oculto+slider).

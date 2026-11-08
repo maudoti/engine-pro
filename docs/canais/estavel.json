@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.45.0",
-    "Instalador":  "EnginePro_Setup_4.45.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.45.0/EnginePro_Setup_4.45.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.45.0/EnginePro_Setup_4.45.0.exe.gz",
-    "SHA256":  "5BADC12205EE31445BD5D0478BE016BDD6FB241F10CFC6BB8681549F1E4C59FA",
-    "Data":  "2026-11-08 13:40",
-    "Notas":  "Energia Alto Desempenho robusto (Dell/oculto+slider); OST so avisa com disco apertado; OneDrive/SharePoint com profundidade",
-    "Assinatura":  "cwzAwKdG1zz7NYTpvjjlD8d8rMbH6q440r0SE89hQmPchOJqltFeR8CCRctAMzaAxPi1j7Exri8UaNjuSnfz9GKqSEvTc/aWEqO/MNRE3B3oejWUf2ilDee/cwGm/o7SMrexbrEz7NEJS8awQvoenTLuq2MltTlh30bjRCpUn8IOR+cKrbdPkFk8PQnwBIOgq3188gt4LqnbQLJn9LwF82khWadIsYtonmOFGeKHyL/WVnmDcuyUmudNpGeGyWFTpJ0DvWckh84hT7I2HCrpb9Ul91oVU5O9Yr1VizZU8VTYrrq5b3w4ZrSKN9t2vPs8BqeW55lyk71Nf3fAmwb1seM9ORBpO88THnyfLeXkoGnqwbClw32N9TMTlMVXR07odh+EeYIg0dUsPsLrJg5XouMTYfF3MHfay+bE+BlNTZjVvUo8mhQ6j/IsWZ6QUhIhqgnVkSTsnKwudeDISDA7vALj2TMOdNCqEyd7T4ui4gX+YGr0bhSDEcbvGz0nMgEo"
+    "Versao":  "4.46.0",
+    "Instalador":  "EnginePro_Setup_4.46.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.0/EnginePro_Setup_4.46.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.0/EnginePro_Setup_4.46.0.exe.gz",
+    "SHA256":  "62AAAE8545CD34EE8EDDC96CA6625CD1AAA795B83E25C9ADAEC145355CACAA15",
+    "Data":  "2026-11-08 13:47",
+    "Notas":  "IA sempre aprofundada; monitor automatico do tamanho das caixas via Microsoft Graph",
+    "Assinatura":  "imSozvLb5Bu/37WRjZygItUJNx5nFUlJf6ASqYPxvURpbk53H1b5QwHxTGSSk5gBurlSG7pn+OFz5t+4GKqpFfB0D4+2axCgM0omPunnqSDEAcAgWhMS7FC5ybrJtiFR853wLpLyEudKa83SS372t5yq6Do+92ab7iVoX7bViWLgcs4UzohTnUpaDI/b84/r18RdXahsyYiI2ZvQ2bN7VRVeeDHfFpJ1+Zo6cMGPzjuVevqnb5EtGRRCJuMljdNwSXO2fvwcUKHGBFko9oAhvJDCXl2zBOb85IslB74etJG97acxK3CoQUz9dU1PkJWiwDLWFhb/XPWcilK5CF/OWBU5yVz09/pkv63x2KEtaoh0DlAexTecQlH9bmekUYnUTULhWJv9ojJlq1PwoqUrZ1f5yHP5rrbybZDX3XsUpM9oyfcvXERFcF+sxo6K9mjJZzZLm/vf1Sr6gqJyYeq7hW8bChTgLNNJ1FMg5pbXZNN1OTiX1iSbM/z57doPle58"
 }
