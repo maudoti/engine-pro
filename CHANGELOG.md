@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.12 | Corrige falso positivo do autodiagnostico e tira avisos t... | 08/11/2026
+
+- **Correção**: Corrige falso positivo do autodiagnostico e tira avisos tecnicos do card geral.
+
 ## Versão 4.50.11 | Botao para a IA executar o processo recomendado | 08/11/2026
 
 - **Melhoria**: Botao para a IA executar o processo recomendado.

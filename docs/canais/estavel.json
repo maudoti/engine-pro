@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.11",
-    "Instalador":  "EnginePro_Setup_4.50.11.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.11/EnginePro_Setup_4.50.11.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.11/EnginePro_Setup_4.50.11.exe.gz",
-    "SHA256":  "4229009542844EA516241B4BA0D291F3BDCA1619055309043C78BE676E0CF0F2",
-    "Data":  "2026-11-08 20:39",
-    "Notas":  "Botao para a IA executar o processo recomendado",
-    "Assinatura":  "CSkPWYdVAn3HqbCvZUzNcjO4w1jXYSS5PF1eVl1aTukG4djOoyndbO26IMQM5gXepttisiSizznQA/LqhVCUe7xw1JppubQ2m50hN/QzsX5/NjtD0KUqff23GlBEqNQ0khM5b+0RHoMKtj42kP7dimsVlGd8GaImBkBEHPAUvpi0gCcpdllkOMmAoEgXDBmnvRDRlXItsLvonnd47L4k717dHJRdAb8FO7pDQ6HngTV9ZxbHiUqoFsQLOxrWPB/uiFPx/QfehEIdu2TA65fizfCkiMELd3oY1fynmy8dGyoCRkU7rpkDMcShDE7cq/aEPXfrmcceiEolJSCWj1FDeX9bEhRR8OQq7BqX79uexYhn29BPMdR+HT/TSCt6SDG4aNgd809CPONwzzb72gNQzI+3llOnZbCRec/kYtsS8tNm5C5SO2SkaTPK8H+r6i2Rk9bt43bidcWoWM++2o13cI554/561IHMMThfLlStoCoXBY1wBLNe4eemsvbyWHlE"
+    "Versao":  "4.50.12",
+    "Instalador":  "EnginePro_Setup_4.50.12.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.12/EnginePro_Setup_4.50.12.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.12/EnginePro_Setup_4.50.12.exe.gz",
+    "SHA256":  "83BFC54087D67D451638940A8D0BB7641FAB96FDF10960A9B600B0D009725950",
+    "Data":  "2026-11-08 20:56",
+    "Notas":  "Corrige falso positivo do autodiagnostico e tira avisos tecnicos do card geral",
+    "Assinatura":  "rH52kY0mzIpg+yxArGXIotugPBOF4vWQe+xO7R+TCUlIKl92DJVmEpCiJE7XYgCRETv/SwB0zo/wY9kg8fCqHoEhFWw2o5fjmOaOj6OqN10PNkW8LIl4zg3E641a5mHiEnDhWSWF2+sd5/cxkDuNLywfIcS184A/I+0Fe7DCdNsed7HzolICvND0d2pc3dmD5xsf805WGgvO7cKBvlF0TPIG0sXe0ROje6MNx/9QBkflMj8lCPxq/fSt1/OR5w5yU7ilxHJAj1XRWHZPES5vbDGvhgUXRLX8yaKKNau6qLwbhAUydg/JC3DXazTgLNa+6K+uf70i2nOLO0VjRDWHdIF/ZS6h4emgjU/CowvcZ/D6simgX5Sjd8mGm5hk5HpfUJuGeAim+M6BH0h2HjgbOPEEJ0ZHWHHoCnj3esTWM7r9Rq9s2BDP0M/ezdeoum0Eyu1Plp9IcikU8V/OAkGTjH1SEHe0SSY4aDxIYQ1VZKCHc3qiGTEB2xQn2GkJbZ6/"
 }
