@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.51 | IA: Claude com busca na web confirma a COLMEIA, sem depen... | 08/11/2026
+
+- **Melhoria**: IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini.
+
 ## Versão 4.42.50 | IA: Claude com teto de tokens maior para voltar a estudar... | 08/11/2026
 
 - **Melhoria**: IA: Claude com teto de tokens maior para voltar a estudar e confirmar na COLMEIA.
