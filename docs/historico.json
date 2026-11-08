@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.52",
+        "Data":  "2026-11-08 02:15",
+        "Titulo":  "IA: Claude com busca na web confirma a COLMEIA, sem depen...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.51",
         "Data":  "2026-11-08 02:13",
         "Titulo":  "IA: Claude com busca na web confirma a COLMEIA, sem depen...",

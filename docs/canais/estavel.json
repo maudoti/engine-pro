@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.51",
-    "Instalador":  "EnginePro_Setup_4.42.51.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.51/EnginePro_Setup_4.42.51.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.51/EnginePro_Setup_4.42.51.exe.gz",
-    "SHA256":  "8B77BE75D888BB56B725E6E6613A5EF12F0FC97D89E280078035751B957134E2",
-    "Data":  "2026-11-08 02:13",
+    "Versao":  "4.42.52",
+    "Instalador":  "EnginePro_Setup_4.42.52.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.52/EnginePro_Setup_4.42.52.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.52/EnginePro_Setup_4.42.52.exe.gz",
+    "SHA256":  "ABD834C595B14401EBF29487D307B1E089AC10C2D2788A2F5CBF4045A941816E",
+    "Data":  "2026-11-08 02:15",
     "Notas":  "IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini",
-    "Assinatura":  "SW1+3EtFCVhAODSLCcD+ZJcCQMMou+o74MNJOZJ25Fr2XpXBjd3fyxvDP4Tcj9StIzW+/ErL0b1cz9qg6esU88d4KWWqmU/qoQ+xWIv7xrbHBzN5C0iLj2/Qo8lbW0SO1NlSleJdnUJUBX80UxoP53oHCj+q5oR7AduY81xGUnrcpX6gvgCDaFVDaOr4hszabZFStzHMFAe6/1G1OziW12N2QKNxVKVrn5fuPo2EgsNLHCnxTZ0Se+5JJtFU85J/gL8HcnW68Yr2m/v7g1dLqZr8VFOGvnFn1kZ5aOIos6sg1fVxns3QdiqJ3BgvWSZqrRId+lpL/gM7J+6ZMhJwmdQkdsfJLMCs2U3UpQrwfQT5oLCLn/Dhip12genOoDQmgY49sZb3w5j5W9S/9hbcKYnl7e+adh8ty3Nb5dWmsvau9GieHEx2z2e09/cBHXAr6zS8TKDzTX+3CCUxGg0YOp/l8piaUeSE1XSP8D2H5nfgv7SCyEF8njxY5E7VPdVX"
+    "Assinatura":  "dvN5ih7Rv5XVRy5oAEp7RJ46m+acipbETEpMzn+3iu6Kaem1XlVtLn1NHbaRj5ODr5x4Pw81WKDahK4ho/fnT0v4LHTEBrA0J+0smm0vZ/I3mo5Oi5wk8gyB1AMrWjFthxenwo08xLwY9MJ0y5RaRrwIOTebfoOMmlkkvDilqAG888R8cZ4JHf2ZTDDFiUlbnexcQLiYobk87E/QzMlhV+qqc4eKnouJCsI18b0LcHEv61YSoBEtivag8FOKjZhj3BqDEavgGbVQ1GqaY4zKPtLYG6mLIkuU6I6dlXTpd1OUk1s+8EnGyjD1bRDxFqcvnAu1UFzmwXsoara5mvs+Kzr48jRB3uWucDdR58LDTAMOBXHzvdCFTY9xc2/C0fHnIovATQlD6VFdf+YwK3nh0I+wGP6FfKg0y9v74gVpThK4pV0tjOZH1PC2wt+4Y+Of1umX+yK4JEJWWB42vcg3efSOQlkQlFN9ZLfHuwpNWPM+DgWlSkdUT4QE2CWgxCvb"
 }

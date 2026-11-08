@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.52",
+        "Data":  "2026-11-08 02:15",
+        "Notas":  "IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.52/EnginePro_Setup_4.42.52.exe"
+    },
+    {
         "Versao":  "4.42.51",
         "Data":  "2026-11-08 02:13",
         "Notas":  "IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini",
