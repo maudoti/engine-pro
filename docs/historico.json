@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.0",
+        "Data":  "2026-11-08 15:05",
+        "Titulo":  "Engasgos agem no seguro",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Engasgos agem no seguro."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Instalacao corrigida (versao e assinatura)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.49.0",
         "Data":  "2026-11-08 14:53",
         "Titulo":  "Sensor de engasgos: detecta micro-travadas, diagnostica a...",

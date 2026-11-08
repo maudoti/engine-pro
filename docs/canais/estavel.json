@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.49.0",
-    "Instalador":  "EnginePro_Setup_4.49.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.49.0/EnginePro_Setup_4.49.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.49.0/EnginePro_Setup_4.49.0.exe.gz",
-    "SHA256":  "B2B2E4F6F65D3FC102E37561575870731D8045F37C9CD8B254EA6A63AB09E827",
-    "Data":  "2026-11-08 14:53",
-    "Notas":  "Sensor de engasgos: detecta micro-travadas, diagnostica a causa e age (seguro no automatico, resto com Corrigir)",
-    "Assinatura":  "YiwwVPo1ICEoh/OsDrSKwcL0/qnLupYNgWgaLoPicVpcu0EF9gmmcLFuPQ90qrzV0O92bO7ymyS9IqFjyzPekRUaH8I7+u2XodF53kjMUPpGJvcp7guTsgcd7TFlyWIxrIdLqeTEPDbkfgWspEQHR6mOF/O4m+nbXitmyVGkDNn6sF2zKmSjm2hURsUClJZeqxroJdT1jFHf/647ZvoZAAtGuE5luRXuWtJdoszKy+GMWLyIKbFVuXO0cRiO2eQeyxBsvUUT971nlprhtdiqyK89XEkO/rl9LtuAaljed389OfTYypAFQnI1L/m2qMh310ezBJlP/SoC2Fy8eHJrudNNpKa80gqKAVtazYG+lKFPKzjtjyV5abQLVd1jPH1FyLkvc2wftF4jwvSSX+wc4lGWN69DuI3dQ0AlHb5+CsnAGqXypJvX8A4NAK8mPCNUOhVYiXo0hYGajBOOMFZkCQu83nXefJS2/T6y0qhztpg+OaWYRL/O4ml4lorMCbB4"
+    "Versao":  "4.50.0",
+    "Instalador":  "EnginePro_Setup_4.50.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.0/EnginePro_Setup_4.50.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.0/EnginePro_Setup_4.50.0.exe.gz",
+    "SHA256":  "2FD883B1E06206662861CD3D5A178EEF671E58E576BE6298AC5E06CEA2DF7130",
+    "Data":  "2026-11-08 15:05",
+    "Notas":  "Engasgos agem no seguro; instalacao corrigida (versao e assinatura)",
+    "Assinatura":  "uMYWdNNIHxRzJsDBlK8qbmoYWY38h6l6wAu4hklLZDhtFtwHSELk6JZPG7PhlEXFVeySXwOrWqyb1e6Gplp8Tao4cUuCWzUVP1BLKrFbgzsrrQG0LbRu4J2TSqr8owmGnqSNWFLKxTd/nMXgciX7yrDL4TBU29tD9S+r1r9PGrkyPH4vFj3x+yfIs+RDz9Z21Yyb+Rv/vLm6UwPxgR1k5iQMq4W0kdyn41bUUHuzcEK220UHF16fnSX1peqNSFom/tzIyfpY1UdPyMn2eojrlAUnE7MgxX7D9wS7tWHTfxVcbh0hxr2qg8U0rUtkQCltHal85U2JnsKcDsK0dc7t98uYKzvLOeo+L2AbWG6xtza9vq8PJNnXcDToHoUb3ff98PqRmDZGBQuKWpbo+mot3SbeM2yeaHz+pUSm0TSeh9EcSJJv+wVHQQswC9fiFnEHsKGbZ1ehIjQ80Kbp0otYckvF613GrtcLDjRkKfRa242s6Wos+cB250GaRxlzmhtS"
 }
