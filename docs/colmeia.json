@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  796,
+    "Conhecimentos":  800,
     "Pesquisas":  5405,
     "N48":  2634,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 04:06:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 04:08:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como remover o arquivo de bloqueio ~$ que impede a abertura de um documento d...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 04:06:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 04:08:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o aviso \u0027Não é possível alterar uma parte de uma matriz\u0027 ao edi...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 03:46:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar espaço em disco com DISM /StartComponentCleanup e o Armazenament...",
+                         "Data":  "2026-11-08 04:08:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro #N/D em PROCV causado por espaços extras ou caracteres i...",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +30,14 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 03:46:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como iniciar o Outlook em modo de segurança (outlook.exe /safe) para isolar c...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 04:06:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 03:46:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reduzir o tempo de login desativando aplicativos de inicialização no Ger...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 04:06:52",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-08 03:44:25",
@@ -52,55 +52,55 @@
                  ],
     "Horas":  [
                   31,
-                  32,
-                  29,
+                  41,
+                  20,
                   15,
-                  75,
-                  124,
-                  117,
-                  105,
                   91,
-                  128,
-                  124,
-                  141,
-                  43,
+                  130,
+                  118,
+                  102,
+                  92,
+                  108,
+                  145,
+                  140,
+                  22,
                   76,
                   28,
-                  61,
-                  112,
+                  116,
+                  57,
                   27,
                   24,
                   28,
                   66,
                   60,
                   92,
-                  28,
+                  42,
                   39,
-                  45,
-                  58,
+                  39,
+                  50,
                   17,
                   42,
-                  21,
+                  32,
+                  23,
+                  26,
+                  24,
+                  2,
+                  53,
+                  44,
                   11,
-                  23,
-                  26,
-                  26,
-                  26,
-                  30,
-                  41,
-                  23,
-                  33,
+                  45,
                   29,
                   36,
                   31,
-                  28,
+                  4,
+                  24,
                   45,
-                  7,
-                  114,
+                  12,
+                  109,
                   128,
                   98
               ],
     "Ultima":  "2026-11-08 04:06:52",
-    "Gerado":  "2026-11-08 04:07:03",
-    "Data":  "2026-11-08 04:07"
+    "Gerado":  "2026-11-08 04:17:03",
+    "Data":  "2026-11-08 04:17"
 }
