@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.48.0",
+        "Data":  "2026-11-08 14:44",
+        "Titulo":  "IA diagnostica antes de agir",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA diagnostica antes de agir."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Menu do icone passa a Verificar se ha atualizacoes."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.47.0",
         "Data":  "2026-11-08 14:01",
         "Titulo":  "Escalonamento: falha 2x vai para estudo a fundo da IA",

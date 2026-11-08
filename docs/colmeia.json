@@ -2,11 +2,11 @@
     "Resolvidos":  2,
     "Conhecimentos":  832,
     "Pesquisas":  5935,
-    "N48":  2364,
+    "N48":  2346,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 14:01",
-                         "Texto":  "Nova versão 4.47.0 publicada: Escalonamento: falha 2x vai para estudo a fundo da IA",
+                         "Data":  "2026-11-08 14:44",
+                         "Texto":  "Nova versão 4.48.0 publicada: IA diagnostica antes de agir",
                          "Nivel":  "info"
                      },
                      {
@@ -46,23 +46,23 @@
                      }
                  ],
     "Horas":  [
-                  145,
-                  110,
-                  29,
-                  47,
+                  148,
+                  89,
+                  52,
+                  24,
                   28,
                   145,
                   28,
                   27,
                   24,
-                  50,
+                  70,
                   64,
-                  60,
+                  40,
                   89,
                   39,
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -81,9 +81,9 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
+                  181,
+                  80,
+                  62,
                   102,
                   98,
                   26,
@@ -96,6 +96,6 @@
                   30
               ],
     "Ultima":  "2026-11-08 13:52:40",
-    "Gerado":  "2026-11-08 14:37:03",
-    "Data":  "2026-11-08 14:37"
+    "Gerado":  "2026-11-08 14:44:00",
+    "Data":  "2026-11-08 14:44"
 }

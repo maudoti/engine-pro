@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.48.0 | IA diagnostica antes de agir | 08/11/2026
+
+- **Melhoria**: IA diagnostica antes de agir.
+- **Melhoria**: Menu do icone passa a Verificar se ha atualizacoes.
+
 ## Versão 4.47.0 | Escalonamento: falha 2x vai para estudo a fundo da IA | 08/11/2026
 
 - **Correção**: Escalonamento: falha 2x vai para estudo a fundo da IA.
