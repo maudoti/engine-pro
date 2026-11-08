@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  832,
-    "Pesquisas":  5937,
-    "N48":  2347,
+    "Pesquisas":  5972,
+    "N48":  2356,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 14:47:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 1 pesquisa em bases técnicas de diversos países",
+                         "Data":  "2026-11-08 14:53",
+                         "Texto":  "Nova versão 4.49.0 publicada: Sensor de engasgos: detecta micro-travadas, diagnostica a causa e age (seguro no automatico, resto com Corrigir)",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 14:44",
-                         "Texto":  "Nova versão 4.48.0 publicada: IA diagnostica antes de agir",
+                         "Data":  "2026-11-08 14:49:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 37 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 13:52:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A cópia local dos e-mails do Outlook está grande: 47,47 GB",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 14:49:37",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 901 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 937 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 13:52:40",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 13:52:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A cópia local dos e-mails do Outlook está grande: 47,47 GB",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-08 13:52:40",
@@ -51,21 +51,21 @@
                      }
                  ],
     "Horas":  [
-                  148,
-                  89,
-                  52,
-                  24,
-                  28,
-                  145,
-                  28,
-                  27,
-                  24,
+                  143,
+                  67,
+                  61,
+                  41,
+                  2,
+                  171,
+                  29,
+                  2,
+                  22,
                   70,
                   64,
-                  66,
-                  63,
+                  86,
+                  54,
                   39,
-                  36,
+                  25,
                   63,
                   15,
                   33,
@@ -85,22 +85,22 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
+                  86,
+                  101,
+                  97,
+                  1,
                   30,
                   33,
                   40,
-                  86,
+                  88,
+                  60,
                   30,
-                  32,
-                  31
+                  37
               ],
-    "Ultima":  "2026-11-08 14:47:02",
-    "Gerado":  "2026-11-08 14:47:03",
-    "Data":  "2026-11-08 14:47"
+    "Ultima":  "2026-11-08 14:49:37",
+    "Gerado":  "2026-11-08 14:53:04",
+    "Data":  "2026-11-08 14:53"
 }

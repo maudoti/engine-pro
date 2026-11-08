@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.49.0",
+        "Data":  "2026-11-08 14:53",
+        "Titulo":  "Sensor de engasgos: detecta micro-travadas, diagnostica a...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Sensor de engasgos: detecta micro-travadas, diagnostica a causa e age (seguro no automatico, resto com Corrigir)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.48.0",
         "Data":  "2026-11-08 14:44",
         "Titulo":  "IA diagnostica antes de agir",

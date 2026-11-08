@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.49.0 | Sensor de engasgos: detecta micro-travadas, diagnostica a... | 08/11/2026
+
+- **Correção**: Sensor de engasgos: detecta micro-travadas, diagnostica a causa e age (seguro no automatico, resto com Corrigir).
+
 ## Versão 4.48.0 | IA diagnostica antes de agir | 08/11/2026
 
 - **Melhoria**: IA diagnostica antes de agir.

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.49.0",
+        "Data":  "2026-11-08 14:53",
+        "Notas":  "Sensor de engasgos: detecta micro-travadas, diagnostica a causa e age (seguro no automatico, resto com Corrigir)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.49.0/EnginePro_Setup_4.49.0.exe"
+    },
+    {
         "Versao":  "4.48.0",
         "Data":  "2026-11-08 14:44",
         "Notas":  "IA diagnostica antes de agir; menu do icone passa a Verificar se ha atualizacoes",
