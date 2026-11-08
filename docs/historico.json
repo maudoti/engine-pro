@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.1",
+        "Data":  "2026-11-08 15:22",
+        "Titulo":  "Tela propria de Verificar atualizacoes e autodiagnostico ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela propria de Verificar atualizacoes e autodiagnostico do programa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.0",
         "Data":  "2026-11-08 15:05",
         "Titulo":  "Engasgos agem no seguro",
