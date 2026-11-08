@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  796,
-    "Pesquisas":  5369,
-    "N48":  2609,
+    "Pesquisas":  5405,
+    "N48":  2634,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 03:46:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar espaço em disco com DISM /StartComponentCleanup e o Armazenament...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 04:06:52",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 03:46:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como iniciar o Outlook em modo de segurança (outlook.exe /safe) para isolar c...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 04:06:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,13 +21,23 @@
                      },
                      {
                          "Data":  "2026-11-08 03:46:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reduzir o tempo de login desativando aplicativos de inicialização no Ger...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar espaço em disco com DISM /StartComponentCleanup e o Armazenament...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 334 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 370 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-08 03:46:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como iniciar o Outlook em modo de segurança (outlook.exe /safe) para isolar c...",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-08 03:46:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reduzir o tempo de login desativando aplicativos de inicialização no Ger...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-08 03:44:25",
@@ -35,53 +45,43 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 03:44:25",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-08 02:47",
                          "Texto":  "Nova versão 4.42.53 publicada: COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-08 02:41:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 146 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  28,
-                  46,
+                  31,
+                  32,
                   29,
                   15,
-                  52,
-                  125,
-                  118,
-                  109,
-                  98,
-                  111,
-                  125,
-                  145,
-                  65,
+                  75,
+                  124,
+                  117,
+                  105,
+                  91,
+                  128,
+                  124,
+                  141,
+                  43,
                   76,
                   28,
-                  28,
-                  145,
+                  61,
+                  112,
                   27,
                   24,
-                  16,
-                  54,
-                  64,
-                  86,
-                  54,
+                  28,
+                  66,
+                  60,
+                  92,
+                  28,
                   39,
                   45,
-                  43,
-                  15,
-                  33,
-                  26,
-                  32,
+                  58,
+                  17,
+                  42,
+                  21,
+                  11,
                   23,
                   26,
                   26,
@@ -94,13 +94,13 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83
+                  45,
+                  7,
+                  114,
+                  128,
+                  98
               ],
-    "Ultima":  "2026-11-08 03:44:25",
-    "Gerado":  "2026-11-08 03:57:03",
-    "Data":  "2026-11-08 03:57"
+    "Ultima":  "2026-11-08 04:06:52",
+    "Gerado":  "2026-11-08 04:07:03",
+    "Data":  "2026-11-08 04:07"
 }
