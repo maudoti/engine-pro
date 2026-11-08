@@ -5,8 +5,8 @@
     "N48":  2188,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 18:38",
-                         "Texto":  "Nova versão 4.50.4 publicada: Chamado automatico tambem envia email para a TI",
+                         "Data":  "2026-11-08 18:42",
+                         "Texto":  "Nova versão 4.50.5 publicada: Chamado automatico tambem envia email para a TI",
                          "Nivel":  "info"
                      },
                      {
@@ -51,14 +51,14 @@
                   28,
                   27,
                   24,
-                  50,
-                  64,
+                  70,
                   60,
+                  44,
                   89,
                   39,
                   36,
-                  58,
-                  20,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -77,9 +77,9 @@
                   22,
                   29,
                   41,
-                  158,
-                  79,
-                  86,
+                  181,
+                  66,
+                  76,
                   102,
                   98,
                   26,
@@ -96,6 +96,6 @@
                   42
               ],
     "Ultima":  "2026-11-08 17:56:28",
-    "Gerado":  "2026-11-08 18:38:45",
-    "Data":  "2026-11-08 18:38"
+    "Gerado":  "2026-11-08 18:42:47",
+    "Data":  "2026-11-08 18:42"
 }

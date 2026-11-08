@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.5 | Chamado automatico tambem envia email para a TI | 08/11/2026
+
+- **Melhoria**: Chamado automatico tambem envia email para a TI.
+
 ## Versão 4.50.4 | Chamado automatico tambem envia email para a TI | 08/11/2026
 
 - **Melhoria**: Chamado automatico tambem envia email para a TI.
