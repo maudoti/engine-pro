@@ -5,8 +5,8 @@
     "N48":  2092,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 20:25",
-                         "Texto":  "Nova versão 4.50.10 publicada: Saudacao Agente de Inteligencia e fim da repeticao IA do Engine Pro IA",
+                         "Data":  "2026-11-08 20:39",
+                         "Texto":  "Nova versão 4.50.11 publicada: Botao para a IA executar o processo recomendado",
                          "Nivel":  "info"
                      },
                      {
@@ -49,14 +49,14 @@
                   28,
                   27,
                   24,
-                  50,
-                  64,
+                  56,
+                  58,
                   60,
                   89,
                   39,
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -75,8 +75,8 @@
                   22,
                   29,
                   41,
-                  154,
-                  83,
+                  162,
+                  75,
                   86,
                   102,
                   98,
@@ -96,6 +96,6 @@
                   38
               ],
     "Ultima":  "2026-11-08 19:59:09",
-    "Gerado":  "2026-11-08 20:37:04",
-    "Data":  "2026-11-08 20:37"
+    "Gerado":  "2026-11-08 20:39:21",
+    "Data":  "2026-11-08 20:39"
 }

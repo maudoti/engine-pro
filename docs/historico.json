@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.11",
+        "Data":  "2026-11-08 20:39",
+        "Titulo":  "Botao para a IA executar o processo recomendado",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao para a IA executar o processo recomendado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.10",
         "Data":  "2026-11-08 20:25",
         "Titulo":  "Saudacao Agente de Inteligencia e fim da repeticao IA do ...",

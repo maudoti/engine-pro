@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.10",
-    "Instalador":  "EnginePro_Setup_4.50.10.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.10/EnginePro_Setup_4.50.10.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.10/EnginePro_Setup_4.50.10.exe.gz",
-    "SHA256":  "D98A70079D2B46B02C0382F32468E8FF74661BFFDEC942172C42AF970A2EDBE4",
-    "Data":  "2026-11-08 20:25",
-    "Notas":  "Saudacao Agente de Inteligencia e fim da repeticao IA do Engine Pro IA",
-    "Assinatura":  "nYrVkiRKHCwZjcndALXCOfGGWY61kEneWsyUqXRqBFBFVkc6wY48NNTZFQuX8fy+5xuXZFkaGROFH90eIWCig9PWIN+4qytJrcge0QHrTWHVlq8kisB8x/omv7fchuXvBxF0b2DsyAjQFRagmu5B2ARuboVZy9SsRAdYLkTIy/DqtzkUf45CUC3k82jF0tzRoTRpdohjDFEka6yQzT8HThZFo0p8EiOJ0QlOupRzsNpKUlsj5iHJJnHSVC6rdPvROmIdiQ/OV4DG354LP/lWwLGfJPyN0btsslWbtye8NIj57CkhUmyqjUZiE0vwY82FDjqfrOZZHIK1ZN/3hGCa/0dgNNbPN0EIWL8rUc0sX8meBNCRriTawMYcSa+14mdoShgS/+AV/xh9eCs/rcYrzh0BIXHKgtZDEeb8L4DRROzrz4RpbeKGAwAVr1Kpke3GGdfZOzrDXcXcVCu3gVNT0vOJ0LcoUARoVCUUbUGs4LcXh5rdO8KUrz+RQSU4vFmO"
+    "Versao":  "4.50.11",
+    "Instalador":  "EnginePro_Setup_4.50.11.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.11/EnginePro_Setup_4.50.11.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.11/EnginePro_Setup_4.50.11.exe.gz",
+    "SHA256":  "4229009542844EA516241B4BA0D291F3BDCA1619055309043C78BE676E0CF0F2",
+    "Data":  "2026-11-08 20:39",
+    "Notas":  "Botao para a IA executar o processo recomendado",
+    "Assinatura":  "CSkPWYdVAn3HqbCvZUzNcjO4w1jXYSS5PF1eVl1aTukG4djOoyndbO26IMQM5gXepttisiSizznQA/LqhVCUe7xw1JppubQ2m50hN/QzsX5/NjtD0KUqff23GlBEqNQ0khM5b+0RHoMKtj42kP7dimsVlGd8GaImBkBEHPAUvpi0gCcpdllkOMmAoEgXDBmnvRDRlXItsLvonnd47L4k717dHJRdAb8FO7pDQ6HngTV9ZxbHiUqoFsQLOxrWPB/uiFPx/QfehEIdu2TA65fizfCkiMELd3oY1fynmy8dGyoCRkU7rpkDMcShDE7cq/aEPXfrmcceiEolJSCWj1FDeX9bEhRR8OQq7BqX79uexYhn29BPMdR+HT/TSCt6SDG4aNgd809CPONwzzb72gNQzI+3llOnZbCRec/kYtsS8tNm5C5SO2SkaTPK8H+r6i2Rk9bt43bidcWoWM++2o13cI554/561IHMMThfLlStoCoXBY1wBLNe4eemsvbyWHlE"
 }

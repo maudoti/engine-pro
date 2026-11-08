@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.11 | Botao para a IA executar o processo recomendado | 08/11/2026
+
+- **Melhoria**: Botao para a IA executar o processo recomendado.
+
 ## Versão 4.50.10 | Saudacao Agente de Inteligencia e fim da repeticao IA do ... | 08/11/2026
 
 - **Melhoria**: Saudacao Agente de Inteligencia e fim da repeticao IA do Engine Pro IA.
