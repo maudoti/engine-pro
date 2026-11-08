@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.44.2",
+        "Data":  "2026-11-08 13:15",
+        "Titulo":  "Outlook: aviso reescrito em linguagem clara sobre a copia...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Outlook: aviso reescrito em linguagem clara sobre a copia local de 12 meses."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.44.1",
         "Data":  "2026-11-08 13:06",
         "Titulo":  "Avisos: card de problemas ganha botao Pedir para a IA qua...",

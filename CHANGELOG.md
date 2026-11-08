@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.44.2 | Outlook: aviso reescrito em linguagem clara sobre a copia... | 08/11/2026
+
+- **Melhoria**: Outlook: aviso reescrito em linguagem clara sobre a copia local de 12 meses.
+
 ## Versão 4.44.1 | Avisos: card de problemas ganha botao Pedir para a IA qua... | 08/11/2026
 
 - **Melhoria**: Avisos: card de problemas ganha botao Pedir para a IA quando o reparo foi esgotado.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.44.1",
-    "Instalador":  "EnginePro_Setup_4.44.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.1/EnginePro_Setup_4.44.1.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.1/EnginePro_Setup_4.44.1.exe.gz",
-    "SHA256":  "93CB0550CE0192C3842B8550CFEF0810F05D6E5F4C3380D180487CA7ABB277C7",
-    "Data":  "2026-11-08 13:06",
-    "Notas":  "Avisos: card de problemas ganha botao Pedir para a IA quando o reparo foi esgotado",
-    "Assinatura":  "jtGEv3tsS68ay5dhPLZgWjfB1xpmEzx8OxiTGTnMGtwyOtNccnI3LZGUIQzoiAivHidghSdrgYBecwwBDbg5ghwwWWQbyz3jdtzDFpPO9Nx259BpCMCndELUF4CrkJrk85Y/JVb2iRMVyyvm2d1z+ALby2Squ8s1IM2RwebK6tVw/CySlPYFFGwz+bWo/02VSgXtUU0wIHVQx6babsOfsOU3MSZ+ScICE30KAt/thBsK1+kyN//n3ZeW3CGYN57QmrUaCnJ34bgr2wG6ymKUZGiCVRDG3yF8L96aVzWzQA4BceiaZoyA8qoI2yRVeWgfQURjVbfGJmCH8Ze9krTesBmX6j7KtOERheaO4c2adX958RhHx9/nPEYb6IcyW2zSNc7OLEiP0q6Mholz9J81e/BQsXvKDH1xr0+yuELCAAubKEqU8SGSxwaycDjAgJX3teV6nP2IvuU3OGMMOCETBGuGsQ1oWFDxTYhT5uE/IIWT7NmBzCUXsjGShSadigxN"
+    "Versao":  "4.44.2",
+    "Instalador":  "EnginePro_Setup_4.44.2.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.2/EnginePro_Setup_4.44.2.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.2/EnginePro_Setup_4.44.2.exe.gz",
+    "SHA256":  "B55C3C5CF6B595D089F31662F90BF22FAC49C33FC387701A455C82E184CF50A2",
+    "Data":  "2026-11-08 13:15",
+    "Notas":  "Outlook: aviso reescrito em linguagem clara sobre a copia local de 12 meses",
+    "Assinatura":  "O++/rmMUdyyTCU2TowUFt2dMb2mrIY2KFATwXsDzwAFQ9LgNWL5eb3kQFgnY8D17gFI7EeQXURfjjI5GmzYzHQ8Pqk38gwpNZ20llldX09MYmnfGAznLQB0RS9BJGBWwHWAGHykADH+6VnE/WDFxmf37xB3+5RfwKjYaop2DOzEqSx+B9NAYScNditNJzKPUPh4FnsvUL3feXI8G2Qozf6dIx0l1j+nXajr5o79kVdt//3826HaD609cLvuuQjfjkhtX5j9Y9TFbmvjuRgdbbc/j7qSB5uFazBPmdm4INZF6IotohC56+yrN1NC6cbGtM8XreZIAYTZt/bl70uCO9jWqxvmiqkBzvDwXYHlwTSOlO7bJ5M3+0syjqGo5UxrQ3QUH0uPbJMUYRH9ZSR0W2U86l5lCmq1VP+grvLd0uilPlfSeRrdLU2bhDVweCw+CgWB3qkpW7I68mSGk8n3BUR5VFPy/U0ns9CLphgTL6O0cmQj49gjhFTRReATFz5ji"
 }
