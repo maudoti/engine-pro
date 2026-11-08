@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.50",
+        "Data":  "2026-11-08 00:53",
+        "Titulo":  "IA: Claude com teto de tokens maior para voltar a estudar...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA: Claude com teto de tokens maior para voltar a estudar e confirmar na COLMEIA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.49",
         "Data":  "2026-11-08 00:42",
         "Titulo":  "Desempenho: cartoes da Colmeia mais leves, carregamento p...",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.50 | IA: Claude com teto de tokens maior para voltar a estudar... | 08/11/2026
+
+- **Melhoria**: IA: Claude com teto de tokens maior para voltar a estudar e confirmar na COLMEIA.
+
 ## Versão 4.42.49 | Desempenho: cartoes da Colmeia mais leves, carregamento p... | 08/11/2026
 
 - **Melhoria**: Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache.

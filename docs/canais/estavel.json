@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.49",
-    "Instalador":  "EnginePro_Setup_4.42.49.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.49/EnginePro_Setup_4.42.49.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.49/EnginePro_Setup_4.42.49.exe.gz",
-    "SHA256":  "B9B30ADA43804B4C89090ED8198ACD3F72364E88837F91E90024853B1A206EB6",
-    "Data":  "2026-11-08 00:42",
-    "Notas":  "Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache; clima e abertura melhorados",
-    "Assinatura":  "Vy1DOvfGEW/rNNuYDpzhD8x57IeXIgjZeZr34QnKcqx3YIZS9AzAeM5UNxc3yvqjJzqyvYVpWTm8JQNg9wlRdJSH+hb1u1uqntn5BXJXOXp1YGEJJAUP7HuQHOcit7z+wZL/T9aV5hVv6SnEV9hJjM/RqsEY2O4iSFmH2dMYymhCF2QfWP9LDIMFPn/UVNUXwwb1wpNIECswHZnXZwPL2nBAwL0tCrV7K/vi++BaqzasA9tuPXAP2aRXfeuV0LL8t0E2YM4HG9B8c0OMs18iQ+2hd10dmYzJtskzMFNmYPfx4H+ixU60Lc+/GIN9YDh8t3BoGGkOF4F6L44+hvbigQt0ulJ2XyhlHE1mwatvMXknaqZeTBMt2IpUR6DOLVLJQUmit4bMnps6LnMKOkeLsPBnvXlQY7SyLhyz1P5esLCocnKCAiG2ACd39EMV8+8y+WqoVAlBEwuqzZYIMJeo83LfBYT56CzndVkre954DTRrTsKNzRx8EGVlT6LmVFGX"
+    "Versao":  "4.42.50",
+    "Instalador":  "EnginePro_Setup_4.42.50.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.50/EnginePro_Setup_4.42.50.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.50/EnginePro_Setup_4.42.50.exe.gz",
+    "SHA256":  "F73CBC0983B8AADDAC4EB03292141848F119CF14A0677EC81B3EFBBF9D77AF87",
+    "Data":  "2026-11-08 00:53",
+    "Notas":  "IA: Claude com teto de tokens maior para voltar a estudar e confirmar na COLMEIA",
+    "Assinatura":  "n7TvFJU+YrN5dXSMF/lXobUVA7H8QMIUSzqBlQC/KDjZTMlyrcrWTelKTS7qCnlI6p/cL//26lIJu9rt8PJ/Xa/SL4U4JEtiAIfs1B4KYPqtJSuZsDq1X1J8n5KQoatdOvt/B4v25LtsAXH3TQTahW+urhzgQ+HgS6E2RgEQA3hhjuumnFqT8CW1YQ9zXBhmfT2z0GWdEtI+18KmIOSRj66agbY+Pb8lWd9KLLRr8LqDot8x5AT2y4wGPbwWRmTt4Mxw6uwioU1EM8EYG3en9RhVDeKTecU/VSLQwDD/nINKcs3icymm5qmMtjxB0k/2dNbSfXLgmoBnm4taY5CiiWZTkENxRIvPADf72c8XDQ1R2/4X+kj6t3EZA7/Ba6uuR8F65cUbGoRmvKk/vVhegD7reDe4P7fuJMg9nl3T2aLDf/WpnoUWgXq64pXUluWHI1Zldnx1Ficj57n6ZDM4knFOYGJrMOSD8WM6YIqMjMiCbTIr6ukHYc3AyqDHMc5d"
 }

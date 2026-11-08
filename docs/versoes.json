@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.50",
+        "Data":  "2026-11-08 00:53",
+        "Notas":  "IA: Claude com teto de tokens maior para voltar a estudar e confirmar na COLMEIA",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.50/EnginePro_Setup_4.42.50.exe"
+    },
+    {
         "Versao":  "4.42.49",
         "Data":  "2026-11-08 00:42",
         "Notas":  "Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache; clima e abertura melhorados",
