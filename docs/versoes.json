@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.10",
+        "Data":  "2026-11-08 20:25",
+        "Notas":  "Saudacao Agente de Inteligencia e fim da repeticao IA do Engine Pro IA",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.10/EnginePro_Setup_4.50.10.exe"
+    },
+    {
         "Versao":  "4.50.9",
         "Data":  "2026-11-08 20:16",
         "Notas":  "Remove a linha de status na tela de abertura",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.10",
+        "Data":  "2026-11-08 20:25",
+        "Titulo":  "Saudacao Agente de Inteligencia e fim da repeticao IA do ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Saudacao Agente de Inteligencia e fim da repeticao IA do Engine Pro IA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.9",
         "Data":  "2026-11-08 20:16",
         "Titulo":  "Remove a linha de status na tela de abertura",

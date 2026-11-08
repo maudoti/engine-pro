@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.10 | Saudacao Agente de Inteligencia e fim da repeticao IA do ... | 08/11/2026
+
+- **Melhoria**: Saudacao Agente de Inteligencia e fim da repeticao IA do Engine Pro IA.
+
 ## Versão 4.50.9 | Remove a linha de status na tela de abertura | 08/11/2026
 
 - **Melhoria**: Remove a linha de status na tela de abertura.
