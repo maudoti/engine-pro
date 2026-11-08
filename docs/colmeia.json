@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  827,
+    "Conhecimentos":  830,
     "Pesquisas":  5873,
     "N48":  2591,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 11:55:18",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-08 12:05",
+                         "Texto":  "Nova versão 4.42.54 publicada: Icone: tooltip agora e \u0027Engine Pro IA: Agente de TI\u0027",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 11:55:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 116 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 12:03:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 11:31:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
+                         "Data":  "2026-11-08 12:03:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,49 +30,49 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 11:31:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024402C (WU_E_PT_WINHTTP_NAME_NOT_RESOLVED) no Windows",
+                         "Data":  "2026-11-08 12:03:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 11:31:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024002E (WU_E_WU_DISABLED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 11:55:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 116 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-08 11:55:18",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-08 10:00:30",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-08 02:47",
-                         "Texto":  "Nova versão 4.42.53 publicada: COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  98,
-                  111,
-                  125,
-                  145,
-                  65,
+                  108,
+                  112,
+                  140,
+                  141,
+                  43,
                   76,
                   28,
-                  28,
-                  145,
+                  61,
+                  112,
                   27,
                   24,
-                  16,
-                  54,
-                  64,
-                  86,
+                  28,
+                  66,
+                  60,
+                  66,
                   54,
                   39,
                   45,
-                  43,
-                  15,
-                  33,
-                  26,
+                  58,
+                  17,
+                  42,
+                  0,
                   32,
                   23,
                   26,
@@ -86,21 +86,21 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
+                  45,
+                  6,
+                  91,
+                  152,
+                  72,
                   76,
-                  146,
-                  83,
-                  86,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116
+                  32,
+                  84
               ],
     "Ultima":  "2026-11-08 11:55:18",
-    "Gerado":  "2026-11-08 11:57:03",
-    "Data":  "2026-11-08 11:57"
+    "Gerado":  "2026-11-08 12:05:00",
+    "Data":  "2026-11-08 12:05"
 }

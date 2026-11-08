@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.54",
+        "Data":  "2026-11-08 12:05",
+        "Notas":  "Icone: tooltip agora e \u0027Engine Pro IA: Agente de TI\u0027",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.54/EnginePro_Setup_4.42.54.exe"
+    },
+    {
         "Versao":  "4.42.53",
         "Data":  "2026-11-08 02:47",
         "Notas":  "COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca",

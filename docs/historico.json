@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.54",
+        "Data":  "2026-11-08 12:05",
+        "Titulo":  "Icone: tooltip agora e \u0027Engine Pro IA: Agente de TI\u0027",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone: tooltip agora e \u0027Engine Pro IA: Agente de TI\u0027."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.53",
         "Data":  "2026-11-08 02:47",
         "Titulo":  "COLMEIA: trava de gasto do Gemini, contador corrigido e d...",

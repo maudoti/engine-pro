@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.54 | Icone: tooltip agora e 'Engine Pro IA: Agente de TI' | 08/11/2026
+
+- **Melhoria**: Icone: tooltip agora e 'Engine Pro IA: Agente de TI'.
+
 ## Versão 4.42.53 | COLMEIA: trava de gasto do Gemini, contador corrigido e d... | 08/11/2026
 
 - **Correção**: COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca.

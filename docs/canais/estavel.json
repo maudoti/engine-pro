@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.53",
-    "Instalador":  "EnginePro_Setup_4.42.53.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.53/EnginePro_Setup_4.42.53.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.53/EnginePro_Setup_4.42.53.exe.gz",
-    "SHA256":  "03988C0240841F610ABB15B5B55582743E59E89530645E5093C9B6DD980204DF",
-    "Data":  "2026-11-08 02:47",
-    "Notas":  "COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca",
-    "Assinatura":  "hbKuMKNiMW5kQI9NiKC5YqhrjEEJqh5+iOlA7cBYEtJS2gC/Ch9kB8rxbDPB9gMk5SAcdhznJo8wU0SkLcI4caCOaFbqtS+BiDSTfu8QQwAJae4EUvCpCmVJmuE7fkKMmEJz9qH0AMZHJKAvNHjY/Fs8Yj6m/IZd2NU0feT4px5cY4D7QrHXJ7kTLXbT+QGMFolq91iCMKondKiCZ+MlkiK9PIt+akFJLfqg8zgI/+D7S772d3KmrIIBqqPXI0YnNxDm3nlLHQleEgCF/GanBcHW7cNHaNf8UXOEjtwMHT4MJE7Mg1T12YbLso8ncja4vQ8YZJ9C6hxAn3KAEfKYzDJt9L0zlHzQLVzbI37SZ/jQ7QsHuSSR2ddvCYRKPv38NgI0rYyL/xfmV8xHmIvT60JncE/PjGom/fTQ4QCVqFEY5nQ7+VsVrrBMCSvTUPZIe7GaxhyNH+hXleD601yq1i+OR7P5WSmAGCFqf8B2wsdCiNZbzQCkEiDkB2s0kig6"
+    "Versao":  "4.42.54",
+    "Instalador":  "EnginePro_Setup_4.42.54.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.54/EnginePro_Setup_4.42.54.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.54/EnginePro_Setup_4.42.54.exe.gz",
+    "SHA256":  "97015BF6C5A78451F88E05837832DEC44BB11C2D34DE8079BFF055C6BFD1E292",
+    "Data":  "2026-11-08 12:05",
+    "Notas":  "Icone: tooltip agora e \u0027Engine Pro IA: Agente de TI\u0027",
+    "Assinatura":  "DW4AdxZD9X4CTn7sV9Np0b57G1Ch5Gp0wcimCVZwDM1bdlowZlMEpGexFfmaoHJ0grDmM+rsh8zGFLg3xTcfkZJy31d1Co984W9E9HrCaz8qPVu6WNKYNi2+LzN7wl9feBn8laIMYM17BG2QvgWjVoNcOtUYJJJTIbzd4emxJeX20kpyUA+tgfo6BRRP5GHgn6e9lmqY7hu/bFaeMQyYHGwmMxh136lKxW2xFnSHlcEVJbe680k4F0fiXE8xu62eXdNO5Op/UKMnAU2DZVFzaU4BkvA+hqf7Qs79rFNxU3QSlGLm15QcYJdWipMFy+WH1hAmVyjRGLB7w3sI0Ns56JiMmc2LiswoJORhqE3FY8eqcCTjUHNt0FRU0BFx0/y3jiu1Lo/a36FUuMVjTleua1krVbYcojCi47uVLR3lxpB7FVg6ZTRAK87+g72rYUiPMXFI8kXXRRN1bC5zw4JiLQ1tiGS27BzeRCSJsxpF1Mq4fnNSoRTWMpz0o8zD8kwx"
 }
