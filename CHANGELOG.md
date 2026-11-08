@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.9 | Remove a linha de status na tela de abertura | 08/11/2026
+
+- **Melhoria**: Remove a linha de status na tela de abertura.
+
 ## Versão 4.50.8 | Ajustes da tela de abertura: espaco, subtitulo com brilho... | 08/11/2026
 
 - **Melhoria**: Ajustes da tela de abertura: espaco, subtitulo com brilho e frase Analise Integrada em Rede.
