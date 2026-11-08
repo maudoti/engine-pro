@@ -1,18 +1,18 @@
 {
     "Resolvidos":  2,
-    "Conhecimentos":  821,
-    "Pesquisas":  5789,
-    "N48":  2572,
+    "Conhecimentos":  824,
+    "Pesquisas":  5843,
+    "N48":  2606,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 11:09:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4740 para identificar a origem do bloqueio de uma...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 11:23:36",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 11:09:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 11:23:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 86 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 11:02:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 32 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 11:20:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 754 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 808 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 11:02:59",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 11:20:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 10:07:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800705B4 (ERROR_TIMEOUT) no Windows",
+                         "Data":  "2026-11-08 11:09:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  102,
-                  92,
-                  108,
-                  145,
-                  140,
-                  22,
+                  101,
+                  95,
+                  112,
+                  146,
+                  135,
+                  0,
                   76,
                   28,
-                  116,
-                  57,
+                  145,
+                  28,
                   27,
                   24,
-                  28,
-                  66,
-                  60,
-                  92,
-                  42,
-                  39,
-                  39,
                   50,
-                  17,
-                  42,
+                  64,
+                  60,
+                  82,
+                  32,
+                  39,
+                  60,
+                  29,
+                  33,
+                  26,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45,
+                  26,
+                  26,
+                  30,
+                  41,
+                  23,
+                  33,
                   29,
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32
+                  86
               ],
-    "Ultima":  "2026-11-08 11:02:59",
-    "Gerado":  "2026-11-08 11:17:03",
-    "Data":  "2026-11-08 11:17"
+    "Ultima":  "2026-11-08 11:23:36",
+    "Gerado":  "2026-11-08 11:27:04",
+    "Data":  "2026-11-08 11:27"
 }
