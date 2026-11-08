@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.44.0",
+        "Data":  "2026-11-08 12:59",
+        "Titulo":  "Performance: ajustes automaticos seguros (menus instantan...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Performance: ajustes automaticos seguros (menus instantaneos, sem atraso de inicio, foco imediato, animacoes adaptativas e plano de energia Alto Desempenho)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.43.0",
         "Data":  "2026-11-08 12:25",
         "Titulo":  "Marca: programa renomeado para Engine Pro IA e novo sloga...",

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.44.0",
+        "Data":  "2026-11-08 12:59",
+        "Notas":  "Performance: ajustes automaticos seguros (menus instantaneos, sem atraso de inicio, foco imediato, animacoes adaptativas e plano de energia Alto Desempenho)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.44.0/EnginePro_Setup_4.44.0.exe"
+    },
+    {
         "Versao":  "4.43.0",
         "Data":  "2026-11-08 12:25",
         "Notas":  "Marca: programa renomeado para Engine Pro IA e novo slogan \u0027Seu agente de TI com IA\u0027",

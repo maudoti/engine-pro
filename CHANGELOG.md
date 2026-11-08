@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.44.0 | Performance: ajustes automaticos seguros (menus instantan... | 08/11/2026
+
+- **Melhoria**: Performance: ajustes automaticos seguros (menus instantaneos, sem atraso de inicio, foco imediato, animacoes adaptativas e plano de energia Alto Desempenho).
+
 ## Versão 4.43.0 | Marca: programa renomeado para Engine Pro IA e novo sloga... | 08/11/2026
 
 - **Melhoria**: Marca: programa renomeado para Engine Pro IA e novo slogan 'Seu agente de TI com IA'.
