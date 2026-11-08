@@ -1,6 +1,10 @@
-# Histórico completo do Engine Pro
+# Histórico completo do Engine Pro IA
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
+
+## Versão 4.43.0 | Marca: programa renomeado para Engine Pro IA e novo sloga... | 08/11/2026
+
+- **Melhoria**: Marca: programa renomeado para Engine Pro IA e novo slogan 'Seu agente de TI com IA'.
 
 ## Versão 4.42.54 | Icone: tooltip agora e 'Engine Pro IA: Agente de TI' | 08/11/2026
 

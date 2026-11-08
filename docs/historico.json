@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.43.0",
+        "Data":  "2026-11-08 12:25",
+        "Titulo":  "Marca: programa renomeado para Engine Pro IA e novo sloga...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Marca: programa renomeado para Engine Pro IA e novo slogan \u0027Seu agente de TI com IA\u0027."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.54",
         "Data":  "2026-11-08 12:05",
         "Titulo":  "Icone: tooltip agora e \u0027Engine Pro IA: Agente de TI\u0027",
