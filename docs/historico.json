@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.2",
+        "Data":  "2026-11-08 18:20",
+        "Titulo":  "Autodiagnostico completo, correcao do aviso do Windows Up...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Autodiagnostico completo, correcao do aviso do Windows Update e frase nova."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.1",
         "Data":  "2026-11-08 15:22",
         "Titulo":  "Tela propria de Verificar atualizacoes e autodiagnostico ...",

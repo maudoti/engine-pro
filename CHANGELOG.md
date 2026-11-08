@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.2 | Autodiagnostico completo, correcao do aviso do Windows Up... | 08/11/2026
+
+- **Correção**: Autodiagnostico completo, correcao do aviso do Windows Update e frase nova.
+
 ## Versão 4.50.1 | Tela propria de Verificar atualizacoes e autodiagnostico ... | 08/11/2026
 
 - **Melhoria**: Tela propria de Verificar atualizacoes e autodiagnostico do programa.
