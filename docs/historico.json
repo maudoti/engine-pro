@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.42.53",
+        "Data":  "2026-11-08 02:47",
+        "Titulo":  "COLMEIA: trava de gasto do Gemini, contador corrigido e d...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.52",
         "Data":  "2026-11-08 02:15",
         "Titulo":  "IA: Claude com busca na web confirma a COLMEIA, sem depen...",

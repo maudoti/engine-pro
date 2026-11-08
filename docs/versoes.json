@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.53",
+        "Data":  "2026-11-08 02:47",
+        "Notas":  "COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.53/EnginePro_Setup_4.42.53.exe"
+    },
+    {
         "Versao":  "4.42.52",
         "Data":  "2026-11-08 02:15",
         "Notas":  "IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini",

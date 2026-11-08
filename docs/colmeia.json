@@ -5,8 +5,8 @@
     "N48":  2556,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 02:41:23",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-08 02:47",
+                         "Texto":  "Nova versão 4.42.53 publicada: COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 02:37:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Teams que não abre links de reunião por falta do WebView2?",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 02:41:23",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -35,14 +35,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 02:37:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro \u0027a fonte de dados de referência não é válida\u0027 em tabelas...",
+                         "Data":  "2026-11-08 02:37:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Teams que não abre links de reunião por falta do WebView2?",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 02:15",
-                         "Texto":  "Nova versão 4.42.52 publicada: IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 02:37:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro \u0027a fonte de dados de referência não é válida\u0027 em tabelas...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-08 01:51:36",
@@ -58,10 +58,10 @@
                   8,
                   43,
                   127,
-                  123,
-                  107,
-                  107,
-                  100,
+                  124,
+                  106,
+                  109,
+                  98,
                   119,
                   148,
                   89,
@@ -101,6 +101,6 @@
                   181
               ],
     "Ultima":  "2026-11-08 02:41:23",
-    "Gerado":  "2026-11-08 02:47:04",
+    "Gerado":  "2026-11-08 02:47:15",
     "Data":  "2026-11-08 02:47"
 }

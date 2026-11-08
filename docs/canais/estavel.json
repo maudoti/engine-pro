@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.52",
-    "Instalador":  "EnginePro_Setup_4.42.52.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.52/EnginePro_Setup_4.42.52.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.52/EnginePro_Setup_4.42.52.exe.gz",
-    "SHA256":  "ABD834C595B14401EBF29487D307B1E089AC10C2D2788A2F5CBF4045A941816E",
-    "Data":  "2026-11-08 02:15",
-    "Notas":  "IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini",
-    "Assinatura":  "dvN5ih7Rv5XVRy5oAEp7RJ46m+acipbETEpMzn+3iu6Kaem1XlVtLn1NHbaRj5ODr5x4Pw81WKDahK4ho/fnT0v4LHTEBrA0J+0smm0vZ/I3mo5Oi5wk8gyB1AMrWjFthxenwo08xLwY9MJ0y5RaRrwIOTebfoOMmlkkvDilqAG888R8cZ4JHf2ZTDDFiUlbnexcQLiYobk87E/QzMlhV+qqc4eKnouJCsI18b0LcHEv61YSoBEtivag8FOKjZhj3BqDEavgGbVQ1GqaY4zKPtLYG6mLIkuU6I6dlXTpd1OUk1s+8EnGyjD1bRDxFqcvnAu1UFzmwXsoara5mvs+Kzr48jRB3uWucDdR58LDTAMOBXHzvdCFTY9xc2/C0fHnIovATQlD6VFdf+YwK3nh0I+wGP6FfKg0y9v74gVpThK4pV0tjOZH1PC2wt+4Y+Of1umX+yK4JEJWWB42vcg3efSOQlkQlFN9ZLfHuwpNWPM+DgWlSkdUT4QE2CWgxCvb"
+    "Versao":  "4.42.53",
+    "Instalador":  "EnginePro_Setup_4.42.53.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.53/EnginePro_Setup_4.42.53.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.53/EnginePro_Setup_4.42.53.exe.gz",
+    "SHA256":  "03988C0240841F610ABB15B5B55582743E59E89530645E5093C9B6DD980204DF",
+    "Data":  "2026-11-08 02:47",
+    "Notas":  "COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca",
+    "Assinatura":  "hbKuMKNiMW5kQI9NiKC5YqhrjEEJqh5+iOlA7cBYEtJS2gC/Ch9kB8rxbDPB9gMk5SAcdhznJo8wU0SkLcI4caCOaFbqtS+BiDSTfu8QQwAJae4EUvCpCmVJmuE7fkKMmEJz9qH0AMZHJKAvNHjY/Fs8Yj6m/IZd2NU0feT4px5cY4D7QrHXJ7kTLXbT+QGMFolq91iCMKondKiCZ+MlkiK9PIt+akFJLfqg8zgI/+D7S772d3KmrIIBqqPXI0YnNxDm3nlLHQleEgCF/GanBcHW7cNHaNf8UXOEjtwMHT4MJE7Mg1T12YbLso8ncja4vQ8YZJ9C6hxAn3KAEfKYzDJt9L0zlHzQLVzbI37SZ/jQ7QsHuSSR2ddvCYRKPv38NgI0rYyL/xfmV8xHmIvT60JncE/PjGom/fTQ4QCVqFEY5nQ7+VsVrrBMCSvTUPZIe7GaxhyNH+hXleD601yq1i+OR7P5WSmAGCFqf8B2wsdCiNZbzQCkEiDkB2s0kig6"
 }

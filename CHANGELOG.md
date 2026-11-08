@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.53 | COLMEIA: trava de gasto do Gemini, contador corrigido e d... | 08/11/2026
+
+- **Correção**: COLMEIA: trava de gasto do Gemini, contador corrigido e desempate automatico pelo Claude com busca.
+
 ## Versão 4.42.52 | IA: Claude com busca na web confirma a COLMEIA, sem depen... | 08/11/2026
 
 - **Melhoria**: IA: Claude com busca na web confirma a COLMEIA, sem depender so do Gemini.
