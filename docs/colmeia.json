@@ -2,11 +2,11 @@
     "Resolvidos":  2,
     "Conhecimentos":  831,
     "Pesquisas":  5905,
-    "N48":  2451,
+    "N48":  2440,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 13:15",
-                         "Texto":  "Nova versão 4.44.2 publicada: Outlook: aviso reescrito em linguagem clara sobre a copia local de 12 meses",
+                         "Data":  "2026-11-08 13:40",
+                         "Texto":  "Nova versão 4.45.0 publicada: Energia Alto Desempenho robusto (Dell/oculto+slider)",
                          "Nivel":  "info"
                      },
                      {
@@ -46,8 +46,8 @@
                      }
                  ],
     "Horas":  [
-                  117,
-                  145,
+                  124,
+                  127,
                   110,
                   29,
                   47,
@@ -56,14 +56,14 @@
                   28,
                   27,
                   24,
-                  50,
-                  64,
+                  70,
+                  44,
                   60,
                   89,
                   39,
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -82,8 +82,8 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
+                  175,
+                  62,
                   86,
                   102,
                   98,
@@ -96,6 +96,6 @@
                   32
               ],
     "Ultima":  "2026-11-08 12:52:30",
-    "Gerado":  "2026-11-08 13:37:03",
-    "Data":  "2026-11-08 13:37"
+    "Gerado":  "2026-11-08 13:40:43",
+    "Data":  "2026-11-08 13:40"
 }

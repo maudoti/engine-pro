@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.45.0 | Energia Alto Desempenho robusto (Dell/oculto+slider) | 08/11/2026
+
+- **Melhoria**: Energia Alto Desempenho robusto (Dell/oculto+slider).
+- **Melhoria**: OST so avisa com disco apertado.
+- **Melhoria**: OneDrive/SharePoint com profundidade.
+
 ## Versão 4.44.2 | Outlook: aviso reescrito em linguagem clara sobre a copia... | 08/11/2026
 
 - **Melhoria**: Outlook: aviso reescrito em linguagem clara sobre a copia local de 12 meses.
