@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.48",
-    "Instalador":  "EnginePro_Setup_4.42.48.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.48/EnginePro_Setup_4.42.48.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.48/EnginePro_Setup_4.42.48.exe.gz",
-    "SHA256":  "5BF5B4894BC4A5CFBA257013465D8CB41E678AEC3880F62625976A1C33C13C8E",
-    "Data":  "2026-11-07 20:28",
-    "Notas":  "Modo IA abre instantaneo (analise so ao clicar); menos travamento ao trocar de pagina; tela inicial e clima na hora",
-    "Assinatura":  "qFCz47EMEDzs+cbkegvHev8rUV8J4+OQTptLfxgo1hk9tpAscvlvd/RxG1j6gp1GFZCYZopzkZ+0i9H2zfEqXvXAbs2anJS6Pf+D8P379hTd/2aO10DV66+P9HiKoBMw/cTpCpNxFJQ/kMxYac9+Zxoimte9N4DWj8BaV+mzScQoAegdeDNOlyCLLhxgtKn6+pl5vJZt6hBZ35Sot9FSYaTz3RbMIEfdyMzoGvmudpwVRZPX0wmMN0vUQfxaPA+YGOD87WaiRNEwJSZX5mjQkn+K1CQMk+kKQSjfoj7EpwLVeWKL80X06cqvTl5g7gBWPNGn8bVfij/0L6mBalW0HHpSG0cbTl2MsGPixrtWQKP/Hfb8TcuSKa+cowKAqoL1Z+Aar7jfM85/WdREwvonO5kXtjkhHP1XOrVwZCJMDJPT8kB9zwLYasNEnVkcSKSAVLMuJgKZm7G+wFJFi8rvGQE9cNuHSEeni8Dt8HX6Nt+UDB7LcZX14LiLp1rYRrg0"
+    "Versao":  "4.42.49",
+    "Instalador":  "EnginePro_Setup_4.42.49.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.49/EnginePro_Setup_4.42.49.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.49/EnginePro_Setup_4.42.49.exe.gz",
+    "SHA256":  "B9B30ADA43804B4C89090ED8198ACD3F72364E88837F91E90024853B1A206EB6",
+    "Data":  "2026-11-08 00:42",
+    "Notas":  "Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache; clima e abertura melhorados",
+    "Assinatura":  "Vy1DOvfGEW/rNNuYDpzhD8x57IeXIgjZeZr34QnKcqx3YIZS9AzAeM5UNxc3yvqjJzqyvYVpWTm8JQNg9wlRdJSH+hb1u1uqntn5BXJXOXp1YGEJJAUP7HuQHOcit7z+wZL/T9aV5hVv6SnEV9hJjM/RqsEY2O4iSFmH2dMYymhCF2QfWP9LDIMFPn/UVNUXwwb1wpNIECswHZnXZwPL2nBAwL0tCrV7K/vi++BaqzasA9tuPXAP2aRXfeuV0LL8t0E2YM4HG9B8c0OMs18iQ+2hd10dmYzJtskzMFNmYPfx4H+ixU60Lc+/GIN9YDh8t3BoGGkOF4F6L44+hvbigQt0ulJ2XyhlHE1mwatvMXknaqZeTBMt2IpUR6DOLVLJQUmit4bMnps6LnMKOkeLsPBnvXlQY7SyLhyz1P5esLCocnKCAiG2ACd39EMV8+8y+WqoVAlBEwuqzZYIMJeo83LfBYT56CzndVkre954DTRrTsKNzRx8EGVlT6LmVFGX"
 }

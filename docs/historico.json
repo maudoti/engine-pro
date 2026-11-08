@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.42.49",
+        "Data":  "2026-11-08 00:42",
+        "Titulo":  "Desempenho: cartoes da Colmeia mais leves, carregamento p...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Clima e abertura melhorados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.42.48",
         "Data":  "2026-11-07 20:28",
         "Titulo":  "Modo IA abre instantaneo (analise so ao clicar)",

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.49",
+        "Data":  "2026-11-08 00:42",
+        "Notas":  "Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache; clima e abertura melhorados",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.49/EnginePro_Setup_4.42.49.exe"
+    },
+    {
         "Versao":  "4.42.48",
         "Data":  "2026-11-07 20:28",
         "Notas":  "Modo IA abre instantaneo (analise so ao clicar); menos travamento ao trocar de pagina; tela inicial e clima na hora",

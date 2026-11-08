@@ -5,14 +5,14 @@
     "N48":  2415,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 00:22:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-08 00:42",
+                         "Texto":  "Nova versão 4.42.49 publicada: Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 00:03:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver falhas de DNS com ipconfig /flushdns, renovação de IP e correçã...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-08 00:22:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -35,48 +35,48 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 23:21:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 00:03:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver falhas de DNS com ipconfig /flushdns, renovação de IP e correçã...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-07 20:28",
-                         "Texto":  "Nova versão 4.42.48 publicada: Modo IA abre instantaneo (analise so ao clicar)",
+                         "Data":  "2026-11-07 23:21:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  33,
-                  34,
+                  41,
+                  26,
                   44,
-                  20,
-                  35,
-                  36,
-                  12,
-                  15,
-                  133,
+                  28,
+                  27,
+                  40,
+                  8,
+                  43,
                   127,
-                  99,
-                  113,
-                  104,
+                  105,
+                  107,
+                  108,
                   117,
-                  145,
-                  110,
-                  29,
-                  47,
+                  119,
+                  138,
+                  99,
+                  37,
+                  39,
                   28,
                   145,
                   28,
                   27,
                   24,
-                  50,
-                  64,
-                  60,
+                  70,
+                  56,
+                  48,
                   89,
                   39,
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -96,6 +96,6 @@
                   29
               ],
     "Ultima":  "2026-11-08 00:22:29",
-    "Gerado":  "2026-11-08 00:37:04",
-    "Data":  "2026-11-08 00:37"
+    "Gerado":  "2026-11-08 00:42:19",
+    "Data":  "2026-11-08 00:42"
 }

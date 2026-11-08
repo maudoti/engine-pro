@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.42.49 | Desempenho: cartoes da Colmeia mais leves, carregamento p... | 08/11/2026
+
+- **Melhoria**: Desempenho: cartoes da Colmeia mais leves, carregamento por modulos, paginas em cache.
+- **Melhoria**: Clima e abertura melhorados.
+
 ## Versão 4.42.48 | Modo IA abre instantaneo (analise so ao clicar) | 07/11/2026
 
 - **Melhoria**: Modo IA abre instantaneo (analise so ao clicar).
