@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.47.0",
+        "Data":  "2026-11-08 14:01",
+        "Notas":  "Escalonamento: falha 2x vai para estudo a fundo da IA; TI so quando o estudo esgota",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.47.0/EnginePro_Setup_4.47.0.exe"
+    },
+    {
         "Versao":  "4.46.1",
         "Data":  "2026-11-08 13:54",
         "Notas":  "Menu do icone: so Abrir e Analisar agora; sem Pausar avisos e sem Fechar o monitor",

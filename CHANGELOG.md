@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.47.0 | Escalonamento: falha 2x vai para estudo a fundo da IA | 08/11/2026
+
+- **Correção**: Escalonamento: falha 2x vai para estudo a fundo da IA.
+- **Melhoria**: TI so quando o estudo esgota.
+
 ## Versão 4.46.1 | Menu do icone: so Abrir e Analisar agora | 08/11/2026
 
 - **Melhoria**: Menu do icone: so Abrir e Analisar agora.

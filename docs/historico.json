@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.47.0",
+        "Data":  "2026-11-08 14:01",
+        "Titulo":  "Escalonamento: falha 2x vai para estudo a fundo da IA",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Escalonamento: falha 2x vai para estudo a fundo da IA."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "TI so quando o estudo esgota."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.46.1",
         "Data":  "2026-11-08 13:54",
         "Titulo":  "Menu do icone: so Abrir e Analisar agora",

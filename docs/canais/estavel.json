@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.46.1",
-    "Instalador":  "EnginePro_Setup_4.46.1.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.1/EnginePro_Setup_4.46.1.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.1/EnginePro_Setup_4.46.1.exe.gz",
-    "SHA256":  "3C5FCE33224A556930C0867CC6AFCD620BD69BDB07C42477FD6B0733F2E72411",
-    "Data":  "2026-11-08 13:54",
-    "Notas":  "Menu do icone: so Abrir e Analisar agora; sem Pausar avisos e sem Fechar o monitor",
-    "Assinatura":  "Pc0vKvtiFM5kncfAp2zIlvuwxjAIXw+mS1Qo0B6qXM8nFdn38kEoZSp8wMWQ/BnVuKejqHHr4I7846bSSZgEQ30PJME9FpH7IDrNRU80Ttwq5hAgpNRFRQqYemZb7OpnOrndGOXIaC5iH2TbMNmyaFAcIo2QUdQ1t2O1H7j9Qd9cAPf67leZDWInzG5JkOfvOJk55nsUbCc1kLu7v80wZeOqkHPoZacOLLlBi567cM4btxV64fNU9muN6PaFjRSxndqTtGuSfoRE76ADJKYOpTEVxVreTuVGCFMVtbf7OLjS4fmZKAK3Ifr1d/sb8HZ9bxtvDoNGUnuuvIsGYNuHaHxgDJKG9gcwu0AOmJzF00g2P/QY7TA3fQ6dKrCW2dsSY4dIvFM80c3DYwZyJVRc8NADorJJJiNShkYAZ4fveX+LP1REIez1SlqFVzYExcuu8MpeMIIbVXIdS8PyqpYs71LQhm3wYt+yKxJhzF9I2ft3ruvty9gyOq9FNE+4gKcC"
+    "Versao":  "4.47.0",
+    "Instalador":  "EnginePro_Setup_4.47.0.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.47.0/EnginePro_Setup_4.47.0.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.47.0/EnginePro_Setup_4.47.0.exe.gz",
+    "SHA256":  "892AED3666FE65CAB556B7EF941C45F6061A922CC8BFA04AC4E135115E52EC7B",
+    "Data":  "2026-11-08 14:01",
+    "Notas":  "Escalonamento: falha 2x vai para estudo a fundo da IA; TI so quando o estudo esgota",
+    "Assinatura":  "u5Q0TBNB2yYbMGOaCT9x/bzAleiyBUkpndr8xFYzySBuW7wndtPpCMkXV/gomnSMNpyPnI5/1JpU0Zrgqlkomp+/UumYl/txJv+NG+BcBanWeQUox1jYXOa2ekJydYlWastPAx5qUx2bNG3Iw+mlJqeI8/IS2cPBTJXCKhiRdJFjsu4tldi1MdTV+3u4eRncgJ4DfT4I0JfyqYIkEubxRPgeaC84i7NSMvWx9KfB2D1CAMz6pekgvzWUUzhDjViK9/7Tg8iADO4IJ7vjrZNlVo7DVjXPadXV9vEGAaw/F/iyzHFyb7MHnDiL1t07AzOGPlCuUgigCe9gUZMgPr4FeanjXu9qDkql0udCVwzK8FRbmRQ2mVreDIqnUUZOW715PPazINtgtrbLZvVSLQu28lhxgRwcGnXFfPijWNqGmGzwI3k5nHA5x58D1tLlqm08/I2WrR7QpF8Rn3XewiJyDTNx4wFRqbQayUWyHk+lG7hVLGlMpxEQLZ0riBlSEDRZ"
 }
