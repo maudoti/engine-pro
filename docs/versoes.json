@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.46.1",
+        "Data":  "2026-11-08 13:54",
+        "Notas":  "Menu do icone: so Abrir e Analisar agora; sem Pausar avisos e sem Fechar o monitor",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.1/EnginePro_Setup_4.46.1.exe"
+    },
+    {
         "Versao":  "4.46.0",
         "Data":  "2026-11-08 13:47",
         "Notas":  "IA sempre aprofundada; monitor automatico do tamanho das caixas via Microsoft Graph",

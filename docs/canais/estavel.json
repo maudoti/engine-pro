@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.46.0",
-    "Instalador":  "EnginePro_Setup_4.46.0.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.0/EnginePro_Setup_4.46.0.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.0/EnginePro_Setup_4.46.0.exe.gz",
-    "SHA256":  "62AAAE8545CD34EE8EDDC96CA6625CD1AAA795B83E25C9ADAEC145355CACAA15",
-    "Data":  "2026-11-08 13:47",
-    "Notas":  "IA sempre aprofundada; monitor automatico do tamanho das caixas via Microsoft Graph",
-    "Assinatura":  "imSozvLb5Bu/37WRjZygItUJNx5nFUlJf6ASqYPxvURpbk53H1b5QwHxTGSSk5gBurlSG7pn+OFz5t+4GKqpFfB0D4+2axCgM0omPunnqSDEAcAgWhMS7FC5ybrJtiFR853wLpLyEudKa83SS372t5yq6Do+92ab7iVoX7bViWLgcs4UzohTnUpaDI/b84/r18RdXahsyYiI2ZvQ2bN7VRVeeDHfFpJ1+Zo6cMGPzjuVevqnb5EtGRRCJuMljdNwSXO2fvwcUKHGBFko9oAhvJDCXl2zBOb85IslB74etJG97acxK3CoQUz9dU1PkJWiwDLWFhb/XPWcilK5CF/OWBU5yVz09/pkv63x2KEtaoh0DlAexTecQlH9bmekUYnUTULhWJv9ojJlq1PwoqUrZ1f5yHP5rrbybZDX3XsUpM9oyfcvXERFcF+sxo6K9mjJZzZLm/vf1Sr6gqJyYeq7hW8bChTgLNNJ1FMg5pbXZNN1OTiX1iSbM/z57doPle58"
+    "Versao":  "4.46.1",
+    "Instalador":  "EnginePro_Setup_4.46.1.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.1/EnginePro_Setup_4.46.1.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.46.1/EnginePro_Setup_4.46.1.exe.gz",
+    "SHA256":  "3C5FCE33224A556930C0867CC6AFCD620BD69BDB07C42477FD6B0733F2E72411",
+    "Data":  "2026-11-08 13:54",
+    "Notas":  "Menu do icone: so Abrir e Analisar agora; sem Pausar avisos e sem Fechar o monitor",
+    "Assinatura":  "Pc0vKvtiFM5kncfAp2zIlvuwxjAIXw+mS1Qo0B6qXM8nFdn38kEoZSp8wMWQ/BnVuKejqHHr4I7846bSSZgEQ30PJME9FpH7IDrNRU80Ttwq5hAgpNRFRQqYemZb7OpnOrndGOXIaC5iH2TbMNmyaFAcIo2QUdQ1t2O1H7j9Qd9cAPf67leZDWInzG5JkOfvOJk55nsUbCc1kLu7v80wZeOqkHPoZacOLLlBi567cM4btxV64fNU9muN6PaFjRSxndqTtGuSfoRE76ADJKYOpTEVxVreTuVGCFMVtbf7OLjS4fmZKAK3Ifr1d/sb8HZ9bxtvDoNGUnuuvIsGYNuHaHxgDJKG9gcwu0AOmJzF00g2P/QY7TA3fQ6dKrCW2dsSY4dIvFM80c3DYwZyJVRc8NADorJJJiNShkYAZ4fveX+LP1REIez1SlqFVzYExcuu8MpeMIIbVXIdS8PyqpYs71LQhm3wYt+yKxJhzF9I2ft3ruvty9gyOq9FNE+4gKcC"
 }

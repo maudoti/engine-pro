@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.46.1",
+        "Data":  "2026-11-08 13:54",
+        "Titulo":  "Menu do icone: so Abrir e Analisar agora",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Menu do icone: so Abrir e Analisar agora."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Sem Pausar avisos e sem Fechar o monitor."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.46.0",
         "Data":  "2026-11-08 13:47",
         "Titulo":  "IA sempre aprofundada",

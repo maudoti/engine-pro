@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.46.1 | Menu do icone: so Abrir e Analisar agora | 08/11/2026
+
+- **Melhoria**: Menu do icone: so Abrir e Analisar agora.
+- **Melhoria**: Sem Pausar avisos e sem Fechar o monitor.
+
 ## Versão 4.46.0 | IA sempre aprofundada | 08/11/2026
 
 - **Melhoria**: IA sempre aprofundada.
