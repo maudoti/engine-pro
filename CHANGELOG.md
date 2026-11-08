@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.7 | Todo chamado ao TI (automatico ou do usuario) tambem cheg... | 08/11/2026
+
+- **Melhoria**: Todo chamado ao TI (automatico ou do usuario) tambem chega por email.
+
 ## Versão 4.50.6 | Caixa cheia: avisa usuario por email e resumo ao TI | 08/11/2026
 
 - **Melhoria**: Caixa cheia: avisa usuario por email e resumo ao TI.

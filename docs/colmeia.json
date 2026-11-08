@@ -5,8 +5,8 @@
     "N48":  2199,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 19:26",
-                         "Texto":  "Nova versão 4.50.6 publicada: Caixa cheia: avisa usuario por email e resumo ao TI",
+                         "Data":  "2026-11-08 19:43",
+                         "Texto":  "Nova versão 4.50.7 publicada: Todo chamado ao TI (automatico ou do usuario) tambem chega por email",
                          "Nivel":  "info"
                      },
                      {
@@ -50,14 +50,14 @@
                   28,
                   27,
                   24,
-                  50,
+                  70,
                   64,
-                  60,
+                  40,
                   89,
                   39,
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -76,9 +76,9 @@
                   22,
                   29,
                   41,
-                  154,
-                  83,
-                  86,
+                  181,
+                  72,
+                  70,
                   102,
                   98,
                   26,
@@ -96,6 +96,6 @@
                   39
               ],
     "Ultima":  "2026-11-08 18:58:56",
-    "Gerado":  "2026-11-08 19:37:04",
-    "Data":  "2026-11-08 19:37"
+    "Gerado":  "2026-11-08 19:43:03",
+    "Data":  "2026-11-08 19:43"
 }
