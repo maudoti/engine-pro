@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.4",
+        "Data":  "2026-11-08 18:38",
+        "Titulo":  "Chamado automatico tambem envia email para a TI",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Chamado automatico tambem envia email para a TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.3",
         "Data":  "2026-11-08 18:30",
         "Titulo":  "Deteccao robusta do Windows Update e ajuste de texto",

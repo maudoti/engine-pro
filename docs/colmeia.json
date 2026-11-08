@@ -5,8 +5,8 @@
     "N48":  2188,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 18:30",
-                         "Texto":  "Nova versão 4.50.3 publicada: Deteccao robusta do Windows Update e ajuste de texto",
+                         "Data":  "2026-11-08 18:38",
+                         "Texto":  "Nova versão 4.50.4 publicada: Chamado automatico tambem envia email para a TI",
                          "Nivel":  "info"
                      },
                      {
@@ -57,8 +57,8 @@
                   89,
                   39,
                   36,
-                  49,
-                  29,
+                  58,
+                  20,
                   33,
                   26,
                   32,
@@ -77,8 +77,8 @@
                   22,
                   29,
                   41,
-                  154,
-                  83,
+                  158,
+                  79,
                   86,
                   102,
                   98,
@@ -96,6 +96,6 @@
                   42
               ],
     "Ultima":  "2026-11-08 17:56:28",
-    "Gerado":  "2026-11-08 18:37:04",
-    "Data":  "2026-11-08 18:37"
+    "Gerado":  "2026-11-08 18:38:45",
+    "Data":  "2026-11-08 18:38"
 }

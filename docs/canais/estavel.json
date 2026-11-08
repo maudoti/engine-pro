@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.3",
-    "Instalador":  "EnginePro_Setup_4.50.3.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.3/EnginePro_Setup_4.50.3.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.3/EnginePro_Setup_4.50.3.exe.gz",
-    "SHA256":  "C6ED7C5F6949E7076C5B0E9AC28EB5F9032F1FD18FEF878BD5BEA1E1610086C4",
-    "Data":  "2026-11-08 18:30",
-    "Notas":  "Deteccao robusta do Windows Update e ajuste de texto",
-    "Assinatura":  "FY2p0gfjWoD/TnXhdaT+hD96AfvXLACKg82vSlNNDWbOcO8PaMQ8qObXuw9E8TiKx64vCQbc65dIAzQozmYyMhAK5JLcOaxC2k4QV4jxKwmKPUoN0nQlw/in7qvqygFgBehDwU60gZy3ZAUF9/03QjoSIUbnylDTn4RgsmmlJ6SKYruRD1Yygi2FsUyvORdzenfP2y2V3Tju8yHHSUPvE4lWta2P0scHCtzgt9Or2J1XEekyBmln5qomitE+pefv1FfiA881iDujqxN+NUS/dTZfEj3A4zAHT4dr6WnLj25MjZ1MJPuOjff7oM2uqfOEC9uSajGSh9BuoDbUpomkshIXVTpNyNwavvtTaETntQFCLRQ/SGypej3DdTyv+rhSv2vJNSdRFGYCJKTzxMpEO9JfyoQgUFWELg19VHzt+GpJ8VeAkjak/SZHycWZPpDGrHXsy7vNGPIfendTnKiTlHuMg+8F+tjhzBDWbDUDJqcns628JKhWXo9bjCtpUfhr"
+    "Versao":  "4.50.4",
+    "Instalador":  "EnginePro_Setup_4.50.4.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.4/EnginePro_Setup_4.50.4.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.4/EnginePro_Setup_4.50.4.exe.gz",
+    "SHA256":  "7FF36715FEEC49A0C635DC0873221DEF1AA70B8980F5F3CD0FCFC60B5951528C",
+    "Data":  "2026-11-08 18:38",
+    "Notas":  "Chamado automatico tambem envia email para a TI",
+    "Assinatura":  "pTQunJEmwkvISwid6bJas0DC4reExfcEwtrm1ykWMaljaPBtjNxK7CXA9K0yJaxq5G8EZ0SLo110cmCaJtTqi0AcCcCkL74p4m9/OiAXdt4Fs1WkXGCSc9eY+/Rvr32p/+txszvGu+Oz6+UXZuYJYc45lC7eihLVlc1L1XWClxiUU+IsiVGWBXdppwYujnZO4jkWuU+hnfe9bAEnbhyyDbXsD6Jg1i/noiHcWqiKhiCo9j6hKmyjPXg+5TLw/5eDZGWIwAq0kWNeKsljli4RoNt/Q6dHvHeT46AS1Yk7ZwQFHFdH2HhWxmWznXVwbKBIBhf1HmFVeXaP+l7xc+pDoo+CV95DGkcU5sVRbb7O4D5OlxAkTpjhY+p4cktz6Cedeo3TaG/aeuwprIAGGjqg9FepnWJ3rMaN3RBjoqryzhKM2mCy80mlKmUvihj2ysc+q8PjDA8Q1uv8BXBJWFDAxQGoV61xbl6UBQh2qCz6xRoDQmrmA0ZVukNwNRupQWNT"
 }
