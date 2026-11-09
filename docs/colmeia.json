@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  976,
-    "Pesquisas":  7536,
-    "N48":  3055,
+    "Conhecimentos":  982,
+    "Pesquisas":  7580,
+    "N48":  3088,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 05:26:52",
+                         "Data":  "2026-11-09 05:36:11",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:26:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 147 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 05:36:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 191 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:18:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Windows Update travado em 0% renomeando a pasta SoftwareDistr...",
+                         "Data":  "2026-11-09 05:30:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro \u0027Não foi possível abrir a caixa de correio\u0027 com arquivo...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1261 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1305 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:18:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como desinstalar uma atualização problemática do Windows usando wusa /uninsta...",
+                         "Data":  "2026-11-09 05:30:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver impressões em branco ou com caracteres ilegíveis após atualizaç...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:18:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a tela azul 0x0000007B (INACCESSIBLE_BOOT_DEVICE) após alterar...",
+                         "Data":  "2026-11-09 05:30:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,7 +51,7 @@
                      }
                  ],
     "Horas":  [
-                  60,
+                  49,
                   29,
                   33,
                   26,
@@ -71,12 +71,12 @@
                   22,
                   29,
                   41,
-                  115,
-                  122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  153,
+                  84,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -93,14 +93,14 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287
               ],
-    "Ultima":  "2026-11-09 05:26:52",
-    "Gerado":  "2026-11-09 05:27:03",
-    "Data":  "2026-11-09 05:27"
+    "Ultima":  "2026-11-09 05:36:11",
+    "Gerado":  "2026-11-09 05:37:03",
+    "Data":  "2026-11-09 05:37"
 }
