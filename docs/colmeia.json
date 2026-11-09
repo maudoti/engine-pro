@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  884,
-    "Pesquisas":  6743,
-    "N48":  2415,
+    "Conhecimentos":  890,
+    "Pesquisas":  6785,
+    "N48":  2457,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 02:24:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 02:34:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 175 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 02:24:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 133 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 02:34:34",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:17:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Erro 1272: acesso de convidado bloqueado",
+                         "Data":  "2026-11-09 02:27:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Sites não abrem (erro de DNS)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 468 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 510 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 02:17:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar os padrões de LEDs de diagnóstico em notebooks Dell para ide...",
+                         "Data":  "2026-11-09 02:27:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:17:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Inicialização, Windows preso em \"Preparando o Windows\" ou \"Trabalhando nas at...",
+                         "Data":  "2026-11-09 02:27:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,10 +51,10 @@
                      }
                  ],
     "Horas":  [
-                  81,
-                  33,
+                  89,
                   39,
-                  60,
+                  36,
+                  49,
                   29,
                   33,
                   26,
@@ -74,12 +74,12 @@
                   22,
                   29,
                   41,
-                  115,
-                  122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  153,
+                  84,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -96,11 +96,11 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268
+                  65,
+                  180,
+                  265
               ],
-    "Ultima":  "2026-11-09 02:24:52",
-    "Gerado":  "2026-11-09 02:27:03",
-    "Data":  "2026-11-09 02:27"
+    "Ultima":  "2026-11-09 02:34:48",
+    "Gerado":  "2026-11-09 02:37:03",
+    "Data":  "2026-11-09 02:37"
 }
