@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1086,
-    "Pesquisas":  8560,
-    "N48":  3824,
+    "Conhecimentos":  1091,
+    "Pesquisas":  8590,
+    "N48":  3854,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 13:46",
-                         "Texto":  "Nova versão 4.50.35 publicada: Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada.",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 14:02:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 13:42:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como localizar e corrigir vínculos externos quebrados (#REF!) em planilhas do...",
+                         "Data":  "2026-11-09 14:02:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Word que não inicia após atualização, usando modo de seguranç...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,33 +20,33 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 13:41:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 14:02:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar a edição de um documento do Word bloqueado pelo Modo Protegido d...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2285 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2315 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 13:41:20",
+                         "Data":  "2026-11-09 14:02:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 14:02:15",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 13:21:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reparar um arquivo PST corrompido com a ferramenta ScanPST?",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 13:46",
+                         "Texto":  "Nova versão 4.50.35 publicada: Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada.",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 13:21:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Outlook travado em \u0027Processando\u0027 ao abrir por causa de perfil...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 12:59:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 66 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 13:41:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
@@ -60,47 +60,47 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  8,
+                  113,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  14,
-                  31,
-                  75,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   229,
-                  291,
-                  298,
-                  310,
-                  92,
-                  96,
-                  92,
-                  91,
+                  300,
+                  336,
+                  263,
                   81,
-                  48,
-                  63
+                  66,
+                  91,
+                  118,
+                  54,
+                  66,
+                  75
               ],
-    "Ultima":  "2026-11-09 13:41:20",
-    "Gerado":  "2026-11-09 13:57:04",
-    "Data":  "2026-11-09 13:57"
+    "Ultima":  "2026-11-09 14:02:15",
+    "Gerado":  "2026-11-09 14:07:04",
+    "Data":  "2026-11-09 14:07"
 }
