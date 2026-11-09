@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  905,
-    "Pesquisas":  6945,
-    "N48":  2545,
+    "Conhecimentos":  911,
+    "Pesquisas":  6979,
+    "N48":  2571,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 03:16:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 75 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 03:27:01",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:16:42",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 03:27:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 109 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:09:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recriar um perfil do Outlook sem perder as configurações da conta?",
+                         "Data":  "2026-11-09 03:20:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reduzir a lentidão de planilhas com muitas fórmulas PROCV e referências...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 670 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 704 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:09:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Outlook travado em \u0027Processando\u0027 ao abrir por causa de perfil...",
+                         "Data":  "2026-11-09 03:20:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como localizar e corrigir vínculos externos quebrados (#REF!) em planilhas do...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:59:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
+                         "Data":  "2026-11-09 03:20:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,39 +51,39 @@
                      }
                  ],
     "Horas":  [
-                  42,
+                  33,
                   39,
-                  39,
-                  50,
-                  17,
-                  42,
+                  60,
+                  29,
+                  33,
+                  26,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45,
+                  26,
+                  26,
+                  30,
+                  41,
+                  23,
+                  33,
                   29,
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -95,12 +95,12 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252
+                  57,
+                  143,
+                  268,
+                  236
               ],
-    "Ultima":  "2026-11-09 03:16:59",
-    "Gerado":  "2026-11-09 03:17:03",
-    "Data":  "2026-11-09 03:17"
+    "Ultima":  "2026-11-09 03:27:01",
+    "Gerado":  "2026-11-09 03:27:03",
+    "Data":  "2026-11-09 03:27"
 }
