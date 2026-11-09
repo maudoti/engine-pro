@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.33 | Tela Sobre: origem virou link do site em destaque e clica... | 09/11/2026
+
+- **Melhoria**: Tela Sobre: origem virou link do site em destaque e clicavel (maudoti.github.io/engine-pro).
+
 ## Versão 4.50.32 | Chamados chegam por email ja legiveis (descriptografados ... | 09/11/2026
 
 - **Melhoria**: Chamados chegam por email ja legiveis (descriptografados no PC do TI).

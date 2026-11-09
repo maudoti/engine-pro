@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1053,
+    "Conhecimentos":  1054,
     "Pesquisas":  8185,
-    "N48":  3582,
+    "N48":  3558,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 08:57",
-                         "Texto":  "Nova versão 4.50.32 publicada: Chamados chegam por email ja legiveis (descriptografados no PC do TI)",
+                         "Data":  "2026-11-09 09:03",
+                         "Texto":  "Nova versão 4.50.33 publicada: Tela Sobre: origem virou link do site em destaque e clicavel (maudoti.github.io/engine-pro).",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 08:49:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora não imprime",
+                         "Data":  "2026-11-09 09:02:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Windows não ativado",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,6 +30,11 @@
                          "Nivel":  "info"
                      },
                      {
+                         "Data":  "2026-11-09 08:49:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora não imprime",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-09 08:45:39",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 96 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
@@ -40,18 +45,13 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 08:29:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDFs abrindo no navegador em vez do Reader",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-09 07:43:01",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  26,
+                  2,
                   32,
                   23,
                   26,
@@ -65,42 +65,42 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
+                  45,
+                  6,
+                  82,
+                  161,
+                  62,
                   86,
                   101,
                   98,
                   30,
-                  32,
-                  1,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  22,
-                  32,
-                  66,
-                  9,
-                  31,
+                  39,
+                  38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  260,
+                  25,
+                  85,
+                  263,
                   231,
+                  254,
                   288,
-                  304,
-                  304,
-                  92,
-                  96
+                  320,
+                  298,
+                  80,
+                  66
               ],
     "Ultima":  "2026-11-09 08:45:39",
-    "Gerado":  "2026-11-09 08:57:32",
-    "Data":  "2026-11-09 08:57"
+    "Gerado":  "2026-11-09 09:03:48",
+    "Data":  "2026-11-09 09:03"
 }

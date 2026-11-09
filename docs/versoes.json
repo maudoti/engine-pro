@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.33",
+        "Data":  "2026-11-09 09:03",
+        "Notas":  "Tela Sobre: origem virou link do site em destaque e clicavel (maudoti.github.io/engine-pro).",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.33/EnginePro_Setup_4.50.33.exe"
+    },
+    {
         "Versao":  "4.50.32",
         "Data":  "2026-11-09 08:57",
         "Notas":  "Chamados chegam por email ja legiveis (descriptografados no PC do TI); mantem criptografado no GitHub.",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.33",
+        "Data":  "2026-11-09 09:03",
+        "Titulo":  "Tela Sobre: origem virou link do site em destaque e clica...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela Sobre: origem virou link do site em destaque e clicavel (maudoti.github.io/engine-pro)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.32",
         "Data":  "2026-11-09 08:57",
         "Titulo":  "Chamados chegam por email ja legiveis (descriptografados ...",
