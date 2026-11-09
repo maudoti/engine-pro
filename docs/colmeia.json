@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  849,
-    "Pesquisas":  6389,
-    "N48":  2141,
+    "Conhecimentos":  855,
+    "Pesquisas":  6431,
+    "N48":  2183,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 01:06:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 01:11:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 01:03",
-                         "Texto":  "Nova versão 4.50.31 publicada: Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa)",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 01:11:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Biblioteca grande demais para sincronizar bem",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 01:02:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Office com \"envio pendente\" ou falha no carregamento",
+                         "Data":  "2026-11-09 01:11:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo não sobe porque a biblioteca exige informações",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 114 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 156 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 00:52:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive parou de sincronizar",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 01:11:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 00:52:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 00:51:53",
+                         "Data":  "2026-11-09 01:11:18",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 01:03",
+                         "Texto":  "Nova versão 4.50.31 publicada: Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa)",
                          "Nivel":  "info"
                      },
                      {
@@ -53,34 +53,34 @@
     "Horas":  [
                   60,
                   92,
-                  28,
+                  42,
                   39,
-                  45,
-                  58,
+                  39,
+                  50,
                   17,
                   42,
-                  21,
+                  32,
+                  23,
+                  26,
+                  24,
+                  2,
+                  53,
+                  44,
                   11,
-                  23,
-                  26,
-                  26,
-                  26,
-                  30,
-                  41,
-                  23,
-                  33,
+                  45,
                   29,
                   36,
                   31,
-                  28,
+                  4,
+                  24,
                   45,
-                  7,
-                  114,
+                  12,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  99,
+                  60,
                   30,
                   33,
                   40,
@@ -98,9 +98,9 @@
                   40,
                   25,
                   25,
-                  89
+                  131
               ],
-    "Ultima":  "2026-11-09 01:06:57",
-    "Gerado":  "2026-11-09 01:07:03",
-    "Data":  "2026-11-09 01:07"
+    "Ultima":  "2026-11-09 01:11:18",
+    "Gerado":  "2026-11-09 01:17:03",
+    "Data":  "2026-11-09 01:17"
 }
