@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1081,
-    "Pesquisas":  8479,
-    "N48":  3769,
+    "Pesquisas":  8496,
+    "N48":  3786,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 12:16:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 12:36:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 12:16:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 12:36:54",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 12:16:35",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 12:16:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2204 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2221 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -64,12 +64,12 @@
                   22,
                   29,
                   41,
-                  115,
-                  122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  153,
+                  84,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -86,21 +86,21 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84
+                  95,
+                  91,
+                  77
               ],
-    "Ultima":  "2026-11-09 12:16:35",
-    "Gerado":  "2026-11-09 12:27:03",
-    "Data":  "2026-11-09 12:27"
+    "Ultima":  "2026-11-09 12:36:57",
+    "Gerado":  "2026-11-09 12:37:03",
+    "Data":  "2026-11-09 12:37"
 }
