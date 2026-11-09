@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.15",
-    "Instalador":  "EnginePro_Setup_4.50.15.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.15/EnginePro_Setup_4.50.15.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.15/EnginePro_Setup_4.50.15.exe.gz",
-    "SHA256":  "F19648CDA077BBC69797AF36410EE7F2104F68F105D712E0BC34D20244C6E92B",
-    "Data":  "2026-11-08 21:32",
-    "Notas":  "Faxina leve automatica de temporarios e sobras de atualizacao com o PC ocioso",
-    "Assinatura":  "WprY3BdPZi9B6bd06zWw0d+9oskIHIcVXmjvaLh1Lm0Aj0DNjSUkVT6M8KTr4h61yDaRVntNPSBFEajP0gZp6/LE0Kgtu7tvOCqZgHg6krOwtag8nIPDTabmTeaSc9VVMwnPIAD3+lqsYkiyukAB9CR6tshi8OSwb6J1Cnww/3Il7a+vNAhuxiEL/Bd8B53E8Zyhu8xLZU3t9o9QoVBO2ed+ntbHk4knRqelnsRSZMmoHzsRu6cqOA1P+rpRQOWBOzPbJsYZtxTeeKbW5Qw51SaySEVyAsMHR4xuVChGuZntZtYw0wxbfJX9PxwmyfCKgAalQ9DmsA3imrQiNAHiwNJ0ROLQl/2me2sU+06mO6ZIA6/vJ6wiC4QxAephDvLh6ZzuNHsPyeAoNnjm2PJRRkrXcsfJ7PVo7J7eUboOQudgEYeZyAPiCn1ElPqVUihX5ZUnJlvLuV6ihw/Oyw3QoSHuc8ij2I1FsI+caoJaZB7KaNfUegL3hC9jqA0W+NKz"
+    "Versao":  "4.50.16",
+    "Instalador":  "EnginePro_Setup_4.50.16.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.16/EnginePro_Setup_4.50.16.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.16/EnginePro_Setup_4.50.16.exe.gz",
+    "SHA256":  "6C1D141D74B4E551CAB836E6F9328346F3F70CC40DB3725C40B2BA44AD6AD523",
+    "Data":  "2026-11-08 22:16",
+    "Notas":  "Aviso de caixa cheia sem sugerir PST local; correcao do Disco quente; logs e dumps preservados",
+    "Assinatura":  "V5GMOleiCB11v7hWoRvCUqQQTPabszya0EIGpj0TVOjZ3OLc68eWpdsivXkDFbKT9fzWzX6PtofeSQLQfjWJtZvDRJqeg3c/ABoVmsrs4fhTUPi0u7P7dj2cxJJV/bYGHjWb8jesQyDULcUr6wFozgKX6AGtujKYfmTjGFtVo82T63CC0C2GqR6aTbd4R+dVnzMi5L4T5pe2q6HJbc78zrcHHkBEZO3R/t5t6O5r2LF56CE1YBpiVs37gSIKMaxC7Mb4MCq4m9elhs1X2RnqzM6FeQVwnSDQsWxgDJd2Pys/j+Gk3KXefXW4rCqHdXCyQLcgR+HkWuqviVDtf/QbP1IEyfkvYfPZSeMcnwH0a49AyHaB/8NUTGHHojemQP324JThBOXci5W0qYhRXheZ8NbnT4vrkKDELlxWP8VbSW2UrPKtIlGIoImSGPc75WCYuiSrmpZ3Ycr5pdWtKrGpt8U3M4U0CLdbE9dfc1ydIeWby7cg4Q6boxv5oUhAzdq4"
 }

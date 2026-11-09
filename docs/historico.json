@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.50.16",
+        "Data":  "2026-11-08 22:16",
+        "Titulo":  "Aviso de caixa cheia sem sugerir PST local",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aviso de caixa cheia sem sugerir PST local."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Correcao do Disco quente."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Logs e dumps preservados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.15",
         "Data":  "2026-11-08 21:32",
         "Titulo":  "Faxina leve automatica de temporarios e sobras de atualiz...",

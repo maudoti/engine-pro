@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.16 | Aviso de caixa cheia sem sugerir PST local | 08/11/2026
+
+- **Melhoria**: Aviso de caixa cheia sem sugerir PST local.
+- **Correção**: Correcao do Disco quente.
+- **Melhoria**: Logs e dumps preservados.
+
 ## Versão 4.50.15 | Faxina leve automatica de temporarios e sobras de atualiz... | 08/11/2026
 
 - **Melhoria**: Faxina leve automatica de temporarios e sobras de atualizacao com o PC ocioso.
