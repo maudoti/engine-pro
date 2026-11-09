@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  992,
-    "Pesquisas":  7687,
-    "N48":  3175,
+    "Conhecimentos":  997,
+    "Pesquisas":  7775,
+    "N48":  3263,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 05:57:00",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 06:06:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 58 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:57:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 297 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 06:06:40",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:50:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
+                         "Data":  "2026-11-09 06:01:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir a pasta \u0027Itens Enviados\u0027 que fica presa na sincronização do Out...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1411 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1500 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:50:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4740 para identificar a origem do bloqueio de uma...",
+                         "Data":  "2026-11-09 06:01:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:50:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o pedido de chave de recuperação do BitLocker após troca de har...",
+                         "Data":  "2026-11-09 06:00:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 04:55:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 260 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 05:59:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 328 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -51,11 +51,11 @@
                      }
                  ],
     "Horas":  [
-                  43,
-                  15,
-                  33,
-                  26,
-                  32,
+                  58,
+                  17,
+                  42,
+                  21,
+                  11,
                   23,
                   26,
                   26,
@@ -68,39 +68,39 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  7,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228,
-                  292,
-                  297
+                  301,
+                  335
               ],
-    "Ultima":  "2026-11-09 05:57:00",
-    "Gerado":  "2026-11-09 05:57:03",
-    "Data":  "2026-11-09 05:57"
+    "Ultima":  "2026-11-09 06:06:53",
+    "Gerado":  "2026-11-09 06:07:03",
+    "Data":  "2026-11-09 06:07"
 }
