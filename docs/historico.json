@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.36",
+        "Data":  "2026-11-09 14:41",
+        "Titulo":  "Mitigacao termica: plano de energia passa a Equilibrado e...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.35",
         "Data":  "2026-11-09 13:46",
         "Titulo":  "Diagnostico do email legivel de chamados: log detalhado d...",

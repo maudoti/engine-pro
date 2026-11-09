@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.35",
-    "Instalador":  "EnginePro_Setup_4.50.35.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.35/EnginePro_Setup_4.50.35.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.35/EnginePro_Setup_4.50.35.exe.gz",
-    "SHA256":  "80D736EE3C0FB0EDD0A279330AD3D4C074A3D0CEED324829E056F225BDA3263B",
-    "Data":  "2026-11-09 13:46",
-    "Notas":  "Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada.",
-    "Assinatura":  "WqYdXXAEBM6lwW5rKJJCT7AAIhY42eINuxMFu2vDMkWOmUd0orh9R9ddHi+Y/v+T9OXIQWeAwTKetr/hChWcUZ1B6QF6XCJ/lJ4dj8BsjeykFNreUsOJM4EEWbVTMG5B8+5hIEcvjRDaL275th3MyggKB3WL6faziaH2CgrlvnbujLdr3oAM8shF77ZW4HdrnB4enX0jiNO2M0WzKSYu8Q0hqjFoS3XUvC/DwupdwCB7XQg0MzMyYfYWpF/B4hXNVVfHfaBgY+4ILTvhnH1TLMFG/KFWMmwrCjj7WnxwE/TuJvuRbAH54blykLpbhSr97Tf6r33g9CoJpWyXT+WZe9xRDHsBKisKvXQZszhVlmez90ijJjbOYONkoKytzoaa1Fz6iojbf74jcq9yN+4ZXi2/QHz/UOWGfvuVrUXGeIFVNc3FtJPGeRBI9Tvv1sXMco7BCOC5OeQxr7Q90pidZ4VYY0QR/zR6fl4MaAK3FNoim8pyBaQaTsDdwXLrFd9t"
+    "Versao":  "4.50.36",
+    "Instalador":  "EnginePro_Setup_4.50.36.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.36/EnginePro_Setup_4.50.36.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.36/EnginePro_Setup_4.50.36.exe.gz",
+    "SHA256":  "317258165EB28C735B6CEE6B77016B43C84A73B1FF97E11BDE23B24735410145",
+    "Data":  "2026-11-09 14:41",
+    "Notas":  "Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar.",
+    "Assinatura":  "GrZJIKqKHbVvP/2fUnDKqNggx+RwpchI8ugyNNqjoTcE1AsMFfNiJ+tcDPV1PIDrzO5oU/QV6jSw/4Wyv5dXuVjZCZr2twysJSZPr6ZuonRO0ciaUfSqapjQa6VANUkn7tfoOFAHpEE4pR16AVkiZ8ENf/Y8DPLn8PuddRF8uvrTNpYvifktIsjZ0M5DGggNMwnASuE0O+6kZCNxjr47taTLjLEb4P1X6t0pvcNVU2ObD3kqU2Zi9M+lWrbwS+3nPwzGxI+Li26nZ8ilcdhOYtB3H4L5HklweJj2HDCXeHxUroFzVQePIVCl2eK+3onJncZRu2ue2G63by8izrCGABbaj3CL2t90yrLis+gIVuMT0bhPWZwt6lhsHC6N3/5Pzu8wOw4M13a7N1Ib4zTqmfG/fu69PNQkhawpOUvaewa4+1elrouf1c0i4ayA0r93mDAS8SEXOZ57M3EvTD1bwzBq4Amcl5GJFCJQM2ixjKOp1H2kKCeGGIXiSPOylAUz"
 }

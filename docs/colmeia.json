@@ -5,8 +5,18 @@
     "N48":  3848,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-09 14:41",
+                         "Texto":  "Nova versão 4.50.36 publicada: Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar.",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-09 14:24:04",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
                          "Nivel":  "ok"
                      },
                      {
@@ -16,17 +26,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 2335 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 14:23:59",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2335 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -38,11 +43,6 @@
                          "Data":  "2026-11-09 14:02:22",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar a edição de um documento do Word bloqueado pelo Modo Protegido d...",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 13:46",
-                         "Texto":  "Nova versão 4.50.35 publicada: Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada.",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 13:41:20",
@@ -62,8 +62,8 @@
                   22,
                   29,
                   41,
-                  154,
-                  83,
+                  178,
+                  59,
                   86,
                   102,
                   98,
@@ -85,22 +85,22 @@
                   40,
                   25,
                   65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148,
-                  84,
-                  82,
-                  95,
-                  91,
-                  77,
-                  38,
-                  76
+                  209,
+                  236,
+                  256,
+                  271,
+                  268,
+                  370,
+                  121,
+                  80,
+                  99,
+                  96,
+                  73,
+                  78,
+                  60,
+                  53
               ],
     "Ultima":  "2026-11-09 14:23:59",
-    "Gerado":  "2026-11-09 14:37:04",
-    "Data":  "2026-11-09 14:37"
+    "Gerado":  "2026-11-09 14:41:03",
+    "Data":  "2026-11-09 14:41"
 }

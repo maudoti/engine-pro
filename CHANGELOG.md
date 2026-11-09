@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.36 | Mitigacao termica: plano de energia passa a Equilibrado e... | 09/11/2026
+
+- **Melhoria**: Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar.
+
 ## Versão 4.50.35 | Diagnostico do email legivel de chamados: log detalhado d... | 09/11/2026
 
 - **Melhoria**: Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada.
