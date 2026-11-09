@@ -1,16 +1,16 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  929,
-    "Pesquisas":  7097,
-    "N48":  2669,
+    "Conhecimentos":  935,
+    "Pesquisas":  7139,
+    "N48":  2711,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 03:57:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 227 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 04:07:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:56:53",
+                         "Data":  "2026-11-09 04:06:59",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:52:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como executar o diagnóstico SupportAssist ou ePSA em notebook Dell e interpre...",
+                         "Data":  "2026-11-09 04:02:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a tela azul KMODE_EXCEPTION_NOT_HANDLED após atualização de dri...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 822 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 864 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:52:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4625 e identificar tentativas de logon com falha?",
+                         "Data":  "2026-11-09 04:02:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0x80072EE7 no Windows Update causado por proxy ou DNS?",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:52:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar memória defeituosa com o Diagnóstico de Memória do Windows...",
+                         "Data":  "2026-11-09 04:02:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como verificar e remover uma tarefa agendada suspeita ou maliciosa usando sch...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:57:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 260 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 03:59:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 259 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -53,11 +53,11 @@
     "Horas":  [
                   39,
                   45,
-                  43,
-                  15,
-                  33,
-                  26,
-                  32,
+                  58,
+                  17,
+                  42,
+                  21,
+                  11,
                   23,
                   26,
                   26,
@@ -70,37 +70,37 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  7,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228
               ],
-    "Ultima":  "2026-11-09 03:57:02",
-    "Gerado":  "2026-11-09 03:57:03",
-    "Data":  "2026-11-09 03:57"
+    "Ultima":  "2026-11-09 04:07:02",
+    "Gerado":  "2026-11-09 04:07:03",
+    "Data":  "2026-11-09 04:07"
 }
