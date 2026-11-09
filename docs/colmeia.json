@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  917,
-    "Pesquisas":  7017,
-    "N48":  2599,
+    "Conhecimentos":  923,
+    "Pesquisas":  7061,
+    "N48":  2644,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 03:37:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 03:46:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 191 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:37:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 146 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 03:46:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:31:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como limpar o cache do novo Microsoft Teams para corrigir falhas de login e t...",
+                         "Data":  "2026-11-09 03:41:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a tela azul CRITICAL_PROCESS_DIED logo após a inicialização do...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 741 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 786 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:31:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Teams que não detecta microfone ou alto-falante após atualiza...",
+                         "Data":  "2026-11-09 03:41:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar DISM e SFC para corrigir arquivos de sistema corrompidos no Windows...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:31:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro de sincronização do OneDrive causado por nomes de arquiv...",
+                         "Data":  "2026-11-09 03:41:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0xc000000f causado por BCD corrompido no Windows 10 e 11?",
                          "Nivel":  "ok"
                      },
                      {
@@ -53,8 +53,8 @@
     "Horas":  [
                   39,
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -73,10 +73,10 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -85,9 +85,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -95,12 +95,12 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  231
+                  78,
+                  211,
+                  255,
+                  242
               ],
-    "Ultima":  "2026-11-09 03:37:01",
-    "Gerado":  "2026-11-09 03:37:03",
-    "Data":  "2026-11-09 03:37"
+    "Ultima":  "2026-11-09 03:46:55",
+    "Gerado":  "2026-11-09 03:47:03",
+    "Data":  "2026-11-09 03:47"
 }
