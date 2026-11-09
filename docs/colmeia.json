@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1081,
-    "Pesquisas":  8496,
-    "N48":  3786,
+    "Conhecimentos":  1082,
+    "Pesquisas":  8497,
+    "N48":  3787,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 12:36:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 12:38:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, AnyDesk conecta mas não controla (tela preta ou sem permissão)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 12:36:54",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 12:37:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 12:16:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2221 pesquisas em bases técnicas",
+                         "Data":  "2026-11-09 12:36:54",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 11:55:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 2222 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 12:16:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
                          "Nivel":  "ok"
                      },
                      {
@@ -64,10 +64,10 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -76,9 +76,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -86,21 +86,21 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148,
-                  84,
-                  82,
-                  95,
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131,
+                  96,
+                  92,
                   91,
-                  77
+                  51,
+                  78
               ],
-    "Ultima":  "2026-11-09 12:36:57",
-    "Gerado":  "2026-11-09 12:37:03",
-    "Data":  "2026-11-09 12:37"
+    "Ultima":  "2026-11-09 12:37:07",
+    "Gerado":  "2026-11-09 12:47:03",
+    "Data":  "2026-11-09 12:47"
 }
