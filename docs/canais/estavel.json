@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.24",
-    "Instalador":  "EnginePro_Setup_4.50.24.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.24/EnginePro_Setup_4.50.24.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.24/EnginePro_Setup_4.50.24.exe.gz",
-    "SHA256":  "94A642826254206F73C827198096B62F146D224FD29E52360B2F1A4EF91026FB",
-    "Data":  "2026-11-08 23:57",
-    "Notas":  "Botoes Ligar/Desligar protecao na maquina do TI; instrucao de protecao so no PC do TI.",
-    "Assinatura":  "fSxN9O+YW173LoCk0HM6zawp6TWXz+UjBXtBmQ6NhuH3MJT2sxX845SQJ5DBnQ/mnNf1/IFJLwVY43ArUozwwamGWyNP8CgLQ9MjtBMz8J+cx6mx8AXYMByPipL3uscguF7AnWAa3fw+awr0geu4voGQrY9/ufy5vz8DLYGjpQKLTKocp5CTyoPUrLddHHUWhYJfffo4snCAxqfHU+zXoa71q5mW5ckpPc577jxpIIX3/6SjILDHTIy1hWyKxiJliWNNYWrwWXNsl1tvneMMxCqYmMJyhcpP3VCYn+AfEEmo97zcl1s9e1YXYhbEh62lZ959yQ2QuOAPZi7HfCiM8aYPR2ZN7NVsmWZy2lYGnKWayPEimNhoUnXQiq9fsVTm1zZryh+cvj2JYM2jfd2Jqr7KCUXrMFJIlZc7pb/uVplpkyspQnCx0zdblQ0CD+m7n+tL4LE+4RZxNmMzeuvN9CIc+AwxKK7bhLL8hW9+ni3ZMoXitegjRZFxGFAer96+"
+    "Versao":  "4.50.25",
+    "Instalador":  "EnginePro_Setup_4.50.25.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.25/EnginePro_Setup_4.50.25.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.25/EnginePro_Setup_4.50.25.exe.gz",
+    "SHA256":  "B0002DD93670C54A912047F188AFA5ADEDA672B02E3A2747ADDE06B87782A410",
+    "Data":  "2026-11-09 00:02",
+    "Notas":  "Orientacao de desinstalacao por maquina aparece so no PC do TI.",
+    "Assinatura":  "j6xvBTjwNQtYDeKDZMpbBnrjPiNXD4imWptoKT2K9WCE6OiSMlibMd+Lu0RZy4W1ljRW01UHmpT8ytUybkdypMxEr5+f/PwKfoP8F3tVuAUYm2pwwMYcHlRUSjoiEg8giXV/VcXkQ9XVS/eVnyQD2eTcL3Dy0CBWUXB4/GHEl7UgIlqppAenhkfrhJXgCAAfHQhU0/A7M/ajkuvFnAhK+SLeYNj5ofPV/ud2lN7rqRo5lyZSnOHZ118sbyqm7odekkyFndAk1+asepRB41vnJNys7duwFaeq6x6ZJ4GqVpGChGZspaMClblpbWhPadsRJVByF4jZTdgJGDpzhGZ8EY/4XUCnXL4fqnExh1kb421G1QpYQowdiBQG7Wb19VQH1BOXd/zCKp8Jdx/mKrW6CWYacUz5iQzJSkSllUNNiERW/HbsxElyz3HpF5dExrxlovwMI/WAUjWZgTTa44IesQVkqpqX+9LXW1C48OAh1Nc6QBxfzyUjbn2aUwwG/Gpq"
 }

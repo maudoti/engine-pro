@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.25 | Orientacao de desinstalacao por maquina aparece so no PC ... | 09/11/2026
+
+- **Melhoria**: Orientacao de desinstalacao por maquina aparece so no PC do TI.
+
 ## Versão 4.50.24 | Botoes Ligar/Desligar protecao na maquina do TI | 08/11/2026
 
 - **Melhoria**: Botoes Ligar/Desligar protecao na maquina do TI.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.25",
+        "Data":  "2026-11-09 00:02",
+        "Titulo":  "Orientacao de desinstalacao por maquina aparece so no PC ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Orientacao de desinstalacao por maquina aparece so no PC do TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.24",
         "Data":  "2026-11-08 23:57",
         "Titulo":  "Botoes Ligar/Desligar protecao na maquina do TI",
