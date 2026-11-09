@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.22",
-    "Instalador":  "EnginePro_Setup_4.50.22.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.22/EnginePro_Setup_4.50.22.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.22/EnginePro_Setup_4.50.22.exe.gz",
-    "SHA256":  "331964A48FCC8F4250A24D45FEC7F9C292FBAB4EB10C456E57B12009030694D5",
-    "Data":  "2026-11-08 23:45",
-    "Notas":  "Protecao anti-remocao com segredo proprio (independente da ativacao).",
-    "Assinatura":  "OFOnaqqXAKotdNangBeDhUlySSnPsVkb57YvmwL4JvsG1wxMYolwmDlosLKP4mgsBRm+utaKRun4RFMT7NJsyXLiBk2g9tRJXVoDR2031Yme+cQJKxgQ6lM7He3U7XCCEnm36N7B6VvpUgVy7peulTza89tAKmqs3iszGO56eM8n2D15zqabAlZdknxvAcpFaKsWYMbnka87XZJher2qwooLUFcsy4mjYzboC1xPe+EjZ5iLA7WQtyNvLfClGxk+H8301WfpsuMcwGgZ+0TLHKOhb+W7QNcE+o+7r6oIMk1S67UGvMdJNoeB9+24qICX2h+VXAHKNSP9KPcKKWhap6996zHrdcjWpqKoo8oKTLiGFz6zuuBCwZvhKE0HMjRhVTxacID9heUCiO7w5Fz7pzIDB/GJtEIr+WhikYkOO/0ZIPUdP4wC+Qa0Hd99Jl6PAHaazZCz2Tk5w9Ddy3zmm1ImhLWwKicjIWIgNy12BoTuJmcn4IGVX4vEZln51kAU"
+    "Versao":  "4.50.23",
+    "Instalador":  "EnginePro_Setup_4.50.23.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.23/EnginePro_Setup_4.50.23.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.23/EnginePro_Setup_4.50.23.exe.gz",
+    "SHA256":  "E8FAC3677EF79141F4F59B147DA859B490669EF4E41C046F16B48F91D9A47BFE",
+    "Data":  "2026-11-08 23:49",
+    "Notas":  "Cartao de protecao sempre visivel em Seguranca.",
+    "Assinatura":  "C02R1pYu9dO1G2/AdoFePmt6Cxc7hQGXzYW/qsoe3B2mQE/7iHXiljYVK83ZelmGzLs7/9McyY8WO5MrAjT5NNjld/Wi5RclrrmdNrdxvthBz9p2vWM1rP+z9qwblrk38sv3ujgU3zPQLnsORY7XBuLSHWl4ObHumlQHPqijXq8L70Lh4J9lxZQET6cRtcIpNA0brNrRcMPwuDUX4d/6sxXsUMVtcWJC8MCTs0JdvnqWL802BttOy2r+w0rFHzEn0QnCbJ3fj076j1BtT0SM2iFOfo5IkWiDqCH0DxltMjz14R/QXEfju+62IQMgClSUSXxDLqXun80JhEH4BHcMd9nTbiFL0retJbcP11bYLRfnGDEVVZFPK5OiAdeeazzNFANL0Mg0kkb3/yqWfS7Ovl1zxl6RMQAMIFdnI5UQPPsudkc8nYXx2s/FpobiOWqPJWeAKvYFmb+lhjm13ZqOyU35IWH8OZmAUQZrPROxSVGz0KuZgUPaQfa9ou4JjvkK"
 }

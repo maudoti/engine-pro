@@ -5,8 +5,8 @@
     "N48":  2121,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 23:45",
-                         "Texto":  "Nova versão 4.50.22 publicada: Protecao anti-remocao com segredo proprio (independente da ativacao).",
+                         "Data":  "2026-11-08 23:49",
+                         "Texto":  "Nova versão 4.50.23 publicada: Cartao de protecao sempre visivel em Seguranca.",
                          "Nivel":  "info"
                      },
                      {
@@ -48,9 +48,9 @@
     "Horas":  [
                   70,
                   64,
-                  66,
-                  63,
-                  39,
+                  82,
+                  58,
+                  28,
                   36,
                   63,
                   15,
@@ -71,12 +71,12 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  59,
+                  163,
                   83,
-                  72,
-                  89,
-                  98,
+                  86,
+                  86,
+                  87,
                   26,
                   30,
                   33,
@@ -84,9 +84,9 @@
                   86,
                   30,
                   32,
-                  32,
-                  40,
-                  37,
+                  67,
+                  42,
+                  0,
                   34,
                   42,
                   39,
@@ -96,6 +96,6 @@
                   25
               ],
     "Ultima":  "2026-11-08 23:02:59",
-    "Gerado":  "2026-11-08 23:47:04",
-    "Data":  "2026-11-08 23:47"
+    "Gerado":  "2026-11-08 23:49:41",
+    "Data":  "2026-11-08 23:49"
 }
