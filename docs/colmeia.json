@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1112,
-    "Pesquisas":  8948,
-    "N48":  4030,
+    "Conhecimentos":  1113,
+    "Pesquisas":  8952,
+    "N48":  4034,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 19:57:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 19:59:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000119 (VIDEO_SCHEDULER_INTERNAL_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 19:56:55",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 19:57:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 76 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 19:18:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 19:57:35",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2673 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2677 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 19:18:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 18:56:32",
@@ -40,11 +45,6 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 18:33:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o aviso de \u0027Referência circular\u0027 no Excel e localizar a célula...",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-09 17:55",
                          "Texto":  "Nova versão 4.50.41 publicada: Grade visivel: remove ScrollViewer aninhado que colapsava",
                          "Nivel":  "info"
@@ -54,53 +54,53 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  7,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228,
-                  292,
-                  298,
-                  310,
-                  92,
-                  96,
-                  92,
-                  91,
+                  301,
+                  335,
+                  264,
                   81,
-                  48,
-                  63,
                   65,
-                  59,
-                  58,
-                  69,
+                  92,
+                  118,
+                  54,
+                  66,
+                  75,
+                  44,
+                  50,
+                  67,
+                  60,
                   65,
-                  72
+                  76
               ],
-    "Ultima":  "2026-11-09 19:57:00",
-    "Gerado":  "2026-11-09 19:57:03",
-    "Data":  "2026-11-09 19:57"
+    "Ultima":  "2026-11-09 19:57:35",
+    "Gerado":  "2026-11-09 20:07:03",
+    "Data":  "2026-11-09 20:07"
 }
