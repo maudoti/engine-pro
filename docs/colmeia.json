@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1102,
-    "Pesquisas":  8699,
-    "N48":  3866,
+    "Pesquisas":  8730,
+    "N48":  3897,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 16:17:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a fila de impressão travada limpando o serviço Spooler e a past...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 16:37:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 16:17:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reverter um driver de vídeo após atualização que causou tela preta ou tr...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 16:36:58",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 16:15:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 16:17:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a fila de impressão travada limpando o serviço Spooler e a past...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2424 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2455 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 16:15:51",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 16:17:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reverter um driver de vídeo após atualização que causou tela preta ou tr...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 15:55:24",
@@ -60,12 +60,12 @@
                   22,
                   29,
                   41,
-                  115,
-                  122,
-                  85,
-                  68,
-                  99,
-                  60,
+                  153,
+                  84,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -82,25 +82,25 @@
                   43,
                   40,
                   25,
-                  59,
-                  141,
-                  268,
-                  240,
-                  266,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  29,
-                  60
+                  45,
+                  75
               ],
-    "Ultima":  "2026-11-09 16:15:51",
-    "Gerado":  "2026-11-09 16:27:15",
-    "Data":  "2026-11-09 16:27"
+    "Ultima":  "2026-11-09 16:37:02",
+    "Gerado":  "2026-11-09 16:37:03",
+    "Data":  "2026-11-09 16:37"
 }
