@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  964,
-    "Pesquisas":  7389,
-    "N48":  2922,
+    "Pesquisas":  7440,
+    "N48":  2973,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 04:56:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como iniciar o Outlook em modo de segurança (outlook.exe /safe) para isolar c...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 05:06:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 51 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 04:56:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reduzir o tempo de login desativando aplicativos de inicialização no Ger...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 05:05:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,27 +21,27 @@
                      },
                      {
                          "Data":  "2026-11-09 04:56:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar a opção Abrir e Reparar do Excel para recuperar uma pasta de trabal...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como iniciar o Outlook em modo de segurança (outlook.exe /safe) para isolar c...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1114 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1165 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 04:56:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reduzir o tempo de login desativando aplicativos de inicialização no Ger...",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-09 04:56:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar a opção Abrir e Reparar do Excel para recuperar uma pasta de trabal...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 04:55:00",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 260 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 04:55:00",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 03:59:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 259 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -52,11 +52,11 @@
                  ],
     "Horas":  [
                   45,
-                  43,
-                  15,
-                  33,
-                  26,
-                  32,
+                  58,
+                  17,
+                  42,
+                  21,
+                  11,
                   23,
                   26,
                   26,
@@ -69,38 +69,38 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  7,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228,
-                  292
+                  301
               ],
-    "Ultima":  "2026-11-09 04:55:00",
-    "Gerado":  "2026-11-09 04:57:03",
-    "Data":  "2026-11-09 04:57"
+    "Ultima":  "2026-11-09 05:06:15",
+    "Gerado":  "2026-11-09 05:07:03",
+    "Data":  "2026-11-09 05:07"
 }
