@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1009,
-    "Pesquisas":  7870,
-    "N48":  3329,
+    "Conhecimentos":  1015,
+    "Pesquisas":  7919,
+    "N48":  3378,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 06:21:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
+                         "Data":  "2026-11-09 06:32:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800CCC0F (IXP_E_CONNECTION_DROPPED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:21:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
+                         "Data":  "2026-11-09 06:32:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040600 (MAPI_E_CORRUPT_STORE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:21:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071129 (ERROR_REPARSE_TAG_INVALID) no Windows",
+                         "Data":  "2026-11-09 06:32:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1595 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1644 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:21:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 153 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 06:32:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 202 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:21:36",
+                         "Data":  "2026-11-09 06:32:24",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -70,12 +70,12 @@
                   22,
                   29,
                   41,
-                  115,
-                  122,
+                  154,
                   83,
-                  70,
-                  99,
-                  60,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -92,15 +92,15 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334
+                  339
               ],
-    "Ultima":  "2026-11-09 06:21:36",
-    "Gerado":  "2026-11-09 06:27:03",
-    "Data":  "2026-11-09 06:27"
+    "Ultima":  "2026-11-09 06:32:24",
+    "Gerado":  "2026-11-09 06:37:04",
+    "Data":  "2026-11-09 06:37"
 }
