@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.35",
+        "Data":  "2026-11-09 13:46",
+        "Titulo":  "Diagnostico do email legivel de chamados: log detalhado d...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.34",
         "Data":  "2026-11-09 10:56",
         "Titulo":  "Problemas nao resolvidos voltam a fila de estudos ate res...",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.35 | Diagnostico do email legivel de chamados: log detalhado d... | 09/11/2026
+
+- **Melhoria**: Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada.
+
 ## Versão 4.50.34 | Problemas nao resolvidos voltam a fila de estudos ate res... | 09/11/2026
 
 - **Melhoria**: Problemas nao resolvidos voltam a fila de estudos ate resolver (com observacao na tela).

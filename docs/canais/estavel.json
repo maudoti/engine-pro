@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.34",
-    "Instalador":  "EnginePro_Setup_4.50.34.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.34/EnginePro_Setup_4.50.34.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.34/EnginePro_Setup_4.50.34.exe.gz",
-    "SHA256":  "BCBC9574EDF1D9F03AB5702C5B897E6AC0BDCAB4196DE13AABDF892AEED4932F",
-    "Data":  "2026-11-09 10:56",
-    "Notas":  "Problemas nao resolvidos voltam a fila de estudos ate resolver (com observacao na tela); card de chamados automaticos; ajuste no email legivel de chamados.",
-    "Assinatura":  "PBthkeK7T8bDwKWxtnHWaRRXx8NqpgB+Qgjxd6Jo2LuDWyu6NDi0OORB8XDtdelnkmTDIPSCv1RC+5AQKZ1xZMbImX9e+yPMRqYaRJAFKEPQeVXt8Vkx4955e4mxFuM2U0YoUK/jksvKmFnzJ+9D1C1diYw6JgGoqy9dh3i4/WauDIrMx2gMa3fjLYv/dcbBcZW39xCwGztRoUM8WzvWbU81iUDyXAcKZxsUmOe3mpfsMSgaw1hvdPdJJRT/bgdmZPEB8BHrxtgdYYDw+UneaBS7ij5zacVd+wrGcTgc9RqRVPGsNtZ2SUWWK41R7xRe4+PBFeDOpcadw6KskC7eaYJw/C3fAmsdjvaEI+LzLOjOkEoKf/7KHc17qHFnTsqYT68lahn68GUIx4LEcToc03il4v4eCf+NhYOU5ugN6NlMwRu2Oo4q2jrZe0068TvdtfSaKxIQMfWNfL4YeAUW+93uqnXmN7wVb/EqsRpQm6Aq2gH2CsiiWsYyiqmpG90i"
+    "Versao":  "4.50.35",
+    "Instalador":  "EnginePro_Setup_4.50.35.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.35/EnginePro_Setup_4.50.35.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.35/EnginePro_Setup_4.50.35.exe.gz",
+    "SHA256":  "80D736EE3C0FB0EDD0A279330AD3D4C074A3D0CEED324829E056F225BDA3263B",
+    "Data":  "2026-11-09 13:46",
+    "Notas":  "Diagnostico do email legivel de chamados: log detalhado do motivo de cada parada.",
+    "Assinatura":  "WqYdXXAEBM6lwW5rKJJCT7AAIhY42eINuxMFu2vDMkWOmUd0orh9R9ddHi+Y/v+T9OXIQWeAwTKetr/hChWcUZ1B6QF6XCJ/lJ4dj8BsjeykFNreUsOJM4EEWbVTMG5B8+5hIEcvjRDaL275th3MyggKB3WL6faziaH2CgrlvnbujLdr3oAM8shF77ZW4HdrnB4enX0jiNO2M0WzKSYu8Q0hqjFoS3XUvC/DwupdwCB7XQg0MzMyYfYWpF/B4hXNVVfHfaBgY+4ILTvhnH1TLMFG/KFWMmwrCjj7WnxwE/TuJvuRbAH54blykLpbhSr97Tf6r33g9CoJpWyXT+WZe9xRDHsBKisKvXQZszhVlmez90ijJjbOYONkoKytzoaa1Fz6iojbf74jcq9yN+4ZXi2/QHz/UOWGfvuVrUXGeIFVNc3FtJPGeRBI9Tvv1sXMco7BCOC5OeQxr7Q90pidZ4VYY0QR/zR6fl4MaAK3FNoim8pyBaQaTsDdwXLrFd9t"
 }
