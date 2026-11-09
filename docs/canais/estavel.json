@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.20",
-    "Instalador":  "EnginePro_Setup_4.50.20.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.20/EnginePro_Setup_4.50.20.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.20/EnginePro_Setup_4.50.20.exe.gz",
-    "SHA256":  "8FD7CD40AF9FD23599C02CDEB256FC0FB468F37CF4BBF820FCDBE9DC4449D117",
-    "Data":  "2026-11-08 23:17",
-    "Notas":  "Comando remoto para trocar o canal (estavel/teste) de uma estacao pelo computador do TI.",
-    "Assinatura":  "Jgz4eXG/YZGbktpiJqJSy6C2GOTLv9C+6kXRoOMZD3e9g8GV6vv8XBFOuZNQ0BZ3SyQcFKexrFNHY7sjFBtZ9K/eyPoDLogApXLnclJZ39G+7K6K8Fp9euisnFKcopOBVpjFlPYfocvQBN/Kh7H4fT0kKl2h6jPfCA8+VQEiisKaggP9F2jZztWgpnblTxlPSGEtKGHUa0gLwbqzz7gZ+ek22tJ/fLIba9Ef8NQLvuLe7f2IAjIvbHk52KxIdreQ/qmyUqyAB7dCpgYTj5quB3CPZHQ+Un6XaeV4WKb5kO79rnUX8DRqFo1Re7D0qxGNSek4pOnrJKsC/+IK1U5iL+CL7NNVIl8mmhM5lD/wl+jnVeUcDKe4pNbUBCGPEAo+h16exymY2Yk8gO3a/Zjwuf3dAffsnu147FikzMPz+1vZtLVTWL6ss0o4WuotZ8ke6z0Z2+E6eWWozTJfpkg2hQcUgRWc4BseH8BmHkWZtuDtE+7NNw39ZSv+pz2sDx/5"
+    "Versao":  "4.50.21",
+    "Instalador":  "EnginePro_Setup_4.50.21.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.21/EnginePro_Setup_4.50.21.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.21/EnginePro_Setup_4.50.21.exe.gz",
+    "SHA256":  "E68A0721EBC5C56E81F00BEBA4EA81909166AC07F70CBB1DB917D4DFD00FCF52",
+    "Data":  "2026-11-08 23:33",
+    "Notas":  "Protecao anti-remocao (servico e vigia se protegem; desinstalar so com o codigo do TI); correcao de acentos no resultado dos comandos remotos.",
+    "Assinatura":  "Kg64rRde1oaDLXeFh1UJrMZ+GSYbCjkRbwXAnXklhtOy5qb1yWeWXROv6Kz4d6Yqz0hPCWfu4AvhMg+h6Q3wj2hzj6nsmyTgHtC7vuJKBtIBklF9jgJtXpdB5JVec5r7DMUPoHzd/IQxdc10x6/szrL6g0Zcf0BgAyDQ9+ozWYp53z1apXmzkqNiLYrYK6k2YIWDlKxjv8hKBRe14h5r9mf2XMaAegymLh/ORsR+aUtuPFezw+PRFf6EHFx2gMFHyP4C6FvOAnH379Jw8AU2OCxlfQhDganK5UsRgnY/lLKbzpKVgLMbJDK/q/10zBz/7CDaV1bhRGwJPxrwOYDy8K77EhcUWpxUiTni5GBTZTyzRRirwxH7915WnSYIZEmLrIGk7ShYh4mX1KEqj0aTK25ZixQM3h3rQr4mim68gWohEkmAqFbW/0ljRGQP/99Gv0X/Kjo+JHLnVql5ovhqnuoA299R0pC87siVWMOLXMnpnw73S9p0YB2QpyUuYAPT"
 }

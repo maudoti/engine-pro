@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.21 | Protecao anti-remocao (servico e vigia se protegem | 08/11/2026
+
+- **Melhoria**: Protecao anti-remocao (servico e vigia se protegem.
+- **Melhoria**: Desinstalar so com o codigo do TI).
+- **Correção**: Correcao de acentos no resultado dos comandos remotos.
+
 ## Versão 4.50.20 | Comando remoto para trocar o canal (estavel/teste) de uma... | 08/11/2026
 
 - **Melhoria**: Comando remoto para trocar o canal (estavel/teste) de uma estacao pelo computador do TI.
