@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1042,
-    "Pesquisas":  8067,
-    "N48":  3497,
+    "Conhecimentos":  1046,
+    "Pesquisas":  8089,
+    "N48":  3519,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 07:26:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook desconectado ou com e-mails presos na Caixa de Saída",
+                         "Data":  "2026-11-09 07:46:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive desatualizado",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 07:25:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Cache de documentos do Office corrompido",
+                         "Data":  "2026-11-09 07:46:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD lento",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 07:25:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo de dados do Outlook (OST) muito grande",
+                         "Data":  "2026-11-09 07:46:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1792 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1814 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 07:21:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 07:43:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 07:21:42",
+                         "Data":  "2026-11-09 07:43:01",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -69,10 +69,10 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -81,9 +81,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -91,16 +91,16 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131
               ],
-    "Ultima":  "2026-11-09 07:21:42",
-    "Gerado":  "2026-11-09 07:37:03",
-    "Data":  "2026-11-09 07:37"
+    "Ultima":  "2026-11-09 07:43:01",
+    "Gerado":  "2026-11-09 07:47:03",
+    "Data":  "2026-11-09 07:47"
 }
