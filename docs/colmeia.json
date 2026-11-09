@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1037,
-    "Pesquisas":  8039,
-    "N48":  3469,
+    "Conhecimentos":  1042,
+    "Pesquisas":  8067,
+    "N48":  3497,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 07:15:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook não abre ou fica em \"Carregando perfil\"",
+                         "Data":  "2026-11-09 07:26:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook desconectado ou com e-mails presos na Caixa de Saída",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 07:15:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Macros bloqueadas (\"Risco de segurança\")",
+                         "Data":  "2026-11-09 07:25:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Cache de documentos do Office corrompido",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 07:15:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Planilha não abre ou está corrompida",
+                         "Data":  "2026-11-09 07:25:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo de dados do Outlook (OST) muito grande",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1764 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1792 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 07:02:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 07:21:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 07:02:20",
+                         "Data":  "2026-11-09 07:21:42",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -51,35 +51,35 @@
                      }
                  ],
     "Horas":  [
-                  17,
-                  42,
+                  33,
+                  26,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45,
+                  26,
+                  26,
+                  30,
+                  41,
+                  23,
+                  33,
                   29,
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -91,16 +91,16 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286,
-                  330,
-                  220
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287,
+                  334,
+                  197
               ],
-    "Ultima":  "2026-11-09 07:02:20",
-    "Gerado":  "2026-11-09 07:17:03",
-    "Data":  "2026-11-09 07:17"
+    "Ultima":  "2026-11-09 07:21:42",
+    "Gerado":  "2026-11-09 07:27:03",
+    "Data":  "2026-11-09 07:27"
 }
