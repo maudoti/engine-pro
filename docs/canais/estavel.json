@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.26",
-    "Instalador":  "EnginePro_Setup_4.50.26.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.26/EnginePro_Setup_4.50.26.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.26/EnginePro_Setup_4.50.26.exe.gz",
-    "SHA256":  "493F768A273D96198C9064839C04E4E54CDB7C012FF8EE649106A85350471C4B",
-    "Data":  "2026-11-09 00:03",
-    "Notas":  "Liga a protecao anti-remocao",
-    "Assinatura":  "hHAn1uU7wplPs+izee5ejT78pcey5e/Ur27mY9kt5bcOuQBtVmc4ToeJybk6J+PzOThq+AWDkvZ/eOxcd6j2IYorutUYjtGbtMa9Yc4VPW3PwTmVANT6G8MfX0tJYy+aumaMJuWvaK5joD4EPN5uWQLd9puYswO5XwR32vaqNogEZHJx1XgDmRw0bACLk8TgyVhUcgplZle0Og9kKY4ucdWP0YgfKqbJmmggJBbCYvLcQU0s4JYqeogz7rAfS95b+SYBtwmVxLrVJ5fg6l+ptoQU4JX+yzhltG5zWgrMYHxhRTJyz+xGVq2FQv9sHyVM2A/49iMdp3TywVFcPWG0qYqOCsykQsF++FWYPLHrXceaMTLz2HKqVICbk3l8rWZqKyxW6jWfdwzsqZPJ/kOlQcLyJq0Ngh08Nmc2Tg8qa/ENPzZlIX2TaQZbp8hxfPig+1JdEZHhkHoA2NqAXswEDjdLwjtqoSn4RoVs18M7KeXuOZtPE2z/HMeoVhsOt7pj"
+    "Versao":  "4.50.27",
+    "Instalador":  "EnginePro_Setup_4.50.27.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.27/EnginePro_Setup_4.50.27.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.27/EnginePro_Setup_4.50.27.exe.gz",
+    "SHA256":  "0AB1EAE84ACA7017447739738017D306394AE3B486A337C8B2748B809E2B94B8",
+    "Data":  "2026-11-09 00:09",
+    "Notas":  "Mensagem do desinstalador orienta falar com o TI (informatica@ryazbek.com.br).",
+    "Assinatura":  "QvobLThr0INFMqRWJJUeDq35sTLZeoGXG8xoVQHJ5jYqTH0JADUbrSOsipz/G9mAd+iZmKPh4mHeR6RzWRdWGg9bXNEQ32yVFOq59EsL4Luw/ABYmvXebMfrqhl6Yb2ypzmKvYJ5Vql6zsamG9U/uNE15KzisZ5aFl0gQDkU7vYtULuCuFTfSk6di+VwlhqhGQDgCCltgnwUCSAUQhrjAKxOVAfn4FqrHLZeiKq7U+uDN1Y16w5NUI2f83wF0/1h9QQ6wxiX1BZXWsYoyM7uG6Hm2JB2dQlMYNm3OUxl3m6gYz+/gXaoVmHQrLLxmFls/zgej/CHMb+4H3iLshcwMyiYJRCmpn8qcFNbKX+34lQEdt8Tr8sBDhZkyMzqZwiUa1UzGGjcgZZwtItQnE9XG0zEj0+sIizokZmdZ9lcDf8l+RcsSBx+ZFrMdZ60+aZzsWlgtc1fkIfR0uOLJkgBBuWxJP2bcGRZpvz1aKTQ6sMOkPA0NJ1HetSDbxwr+vPm"
 }

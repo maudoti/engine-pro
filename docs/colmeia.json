@@ -5,8 +5,8 @@
     "N48":  2118,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 00:03",
-                         "Texto":  "Nova versão 4.50.26 publicada: Liga a protecao anti-remocao",
+                         "Data":  "2026-11-09 00:09",
+                         "Texto":  "Nova versão 4.50.27 publicada: Mensagem do desinstalador orienta falar com o TI (informatica@ryazbek.com.br).",
                          "Nivel":  "info"
                      },
                      {
@@ -54,14 +54,14 @@
                   66,
                   60,
                   92,
-                  28,
-                  39,
+                  42,
+                  25,
                   45,
                   58,
                   17,
                   42,
-                  21,
-                  11,
+                  32,
+                  0,
                   23,
                   26,
                   26,
@@ -75,13 +75,13 @@
                   31,
                   28,
                   45,
-                  7,
-                  114,
+                  12,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  66,
+                  93,
                   30,
                   33,
                   40,
@@ -101,6 +101,6 @@
                   25
               ],
     "Ultima":  "2026-11-09 00:02:31",
-    "Gerado":  "2026-11-09 00:07:03",
-    "Data":  "2026-11-09 00:07"
+    "Gerado":  "2026-11-09 00:09:36",
+    "Data":  "2026-11-09 00:09"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.27",
+        "Data":  "2026-11-09 00:09",
+        "Titulo":  "Mensagem do desinstalador orienta falar com o TI (informa...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mensagem do desinstalador orienta falar com o TI (informatica@ryazbek.com.br)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.26",
         "Data":  "2026-11-09 00:03",
         "Titulo":  "Liga a protecao anti-remocao",

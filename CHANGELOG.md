@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.27 | Mensagem do desinstalador orienta falar com o TI (informa... | 09/11/2026
+
+- **Melhoria**: Mensagem do desinstalador orienta falar com o TI (informatica@ryazbek.com.br).
+
 ## Versão 4.50.26 | Liga a protecao anti-remocao | 09/11/2026
 
 - **Melhoria**: Liga a protecao anti-remocao.
