@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.18",
+        "Data":  "2026-11-08 22:57",
+        "Titulo":  "Reparo de perfil conclui com reinicio: de dia so sugere (...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reparo de perfil conclui com reinicio: de dia so sugere (botao Reiniciar agora), de madrugada reinicia sozinho salvando os arquivos abertos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.17",
         "Data":  "2026-11-08 22:25",
         "Titulo":  "Icone fixo na bandeja e tratativa do perfil temporario",

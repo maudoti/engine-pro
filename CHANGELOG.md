@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.18 | Reparo de perfil conclui com reinicio: de dia so sugere (... | 08/11/2026
+
+- **Melhoria**: Reparo de perfil conclui com reinicio: de dia so sugere (botao Reiniciar agora), de madrugada reinicia sozinho salvando os arquivos abertos.
+
 ## Versão 4.50.17 | Icone fixo na bandeja e tratativa do perfil temporario | 08/11/2026
 
 - **Melhoria**: Icone fixo na bandeja e tratativa do perfil temporario.
