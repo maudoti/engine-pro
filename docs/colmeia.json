@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1096,
-    "Pesquisas":  8639,
-    "N48":  3846,
+    "Conhecimentos":  1100,
+    "Pesquisas":  8655,
+    "N48":  3863,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 15:08:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 15:29:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o acesso negado no SharePoint causado por quebra de herança de...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 15:08:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 15:29:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar DISM e SFC para corrigir arquivos de sistema corrompidos no Windows...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 14:45:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que vídeos não reproduzem em apresentações do PowerPoint e como corrigir...",
+                         "Data":  "2026-11-09 15:29:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como restaurar itens excluídos da lixeira do SharePoint e da lixeira de segun...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2363 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2380 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 14:45:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro de sincronização do OneDrive causado por nomes de arquiv...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 15:29:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 14:45:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Teams que não detecta microfone ou alto-falante após atualiza...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 15:29:39",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 14:45:53",
@@ -61,12 +61,12 @@
                   22,
                   29,
                   41,
-                  115,
-                  122,
-                  85,
-                  68,
-                  99,
-                  60,
+                  157,
+                  80,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -83,24 +83,24 @@
                   43,
                   40,
                   25,
-                  59,
-                  141,
-                  268,
-                  240,
-                  266,
+                  65,
+                  180,
+                  265,
+                  233,
+                  275,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  96,
+                  90,
+                  78,
+                  37,
                   76,
-                  28
+                  45
               ],
-    "Ultima":  "2026-11-09 15:08:31",
-    "Gerado":  "2026-11-09 15:27:15",
-    "Data":  "2026-11-09 15:27"
+    "Ultima":  "2026-11-09 15:29:39",
+    "Gerado":  "2026-11-09 15:37:16",
+    "Data":  "2026-11-09 15:37"
 }
