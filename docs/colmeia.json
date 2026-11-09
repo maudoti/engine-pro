@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1091,
-    "Pesquisas":  8590,
-    "N48":  3854,
+    "Conhecimentos":  1092,
+    "Pesquisas":  8610,
+    "N48":  3848,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 14:02:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
+                         "Data":  "2026-11-09 14:24:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 14:02:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Word que não inicia após atualização, usando modo de seguranç...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 14:23:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 14:02:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar a edição de um documento do Word bloqueado pelo Modo Protegido d...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 14:23:59",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2315 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2335 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 14:02:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 14:02:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 14:02:15",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 14:02:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar a edição de um documento do Word bloqueado pelo Modo Protegido d...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 13:46",
@@ -51,28 +51,28 @@
                      }
                  ],
     "Horas":  [
-                  53,
-                  44,
-                  11,
-                  45,
+                  30,
+                  41,
+                  23,
+                  33,
                   29,
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -84,23 +84,23 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286,
-                  330,
-                  220,
-                  81,
-                  113,
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287,
+                  334,
+                  197,
+                  84,
+                  82,
                   75,
                   87,
                   84,
-                  36,
-                  75
+                  55,
+                  76
               ],
-    "Ultima":  "2026-11-09 14:02:15",
-    "Gerado":  "2026-11-09 14:17:04",
-    "Data":  "2026-11-09 14:17"
+    "Ultima":  "2026-11-09 14:23:59",
+    "Gerado":  "2026-11-09 14:27:04",
+    "Data":  "2026-11-09 14:27"
 }
