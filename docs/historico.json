@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.41",
+        "Data":  "2026-11-09 17:55",
+        "Titulo":  "Grade visivel: remove ScrollViewer aninhado que colapsava",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Grade visivel: remove ScrollViewer aninhado que colapsava."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tabela direto na pagina, alinhada a esquerda."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.40",
         "Data":  "2026-11-09 17:45",
         "Titulo":  "Corrige a grade vazia: parametros destipados aceitam valo...",

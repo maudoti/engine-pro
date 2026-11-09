@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.40",
-    "Instalador":  "EnginePro_Setup_4.50.40.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.40/EnginePro_Setup_4.50.40.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.40/EnginePro_Setup_4.50.40.exe.gz",
-    "SHA256":  "0EEDAAB0FE72073DC6652AC52A189A67F079B79CD792E4F89B531FB3F1AC703C",
-    "Data":  "2026-11-09 17:45",
-    "Notas":  "Corrige a grade vazia: parametros destipados aceitam valor nulo (coluna ON e maquinas ainda sem pulso).",
-    "Assinatura":  "hxqSdeIiD5Dxf99J1OvOw5X3UFQyA7bz2ur0hR+pnuO8VxmNFqfzFFay7xbx0PUOaL3/cV3FrjXQGOi/ZO/7hmaj2q6fQ+T/JiWJp1Q+sS1FDCnW0M8X7BXqpoPDs41dzRav3NfgdFyvwofVrP1r4Dv8QiKX958FOWk3Lnu0PKynVleYQT9671HVmP6UTo2YzgZLO6Yst2nPYSuS191h3sazfXCMnN9lCpJN+KxCkPVjSA3oF818lMiZLcb08gGkPBJBjL11Bz2Z5D/qwj/0SVDcJYrq8gYgqOHMqM13oXF8SbwdbQDRBhMQq7JMHkPJPecoDkPXM1mPM7xi+BZToVX8UwXbydxtHY4RNx6n+7R/QQUhmUKFDd4XA2L97jyHPxb6if+y+M7PwoQeMXs+YwBWeql6eJN/YS/9xEqJOCjEJLgo8Rn9TmHTRpTEC+b/COZX3VlXH0zhSJxawAmbQJ5BwFaRgUiu1gybbaVM80iskh7fh49LfKDARWhuBxcD"
+    "Versao":  "4.50.41",
+    "Instalador":  "EnginePro_Setup_4.50.41.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.41/EnginePro_Setup_4.50.41.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.41/EnginePro_Setup_4.50.41.exe.gz",
+    "SHA256":  "F56344BDDA2F317E97B9FF7E50F92707DB7C4199AE7DC077205B5B0B146A67CB",
+    "Data":  "2026-11-09 17:55",
+    "Notas":  "Grade visivel: remove ScrollViewer aninhado que colapsava; tabela direto na pagina, alinhada a esquerda.",
+    "Assinatura":  "ot4PawPN0KPt6CJJ2/FIUJ0hRhZbB8bKooxqlHm11v20gDAiBIFsKbKDmMoHhV0mBPAXSJeSb6YvwxIlf72/SnYR3lg7Iu6nj00UfiblbejQsa8ZxEZ6DZtqLeMmrSBQfQfBncSinUKcrtp0BQXHohpNXJDjPm9AUNHi/SeeJjaMED5dvgUgvIyoZkMkag/IAPkA5idOUmzfr9LT8t7korPKJ5fsrVfn0+1+wHBsX6oVtU95l0irGaHS/4pXHgTbjLkUXck2OwUSbSPWAXwqJvt1GfG/OBjQZus3wf1ZEgUydZiszvE4b9IDqATc5fHV64gX27ojMi0V3y9WqJtVMyrWWhyAMSy126yD1SNRaz0c6LZASTSJx7OXIdnn72AJtaFn/1ByjSlHLyFKuUUMcjv0U0NF1L7wy6C7MDoNjnWhllcBD3bbTVF6bYDxK/paq+qUpDmzDxoNmsAIboXOpckQL4coiZxgfs8HdVV+1TT3AipkCyQelp11AB9pQ22u"
 }

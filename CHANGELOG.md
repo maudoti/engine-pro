@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.41 | Grade visivel: remove ScrollViewer aninhado que colapsava | 09/11/2026
+
+- **Melhoria**: Grade visivel: remove ScrollViewer aninhado que colapsava.
+- **Melhoria**: Tabela direto na pagina, alinhada a esquerda.
+
 ## Versão 4.50.40 | Corrige a grade vazia: parametros destipados aceitam valo... | 09/11/2026
 
 - **Correção**: Corrige a grade vazia: parametros destipados aceitam valor nulo (coluna ON e maquinas ainda sem pulso).
