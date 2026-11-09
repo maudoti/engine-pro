@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  873,
-    "Pesquisas":  6564,
-    "N48":  2276,
+    "Conhecimentos":  878,
+    "Pesquisas":  6610,
+    "N48":  2322,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 01:44:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo de dados do Outlook (OST) muito grande",
+                         "Data":  "2026-11-09 01:55:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 55 do NTFS e executar chkdsk para corrigir um sis...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 01:44:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não encontra e-mails",
+                         "Data":  "2026-11-09 01:55:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Windows não ativado",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 01:44:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook pedindo a senha toda hora",
+                         "Data":  "2026-11-09 01:54:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Referências externas (XREF) não encontradas",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 289 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 335 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 01:42:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 179 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 01:53:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 225 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 01:42:50",
+                         "Data":  "2026-11-09 01:53:14",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -51,11 +51,11 @@
                      }
                  ],
     "Horas":  [
-                  66,
-                  63,
+                  86,
+                  54,
                   39,
-                  36,
-                  63,
+                  45,
+                  43,
                   15,
                   33,
                   26,
@@ -74,33 +74,33 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  13,
+                  31,
+                  76,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  78,
-                  211
+                  110,
+                  225
               ],
-    "Ultima":  "2026-11-09 01:42:50",
-    "Gerado":  "2026-11-09 01:47:03",
-    "Data":  "2026-11-09 01:47"
+    "Ultima":  "2026-11-09 01:53:14",
+    "Gerado":  "2026-11-09 01:57:03",
+    "Data":  "2026-11-09 01:57"
 }
