@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1063,
-    "Pesquisas":  8328,
-    "N48":  3667,
+    "Conhecimentos":  1070,
+    "Pesquisas":  8368,
+    "N48":  3707,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 10:37:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 51 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 10:45:20",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 10:35:54",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 10:45:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 91 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 09:53:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
+                         "Data":  "2026-11-09 10:42:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2053 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2093 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 09:53:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conflito de IP na rede",
+                         "Data":  "2026-11-09 10:39:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Windows Update falhando",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 09:53:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Sites não abrem (erro de DNS)",
+                         "Data":  "2026-11-09 10:39:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
                          "Nivel":  "ok"
                      },
                      {
@@ -66,10 +66,10 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -78,9 +78,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -88,19 +88,19 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148,
-                  84,
-                  82,
-                  95
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131,
+                  96,
+                  92,
+                  91
               ],
-    "Ultima":  "2026-11-09 10:37:03",
-    "Gerado":  "2026-11-09 10:37:03",
-    "Data":  "2026-11-09 10:37"
+    "Ultima":  "2026-11-09 10:45:20",
+    "Gerado":  "2026-11-09 10:47:03",
+    "Data":  "2026-11-09 10:47"
 }
