@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.15 | Faxina leve automatica de temporarios e sobras de atualiz... | 08/11/2026
+
+- **Melhoria**: Faxina leve automatica de temporarios e sobras de atualizacao com o PC ocioso.
+
 ## Versão 4.50.14 | Corrige 60 erros (PastaIA nulo), codificacao da tela e vi... | 08/11/2026
 
 - **Correção**: Corrige 60 erros (PastaIA nulo), codificacao da tela e vigia de engasgos na interface.

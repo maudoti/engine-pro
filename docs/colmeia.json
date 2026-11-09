@@ -5,8 +5,8 @@
     "N48":  2107,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 21:26",
-                         "Texto":  "Nova versão 4.50.14 publicada: Corrige 60 erros (PastaIA nulo), codificacao da tela e vigia de engasgos na interface",
+                         "Data":  "2026-11-08 21:32",
+                         "Texto":  "Nova versão 4.50.15 publicada: Faxina leve automatica de temporarios e sobras de atualizacao com o PC ocioso",
                          "Nivel":  "info"
                      },
                      {
@@ -51,9 +51,9 @@
                   50,
                   64,
                   60,
-                  82,
-                  32,
+                  89,
                   39,
+                  25,
                   60,
                   29,
                   33,
@@ -76,10 +76,10 @@
                   41,
                   115,
                   122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -96,6 +96,6 @@
                   43
               ],
     "Ultima":  "2026-11-08 20:55:30",
-    "Gerado":  "2026-11-08 21:27:04",
-    "Data":  "2026-11-08 21:27"
+    "Gerado":  "2026-11-08 21:32:24",
+    "Data":  "2026-11-08 21:32"
 }

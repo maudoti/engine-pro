@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.15",
+        "Data":  "2026-11-08 21:32",
+        "Titulo":  "Faxina leve automatica de temporarios e sobras de atualiz...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Faxina leve automatica de temporarios e sobras de atualizacao com o PC ocioso."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.14",
         "Data":  "2026-11-08 21:26",
         "Titulo":  "Corrige 60 erros (PastaIA nulo), codificacao da tela e vi...",
