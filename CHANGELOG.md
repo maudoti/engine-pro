@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.28 | Tela Inicio monta em passos (fica clicavel durante o carr... | 09/11/2026
+
+- **Melhoria**: Tela Inicio monta em passos (fica clicavel durante o carregamento) e cronometra cada passo.
+
 ## Versão 4.50.27 | Mensagem do desinstalador orienta falar com o TI (informa... | 09/11/2026
 
 - **Melhoria**: Mensagem do desinstalador orienta falar com o TI (informatica@ryazbek.com.br).

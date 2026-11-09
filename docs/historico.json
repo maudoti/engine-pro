@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.28",
+        "Data":  "2026-11-09 00:20",
+        "Titulo":  "Tela Inicio monta em passos (fica clicavel durante o carr...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tela Inicio monta em passos (fica clicavel durante o carregamento) e cronometra cada passo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.27",
         "Data":  "2026-11-09 00:09",
         "Titulo":  "Mensagem do desinstalador orienta falar com o TI (informa...",

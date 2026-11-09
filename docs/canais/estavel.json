@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.27",
-    "Instalador":  "EnginePro_Setup_4.50.27.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.27/EnginePro_Setup_4.50.27.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.27/EnginePro_Setup_4.50.27.exe.gz",
-    "SHA256":  "0AB1EAE84ACA7017447739738017D306394AE3B486A337C8B2748B809E2B94B8",
-    "Data":  "2026-11-09 00:09",
-    "Notas":  "Mensagem do desinstalador orienta falar com o TI (informatica@ryazbek.com.br).",
-    "Assinatura":  "QvobLThr0INFMqRWJJUeDq35sTLZeoGXG8xoVQHJ5jYqTH0JADUbrSOsipz/G9mAd+iZmKPh4mHeR6RzWRdWGg9bXNEQ32yVFOq59EsL4Luw/ABYmvXebMfrqhl6Yb2ypzmKvYJ5Vql6zsamG9U/uNE15KzisZ5aFl0gQDkU7vYtULuCuFTfSk6di+VwlhqhGQDgCCltgnwUCSAUQhrjAKxOVAfn4FqrHLZeiKq7U+uDN1Y16w5NUI2f83wF0/1h9QQ6wxiX1BZXWsYoyM7uG6Hm2JB2dQlMYNm3OUxl3m6gYz+/gXaoVmHQrLLxmFls/zgej/CHMb+4H3iLshcwMyiYJRCmpn8qcFNbKX+34lQEdt8Tr8sBDhZkyMzqZwiUa1UzGGjcgZZwtItQnE9XG0zEj0+sIizokZmdZ9lcDf8l+RcsSBx+ZFrMdZ60+aZzsWlgtc1fkIfR0uOLJkgBBuWxJP2bcGRZpvz1aKTQ6sMOkPA0NJ1HetSDbxwr+vPm"
+    "Versao":  "4.50.28",
+    "Instalador":  "EnginePro_Setup_4.50.28.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.28/EnginePro_Setup_4.50.28.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.28/EnginePro_Setup_4.50.28.exe.gz",
+    "SHA256":  "B615221B13442CDE91EF6FF01EB893C11A957F976AA704BE91C87FA57A744AC4",
+    "Data":  "2026-11-09 00:20",
+    "Notas":  "Tela Inicio monta em passos (fica clicavel durante o carregamento) e cronometra cada passo.",
+    "Assinatura":  "ToqdmMd75qHiwJt9RrHj2YRUKEKcA7Hl7BQzJXHh9hplXBdKijQZL/jGaj5P4SZEHXkIc39J/K16MCE2Qf4/I+uSYmWIUDnNAROfldpvtEBN6LngOUbRYcb2ScXWSUEVfX9hXsaQ/6+6C0cCjjeAjIX3eZegQnA3XxHGhfTyq1V6EWbPYwEwijCkFvuiOfVEdbBqJe9IpYd425f/R7vYcsWJ2r2mKeMPSpvECeYA5s1Lsfgtn8gN/43jyXKL9cFUCywA8pT48qbsCrcH8ETxuZWkoLvH2X/hOuAfcj+svKPd7NAeaI3qlHIps+Mb/CYcdc3EJn6STQaOnJgZnCvAmXthUhhhR5c1pwBVZBVcgTn0YRSIrJtqeOdojBJQs2mUKAuCB5p5AOuGQfmn3XAbxrYmDQ+C2b403UK76DpyDpyMCz63udWPMNk4fzoEN4Je1J1V8+Sc8pkuhD6BpRv5aBmwzZ3Zf6of2fst6cPKT2fTB0zgk5K/+Qt/2KHkrB4E"
 }
