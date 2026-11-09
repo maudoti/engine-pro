@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.39",
-    "Instalador":  "EnginePro_Setup_4.50.39.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.39/EnginePro_Setup_4.50.39.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.39/EnginePro_Setup_4.50.39.exe.gz",
-    "SHA256":  "157D62DFC02C15B07B3D2D0D1A176D9F5D063795765895FF8B97D159A5DE1ACB",
-    "Data":  "2026-11-09 17:38",
-    "Notas":  "Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos.",
-    "Assinatura":  "e6O5UaSqu5JtXl6uicYipJiqaxv2o5rDNK2NlIQpUQvgJ9fxZbIHsU/WHd3vKfEIJ1PpqyXIt+Fdv8ForAS0KG8+Bc6laMoDh0UVVXq9ZDkS80rkzJdjlGiO3+xmWAoKa5EWHF1R0rs6CbSIogYNio8Dpf0b+XOAx/06z+eurIKbKZdC8pANDHlAnrlq2G+I6KV1QJbD54LL5JwC0W8GLUTgrh8akeNyonS2qPsS3bs8mXP4z3en/K3FU43sc/LN52lamEAf0FJpSIvIMd+VMmTropstUtefKTB6kmYwfxpwVToJfD6PbFemPn0KYji/bGL+6bGvnIPAQ9Naj8TyWQK0f/ej9qFZRUB4Ql3Qc7YchfLQZt5jsRkyCGUhRKVCRY1Wf2knqzvHfK9xGTnuynj+V/+w7KbRQpDH6pUW022+342rDXeMyV15cchVN8ZdU7sKo8N6PIzaQRA4C30KF7IDMtstwJ5OlQkrJqbfVBrvNStHH3EHc3tPROLnRQk+"
+    "Versao":  "4.50.40",
+    "Instalador":  "EnginePro_Setup_4.50.40.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.40/EnginePro_Setup_4.50.40.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.40/EnginePro_Setup_4.50.40.exe.gz",
+    "SHA256":  "0EEDAAB0FE72073DC6652AC52A189A67F079B79CD792E4F89B531FB3F1AC703C",
+    "Data":  "2026-11-09 17:45",
+    "Notas":  "Corrige a grade vazia: parametros destipados aceitam valor nulo (coluna ON e maquinas ainda sem pulso).",
+    "Assinatura":  "hxqSdeIiD5Dxf99J1OvOw5X3UFQyA7bz2ur0hR+pnuO8VxmNFqfzFFay7xbx0PUOaL3/cV3FrjXQGOi/ZO/7hmaj2q6fQ+T/JiWJp1Q+sS1FDCnW0M8X7BXqpoPDs41dzRav3NfgdFyvwofVrP1r4Dv8QiKX958FOWk3Lnu0PKynVleYQT9671HVmP6UTo2YzgZLO6Yst2nPYSuS191h3sazfXCMnN9lCpJN+KxCkPVjSA3oF818lMiZLcb08gGkPBJBjL11Bz2Z5D/qwj/0SVDcJYrq8gYgqOHMqM13oXF8SbwdbQDRBhMQq7JMHkPJPecoDkPXM1mPM7xi+BZToVX8UwXbydxtHY4RNx6n+7R/QQUhmUKFDd4XA2L97jyHPxb6if+y+M7PwoQeMXs+YwBWeql6eJN/YS/9xEqJOCjEJLgo8Rn9TmHTRpTEC+b/COZX3VlXH0zhSJxawAmbQJ5BwFaRgUiu1gybbaVM80iskh7fh49LfKDARWhuBxcD"
 }

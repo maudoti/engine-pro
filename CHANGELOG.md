@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.40 | Corrige a grade vazia: parametros destipados aceitam valo... | 09/11/2026
+
+- **Correção**: Corrige a grade vazia: parametros destipados aceitam valor nulo (coluna ON e maquinas ainda sem pulso).
+
 ## Versão 4.50.39 | Grade do inventario refeita como tabela (Grid de colunas ... | 09/11/2026
 
 - **Melhoria**: Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos.

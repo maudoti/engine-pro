@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.40",
+        "Data":  "2026-11-09 17:45",
+        "Notas":  "Corrige a grade vazia: parametros destipados aceitam valor nulo (coluna ON e maquinas ainda sem pulso).",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.40/EnginePro_Setup_4.50.40.exe"
+    },
+    {
         "Versao":  "4.50.39",
         "Data":  "2026-11-09 17:38",
         "Notas":  "Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos.",

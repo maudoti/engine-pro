@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.40",
+        "Data":  "2026-11-09 17:45",
+        "Titulo":  "Corrige a grade vazia: parametros destipados aceitam valo...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige a grade vazia: parametros destipados aceitam valor nulo (coluna ON e maquinas ainda sem pulso)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.39",
         "Data":  "2026-11-09 17:38",
         "Titulo":  "Grade do inventario refeita como tabela (Grid de colunas ...",
