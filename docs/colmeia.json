@@ -1,17 +1,17 @@
 {
     "Resolvidos":  2,
     "Conhecimentos":  843,
-    "Pesquisas":  6212,
-    "N48":  2082,
+    "Pesquisas":  6250,
+    "N48":  2120,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 21:57:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 2 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-08 22:01:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 21:32",
-                         "Texto":  "Nova versão 4.50.15 publicada: Faxina leve automatica de temporarios e sobras de atualizacao com o PC ocioso",
+                         "Data":  "2026-11-08 22:00:52",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 20:55:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1177 pesquisas em bases técnicas",
+                         "Data":  "2026-11-08 21:59:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-08 20:55:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1215 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-08 21:32",
+                         "Texto":  "Nova versão 4.50.15 publicada: Faxina leve automatica de temporarios e sobras de atualizacao com o PC ocioso",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-08 20:55:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,30 +45,25 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 20:55:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 43 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-08 20:55:12",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-08 20:55:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
+                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   24,
-                  16,
-                  54,
-                  64,
-                  86,
-                  54,
+                  28,
+                  66,
+                  60,
+                  92,
+                  28,
                   39,
                   45,
-                  43,
-                  15,
-                  33,
-                  26,
-                  32,
+                  58,
+                  17,
+                  42,
+                  23,
+                  9,
                   23,
                   26,
                   26,
@@ -76,31 +76,31 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  8,
+                  113,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  14,
-                  31,
-                  75,
-                  2
+                  39,
+                  38,
+                  43,
+                  40
               ],
-    "Ultima":  "2026-11-08 21:57:03",
-    "Gerado":  "2026-11-08 21:57:04",
-    "Data":  "2026-11-08 21:57"
+    "Ultima":  "2026-11-08 22:01:49",
+    "Gerado":  "2026-11-08 22:07:04",
+    "Data":  "2026-11-08 22:07"
 }
