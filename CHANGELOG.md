@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.26 | Liga a protecao anti-remocao | 09/11/2026
+
+- **Melhoria**: Liga a protecao anti-remocao.
+
 ## Versão 4.50.25 | Orientacao de desinstalacao por maquina aparece so no PC ... | 09/11/2026
 
 - **Melhoria**: Orientacao de desinstalacao por maquina aparece so no PC do TI.

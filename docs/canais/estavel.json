@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.25",
-    "Instalador":  "EnginePro_Setup_4.50.25.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.25/EnginePro_Setup_4.50.25.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.25/EnginePro_Setup_4.50.25.exe.gz",
-    "SHA256":  "B0002DD93670C54A912047F188AFA5ADEDA672B02E3A2747ADDE06B87782A410",
-    "Data":  "2026-11-09 00:02",
-    "Notas":  "Orientacao de desinstalacao por maquina aparece so no PC do TI.",
-    "Assinatura":  "j6xvBTjwNQtYDeKDZMpbBnrjPiNXD4imWptoKT2K9WCE6OiSMlibMd+Lu0RZy4W1ljRW01UHmpT8ytUybkdypMxEr5+f/PwKfoP8F3tVuAUYm2pwwMYcHlRUSjoiEg8giXV/VcXkQ9XVS/eVnyQD2eTcL3Dy0CBWUXB4/GHEl7UgIlqppAenhkfrhJXgCAAfHQhU0/A7M/ajkuvFnAhK+SLeYNj5ofPV/ud2lN7rqRo5lyZSnOHZ118sbyqm7odekkyFndAk1+asepRB41vnJNys7duwFaeq6x6ZJ4GqVpGChGZspaMClblpbWhPadsRJVByF4jZTdgJGDpzhGZ8EY/4XUCnXL4fqnExh1kb421G1QpYQowdiBQG7Wb19VQH1BOXd/zCKp8Jdx/mKrW6CWYacUz5iQzJSkSllUNNiERW/HbsxElyz3HpF5dExrxlovwMI/WAUjWZgTTa44IesQVkqpqX+9LXW1C48OAh1Nc6QBxfzyUjbn2aUwwG/Gpq"
+    "Versao":  "4.50.26",
+    "Instalador":  "EnginePro_Setup_4.50.26.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.26/EnginePro_Setup_4.50.26.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.26/EnginePro_Setup_4.50.26.exe.gz",
+    "SHA256":  "493F768A273D96198C9064839C04E4E54CDB7C012FF8EE649106A85350471C4B",
+    "Data":  "2026-11-09 00:03",
+    "Notas":  "Liga a protecao anti-remocao",
+    "Assinatura":  "hHAn1uU7wplPs+izee5ejT78pcey5e/Ur27mY9kt5bcOuQBtVmc4ToeJybk6J+PzOThq+AWDkvZ/eOxcd6j2IYorutUYjtGbtMa9Yc4VPW3PwTmVANT6G8MfX0tJYy+aumaMJuWvaK5joD4EPN5uWQLd9puYswO5XwR32vaqNogEZHJx1XgDmRw0bACLk8TgyVhUcgplZle0Og9kKY4ucdWP0YgfKqbJmmggJBbCYvLcQU0s4JYqeogz7rAfS95b+SYBtwmVxLrVJ5fg6l+ptoQU4JX+yzhltG5zWgrMYHxhRTJyz+xGVq2FQv9sHyVM2A/49iMdp3TywVFcPWG0qYqOCsykQsF++FWYPLHrXceaMTLz2HKqVICbk3l8rWZqKyxW6jWfdwzsqZPJ/kOlQcLyJq0Ngh08Nmc2Tg8qa/ENPzZlIX2TaQZbp8hxfPig+1JdEZHhkHoA2NqAXswEDjdLwjtqoSn4RoVs18M7KeXuOZtPE2z/HMeoVhsOt7pj"
 }

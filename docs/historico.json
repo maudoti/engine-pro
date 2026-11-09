@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.26",
+        "Data":  "2026-11-09 00:03",
+        "Titulo":  "Liga a protecao anti-remocao",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Liga a protecao anti-remocao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.25",
         "Data":  "2026-11-09 00:02",
         "Titulo":  "Orientacao de desinstalacao por maquina aparece so no PC ...",
