@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.31 | Trava de custo do Claude: teto diario/mensal compartilhad... | 09/11/2026
+
+- **Melhoria**: Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa).
+- **Melhoria**: Pesquisa usa so o que sobra.
+- **Melhoria**: Para ao fim do credito.
+
 ## Versão 4.50.30 | Mede o arranque inicial (WPF, XAML, funcoes) para achar a... | 09/11/2026
 
 - **Melhoria**: Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.30",
-    "Instalador":  "EnginePro_Setup_4.50.30.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.30/EnginePro_Setup_4.50.30.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.30/EnginePro_Setup_4.50.30.exe.gz",
-    "SHA256":  "3D80A8997AA9C80F193FEFC747C45F72EDD748DD7E40271ADE496E2E0C699663",
-    "Data":  "2026-11-09 00:32",
-    "Notas":  "Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco.",
-    "Assinatura":  "jjebzPD6oz2Bu8gnWkiTtU8yKkjJbNllzhEO/aHyzYLZXI1aK7HX888oc+OsOYwuEWR9R/uohPquvrH7SNhf4InPLVEeDH8FeTL1OJpjAaa0etUnWUqYqh4BRf34aLfe29gzHWWN7WMq0QKjvaowQtPcSKwd+wAEelbioncbgqvh55KwTnk/3Jd+sfycx188Pt2eMivcq47JnF918AIfeDfHHcXjvXb001F7HQeRWyUwNtmQLfQ2KWYU2TPPo1tXIdtSWG9iiFiCU++oAIQYnKIropIA/xx4DWqdsq+MHh52dOatxm0RDrIxdUyMFIyPc83enLKo0llqnN6lMb0hF4HT2FPxd/ah3EfRLw42EDoAlE21Bt7K1xkOwBD9zNjMhyRBFrK1om9UUFsRh8zDOn1VrtomGX2lFN3FhnYz5q+1x7aN/WF76fzcfmDjqqa4tBaEg3Shdv/nzYVF/Zv33aLC4rycca98q73i6xTuPZRqVFlMfBIdK/qUrCxCqHGM"
+    "Versao":  "4.50.31",
+    "Instalador":  "EnginePro_Setup_4.50.31.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.31/EnginePro_Setup_4.50.31.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.31/EnginePro_Setup_4.50.31.exe.gz",
+    "SHA256":  "B708E09F04ED52ECCA78B4CF4547905DD0C4331A24E05506EE3BE02DDCBF464B",
+    "Data":  "2026-11-09 01:03",
+    "Notas":  "Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa); pesquisa usa so o que sobra; para ao fim do credito.",
+    "Assinatura":  "ryeoHbGrgYOK6QoehpqKnzZa53zsSw57zR8M+IJhiaMhEg/SmgUOuD1Pl1NzQYFC2lmIhlQj4n5PTsbZ+wIqnBQndFH+G/m/+UJPlyaoM8dgbimE1c+aQxhzEBhr1bMXQMTmCa44aqS65g2dLg3JVZPnKsv13g/aizTp6+VUmFgnsi6vA4pVyqeiCuYEzE9exuvibmeTmUK91wqTrPrwDOc06/1/yicRLTAJEwvTtglm/dKs713rUC8XSFdXgHlg2AfPgn7q5OGXaHef7suEOZijSRULibVAmYb1LF6LcFgHkGmcE5Wit+/JobwGMUpUdgvwFZncOY7idHMIlFeEjdGBml3YG6RRsY+wG1gKeZVCJJwa6VT8xsKfsqwSyuAox+FWZs7IAks1/SxnO759BpEwaGJdfN0kwZwggw6GJviYQjPD2064g0Wgemoif4zGwSJNg9CT7wWqVzINmS0c+fRvNeclftN403grTVaGSvcUBhP2kf3mJaM+m2VveJe6"
 }

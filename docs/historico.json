@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.50.31",
+        "Data":  "2026-11-09 01:03",
+        "Titulo":  "Trava de custo do Claude: teto diario/mensal compartilhad...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Pesquisa usa so o que sobra."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Para ao fim do credito."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.30",
         "Data":  "2026-11-09 00:32",
         "Titulo":  "Mede o arranque inicial (WPF, XAML, funcoes) para achar a...",

@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.31",
+        "Data":  "2026-11-09 01:03",
+        "Notas":  "Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa); pesquisa usa so o que sobra; para ao fim do credito.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.31/EnginePro_Setup_4.50.31.exe"
+    },
+    {
         "Versao":  "4.50.30",
         "Data":  "2026-11-09 00:32",
         "Notas":  "Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco.",
