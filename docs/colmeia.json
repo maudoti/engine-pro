@@ -1,13 +1,13 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1111,
+    "Conhecimentos":  1112,
     "Pesquisas":  8900,
     "N48":  3982,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 19:15:49",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 19:18:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 19:15:49",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 18:56:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C5 (DRIVER_CORRUPTED_EXPOOL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 19:15:49",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 2625 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 18:56:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C5 (DRIVER_CORRUPTED_EXPOOL) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 18:53:00",
@@ -40,11 +45,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 18:12:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 1074 para descobrir qual processo ou usuário rein...",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-09 17:55",
                          "Texto":  "Nova versão 4.50.41 publicada: Grade visivel: remove ScrollViewer aninhado que colapsava",
                          "Nivel":  "info"
@@ -53,21 +53,21 @@
     "Horas":  [
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -79,28 +79,28 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286,
-                  330,
-                  220,
-                  81,
-                  113,
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287,
+                  334,
+                  197,
+                  84,
+                  82,
                   75,
                   87,
                   84,
-                  36,
-                  75,
-                  48,
+                  55,
+                  76,
+                  28,
                   61,
-                  52,
-                  78,
+                  80,
+                  50,
                   71
               ],
     "Ultima":  "2026-11-09 19:15:49",
-    "Gerado":  "2026-11-09 19:17:03",
-    "Data":  "2026-11-09 19:17"
+    "Gerado":  "2026-11-09 19:27:03",
+    "Data":  "2026-11-09 19:27"
 }
