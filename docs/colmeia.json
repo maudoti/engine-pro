@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1046,
-    "Pesquisas":  8089,
-    "N48":  3519,
+    "Conhecimentos":  1047,
+    "Pesquisas":  8120,
+    "N48":  3533,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 07:46:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive desatualizado",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 08:03:51",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 07:46:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD lento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 08:03:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-09 07:57:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Reinstalação limpa do OneDrive",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1845 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-09 07:46:13",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1814 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 07:46:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive desatualizado",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 07:43:01",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 07:43:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 06:59:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 300 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -51,9 +51,9 @@
                      }
                  ],
     "Horas":  [
-                  33,
-                  26,
-                  32,
+                  42,
+                  21,
+                  11,
                   23,
                   26,
                   26,
@@ -66,41 +66,41 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  7,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228,
-                  292,
-                  298,
-                  310,
-                  92
+                  301,
+                  335,
+                  264,
+                  81
               ],
-    "Ultima":  "2026-11-09 07:43:01",
-    "Gerado":  "2026-11-09 07:57:03",
-    "Data":  "2026-11-09 07:57"
+    "Ultima":  "2026-11-09 08:03:51",
+    "Gerado":  "2026-11-09 08:07:03",
+    "Data":  "2026-11-09 08:07"
 }
