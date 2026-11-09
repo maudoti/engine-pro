@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  846,
-    "Pesquisas":  6352,
-    "N48":  2128,
+    "Conhecimentos":  848,
+    "Pesquisas":  6385,
+    "N48":  2161,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 00:46:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 77 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 00:52:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive parou de sincronizar",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 00:46:43",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 00:52:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 00:37:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 77 pesquisas em bases técnicas",
+                         "Data":  "2026-11-09 00:51:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 110 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 00:37:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000011B (PRINT_RPC_PRIVACY) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 110 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 00:51:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 00:37:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -43,20 +48,15 @@
                          "Data":  "2026-11-08 23:02:59",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-08 22:12:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   64,
-                  66,
-                  63,
+                  86,
+                  54,
                   39,
-                  36,
-                  63,
+                  45,
+                  43,
                   15,
                   33,
                   26,
@@ -75,32 +75,32 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  13,
+                  31,
+                  76,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  77
+                  110
               ],
-    "Ultima":  "2026-11-09 00:46:52",
-    "Gerado":  "2026-11-09 00:47:03",
-    "Data":  "2026-11-09 00:47"
+    "Ultima":  "2026-11-09 00:51:53",
+    "Gerado":  "2026-11-09 00:57:03",
+    "Data":  "2026-11-09 00:57"
 }
