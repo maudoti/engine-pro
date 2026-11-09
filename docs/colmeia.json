@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1051,
-    "Pesquisas":  8151,
-    "N48":  3548,
+    "Pesquisas":  8185,
+    "N48":  3582,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 08:29:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 08:45:39",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 08:29:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDFs abrindo no navegador em vez do Reader",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 08:45:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 96 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 08:24:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 62 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 08:29:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1876 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1910 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 08:24:40",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 08:29:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDFs abrindo no navegador em vez do Reader",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 08:19:03",
@@ -68,10 +68,10 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -80,9 +80,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -90,17 +90,17 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148,
-                  84
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131,
+                  96
               ],
-    "Ultima":  "2026-11-09 08:24:40",
-    "Gerado":  "2026-11-09 08:37:03",
-    "Data":  "2026-11-09 08:37"
+    "Ultima":  "2026-11-09 08:45:39",
+    "Gerado":  "2026-11-09 08:47:03",
+    "Data":  "2026-11-09 08:47"
 }
