@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  881,
-    "Pesquisas":  6660,
-    "N48":  2352,
+    "Pesquisas":  6693,
+    "N48":  2385,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 02:05:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora aparece offline",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 02:14:45",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 02:05:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 02:14:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 83 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,23 +21,23 @@
                      },
                      {
                          "Data":  "2026-11-09 02:05:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora não imprime",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora aparece offline",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 385 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 418 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 02:04:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 02:05:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:04:46",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 02:05:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora não imprime",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 01:53:14",
@@ -52,34 +52,34 @@
                  ],
     "Horas":  [
                   92,
-                  28,
+                  42,
                   39,
-                  45,
-                  58,
+                  39,
+                  50,
                   17,
                   42,
-                  21,
+                  32,
+                  23,
+                  26,
+                  24,
+                  2,
+                  53,
+                  44,
                   11,
-                  23,
-                  26,
-                  26,
-                  26,
-                  30,
-                  41,
-                  23,
-                  33,
+                  45,
                   29,
                   36,
                   31,
-                  28,
+                  4,
+                  24,
                   45,
-                  7,
-                  114,
+                  12,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  99,
+                  60,
                   30,
                   33,
                   40,
@@ -97,10 +97,10 @@
                   40,
                   25,
                   25,
-                  89,
-                  271
+                  131,
+                  262
               ],
-    "Ultima":  "2026-11-09 02:04:46",
-    "Gerado":  "2026-11-09 02:07:03",
-    "Data":  "2026-11-09 02:07"
+    "Ultima":  "2026-11-09 02:14:45",
+    "Gerado":  "2026-11-09 02:17:03",
+    "Data":  "2026-11-09 02:17"
 }
