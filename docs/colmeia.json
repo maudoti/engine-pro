@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1092,
-    "Pesquisas":  8610,
-    "N48":  3848,
+    "Conhecimentos":  1096,
+    "Pesquisas":  8625,
+    "N48":  3863,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 14:41",
-                         "Texto":  "Nova versão 4.50.36 publicada: Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar.",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 14:45:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que vídeos não reproduzem em apresentações do PowerPoint e como corrigir...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 14:24:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
+                         "Data":  "2026-11-09 14:45:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro de sincronização do OneDrive causado por nomes de arquiv...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 14:23:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 14:45:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Teams que não detecta microfone ou alto-falante após atualiza...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2335 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2350 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 14:23:59",
+                         "Data":  "2026-11-09 14:45:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 14:45:53",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 14:02:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 14:02:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar a edição de um documento do Word bloqueado pelo Modo Protegido d...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 14:41",
+                         "Texto":  "Nova versão 4.50.36 publicada: Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar.",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 13:41:20",
@@ -62,10 +62,10 @@
                   22,
                   29,
                   41,
-                  178,
-                  59,
-                  86,
-                  102,
+                  181,
+                  83,
+                  73,
+                  88,
                   98,
                   26,
                   30,
@@ -74,9 +74,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  34,
+                  39,
+                  36,
                   34,
                   42,
                   39,
@@ -84,23 +84,23 @@
                   43,
                   40,
                   25,
-                  65,
-                  209,
-                  236,
-                  256,
-                  271,
-                  268,
-                  370,
-                  121,
-                  80,
-                  99,
-                  96,
-                  73,
                   78,
-                  60,
-                  53
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131,
+                  96,
+                  92,
+                  91,
+                  51,
+                  78,
+                  63,
+                  65
               ],
-    "Ultima":  "2026-11-09 14:23:59",
-    "Gerado":  "2026-11-09 14:41:03",
-    "Data":  "2026-11-09 14:41"
+    "Ultima":  "2026-11-09 14:45:53",
+    "Gerado":  "2026-11-09 14:47:11",
+    "Data":  "2026-11-09 14:47"
 }
