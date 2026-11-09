@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.37",
-    "Instalador":  "EnginePro_Setup_4.50.37.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.37/EnginePro_Setup_4.50.37.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.37/EnginePro_Setup_4.50.37.exe.gz",
-    "SHA256":  "158F04DDA56464881E4626CE5F33D9800DD1718FDF791A71A17CD1E0CA688D7E",
-    "Data":  "2026-11-09 17:01",
-    "Notas":  "Inventario: apelido e comentario por estacao (local do TI), visiveis na lista e na ficha, sem alterar a maquina.",
-    "Assinatura":  "BWO6SCKXeBirFADWQvgHkhMznSGteBXmSHHJKalQtf+90dhm83RFBsjf0IOA3cpyC/K17tcJPmWS3atxQAPNqpsIfaXxrPLR9xy5cLOYKGFPgzcOOsuagBCzXhEmpKYC2KlFphkSGOVjppIzS6D/r+92fnsTKB4Wm8hkIzoFHPaiRIUGWxqOAsAnG0EPPp+KIIeRu8D1dVTOpR2+k6HfIi4adPe0yjgPHUGSs5u8GyYPiKPh03M90pK1Xre08O8NyKzNdVltZhtypQAvCGroR9BiDUrMiv0qnZ1BjKKDslNFybngdr9wWqOzrcWQcAdFxCHzaOl3P0JZIpwt6RfYnuViEVl9VOjHs5fF12OW/MQss1yOQAVoJP0OlVeY/92IASk+JMeuW+3M58EHGJrA10d+PiSCHeKwBOpnSPQ9eS5lDoXetX+2jltBEWJevqqAZj459RRw2/38y7nWipUsEj3TbgUANxjD9Vi6VGtCpeD13APwVCecRQMCvGE612cV"
+    "Versao":  "4.50.38",
+    "Instalador":  "EnginePro_Setup_4.50.38.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.38/EnginePro_Setup_4.50.38.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.38/EnginePro_Setup_4.50.38.exe.gz",
+    "SHA256":  "CBB9AC328FFC25CDA4526319DA84704913B7F6FDACCC2C2532F977960BBB63A8",
+    "Data":  "2026-11-09 17:30",
+    "Notas":  "Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.",
+    "Assinatura":  "ash4Yq9yti7Qjkxh5O62n/vp6Sba9z2K7i38zu1IJVsWimr3TJEggTSybtcmt9mBeoMrILzjyTct5BhvkUAfh6F7CmcwF6wNGTZwuiA5drkFs6uRn58GPpVmBDIKtDTuMGpGjsHF+natmgTnlIib8SvFQogof+bgs2wQvq6Fd+X2Vp6Pk75Sy8JQMlm/m+j2q6RC45g8dvLvY0qcTY7yqyOBTECHo4rvMO1R6D4CnUWwICKfNGS4HN/tuVp+mE1Aq+s47BJ5Q0O41J5D2Na5X9/2wsptgddMwKoMWgaFT1jWu84ZJD5eym5Hs44rTxlGC+OeCvwmtaIHp9tf/ZK8P65o0Lsbpspkp9FTeu/MAiKlWFztTftk8UV1nfQH7HgQ4YJkDi6ZvFEZ6fzBkcinthDJ+7WQKjWfJuNgu/rvQajTF11lR01d5ZRXisP8HDTA2+QuB5Kv2lyw/l7LPPSHEnNTQFt6R7Xr/aZsxoZ1TWVXe0x8N3u4cZSzJnoDOoR4"
 }

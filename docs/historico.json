@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.38",
+        "Data":  "2026-11-09 17:30",
+        "Titulo":  "Modulo de inventario em grade ao vivo (estilo painel de r...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.37",
         "Data":  "2026-11-09 17:01",
         "Titulo":  "Inventario: apelido e comentario por estacao (local do TI...",

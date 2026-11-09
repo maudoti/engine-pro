@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.38 | Modulo de inventario em grade ao vivo (estilo painel de r... | 09/11/2026
+
+- **Melhoria**: Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.
+
 ## Versão 4.50.37 | Inventario: apelido e comentario por estacao (local do TI... | 09/11/2026
 
 - **Melhoria**: Inventario: apelido e comentario por estacao (local do TI), visiveis na lista e na ficha, sem alterar a maquina.

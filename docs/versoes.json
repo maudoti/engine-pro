@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.38",
+        "Data":  "2026-11-09 17:30",
+        "Notas":  "Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.38/EnginePro_Setup_4.50.38.exe"
+    },
+    {
         "Versao":  "4.50.37",
         "Data":  "2026-11-09 17:01",
         "Notas":  "Inventario: apelido e comentario por estacao (local do TI), visiveis na lista e na ficha, sem alterar a maquina.",

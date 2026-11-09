@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1105,
-    "Pesquisas":  8779,
-    "N48":  3923,
+    "Conhecimentos":  1106,
+    "Pesquisas":  8785,
+    "N48":  3929,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 17:26:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 17:30",
+                         "Texto":  "Nova versão 4.50.38 publicada: Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 17:26:50",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 17:27:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a conta Microsoft 365 bloqueada por MFA quando o usuário perdeu...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 17:01",
-                         "Texto":  "Nova versão 4.50.37 publicada: Inventario: apelido e comentario por estacao (local do TI), visiveis na lista e na ficha, sem alterar a maquina.",
+                         "Data":  "2026-11-09 17:27:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2504 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2510 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 17:27:23",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 16:59:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como executar o diagnóstico SupportAssist ou ePSA em notebook Dell e interpre...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar um disco com SMART degradado usando CrystalDiskInfo e chkdsk?",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 16:59:17",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a falha de ingresso no domínio causada por DNS apontando para s...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 16:59:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar um disco com SMART degradado usando CrystalDiskInfo e chkdsk?",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,10 +61,10 @@
                   41,
                   115,
                   122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  86,
+                  102,
+                  73,
+                  51,
                   30,
                   33,
                   40,
@@ -81,14 +81,14 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
-                  287,
-                  334,
-                  197,
+                  65,
+                  159,
+                  244,
+                  251,
+                  277,
+                  265,
+                  360,
+                  171,
                   84,
                   82,
                   75,
@@ -96,11 +96,11 @@
                   84,
                   55,
                   76,
-                  28,
-                  61,
-                  80
+                  45,
+                  44,
+                  86
               ],
-    "Ultima":  "2026-11-09 17:26:55",
-    "Gerado":  "2026-11-09 17:27:03",
-    "Data":  "2026-11-09 17:27"
+    "Ultima":  "2026-11-09 17:27:23",
+    "Gerado":  "2026-11-09 17:30:24",
+    "Data":  "2026-11-09 17:30"
 }
