@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.39 | Grade do inventario refeita como tabela (Grid de colunas ... | 09/11/2026
+
+- **Melhoria**: Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos.
+
 ## Versão 4.50.38 | Modulo de inventario em grade ao vivo (estilo painel de r... | 09/11/2026
 
 - **Melhoria**: Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.

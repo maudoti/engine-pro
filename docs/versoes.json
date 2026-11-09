@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.39",
+        "Data":  "2026-11-09 17:38",
+        "Notas":  "Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.39/EnginePro_Setup_4.50.39.exe"
+    },
+    {
         "Versao":  "4.50.38",
         "Data":  "2026-11-09 17:30",
         "Notas":  "Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.",

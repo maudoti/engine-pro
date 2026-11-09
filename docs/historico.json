@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.39",
+        "Data":  "2026-11-09 17:38",
+        "Titulo":  "Grade do inventario refeita como tabela (Grid de colunas ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.38",
         "Data":  "2026-11-09 17:30",
         "Titulo":  "Modulo de inventario em grade ao vivo (estilo painel de r...",

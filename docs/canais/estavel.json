@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.38",
-    "Instalador":  "EnginePro_Setup_4.50.38.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.38/EnginePro_Setup_4.50.38.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.38/EnginePro_Setup_4.50.38.exe.gz",
-    "SHA256":  "CBB9AC328FFC25CDA4526319DA84704913B7F6FDACCC2C2532F977960BBB63A8",
-    "Data":  "2026-11-09 17:30",
-    "Notas":  "Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.",
-    "Assinatura":  "ash4Yq9yti7Qjkxh5O62n/vp6Sba9z2K7i38zu1IJVsWimr3TJEggTSybtcmt9mBeoMrILzjyTct5BhvkUAfh6F7CmcwF6wNGTZwuiA5drkFs6uRn58GPpVmBDIKtDTuMGpGjsHF+natmgTnlIib8SvFQogof+bgs2wQvq6Fd+X2Vp6Pk75Sy8JQMlm/m+j2q6RC45g8dvLvY0qcTY7yqyOBTECHo4rvMO1R6D4CnUWwICKfNGS4HN/tuVp+mE1Aq+s47BJ5Q0O41J5D2Na5X9/2wsptgddMwKoMWgaFT1jWu84ZJD5eym5Hs44rTxlGC+OeCvwmtaIHp9tf/ZK8P65o0Lsbpspkp9FTeu/MAiKlWFztTftk8UV1nfQH7HgQ4YJkDi6ZvFEZ6fzBkcinthDJ+7WQKjWfJuNgu/rvQajTF11lR01d5ZRXisP8HDTA2+QuB5Kv2lyw/l7LPPSHEnNTQFt6R7Xr/aZsxoZ1TWVXe0x8N3u4cZSzJnoDOoR4"
+    "Versao":  "4.50.39",
+    "Instalador":  "EnginePro_Setup_4.50.39.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.39/EnginePro_Setup_4.50.39.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.39/EnginePro_Setup_4.50.39.exe.gz",
+    "SHA256":  "157D62DFC02C15B07B3D2D0D1A176D9F5D063795765895FF8B97D159A5DE1ACB",
+    "Data":  "2026-11-09 17:38",
+    "Notas":  "Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos.",
+    "Assinatura":  "e6O5UaSqu5JtXl6uicYipJiqaxv2o5rDNK2NlIQpUQvgJ9fxZbIHsU/WHd3vKfEIJ1PpqyXIt+Fdv8ForAS0KG8+Bc6laMoDh0UVVXq9ZDkS80rkzJdjlGiO3+xmWAoKa5EWHF1R0rs6CbSIogYNio8Dpf0b+XOAx/06z+eurIKbKZdC8pANDHlAnrlq2G+I6KV1QJbD54LL5JwC0W8GLUTgrh8akeNyonS2qPsS3bs8mXP4z3en/K3FU43sc/LN52lamEAf0FJpSIvIMd+VMmTropstUtefKTB6kmYwfxpwVToJfD6PbFemPn0KYji/bGL+6bGvnIPAQ9Naj8TyWQK0f/ej9qFZRUB4Ql3Qc7YchfLQZt5jsRkyCGUhRKVCRY1Wf2knqzvHfK9xGTnuynj+V/+w7KbRQpDH6pUW022+342rDXeMyV15cchVN8ZdU7sKo8N6PIzaQRA4C30KF7IDMtstwJ5OlQkrJqbfVBrvNStHH3EHc3tPROLnRQk+"
 }

@@ -5,8 +5,8 @@
     "N48":  3929,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 17:30",
-                         "Texto":  "Nova versão 4.50.38 publicada: Modulo de inventario em grade ao vivo (estilo painel de rede): pulso das estacoes (CPU/RAM/temp/rede), barras coloridas CPU/RAM/HD, ordenacao por coluna.",
+                         "Data":  "2026-11-09 17:38",
+                         "Texto":  "Nova versão 4.50.39 publicada: Grade do inventario refeita como tabela (Grid de colunas fixas): alinhamento correto e campos do inventario preenchidos.",
                          "Nivel":  "info"
                      },
                      {
@@ -59,8 +59,8 @@
                   22,
                   29,
                   41,
-                  155,
-                  82,
+                  158,
+                  79,
                   86,
                   102,
                   98,
@@ -84,23 +84,23 @@
                   65,
                   180,
                   265,
-                  233,
-                  275,
+                  251,
+                  257,
                   287,
-                  339,
-                  148,
+                  352,
+                  135,
                   84,
                   82,
-                  95,
-                  91,
-                  77,
-                  38,
+                  112,
+                  74,
+                  78,
+                  37,
                   76,
                   45,
-                  76,
-                  54
+                  78,
+                  52
               ],
     "Ultima":  "2026-11-09 17:27:23",
-    "Gerado":  "2026-11-09 17:37:05",
-    "Data":  "2026-11-09 17:37"
+    "Gerado":  "2026-11-09 17:38:59",
+    "Data":  "2026-11-09 17:39"
 }
