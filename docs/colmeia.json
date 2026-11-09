@@ -5,8 +5,8 @@
     "N48":  2121,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 23:33",
-                         "Texto":  "Nova versão 4.50.21 publicada: Protecao anti-remocao (servico e vigia se protegem",
+                         "Data":  "2026-11-08 23:45",
+                         "Texto":  "Nova versão 4.50.22 publicada: Protecao anti-remocao com segredo proprio (independente da ativacao).",
                          "Nivel":  "info"
                      },
                      {
@@ -46,14 +46,14 @@
                      }
                  ],
     "Horas":  [
-                  50,
+                  70,
                   64,
-                  60,
-                  89,
+                  56,
+                  73,
                   39,
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -72,9 +72,9 @@
                   22,
                   29,
                   41,
-                  154,
+                  181,
                   83,
-                  86,
+                  59,
                   102,
                   98,
                   26,
@@ -96,6 +96,6 @@
                   25
               ],
     "Ultima":  "2026-11-08 23:02:59",
-    "Gerado":  "2026-11-08 23:37:04",
-    "Data":  "2026-11-08 23:37"
+    "Gerado":  "2026-11-08 23:45:08",
+    "Data":  "2026-11-08 23:45"
 }

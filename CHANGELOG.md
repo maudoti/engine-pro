@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.22 | Protecao anti-remocao com segredo proprio (independente d... | 08/11/2026
+
+- **Melhoria**: Protecao anti-remocao com segredo proprio (independente da ativacao).
+
 ## Versão 4.50.21 | Protecao anti-remocao (servico e vigia se protegem | 08/11/2026
 
 - **Melhoria**: Protecao anti-remocao (servico e vigia se protegem.
