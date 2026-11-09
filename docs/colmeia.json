@@ -1,16 +1,16 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  923,
-    "Pesquisas":  7061,
-    "N48":  2644,
+    "Conhecimentos":  929,
+    "Pesquisas":  7097,
+    "N48":  2669,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 03:46:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 191 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 03:57:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 227 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:46:53",
+                         "Data":  "2026-11-09 03:56:53",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:41:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a tela azul CRITICAL_PROCESS_DIED logo após a inicialização do...",
+                         "Data":  "2026-11-09 03:52:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como executar o diagnóstico SupportAssist ou ePSA em notebook Dell e interpre...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 786 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 822 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:41:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar DISM e SFC para corrigir arquivos de sistema corrompidos no Windows...",
+                         "Data":  "2026-11-09 03:52:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4625 e identificar tentativas de logon com falha?",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:41:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0xc000000f causado por BCD corrompido no Windows 10 e 11?",
+                         "Data":  "2026-11-09 03:52:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar memória defeituosa com o Diagnóstico de Memória do Windows...",
                          "Nivel":  "ok"
                      },
                      {
@@ -52,8 +52,8 @@
                  ],
     "Horas":  [
                   39,
-                  36,
-                  63,
+                  45,
+                  43,
                   15,
                   33,
                   26,
@@ -72,35 +72,35 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  13,
+                  31,
+                  76,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  78,
-                  211,
-                  255,
-                  242
+                  110,
+                  225,
+                  259,
+                  228
               ],
-    "Ultima":  "2026-11-09 03:46:55",
-    "Gerado":  "2026-11-09 03:47:03",
-    "Data":  "2026-11-09 03:47"
+    "Ultima":  "2026-11-09 03:57:02",
+    "Gerado":  "2026-11-09 03:57:03",
+    "Data":  "2026-11-09 03:57"
 }
