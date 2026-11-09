@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1102,
-    "Pesquisas":  8742,
-    "N48":  3909,
+    "Conhecimentos":  1105,
+    "Pesquisas":  8751,
+    "N48":  3918,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 16:56:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 58 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 17:01",
+                         "Texto":  "Nova versão 4.50.37 publicada: Inventario: apelido e comentario por estacao (local do TI), visiveis na lista e na ficha, sem alterar a maquina.",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 16:56:45",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 16:59:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar um disco com SMART degradado usando CrystalDiskInfo e chkdsk?",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,33 +20,33 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 16:17:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a fila de impressão travada limpando o serviço Spooler e a past...",
+                         "Data":  "2026-11-09 16:59:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como executar o diagnóstico SupportAssist ou ePSA em notebook Dell e interpre...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2467 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2476 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 16:17:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reverter um driver de vídeo após atualização que causou tela preta ou tr...",
+                         "Data":  "2026-11-09 16:59:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a falha de ingresso no domínio causada por DNS apontando para s...",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-09 16:58:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 67 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 16:58:06",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 15:55:24",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 59 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 15:29:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como restaurar itens excluídos da lixeira do SharePoint e da lixeira de segun...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 14:41",
-                         "Texto":  "Nova versão 4.50.36 publicada: Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar.",
                          "Nivel":  "info"
                      }
                  ],
@@ -60,47 +60,47 @@
                   22,
                   29,
                   76,
-                  146,
-                  83,
+                  156,
+                  73,
                   86,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  13,
+                  103,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  14,
-                  31,
-                  75,
-                  2,
+                  39,
                   38,
-                  25,
-                  110,
-                  225,
-                  259,
-                  229,
-                  291,
-                  298,
-                  310,
-                  92,
+                  43,
+                  35,
+                  20,
+                  20,
+                  100,
+                  235,
+                  250,
+                  263,
+                  263,
+                  328,
+                  306,
+                  59,
                   96,
                   92,
                   91,
                   81,
+                  66,
+                  62,
                   48,
-                  63,
-                  65,
                   59,
-                  58
+                  67
               ],
-    "Ultima":  "2026-11-09 16:56:52",
-    "Gerado":  "2026-11-09 16:57:04",
-    "Data":  "2026-11-09 16:57"
+    "Ultima":  "2026-11-09 16:58:06",
+    "Gerado":  "2026-11-09 17:01:24",
+    "Data":  "2026-11-09 17:01"
 }

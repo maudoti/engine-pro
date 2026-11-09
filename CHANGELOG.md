@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.37 | Inventario: apelido e comentario por estacao (local do TI... | 09/11/2026
+
+- **Melhoria**: Inventario: apelido e comentario por estacao (local do TI), visiveis na lista e na ficha, sem alterar a maquina.
+
 ## Versão 4.50.36 | Mitigacao termica: plano de energia passa a Equilibrado e... | 09/11/2026
 
 - **Melhoria**: Mitigacao termica: plano de energia passa a Equilibrado enquanto houver peca quente (com histerese) e volta ao Alto Desempenho ao normalizar.

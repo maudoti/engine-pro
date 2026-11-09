@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.37",
+        "Data":  "2026-11-09 17:01",
+        "Titulo":  "Inventario: apelido e comentario por estacao (local do TI...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Inventario: apelido e comentario por estacao (local do TI), visiveis na lista e na ficha, sem alterar a maquina."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.36",
         "Data":  "2026-11-09 14:41",
         "Titulo":  "Mitigacao termica: plano de energia passa a Equilibrado e...",
