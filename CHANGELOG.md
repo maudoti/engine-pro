@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.17 | Icone fixo na bandeja e tratativa do perfil temporario | 08/11/2026
+
+- **Melhoria**: Icone fixo na bandeja e tratativa do perfil temporario.
+
 ## Versão 4.50.16 | Aviso de caixa cheia sem sugerir PST local | 08/11/2026
 
 - **Melhoria**: Aviso de caixa cheia sem sugerir PST local.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.17",
+        "Data":  "2026-11-08 22:25",
+        "Titulo":  "Icone fixo na bandeja e tratativa do perfil temporario",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icone fixo na bandeja e tratativa do perfil temporario."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.16",
         "Data":  "2026-11-08 22:16",
         "Titulo":  "Aviso de caixa cheia sem sugerir PST local",
