@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.19 | Tela Estacoes mostra quais estacoes ainda estao no canal ... | 08/11/2026
+
+- **Melhoria**: Tela Estacoes mostra quais estacoes ainda estao no canal de teste.
+- **Melhoria**: Reparo de perfil conclui com reinicio (de dia sugere, de madrugada reinicia salvando os arquivos abertos).
+
 ## Versão 4.50.18 | Reparo de perfil conclui com reinicio: de dia so sugere (... | 08/11/2026
 
 - **Melhoria**: Reparo de perfil conclui com reinicio: de dia so sugere (botao Reiniciar agora), de madrugada reinicia sozinho salvando os arquivos abertos.

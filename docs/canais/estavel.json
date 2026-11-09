@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.18",
-    "Instalador":  "EnginePro_Setup_4.50.18.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.18/EnginePro_Setup_4.50.18.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.18/EnginePro_Setup_4.50.18.exe.gz",
-    "SHA256":  "BA4A87C07155C2D4E9783AFC0C57AF385CAAAF957AE660AB9780A637381C6086",
-    "Data":  "2026-11-08 22:57",
-    "Notas":  "Reparo de perfil conclui com reinicio: de dia so sugere (botao Reiniciar agora), de madrugada reinicia sozinho salvando os arquivos abertos.",
-    "Assinatura":  "jEc3ujUSwaeE41Mie8MZ43RC1rNo81BTrQd+97GciWe2O7zMJkGnSTfYUqv4Clxtankzhl8MAXF+vuQJ3Ia+SnVKuXHttPRoxNVd3utte2TYyInFPovBazY9G6IWmT99EbUo+U+Chr3F4Lc6gJQZRn/5fcDc/XqQkS6ZzZHTlpgzrvQJqQMpeQFG4cZ/Umop7bxRYeVSQMXGOMEE7AfRQyKQHKamtCVCBc+SfiD91Yh7lLkWoK6M/KjLTEyxlgTsDdHT+uVcxGxxo0NCKszPlt+NNCAinOMFqwuXUbx9ThavNYlmn8HrvYhYEteDatFCV/v5f00jyr4uqMDJCta5QDv842Go4nMVWjO4dPPq2ErAfCGt2uxtdDKk6tJd/h7GTZ09kOOI7flVevdLnyhIt9gboWc2wseMidyeHDTkR0Cgsbc4YxcXXiQdN9r+mbhixxc8sroAKHehjB+3PYhRXfbi3kQvc2BGGjziBIERdBZfREhTMGsNigJbUxYJiuGn"
+    "Versao":  "4.50.19",
+    "Instalador":  "EnginePro_Setup_4.50.19.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.19/EnginePro_Setup_4.50.19.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.19/EnginePro_Setup_4.50.19.exe.gz",
+    "SHA256":  "98798DFEC5F1F0F04BE2B68A672267C0F9FAB5139F0F518B40E41CA4668540B8",
+    "Data":  "2026-11-08 23:02",
+    "Notas":  "Tela Estacoes mostra quais estacoes ainda estao no canal de teste; reparo de perfil conclui com reinicio (de dia sugere, de madrugada reinicia salvando os arquivos abertos).",
+    "Assinatura":  "J5W4/0/1cecLsDhUp+Bx/PlmyV4M4h1vjd8nlLVTciHyL6hIF+aLYFjUszhGLAZUx/HrTpFufsv5NWXFnAnoVUTUCx9FdTMc/W+GEzbanZyRDdnTSBdKLOsYo5kB6y+swWWFq89tlSgbcovgSwjAERFGkcQI3wofilvxqy5TitG6FLl5H719Oxh095TN9IzG+FMSUv87jM3/JpDjvAvyAnJKnVpInOoS7MgaVv5diOAzndKl/0gvNwOPntvPv7cypEgA4dDgB4/xTuagy3yIr1ISs0WVwFHmlovYkIqAMxCavmOQHflmXWOh3pKdxRzFQNjBVp7sXAyPwuBbP3juM4Y/K9yanHGOzdxHFlBKZFOPQhPybmkZkNww3uvTX7DCNq78poBL165/g/VJ/NKsMUgrNwIYcPpoTGv/hQOXTtICNOjuxYSdrFEn7cL2nZ3Mev9cVP28MeOT/TqMw9JtsGSwROAXPe5k1Vh39MgPGAAnPBlZFnduhOPWerp2Gvr7"
 }
