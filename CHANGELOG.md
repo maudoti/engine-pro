@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.32 | Chamados chegam por email ja legiveis (descriptografados ... | 09/11/2026
+
+- **Melhoria**: Chamados chegam por email ja legiveis (descriptografados no PC do TI).
+- **Melhoria**: Mantem criptografado no GitHub.
+
 ## Versão 4.50.31 | Trava de custo do Claude: teto diario/mensal compartilhad... | 09/11/2026
 
 - **Melhoria**: Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa).

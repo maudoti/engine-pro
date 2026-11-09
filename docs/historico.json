@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.32",
+        "Data":  "2026-11-09 08:57",
+        "Titulo":  "Chamados chegam por email ja legiveis (descriptografados ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Chamados chegam por email ja legiveis (descriptografados no PC do TI)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mantem criptografado no GitHub."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.31",
         "Data":  "2026-11-09 01:03",
         "Titulo":  "Trava de custo do Claude: teto diario/mensal compartilhad...",
