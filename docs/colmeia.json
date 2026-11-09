@@ -1,9 +1,34 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1080,
-    "Pesquisas":  8449,
-    "N48":  3765,
+    "Conhecimentos":  1081,
+    "Pesquisas":  8479,
+    "N48":  3769,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-09 12:16:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-09 12:16:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-09 12:16:35",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 2204 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-09 11:55:31",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
@@ -15,61 +40,36 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-09 11:55:25",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 81 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2174 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 11:55:25",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 11:34:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-09 10:56",
                          "Texto":  "Nova versão 4.50.34 publicada: Problemas nao resolvidos voltam a fila de estudos ate resolver (com observacao na tela)",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 10:45:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 91 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  26,
-                  26,
-                  26,
-                  30,
-                  41,
-                  23,
-                  33,
+                  24,
+                  2,
+                  53,
+                  44,
+                  11,
+                  45,
                   29,
                   36,
                   31,
-                  28,
+                  4,
+                  24,
                   45,
-                  8,
-                  113,
+                  12,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  99,
+                  60,
                   30,
                   33,
                   40,
@@ -87,20 +87,20 @@
                   40,
                   25,
                   25,
-                  89,
-                  271,
-                  251,
-                  229,
-                  300,
-                  336,
-                  263,
+                  131,
+                  262,
+                  252,
+                  258,
+                  286,
+                  330,
+                  220,
                   81,
-                  66,
-                  91,
-                  118,
-                  54
+                  113,
+                  75,
+                  87,
+                  84
               ],
-    "Ultima":  "2026-11-09 11:55:25",
-    "Gerado":  "2026-11-09 12:07:04",
-    "Data":  "2026-11-09 12:07"
+    "Ultima":  "2026-11-09 12:16:35",
+    "Gerado":  "2026-11-09 12:17:03",
+    "Data":  "2026-11-09 12:17"
 }
