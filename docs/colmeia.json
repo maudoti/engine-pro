@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  982,
-    "Pesquisas":  7580,
-    "N48":  3088,
+    "Conhecimentos":  987,
+    "Pesquisas":  7624,
+    "N48":  3132,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 05:36:11",
+                         "Data":  "2026-11-09 05:46:37",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:36:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 191 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 05:46:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 235 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:30:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro \u0027Não foi possível abrir a caixa de correio\u0027 com arquivo...",
+                         "Data":  "2026-11-09 05:40:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o mapeamento de unidade de rede que solicita credenciais repeti...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1305 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1349 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:30:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver impressões em branco ou com caracteres ilegíveis após atualizaç...",
+                         "Data":  "2026-11-09 05:40:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0988 (PSFX_E_INVALID_DELTA_COMBINATION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:30:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Data":  "2026-11-09 05:40:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,8 +51,8 @@
                      }
                  ],
     "Horas":  [
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -71,10 +71,10 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -83,9 +83,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -93,14 +93,14 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283
               ],
-    "Ultima":  "2026-11-09 05:36:11",
-    "Gerado":  "2026-11-09 05:37:03",
-    "Data":  "2026-11-09 05:37"
+    "Ultima":  "2026-11-09 05:46:37",
+    "Gerado":  "2026-11-09 05:47:03",
+    "Data":  "2026-11-09 05:47"
 }
