@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  844,
-    "Pesquisas":  6332,
-    "N48":  2127,
+    "Pesquisas":  6340,
+    "N48":  2136,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 00:27:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 00:28",
+                         "Texto":  "Nova versão 4.50.29 publicada: Abertura mais rapida: checagem do agente por mutex (tira ~1,5s).",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 00:26:19",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 00:27:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 00:20",
-                         "Texto":  "Nova versão 4.50.28 publicada: Tela Inicio monta em passos (fica clicavel durante o carregamento) e cronometra cada passo.",
+                         "Data":  "2026-11-09 00:27:56",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 56 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 65 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -53,8 +53,8 @@
     "Horas":  [
                   64,
                   60,
-                  81,
-                  33,
+                  89,
+                  25,
                   39,
                   60,
                   29,
@@ -78,9 +78,9 @@
                   41,
                   115,
                   122,
-                  83,
-                  70,
-                  99,
+                  86,
+                  87,
+                  79,
                   60,
                   30,
                   33,
@@ -98,9 +98,9 @@
                   43,
                   40,
                   25,
-                  56
+                  65
               ],
-    "Ultima":  "2026-11-09 00:27:02",
-    "Gerado":  "2026-11-09 00:27:03",
-    "Data":  "2026-11-09 00:27"
+    "Ultima":  "2026-11-09 00:27:56",
+    "Gerado":  "2026-11-09 00:28:59",
+    "Data":  "2026-11-09 00:28"
 }

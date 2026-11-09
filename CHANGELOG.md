@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.29 | Abertura mais rapida: checagem do agente por mutex (tira ... | 09/11/2026
+
+- **Melhoria**: Abertura mais rapida: checagem do agente por mutex (tira ~1,5s).
+
 ## Versão 4.50.28 | Tela Inicio monta em passos (fica clicavel durante o carr... | 09/11/2026
 
 - **Melhoria**: Tela Inicio monta em passos (fica clicavel durante o carregamento) e cronometra cada passo.

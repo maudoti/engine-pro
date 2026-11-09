@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.29",
+        "Data":  "2026-11-09 00:28",
+        "Titulo":  "Abertura mais rapida: checagem do agente por mutex (tira ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura mais rapida: checagem do agente por mutex (tira ~1,5s)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.28",
         "Data":  "2026-11-09 00:20",
         "Titulo":  "Tela Inicio monta em passos (fica clicavel durante o carr...",
