@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1015,
-    "Pesquisas":  7919,
-    "N48":  3378,
+    "Conhecimentos":  1021,
+    "Pesquisas":  7958,
+    "N48":  3403,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 06:32:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800CCC0F (IXP_E_CONNECTION_DROPPED) no Windows",
+                         "Data":  "2026-11-09 06:43:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:32:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040600 (MAPI_E_CORRUPT_STORE) no Windows",
+                         "Data":  "2026-11-09 06:43:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos com X vermelho (erro de sincronização)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:32:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
+                         "Data":  "2026-11-09 06:43:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1644 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1683 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:32:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 202 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 06:41:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 241 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:32:24",
+                         "Data":  "2026-11-09 06:41:47",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -51,7 +51,7 @@
                      }
                  ],
     "Horas":  [
-                  29,
+                  15,
                   33,
                   26,
                   32,
@@ -70,10 +70,10 @@
                   22,
                   29,
                   41,
-                  154,
+                  181,
                   83,
-                  86,
-                  102,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -82,9 +82,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -92,15 +92,15 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334
               ],
-    "Ultima":  "2026-11-09 06:32:24",
-    "Gerado":  "2026-11-09 06:37:04",
-    "Data":  "2026-11-09 06:37"
+    "Ultima":  "2026-11-09 06:41:47",
+    "Gerado":  "2026-11-09 06:47:03",
+    "Data":  "2026-11-09 06:47"
 }
