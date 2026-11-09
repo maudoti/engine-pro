@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  895,
-    "Pesquisas":  6819,
-    "N48":  2465,
+    "Conhecimentos":  901,
+    "Pesquisas":  6869,
+    "N48":  2495,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 02:45:36",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 02:57:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 259 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 02:45:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 209 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 02:57:00",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:38:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Arquivos do Windows danificados",
+                         "Data":  "2026-11-09 02:48:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 544 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 594 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 02:38:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Pesquisa do Windows não encontra arquivos",
+                         "Data":  "2026-11-09 02:48:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Teams pesado",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:38:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Menu Iniciar ou barra de tarefas não funciona",
+                         "Data":  "2026-11-09 02:48:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Segurança, Suspeita de vírus ou golpe",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,10 +51,10 @@
                      }
                  ],
     "Horas":  [
-                  63,
+                  54,
                   39,
-                  36,
-                  63,
+                  45,
+                  43,
                   15,
                   33,
                   26,
@@ -73,34 +73,34 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  13,
+                  31,
+                  76,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  78,
-                  211,
-                  255
+                  110,
+                  225,
+                  259
               ],
-    "Ultima":  "2026-11-09 02:45:36",
-    "Gerado":  "2026-11-09 02:47:03",
-    "Data":  "2026-11-09 02:47"
+    "Ultima":  "2026-11-09 02:57:02",
+    "Gerado":  "2026-11-09 02:57:03",
+    "Data":  "2026-11-09 02:57"
 }
