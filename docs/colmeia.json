@@ -1,13 +1,23 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1051,
+    "Conhecimentos":  1053,
     "Pesquisas":  8185,
     "N48":  3582,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 08:45:39",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 08:49:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora aparece offline",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-09 08:49:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora não imprime",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 08:45:39",
@@ -16,27 +26,17 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 08:29:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
                          "Texto":  "Hoje a IA já fez 1910 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 08:45:39",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 08:29:31",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDFs abrindo no navegador em vez do Reader",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 08:19:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, Adobe Reader não abre o PDF",
                          "Nivel":  "ok"
                      },
                      {
@@ -67,40 +67,40 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  14,
+                  31,
+                  75,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  78,
-                  211,
-                  255,
-                  242,
-                  280,
-                  283,
-                  334,
-                  131,
+                  110,
+                  225,
+                  259,
+                  229,
+                  291,
+                  298,
+                  310,
+                  92,
                   96
               ],
     "Ultima":  "2026-11-09 08:45:39",
-    "Gerado":  "2026-11-09 08:47:03",
-    "Data":  "2026-11-09 08:47"
+    "Gerado":  "2026-11-09 08:57:04",
+    "Data":  "2026-11-09 08:57"
 }
