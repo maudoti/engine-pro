@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.20 | Comando remoto para trocar o canal (estavel/teste) de uma... | 08/11/2026
+
+- **Melhoria**: Comando remoto para trocar o canal (estavel/teste) de uma estacao pelo computador do TI.
+
 ## Versão 4.50.19 | Tela Estacoes mostra quais estacoes ainda estao no canal ... | 08/11/2026
 
 - **Melhoria**: Tela Estacoes mostra quais estacoes ainda estao no canal de teste.

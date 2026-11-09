@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.20",
+        "Data":  "2026-11-08 23:17",
+        "Titulo":  "Comando remoto para trocar o canal (estavel/teste) de uma...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Comando remoto para trocar o canal (estavel/teste) de uma estacao pelo computador do TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.19",
         "Data":  "2026-11-08 23:02",
         "Titulo":  "Tela Estacoes mostra quais estacoes ainda estao no canal ...",

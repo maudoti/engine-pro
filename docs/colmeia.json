@@ -5,8 +5,8 @@
     "N48":  2121,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 23:02:59",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-08 23:17",
+                         "Texto":  "Nova versão 4.50.20 publicada: Comando remoto para trocar o canal (estavel/teste) de uma estacao pelo computador do TI.",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-08 23:02",
-                         "Texto":  "Nova versão 4.50.19 publicada: Tela Estacoes mostra quais estacoes ainda estao no canal de teste",
+                         "Data":  "2026-11-08 23:02:59",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -57,24 +57,24 @@
                   92,
                   42,
                   39,
-                  39,
-                  50,
+                  55,
+                  34,
                   17,
                   42,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45,
+                  26,
+                  0,
+                  56,
+                  41,
+                  21,
+                  35,
                   29,
                   36,
                   31,
-                  4,
-                  24,
+                  20,
+                  8,
                   45,
                   12,
                   109,
@@ -101,6 +101,6 @@
                   25
               ],
     "Ultima":  "2026-11-08 23:02:59",
-    "Gerado":  "2026-11-08 23:17:04",
+    "Gerado":  "2026-11-08 23:17:58",
     "Data":  "2026-11-08 23:17"
 }
