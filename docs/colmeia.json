@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  952,
-    "Pesquisas":  7293,
-    "N48":  2837,
+    "Conhecimentos":  958,
+    "Pesquisas":  7341,
+    "N48":  2885,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 04:35:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reativar o Windows 10/11 após troca de placa-mãe usando a conta Microsoft?",
+                         "Data":  "2026-11-09 04:46:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como configurar exceções no Acesso Controlado a Pastas quando um aplicativo l...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 04:35:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a falta de licença do Microsoft 365 atribuída a um usuário no p...",
+                         "Data":  "2026-11-09 04:46:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar netsh winsock reset e netsh int ip reset para corrigir falhas de re...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 04:35:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como atualizar a BIOS de um notebook Dell com o Dell Command Update?",
+                         "Data":  "2026-11-09 04:46:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar o Autoruns para identificar itens suspeitos de inicialização do Win...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1018 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1066 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 04:32:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 164 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 04:43:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 212 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 04:32:39",
+                         "Data":  "2026-11-09 04:43:57",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -52,8 +52,8 @@
                  ],
     "Horas":  [
                   36,
-                  49,
-                  29,
+                  63,
+                  15,
                   33,
                   26,
                   32,
@@ -72,10 +72,10 @@
                   22,
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -84,9 +84,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -94,13 +94,13 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276
+                  78,
+                  211,
+                  255,
+                  242,
+                  280
               ],
-    "Ultima":  "2026-11-09 04:32:39",
-    "Gerado":  "2026-11-09 04:37:03",
-    "Data":  "2026-11-09 04:37"
+    "Ultima":  "2026-11-09 04:43:57",
+    "Gerado":  "2026-11-09 04:47:03",
+    "Data":  "2026-11-09 04:47"
 }
