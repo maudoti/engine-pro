@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  987,
-    "Pesquisas":  7624,
-    "N48":  3132,
+    "Conhecimentos":  992,
+    "Pesquisas":  7687,
+    "N48":  3175,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 05:46:37",
+                         "Data":  "2026-11-09 05:57:00",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:46:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 235 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 05:57:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 297 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:40:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o mapeamento de unidade de rede que solicita credenciais repeti...",
+                         "Data":  "2026-11-09 05:50:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1349 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1411 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:40:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0988 (PSFX_E_INVALID_DELTA_COMBINATION) no Windows",
+                         "Data":  "2026-11-09 05:50:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 4740 para identificar a origem do bloqueio de uma...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:40:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
+                         "Data":  "2026-11-09 05:50:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o pedido de chave de recuperação do BitLocker após troca de har...",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,7 +51,7 @@
                      }
                  ],
     "Horas":  [
-                  63,
+                  43,
                   15,
                   33,
                   26,
@@ -70,37 +70,37 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  13,
+                  31,
+                  76,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  78,
-                  211,
-                  255,
-                  242,
-                  280,
-                  283
+                  110,
+                  225,
+                  259,
+                  228,
+                  292,
+                  297
               ],
-    "Ultima":  "2026-11-09 05:46:37",
-    "Gerado":  "2026-11-09 05:47:03",
-    "Data":  "2026-11-09 05:47"
+    "Ultima":  "2026-11-09 05:57:00",
+    "Gerado":  "2026-11-09 05:57:03",
+    "Data":  "2026-11-09 05:57"
 }
