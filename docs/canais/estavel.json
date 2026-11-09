@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.23",
-    "Instalador":  "EnginePro_Setup_4.50.23.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.23/EnginePro_Setup_4.50.23.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.23/EnginePro_Setup_4.50.23.exe.gz",
-    "SHA256":  "E8FAC3677EF79141F4F59B147DA859B490669EF4E41C046F16B48F91D9A47BFE",
-    "Data":  "2026-11-08 23:49",
-    "Notas":  "Cartao de protecao sempre visivel em Seguranca.",
-    "Assinatura":  "C02R1pYu9dO1G2/AdoFePmt6Cxc7hQGXzYW/qsoe3B2mQE/7iHXiljYVK83ZelmGzLs7/9McyY8WO5MrAjT5NNjld/Wi5RclrrmdNrdxvthBz9p2vWM1rP+z9qwblrk38sv3ujgU3zPQLnsORY7XBuLSHWl4ObHumlQHPqijXq8L70Lh4J9lxZQET6cRtcIpNA0brNrRcMPwuDUX4d/6sxXsUMVtcWJC8MCTs0JdvnqWL802BttOy2r+w0rFHzEn0QnCbJ3fj076j1BtT0SM2iFOfo5IkWiDqCH0DxltMjz14R/QXEfju+62IQMgClSUSXxDLqXun80JhEH4BHcMd9nTbiFL0retJbcP11bYLRfnGDEVVZFPK5OiAdeeazzNFANL0Mg0kkb3/yqWfS7Ovl1zxl6RMQAMIFdnI5UQPPsudkc8nYXx2s/FpobiOWqPJWeAKvYFmb+lhjm13ZqOyU35IWH8OZmAUQZrPROxSVGz0KuZgUPaQfa9ou4JjvkK"
+    "Versao":  "4.50.24",
+    "Instalador":  "EnginePro_Setup_4.50.24.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.24/EnginePro_Setup_4.50.24.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.24/EnginePro_Setup_4.50.24.exe.gz",
+    "SHA256":  "94A642826254206F73C827198096B62F146D224FD29E52360B2F1A4EF91026FB",
+    "Data":  "2026-11-08 23:57",
+    "Notas":  "Botoes Ligar/Desligar protecao na maquina do TI; instrucao de protecao so no PC do TI.",
+    "Assinatura":  "fSxN9O+YW173LoCk0HM6zawp6TWXz+UjBXtBmQ6NhuH3MJT2sxX845SQJ5DBnQ/mnNf1/IFJLwVY43ArUozwwamGWyNP8CgLQ9MjtBMz8J+cx6mx8AXYMByPipL3uscguF7AnWAa3fw+awr0geu4voGQrY9/ufy5vz8DLYGjpQKLTKocp5CTyoPUrLddHHUWhYJfffo4snCAxqfHU+zXoa71q5mW5ckpPc577jxpIIX3/6SjILDHTIy1hWyKxiJliWNNYWrwWXNsl1tvneMMxCqYmMJyhcpP3VCYn+AfEEmo97zcl1s9e1YXYhbEh62lZ959yQ2QuOAPZi7HfCiM8aYPR2ZN7NVsmWZy2lYGnKWayPEimNhoUnXQiq9fsVTm1zZryh+cvj2JYM2jfd2Jqr7KCUXrMFJIlZc7pb/uVplpkyspQnCx0zdblQ0CD+m7n+tL4LE+4RZxNmMzeuvN9CIc+AwxKK7bhLL8hW9+ni3ZMoXitegjRZFxGFAer96+"
 }

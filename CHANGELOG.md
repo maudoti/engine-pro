@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.24 | Botoes Ligar/Desligar protecao na maquina do TI | 08/11/2026
+
+- **Melhoria**: Botoes Ligar/Desligar protecao na maquina do TI.
+- **Melhoria**: Instrucao de protecao so no PC do TI.
+
 ## Versão 4.50.23 | Cartao de protecao sempre visivel em Seguranca | 08/11/2026
 
 - **Melhoria**: Cartao de protecao sempre visivel em Seguranca.

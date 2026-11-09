@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.24",
+        "Data":  "2026-11-08 23:57",
+        "Titulo":  "Botoes Ligar/Desligar protecao na maquina do TI",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botoes Ligar/Desligar protecao na maquina do TI."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instrucao de protecao so no PC do TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.23",
         "Data":  "2026-11-08 23:49",
         "Titulo":  "Cartao de protecao sempre visivel em Seguranca",

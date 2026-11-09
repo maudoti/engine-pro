@@ -2,11 +2,11 @@
     "Resolvidos":  3,
     "Conhecimentos":  844,
     "Pesquisas":  6275,
-    "N48":  2105,
+    "N48":  2097,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-08 23:49",
-                         "Texto":  "Nova versão 4.50.23 publicada: Cartao de protecao sempre visivel em Seguranca.",
+                         "Data":  "2026-11-08 23:57",
+                         "Texto":  "Nova versão 4.50.24 publicada: Botoes Ligar/Desligar protecao na maquina do TI",
                          "Nivel":  "info"
                      },
                      {
@@ -46,7 +46,7 @@
                      }
                  ],
     "Horas":  [
-                  54,
+                  46,
                   64,
                   86,
                   54,
@@ -78,8 +78,8 @@
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  32,
+                  1,
                   40,
                   116,
                   32,
@@ -88,14 +88,14 @@
                   42,
                   34,
                   42,
-                  14,
+                  22,
+                  32,
+                  66,
+                  9,
                   31,
-                  75,
-                  2,
-                  38,
                   25
               ],
     "Ultima":  "2026-11-08 23:02:59",
-    "Gerado":  "2026-11-08 23:57:04",
+    "Gerado":  "2026-11-08 23:57:34",
     "Data":  "2026-11-08 23:57"
 }
