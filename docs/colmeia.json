@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1003,
-    "Pesquisas":  7819,
-    "N48":  3299,
+    "Conhecimentos":  1009,
+    "Pesquisas":  7870,
+    "N48":  3329,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 06:12:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE90 (ONEDRIVE_NOT_SET_UP) no Windows",
+                         "Data":  "2026-11-09 06:21:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:12:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE8A (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Data":  "2026-11-09 06:21:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:11:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Data":  "2026-11-09 06:21:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071129 (ERROR_REPARSE_TAG_INVALID) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1544 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1595 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:11:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 102 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 06:21:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 153 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:11:22",
+                         "Data":  "2026-11-09 06:21:36",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -51,36 +51,36 @@
                      }
                  ],
     "Horas":  [
-                  50,
-                  17,
-                  42,
+                  29,
+                  33,
+                  26,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45,
+                  26,
+                  26,
+                  30,
+                  41,
+                  23,
+                  33,
                   29,
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -92,15 +92,15 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286,
-                  330
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287,
+                  334
               ],
-    "Ultima":  "2026-11-09 06:11:22",
-    "Gerado":  "2026-11-09 06:17:03",
-    "Data":  "2026-11-09 06:17"
+    "Ultima":  "2026-11-09 06:21:36",
+    "Gerado":  "2026-11-09 06:27:03",
+    "Data":  "2026-11-09 06:27"
 }
