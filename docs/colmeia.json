@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1078,
-    "Pesquisas":  8419,
-    "N48":  3735,
+    "Conhecimentos":  1080,
+    "Pesquisas":  8449,
+    "N48":  3765,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 11:34:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Excel trava a cada clique (recálculo pesado)",
+                         "Data":  "2026-11-09 11:55:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 11:34:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
+                         "Data":  "2026-11-09 11:55:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome lento ou consumindo muita memória",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 11:34:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 51 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 11:55:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 81 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2144 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2174 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 11:34:05",
+                         "Data":  "2026-11-09 11:55:25",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 11:12:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Data":  "2026-11-09 11:34:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
                          "Nivel":  "ok"
                      },
                      {
@@ -64,43 +64,43 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  14,
+                  31,
+                  75,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  78,
-                  211,
-                  255,
-                  242,
-                  280,
-                  283,
-                  334,
-                  131,
+                  110,
+                  225,
+                  259,
+                  229,
+                  291,
+                  298,
+                  310,
+                  92,
                   96,
                   92,
                   91,
-                  51
+                  81
               ],
-    "Ultima":  "2026-11-09 11:34:05",
-    "Gerado":  "2026-11-09 11:47:03",
-    "Data":  "2026-11-09 11:47"
+    "Ultima":  "2026-11-09 11:55:25",
+    "Gerado":  "2026-11-09 11:57:04",
+    "Data":  "2026-11-09 11:57"
 }
