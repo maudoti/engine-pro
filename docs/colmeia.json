@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  911,
-    "Pesquisas":  6979,
-    "N48":  2571,
+    "Conhecimentos":  917,
+    "Pesquisas":  7017,
+    "N48":  2599,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 03:27:01",
+                         "Data":  "2026-11-09 03:37:01",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:27:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 109 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 03:37:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 146 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:20:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reduzir a lentidão de planilhas com muitas fórmulas PROCV e referências...",
+                         "Data":  "2026-11-09 03:31:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como limpar o cache do novo Microsoft Teams para corrigir falhas de login e t...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 704 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 741 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:20:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como localizar e corrigir vínculos externos quebrados (#REF!) em planilhas do...",
+                         "Data":  "2026-11-09 03:31:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Teams que não detecta microfone ou alto-falante após atualiza...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 03:20:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
+                         "Data":  "2026-11-09 03:31:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro de sincronização do OneDrive causado por nomes de arquiv...",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,9 +51,9 @@
                      }
                  ],
     "Horas":  [
-                  33,
                   39,
-                  60,
+                  36,
+                  49,
                   29,
                   33,
                   26,
@@ -73,12 +73,12 @@
                   22,
                   29,
                   41,
-                  115,
-                  122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  153,
+                  84,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -95,12 +95,12 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236
+                  65,
+                  180,
+                  265,
+                  231
               ],
-    "Ultima":  "2026-11-09 03:27:01",
-    "Gerado":  "2026-11-09 03:27:03",
-    "Data":  "2026-11-09 03:27"
+    "Ultima":  "2026-11-09 03:37:01",
+    "Gerado":  "2026-11-09 03:37:03",
+    "Data":  "2026-11-09 03:37"
 }
