@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.13",
+        "Data":  "2026-11-08 21:13",
+        "Titulo":  "COLMEIA nao marca como resolvido um problema ainda ativo",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA nao marca como resolvido um problema ainda ativo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Correcoes do card e do autodiagnostico."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.12",
         "Data":  "2026-11-08 20:56",
         "Titulo":  "Corrige falso positivo do autodiagnostico e tira avisos t...",

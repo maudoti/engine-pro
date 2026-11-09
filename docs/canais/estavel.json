@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.12",
-    "Instalador":  "EnginePro_Setup_4.50.12.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.12/EnginePro_Setup_4.50.12.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.12/EnginePro_Setup_4.50.12.exe.gz",
-    "SHA256":  "83BFC54087D67D451638940A8D0BB7641FAB96FDF10960A9B600B0D009725950",
-    "Data":  "2026-11-08 20:56",
-    "Notas":  "Corrige falso positivo do autodiagnostico e tira avisos tecnicos do card geral",
-    "Assinatura":  "rH52kY0mzIpg+yxArGXIotugPBOF4vWQe+xO7R+TCUlIKl92DJVmEpCiJE7XYgCRETv/SwB0zo/wY9kg8fCqHoEhFWw2o5fjmOaOj6OqN10PNkW8LIl4zg3E641a5mHiEnDhWSWF2+sd5/cxkDuNLywfIcS184A/I+0Fe7DCdNsed7HzolICvND0d2pc3dmD5xsf805WGgvO7cKBvlF0TPIG0sXe0ROje6MNx/9QBkflMj8lCPxq/fSt1/OR5w5yU7ilxHJAj1XRWHZPES5vbDGvhgUXRLX8yaKKNau6qLwbhAUydg/JC3DXazTgLNa+6K+uf70i2nOLO0VjRDWHdIF/ZS6h4emgjU/CowvcZ/D6simgX5Sjd8mGm5hk5HpfUJuGeAim+M6BH0h2HjgbOPEEJ0ZHWHHoCnj3esTWM7r9Rq9s2BDP0M/ezdeoum0Eyu1Plp9IcikU8V/OAkGTjH1SEHe0SSY4aDxIYQ1VZKCHc3qiGTEB2xQn2GkJbZ6/"
+    "Versao":  "4.50.13",
+    "Instalador":  "EnginePro_Setup_4.50.13.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.13/EnginePro_Setup_4.50.13.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.13/EnginePro_Setup_4.50.13.exe.gz",
+    "SHA256":  "3D45DFD224B5224AF3B5F6C6713F32D783D5266F883B596CE08A3D453AA65983",
+    "Data":  "2026-11-08 21:13",
+    "Notas":  "COLMEIA nao marca como resolvido um problema ainda ativo; correcoes do card e do autodiagnostico",
+    "Assinatura":  "GLd/1Oc0ZhzPsCjHnI75Ai95uIgiJCDTQobFHdQOa5UK6aGYNHINz7LtCWcPsst+PHPGdWzgMQOK/oB3zUAB/jaLGN95iVh9aKmk6HkChaexxXlZuF0GeMCnl1heJYXuKg6MncWxbEaeO5VB391PppDcsy74bHi/549UVyMwtyWdf7QkVwZo4YbKQ0Jbd7t/zM6o2l2ziJKjXqxwfgERzPtSRkmmOyPriLOonl1jGf+IsWLCEFEq/qD4odY8xksn1fPOLYHkWrIBQrGRGhG207S1am3cmONQ4BJMXXJ0QatSFCYRixCOcM7l/1FAhTxCuW2jBUQqJQsfuVUYDuLrtjxFqnVkV8/0ekGvEVU4zvk0nGC2WKrmfwms0AY+XSgXSAtX0Ee+9r1Qq3JuNp/n0Og5WF5WOk2Yy2PWbqS9QF08eYc+CxyYRoNQ8aO3MXpxwIMZeKFrXVHclviBBnMR0ZvOG5DaAf7l2NKdSm2fgp7pBxGz5I0+eX6mzHdvyh/6"
 }
