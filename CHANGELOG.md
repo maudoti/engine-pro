@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.34 | Problemas nao resolvidos voltam a fila de estudos ate res... | 09/11/2026
+
+- **Melhoria**: Problemas nao resolvidos voltam a fila de estudos ate resolver (com observacao na tela).
+- **Melhoria**: Card de chamados automaticos.
+- **Melhoria**: Ajuste no email legivel de chamados.
+
 ## Versão 4.50.33 | Tela Sobre: origem virou link do site em destaque e clica... | 09/11/2026
 
 - **Melhoria**: Tela Sobre: origem virou link do site em destaque e clicavel (maudoti.github.io/engine-pro).

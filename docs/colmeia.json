@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1070,
+    "Conhecimentos":  1074,
     "Pesquisas":  8368,
     "N48":  3707,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 10:45:20",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 10:56",
+                         "Texto":  "Nova versão 4.50.34 publicada: Problemas nao resolvidos voltam a fila de estudos ate resolver (com observacao na tela)",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 10:45:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 91 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 10:49:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 10:42:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
+                         "Data":  "2026-11-09 10:49:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,23 +30,23 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 10:39:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Windows Update falhando",
+                         "Data":  "2026-11-09 10:49:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Pesquisa do Windows não encontra arquivos",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 10:39:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 10:45:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 91 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 10:45:20",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 09:45:36",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 92 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 09:03",
-                         "Texto":  "Nova versão 4.50.33 publicada: Tela Sobre: origem virou link do site em destaque e clicavel (maudoti.github.io/engine-pro).",
                          "Nivel":  "info"
                      }
                  ],
@@ -65,42 +65,42 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  19,
+                  14,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
-                  34,
+                  30,
+                  37,
                   42,
-                  39,
-                  38,
-                  43,
+                  34,
+                  41,
+                  5,
+                  35,
+                  81,
+                  0,
                   40,
                   25,
-                  78,
-                  211,
-                  255,
-                  242,
-                  280,
-                  283,
-                  334,
-                  131,
+                  110,
+                  225,
+                  248,
+                  232,
+                  299,
+                  290,
+                  318,
+                  92,
                   96,
                   92,
                   91
               ],
     "Ultima":  "2026-11-09 10:45:20",
-    "Gerado":  "2026-11-09 10:47:03",
-    "Data":  "2026-11-09 10:47"
+    "Gerado":  "2026-11-09 10:56:27",
+    "Data":  "2026-11-09 10:56"
 }
