@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1027,
-    "Pesquisas":  7997,
-    "N48":  3442,
+    "Conhecimentos":  1033,
+    "Pesquisas":  8039,
+    "N48":  3469,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 06:54:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Biblioteca do SharePoint sincronizada duas vezes (atalho e sincro...",
+                         "Data":  "2026-11-09 07:04:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Office \"Produto não licenciado\" ou funcionalidade reduzida",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:54:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Recuperar uma versão anterior de arquivo",
+                         "Data":  "2026-11-09 07:04:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive com a conta errada",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 06:54:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
+                         "Data":  "2026-11-09 07:04:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Office lento ou \"Não respondendo\"",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1722 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1764 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:52:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 280 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 07:02:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 06:52:07",
+                         "Data":  "2026-11-09 07:02:20",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:59:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 328 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 06:59:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 300 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -51,10 +51,10 @@
                      }
                  ],
     "Horas":  [
-                  15,
-                  33,
-                  26,
-                  32,
+                  17,
+                  42,
+                  21,
+                  11,
                   23,
                   26,
                   26,
@@ -67,40 +67,40 @@
                   36,
                   31,
                   28,
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  7,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228,
-                  292,
-                  298,
-                  310
+                  301,
+                  335,
+                  264
               ],
-    "Ultima":  "2026-11-09 06:52:07",
-    "Gerado":  "2026-11-09 06:57:03",
-    "Data":  "2026-11-09 06:57"
+    "Ultima":  "2026-11-09 07:02:20",
+    "Gerado":  "2026-11-09 07:07:03",
+    "Data":  "2026-11-09 07:07"
 }
