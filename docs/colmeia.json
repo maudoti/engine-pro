@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1059,
+    "Conhecimentos":  1063,
     "Pesquisas":  8277,
     "N48":  3648,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 09:45:36",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 09:53:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conectado mas \"Sem internet\"",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 09:45:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 92 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 09:53:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conflito de IP na rede",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 09:42:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
+                         "Data":  "2026-11-09 09:53:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Sites não abrem (erro de DNS)",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +30,14 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 09:19:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 09:45:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 92 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 09:19:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressão demora para começar",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 09:45:36",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 09:03",
@@ -66,41 +66,41 @@
                   28,
                   22,
                   29,
-                  41,
-                  181,
+                  76,
+                  146,
                   83,
-                  72,
-                  89,
-                  98,
-                  26,
-                  30,
-                  33,
-                  40,
                   86,
+                  101,
+                  98,
                   30,
+                  25,
+                  8,
+                  40,
+                  116,
                   32,
-                  32,
-                  39,
-                  38,
+                  30,
+                  37,
+                  42,
                   34,
                   42,
-                  39,
+                  13,
+                  31,
+                  76,
+                  2,
                   38,
-                  43,
-                  40,
                   25,
-                  78,
-                  211,
-                  255,
-                  242,
-                  280,
-                  283,
-                  334,
-                  131,
+                  110,
+                  225,
+                  259,
+                  228,
+                  292,
+                  298,
+                  310,
+                  92,
                   96,
                   92
               ],
     "Ultima":  "2026-11-09 09:45:36",
-    "Gerado":  "2026-11-09 09:47:03",
-    "Data":  "2026-11-09 09:47"
+    "Gerado":  "2026-11-09 09:57:03",
+    "Data":  "2026-11-09 09:57"
 }
