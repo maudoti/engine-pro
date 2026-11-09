@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  935,
-    "Pesquisas":  7139,
-    "N48":  2711,
+    "Conhecimentos":  940,
+    "Pesquisas":  7203,
+    "N48":  2761,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 04:07:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 04:17:02",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 04:06:59",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 04:17:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 74 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 04:02:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a tela azul KMODE_EXCEPTION_NOT_HANDLED após atualização de dri...",
+                         "Data":  "2026-11-09 04:12:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro \u0027a fonte de dados de referência não é válida\u0027 em tabelas...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 864 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 928 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 04:02:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0x80072EE7 no Windows Update causado por proxy ou DNS?",
+                         "Data":  "2026-11-09 04:12:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir fontes substituídas ao abrir documentos do Word criados em outr...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 04:02:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como verificar e remover uma tarefa agendada suspeita ou maliciosa usando sch...",
+                         "Data":  "2026-11-09 04:12:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como desbloquear macros VBA de planilhas baixadas da internet sem desativar a...",
                          "Nivel":  "ok"
                      },
                      {
@@ -52,32 +52,32 @@
                  ],
     "Horas":  [
                   39,
-                  45,
-                  58,
+                  39,
+                  50,
                   17,
                   42,
-                  21,
+                  32,
+                  23,
+                  26,
+                  24,
+                  2,
+                  53,
+                  44,
                   11,
-                  23,
-                  26,
-                  26,
-                  26,
-                  30,
-                  41,
-                  23,
-                  33,
+                  45,
                   29,
                   36,
                   31,
-                  28,
+                  4,
+                  24,
                   45,
-                  7,
-                  114,
+                  12,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  99,
+                  60,
                   30,
                   33,
                   40,
@@ -95,12 +95,12 @@
                   40,
                   25,
                   25,
-                  89,
-                  271,
-                  251,
-                  228
+                  131,
+                  262,
+                  252,
+                  258
               ],
-    "Ultima":  "2026-11-09 04:07:02",
-    "Gerado":  "2026-11-09 04:07:03",
-    "Data":  "2026-11-09 04:07"
+    "Ultima":  "2026-11-09 04:17:02",
+    "Gerado":  "2026-11-09 04:17:03",
+    "Data":  "2026-11-09 04:17"
 }
