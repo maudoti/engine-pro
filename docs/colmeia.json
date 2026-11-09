@@ -1,16 +1,16 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  903,
-    "Pesquisas":  6911,
-    "N48":  2511,
+    "Conhecimentos":  905,
+    "Pesquisas":  6945,
+    "N48":  2545,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 03:06:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 03:16:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 75 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 03:06:49",
+                         "Data":  "2026-11-09 03:16:42",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 02:59:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
+                         "Data":  "2026-11-09 03:09:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recriar um perfil do Outlook sem perder as configurações da conta?",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 636 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 670 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 03:09:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Outlook travado em \u0027Processando\u0027 ao abrir por causa de perfil...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 02:59:02",
@@ -40,45 +45,40 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 02:48:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Segurança, Suspeita de vírus ou golpe",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-09 01:03",
                          "Texto":  "Nova versão 4.50.31 publicada: Trava de custo do Claude: teto diario/mensal compartilhado (IA, desempate, pesquisa)",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  28,
+                  42,
                   39,
-                  45,
-                  58,
+                  39,
+                  50,
                   17,
                   42,
-                  21,
+                  32,
+                  23,
+                  26,
+                  24,
+                  2,
+                  53,
+                  44,
                   11,
-                  23,
-                  26,
-                  26,
-                  26,
-                  30,
-                  41,
-                  23,
-                  33,
+                  45,
                   29,
                   36,
                   31,
-                  28,
+                  4,
+                  24,
                   45,
-                  7,
-                  114,
+                  12,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  99,
+                  60,
                   30,
                   33,
                   40,
@@ -96,11 +96,11 @@
                   40,
                   25,
                   25,
-                  89,
-                  271,
-                  251
+                  131,
+                  262,
+                  252
               ],
-    "Ultima":  "2026-11-09 03:06:55",
-    "Gerado":  "2026-11-09 03:07:03",
-    "Data":  "2026-11-09 03:07"
+    "Ultima":  "2026-11-09 03:16:59",
+    "Gerado":  "2026-11-09 03:17:03",
+    "Data":  "2026-11-09 03:17"
 }
