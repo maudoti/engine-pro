@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  940,
-    "Pesquisas":  7203,
-    "N48":  2761,
+    "Conhecimentos":  946,
+    "Pesquisas":  7249,
+    "N48":  2807,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 04:17:02",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 04:25:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como fazer o Teams exibir notificações quando a Assistência de Foco do Window...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 04:17:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 74 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 04:25:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o código AADSTS50053 ao entrar no Microsoft 365?",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 04:12:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro \u0027a fonte de dados de referência não é válida\u0027 em tabelas...",
+                         "Data":  "2026-11-09 04:25:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como restaurar uma versão anterior de arquivo no OneDrive após sobrescrita ac...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 928 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 974 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 04:12:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir fontes substituídas ao abrir documentos do Word criados em outr...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 04:22:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 120 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 04:12:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como desbloquear macros VBA de planilhas baixadas da internet sem desativar a...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 04:22:02",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 03:59:59",
@@ -52,37 +52,37 @@
                  ],
     "Horas":  [
                   39,
-                  39,
-                  50,
-                  17,
-                  42,
+                  60,
+                  29,
+                  33,
+                  26,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45,
+                  26,
+                  26,
+                  30,
+                  41,
+                  23,
+                  33,
                   29,
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -94,13 +94,13 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258
+                  57,
+                  143,
+                  268,
+                  236,
+                  270
               ],
-    "Ultima":  "2026-11-09 04:17:02",
-    "Gerado":  "2026-11-09 04:17:03",
-    "Data":  "2026-11-09 04:17"
+    "Ultima":  "2026-11-09 04:22:02",
+    "Gerado":  "2026-11-09 04:27:03",
+    "Data":  "2026-11-09 04:27"
 }
