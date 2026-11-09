@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  970,
-    "Pesquisas":  7489,
-    "N48":  3008,
+    "Conhecimentos":  976,
+    "Pesquisas":  7536,
+    "N48":  3055,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 05:16:57",
+                         "Data":  "2026-11-09 05:26:52",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:16:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 100 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-09 05:26:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 147 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:07:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o aviso \u0027Não é possível alterar uma parte de uma matriz\u0027 ao edi...",
+                         "Data":  "2026-11-09 05:18:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Windows Update travado em 0% renomeando a pasta SoftwareDistr...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1214 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1261 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 05:07:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro #VALOR! em somas e fórmulas quando os números foram impo...",
+                         "Data":  "2026-11-09 05:18:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como desinstalar uma atualização problemática do Windows usando wusa /uninsta...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 05:07:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar as portas e os endereços necessários no firewall para o Teams co...",
+                         "Data":  "2026-11-09 05:18:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a tela azul 0x0000007B (INACCESSIBLE_BOOT_DEVICE) após alterar...",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,37 +51,37 @@
                      }
                  ],
     "Horas":  [
-                  39,
-                  50,
-                  17,
-                  42,
+                  60,
+                  29,
+                  33,
+                  26,
                   32,
                   23,
                   26,
-                  24,
-                  2,
-                  53,
-                  44,
-                  11,
-                  45,
+                  26,
+                  26,
+                  30,
+                  41,
+                  23,
+                  33,
                   29,
                   36,
                   31,
-                  4,
-                  24,
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  28,
+                  22,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -93,14 +93,14 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287
               ],
-    "Ultima":  "2026-11-09 05:16:57",
-    "Gerado":  "2026-11-09 05:17:03",
-    "Data":  "2026-11-09 05:17"
+    "Ultima":  "2026-11-09 05:26:52",
+    "Gerado":  "2026-11-09 05:27:03",
+    "Data":  "2026-11-09 05:27"
 }
