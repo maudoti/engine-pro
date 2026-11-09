@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.29",
-    "Instalador":  "EnginePro_Setup_4.50.29.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.29/EnginePro_Setup_4.50.29.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.29/EnginePro_Setup_4.50.29.exe.gz",
-    "SHA256":  "3E37FE0509B9237BD91A8CE5788693D5F54F6298353910C2229832694D59F20C",
-    "Data":  "2026-11-09 00:28",
-    "Notas":  "Abertura mais rapida: checagem do agente por mutex (tira ~1,5s).",
-    "Assinatura":  "VzJSIfMD3BoDFgQ3e5GclBJuYPPczqKuGg5ZMbfAkGDRuDlRXq+r1ZQ31GSVo94PEfbUiuYK95MGtElHt9bDMJlzPytIej/K0EUXCfM0Nn+a/vYMfEXDgDBxeoa6KGvkMm+FMJI1y5efHY1FHripQFiIfy593Oc4DwrlnJbxzTwmq6SmbAraGpRS+wUZWpFIR1eEq3VFHwmNYOKxgV6rFjwm8N+k6MQP7XbrM6gTobyttrnCKrpVCYhUJs6WGomLISxvsJFM0rZRv0WpdyZirS6TrcnK7/J2/ZAmEgGScjhOJQ8fJSvKETNE7gbfXFwmzkoEcjy9xTUPHFJ0dvj33yiOGddg4Cj60wCPZ3OKlnKlVg+mmNSptWT5bhou3n5rroPv2/F26S3qTZxVrKTdGxxGcWMTC7lheaA/yBO48YxSYEroOEI3UkRk/c6fzROQd4AJ31xhYWrT1W35SrnDlffzRQr/yDYiXEOrEOteFl5gUF9eGOYvmI8isvmWYkC8"
+    "Versao":  "4.50.30",
+    "Instalador":  "EnginePro_Setup_4.50.30.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.30/EnginePro_Setup_4.50.30.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.30/EnginePro_Setup_4.50.30.exe.gz",
+    "SHA256":  "3D80A8997AA9C80F193FEFC747C45F72EDD748DD7E40271ADE496E2E0C699663",
+    "Data":  "2026-11-09 00:32",
+    "Notas":  "Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco.",
+    "Assinatura":  "jjebzPD6oz2Bu8gnWkiTtU8yKkjJbNllzhEO/aHyzYLZXI1aK7HX888oc+OsOYwuEWR9R/uohPquvrH7SNhf4InPLVEeDH8FeTL1OJpjAaa0etUnWUqYqh4BRf34aLfe29gzHWWN7WMq0QKjvaowQtPcSKwd+wAEelbioncbgqvh55KwTnk/3Jd+sfycx188Pt2eMivcq47JnF918AIfeDfHHcXjvXb001F7HQeRWyUwNtmQLfQ2KWYU2TPPo1tXIdtSWG9iiFiCU++oAIQYnKIropIA/xx4DWqdsq+MHh52dOatxm0RDrIxdUyMFIyPc83enLKo0llqnN6lMb0hF4HT2FPxd/ah3EfRLw42EDoAlE21Bt7K1xkOwBD9zNjMhyRBFrK1om9UUFsRh8zDOn1VrtomGX2lFN3FhnYz5q+1x7aN/WF76fzcfmDjqqa4tBaEg3Shdv/nzYVF/Zv33aLC4rycca98q73i6xTuPZRqVFlMfBIdK/qUrCxCqHGM"
 }

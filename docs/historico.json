@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.30",
+        "Data":  "2026-11-09 00:32",
+        "Titulo":  "Mede o arranque inicial (WPF, XAML, funcoes) para achar a...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.29",
         "Data":  "2026-11-09 00:28",
         "Titulo":  "Abertura mais rapida: checagem do agente por mutex (tira ...",

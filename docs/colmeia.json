@@ -5,8 +5,8 @@
     "N48":  2136,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 00:28",
-                         "Texto":  "Nova versão 4.50.29 publicada: Abertura mais rapida: checagem do agente por mutex (tira ~1,5s).",
+                         "Data":  "2026-11-09 00:32",
+                         "Texto":  "Nova versão 4.50.30 publicada: Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco.",
                          "Nivel":  "info"
                      },
                      {
@@ -54,8 +54,8 @@
                   64,
                   60,
                   89,
-                  25,
                   39,
+                  25,
                   60,
                   29,
                   33,
@@ -79,9 +79,9 @@
                   115,
                   122,
                   86,
-                  87,
-                  79,
-                  60,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -101,6 +101,6 @@
                   65
               ],
     "Ultima":  "2026-11-09 00:27:56",
-    "Gerado":  "2026-11-09 00:28:59",
-    "Data":  "2026-11-09 00:28"
+    "Gerado":  "2026-11-09 00:32:29",
+    "Data":  "2026-11-09 00:32"
 }

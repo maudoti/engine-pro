@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.30 | Mede o arranque inicial (WPF, XAML, funcoes) para achar a... | 09/11/2026
+
+- **Melhoria**: Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco.
+
 ## Versão 4.50.29 | Abertura mais rapida: checagem do agente por mutex (tira ... | 09/11/2026
 
 - **Melhoria**: Abertura mais rapida: checagem do agente por mutex (tira ~1,5s).

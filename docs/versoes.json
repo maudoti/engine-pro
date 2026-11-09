@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.30",
+        "Data":  "2026-11-09 00:32",
+        "Notas":  "Mede o arranque inicial (WPF, XAML, funcoes) para achar a travada do comeco.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.30/EnginePro_Setup_4.50.30.exe"
+    },
+    {
         "Versao":  "4.50.29",
         "Data":  "2026-11-09 00:28",
         "Notas":  "Abertura mais rapida: checagem do agente por mutex (tira ~1,5s).",
