@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.14",
+        "Data":  "2026-11-08 21:26",
+        "Titulo":  "Corrige 60 erros (PastaIA nulo), codificacao da tela e vi...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige 60 erros (PastaIA nulo), codificacao da tela e vigia de engasgos na interface."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.13",
         "Data":  "2026-11-08 21:13",
         "Titulo":  "COLMEIA nao marca como resolvido um problema ainda ativo",

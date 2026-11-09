@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.14",
+        "Data":  "2026-11-08 21:26",
+        "Notas":  "Corrige 60 erros (PastaIA nulo), codificacao da tela e vigia de engasgos na interface",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.14/EnginePro_Setup_4.50.14.exe"
+    },
+    {
         "Versao":  "4.50.13",
         "Data":  "2026-11-08 21:13",
         "Notas":  "COLMEIA nao marca como resolvido um problema ainda ativo; correcoes do card e do autodiagnostico",

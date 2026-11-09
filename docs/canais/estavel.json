@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.13",
-    "Instalador":  "EnginePro_Setup_4.50.13.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.13/EnginePro_Setup_4.50.13.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.13/EnginePro_Setup_4.50.13.exe.gz",
-    "SHA256":  "3D45DFD224B5224AF3B5F6C6713F32D783D5266F883B596CE08A3D453AA65983",
-    "Data":  "2026-11-08 21:13",
-    "Notas":  "COLMEIA nao marca como resolvido um problema ainda ativo; correcoes do card e do autodiagnostico",
-    "Assinatura":  "GLd/1Oc0ZhzPsCjHnI75Ai95uIgiJCDTQobFHdQOa5UK6aGYNHINz7LtCWcPsst+PHPGdWzgMQOK/oB3zUAB/jaLGN95iVh9aKmk6HkChaexxXlZuF0GeMCnl1heJYXuKg6MncWxbEaeO5VB391PppDcsy74bHi/549UVyMwtyWdf7QkVwZo4YbKQ0Jbd7t/zM6o2l2ziJKjXqxwfgERzPtSRkmmOyPriLOonl1jGf+IsWLCEFEq/qD4odY8xksn1fPOLYHkWrIBQrGRGhG207S1am3cmONQ4BJMXXJ0QatSFCYRixCOcM7l/1FAhTxCuW2jBUQqJQsfuVUYDuLrtjxFqnVkV8/0ekGvEVU4zvk0nGC2WKrmfwms0AY+XSgXSAtX0Ee+9r1Qq3JuNp/n0Og5WF5WOk2Yy2PWbqS9QF08eYc+CxyYRoNQ8aO3MXpxwIMZeKFrXVHclviBBnMR0ZvOG5DaAf7l2NKdSm2fgp7pBxGz5I0+eX6mzHdvyh/6"
+    "Versao":  "4.50.14",
+    "Instalador":  "EnginePro_Setup_4.50.14.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.14/EnginePro_Setup_4.50.14.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.14/EnginePro_Setup_4.50.14.exe.gz",
+    "SHA256":  "3D4D47B01FB8050AFD9B0E56327BEE4887DA170DD7E74F1ED0123E0E1C3B6F93",
+    "Data":  "2026-11-08 21:26",
+    "Notas":  "Corrige 60 erros (PastaIA nulo), codificacao da tela e vigia de engasgos na interface",
+    "Assinatura":  "Zj2vVsrIPSvxBnfrG/T0Sktu7uHG+R+o4BkkGfm6eLSQ5/seY2z9+s3WvcEQk7nlW93+2AvaqZlonHMCGTG3HCXwDlpAoV1RrcmOYiK9NhEccBaVx4NHeWFCnSJBo3thfuJHlsjXr8QN7qNFVKR+Vl9EcRUf2oUlWc91DN/0QLVwepytXkpfWVvPQUblaWvalnbucJQgf7uy1Bhvx/4Fu5++wSLBODLwTE29mbk1Wrm1JwNC6ld0SpuMD44ePvoIim8qx5ooiukYz0kLbr+p3ObjUn9ViZkdTCe8xLKGhrbWlyzpKGXr8q4eLj/G46fDDy9hNREIuHapTBYzYSa3IyJfOm7CBKSzif4CSAe1XsN1wWEtWcbSMJqEPNhCBHbeV5i6PpeZcgd4BC/mIyjGlDhsHntxZUKmB/zihg5R3FAz0ZwI8V9SREb5ZXl5yyj7o2+uaqMr1GIEPy+A2qgaK7KC7GBhgOLZaZtXQ6/e3V/9wq0z3pmLXguqnLbmvAc3"
 }

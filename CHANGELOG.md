@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.14 | Corrige 60 erros (PastaIA nulo), codificacao da tela e vi... | 08/11/2026
+
+- **Correção**: Corrige 60 erros (PastaIA nulo), codificacao da tela e vigia de engasgos na interface.
+
 ## Versão 4.50.13 | COLMEIA nao marca como resolvido um problema ainda ativo | 08/11/2026
 
 - **Melhoria**: COLMEIA nao marca como resolvido um problema ainda ativo.
