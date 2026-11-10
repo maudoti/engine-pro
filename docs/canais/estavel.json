@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.43",
-    "Instalador":  "EnginePro_Setup_4.50.43.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.43/EnginePro_Setup_4.50.43.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.43/EnginePro_Setup_4.50.43.exe.gz",
-    "SHA256":  "7374CF091C2F39C3A963F59B069A5779C7EEE7E943782B4DBF918D3C27B66F31",
-    "Data":  "2026-11-09 21:15",
-    "Notas":  "Corrige largura da grade (soma manual, exigida pelo PS 5.1) e captura erro de linha.",
-    "Assinatura":  "A2mba0bupPd4aAug59I/DlBd/fRoJB+yX78J0IspOiH6jP0zYop9Uk87zRqhfr/TSClx8BtuOzwVgq9rCbO+B2LB8LqTkXl44fnL6CiFwCzuGYkIqlFEJ/HzdxnlQ7SvJ6gfjpOWx2bHLk567D4IKJAGecmiO0qOU+f2ly58X/r67vCnDo83s6qOhUESVzHPoCATXG54LQ4kWKu2y6FC6zNNffDz7dmJPpV1EsAgFhzRd7d7akTmLzWkyj4TG2JqAliJxtPCegq3ojBD0wE4IWxq3G6ddKegP+5MhPWAQEvXnEgEiSfQH0TG4BY/rbJpp5PrA7Gs/jiuMe5SIYld7XOEmOcvBXuaRHMJrGWM3l1wG9jI/kapM8A/DCPR876ucbi31tj0q8mdGdK+fHAaEY3IdOY7g/pJFOsBJS7+6r1LMhjktyMGR39iILmCk1NUOfaR3AOJaF0wLmRFG+JzylSggbzI4kmHLiqNiU/M/erDQMWodYGaFYRuHIEKFTrO"
+    "Versao":  "4.50.44",
+    "Instalador":  "EnginePro_Setup_4.50.44.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.44/EnginePro_Setup_4.50.44.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.44/EnginePro_Setup_4.50.44.exe.gz",
+    "SHA256":  "6506171E15D7B85607A87917E8F419C25684C938FF1C80483EBCDCB4992EFEE5",
+    "Data":  "2026-11-09 21:25",
+    "Notas":  "Grade: remove diagnosticos, rolagem horizontal, pulso 15s e atualizacao da grade a cada 4s (movimento ao vivo).",
+    "Assinatura":  "GZgm8HNNQRE8TNCAnlfjF0chICqdXKap5k93IjeXWJm3tLEUAo85FOLAX/r1aLH8Ozgaf/zsX9VRlabkMUf6MOSrY9CUa/FTrSic2j5ltfulInTEpvTIkH3mArFQVLXLjK93AS+WqFamRZ1R+ZkitHlftdfV5M1DUBGjK+osPHmbqLHXMd2M+c4NXPEsVzMV+wxiURr34vWMTiDgc34d+gr8BQuY48seBjqyXlFWz7CTdOWERik6oNCuy15Fu35HcNBacP5Dc6Kqt/DGRRpaWkt9u1qk+kHqoogcLaKlu8fm/li/TAyzOK6QqPckYqerBl1of9wOVOI3QBVoxH5NBZzjxlckkI0Kfaz/Q3u3RBxLtCyVdywcA6TR+RJ3QJ2F+OQFZoghFflZvsB051Y36oeiCl1bAPJXh4Ec4yaezQLdh5fwbziDbT0PJjOFEgpAgJWUplYKq6Y1UeNdGsvMwF5KuvKnU++M5t6pSVLfNzKXMdIVL6SurpE+t+H+MWLV"
 }

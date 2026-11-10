@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.44 | Grade: remove diagnosticos, rolagem horizontal, pulso 15s... | 09/11/2026
+
+- **Melhoria**: Grade: remove diagnosticos, rolagem horizontal, pulso 15s e atualizacao da grade a cada 4s (movimento ao vivo).
+
 ## Versão 4.50.43 | Corrige largura da grade (soma manual, exigida pelo PS 5.... | 09/11/2026
 
 - **Correção**: Corrige largura da grade (soma manual, exigida pelo PS 5.1) e captura erro de linha.
