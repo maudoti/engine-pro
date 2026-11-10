@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1214,
-    "Pesquisas":  10909,
-    "N48":  5004,
+    "Conhecimentos":  1215,
+    "Pesquisas":  10928,
+    "N48":  5023,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 13:19",
-                         "Texto":  "Nova versão 4.50.50 publicada: Agente liga o WinRM sozinho (grade em tempo real).",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 13:36:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Erro 0x00000bc4: nenhuma impressora encontrada",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 13:16:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000012 (TRAP_CAUSE_UNKNOWN) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-10 13:36:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 13:08:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 13:19",
+                         "Texto":  "Nova versão 4.50.50 publicada: Agente liga o WinRM sozinho (grade em tempo real).",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1636 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1655 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 13:16:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000012 (TRAP_CAUSE_UNKNOWN) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 12:48:28",
@@ -37,11 +42,6 @@
                      {
                          "Data":  "2026-11-10 12:12:56",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revit, Revit fecha sozinho",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-10 11:52:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, \"O computador está com pouca memória\"",
                          "Nivel":  "ok"
                      }
                  ],
@@ -56,46 +56,46 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161,
-                  249,
-                  229,
-                  228,
-                  158,
-                  153,
-                  174,
-                  119,
+                  114,
+                  177,
+                  269,
+                  188,
+                  241,
+                  156,
+                  149,
+                  179,
+                  96,
                   27,
-                  27,
+                  18,
                   45,
                   51,
                   28,
-                  35
+                  54
               ],
-    "Ultima":  "2026-11-10 13:08:50",
-    "Gerado":  "2026-11-10 13:27:04",
-    "Data":  "2026-11-10 13:27"
+    "Ultima":  "2026-11-10 13:36:35",
+    "Gerado":  "2026-11-10 13:37:04",
+    "Data":  "2026-11-10 13:37"
 }
