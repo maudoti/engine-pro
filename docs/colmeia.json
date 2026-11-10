@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1201,
-    "Pesquisas":  10092,
-    "N48":  4750,
+    "Pesquisas":  10125,
+    "N48":  4783,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 03:24:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-10 03:32:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 153 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 03:24:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Erro de instalação ou atualização do Office (código 30xxx)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-10 03:32:26",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,23 +21,23 @@
                      },
                      {
                          "Data":  "2026-11-10 03:24:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 819 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 852 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 03:23:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 120 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 03:24:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Erro de instalação ou atualização do Office (código 30xxx)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 03:23:13",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 03:24:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 02:59:57",
@@ -51,10 +51,10 @@
                      }
                  ],
     "Horas":  [
-                  83,
-                  70,
-                  99,
-                  60,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -71,36 +71,36 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161,
-                  249,
-                  229,
-                  228
+                  114,
+                  177,
+                  269,
+                  188,
+                  241
               ],
-    "Ultima":  "2026-11-10 03:23:13",
-    "Gerado":  "2026-11-10 03:27:03",
-    "Data":  "2026-11-10 03:27"
+    "Ultima":  "2026-11-10 03:32:38",
+    "Gerado":  "2026-11-10 03:37:03",
+    "Data":  "2026-11-10 03:37"
 }
