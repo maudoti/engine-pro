@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1196,
-    "Pesquisas":  10057,
+    "Conhecimentos":  1201,
+    "Pesquisas":  10092,
     "N48":  4750,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 03:14:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Arquivos do Windows danificados",
+                         "Data":  "2026-11-10 03:24:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 03:14:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Data":  "2026-11-10 03:24:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Erro de instalação ou atualização do Office (código 30xxx)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 03:14:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
+                         "Data":  "2026-11-10 03:24:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 784 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 819 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 03:12:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 85 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 03:23:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 120 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 03:12:27",
+                         "Data":  "2026-11-10 03:23:13",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -51,15 +51,15 @@
                      }
                  ],
     "Horas":  [
-                  98,
-                  90,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -71,36 +71,36 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286,
-                  330,
-                  220,
-                  81,
-                  113,
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287,
+                  334,
+                  197,
+                  84,
+                  82,
                   75,
                   87,
                   84,
-                  36,
-                  75,
-                  48,
+                  55,
+                  76,
+                  28,
                   61,
-                  52,
-                  78,
+                  80,
+                  50,
                   71,
-                  68,
-                  54,
-                  103,
-                  100,
-                  108,
-                  267,
-                  233,
-                  224
+                  80,
+                  77,
+                  79,
+                  89,
+                  161,
+                  249,
+                  229,
+                  228
               ],
-    "Ultima":  "2026-11-10 03:12:27",
-    "Gerado":  "2026-11-10 03:17:03",
-    "Data":  "2026-11-10 03:17"
+    "Ultima":  "2026-11-10 03:23:13",
+    "Gerado":  "2026-11-10 03:27:03",
+    "Data":  "2026-11-10 03:27"
 }
