@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1190,
-    "Pesquisas":  10011,
-    "N48":  4704,
+    "Conhecimentos":  1196,
+    "Pesquisas":  10057,
+    "N48":  4750,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 03:06:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 39 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 03:14:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Arquivos do Windows danificados",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 03:06:49",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 03:14:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 03:03:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
+                         "Data":  "2026-11-10 03:14:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 738 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 784 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 03:03:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-10 03:12:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 85 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 03:03:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-10 03:12:27",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 02:59:57",
@@ -52,9 +52,9 @@
                  ],
     "Horas":  [
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  99,
+                  60,
                   30,
                   33,
                   40,
@@ -72,35 +72,35 @@
                   40,
                   25,
                   25,
-                  89,
-                  271,
-                  251,
-                  228,
-                  301,
-                  335,
-                  264,
+                  131,
+                  262,
+                  252,
+                  258,
+                  286,
+                  330,
+                  220,
                   81,
-                  65,
-                  92,
-                  118,
-                  54,
-                  66,
+                  113,
                   75,
-                  44,
-                  50,
-                  67,
-                  60,
-                  65,
-                  76,
-                  70,
+                  87,
+                  84,
+                  36,
+                  75,
+                  48,
+                  61,
+                  52,
+                  78,
+                  71,
+                  68,
+                  54,
                   103,
-                  72,
-                  76,
-                  289,
-                  239,
-                  210
+                  100,
+                  108,
+                  267,
+                  233,
+                  224
               ],
-    "Ultima":  "2026-11-10 03:06:52",
-    "Gerado":  "2026-11-10 03:07:03",
-    "Data":  "2026-11-10 03:07"
+    "Ultima":  "2026-11-10 03:12:27",
+    "Gerado":  "2026-11-10 03:17:03",
+    "Data":  "2026-11-10 03:17"
 }
