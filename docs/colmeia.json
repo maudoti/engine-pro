@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1122,
+    "Conhecimentos":  1126,
     "Pesquisas":  9250,
     "N48":  4215,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 23:34:42",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 23:42:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024002E (WU_E_WU_DISABLED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 23:34:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 84 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 23:42:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024A105 (WU_E_AU_NO_REGISTERED_SERVICE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 23:21:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
+                         "Data":  "2026-11-09 23:42:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024402C (WU_E_PT_WINHTTP_NAME_NOT_RESOLVED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +30,14 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 23:21:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 23:34:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 84 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 23:21:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 23:34:42",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 22:50:10",
@@ -53,10 +53,10 @@
     "Horas":  [
                   29,
                   41,
-                  153,
-                  84,
-                  86,
-                  102,
+                  181,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -65,9 +65,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -75,32 +75,32 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148,
-                  84,
-                  82,
-                  95,
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131,
+                  96,
+                  92,
                   91,
-                  77,
-                  38,
-                  76,
-                  45,
-                  75,
-                  55,
+                  51,
+                  78,
+                  63,
+                  65,
+                  30,
+                  78,
+                  52,
                   68,
                   76,
-                  51,
-                  77,
-                  79,
-                  114
+                  73,
+                  87,
+                  56,
+                  105
               ],
     "Ultima":  "2026-11-09 23:34:42",
-    "Gerado":  "2026-11-09 23:37:03",
-    "Data":  "2026-11-09 23:37"
+    "Gerado":  "2026-11-09 23:47:03",
+    "Data":  "2026-11-09 23:47"
 }
