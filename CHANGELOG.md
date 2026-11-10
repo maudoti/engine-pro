@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.58 | Correções e melhorias internas | 10/11/2026
+
+- **Melhoria**: Correções e melhorias internas.
+
 ## Versão 4.50.57 | Fila de impressao travada agora e limpa automaticamente | 10/11/2026
 
 - **Melhoria**: Fila de impressao travada agora e limpa automaticamente.
