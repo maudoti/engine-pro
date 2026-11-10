@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.53",
+        "Data":  "2026-11-10 15:06",
+        "Titulo":  "Mostra o status real do limite do GitHub junto do erro 40...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Mostra o status real do limite do GitHub junto do erro 403 (diagnostico)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.52",
         "Data":  "2026-11-10 15:02",
         "Titulo":  "Tempo real mais instantaneo (~1s) pelo canal reverso",

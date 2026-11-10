@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.53 | Mostra o status real do limite do GitHub junto do erro 40... | 10/11/2026
+
+- **Correção**: Mostra o status real do limite do GitHub junto do erro 403 (diagnostico).
+
 ## Versão 4.50.52 | Tempo real mais instantaneo (~1s) pelo canal reverso | 10/11/2026
 
 - **Melhoria**: Tempo real mais instantaneo (~1s) pelo canal reverso.

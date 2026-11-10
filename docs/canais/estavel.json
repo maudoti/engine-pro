@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.52",
-    "Instalador":  "EnginePro_Setup_4.50.52.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.52/EnginePro_Setup_4.50.52.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.52/EnginePro_Setup_4.50.52.exe.gz",
-    "SHA256":  "4F5ED15F40B5FD49CFD1D4055DFFB486284B68AC740B8F4F60BB831C0E8C4425",
-    "Data":  "2026-11-10 15:02",
-    "Notas":  "Tempo real mais instantaneo (~1s) pelo canal reverso; disco/temp em cache.",
-    "Assinatura":  "i36v+73cYTQAor5w6ahGwKT7wgWctTFiJ91daPrbwunWq1mbrzVAezfF0p2M/K9uL7CKPl8Al7Kmwx8FhBymBPM/8cdctWvGGwxDKgGrkbLm5TbWrBYvZR1RaTwVJWngVbYglsU/tLO9ebC8FA4FcWLXOqrx5/UP7rDVfBg/vyGYJ4bCiJwG/498+dopC+wPkZ1aCXdbRWsIwcj7UeMjeEOJ1+miHBSiBo9++KnNRqoXdwjLKUKkFlYyKfaoENyZUnXcaE5l1MUWQkt3QhrSPvUZRri9jawZ0EUe5r3BPkfUdhp9jp30jh2yOtFVoViV0bllIo/sIcILdg5mk800zJcUmT1HZw0FBxuwX4A39k3dsiV5jcqOHk73T7dGxmUSS2FrGxB2+wILW1pV7pwBg/mp2u07WMkeLvb6425hT3RuX43y6lfIShFw/KnZ0WI7k2fuhHKJz03qqMXrqD0s9pLsySJHG4gkYSxCTrZtUxyR646lnAN7XQ9iLqI3PEdp"
+    "Versao":  "4.50.53",
+    "Instalador":  "EnginePro_Setup_4.50.53.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.53/EnginePro_Setup_4.50.53.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.53/EnginePro_Setup_4.50.53.exe.gz",
+    "SHA256":  "D934B5ADE23D268D4D97D1BC2F5268FF3FA54EDC1CEE6D1A503BFFCFA836A43C",
+    "Data":  "2026-11-10 15:06",
+    "Notas":  "Mostra o status real do limite do GitHub junto do erro 403 (diagnostico).",
+    "Assinatura":  "KT3cPtoU7cdbsFzJQ+uHY+DJLk7NB7uQsyHqPtmkeZNXW4lHstmwbtGkuyo2yYBdvn7TwwKrMIvbkSlUKO5Xof0nn+O2gBGXs7yYgJGcUtfkfc1bvFlnQt5V4nWwUVuOnrEZ8VkHnDJQD71fajADpmsaXTlci1CuCos2Pu1xnRZJ7QD0zlyIhUqRPl9wuFxgDyqCkKvAZT+kc8IlD2vamPHKjXYpLHzXXWA9dXz+R82ky69uS8IqEk/XjHBnQAM2qGkI0uyfW66Cmk6ZBoFVYTw2G8szdgcH9hz7zJrreCFAXRHeCGGZPb0UyW5LaRwAF2agKnN4H6ED+82VybcFCBSKNzQXZFTezsWBd5rne5rZy0r0Fp3Cq2HsH55VhcA7PAvpudLKRJ00kFrNBioekNwlGlnf0YNCqDt5qz0E/D1woBO8izEkqm+z3Awn0H+Gd2PlSWl4nQc057pPTTPcKZtnr52BipRql4xUjQRgjZQsshzzRm9JFP2aPaqWWZkU"
 }
