@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.45 | Grade: rolagem horizontal, ordenacao por titulo (coluna c... | 09/11/2026
+
+- **Melhoria**: Grade: rolagem horizontal, ordenacao por titulo (coluna clicavel) e relogio ao vivo que confirma a atualizacao.
+
 ## Versão 4.50.44 | Grade: remove diagnosticos, rolagem horizontal, pulso 15s... | 09/11/2026
 
 - **Melhoria**: Grade: remove diagnosticos, rolagem horizontal, pulso 15s e atualizacao da grade a cada 4s (movimento ao vivo).

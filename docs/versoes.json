@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.45",
+        "Data":  "2026-11-09 21:37",
+        "Notas":  "Grade: rolagem horizontal, ordenacao por titulo (coluna clicavel) e relogio ao vivo que confirma a atualizacao.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.45/EnginePro_Setup_4.50.45.exe"
+    },
+    {
         "Versao":  "4.50.44",
         "Data":  "2026-11-09 21:25",
         "Notas":  "Grade: remove diagnosticos, rolagem horizontal, pulso 15s e atualizacao da grade a cada 4s (movimento ao vivo).",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.45",
+        "Data":  "2026-11-09 21:37",
+        "Titulo":  "Grade: rolagem horizontal, ordenacao por titulo (coluna c...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Grade: rolagem horizontal, ordenacao por titulo (coluna clicavel) e relogio ao vivo que confirma a atualizacao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.44",
         "Data":  "2026-11-09 21:25",
         "Titulo":  "Grade: remove diagnosticos, rolagem horizontal, pulso 15s...",
