@@ -1,13 +1,23 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1218,
-    "Pesquisas":  10961,
-    "N48":  4989,
+    "Pesquisas":  10992,
+    "N48":  5020,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 15:06",
-                         "Texto":  "Nova versão 4.50.53 publicada: Mostra o status real do limite do GitHub junto do erro 403 (diagnostico).",
+                         "Data":  "2026-11-10 15:10:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 15:10",
+                         "Texto":  "Nova versão 4.50.54 publicada: Corte mais fundo das consultas ao GitHub (pedidos/comandos 5 min, pulso 5 min) para caber no teto.",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 14:51:23",
@@ -16,17 +26,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 1719 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 14:48:01",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1688 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -38,11 +43,6 @@
                          "Data":  "2026-11-10 14:08:22",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Erro 1272: acesso de convidado bloqueado",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-10 13:36:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
@@ -55,22 +55,22 @@
                   40,
                   25,
                   25,
-                  89,
-                  271,
-                  251,
-                  228,
-                  301,
-                  335,
-                  264,
+                  125,
+                  235,
+                  252,
+                  261,
+                  267,
+                  372,
+                  227,
                   81,
-                  65,
-                  92,
+                  90,
+                  67,
                   118,
                   54,
                   66,
                   75,
-                  44,
-                  50,
+                  48,
+                  46,
                   67,
                   60,
                   65,
@@ -78,24 +78,24 @@
                   70,
                   103,
                   72,
-                  76,
-                  289,
-                  239,
-                  210,
-                  187,
-                  154,
-                  161,
-                  159,
+                  108,
+                  266,
+                  233,
+                  238,
+                  156,
+                  176,
+                  173,
+                  125,
                   42,
                   27,
                   45,
                   42,
                   36,
-                  34,
-                  42,
-                  21
+                  45,
+                  31,
+                  52
               ],
-    "Ultima":  "2026-11-10 14:48:01",
-    "Gerado":  "2026-11-10 15:07:03",
-    "Data":  "2026-11-10 15:07"
+    "Ultima":  "2026-11-10 15:10:31",
+    "Gerado":  "2026-11-10 15:10:35",
+    "Data":  "2026-11-10 15:10"
 }

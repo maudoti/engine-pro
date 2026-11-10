@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.53",
-    "Instalador":  "EnginePro_Setup_4.50.53.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.53/EnginePro_Setup_4.50.53.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.53/EnginePro_Setup_4.50.53.exe.gz",
-    "SHA256":  "D934B5ADE23D268D4D97D1BC2F5268FF3FA54EDC1CEE6D1A503BFFCFA836A43C",
-    "Data":  "2026-11-10 15:06",
-    "Notas":  "Mostra o status real do limite do GitHub junto do erro 403 (diagnostico).",
-    "Assinatura":  "KT3cPtoU7cdbsFzJQ+uHY+DJLk7NB7uQsyHqPtmkeZNXW4lHstmwbtGkuyo2yYBdvn7TwwKrMIvbkSlUKO5Xof0nn+O2gBGXs7yYgJGcUtfkfc1bvFlnQt5V4nWwUVuOnrEZ8VkHnDJQD71fajADpmsaXTlci1CuCos2Pu1xnRZJ7QD0zlyIhUqRPl9wuFxgDyqCkKvAZT+kc8IlD2vamPHKjXYpLHzXXWA9dXz+R82ky69uS8IqEk/XjHBnQAM2qGkI0uyfW66Cmk6ZBoFVYTw2G8szdgcH9hz7zJrreCFAXRHeCGGZPb0UyW5LaRwAF2agKnN4H6ED+82VybcFCBSKNzQXZFTezsWBd5rne5rZy0r0Fp3Cq2HsH55VhcA7PAvpudLKRJ00kFrNBioekNwlGlnf0YNCqDt5qz0E/D1woBO8izEkqm+z3Awn0H+Gd2PlSWl4nQc057pPTTPcKZtnr52BipRql4xUjQRgjZQsshzzRm9JFP2aPaqWWZkU"
+    "Versao":  "4.50.54",
+    "Instalador":  "EnginePro_Setup_4.50.54.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.54/EnginePro_Setup_4.50.54.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.54/EnginePro_Setup_4.50.54.exe.gz",
+    "SHA256":  "9E48F6BCCF4377F5B1AA22743D02E4E8EDA7AA778BFAD1F65F6F3CA0CC18FDE0",
+    "Data":  "2026-11-10 15:10",
+    "Notas":  "Corte mais fundo das consultas ao GitHub (pedidos/comandos 5 min, pulso 5 min) para caber no teto.",
+    "Assinatura":  "X0W0LlR10S2cwZ3R/FomYoYVxShQzuB9PJtULSNHGGWbW2W26haB1Snj4eUccIRPfC/bLQTqtm4vr7klvwLyRO/uv0r7/RCXE3c+pBHRpf1b1bUecw8Q2zrHfBv5GbesZyV3kqFTm1tdORSY1Sg1hmVfVqPel4Pqd6nzqcqL7RcB7U56+1O25bGGlhlod76C4zvwrQtfyAxg//LgSRQdjbR1hJ1NPws4wGWWuIGl8qXaXIxl6BZX49222RgACZDCqP9nkmsFYDFxPDAJgstoDsikxVwrPovXYc+X+Vb4ouzVd31bWRw3z8wnVAk42QLNrOqWvnVrFYwfQJ4qYxxcDg8ypInraAjRihUgtP2v3A14aWpEAhSF3b4VOTdUn96KRFhLy046aK14IhMUqR8MT6d6Xqm0CjM8ZVAqGIgs9dW3/9YjIPtoPwzdW8AZC4aeotbombenBwCAjSOsey/IUPWb5/G6okKoMRtysKBlzs94KnNllor5WqFyMh8v/DVc"
 }

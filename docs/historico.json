@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.54",
+        "Data":  "2026-11-10 15:10",
+        "Titulo":  "Corte mais fundo das consultas ao GitHub (pedidos/comando...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Corte mais fundo das consultas ao GitHub (pedidos/comandos 5 min, pulso 5 min) para caber no teto."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.53",
         "Data":  "2026-11-10 15:06",
         "Titulo":  "Mostra o status real do limite do GitHub junto do erro 40...",

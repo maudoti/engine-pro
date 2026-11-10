@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.54 | Corte mais fundo das consultas ao GitHub (pedidos/comando... | 10/11/2026
+
+- **Melhoria**: Corte mais fundo das consultas ao GitHub (pedidos/comandos 5 min, pulso 5 min) para caber no teto.
+
 ## Versão 4.50.53 | Mostra o status real do limite do GitHub junto do erro 40... | 10/11/2026
 
 - **Correção**: Mostra o status real do limite do GitHub junto do erro 403 (diagnostico).
