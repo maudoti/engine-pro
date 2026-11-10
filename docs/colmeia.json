@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1137,
-    "Pesquisas":  9562,
-    "N48":  4498,
+    "Conhecimentos":  1141,
+    "Pesquisas":  9600,
+    "N48":  4530,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 01:03:29",
+                         "Data":  "2026-11-10 01:13:29",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 01:03:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 01:13:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 79 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 00:59:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 248 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 01:07:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 289 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 327 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 00:56:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x803F7001 (ACTIVATION_NO_LICENSE) no Windows",
+                         "Data":  "2026-11-10 01:07:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000011B (PRINT_RPC_PRIVACY) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 00:56:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
+                         "Data":  "2026-11-10 01:07:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 00:56:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007054F (ERROR_INTERNAL_ERROR) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-10 00:59:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 248 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 22:32",
@@ -51,12 +51,12 @@
                      }
                  ],
     "Horas":  [
-                  114,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
-                  98,
+                  90,
+                  99,
+                  60,
                   30,
                   33,
                   40,
@@ -74,33 +74,33 @@
                   40,
                   25,
                   25,
-                  89,
-                  271,
-                  251,
-                  228,
-                  301,
-                  335,
-                  264,
+                  131,
+                  262,
+                  252,
+                  258,
+                  286,
+                  330,
+                  220,
                   81,
-                  65,
-                  92,
-                  118,
-                  54,
-                  66,
+                  113,
                   75,
-                  44,
-                  50,
-                  67,
-                  60,
-                  65,
-                  76,
-                  70,
+                  87,
+                  84,
+                  36,
+                  75,
+                  48,
+                  61,
+                  52,
+                  78,
+                  71,
+                  68,
+                  54,
                   103,
-                  72,
-                  76,
-                  289
+                  100,
+                  108,
+                  267
               ],
-    "Ultima":  "2026-11-10 01:03:29",
-    "Gerado":  "2026-11-10 01:07:03",
-    "Data":  "2026-11-10 01:07"
+    "Ultima":  "2026-11-10 01:13:29",
+    "Gerado":  "2026-11-10 01:17:03",
+    "Data":  "2026-11-10 01:17"
 }
