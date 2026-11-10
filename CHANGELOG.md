@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.55 | Corrige trava de temporizacao do canal reverso: estacoes ... | 10/11/2026
+
+- **Correção**: Corrige trava de temporizacao do canal reverso: estacoes discam continuamente enquanto o TI observa.
+
 ## Versão 4.50.54 | Corte mais fundo das consultas ao GitHub (pedidos/comando... | 10/11/2026
 
 - **Melhoria**: Corte mais fundo das consultas ao GitHub (pedidos/comandos 5 min, pulso 5 min) para caber no teto.

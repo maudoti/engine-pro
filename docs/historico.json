@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.55",
+        "Data":  "2026-11-10 15:19",
+        "Titulo":  "Corrige trava de temporizacao do canal reverso: estacoes ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige trava de temporizacao do canal reverso: estacoes discam continuamente enquanto o TI observa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.54",
         "Data":  "2026-11-10 15:10",
         "Titulo":  "Corte mais fundo das consultas ao GitHub (pedidos/comando...",

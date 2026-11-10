@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.55",
+        "Data":  "2026-11-10 15:19",
+        "Notas":  "Corrige trava de temporizacao do canal reverso: estacoes discam continuamente enquanto o TI observa.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.55/EnginePro_Setup_4.50.55.exe"
+    },
+    {
         "Versao":  "4.50.54",
         "Data":  "2026-11-10 15:10",
         "Notas":  "Corte mais fundo das consultas ao GitHub (pedidos/comandos 5 min, pulso 5 min) para caber no teto.",

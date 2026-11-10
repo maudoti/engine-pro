@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.54",
-    "Instalador":  "EnginePro_Setup_4.50.54.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.54/EnginePro_Setup_4.50.54.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.54/EnginePro_Setup_4.50.54.exe.gz",
-    "SHA256":  "9E48F6BCCF4377F5B1AA22743D02E4E8EDA7AA778BFAD1F65F6F3CA0CC18FDE0",
-    "Data":  "2026-11-10 15:10",
-    "Notas":  "Corte mais fundo das consultas ao GitHub (pedidos/comandos 5 min, pulso 5 min) para caber no teto.",
-    "Assinatura":  "X0W0LlR10S2cwZ3R/FomYoYVxShQzuB9PJtULSNHGGWbW2W26haB1Snj4eUccIRPfC/bLQTqtm4vr7klvwLyRO/uv0r7/RCXE3c+pBHRpf1b1bUecw8Q2zrHfBv5GbesZyV3kqFTm1tdORSY1Sg1hmVfVqPel4Pqd6nzqcqL7RcB7U56+1O25bGGlhlod76C4zvwrQtfyAxg//LgSRQdjbR1hJ1NPws4wGWWuIGl8qXaXIxl6BZX49222RgACZDCqP9nkmsFYDFxPDAJgstoDsikxVwrPovXYc+X+Vb4ouzVd31bWRw3z8wnVAk42QLNrOqWvnVrFYwfQJ4qYxxcDg8ypInraAjRihUgtP2v3A14aWpEAhSF3b4VOTdUn96KRFhLy046aK14IhMUqR8MT6d6Xqm0CjM8ZVAqGIgs9dW3/9YjIPtoPwzdW8AZC4aeotbombenBwCAjSOsey/IUPWb5/G6okKoMRtysKBlzs94KnNllor5WqFyMh8v/DVc"
+    "Versao":  "4.50.55",
+    "Instalador":  "EnginePro_Setup_4.50.55.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.55/EnginePro_Setup_4.50.55.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.55/EnginePro_Setup_4.50.55.exe.gz",
+    "SHA256":  "E67F264BA9DFAFECC2EDE32BC5364C556F86B5449B110901F052D75AFB4308E3",
+    "Data":  "2026-11-10 15:19",
+    "Notas":  "Corrige trava de temporizacao do canal reverso: estacoes discam continuamente enquanto o TI observa.",
+    "Assinatura":  "a4Hz2ATNkDdkMzQN+q8uQXn669x06xiIQ1Oqxp4QTY+IixYvmexXMxtI47aGzv7qFgazh3xvxDfAcmnaYLTmjyg2xdmG4KwDy5N44QMq8PL3FwO++J+5kbLvvmHsb5oimzbGMIrxagSl88ENKIu0m7w1shv0mxUuos6jhtGddBy6FAF2oxT0jPKeyo6CyfPVQ8bmQMtl6/1KrmVDHRw/9/jCA/o4vjDFk47xTeYLpLp0+azP46411hLfmctp6fP0YTzQNAXc6xPwV/eSRCzpZJKNz2Ip/AF3caa8yapIhglgad4qFOh3zGI+AsvI3OMP9bpOpS+ia0iK+4HcpCLdrN+/qA1mgMwYA/ihwEyQiJHXjwH6AE3KZTnnDxeA7i2Kq097BzQC4nyJxH3J9MCez46DrcqCtPD/zWDkpwMHb1JOY8suQxkKqM0DHfgGQsndSILSoVu1qYiZG5jULSvmyDZtlsmNycy7CoEiVSqcN0BiSAhymCabFkh6wPxDj5aR"
 }
