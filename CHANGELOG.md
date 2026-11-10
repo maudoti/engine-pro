@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.46 | Grade: timer global ao vivo, caixa de altura fixa com bar... | 09/11/2026
+
+- **Melhoria**: Grade: timer global ao vivo, caixa de altura fixa com barra horizontal sempre visivel, alvo de clique do titulo maior.
+
 ## Versão 4.50.45 | Grade: rolagem horizontal, ordenacao por titulo (coluna c... | 09/11/2026
 
 - **Melhoria**: Grade: rolagem horizontal, ordenacao por titulo (coluna clicavel) e relogio ao vivo que confirma a atualizacao.

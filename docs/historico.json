@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.46",
+        "Data":  "2026-11-09 21:46",
+        "Titulo":  "Grade: timer global ao vivo, caixa de altura fixa com bar...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Grade: timer global ao vivo, caixa de altura fixa com barra horizontal sempre visivel, alvo de clique do titulo maior."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.45",
         "Data":  "2026-11-09 21:37",
         "Titulo":  "Grade: rolagem horizontal, ordenacao por titulo (coluna c...",
