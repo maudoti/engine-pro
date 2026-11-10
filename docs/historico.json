@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.57",
+        "Data":  "2026-11-10 16:04",
+        "Titulo":  "Fila de impressao travada agora e limpa automaticamente",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Fila de impressao travada agora e limpa automaticamente."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA deixa de alertar Localizar e Substituir do Excel."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.56",
         "Data":  "2026-11-10 15:58",
         "Titulo":  "Fila de impressao travada agora e limpa automaticamente",

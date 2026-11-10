@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.56",
-    "Instalador":  "EnginePro_Setup_4.50.56.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.56/EnginePro_Setup_4.50.56.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.56/EnginePro_Setup_4.50.56.exe.gz",
-    "SHA256":  "83FE4B250A12EC63218B5D5EE88D0A4FDFC289DCB21C406E042C2D5A796BC20B",
-    "Data":  "2026-11-10 15:58",
+    "Versao":  "4.50.57",
+    "Instalador":  "EnginePro_Setup_4.50.57.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.57/EnginePro_Setup_4.50.57.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.57/EnginePro_Setup_4.50.57.exe.gz",
+    "SHA256":  "B52CAE76E83B4B4E7CD687252B29BDF26E6E6768019FE530CFBA53A74B571EF0",
+    "Data":  "2026-11-10 16:04",
     "Notas":  "Fila de impressao travada agora e limpa automaticamente; IA deixa de alertar Localizar e Substituir do Excel",
-    "Assinatura":  "TYo5De/6iQF3NxAhxOWWIKaGnSdbfCEU6KuUtnR64I4scGIR9y8oooQcTpcxwCGWjxWplU9OlgVi6mylPZPllHnCNwNhhCLJtRHFYViTnfleQVLxq/mLv9gOUrqG1xPSOiQQ+MQeD10LQD0N6W4ZxU97hfQHsAJzCOu6C5DQhl5lqHSmqp2RrypRvBa0Rn1Vnx5RDNsfKI3N4Wj+Q2gHw5v/+bhrMB6dlymaZMdfNCMI+H1ZmZ+i6wVDNlNtGE9pwfhz/eRjRhVoK1natPA8zxRev4riqrVBmT7EMBt/EANv3H0vB7RFh/GEsnR8j6+TiObamjBN4PtKMJQj36x0W2jPY1CJVHBlxTxVWmFwBp8vgINN3kVnIXh/4tBRsO534GX6kL63Xwzt79bORuZbgb/9Zut6OL6qFm6TvfRD5mB/+YSeQ5w9HycCbuwIZ38wNmuZ6EPJzvgxUwSqJFzthyADlNRTgUIwZg7SNJJ3ZOHCb0M075+GdNVAg06g6ZPh"
+    "Assinatura":  "JAy8TdislAq39JvPWUKH7ufogU4EBF0W6n7o499JUodMzSTut8lLIq/eCCnsiK+sJwxCynKilAtYIdHEK4O4cPUEFbEVfEt8LrmWYkCJyX7MjFihaJ0QwUvngRVdySUlFJQ4IlUrZ0BDMxImFakjLuI0pru7jTzdAnu91cvbvARVb+Q7As4qIOA6ik6qkJBy99yeCrGswyNXSGiw4tvP2FTZdTGLF4UrtmDW8Vrh5yPx3v7vsb7Fu0uOJDXawL6RTZsfhNbWWdm2MPBEXQlGGp4btKVJ6w3MbuxDaLPTnPwBTVklvFNn2RAExsry9quo2ot691/ZjddFz1811H9jdliO+exQ8He13onJQDBqZBqz7KufkWCe3/dYUcCjdRtftKsYBkbu70WOiOisJSxzfm4XU46BzUo0kZx8jTW8Sh/k/LTNJ8ev1IkVehO1fVucRrKV+Yb3V4XQfJMSTN3/jWCALNOcxHaZBWhaKuXCr/g/AxsUhL1SlwaYuykylYUg"
 }
