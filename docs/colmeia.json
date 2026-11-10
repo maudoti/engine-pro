@@ -1,13 +1,23 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1202,
+    "Conhecimentos":  1203,
     "Pesquisas":  10714,
     "N48":  5030,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-10 07:58:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo com check-out ou bloqueado para edição",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-10 07:54:35",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 42 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 07:37:05",
@@ -16,23 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 1441 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 06:52:32",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 159 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1441 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-10 03:24:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 03:24:25",
@@ -46,56 +46,56 @@
                      }
                  ],
     "Horas":  [
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  14,
-                  31,
-                  75,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   229,
-                  291,
-                  298,
-                  310,
-                  92,
-                  96,
-                  92,
-                  91,
+                  300,
+                  336,
+                  263,
                   81,
-                  48,
-                  63,
-                  65,
-                  59,
-                  58,
-                  69,
-                  65,
-                  72,
+                  66,
+                  91,
+                  118,
                   54,
-                  87,
-                  77,
-                  84,
-                  267,
-                  249,
+                  66,
+                  75,
+                  45,
+                  49,
+                  67,
+                  60,
+                  65,
+                  76,
+                  70,
+                  103,
+                  72,
+                  76,
+                  289,
+                  239,
+                  210,
                   187,
-                  219,
-                  168,
-                  145,
-                  187,
+                  155,
+                  160,
+                  159,
                   42
               ],
     "Ultima":  "2026-11-10 07:54:35",
-    "Gerado":  "2026-11-10 07:57:04",
-    "Data":  "2026-11-10 07:57"
+    "Gerado":  "2026-11-10 08:07:04",
+    "Data":  "2026-11-10 08:07"
 }
