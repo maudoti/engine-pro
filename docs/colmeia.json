@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1180,
-    "Pesquisas":  9884,
-    "N48":  4626,
+    "Conhecimentos":  1182,
+    "Pesquisas":  9919,
+    "N48":  4633,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 02:32:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
+                         "Data":  "2026-11-10 02:42:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Servidor ou NAS antigo exige SMB1",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 02:32:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
+                         "Data":  "2026-11-10 02:42:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, \"A letra da unidade já está em uso\" (erro 85)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 02:28:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 118 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 02:40:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 153 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 611 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 646 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 02:28:59",
+                         "Data":  "2026-11-10 02:40:35",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 02:21:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Teams pesado",
+                         "Data":  "2026-11-10 02:32:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,9 +51,9 @@
                      }
                  ],
     "Horas":  [
-                  84,
-                  86,
-                  102,
+                  83,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -62,9 +62,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -72,35 +72,35 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148,
-                  84,
-                  82,
-                  95,
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131,
+                  96,
+                  92,
                   91,
-                  77,
-                  38,
-                  76,
-                  45,
-                  75,
-                  55,
+                  51,
+                  78,
+                  63,
+                  65,
+                  30,
+                  78,
+                  52,
                   68,
                   76,
-                  51,
-                  77,
-                  79,
-                  114,
-                  177,
-                  269,
+                  73,
+                  87,
+                  56,
+                  105,
+                  224,
+                  257,
                   188
               ],
-    "Ultima":  "2026-11-10 02:28:59",
-    "Gerado":  "2026-11-10 02:37:03",
-    "Data":  "2026-11-10 02:37"
+    "Ultima":  "2026-11-10 02:40:35",
+    "Gerado":  "2026-11-10 02:47:03",
+    "Data":  "2026-11-10 02:47"
 }
