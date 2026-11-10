@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1148,
-    "Pesquisas":  9696,
-    "N48":  4591,
+    "Conhecimentos":  1154,
+    "Pesquisas":  9731,
+    "N48":  4626,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 01:36:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 175 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 01:46:34",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 01:36:08",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-10 01:46:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 210 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 01:28:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
+                         "Data":  "2026-11-10 01:39:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Reinstalação limpa do OneDrive",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 423 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 458 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 01:28:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos só na nuvem (sob demanda) não abrem sem internet",
+                         "Data":  "2026-11-10 01:39:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, \"Não foi possível redefinir o OneDrive\"",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 01:17:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
+                         "Data":  "2026-11-10 01:39:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive com a conta errada",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,10 +51,10 @@
                      }
                  ],
     "Horas":  [
-                  154,
+                  181,
                   83,
-                  86,
-                  102,
+                  72,
+                  89,
                   98,
                   26,
                   30,
@@ -63,9 +63,9 @@
                   86,
                   30,
                   32,
-                  30,
-                  37,
-                  42,
+                  32,
+                  39,
+                  38,
                   34,
                   42,
                   39,
@@ -73,34 +73,34 @@
                   43,
                   40,
                   25,
-                  65,
-                  180,
-                  265,
-                  232,
-                  276,
-                  287,
-                  339,
-                  148,
-                  84,
-                  82,
-                  95,
+                  78,
+                  211,
+                  255,
+                  242,
+                  280,
+                  283,
+                  334,
+                  131,
+                  96,
+                  92,
                   91,
-                  77,
-                  38,
-                  76,
-                  45,
-                  75,
-                  55,
+                  51,
+                  78,
+                  63,
+                  65,
+                  30,
+                  78,
+                  52,
                   68,
                   76,
-                  51,
-                  77,
-                  79,
-                  114,
-                  177,
-                  269
+                  73,
+                  87,
+                  56,
+                  105,
+                  224,
+                  257
               ],
-    "Ultima":  "2026-11-10 01:36:25",
-    "Gerado":  "2026-11-10 01:37:04",
-    "Data":  "2026-11-10 01:37"
+    "Ultima":  "2026-11-10 01:46:34",
+    "Gerado":  "2026-11-10 01:47:03",
+    "Data":  "2026-11-10 01:47"
 }
