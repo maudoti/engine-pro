@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.49 | Grade LAN: checa WinRM (5985) antes do WMI (nao trava mai... | 09/11/2026
+
+- **Melhoria**: Grade LAN: checa WinRM (5985) antes do WMI (nao trava mais), status X de Y no topo.
+
 ## Versão 4.50.48 | Grade: varredura direta na rede (WMI/WinRM) com tempo rea... | 09/11/2026
 
 - **Melhoria**: Grade: varredura direta na rede (WMI/WinRM) com tempo real de segundos para a LAN, botao liga/desliga e estado salvo.

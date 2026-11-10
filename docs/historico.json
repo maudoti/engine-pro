@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.49",
+        "Data":  "2026-11-09 22:32",
+        "Titulo":  "Grade LAN: checa WinRM (5985) antes do WMI (nao trava mai...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Grade LAN: checa WinRM (5985) antes do WMI (nao trava mais), status X de Y no topo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.48",
         "Data":  "2026-11-09 22:23",
         "Titulo":  "Grade: varredura direta na rede (WMI/WinRM) com tempo rea...",
