@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.51 | Reduz consultas ao GitHub (alivia o 403 de limite) | 10/11/2026
+
+- **Melhoria**: Reduz consultas ao GitHub (alivia o 403 de limite).
+- **Melhoria**: Canal reverso otimizado.
+
 ## Versão 4.50.50 | Agente liga o WinRM sozinho (grade em tempo real) | 10/11/2026
 
 - **Melhoria**: Agente liga o WinRM sozinho (grade em tempo real).

@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.51",
+        "Data":  "2026-11-10 14:54",
+        "Titulo":  "Reduz consultas ao GitHub (alivia o 403 de limite)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reduz consultas ao GitHub (alivia o 403 de limite)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Canal reverso otimizado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.50",
         "Data":  "2026-11-10 13:19",
         "Titulo":  "Agente liga o WinRM sozinho (grade em tempo real)",
