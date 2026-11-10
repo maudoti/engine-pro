@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.48 | Grade: varredura direta na rede (WMI/WinRM) com tempo rea... | 09/11/2026
+
+- **Melhoria**: Grade: varredura direta na rede (WMI/WinRM) com tempo real de segundos para a LAN, botao liga/desliga e estado salvo.
+
 ## Versão 4.50.47 | Diagnostico ao vivo: relogio mostra CPU/RAM do proprio PC... | 09/11/2026
 
 - **Melhoria**: Diagnostico ao vivo: relogio mostra CPU/RAM do proprio PC, tique e pulsos lidos.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.47",
-    "Instalador":  "EnginePro_Setup_4.50.47.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.47/EnginePro_Setup_4.50.47.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.47/EnginePro_Setup_4.50.47.exe.gz",
-    "SHA256":  "879C83E512F26F487890328250819A7AC7A62007388B9BA44F1625D219675628",
-    "Data":  "2026-11-09 21:58",
-    "Notas":  "Diagnostico ao vivo: relogio mostra CPU/RAM do proprio PC, tique e pulsos lidos.",
-    "Assinatura":  "Y1lg8a28CT2mn1F+ckD9nfT7SUGwLIwfMT8lsuEP0gr3l6IlsJJEjg3cWndwVCkO2/SKheRgVwWMxd0cq5nCbxFlLFjQH+fKph/XPr0o5mIRD6sym08VHjWirCKygn203OJteIKjYKVJhEtW+VFPkgcWxhRJWlBdGuwVri6O4tHkYjMLVXLpXq19Gzg9FDkd0FoRe++Mz+yd3voJj8U6vVXCxt2Gx0Fr3d4hCRyR2xfPHq6ZBxO6Gqz8v4Z7KJpVyDrougJOUDlRLmXKjUjhfBR8mxFPT3hlIuIbVoxRfxbk9/c1gRUGz6LvSG8WOIbznZQkeiQxQXP0arYP/lbXQSxVD9mWFkJt7+sRnbHoV9O9p5FefeKaPQuoBzLgiu4dxwF9diEORqTt0tZHK5LDx/lpDyeBItzqCDHvnK7SeyXfk/ZZM85MuZda4IMC5UDK/0EBw7krKVfKihKLuYkAUJh7X8cRLPX3U63uZ3eZtHyiLr1H2DDAnySvVZeoa5Da"
+    "Versao":  "4.50.48",
+    "Instalador":  "EnginePro_Setup_4.50.48.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.48/EnginePro_Setup_4.50.48.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.48/EnginePro_Setup_4.50.48.exe.gz",
+    "SHA256":  "49F0CCE43694973656CA44B378109A05E623779B0F4F66C45BF45CF8F5CF80B5",
+    "Data":  "2026-11-09 22:23",
+    "Notas":  "Grade: varredura direta na rede (WMI/WinRM) com tempo real de segundos para a LAN, botao liga/desliga e estado salvo.",
+    "Assinatura":  "D80PBVDqiMA+VYmdmzL0bFLrAJ4o1fBG4RIs4yfNzzWDtGkAFzislrp5qTM5A3h65ndQvgyhcC38L9pHhKx1nRjXi2WSoRbI4BJq6Ym++bwfnvMGIRQo3+qomAciFvP4fash9XhuxZyS9sEW6YnNrvRhkG6LhRLYb5cyLjOK/ngj7GE3XInEIHbDrdYuYp3Sm3a60owpDGBUT9PA9EgsFlHQRpn6R4Ytdaxe4PzcgecLUB5qYBQgO4wE8lcQd7MI476b09fRfirQVZgHvjkQjXPZoBpbz1G7+54oxMxOw5O3C82qG6RDOtMY26/WKO/M6q+ds6YN/9X4sMGuAFCUHN9VRicGvxLmlD4ATFIu1YC+ve6aVpAdgr7xh6xtC/vc1JqBG9hehh4/0I/cQblrsbHznsHHQSluJmNITuv9zvzV1HmL9H3yewVDKJ/Kk7nGDgda7VbBS/J/i6swEZptxqxKAaN62WWy6ErV+/gXahUsDjcI0tM2OT0Spsnf/Uiw"
 }

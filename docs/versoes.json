@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.48",
+        "Data":  "2026-11-09 22:23",
+        "Notas":  "Grade: varredura direta na rede (WMI/WinRM) com tempo real de segundos para a LAN, botao liga/desliga e estado salvo.",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.48/EnginePro_Setup_4.50.48.exe"
+    },
+    {
         "Versao":  "4.50.47",
         "Data":  "2026-11-09 21:58",
         "Notas":  "Diagnostico ao vivo: relogio mostra CPU/RAM do proprio PC, tique e pulsos lidos.",
