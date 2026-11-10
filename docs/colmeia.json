@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1118,
+    "Conhecimentos":  1122,
     "Pesquisas":  9225,
-    "N48":  4212,
+    "N48":  4190,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 23:15:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 23:21:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 23:15:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 59 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-09 23:21:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 23:01:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
+                         "Data":  "2026-11-09 23:21:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +30,14 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 22:56:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 23:15:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 59 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-09 22:51:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736B3 (ERROR_SXS_ASSEMBLY_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 23:15:52",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 22:50:10",
@@ -51,19 +51,19 @@
                      }
                  ],
     "Horas":  [
-                  45,
-                  12,
-                  109,
-                  128,
-                  98,
-                  90,
+                  29,
+                  41,
+                  115,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -75,32 +75,32 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286,
-                  330,
-                  220,
-                  81,
-                  113,
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287,
+                  334,
+                  197,
+                  84,
+                  82,
                   75,
                   87,
                   84,
-                  36,
-                  75,
-                  48,
+                  55,
+                  76,
+                  28,
                   61,
-                  52,
-                  78,
+                  80,
+                  50,
                   71,
-                  68,
-                  54,
-                  103,
-                  100
+                  80,
+                  77,
+                  79,
+                  89
               ],
     "Ultima":  "2026-11-09 23:15:52",
-    "Gerado":  "2026-11-09 23:17:03",
-    "Data":  "2026-11-09 23:17"
+    "Gerado":  "2026-11-09 23:27:03",
+    "Data":  "2026-11-09 23:27"
 }
