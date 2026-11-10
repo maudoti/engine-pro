@@ -1,16 +1,16 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1172,
-    "Pesquisas":  9833,
-    "N48":  4654,
+    "Conhecimentos":  1178,
+    "Pesquisas":  9864,
+    "N48":  4644,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 02:17:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 67 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 02:27:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 98 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 02:16:53",
+                         "Data":  "2026-11-10 02:26:57",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 02:10:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não encontra e-mails",
+                         "Data":  "2026-11-10 02:21:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 560 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 591 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 02:10:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook pedindo a senha toda hora",
+                         "Data":  "2026-11-10 02:21:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 02:10:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
+                         "Data":  "2026-11-10 02:21:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Teams pesado",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,16 +51,16 @@
                      }
                  ],
     "Horas":  [
-                  128,
-                  98,
-                  90,
+                  122,
+                  83,
+                  70,
                   99,
                   60,
                   30,
                   33,
                   40,
-                  32,
-                  84,
+                  86,
+                  30,
                   32,
                   30,
                   37,
@@ -72,35 +72,35 @@
                   43,
                   40,
                   25,
-                  25,
-                  131,
-                  262,
-                  252,
-                  258,
-                  286,
-                  330,
-                  220,
-                  81,
-                  113,
+                  57,
+                  143,
+                  268,
+                  236,
+                  270,
+                  287,
+                  334,
+                  197,
+                  84,
+                  82,
                   75,
                   87,
                   84,
-                  36,
-                  75,
-                  48,
+                  55,
+                  76,
+                  28,
                   61,
-                  52,
-                  78,
+                  80,
+                  50,
                   71,
-                  68,
-                  54,
-                  103,
-                  100,
-                  108,
-                  267,
-                  233
+                  80,
+                  77,
+                  79,
+                  89,
+                  161,
+                  249,
+                  229
               ],
-    "Ultima":  "2026-11-10 02:17:01",
-    "Gerado":  "2026-11-10 02:17:03",
-    "Data":  "2026-11-10 02:17"
+    "Ultima":  "2026-11-10 02:27:00",
+    "Gerado":  "2026-11-10 02:27:03",
+    "Data":  "2026-11-10 02:27"
 }
