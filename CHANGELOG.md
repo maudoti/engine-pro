@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.50 | Agente liga o WinRM sozinho (grade em tempo real) | 10/11/2026
+
+- **Melhoria**: Agente liga o WinRM sozinho (grade em tempo real).
+
 ## Versão 4.50.49 | Grade LAN: checa WinRM (5985) antes do WMI (nao trava mai... | 09/11/2026
 
 - **Melhoria**: Grade LAN: checa WinRM (5985) antes do WMI (nao trava mais), status X de Y no topo.

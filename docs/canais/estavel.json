@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.49",
-    "Instalador":  "EnginePro_Setup_4.50.49.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.49/EnginePro_Setup_4.50.49.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.49/EnginePro_Setup_4.50.49.exe.gz",
-    "SHA256":  "144069122E6EC91F4F088DA87EF815BA72DF958F88AB8366A728427F4B0F2522",
-    "Data":  "2026-11-09 22:32",
-    "Notas":  "Grade LAN: checa WinRM (5985) antes do WMI (nao trava mais), status X de Y no topo.",
-    "Assinatura":  "nNeIJ8msCfg9Dcbv0Uv9abkFSxoIkAeoLsvOH27Sq39qSS27ud+AysgXVIPwYi7/G8jI/3tpVHYp1R6jSBEBNKY+dkg2fVhRzxcMshB37VyzyALLWcroeqKBiYKhJNyGd/dP3MY0aqMLp1BQODmUrGd/OyvMetoQHQI/tpWhm1uYFvRWrFY0XbDcKe/51E0Z2PxzsHOgK2jJqbJPY6okAUKdk+TjFtgbMRgKi+rhmNhNXWs8Jzn0QFn66Y7/ZSPx3xXZjx6I5+JpcdZPctLO5xZVHC9cFG4XWbyM1kEO/zIZqsxuJfSHYsRGZUdPDkqqK1QHcv6OERCDW71p8jaIPkedyDyNF4e6hX7D+kZDCRE58WwEVDMrBZklOWqcwKDL3AQ73UYK+QDw7MwYf7SZ1dDK/qqzG5TIkboXn/V7bDpD9hr0kj9XXEQVOVM/OzNFkf3GByDnScFliQ0/4GdcGmgHDV47MMEaOd4o/jFldp+n1ppf6wqwiKMcd4snyWVR"
+    "Versao":  "4.50.50",
+    "Instalador":  "EnginePro_Setup_4.50.50.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.50/EnginePro_Setup_4.50.50.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.50/EnginePro_Setup_4.50.50.exe.gz",
+    "SHA256":  "20E0F130ED7D78CC68E136E18E68A4B415E859178A84FEB22391EA091375E4E6",
+    "Data":  "2026-11-10 13:19",
+    "Notas":  "Agente liga o WinRM sozinho (grade em tempo real).",
+    "Assinatura":  "X2PDEaKeGh2/sTTaq/YYxDArbaGId3mxZjH3tOarLdzpwhZpAN0sk9C8NeZ1VyEudmbzvOxqDIy5xzF4CcrT15QlSqcclW2SWwEC41zRSOrvR/cb5NrRMNLTFHzhm9lxTe88/a1HzaAabf+EXObHwf0B/9s17ndOtiVXsD6tjqgBds25oNMWhMSAFajN5We1JYYS2+zHITbryZDiyOPiTmfRKcGkgG4wuIJxCe9fnNp2SkTi5bqWxribsmNQJE1S+VjKw7/UBxRpOXQusZrA5M84IXFRi17d2gRvuAAxP6XH4mBkYDvzAhjRjJm2Q3bSQUDJnstm3f3WS4KuKFk7pAkd/udxn04dVyMxAPlaWp9gM6ZXFhPU3TRg4RnW2TK+ZxQXS5Q8d9PO4LpUeBUpHU06hjCHh+rxoHa2iX5WvpLxlm0NzkxUV2hQ+wJ6Nk5RywjAOcfC5pqu2bc0KcXI8V1cuJmIJU+3y0HusCBQX/eNJ/K0uievsdaP/HtvRVi6"
 }

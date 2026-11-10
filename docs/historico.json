@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.50",
+        "Data":  "2026-11-10 13:19",
+        "Titulo":  "Agente liga o WinRM sozinho (grade em tempo real)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Agente liga o WinRM sozinho (grade em tempo real)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.49",
         "Data":  "2026-11-09 22:32",
         "Titulo":  "Grade LAN: checa WinRM (5985) antes do WMI (nao trava mai...",
