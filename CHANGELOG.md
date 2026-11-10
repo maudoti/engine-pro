@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.56 | Fila de impressao travada agora e limpa automaticamente | 10/11/2026
+
+- **Melhoria**: Fila de impressao travada agora e limpa automaticamente.
+- **Melhoria**: IA deixa de alertar Localizar e Substituir do Excel.
+
 ## Versão 4.50.55 | Corrige trava de temporizacao do canal reverso: estacoes ... | 10/11/2026
 
 - **Correção**: Corrige trava de temporizacao do canal reverso: estacoes discam continuamente enquanto o TI observa.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.55",
-    "Instalador":  "EnginePro_Setup_4.50.55.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.55/EnginePro_Setup_4.50.55.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.55/EnginePro_Setup_4.50.55.exe.gz",
-    "SHA256":  "E67F264BA9DFAFECC2EDE32BC5364C556F86B5449B110901F052D75AFB4308E3",
-    "Data":  "2026-11-10 15:19",
-    "Notas":  "Corrige trava de temporizacao do canal reverso: estacoes discam continuamente enquanto o TI observa.",
-    "Assinatura":  "a4Hz2ATNkDdkMzQN+q8uQXn669x06xiIQ1Oqxp4QTY+IixYvmexXMxtI47aGzv7qFgazh3xvxDfAcmnaYLTmjyg2xdmG4KwDy5N44QMq8PL3FwO++J+5kbLvvmHsb5oimzbGMIrxagSl88ENKIu0m7w1shv0mxUuos6jhtGddBy6FAF2oxT0jPKeyo6CyfPVQ8bmQMtl6/1KrmVDHRw/9/jCA/o4vjDFk47xTeYLpLp0+azP46411hLfmctp6fP0YTzQNAXc6xPwV/eSRCzpZJKNz2Ip/AF3caa8yapIhglgad4qFOh3zGI+AsvI3OMP9bpOpS+ia0iK+4HcpCLdrN+/qA1mgMwYA/ihwEyQiJHXjwH6AE3KZTnnDxeA7i2Kq097BzQC4nyJxH3J9MCez46DrcqCtPD/zWDkpwMHb1JOY8suQxkKqM0DHfgGQsndSILSoVu1qYiZG5jULSvmyDZtlsmNycy7CoEiVSqcN0BiSAhymCabFkh6wPxDj5aR"
+    "Versao":  "4.50.56",
+    "Instalador":  "EnginePro_Setup_4.50.56.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.56/EnginePro_Setup_4.50.56.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.56/EnginePro_Setup_4.50.56.exe.gz",
+    "SHA256":  "83FE4B250A12EC63218B5D5EE88D0A4FDFC289DCB21C406E042C2D5A796BC20B",
+    "Data":  "2026-11-10 15:58",
+    "Notas":  "Fila de impressao travada agora e limpa automaticamente; IA deixa de alertar Localizar e Substituir do Excel",
+    "Assinatura":  "TYo5De/6iQF3NxAhxOWWIKaGnSdbfCEU6KuUtnR64I4scGIR9y8oooQcTpcxwCGWjxWplU9OlgVi6mylPZPllHnCNwNhhCLJtRHFYViTnfleQVLxq/mLv9gOUrqG1xPSOiQQ+MQeD10LQD0N6W4ZxU97hfQHsAJzCOu6C5DQhl5lqHSmqp2RrypRvBa0Rn1Vnx5RDNsfKI3N4Wj+Q2gHw5v/+bhrMB6dlymaZMdfNCMI+H1ZmZ+i6wVDNlNtGE9pwfhz/eRjRhVoK1natPA8zxRev4riqrVBmT7EMBt/EANv3H0vB7RFh/GEsnR8j6+TiObamjBN4PtKMJQj36x0W2jPY1CJVHBlxTxVWmFwBp8vgINN3kVnIXh/4tBRsO534GX6kL63Xwzt79bORuZbgb/9Zut6OL6qFm6TvfRD5mB/+YSeQ5w9HycCbuwIZ38wNmuZ6EPJzvgxUwSqJFzthyADlNRTgUIwZg7SNJJ3ZOHCb0M075+GdNVAg06g6ZPh"
 }

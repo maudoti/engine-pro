@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1219,
+    "Conhecimentos":  1220,
     "Pesquisas":  11017,
     "N48":  5003,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 15:55:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 15:58",
+                         "Texto":  "Nova versão 4.50.56 publicada: Fila de impressao travada agora e limpa automaticamente",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 15:35:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
+                         "Data":  "2026-11-10 15:57:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Erro de instalação ou atualização do Office (código 30xxx)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 15:19",
-                         "Texto":  "Nova versão 4.50.55 publicada: Corrige trava de temporizacao do canal reverso: estacoes discam continuamente enquanto o TI observa.",
+                         "Data":  "2026-11-10 15:55:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 1744 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 15:35:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 14:51:23",
@@ -38,53 +43,48 @@
                          "Data":  "2026-11-10 14:48:01",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-10 14:29:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Sites não abrem (erro de DNS)",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
                   38,
+                  33,
+                  49,
+                  20,
+                  20,
                   25,
                   110,
                   225,
-                  259,
-                  228,
-                  292,
-                  298,
-                  310,
-                  92,
+                  260,
+                  247,
+                  272,
+                  316,
+                  296,
+                  88,
                   96,
                   92,
                   91,
                   81,
-                  48,
                   63,
+                  48,
                   65,
                   59,
-                  58,
-                  69,
+                  67,
+                  60,
                   65,
-                  72,
-                  54,
-                  87,
+                  76,
+                  63,
+                  74,
                   77,
-                  84,
-                  267,
+                  91,
+                  260,
                   249,
-                  187,
-                  219,
-                  168,
-                  145,
-                  187,
+                  196,
+                  210,
+                  170,
+                  161,
+                  169,
                   42,
                   27,
                   33,
@@ -96,6 +96,6 @@
                   56
               ],
     "Ultima":  "2026-11-10 15:55:19",
-    "Gerado":  "2026-11-10 15:57:03",
-    "Data":  "2026-11-10 15:57"
+    "Gerado":  "2026-11-10 15:58:47",
+    "Data":  "2026-11-10 15:58"
 }
