@@ -1,13 +1,33 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1137,
-    "Pesquisas":  9517,
-    "N48":  4453,
+    "Pesquisas":  9562,
+    "N48":  4498,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 00:56:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
+                         "Data":  "2026-11-10 01:03:29",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 01:03:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-10 00:59:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 248 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 289 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 00:56:23",
@@ -15,8 +35,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 00:56:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -25,82 +45,62 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 244 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-10 00:53:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 244 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-10 00:53:25",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 23:59:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 107 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-09 22:32",
                          "Texto":  "Nova versão 4.50.49 publicada: Grade LAN: checa WinRM (5985) antes do WMI (nao trava mais), status X de Y no topo.",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  76,
-                  146,
-                  83,
-                  86,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228,
-                  292,
-                  298,
-                  310,
-                  92,
-                  96,
-                  92,
-                  91,
+                  301,
+                  335,
+                  264,
                   81,
-                  48,
-                  63,
                   65,
-                  59,
-                  58,
-                  69,
-                  65,
-                  72,
+                  92,
+                  118,
                   54,
-                  87,
-                  77,
-                  84,
-                  267
+                  66,
+                  75,
+                  44,
+                  50,
+                  67,
+                  60,
+                  65,
+                  76,
+                  70,
+                  103,
+                  72,
+                  76,
+                  289
               ],
-    "Ultima":  "2026-11-10 00:53:25",
-    "Gerado":  "2026-11-10 00:57:03",
-    "Data":  "2026-11-10 00:57"
+    "Ultima":  "2026-11-10 01:03:29",
+    "Gerado":  "2026-11-10 01:07:03",
+    "Data":  "2026-11-10 01:07"
 }
