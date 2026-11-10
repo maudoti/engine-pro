@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1128,
-    "Pesquisas":  9386,
-    "N48":  4322,
+    "Conhecimentos":  1132,
+    "Pesquisas":  9427,
+    "N48":  4363,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 00:23:20",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 00:36:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 00:23:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 113 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 00:36:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007016A (ERROR_CLOUD_FILE_PROVIDER_NOT_RUNNING) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 00:03:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
+                         "Data":  "2026-11-10 00:36:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE8A (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 113 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 154 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 00:03:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-10 00:33:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 154 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 00:33:10",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-09 23:59:58",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 107 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 23:42:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024402C (WU_E_PT_WINHTTP_NAME_NOT_RESOLVED) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 22:32",
@@ -52,12 +52,12 @@
                  ],
     "Horas":  [
                   41,
-                  115,
-                  122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  153,
+                  84,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -74,33 +74,33 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161
+                  114,
+                  177
               ],
-    "Ultima":  "2026-11-10 00:23:20",
-    "Gerado":  "2026-11-10 00:27:03",
-    "Data":  "2026-11-10 00:27"
+    "Ultima":  "2026-11-10 00:33:10",
+    "Gerado":  "2026-11-10 00:37:03",
+    "Data":  "2026-11-10 00:37"
 }
