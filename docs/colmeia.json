@@ -1,12 +1,12 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1201,
-    "Pesquisas":  10577,
-    "N48":  4983,
+    "Pesquisas":  10609,
+    "N48":  4981,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 06:20:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 64 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 06:30:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 96 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,19 +20,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 03:32:26",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1304 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-10 03:24:25",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Erro de instalação ou atualização do Office (código 30xxx)",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1336 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 03:24:25",
@@ -51,7 +46,7 @@
                      }
                  ],
     "Horas":  [
-                  60,
+                  26,
                   30,
                   33,
                   40,
@@ -68,39 +63,39 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161,
-                  249,
-                  229,
-                  228,
-                  158,
-                  153,
-                  174
+                  114,
+                  177,
+                  269,
+                  188,
+                  241,
+                  156,
+                  149,
+                  179
               ],
-    "Ultima":  "2026-11-10 06:20:29",
-    "Gerado":  "2026-11-10 06:27:03",
-    "Data":  "2026-11-10 06:27"
+    "Ultima":  "2026-11-10 06:30:38",
+    "Gerado":  "2026-11-10 06:37:03",
+    "Data":  "2026-11-10 06:37"
 }
