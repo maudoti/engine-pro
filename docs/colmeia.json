@@ -1,13 +1,23 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1216,
+    "Conhecimentos":  1217,
     "Pesquisas":  10949,
-    "N48":  5013,
+    "N48":  5014,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 14:27:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 14:29:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Sites não abrem (erro de DNS)",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-10 14:27:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 14:08:22",
@@ -16,18 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 1676 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 13:36:53",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Erro 0x00000bc4: nenhuma impressora encontrada",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1675 pesquisas em bases técnicas",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 13:36:35",
@@ -38,11 +43,6 @@
                          "Data":  "2026-11-10 13:19",
                          "Texto":  "Nova versão 4.50.50 publicada: Agente liga o WinRM sozinho (grade em tempo real).",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-10 13:16:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000012 (TRAP_CAUSE_UNKNOWN) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
@@ -55,47 +55,47 @@
                   43,
                   40,
                   25,
-                  58,
-                  142,
-                  268,
-                  238,
-                  268,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161,
-                  249,
-                  229,
-                  228,
-                  158,
-                  153,
-                  174,
-                  119,
+                  114,
+                  177,
+                  269,
+                  188,
+                  241,
+                  156,
+                  149,
+                  179,
+                  96,
                   27,
-                  27,
+                  18,
                   45,
                   51,
                   28,
-                  35,
-                  39
+                  54,
+                  21
               ],
-    "Ultima":  "2026-11-10 14:27:02",
-    "Gerado":  "2026-11-10 14:27:05",
-    "Data":  "2026-11-10 14:27"
+    "Ultima":  "2026-11-10 14:27:05",
+    "Gerado":  "2026-11-10 14:37:03",
+    "Data":  "2026-11-10 14:37"
 }
