@@ -1,9 +1,39 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1116,
-    "Pesquisas":  9166,
-    "N48":  4153,
+    "Conhecimentos":  1118,
+    "Pesquisas":  9197,
+    "N48":  4184,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-09 23:06:18",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 23:06:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-09 23:01:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 2922 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 22:56:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-09 22:51:05",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736B3 (ERROR_SXS_ASSEMBLY_NOT_FOUND) no Windows",
@@ -15,92 +45,62 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 22:50:10",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2891 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-09 22:32",
                          "Texto":  "Nova versão 4.50.49 publicada: Grade LAN: checa WinRM (5985) antes do WMI (nao trava mais), status X de Y no topo.",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-09 22:06:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 21:44:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 21:43:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 67 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  22,
-                  29,
-                  76,
-                  146,
-                  83,
-                  86,
+                  45,
+                  7,
+                  114,
+                  128,
+                  98,
+                  50,
                   101,
                   98,
                   30,
-                  25,
-                  8,
+                  33,
                   40,
-                  116,
+                  32,
+                  84,
                   32,
                   30,
                   37,
                   42,
                   34,
                   42,
-                  13,
-                  31,
-                  76,
-                  2,
+                  39,
                   38,
+                  43,
+                  40,
                   25,
-                  110,
-                  225,
-                  259,
+                  25,
+                  89,
+                  271,
+                  251,
                   228,
-                  292,
-                  298,
-                  310,
-                  92,
-                  96,
-                  92,
-                  91,
+                  301,
+                  335,
+                  264,
                   81,
-                  48,
-                  63,
                   65,
-                  59,
-                  58,
-                  69,
-                  65,
-                  72,
+                  92,
+                  118,
                   54,
-                  87,
-                  77
+                  66,
+                  75,
+                  44,
+                  50,
+                  67,
+                  60,
+                  65,
+                  76,
+                  70,
+                  103,
+                  72
               ],
-    "Ultima":  "2026-11-09 22:50:10",
-    "Gerado":  "2026-11-09 22:57:03",
-    "Data":  "2026-11-09 22:57"
+    "Ultima":  "2026-11-09 23:06:18",
+    "Gerado":  "2026-11-09 23:07:03",
+    "Data":  "2026-11-09 23:07"
 }
