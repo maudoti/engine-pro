@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1178,
-    "Pesquisas":  9864,
-    "N48":  4644,
+    "Conhecimentos":  1180,
+    "Pesquisas":  9884,
+    "N48":  4626,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 02:27:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 98 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 02:32:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 02:26:57",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 02:32:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 02:21:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 591 pesquisas em bases técnicas",
+                         "Data":  "2026-11-10 02:28:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 118 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 02:21:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
-                         "Nivel":  "ok"
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 611 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 02:28:59",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 02:21:13",
@@ -51,11 +51,11 @@
                      }
                  ],
     "Horas":  [
-                  122,
-                  83,
-                  70,
-                  99,
-                  60,
+                  84,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -72,35 +72,35 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161,
-                  249,
-                  229
+                  114,
+                  177,
+                  269,
+                  188
               ],
-    "Ultima":  "2026-11-10 02:27:00",
-    "Gerado":  "2026-11-10 02:27:03",
-    "Data":  "2026-11-10 02:27"
+    "Ultima":  "2026-11-10 02:28:59",
+    "Gerado":  "2026-11-10 02:37:03",
+    "Data":  "2026-11-10 02:37"
 }
