@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.52",
+        "Data":  "2026-11-10 15:02",
+        "Titulo":  "Tempo real mais instantaneo (~1s) pelo canal reverso",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Tempo real mais instantaneo (~1s) pelo canal reverso."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Disco/temp em cache."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.51",
         "Data":  "2026-11-10 14:54",
         "Titulo":  "Reduz consultas ao GitHub (alivia o 403 de limite)",
