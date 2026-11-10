@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.47",
+        "Data":  "2026-11-09 21:58",
+        "Titulo":  "Diagnostico ao vivo: relogio mostra CPU/RAM do proprio PC...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Diagnostico ao vivo: relogio mostra CPU/RAM do proprio PC, tique e pulsos lidos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.46",
         "Data":  "2026-11-09 21:46",
         "Titulo":  "Grade: timer global ao vivo, caixa de altura fixa com bar...",

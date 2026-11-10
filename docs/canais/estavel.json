@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.46",
-    "Instalador":  "EnginePro_Setup_4.50.46.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.46/EnginePro_Setup_4.50.46.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.46/EnginePro_Setup_4.50.46.exe.gz",
-    "SHA256":  "074C528AD3FC9148D354CE2F778AEA30519BBA571C528C6145D12C3394C66AED",
-    "Data":  "2026-11-09 21:46",
-    "Notas":  "Grade: timer global ao vivo, caixa de altura fixa com barra horizontal sempre visivel, alvo de clique do titulo maior.",
-    "Assinatura":  "ii2tcBatpEa3trLu0Q8uSOeZFJ6XN5q9s1Y+zeGN5yKs8Z5vW8t7MvfwKGCtJOu4TEKSfQPRypjPR5v4msyj47GQH6PhVt6nx3ppMJfHcz5PXpcJNQWAkExZPxgROLiJdJe6d2k/8fywXd5tafaqJvZzcvdnrErnq1sYE6y2V0w9ry0lM8hMHh/Rspj6WLOPZL3r6L68srsQw39+oDEORmy8Ts0hV0KXLHCyJMIg7YhZqecCT29iTVXbj8I498eCJT0DN7P2ypzD3qRaJ58kOIZcRz6XNEJoHjvd+kOaUMEkIOrhR9tZtZ4QWbu6Sj5sFSvSXa4CA9bGSH/iALsvdcW+kWZceosOerbtDdncHULGxpizw5fKLD2KxhKLpIlZkieVt6qbkCXJur7bDQuFFFG+2gpTrFGe4p67oDyY81BGiZWPP2SK4GMJfWXOpgesX/ggaBYSEmhV8XBg4HYGRglGG1VP37hJ0ramCZL83eT69CR/snoBNunHwQiKnAME"
+    "Versao":  "4.50.47",
+    "Instalador":  "EnginePro_Setup_4.50.47.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.47/EnginePro_Setup_4.50.47.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.47/EnginePro_Setup_4.50.47.exe.gz",
+    "SHA256":  "879C83E512F26F487890328250819A7AC7A62007388B9BA44F1625D219675628",
+    "Data":  "2026-11-09 21:58",
+    "Notas":  "Diagnostico ao vivo: relogio mostra CPU/RAM do proprio PC, tique e pulsos lidos.",
+    "Assinatura":  "Y1lg8a28CT2mn1F+ckD9nfT7SUGwLIwfMT8lsuEP0gr3l6IlsJJEjg3cWndwVCkO2/SKheRgVwWMxd0cq5nCbxFlLFjQH+fKph/XPr0o5mIRD6sym08VHjWirCKygn203OJteIKjYKVJhEtW+VFPkgcWxhRJWlBdGuwVri6O4tHkYjMLVXLpXq19Gzg9FDkd0FoRe++Mz+yd3voJj8U6vVXCxt2Gx0Fr3d4hCRyR2xfPHq6ZBxO6Gqz8v4Z7KJpVyDrougJOUDlRLmXKjUjhfBR8mxFPT3hlIuIbVoxRfxbk9/c1gRUGz6LvSG8WOIbznZQkeiQxQXP0arYP/lbXQSxVD9mWFkJt7+sRnbHoV9O9p5FefeKaPQuoBzLgiu4dxwF9diEORqTt0tZHK5LDx/lpDyeBItzqCDHvnK7SeyXfk/ZZM85MuZda4IMC5UDK/0EBw7krKVfKihKLuYkAUJh7X8cRLPX3U63uZ3eZtHyiLr1H2DDAnySvVZeoa5Da"
 }
