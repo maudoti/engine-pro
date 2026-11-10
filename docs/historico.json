@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.42",
+        "Data":  "2026-11-09 21:08",
+        "Titulo":  "Diagnostico da grade: marcadores visiveis para localizar ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Diagnostico da grade: marcadores visiveis para localizar onde trava."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.41",
         "Data":  "2026-11-09 17:55",
         "Titulo":  "Grade visivel: remove ScrollViewer aninhado que colapsava",

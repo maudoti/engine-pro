@@ -5,8 +5,8 @@
     "N48":  4068,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-09 20:59:35",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-09 21:08",
+                         "Texto":  "Nova versão 4.50.42 publicada: Diagnostico da grade: marcadores visiveis para localizar onde trava.",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-09 19:59:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000119 (VIDEO_SCHEDULER_INTERNAL_ERROR) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-09 20:59:35",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 2747 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-09 19:59:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000119 (VIDEO_SCHEDULER_INTERNAL_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-09 19:57:35",
@@ -43,23 +48,18 @@
                          "Data":  "2026-11-09 18:56:32",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C5 (DRIVER_CORRUPTED_EXPOOL) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-09 17:55",
-                         "Texto":  "Nova versão 4.50.41 publicada: Grade visivel: remove ScrollViewer aninhado que colapsava",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
                   31,
                   28,
                   45,
-                  7,
-                  114,
+                  12,
+                  109,
                   128,
                   98,
-                  50,
-                  101,
+                  66,
+                  85,
                   98,
                   30,
                   33,
@@ -78,22 +78,22 @@
                   40,
                   25,
                   25,
-                  89,
-                  271,
+                  100,
+                  260,
+                  252,
+                  240,
+                  288,
+                  348,
                   251,
-                  228,
-                  301,
-                  335,
-                  264,
                   81,
-                  65,
-                  92,
+                  75,
+                  82,
                   118,
                   54,
                   66,
                   75,
-                  44,
-                  50,
+                  47,
+                  47,
                   67,
                   60,
                   65,
@@ -101,6 +101,6 @@
                   70
               ],
     "Ultima":  "2026-11-09 20:59:35",
-    "Gerado":  "2026-11-09 21:07:03",
-    "Data":  "2026-11-09 21:07"
+    "Gerado":  "2026-11-09 21:08:12",
+    "Data":  "2026-11-09 21:08"
 }

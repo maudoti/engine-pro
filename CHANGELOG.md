@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.42 | Diagnostico da grade: marcadores visiveis para localizar ... | 09/11/2026
+
+- **Melhoria**: Diagnostico da grade: marcadores visiveis para localizar onde trava.
+
 ## Versão 4.50.41 | Grade visivel: remove ScrollViewer aninhado que colapsava | 09/11/2026
 
 - **Melhoria**: Grade visivel: remove ScrollViewer aninhado que colapsava.
