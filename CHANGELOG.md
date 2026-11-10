@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.43 | Corrige largura da grade (soma manual, exigida pelo PS 5.... | 09/11/2026
+
+- **Correção**: Corrige largura da grade (soma manual, exigida pelo PS 5.1) e captura erro de linha.
+
 ## Versão 4.50.42 | Diagnostico da grade: marcadores visiveis para localizar ... | 09/11/2026
 
 - **Melhoria**: Diagnostico da grade: marcadores visiveis para localizar onde trava.

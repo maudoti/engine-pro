@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.43",
+        "Data":  "2026-11-09 21:15",
+        "Titulo":  "Corrige largura da grade (soma manual, exigida pelo PS 5....",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige largura da grade (soma manual, exigida pelo PS 5.1) e captura erro de linha."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.42",
         "Data":  "2026-11-09 21:08",
         "Titulo":  "Diagnostico da grade: marcadores visiveis para localizar ...",
