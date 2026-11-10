@@ -1,16 +1,16 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1146,
-    "Pesquisas":  9635,
-    "N48":  4530,
+    "Conhecimentos":  1148,
+    "Pesquisas":  9696,
+    "N48":  4591,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 01:23:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 114 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 01:36:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 175 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 01:23:17",
+                         "Data":  "2026-11-10 01:36:08",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 01:17:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
+                         "Data":  "2026-11-10 01:28:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 362 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 423 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 01:17:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive parou de sincronizar",
+                         "Data":  "2026-11-10 01:28:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos só na nuvem (sob demanda) não abrem sem internet",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,12 +51,12 @@
                      }
                  ],
     "Horas":  [
-                  115,
-                  122,
+                  154,
                   83,
-                  70,
-                  99,
-                  60,
+                  86,
+                  102,
+                  98,
+                  26,
                   30,
                   33,
                   40,
@@ -73,34 +73,34 @@
                   43,
                   40,
                   25,
-                  57,
-                  143,
-                  268,
-                  236,
-                  270,
+                  65,
+                  180,
+                  265,
+                  232,
+                  276,
                   287,
-                  334,
-                  197,
+                  339,
+                  148,
                   84,
                   82,
-                  75,
-                  87,
-                  84,
-                  55,
+                  95,
+                  91,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161,
-                  249
+                  114,
+                  177,
+                  269
               ],
-    "Ultima":  "2026-11-10 01:23:48",
-    "Gerado":  "2026-11-10 01:27:03",
-    "Data":  "2026-11-10 01:27"
+    "Ultima":  "2026-11-10 01:36:25",
+    "Gerado":  "2026-11-10 01:37:04",
+    "Data":  "2026-11-10 01:37"
 }
