@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.70",
+        "Data":  "2026-11-11 14:23",
+        "Titulo":  "Liga a protecao anti-remocao",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Liga a protecao anti-remocao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.69",
         "Data":  "2026-11-11 11:05",
         "Titulo":  "Desliga a protecao anti-remocao",
