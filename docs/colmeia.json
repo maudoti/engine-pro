@@ -1,13 +1,23 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1253,
-    "Pesquisas":  11408,
-    "N48":  5158,
+    "Pesquisas":  11412,
+    "N48":  5162,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 22:49",
-                         "Texto":  "Nova versão 4.50.65 publicada: Correções e melhorias internas",
+                         "Data":  "2026-11-10 22:52:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 54 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 22:52",
+                         "Texto":  "Nova versão 4.50.66 publicada: Correções e melhorias internas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-10 22:36:31",
@@ -16,8 +26,8 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 2139 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 22:36:19",
@@ -25,19 +35,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2135 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-10 22:36:19",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000193 (VIDEO_DXGKRNL_LIVEDUMP) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-10 22:35:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-10 21:52:45",
@@ -47,14 +47,14 @@
                  ],
     "Horas":  [
                   25,
-                  90,
-                  199,
-                  255,
-                  261,
-                  261,
-                  283,
-                  345,
-                  120,
+                  110,
+                  218,
+                  216,
+                  269,
+                  281,
+                  269,
+                  359,
+                  92,
                   96,
                   92,
                   91,
@@ -62,23 +62,23 @@
                   78,
                   63,
                   65,
-                  30,
-                  78,
-                  52,
+                  40,
                   68,
-                  76,
+                  78,
+                  62,
+                  56,
                   73,
                   87,
-                  66,
-                  95,
-                  224,
-                  257,
-                  204,
-                  211,
-                  166,
-                  171,
-                  158,
-                  64,
+                  77,
+                  84,
+                  260,
+                  221,
+                  222,
+                  213,
+                  146,
+                  173,
+                  187,
+                  33,
                   27,
                   42,
                   30,
@@ -88,14 +88,14 @@
                   33,
                   47,
                   40,
-                  39,
-                  68,
+                  63,
+                  44,
                   63,
                   67,
-                  49,
-                  74
+                  73,
+                  54
               ],
-    "Ultima":  "2026-11-10 22:35:43",
-    "Gerado":  "2026-11-10 22:49:01",
-    "Data":  "2026-11-10 22:49"
+    "Ultima":  "2026-11-10 22:52:23",
+    "Gerado":  "2026-11-10 22:52:45",
+    "Data":  "2026-11-10 22:52"
 }
