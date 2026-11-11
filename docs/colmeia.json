@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1266,
-    "Pesquisas":  12697,
-    "N48":  4370,
+    "Conhecimentos":  1267,
+    "Pesquisas":  12706,
+    "N48":  4338,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 10:23:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BCB (ERROR_PRINTER_DRIVER_DOWNLOAD_NEEDED) no Windows",
+                         "Data":  "2026-11-11 10:45:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Sincronização do OneDrive muito lenta",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 10:23:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-11 10:45:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-11 10:23:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BCB (ERROR_PRINTER_DRIVER_DOWNLOAD_NEEDED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1238 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-11 10:19",
                          "Texto":  "Nova versão 4.50.68 publicada: Correções e melhorias internas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1229 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-11 10:03:40",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040600 (MAPI_E_CORRUPT_STORE) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-11 09:42:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004FC12 (OFFICE_ACTIVATION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -46,56 +46,56 @@
                      }
                  ],
     "Horas":  [
-                  91,
-                  77,
-                  38,
-                  76,
-                  45,
-                  75,
-                  55,
+                  51,
+                  78,
+                  63,
+                  65,
+                  30,
+                  78,
+                  52,
                   68,
                   76,
-                  51,
-                  77,
-                  79,
-                  114,
-                  177,
-                  269,
+                  73,
+                  87,
+                  56,
+                  105,
+                  224,
+                  257,
                   188,
-                  241,
-                  156,
-                  149,
-                  179,
-                  96,
+                  227,
+                  166,
+                  145,
+                  184,
+                  64,
                   27,
-                  18,
-                  45,
+                  42,
+                  30,
                   51,
-                  28,
+                  19,
                   54,
                   21,
                   59,
-                  29,
-                  50,
+                  40,
                   39,
-                  70,
                   68,
-                  70,
+                  63,
+                  67,
+                  49,
                   74,
-                  31,
-                  138,
-                  190,
-                  124,
-                  139,
+                  54,
+                  151,
+                  176,
+                  122,
                   141,
-                  130,
-                  173,
-                  95,
-                  28,
-                  60,
-                  40
+                  142,
+                  132,
+                  175,
+                  68,
+                  52,
+                  50,
+                  35
               ],
-    "Ultima":  "2026-11-11 10:23:30",
-    "Gerado":  "2026-11-11 10:37:03",
-    "Data":  "2026-11-11 10:37"
+    "Ultima":  "2026-11-11 10:45:10",
+    "Gerado":  "2026-11-11 10:47:03",
+    "Data":  "2026-11-11 10:47"
 }
