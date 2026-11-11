@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1265,
-    "Pesquisas":  12685,
-    "N48":  4377,
+    "Conhecimentos":  1266,
+    "Pesquisas":  12697,
+    "N48":  4389,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 10:19",
-                         "Texto":  "Nova versão 4.50.68 publicada: Correções e melhorias internas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-11 10:23:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BCB (ERROR_PRINTER_DRIVER_DOWNLOAD_NEEDED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 10:03:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040600 (MAPI_E_CORRUPT_STORE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-11 10:23:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 10:03:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-11 10:19",
+                         "Texto":  "Nova versão 4.50.68 publicada: Correções e melhorias internas",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1217 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1229 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-11 10:03:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040600 (MAPI_E_CORRUPT_STORE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-11 09:42:18",
@@ -38,64 +43,59 @@
                          "Data":  "2026-11-11 09:40:56",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-11 09:21:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000225 (BOOT_SELECTION_FAILED) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   87,
                   84,
                   55,
-                  56,
-                  48,
+                  76,
+                  28,
                   61,
-                  52,
-                  78,
+                  80,
+                  50,
                   71,
                   80,
-                  52,
-                  93,
-                  100,
-                  115,
-                  260,
-                  243,
-                  218,
+                  77,
+                  79,
+                  89,
                   161,
-                  181,
+                  249,
+                  229,
+                  228,
                   158,
-                  135,
+                  153,
+                  174,
+                  119,
                   27,
                   27,
-                  36,
-                  42,
-                  36,
                   45,
-                  31,
-                  52,
-                  45,
-                  25,
-                  64,
+                  51,
+                  28,
+                  35,
                   39,
-                  78,
-                  67,
-                  72,
+                  44,
+                  45,
+                  50,
+                  39,
+                  70,
+                  68,
+                  50,
+                  68,
                   57,
-                  73,
-                  191,
-                  157,
-                  145,
-                  115,
-                  151,
-                  149,
-                  129,
+                  101,
+                  193,
+                  139,
+                  138,
+                  134,
+                  141,
+                  160,
+                  104,
                   48,
                   60,
-                  28
+                  40
               ],
-    "Ultima":  "2026-11-11 10:03:14",
-    "Gerado":  "2026-11-11 10:19:47",
-    "Data":  "2026-11-11 10:19"
+    "Ultima":  "2026-11-11 10:23:30",
+    "Gerado":  "2026-11-11 10:27:03",
+    "Data":  "2026-11-11 10:27"
 }
