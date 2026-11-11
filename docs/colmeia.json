@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1269,
-    "Pesquisas":  12724,
-    "N48":  4305,
+    "Conhecimentos":  1270,
+    "Pesquisas":  12733,
+    "N48":  4284,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 11:31:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Sem permissão na biblioteca do SharePoint",
+                         "Data":  "2026-11-11 11:52:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Área de Trabalho ou Documentos foram para o OneDrive",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 11:30:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-11 11:52:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-11 11:31:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Sem permissão na biblioteca do SharePoint",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1265 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-11 11:09:28",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1256 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-11 11:05",
                          "Texto":  "Nova versão 4.50.69 publicada: Desliga a protecao anti-remocao",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-11 10:45:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Sincronização do OneDrive muito lenta",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-11 10:45:10",
@@ -46,56 +46,56 @@
                      }
                  ],
     "Horas":  [
-                  78,
+                  48,
                   63,
                   65,
-                  30,
-                  78,
-                  52,
-                  68,
-                  76,
-                  73,
+                  59,
+                  58,
+                  69,
+                  65,
+                  72,
+                  54,
                   87,
-                  56,
-                  105,
-                  224,
-                  257,
-                  188,
-                  227,
-                  166,
+                  77,
+                  84,
+                  267,
+                  249,
+                  187,
+                  219,
+                  168,
                   145,
-                  184,
-                  64,
-                  27,
+                  187,
                   42,
+                  27,
+                  33,
                   30,
                   51,
-                  19,
-                  54,
-                  21,
-                  59,
-                  40,
-                  39,
-                  68,
+                  43,
+                  30,
+                  33,
+                  56,
+                  31,
+                  63,
+                  44,
                   63,
                   67,
-                  49,
-                  74,
+                  73,
                   54,
-                  151,
-                  176,
-                  122,
-                  141,
-                  142,
-                  132,
-                  175,
-                  68,
-                  52,
+                  50,
+                  179,
+                  172,
+                  123,
+                  140,
+                  136,
+                  144,
+                  179,
+                  48,
+                  38,
                   50,
                   35,
-                  18
+                  27
               ],
-    "Ultima":  "2026-11-11 11:30:54",
-    "Gerado":  "2026-11-11 11:47:03",
-    "Data":  "2026-11-11 11:47"
+    "Ultima":  "2026-11-11 11:52:16",
+    "Gerado":  "2026-11-11 11:57:03",
+    "Data":  "2026-11-11 11:57"
 }
