@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1278,
+    "Conhecimentos":  1279,
     "Pesquisas":  12829,
     "N48":  4174,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 15:31",
-                         "Texto":  "Nova versão 4.50.71 publicada: Correções e melhorias internas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-11 15:31:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Computador lento em geral",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 15:30:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-11 15:31",
+                         "Texto":  "Nova versão 4.50.71 publicada: Correções e melhorias internas",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 14:49:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Disco do sistema quase cheio",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-11 15:30:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 1361 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-11 14:49:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Disco do sistema quase cheio",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-11 14:49:01",
@@ -38,64 +43,59 @@
                          "Data":  "2026-11-11 14:21:59",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, \"O computador está com pouca memória\"",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-11 13:59:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Teams pesado",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  44,
-                  86,
-                  49,
-                  66,
-                  80,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  181,
-                  243,
-                  235,
-                  226,
-                  140,
-                  180,
+                  114,
+                  177,
+                  269,
+                  188,
+                  241,
+                  156,
+                  149,
                   179,
-                  87,
+                  96,
                   27,
-                  27,
+                  18,
                   45,
                   51,
                   28,
-                  35,
-                  40,
-                  43,
-                  45,
+                  54,
+                  21,
+                  59,
+                  29,
                   50,
                   39,
                   70,
                   68,
                   70,
-                  49,
-                  56,
-                  101,
-                  193,
-                  155,
-                  142,
-                  114,
-                  155,
-                  146,
-                  104,
-                  48,
+                  74,
+                  31,
+                  138,
+                  190,
+                  124,
+                  139,
+                  141,
+                  130,
+                  173,
+                  95,
+                  28,
                   60,
                   40,
                   27,
-                  18,
                   27,
+                  18,
                   27,
                   33
               ],
     "Ultima":  "2026-11-11 15:30:59",
-    "Gerado":  "2026-11-11 15:31:10",
-    "Data":  "2026-11-11 15:31"
+    "Gerado":  "2026-11-11 15:37:03",
+    "Data":  "2026-11-11 15:37"
 }
