@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.69 | Desliga a protecao anti-remocao | 11/11/2026
+
+- **Melhoria**: Desliga a protecao anti-remocao.
+
 ## Versão 4.50.68 | Correções e melhorias internas | 11/11/2026
 
 - **Melhoria**: Correções e melhorias internas.
