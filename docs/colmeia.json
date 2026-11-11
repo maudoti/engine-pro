@@ -2,17 +2,17 @@
     "Resolvidos":  3,
     "Conhecimentos":  1285,
     "Pesquisas":  13073,
-    "N48":  4125,
+    "N48":  4121,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-11 19:57",
+                         "Texto":  "Nova versão 4.50.75 publicada: Correções e melhorias internas",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-11 19:46:09",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000051 (REGISTRY_ERROR) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-11 19:45:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 19:42",
-                         "Texto":  "Nova versão 4.50.74 publicada: Correções e melhorias internas",
+                         "Data":  "2026-11-11 19:45:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -46,7 +46,7 @@
                      }
                  ],
     "Horas":  [
-                  54,
+                  50,
                   87,
                   77,
                   84,
@@ -54,8 +54,8 @@
                   249,
                   187,
                   219,
-                  168,
-                  145,
+                  170,
+                  143,
                   187,
                   42,
                   27,
@@ -96,6 +96,6 @@
                   47
               ],
     "Ultima":  "2026-11-11 19:45:52",
-    "Gerado":  "2026-11-11 19:57:03",
+    "Gerado":  "2026-11-11 19:57:44",
     "Data":  "2026-11-11 19:57"
 }
