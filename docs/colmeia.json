@@ -2,17 +2,17 @@
     "Resolvidos":  3,
     "Conhecimentos":  1286,
     "Pesquisas":  13143,
-    "N48":  4141,
+    "N48":  4125,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-11 20:59",
+                         "Texto":  "Nova versão 4.50.77 publicada: Correções e melhorias internas",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-11 20:53:59",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 70 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-11 20:34:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000080 (NMI_HARDWARE_FAILURE) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 20:18",
-                         "Texto":  "Nova versão 4.50.76 publicada: Correções e melhorias internas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-11 20:34:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000080 (NMI_HARDWARE_FAILURE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -46,20 +46,20 @@
                      }
                  ],
     "Horas":  [
-                  87,
+                  71,
                   77,
-                  84,
-                  267,
+                  98,
+                  253,
                   249,
-                  187,
-                  219,
-                  168,
-                  145,
-                  187,
+                  198,
+                  208,
+                  170,
+                  169,
+                  161,
                   42,
                   27,
-                  33,
-                  30,
+                  34,
+                  29,
                   51,
                   43,
                   30,
@@ -75,14 +75,14 @@
                   50,
                   179,
                   172,
-                  123,
-                  140,
+                  148,
+                  115,
                   136,
-                  144,
-                  179,
+                  160,
+                  163,
                   48,
-                  38,
-                  50,
+                  60,
+                  28,
                   35,
                   27,
                   27,
@@ -96,6 +96,6 @@
                   70
               ],
     "Ultima":  "2026-11-11 20:53:59",
-    "Gerado":  "2026-11-11 20:57:03",
-    "Data":  "2026-11-11 20:57"
+    "Gerado":  "2026-11-11 20:59:08",
+    "Data":  "2026-11-11 20:59"
 }
