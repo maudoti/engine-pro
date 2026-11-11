@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1268,
-    "Pesquisas":  12715,
-    "N48":  4320,
+    "Conhecimentos":  1269,
+    "Pesquisas":  12724,
+    "N48":  4305,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 11:09:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
+                         "Data":  "2026-11-11 11:31:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Sem permissão na biblioteca do SharePoint",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 11:09:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 9 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-11 11:30:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 11:05",
-                         "Texto":  "Nova versão 4.50.69 publicada: Desliga a protecao anti-remocao",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-11 11:09:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1247 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1256 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-11 11:05",
+                         "Texto":  "Nova versão 4.50.69 publicada: Desliga a protecao anti-remocao",
                          "Nivel":  "info"
                      },
                      {
@@ -38,64 +43,59 @@
                          "Data":  "2026-11-11 10:45:10",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-11 10:23:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BCB (ERROR_PRINTER_DRIVER_DOWNLOAD_NEEDED) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  84,
-                  55,
+                  77,
+                  38,
                   76,
-                  28,
-                  61,
-                  80,
-                  50,
-                  71,
-                  80,
+                  45,
+                  75,
+                  55,
+                  68,
+                  76,
+                  51,
                   77,
                   79,
-                  89,
-                  161,
-                  249,
-                  229,
-                  228,
-                  158,
-                  153,
-                  174,
-                  119,
+                  114,
+                  177,
+                  269,
+                  188,
+                  241,
+                  156,
+                  149,
+                  179,
+                  96,
                   27,
-                  27,
+                  18,
                   45,
                   51,
                   28,
-                  35,
-                  39,
-                  44,
-                  45,
+                  54,
+                  21,
+                  59,
+                  29,
                   50,
                   39,
                   70,
                   68,
-                  50,
-                  68,
-                  57,
-                  101,
-                  193,
-                  139,
+                  70,
+                  74,
+                  31,
                   138,
-                  134,
+                  190,
+                  124,
+                  139,
                   141,
-                  160,
-                  104,
-                  48,
+                  130,
+                  173,
+                  95,
+                  28,
                   60,
                   40,
-                  18
+                  27
               ],
-    "Ultima":  "2026-11-11 11:09:10",
-    "Gerado":  "2026-11-11 11:27:03",
-    "Data":  "2026-11-11 11:27"
+    "Ultima":  "2026-11-11 11:30:54",
+    "Gerado":  "2026-11-11 11:37:03",
+    "Data":  "2026-11-11 11:37"
 }
