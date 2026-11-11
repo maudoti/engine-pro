@@ -1,22 +1,32 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1284,
-    "Pesquisas":  13047,
-    "N48":  4118,
+    "Pesquisas":  13061,
+    "N48":  4132,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-11 19:42",
+                         "Texto":  "Nova versão 4.50.74 publicada: Correções e melhorias internas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-11 19:41:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-11 19:12:00",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003F (NO_MORE_SYSTEM_PTES) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 19:11:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1579 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1593 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -30,67 +40,62 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 18:12",
-                         "Texto":  "Nova versão 4.50.73 publicada: Correções e melhorias internas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-11 18:03:08",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000018 (REFERENCE_BY_POINTER) no Windows",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  51,
-                  77,
-                  79,
+                  73,
+                  76,
+                  58,
                   114,
-                  177,
-                  269,
-                  188,
-                  241,
-                  156,
-                  149,
-                  179,
-                  96,
+                  209,
+                  237,
+                  223,
+                  227,
+                  135,
+                  176,
+                  184,
+                  64,
                   27,
-                  18,
-                  45,
-                  51,
+                  42,
+                  30,
+                  42,
                   28,
                   54,
                   21,
                   59,
                   29,
                   50,
-                  39,
-                  70,
+                  68,
+                  41,
                   68,
                   70,
                   74,
-                  31,
-                  138,
-                  190,
-                  125,
-                  138,
+                  54,
+                  134,
+                  171,
+                  144,
                   141,
-                  131,
-                  172,
-                  95,
-                  28,
-                  60,
-                  40,
+                  119,
+                  155,
+                  151,
+                  92,
+                  52,
+                  50,
+                  26,
+                  27,
                   27,
                   27,
                   18,
-                  27,
                   33,
-                  47,
-                  71,
-                  55,
-                  45
+                  57,
+                  89,
+                  27,
+                  59
               ],
-    "Ultima":  "2026-11-11 19:11:44",
-    "Gerado":  "2026-11-11 19:37:04",
-    "Data":  "2026-11-11 19:37"
+    "Ultima":  "2026-11-11 19:41:41",
+    "Gerado":  "2026-11-11 19:42:08",
+    "Data":  "2026-11-11 19:42"
 }
