@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1284,
-    "Pesquisas":  13061,
-    "N48":  4132,
+    "Conhecimentos":  1285,
+    "Pesquisas":  13073,
+    "N48":  4144,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 19:42",
-                         "Texto":  "Nova versão 4.50.74 publicada: Correções e melhorias internas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-11 19:46:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000051 (REGISTRY_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 19:41:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-11 19:45:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 19:12:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003F (NO_MORE_SYSTEM_PTES) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-11 19:42",
+                         "Texto":  "Nova versão 4.50.74 publicada: Correções e melhorias internas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1593 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1605 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-11 19:12:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000003F (NO_MORE_SYSTEM_PTES) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-11 18:48:59",
@@ -38,54 +43,49 @@
                          "Data":  "2026-11-11 18:28:46",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-11 18:03:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000018 (REFERENCE_BY_POINTER) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   73,
-                  76,
-                  58,
-                  114,
-                  209,
-                  237,
-                  223,
+                  87,
+                  56,
+                  105,
+                  224,
+                  257,
+                  188,
                   227,
-                  135,
-                  176,
+                  166,
+                  145,
                   184,
                   64,
                   27,
                   42,
                   30,
-                  42,
-                  28,
+                  51,
+                  19,
                   54,
                   21,
                   59,
-                  29,
-                  50,
+                  40,
+                  39,
                   68,
-                  41,
-                  68,
-                  70,
+                  63,
+                  67,
+                  49,
                   74,
                   54,
-                  134,
-                  171,
-                  144,
-                  141,
-                  119,
-                  155,
                   151,
-                  92,
+                  176,
+                  122,
+                  141,
+                  142,
+                  132,
+                  175,
+                  68,
                   52,
                   50,
-                  26,
-                  27,
+                  35,
+                  18,
                   27,
                   27,
                   18,
@@ -93,9 +93,9 @@
                   57,
                   89,
                   27,
-                  59
+                  71
               ],
-    "Ultima":  "2026-11-11 19:41:41",
-    "Gerado":  "2026-11-11 19:42:08",
-    "Data":  "2026-11-11 19:42"
+    "Ultima":  "2026-11-11 19:45:52",
+    "Gerado":  "2026-11-11 19:47:03",
+    "Data":  "2026-11-11 19:47"
 }
