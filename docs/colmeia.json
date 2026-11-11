@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1253,
-    "Pesquisas":  11412,
-    "N48":  5137,
+    "Pesquisas":  11423,
+    "N48":  5148,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-10 22:52:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 54 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-10 23:16:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 22:52",
-                         "Texto":  "Nova versão 4.50.66 publicada: Correções e melhorias internas",
+                         "Data":  "2026-11-10 22:52:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 54 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 22:36:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2139 pesquisas em bases técnicas",
+                         "Data":  "2026-11-10 22:52",
+                         "Texto":  "Nova versão 4.50.66 publicada: Correções e melhorias internas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-10 22:36:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000187 (VIDEO_DWMINIT_TIMEOUT_FALLBACK_BDD) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 2150 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-10 22:36:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,62 +40,62 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-10 21:52:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 73 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-10 22:36:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000187 (VIDEO_DWMINIT_TIMEOUT_FALLBACK_BDD) no Windows",
+                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   25,
-                  89,
-                  271,
-                  251,
-                  229,
-                  300,
-                  336,
-                  263,
+                  131,
+                  262,
+                  252,
+                  258,
+                  286,
+                  330,
+                  220,
                   81,
-                  66,
-                  91,
-                  118,
-                  54,
-                  66,
+                  113,
                   75,
-                  45,
-                  49,
-                  67,
-                  60,
-                  65,
-                  76,
-                  70,
+                  87,
+                  84,
+                  36,
+                  75,
+                  48,
+                  61,
+                  52,
+                  78,
+                  71,
+                  69,
+                  53,
                   103,
-                  72,
-                  76,
-                  289,
-                  239,
-                  210,
-                  187,
-                  155,
-                  160,
-                  159,
-                  42,
+                  100,
+                  108,
+                  267,
+                  233,
+                  224,
+                  165,
+                  152,
+                  173,
+                  149,
                   27,
+                  18,
                   45,
                   42,
                   36,
-                  34,
-                  42,
-                  21,
-                  56,
+                  45,
+                  31,
+                  52,
+                  25,
                   45,
                   49,
                   54,
                   78,
-                  51,
-                  64,
-                  54
+                  67,
+                  72,
+                  41
               ],
-    "Ultima":  "2026-11-10 22:52:23",
-    "Gerado":  "2026-11-10 23:07:04",
-    "Data":  "2026-11-10 23:07"
+    "Ultima":  "2026-11-10 23:16:39",
+    "Gerado":  "2026-11-10 23:17:04",
+    "Data":  "2026-11-10 23:17"
 }
