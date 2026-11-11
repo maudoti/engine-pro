@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.71 | Correções e melhorias internas | 11/11/2026
+
+- **Melhoria**: Correções e melhorias internas.
+
 ## Versão 4.50.70 | Liga a protecao anti-remocao | 11/11/2026
 
 - **Melhoria**: Liga a protecao anti-remocao.
