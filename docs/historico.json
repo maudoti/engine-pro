@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.108",
+        "Data":  "2026-11-12 09:17",
+        "Titulo":  "Diagnostico do cache da colmeia",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Diagnostico do cache da colmeia."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.107",
         "Data":  "2026-11-12 09:09",
         "Titulo":  "Diagnostico do cache da colmeia",
