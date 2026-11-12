@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.131 | Instalacao remota via C$ | 12/11/2026
+
+- **Melhoria**: Instalacao remota via C$.
+- **Melhoria**: COLMEIA 5000.
+
 ## Versão 4.50.130 | Scan coluna Engine Pro corrigida | 12/11/2026
 
 - **Correção**: Scan coluna Engine Pro corrigida.

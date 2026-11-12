@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.131",
+        "Data":  "2026-11-12 17:32",
+        "Titulo":  "Instalacao remota via C$",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instalacao remota via C$."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA 5000."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.130",
         "Data":  "2026-11-12 17:17",
         "Titulo":  "Scan coluna Engine Pro corrigida",

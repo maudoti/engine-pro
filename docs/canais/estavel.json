@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.130",
-    "Instalador":  "EnginePro_Setup_4.50.130.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.130/EnginePro_Setup_4.50.130.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.130/EnginePro_Setup_4.50.130.exe.gz",
-    "SHA256":  "57A2F5367F0A73BCE665E2679B31155B0BAB8529D14F37B2DD7BFD49207788C1",
-    "Data":  "2026-11-12 17:17",
-    "Notas":  "Scan coluna Engine Pro corrigida",
-    "Assinatura":  "rlum1AC71yUzsmh1inn/m/HVoPlUgJ8Y/Gue86jNsw+9ubbTwJvPS3m/66BPYSXnUgm+o586G66Wgr5OI52L/tRjjXeVDstOOrqq0p3pxDCeIMJAPLvpMTRL0+ThSL4/6UIReCGZ363upLlJuaOQSAivxrzacOn695dre07NjFnohhxbOAcpswQqbOH6KCQbYOoiSpTeMcQJflG4p4ZD8beragFHXh9LWB+H8zXc7++NSTCZNGN/PBykhfvu/WFlsfYe+eaW0YCAyrqbMjQutXkKvX5z1xe3RXTXjkwN+ms/7VXSHw4aQADAIt0HUaw90TxDtIcDgC4dcYXj9JNOexrYtSQvl8aJEsxboZIeLBqy1zuISqHOWWdeb5pNoh1QUHmybACkdVvvshxyiXtfMY0w9HrMXBC923//O3LAd2LIO025OvaXxi9n2mo/VX6dtDP6f9KlrOs40NUhXXKX1KbAc1NhkJwvuVIa/4QLTJqKfWbweZwBzl1UUr6jJejz"
+    "Versao":  "4.50.131",
+    "Instalador":  "EnginePro_Setup_4.50.131.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.131/EnginePro_Setup_4.50.131.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.131/EnginePro_Setup_4.50.131.exe.gz",
+    "SHA256":  "A24611ACCCC69EF012C97CF81433056B2E6F11E13C633E4A0E3C2216A6F22D3F",
+    "Data":  "2026-11-12 17:32",
+    "Notas":  "Instalacao remota via C$; COLMEIA 5000",
+    "Assinatura":  "SOb1ACo7a6J0ZpzpC6j7X90+rNtuuE5Ld2FaTXgg8CJdU3ut6tRrPdDpIGi/5rsD6XZ6duLmlJYv/HE5qhRQMhwG2lcsaBFAc7Y22TBtLX1QIPlYkQxZoSbejxkf31MwtfXktCrMahma4RVvgvcYcHFf74msqmygwocIk4N6pLbXLlUzHJ7ESVmsXu9c0NDr8yAakPJS86BS6zb4Q8fZ/FeQreM/p1eOlugXCAHshKl8B3sRfTzyjcARzAopkqNSjJ+5kBQi97gGS53UZ0reHMof6AxRbIQLFxmB+eIHdfhqcLHi5Jn+zca9dR/Kl+yrkxQgIYYrZssKtLUT0jlxL+MwOiyIz4x5/b6/uFHSWNECOywPXLQS7FHfncQzPctxjR7MA7RquENeIsoFEzl4QYlhrjN0fnzDw/dtqdwxu8k2hWADUIXakEsQRwxEniD7R9YPTQx4A8raIgWULsOIZxEpgXop/UbcH1Zs7kN4ay54vUOmRddrj9cyG8hSS0yD"
 }
