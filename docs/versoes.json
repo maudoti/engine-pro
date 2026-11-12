@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.42.4",
+        "Data":  "2026-11-12 02:45",
+        "Notas":  "Abertura sem tela de carregando",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe"
+    },
+    {
         "Versao":  "4.50.101",
         "Data":  "2026-11-12 02:39",
         "Notas":  "Correcao: icone da barra de tarefas (usa os frames nitidos do EXE, nao some mais no tamanho pequeno)",
@@ -12,13 +19,6 @@
         "Notas":  "Correcao: o e-mail separa o reparo do problema relatado da manutencao geral; Correcao: nome do usuario na saudacao; Correcao: avisos citam so o uso de camera/microfone, nao reuniao; Novo: reparo automatico da Lenovo ao detectar a camera travando, respeitando a trava",
         "Canal":  "estavel",
         "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.100/EnginePro_Setup_4.50.100.exe"
-    },
-    {
-        "Versao":  "4.42.4",
-        "Data":  "2026-11-12 01:32",
-        "Notas":  "Abertura sem tela de carregando",
-        "Canal":  "estavel",
-        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe"
     },
     {
         "Versao":  "4.50.99",
