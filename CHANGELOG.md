@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.105 | Abertura nao congela mais (processamento da colmeia com c... | 12/11/2026
+
+- **Correção**: Abertura nao congela mais (processamento da colmeia com cache em disco, freio e adiado 22s na abertura).
+
 ## Versão 4.50.104 | Diagnostico: cronometros para achar o travao de abertura | 12/11/2026
 
 - **Melhoria**: Diagnostico: cronometros para achar o travao de abertura.

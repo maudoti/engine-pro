@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.104",
-    "Instalador":  "EnginePro_Setup_4.50.104.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.104/EnginePro_Setup_4.50.104.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.104/EnginePro_Setup_4.50.104.exe.gz",
-    "SHA256":  "BA5DCAEA2C682A8CFD609F6526342CE5D7F36982E276C46035AB535BBFD5FE4C",
-    "Data":  "2026-11-12 08:33",
-    "Notas":  "Diagnostico: cronometros para achar o travao de abertura",
-    "Assinatura":  "JWW2eUbY4RmqATP3Xa82K1JFOBmkxAkVHx9dS78JpQ+9s3PtP8GM5LMWyC67VFUiHTb03qznSOVBD2tg54ukBGyV4+jjfdLrriA5sf1DULLusYYMyx/zKsC8f6ODZ/+zH8qlIPEjbbowh0BBF5vi/T6ehZR3Z80SHDCHbua+Z2KY0IEzq9fH1+6fjp2j+A+OXuz8mAgBsK5h0TdVekiaaQzHpv4kUE6O+m0TdVBX6La549Ctq34XqFfd89f446HJS43ftCa0dGHltTCHZqVImi91PflmRDDnxCrEsuJIXsgnEAPXICYPgLLA83eFRLuf/B8+0tY2rbx+HquHnY5gDRUCegg5OWNUIADusYvPR0GRt21FoAqIPNApQuIwbE2W3UPYt4zcNkKr8BuM8OwgWcV/D7kjhWUS44ZglJ3JARzcxBrkzCnbU80qAtdbAkXBE3jNmLaxZOrCo1vB0ltkgDiPA01FXYBI8nMeSY9FCJasnbx6zXxIO9DyjFidD3UP"
+    "Versao":  "4.50.105",
+    "Instalador":  "EnginePro_Setup_4.50.105.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.105/EnginePro_Setup_4.50.105.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.105/EnginePro_Setup_4.50.105.exe.gz",
+    "SHA256":  "25D169A8523AA7C8F4E9CDE8D21A51D8B372814057DE83C421ED02683FA73949",
+    "Data":  "2026-11-12 08:42",
+    "Notas":  "Correcao: abertura nao congela mais (processamento da colmeia com cache em disco, freio e adiado 22s na abertura)",
+    "Assinatura":  "cS8jZT4MV/QRoHdTMJPv6FrwcG+GiLQF6hTPLuQzwt3hx/AzhfFJCaIQzkWF+4UczVF7UPdRJR2xm9CwosacoQOcUGMNV3lD1KUiEx07Q/O3fnmMFkNUY1Mas5gBqEMmIWYLIjL7O5hO1UHdopMjyNG096bg5t/U2HDgU9oo1i56unARaXFoQu9UVJN5PPai1B403lyL5v5juKDewEhogIJyi5K6uwh51AL/G2j6ExgEYtRjaWzpuEvM+yJ9x+X4t6bZxrARQOk7Jg8HFrV2YvXe4iiBovMyWxzymdJzjWuUScQKbHFyVmNDxJzVT4XEpP/hVarF7AfPOOkpKBNUj/l/Jpsp+JNurDfZcxU2xl+FW8hKM59IwQP2SiYRfEDX4OHwYlCjF6ZafkQA817TdtmN8izYKaBmHGAnVGThDzTq35m4gEEfVbYzULnTnbcdvoDADmfpz6KQoeUKqUQWqF10c7al5DD1wSQXn17LejbVKPq16+JGKMcaHrqOdj+U"
 }

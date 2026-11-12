@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.105",
+        "Data":  "2026-11-12 08:42",
+        "Notas":  "Correcao: abertura nao congela mais (processamento da colmeia com cache em disco, freio e adiado 22s na abertura)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.105/EnginePro_Setup_4.50.105.exe"
+    },
+    {
         "Versao":  "4.50.104",
         "Data":  "2026-11-12 08:33",
         "Notas":  "Diagnostico: cronometros para achar o travao de abertura",

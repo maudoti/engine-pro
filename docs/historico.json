@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.105",
+        "Data":  "2026-11-12 08:42",
+        "Titulo":  "Abertura nao congela mais (processamento da colmeia com c...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Abertura nao congela mais (processamento da colmeia com cache em disco, freio e adiado 22s na abertura)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.104",
         "Data":  "2026-11-12 08:33",
         "Titulo":  "Diagnostico: cronometros para achar o travao de abertura",
