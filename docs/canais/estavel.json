@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.109",
-    "Instalador":  "EnginePro_Setup_4.50.109.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.109/EnginePro_Setup_4.50.109.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.109/EnginePro_Setup_4.50.109.exe.gz",
-    "SHA256":  "43801D6E6BFE4ECD4DF3BFBC47B28B4B1F6AE33D469AFC5709DF6C4D41017090",
-    "Data":  "2026-11-12 09:36",
-    "Notas":  "cache enxuto",
-    "Assinatura":  "mUF5CTxABFhotw8FupezYvQ5VyHt3Lamc8vDpmjfQJgkYeHHxHxYdnGgAQP9TW27x/EZSSGLqHXvEtT/c7ZWKU9OXR3UfJr6/609ND2qUeiY6Hxy+mjtyxnSwO74w8S+p/zOnCg0xjOBgKQ6pxh4WvyQ8Qngs3SIk63py4mIWCvxBpS3o5xs517fw4jwPaNyBnTmKJRzmWWpNqIBnoJ/etDff+qdLKx2DjW355r0S7zNM+b7C8JgQdZNwBpDdP5bsH8WfsQN8crPyvf357ElG+PxysefNLbFnBY177lk/nAYn8Mkv62w4HJkulJ9p9oKoMwHckWlDoTDvvhfMyruyi907m5ZtobNyC3lcWXYbN17A0K2Admktws7IfUn7wIYw7I7t9TiMeRbflAIAnyrXKLCc/u2fEbD8/Rq1BKDcW97K+0XtWqW6xx+XebPf0iPFh/03wWJJRLx9qXBNy8esM+DdDIlG8FF6AkIPSTix25LOChiq+B+ZofNbcmmo2cJ"
+    "Versao":  "4.50.110",
+    "Instalador":  "EnginePro_Setup_4.50.110.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.110/EnginePro_Setup_4.50.110.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.110/EnginePro_Setup_4.50.110.exe.gz",
+    "SHA256":  "A377F022C661F132652297770A824CFFBC593D2B04CA48FAF69BDECB46367085",
+    "Data":  "2026-11-12 09:44",
+    "Notas":  "Correcao definitiva da travada de abertura (cache da colmeia)",
+    "Assinatura":  "jAqjuIytCn5slIMbz/3JEE84xnsTMhgvmDKFP9hpfOgjZuzvUqD2dK3KjFeT7szdMpI3FL4Ah644W5l+1EBCOLOPZStC1hyoOKXbBJz5ZzQFS3n8/+yxyBlJJzV8I/zV2DD33v2Mn7vOSWzuXDiigEGRbl1N96t13jBbz91dXKd4oSyLFTyH4kCCd3ZJYLaLZasAX/Q3aIovSqj/b2HSWvsA7uIjhd4SDuhbCAyWbP0Mndvk7ylPj82AbJmaICxnYlsPG9SmeTbdb02nzj3Aeq6V1UCB3Ja/gdGveyfhTazty5XKJr01q2R5Xf3/p73nkmeH+xEXJMnDjPO8sgQG+tyx/N+hojjSSjnRo1XsWg3K8mpI5SQuDyTtlq7WMElKf2Swg4LrPvRA2jet7OesczqVUYsyKxtR/kqr58QzTqlEx/Uy+JA5UKEWcjlQGUnZmn3qZzdN5dd14s5rbLUR+s4klitV4adupUxB8UI1aj9h7S3uCA5h/OnxkOeh7aB/"
 }

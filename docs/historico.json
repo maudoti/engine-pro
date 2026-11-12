@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.110",
+        "Data":  "2026-11-12 09:44",
+        "Titulo":  "Correcao definitiva da travada de abertura (cache da colm...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Correcao definitiva da travada de abertura (cache da colmeia)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.109",
         "Data":  "2026-11-12 09:36",
         "Titulo":  "Cache enxuto",

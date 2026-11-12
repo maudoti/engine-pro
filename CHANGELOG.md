@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.110 | Correcao definitiva da travada de abertura (cache da colm... | 12/11/2026
+
+- **Correção**: Correcao definitiva da travada de abertura (cache da colmeia).
+
 ## Versão 4.50.109 | Cache enxuto | 12/11/2026
 
 - **Melhoria**: Cache enxuto.
