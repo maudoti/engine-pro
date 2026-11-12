@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.106",
-    "Instalador":  "EnginePro_Setup_4.50.106.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.106/EnginePro_Setup_4.50.106.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.106/EnginePro_Setup_4.50.106.exe.gz",
-    "SHA256":  "92844E2C196B209B0B1A92C0052E3FBCAD3DD7C28AD1205D77EB85041F15C9D4",
-    "Data":  "2026-11-12 08:58",
-    "Notas":  "Abertura fluida (cache colmeia 5 min); disco confere SMART antes de falar em falha; Java pergunta ao inves de desligar sozinho; IA religa a Protecao do Sistema",
-    "Assinatura":  "pMpOmhrBowFNlkA6x3Afv4FuVsoeVenvyLdwHZsTW2PuY78soOmsnN5c0yPi71jKxob9O93tSXJyK4LxgfPV+nQBJkBqCL/C2ZtNYfBz5FXBnX5ASMQx2VEnqNFqFDGyhpJYHQphDrW9SeGvqRzij7pd35AZoLGqIZrnmB94r8oIJRBo49OgESUN/xlh/S+GoJBEamc8ENuV0vSdtDbirmjsd3x+UQ5gwRhK66aiFrj96BE7qRaW6Oh5Xq1u2Hz59/yj2aPlIrv4mgiNtXh+ikmjtUiz4/HCyWg2rOOQa5UGITRrB8XpnQz4tr+MyJCl+BHYtVd3MDfPsLbwAnm7zNShXjQEh13UjGn92dxzy0b16aj8oLohM6L298IHthQPxbYYbZj2xKlx+F5AEoLNjXo76taVkOINPhkxNPNDnzAauR/PXQYA55cHMoaS5a3FuvGIzHosIAj00N7K4XJ05Phl80TKIp6f24+YDkguk2UCMkliBN+3VbkZIH0V1cY6"
+    "Versao":  "4.50.107",
+    "Instalador":  "EnginePro_Setup_4.50.107.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.107/EnginePro_Setup_4.50.107.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.107/EnginePro_Setup_4.50.107.exe.gz",
+    "SHA256":  "16629C295AE2440EA24157D0BDC704E5AE54C6712F5D99030F63E303102C794A",
+    "Data":  "2026-11-12 09:09",
+    "Notas":  "Diagnostico do cache da colmeia",
+    "Assinatura":  "QyrwZCzrPNHV44Ea5RbuVXgktto1FZx1K/yJyagShUjvLiWofouydHMNONjVbz4hDOCsqA5GyHXH2CUBuLkU2vUhqcEEhJ+LnSEoqZu8usWHT1NvNmpHQouty1r3ozJhOpRgtDOTky/+QiRMg/uxsF24lcxsSdwyMV8kbbJtYNTRjDEqrhgQETc84di2L84qunItS1ZK69zSwlvRCJCA2lgFQa+PdGAkJLsFl1TONKummX/O/B3oTd8fwJkuVNZxipEyUEyPFomuOAslGVWQVCzogXIJyJ6MiPyhLMSjUsC4b6ow7FMEZ//yEbjsOCIOeuwHFcXbN+ArBj2cFKbiganYzkY/5ASx+gcXN+1aRDtxNLEziEgjKek9kgj6md92Bb0YWdyi1jzQdBmTIbT/k0saC2tUibO5IBtU+hmz1Ug/8e1tsVUPrmSAW0jTIJLuxz0tU9L23iFn3OEkfTWsJE25JYj+isBwtbEzaKsQ+RSJjVoXFgpxbF/LIFEsDDKj"
 }

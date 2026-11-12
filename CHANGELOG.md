@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.107 | Diagnostico do cache da colmeia | 12/11/2026
+
+- **Melhoria**: Diagnostico do cache da colmeia.
+
 ## Versão 4.50.106 | Abertura fluida (cache colmeia 5 min) | 12/11/2026
 
 - **Melhoria**: Abertura fluida (cache colmeia 5 min).
