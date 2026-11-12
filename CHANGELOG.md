@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.116 | Robo animado (Y vermelho) no rodape dos e-mails, inline p... | 12/11/2026
+
+- **Melhoria**: Robo animado (Y vermelho) no rodape dos e-mails, inline por CID, por tipo.
+
 ## Versão 4.50.115 | Corrige acentos (UTF-8) no envio dos e-mails da quarentena | 12/11/2026
 
 - **Correção**: Corrige acentos (UTF-8) no envio dos e-mails da quarentena.

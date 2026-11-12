@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.116",
+        "Data":  "2026-11-12 12:09",
+        "Notas":  "Robo animado (Y vermelho) no rodape dos e-mails, inline por CID, por tipo",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.116/EnginePro_Setup_4.50.116.exe"
+    },
+    {
         "Versao":  "4.50.115",
         "Data":  "2026-11-12 11:38",
         "Notas":  "Corrige acentos (UTF-8) no envio dos e-mails da quarentena",
