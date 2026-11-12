@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.117 | Email HTML com quebras, robo por assunto, nome correto do... | 12/11/2026
+
+- **Melhoria**: Email HTML com quebras, robo por assunto, nome correto do usuario, tela azul de driver autonoma.
+
 ## Versão 4.50.116 | Robo animado (Y vermelho) no rodape dos e-mails, inline p... | 12/11/2026
 
 - **Melhoria**: Robo animado (Y vermelho) no rodape dos e-mails, inline por CID, por tipo.

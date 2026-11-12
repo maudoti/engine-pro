@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.117",
+        "Data":  "2026-11-12 14:17",
+        "Notas":  "Email HTML com quebras, robo por assunto, nome correto do usuario, tela azul de driver autonoma",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.117/EnginePro_Setup_4.50.117.exe"
+    },
+    {
         "Versao":  "4.50.116",
         "Data":  "2026-11-12 12:09",
         "Notas":  "Robo animado (Y vermelho) no rodape dos e-mails, inline por CID, por tipo",

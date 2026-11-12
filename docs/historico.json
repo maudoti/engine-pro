@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.117",
+        "Data":  "2026-11-12 14:17",
+        "Titulo":  "Email HTML com quebras, robo por assunto, nome correto do...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Email HTML com quebras, robo por assunto, nome correto do usuario, tela azul de driver autonoma."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.116",
         "Data":  "2026-11-12 12:09",
         "Titulo":  "Robo animado (Y vermelho) no rodape dos e-mails, inline p...",

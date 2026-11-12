@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.116",
-    "Instalador":  "EnginePro_Setup_4.50.116.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.116/EnginePro_Setup_4.50.116.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.116/EnginePro_Setup_4.50.116.exe.gz",
-    "SHA256":  "B42620A9F9AD082F4C044E13D5F027159F86E545540F2576D5DD118116D4D5A9",
-    "Data":  "2026-11-12 12:09",
-    "Notas":  "Robo animado (Y vermelho) no rodape dos e-mails, inline por CID, por tipo",
-    "Assinatura":  "tyQEVVdbb+o8wT1Tu1nE8wbiviPQlJq/yy9zmIZKNq7zP9Xoj6L8+UqBfsalul8KixxsRSr8IKci1NREZSqlTU4LsoonQg8yt3oFZWqTc4C+wuhY1mlV57MhbOatNvWhHIHGed2IWJgw1u2DkFaZUNX4PZgssoGFDdj4+FO+MzO/WLB/iIHtUrpY12hJg+dbDtjHAFP26mJTK0TpkHzsELK4GHrTxPcSr5UD8/aUO0h8QW7C8A3WOXItVtkM5dpYIq8Ov8/NCOcr+lzoEKSMR8ZcM30YcUMQJMo/0kT8mDfFoFPZfTescAhrs06Vqf6jeejwaIlfIeu0wXXBsmuHHNxTRjQSvrxHEtWGtMkyQFiV5mz02PhUcIbbw53QLTwWuR70LRrKi38YZpmNrYn3/LoprU/na+Pxh9p7gZJKuSyqs5JT2usb5ydjE6XhH8BzmgzeWsBX8tB62qK1hMYhdpBxuATmirhkZaRmJWhMPmUMudnSqYYpqv1cTNJAvjCw"
+    "Versao":  "4.50.117",
+    "Instalador":  "EnginePro_Setup_4.50.117.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.117/EnginePro_Setup_4.50.117.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.117/EnginePro_Setup_4.50.117.exe.gz",
+    "SHA256":  "C14EB01594AD90F28CA07139F96DDDE9B526B465543E7EF8C18E8ADB9943C3DA",
+    "Data":  "2026-11-12 14:17",
+    "Notas":  "Email HTML com quebras, robo por assunto, nome correto do usuario, tela azul de driver autonoma",
+    "Assinatura":  "s2bPZKt0wF0rtBEAo1c0F2e0rhWxuvInVoWVuWDHvA5joo8mKLXl7t9iqtaKhNFlc1nElnWuW/rPacQj9cfmoUmXE1DvLEgZ/K909akNqzGPR45pwtchfSHMMj8n5WJpIh59/lSb9h6jADX2BOxIUIIREH96tsRFf1HfcGaImYXaAilKrR8gR/vQvApF15quy1GMMhezNO5PlDlHfNHfHEIayuXchkFZjUj5ZUiU2QcaaznNcAywK5dDtJodLubIFlplt0fb46t61FFQWFsP1qb8j1l2mLfCgALyEih0/oftpQqpG+vUasADe25PdLQTZzMU+FYAg0UvoeyGKfC36gQpaMeoY9iw/EKdNUdZPvKZTCcKrU9LmRoe00MZnZ1/OT/B48oxBJAc1cYMnKBTmS5rP8usYkhApZnPmMb7twuTt1GT4TzPotcu0rbSH6l47dhArA+iB3MEz75s56rFb2dhBh8XqrEGtWcwgtWQHHT8QzM8DhCrPISSQZr97r0n"
 }
