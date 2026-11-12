@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.121",
+        "Data":  "2026-11-12 15:33",
+        "Titulo":  "Correções e melhorias internas",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Correções e melhorias internas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.120",
         "Data":  "2026-11-12 15:20",
         "Titulo":  "Monitor de quedas de plataformas (M365 Service Health + s...",
