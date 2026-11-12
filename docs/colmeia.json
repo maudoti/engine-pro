@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1319,
-    "Pesquisas":  13348,
-    "N48":  3874,
+    "Conhecimentos":  1320,
+    "Pesquisas":  13420,
+    "N48":  3903,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-12 00:39",
-                         "Texto":  "Nova versão 4.50.95 publicada: Correções e melhorias internas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-12 00:56:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000010D (WDF_VIOLATION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-12 00:30:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 37 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-12 00:56:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 109 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 23:36:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-12 00:39",
+                         "Texto":  "Nova versão 4.50.95 publicada: Correções e melhorias internas",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 37 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 109 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-11 23:36:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -38,64 +43,59 @@
                          "Data":  "2026-11-11 22:52:06",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C5 (DRIVER_CORRUPTED_EXPOOL) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-11 22:52:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000D6 (DRIVER_PAGE_FAULT_BEYOND_END_OF_ALLOCATION) no Win...",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  257,
-                  188,
-                  227,
-                  166,
+                  249,
+                  187,
+                  219,
+                  168,
                   145,
-                  184,
-                  64,
-                  27,
+                  187,
                   42,
+                  27,
+                  33,
                   30,
                   51,
-                  19,
-                  54,
-                  21,
-                  59,
-                  40,
-                  39,
-                  68,
+                  43,
+                  30,
+                  33,
+                  56,
+                  31,
+                  63,
+                  44,
                   63,
                   67,
-                  49,
-                  74,
+                  73,
                   54,
-                  151,
-                  176,
-                  122,
-                  141,
-                  142,
-                  132,
-                  175,
-                  68,
-                  52,
+                  50,
+                  179,
+                  172,
+                  123,
+                  140,
+                  136,
+                  144,
+                  179,
+                  48,
+                  38,
                   50,
                   35,
-                  18,
                   27,
                   27,
                   18,
-                  33,
-                  57,
+                  27,
+                  42,
+                  39,
                   89,
-                  27,
-                  71,
-                  38,
-                  84,
+                  51,
+                  47,
+                  70,
+                  52,
                   100,
                   16,
-                  37
+                  109
               ],
-    "Ultima":  "2026-11-12 00:30:15",
-    "Gerado":  "2026-11-12 00:47:04",
-    "Data":  "2026-11-12 00:47"
+    "Ultima":  "2026-11-12 00:56:24",
+    "Gerado":  "2026-11-12 00:57:04",
+    "Data":  "2026-11-12 00:57"
 }
