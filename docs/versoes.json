@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.115",
+        "Data":  "2026-11-12 11:38",
+        "Notas":  "Corrige acentos (UTF-8) no envio dos e-mails da quarentena",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.115/EnginePro_Setup_4.50.115.exe"
+    },
+    {
         "Versao":  "4.50.114",
         "Data":  "2026-11-12 11:17",
         "Notas":  "Recomendacao por componente, disco enchendo com limpeza segura automatica e tamanho real, reparos explicados",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.115",
+        "Data":  "2026-11-12 11:38",
+        "Titulo":  "Corrige acentos (UTF-8) no envio dos e-mails da quarentena",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige acentos (UTF-8) no envio dos e-mails da quarentena."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.114",
         "Data":  "2026-11-12 11:17",
         "Titulo":  "Recomendacao por componente, disco enchendo com limpeza s...",

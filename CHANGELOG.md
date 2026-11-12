@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.115 | Corrige acentos (UTF-8) no envio dos e-mails da quarentena | 12/11/2026
+
+- **Correção**: Corrige acentos (UTF-8) no envio dos e-mails da quarentena.
+
 ## Versão 4.50.114 | Recomendacao por componente, disco enchendo com limpeza s... | 12/11/2026
 
 - **Melhoria**: Recomendacao por componente, disco enchendo com limpeza segura automatica e tamanho real, reparos explicados.
