@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1286,
-    "Pesquisas":  13143,
-    "N48":  4121,
+    "Pesquisas":  13158,
+    "N48":  4136,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 21:12",
-                         "Texto":  "Nova versão 4.50.78 publicada: Correções e melhorias internas",
+                         "Data":  "2026-11-11 21:16:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-11 20:53:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 70 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-11 21:12",
+                         "Texto":  "Nova versão 4.50.78 publicada: Correções e melhorias internas",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-11 20:53:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 70 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1690 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-11 20:34:41",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000080 (NMI_HARDWARE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1675 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-11 19:46:09",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000051 (REGISTRY_ERROR) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-11 19:45:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-11 19:12:00",
@@ -47,17 +47,17 @@
                  ],
     "Horas":  [
                   103,
-                  72,
-                  135,
-                  259,
-                  213,
-                  252,
-                  142,
-                  176,
+                  100,
+                  108,
+                  267,
+                  233,
+                  224,
+                  165,
+                  152,
                   173,
-                  129,
-                  38,
+                  149,
                   27,
+                  18,
                   45,
                   42,
                   36,
@@ -70,32 +70,32 @@
                   54,
                   78,
                   67,
-                  64,
-                  38,
-                  100,
-                  159,
-                  167,
-                  145,
-                  116,
-                  143,
-                  178,
-                  115,
+                  72,
+                  41,
+                  89,
+                  191,
+                  153,
+                  127,
+                  137,
+                  151,
+                  149,
+                  129,
                   48,
-                  60,
+                  46,
                   42,
                   30,
-                  18,
                   27,
-                  27,
+                  23,
+                  22,
                   18,
-                  42,
-                  71,
+                  47,
+                  66,
                   75,
                   54,
                   51,
-                  45
+                  60
               ],
-    "Ultima":  "2026-11-11 20:53:59",
-    "Gerado":  "2026-11-11 21:12:21",
-    "Data":  "2026-11-11 21:12"
+    "Ultima":  "2026-11-11 21:16:45",
+    "Gerado":  "2026-11-11 21:17:05",
+    "Data":  "2026-11-11 21:17"
 }
