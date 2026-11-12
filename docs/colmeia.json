@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1326,
-    "Pesquisas":  14355,
-    "N48":  3500,
+    "Conhecimentos":  1327,
+    "Pesquisas":  14368,
+    "N48":  3504,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-12 11:38:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-12 12:00:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C: deve encher em cerca de 19 dias",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-12 11:38",
-                         "Texto":  "Nova versão 4.50.115 publicada: Corrige acentos (UTF-8) no envio dos e-mails da quarentena",
+                         "Data":  "2026-11-12 12:00:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 2 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,82 +20,82 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-12 11:59:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 37 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1057 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-12 11:38",
+                         "Texto":  "Nova versão 4.50.115 publicada: Corrige acentos (UTF-8) no envio dos e-mails da quarentena",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-12 11:15:50",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000FE (BUGCODE_USB_DRIVER) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1044 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-12 10:43:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-12 10:28:23",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000EA (THREAD_STUCK_IN_DEVICE_DRIVER) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-12 09:58:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C: deve encher em cerca de 20 dias",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  43,
-                  30,
-                  33,
+                  34,
+                  42,
+                  21,
                   56,
-                  31,
-                  63,
-                  44,
-                  63,
-                  67,
-                  73,
+                  45,
+                  49,
                   54,
-                  50,
-                  179,
-                  172,
+                  78,
+                  51,
+                  64,
+                  54,
+                  70,
+                  189,
+                  167,
                   123,
-                  140,
-                  136,
-                  144,
-                  179,
+                  138,
+                  143,
+                  146,
+                  147,
                   48,
-                  38,
-                  50,
-                  35,
+                  60,
+                  42,
+                  21,
+                  27,
                   27,
                   27,
                   18,
-                  27,
                   42,
-                  39,
-                  89,
-                  51,
+                  71,
+                  75,
+                  33,
                   47,
                   70,
-                  52,
-                  100,
+                  77,
+                  75,
                   16,
                   109,
-                  84,
-                  103,
-                  156,
-                  153,
-                  124,
-                  139,
-                  60,
-                  52,
-                  10,
-                  28,
-                  26
+                  113,
+                  78,
+                  183,
+                  141,
+                  133,
+                  138,
+                  43,
+                  42,
+                  19,
+                  19,
+                  39
               ],
-    "Ultima":  "2026-11-12 11:38:36",
-    "Gerado":  "2026-11-12 11:57:06",
-    "Data":  "2026-11-12 11:57"
+    "Ultima":  "2026-11-12 12:00:16",
+    "Gerado":  "2026-11-12 12:07:05",
+    "Data":  "2026-11-12 12:07"
 }
