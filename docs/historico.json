@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.125",
+        "Data":  "2026-11-12 16:10",
+        "Titulo":  "Scan TCP/ARP, monitor de quedas, fila de impressao",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Scan TCP/ARP, monitor de quedas, fila de impressao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.124",
         "Data":  "2026-11-12 16:08",
         "Titulo":  "Correções e melhorias internas",

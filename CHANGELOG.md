@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.125 | Scan TCP/ARP, monitor de quedas, fila de impressao | 12/11/2026
+
+- **Melhoria**: Scan TCP/ARP, monitor de quedas, fila de impressao.
+
 ## Versão 4.50.124 | Correções e melhorias internas | 12/11/2026
 
 - **Melhoria**: Correções e melhorias internas.

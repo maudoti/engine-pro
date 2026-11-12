@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.124",
-    "Instalador":  "EnginePro_Setup_4.50.124.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.124/EnginePro_Setup_4.50.124.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.124/EnginePro_Setup_4.50.124.exe.gz",
-    "SHA256":  "A1C13FF206D246DD3166131574F895E8BF799D1B1D0A70B99AA985DB5D9A60AA",
-    "Data":  "2026-11-12 16:08",
-    "Notas":  "Correções e melhorias internas",
-    "Assinatura":  "WuR4w42R9dka/LXegDDtc9kWPAzKvNeHxl4qr7VBUGL621tLADGqbWaXJQIeSlguX81LtTRoS/Wc4Ub/+GVKUDJ9KQxAH+ScCTZgtumKUpMID9EHhkM6l5pZwIL53UocoYcn0wbgSTDY1PDk/x19EYkkkZQsMoUq1EJxKrNoWbjtdTfQ0rYj+KUv52IKfsFZTTG2cgsLdl7rXY/UPgbYujFoL0WSKRSm+zEVEq5EDZZJUD+YjJQKL9JDOULuQGyoDV7zXJRlWOJMVp9NV9dw99tBhBms/QYKLaZwvNnxJ0oenpicUcYHPZLbGAfrB3hjy0yhkYuN2oBViOdRfYgs4SrY8MWvkFNa844tSOpVpiaQ2B1xD7DaZyJZWN14394I8wxuroMhRhDA7jETzshF5YVB0k/QgmP5Sv3xpHwCDqt1kwpyGiv6tgckMFaCPvpNy2NXiwggoGL+mz+WwukHYR9YcWM/8c4CNSHM9R0ElVph2wyY2yGHiQ1azBRzphIO"
+    "Versao":  "4.50.125",
+    "Instalador":  "EnginePro_Setup_4.50.125.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.125/EnginePro_Setup_4.50.125.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.125/EnginePro_Setup_4.50.125.exe.gz",
+    "SHA256":  "BDB857A57B6B4249A6AC875E771A1EAC22400D86074DC3175907C902C74C9340",
+    "Data":  "2026-11-12 16:10",
+    "Notas":  "Scan TCP/ARP, monitor de quedas, fila de impressao",
+    "Assinatura":  "DgxsEjCh6jaScCrkc4KA0p9IPxqWDum+FlJ4XJ3aQl5GHNA6s0KEuPmBItE4lT2DO3OZbw5vQzSVSssgfEgtxHnW39aVkYyddM3LfPW8MwlbffXcov/JawXCgPo74edYn5Mh8oI9ZIUIlT+6Trb7/0s+51XFpBYA1UTRzSMEXSA/XISds7Q4YnASOJXqGgvonHlDKR+tn3HC5TqN3NuZnv4+EfG+8v9Kqf1vSQsK/IjsBJyo0MMoN4DUWTUUpoVM9b7oC88P99Gwnrr51wKICidlyY1+wDCSBD7wH0+Rhq+ER87Ch/DAEl5+5xBQXflmBkdBqyCF2Pbq5OjmAdM4m9Aanj3Z8X3LvY68oCz2D8CGMftUw6BSuY9ewWN7A09T1g044J9Ec9fAL7airNOXx/YS/L/nQChivyv9+k/j9DjEvJXjNTCd8O05d7h6/8Qvw93S9utEeVit6Vb0sc0krQk7d4ctMmOml/m3zOVhLGkOE5C223c3pNQw51z5CHD2"
 }
