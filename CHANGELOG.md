@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.129 | Scan coluna Engine Pro | 12/11/2026
+
+- **Melhoria**: Scan coluna Engine Pro.
+- **Melhoria**: Estacoes instantaneas.
+- **Melhoria**: Impressao Excluindo.
+
 ## Versão 4.50.128 | Scan coluna Engine Pro | 12/11/2026
 
 - **Melhoria**: Scan coluna Engine Pro.

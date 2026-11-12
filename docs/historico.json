@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.50.129",
+        "Data":  "2026-11-12 17:03",
+        "Titulo":  "Scan coluna Engine Pro",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Scan coluna Engine Pro."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Estacoes instantaneas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Impressao Excluindo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.128",
         "Data":  "2026-11-12 17:01",
         "Titulo":  "Scan coluna Engine Pro",
