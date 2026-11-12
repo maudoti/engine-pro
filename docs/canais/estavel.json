@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.119",
-    "Instalador":  "EnginePro_Setup_4.50.119.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.119/EnginePro_Setup_4.50.119.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.119/EnginePro_Setup_4.50.119.exe.gz",
-    "SHA256":  "37CDB5ADAE551E837270D6E99B024BFF5C3880ADD9C4BCC3812F9D292F2A019B",
-    "Data":  "2026-11-12 15:06",
-    "Notas":  "COLMEIA: Claude assume os estudos quando as IAs gratuitas esgotam, com teto maior e backoff",
-    "Assinatura":  "pW800Si0dwsnroNtqPlM3fGizFIfH36JCLhdeFT2Wgpd1hxP2Ieo5zTbQoSpbY17faTLhXVvzpxE3xMbZ3q8Mj8rZ8hc99fOb/ACj6EDVi0p9w2DSgLrYVIUB193KJ8AipwsyP3s7nJeGQQNAu7ouNOqYoE9/hS4TkifoCzoyIjILp45fHGMOfmQYgH0rzuzkSnrK7UdHuFTjYJR2C5ZHGyzP3c8IqNsLlu/bqpwB0PDfZZaXSZArHBCzAKVWSjsIKa9CHCsEl8X5FnTNe8HxH1Y+c4YeO1rstCxZ/Qs/ySbDC0XeiOqxPCHTq7ZeRFM1WgKaRht3EQUL3NdT4heYJ5v7CjH2oNyQJIFleHzHSvPieodxcOWy2VOAJW6UKu+jNAYoOX1fV3jYbTfqRsuZO0+umzO56djMLh5qRwNCqgDD2HSYs+DdY6tkysMtpbKez/aDW8gGq1L1aNnEQQNjvWuKna7Tr+nCJYqrZZu6zB99NXUrtxycUlxX9x1GcHg"
+    "Versao":  "4.50.120",
+    "Instalador":  "EnginePro_Setup_4.50.120.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.120/EnginePro_Setup_4.50.120.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.120/EnginePro_Setup_4.50.120.exe.gz",
+    "SHA256":  "7CF52D7A27D2D58431F1EF2B5E625BCFCDA19EE4ECED0D2572B94E08AD1E6C42",
+    "Data":  "2026-11-12 15:20",
+    "Notas":  "Monitor de quedas de plataformas (M365 Service Health + status pages) avisando a TI",
+    "Assinatura":  "EY0wQu1ag6+EAGBMst11h4ICbezlb5Ffr0EeNMO5vPcc2sIOLFJ/b+7Zc7OEU8pLsqSLT4Z3nAA73MyjmnFA3FWXgjrxEuwbczDSfscl1HR3qMfqCm1r4Uf5DuYwj4G4+bVIfMlgRL5Uzjc7ThivbOI/8x9bQLRWsYtJNQuVMUrS4IOq75O2aftf8fJ5rieCwZBmsDwF+Yy/vKAkcAaligj8wvNyacLgiCi881N+jTgZudrmfG9Uv1kHNrWL67VNxSHsVp3p9b76URoaDETLfMVH2SYBGITjovxaTHDz9a1UQzNXuUbLTRRZH+vjcTMlh+dWKJy+Poqgv4ZH+/EdRby12k32D29qp1Jz/fqRK6PlIKoJWzg1ZL4TRT6jy+YvQhkDog08m4ZlDRFTO4JPF77yabP0962UsEUnQngUzCfZUsETYM1WNhelvlIXniHlCBD/6yMmm1QSM3qK1n0Rz7aZ6NK8/H1V/Bj5W7KPM4GV0yQWv7T7Vy/kor2i7nrg"
 }

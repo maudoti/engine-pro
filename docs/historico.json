@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.120",
+        "Data":  "2026-11-12 15:20",
+        "Titulo":  "Monitor de quedas de plataformas (M365 Service Health + s...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Monitor de quedas de plataformas (M365 Service Health + status pages) avisando a TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.119",
         "Data":  "2026-11-12 15:06",
         "Titulo":  "COLMEIA: Claude assume os estudos quando as IAs gratuitas...",

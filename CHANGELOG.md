@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.120 | Monitor de quedas de plataformas (M365 Service Health + s... | 12/11/2026
+
+- **Melhoria**: Monitor de quedas de plataformas (M365 Service Health + status pages) avisando a TI.
+
 ## Versão 4.50.119 | COLMEIA: Claude assume os estudos quando as IAs gratuitas... | 12/11/2026
 
 - **Melhoria**: COLMEIA: Claude assume os estudos quando as IAs gratuitas esgotam, com teto maior e backoff.
