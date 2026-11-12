@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.80",
-    "Instalador":  "EnginePro_Setup_4.50.80.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.80/EnginePro_Setup_4.50.80.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.80/EnginePro_Setup_4.50.80.exe.gz",
-    "SHA256":  "7E79BD6792DAC8A02EF2580BC779EECB38D1E5FA718E086A2E5C48425104AD63",
-    "Data":  "2026-11-11 21:38",
+    "Versao":  "4.50.81",
+    "Instalador":  "EnginePro_Setup_4.50.81.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.81/EnginePro_Setup_4.50.81.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.81/EnginePro_Setup_4.50.81.exe.gz",
+    "SHA256":  "04CBCE09A32A9CD21729F4B3A8539E1D688C7F050D229A7C3D7AAEA023E128DB",
+    "Data":  "2026-11-11 21:45",
     "Notas":  "Correções e melhorias internas",
-    "Assinatura":  "BAxzQj5X53jK/u/yymJDhqCvH3c2AORBi2G7RliekJNiFH9j/JAEAVrcgObX9h4S+7N90G8WA691izea8p9g1wXzzWxIPf13MXC1nkum3XwXmY+aYzJE0C1rVodx2lQ1pq1PrzLVPyPbVZJbscKdXKoLTQXxNHrNXvxFguJO7hMXG1mxjEzSFNyr0Z7k1TJ+Jyoi20cK0uIVg3QO0NLhUsoFYJypo/CLXCfRSfoxsYWDRP7KDkH1GSsNsrLjGvLofNwDmfngUKKMyesS2JaABCMsV15THq/zF0tdxOH6j1eIkBX8sWWz79vrWKLf0ZXiOqXctj8hFPVLgRkIwWZmkMrdv4IWBE/+thd+EGRlY6goB2D4j1nj42KbreMB7qIb1oWWKGy/+Q5UB8ex1vi50rHg7ORGCR4hoQ7GH/NVHjj8xz23hFfU8pwJ5oCSz8nlmkreAtVV7BYaUG8TK+hk4pGHDcnPaacutApJCYSKZTEbWwvBZa7dnENqhC6YgQo5"
+    "Assinatura":  "H8jZcdyEVH2gAkAjGLmrXE8VwDG6UiRIWzFynWZ7X0hLVgMv5BSwpnxkt5G7vS5dHdXW7W/dlXU0zFpqJuCyuYVMrHcFCI1FtKg5mpNaOMtjCGCtmtnSbVfNVraIBAmkpm/z/Ph1VyHRmFyuhceNPvR4d2Uhu/JnXbcspcC0Lt/uB8wG51k15E8uDlUZpYI6m1aR0hYvlXhHppU6RRwBVpByStg6uGJEq6sbIxIucqDbJ89xs0uw70RrhlegnqLFuNK0wqDP/mHpakb3GCU07LL0FsDhUB783H82pU2FuK5q29GZQ1cQw5AaFFS60bdZvYBIUZDysbe7URVpmXbde3yyobUcwVacE1GxMFVwkSqykoRPXJ45CmHSoU5HLGzwR+X2eWAFClMSoNL9L2TpPiHwGR94qZGFIpGnX2Zmbk2z4ZripmvC8Abl6PY7rBLEAOVHqRgHQLaF6Ejrj7aEGKOaQ05fchJwpty3K+1J22bDbEZjd/5ZWIq7/DvJCt2c"
 }
