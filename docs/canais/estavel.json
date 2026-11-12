@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.105",
-    "Instalador":  "EnginePro_Setup_4.50.105.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.105/EnginePro_Setup_4.50.105.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.105/EnginePro_Setup_4.50.105.exe.gz",
-    "SHA256":  "25D169A8523AA7C8F4E9CDE8D21A51D8B372814057DE83C421ED02683FA73949",
-    "Data":  "2026-11-12 08:42",
-    "Notas":  "Correcao: abertura nao congela mais (processamento da colmeia com cache em disco, freio e adiado 22s na abertura)",
-    "Assinatura":  "cS8jZT4MV/QRoHdTMJPv6FrwcG+GiLQF6hTPLuQzwt3hx/AzhfFJCaIQzkWF+4UczVF7UPdRJR2xm9CwosacoQOcUGMNV3lD1KUiEx07Q/O3fnmMFkNUY1Mas5gBqEMmIWYLIjL7O5hO1UHdopMjyNG096bg5t/U2HDgU9oo1i56unARaXFoQu9UVJN5PPai1B403lyL5v5juKDewEhogIJyi5K6uwh51AL/G2j6ExgEYtRjaWzpuEvM+yJ9x+X4t6bZxrARQOk7Jg8HFrV2YvXe4iiBovMyWxzymdJzjWuUScQKbHFyVmNDxJzVT4XEpP/hVarF7AfPOOkpKBNUj/l/Jpsp+JNurDfZcxU2xl+FW8hKM59IwQP2SiYRfEDX4OHwYlCjF6ZafkQA817TdtmN8izYKaBmHGAnVGThDzTq35m4gEEfVbYzULnTnbcdvoDADmfpz6KQoeUKqUQWqF10c7al5DD1wSQXn17LejbVKPq16+JGKMcaHrqOdj+U"
+    "Versao":  "4.50.106",
+    "Instalador":  "EnginePro_Setup_4.50.106.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.106/EnginePro_Setup_4.50.106.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.106/EnginePro_Setup_4.50.106.exe.gz",
+    "SHA256":  "92844E2C196B209B0B1A92C0052E3FBCAD3DD7C28AD1205D77EB85041F15C9D4",
+    "Data":  "2026-11-12 08:58",
+    "Notas":  "Abertura fluida (cache colmeia 5 min); disco confere SMART antes de falar em falha; Java pergunta ao inves de desligar sozinho; IA religa a Protecao do Sistema",
+    "Assinatura":  "pMpOmhrBowFNlkA6x3Afv4FuVsoeVenvyLdwHZsTW2PuY78soOmsnN5c0yPi71jKxob9O93tSXJyK4LxgfPV+nQBJkBqCL/C2ZtNYfBz5FXBnX5ASMQx2VEnqNFqFDGyhpJYHQphDrW9SeGvqRzij7pd35AZoLGqIZrnmB94r8oIJRBo49OgESUN/xlh/S+GoJBEamc8ENuV0vSdtDbirmjsd3x+UQ5gwRhK66aiFrj96BE7qRaW6Oh5Xq1u2Hz59/yj2aPlIrv4mgiNtXh+ikmjtUiz4/HCyWg2rOOQa5UGITRrB8XpnQz4tr+MyJCl+BHYtVd3MDfPsLbwAnm7zNShXjQEh13UjGn92dxzy0b16aj8oLohM6L298IHthQPxbYYbZj2xKlx+F5AEoLNjXo76taVkOINPhkxNPNDnzAauR/PXQYA55cHMoaS5a3FuvGIzHosIAj00N7K4XJ05Phl80TKIp6f24+YDkguk2UCMkliBN+3VbkZIH0V1cY6"
 }

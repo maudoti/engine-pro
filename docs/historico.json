@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.50.106",
+        "Data":  "2026-11-12 08:58",
+        "Titulo":  "Abertura fluida (cache colmeia 5 min)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Abertura fluida (cache colmeia 5 min)."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Disco confere SMART antes de falar em falha."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Java pergunta ao inves de desligar sozinho."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA religa a Protecao do Sistema."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.105",
         "Data":  "2026-11-12 08:42",
         "Titulo":  "Abertura nao congela mais (processamento da colmeia com c...",

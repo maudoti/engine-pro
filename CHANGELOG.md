@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.106 | Abertura fluida (cache colmeia 5 min) | 12/11/2026
+
+- **Melhoria**: Abertura fluida (cache colmeia 5 min).
+- **Correção**: Disco confere SMART antes de falar em falha.
+- **Melhoria**: Java pergunta ao inves de desligar sozinho.
+- **Melhoria**: IA religa a Protecao do Sistema.
+
 ## Versão 4.50.105 | Abertura nao congela mais (processamento da colmeia com c... | 12/11/2026
 
 - **Correção**: Abertura nao congela mais (processamento da colmeia com cache em disco, freio e adiado 22s na abertura).

@@ -5,14 +5,14 @@
     "N48":  3550,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-12 08:58",
+                         "Texto":  "Nova versão 4.50.106 publicada: Abertura fluida (cache colmeia 5 min)",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-12 08:54:47",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C7 (TIMER_OR_DPC_INVALID) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-12 08:54:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 52 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-12 08:42",
-                         "Texto":  "Nova versão 4.50.105 publicada: Correcao: abertura nao congela mais (processamento da colmeia com cache em disco, freio e adiado 22s na abertura)",
+                         "Data":  "2026-11-12 08:54:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 52 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -63,14 +63,14 @@
                   50,
                   179,
                   172,
-                  123,
-                  140,
+                  137,
+                  126,
                   136,
                   144,
                   179,
                   48,
-                  38,
-                  50,
+                  44,
+                  44,
                   35,
                   27,
                   27,
@@ -88,14 +88,14 @@
                   109,
                   84,
                   103,
-                  156,
-                  153,
-                  124,
-                  139,
-                  60,
+                  158,
+                  151,
+                  127,
+                  137,
+                  59,
                   52
               ],
     "Ultima":  "2026-11-12 08:54:34",
-    "Gerado":  "2026-11-12 08:57:05",
-    "Data":  "2026-11-12 08:57"
+    "Gerado":  "2026-11-12 08:58:26",
+    "Data":  "2026-11-12 08:58"
 }
