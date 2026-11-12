@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.103",
+        "Data":  "2026-11-12 08:17",
+        "Titulo":  "Msiexec e processos de instalador/atualizador do Windows ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Msiexec e processos de instalador/atualizador do Windows nao geram mais alerta (falso positivo)."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Busca das Estacoes ignora acentos."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.102",
         "Data":  "2026-11-12 02:56",
         "Titulo":  "A busca das Estacoes passa a ignorar acentos (andre acha ...",

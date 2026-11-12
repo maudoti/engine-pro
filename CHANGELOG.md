@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.103 | Msiexec e processos de instalador/atualizador do Windows ... | 12/11/2026
+
+- **Correção**: Msiexec e processos de instalador/atualizador do Windows nao geram mais alerta (falso positivo).
+- **Correção**: Busca das Estacoes ignora acentos.
+
 ## Versão 4.50.102 | A busca das Estacoes passa a ignorar acentos (andre acha ... | 12/11/2026
 
 - **Correção**: A busca das Estacoes passa a ignorar acentos (andre acha Andre) e maiusculas/minusculas.

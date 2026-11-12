@@ -5,13 +5,13 @@
     "N48":  3540,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-12 08:09:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-12 08:17",
+                         "Texto":  "Nova versão 4.50.103 publicada: Correcao: msiexec e processos de instalador/atualizador do Windows nao geram mais alerta (falso positivo)",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-12 07:51:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-12 08:09:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-12 07:29:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-12 07:51:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-12 02:56",
-                         "Texto":  "Nova versão 4.50.102 publicada: Correcao: a busca das Estacoes passa a ignorar acentos (andre acha Andre) e maiusculas/minusculas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-12 07:29:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-12 00:56:46",
@@ -46,25 +46,25 @@
                      }
                  ],
     "Horas":  [
-                  18,
-                  45,
+                  22,
+                  41,
                   42,
                   36,
                   45,
                   31,
                   52,
-                  25,
-                  45,
+                  33,
+                  37,
                   49,
                   54,
                   78,
                   67,
                   72,
-                  41,
-                  89,
+                  45,
+                  85,
                   191,
-                  153,
-                  127,
+                  157,
+                  123,
                   137,
                   151,
                   149,
@@ -74,28 +74,28 @@
                   42,
                   30,
                   27,
-                  23,
-                  22,
+                  27,
                   18,
-                  46,
-                  67,
+                  18,
+                  66,
+                  47,
                   75,
                   54,
                   51,
-                  60,
-                  68,
+                  64,
+                  64,
                   84,
                   1,
                   113,
-                  125,
-                  97,
-                  171,
                   128,
-                  131,
-                  130,
+                  95,
+                  176,
+                  126,
+                  129,
+                  128,
                   57
               ],
     "Ultima":  "2026-11-12 08:09:52",
-    "Gerado":  "2026-11-12 08:17:04",
+    "Gerado":  "2026-11-12 08:17:43",
     "Data":  "2026-11-12 08:17"
 }
