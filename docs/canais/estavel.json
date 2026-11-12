@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.131",
-    "Instalador":  "EnginePro_Setup_4.50.131.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.131/EnginePro_Setup_4.50.131.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.131/EnginePro_Setup_4.50.131.exe.gz",
-    "SHA256":  "A24611ACCCC69EF012C97CF81433056B2E6F11E13C633E4A0E3C2216A6F22D3F",
-    "Data":  "2026-11-12 17:32",
-    "Notas":  "Instalacao remota via C$; COLMEIA 5000",
-    "Assinatura":  "SOb1ACo7a6J0ZpzpC6j7X90+rNtuuE5Ld2FaTXgg8CJdU3ut6tRrPdDpIGi/5rsD6XZ6duLmlJYv/HE5qhRQMhwG2lcsaBFAc7Y22TBtLX1QIPlYkQxZoSbejxkf31MwtfXktCrMahma4RVvgvcYcHFf74msqmygwocIk4N6pLbXLlUzHJ7ESVmsXu9c0NDr8yAakPJS86BS6zb4Q8fZ/FeQreM/p1eOlugXCAHshKl8B3sRfTzyjcARzAopkqNSjJ+5kBQi97gGS53UZ0reHMof6AxRbIQLFxmB+eIHdfhqcLHi5Jn+zca9dR/Kl+yrkxQgIYYrZssKtLUT0jlxL+MwOiyIz4x5/b6/uFHSWNECOywPXLQS7FHfncQzPctxjR7MA7RquENeIsoFEzl4QYlhrjN0fnzDw/dtqdwxu8k2hWADUIXakEsQRwxEniD7R9YPTQx4A8raIgWULsOIZxEpgXop/UbcH1Zs7kN4ay54vUOmRddrj9cyG8hSS0yD"
+    "Versao":  "4.50.132",
+    "Instalador":  "EnginePro_Setup_4.50.132.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.132/EnginePro_Setup_4.50.132.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.132/EnginePro_Setup_4.50.132.exe.gz",
+    "SHA256":  "CAAD5E486EB4C4E9027DD3B8D63E022B670261CFF9C98875DF35150E9E3E86FD",
+    "Data":  "2026-11-12 17:44",
+    "Notas":  "Instalacao seleciona maquinas; Java pergunta; travamento software",
+    "Assinatura":  "YyNsH14O4XAtOwpcSErpIuxIeSb7JNr/OJRPSkxpuOAiF0PDQM+ZNOo61faMgCOEKpk8rvZXvjETTg0LiMse1MYokBhMXtPcL4iHnrpibOIguyKzwbc0X5K+QmG0ExGLeHjyg/65MwrDNk0uYAft7EVQUzecPSJwKLHfRAiJ3RR5QJWO0XKROS5vlR2UWAKoCPMCTYnufK9dRY838dwdne4VwFXRgQQ+fhoU5L+DRgqs+D91f5RvBEAdtrTzMuHZCI139yuUGbpvLmMaBb0yNkY0mOq2QQc2bqjqo9J1QA4PUVAOdaypQxiil4wLTWEA3JINpnk5GRM7Ea8Bv5WfPZVNUoYwp0Cjw2nHiD6wCjCh9ysjaHbQt53f4/6obNw2KcW1vpM0rZ8u7vLO8GdDQvi/nA4zMrMgMrae0jwuTXh5O95c4AGpekEtXvstl4K/5kePHj+xBTqm3pDwv2i1u5RURGAbjYgWk6gcceRPykMnzjt8xEEFEJtXiCTdFzV7"
 }

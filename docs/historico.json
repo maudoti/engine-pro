@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.50.132",
+        "Data":  "2026-11-12 17:44",
+        "Titulo":  "Instalacao seleciona maquinas",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Instalacao seleciona maquinas."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Java pergunta."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Travamento software."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.131",
         "Data":  "2026-11-12 17:32",
         "Titulo":  "Instalacao remota via C$",

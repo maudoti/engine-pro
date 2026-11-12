@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.132 | Instalacao seleciona maquinas | 12/11/2026
+
+- **Melhoria**: Instalacao seleciona maquinas.
+- **Melhoria**: Java pergunta.
+- **Melhoria**: Travamento software.
+
 ## Versão 4.50.131 | Instalacao remota via C$ | 12/11/2026
 
 - **Melhoria**: Instalacao remota via C$.

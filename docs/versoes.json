@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.132",
+        "Data":  "2026-11-12 17:44",
+        "Notas":  "Instalacao seleciona maquinas; Java pergunta; travamento software",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.132/EnginePro_Setup_4.50.132.exe"
+    },
+    {
         "Versao":  "4.50.131",
         "Data":  "2026-11-12 17:32",
         "Notas":  "Instalacao remota via C$; COLMEIA 5000",
