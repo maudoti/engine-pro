@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.100 | O e-mail separa o reparo do problema relatado da manutenc... | 12/11/2026
+
+- **Correção**: O e-mail separa o reparo do problema relatado da manutencao geral.
+- **Correção**: Nome do usuario na saudacao.
+- **Correção**: Avisos citam so o uso de camera/microfone, nao reuniao.
+- **Novo**: Reparo automatico da Lenovo ao detectar a camera travando, respeitando a trava.
+
 ## Versão 4.50.99 | Correções e melhorias internas | 12/11/2026
 
 - **Melhoria**: Correções e melhorias internas.

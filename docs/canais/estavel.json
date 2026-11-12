@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.42.4",
-    "Instalador":  "EnginePro_Setup_4.42.4.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.42.4/EnginePro_Setup_4.42.4.exe.gz",
-    "SHA256":  "741060D667CFD34E0A419BF49790E8AC0FDB0BB931C273AADFF7D5E8F16EC373",
-    "Data":  "2026-11-05 15:03",
-    "Notas":  "Abertura sem tela de carregando",
-    "Assinatura":  "W3+/4QfFFn3IzM93NEWywxzCTVD774sGntaYjmol8RJJPqBEF7MDJ4nM220w3MensSNQ1yzhBJhseaAhU+WBV6dkxMQzVn+sENb3wzmoaPLlQOpvKkQ6I+DFbAtBn9IGHiVjH0ekLFid1uMv0yLYWsgTITBPqI0Q2yLIDNmeRjZJZe6DTsqq5tLEyHlaF5Nve21egBu2owJTzk3elhaq86weRyfpoEeYO2h6vpaLBYSuK3h3HAz9W9M03yBQVxqs88mDLqI1W8tbuHBsIKsf7ZggUFxn9kVazxAMocCtVynLF4J8Q1O5S+aeNtj0qRxgkhXEKgEWg+q46YBTA0C+CgpiIA3vO0nH4A2jDL1iyDA21MOa9zI9Uq4sLBktDn0SMgLUxKx+NuUX5jCkmjSREbSBEQ4mRg6OggzC2BAwqz30o/eoAjiVDMt7yMKezONd/uDi73E3GFKCb2HwI6jFXoGhKGCebRiqip0SYGmJHy6mfTIm3+OxYo10FFg11jG7"
+    "Versao":  "4.50.100",
+    "Instalador":  "EnginePro_Setup_4.50.100.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.100/EnginePro_Setup_4.50.100.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.100/EnginePro_Setup_4.50.100.exe.gz",
+    "SHA256":  "BAEC6C4FFF8D1FD23CA69083E33DBCD714D8A6284CEC7047E79714941A7687AA",
+    "Data":  "2026-11-12 02:25",
+    "Notas":  "Correcao: o e-mail separa o reparo do problema relatado da manutencao geral; Correcao: nome do usuario na saudacao; Correcao: avisos citam so o uso de camera/microfone, nao reuniao; Novo: reparo automatico da Lenovo ao detectar a camera travando, respeitando a trava",
+    "Assinatura":  "uw/Wg77jCBr3Zu6BbpIN3WAfO0I4dMxUbew1bPkM2qJcqnR45qAkHi/qhXs1GncY79QDFYHBuZcyVGbMndJZVBxiXA+9ZsjUy4ToF15OxH3iOTq/qGlPd++/vN74ETgExtcsKwGi71j7XAKkcya3rNc6DrebDPnM3SW31L6xJgKtgafa0iNP1JdsMC9Y84rAAsTU5x9DpiynYtxL92owfJSI+wcx5ViflA8Uu9V3bGihq8iOzy+eDsbyrpfg48ksHbGENnqvScS8GfL+98izi2hb/z3zY4p3np74cywZqNAZMwI36lezxPjAP5rMzw1nZiZSjV3voQwjk+qsZAdJiQqgRkJ12fgRuFzJjcITmjQ70XGkk/X/Nfs8EkhCIiSxi2BU3fxKKu43rC+qYGoLzw+Ov+BgZ4e1wD3GXQ8bNwdyOz77ekx4JjcHqSJbJo8Km77N72N80jb6m/KouxC0B49n6PxrGieC7mMGbBJbYtAQtwcI4HXKGbFd52QrRKbl"
 }
