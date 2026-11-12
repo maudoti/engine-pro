@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.134",
+        "Data":  "2026-11-12 17:56",
+        "Titulo":  "Painel status das plataformas",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Painel status das plataformas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.133",
         "Data":  "2026-11-12 17:51",
         "Titulo":  "Autodiagnostico vigia subsistemas",

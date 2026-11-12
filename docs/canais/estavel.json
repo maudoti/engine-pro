@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.133",
-    "Instalador":  "EnginePro_Setup_4.50.133.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.133/EnginePro_Setup_4.50.133.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.133/EnginePro_Setup_4.50.133.exe.gz",
-    "SHA256":  "F1FD0EB1A960A6A055B2DEB3735D50A1B57293D8A56CD5F4D46498BFBB5D6406",
-    "Data":  "2026-11-12 17:51",
-    "Notas":  "Autodiagnostico vigia subsistemas",
-    "Assinatura":  "kY4slPX4xkTluo3cHmfJgsT9a4+f1NkyG+wcQOh/lX5OeFz6TCk4/DD03fqxfucyFPiDt3SnY9IsQy1ujCYthLRJ5atBLv90K2bap22Q0ECfQJ+8TC5OGKhqBEO5QxaMBc86WKc1gVrw+Y70xkHT+PemqjInmAk8O4HJVaw89Mcl8cht+JLWQ7zIcJSNud+CSAMIqmnfVd6H8tGZepJ5u/HGC7diQdlOFXcoweRw/EKy/JINZ0+idUcTtPSF1ZN4m6ETP0fncDH/5YXDd7Y+f9h0o9qXBcIcqHQkmUFi+fdjKTvip8fNeTN2i/ifWqKTjfV5saBFanMOHcD9uAnUpI82JD/a1Pi2F4disHxMOIcfFglAtrLFb/8MSwqPoMhqLpc/WVUCZYMJzbGgLMfYMOxpGBba+r8fNq62Cgy+HuHfdUGxOu2k3Xg39meSH/Kf9f84+jBemLQFyXYbxgNA5oZVcXGUCEK1HGmHqk7LidYGReeQQq1aVyZJ/bDooYA2"
+    "Versao":  "4.50.134",
+    "Instalador":  "EnginePro_Setup_4.50.134.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.134/EnginePro_Setup_4.50.134.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.134/EnginePro_Setup_4.50.134.exe.gz",
+    "SHA256":  "EC3DAFFD85015ED05F143700F4E4F2926E07A1DFA95E27E125A7DD7D4E8177BC",
+    "Data":  "2026-11-12 17:56",
+    "Notas":  "Painel status das plataformas",
+    "Assinatura":  "tAB7P4r4kMv1D4WEG9Y4nSqfIRmEEDM1kSqM5rH1vZTMbCvWG3Js+Ln6v3upzjBt0/jJrFbEA8r8dJkbiBbpRxPpS0N26Lz+U7tB3nCQDiWaJPQ0ewEz5qcKq87Q1j/U4CmpmYLLP4f80gplNUu0No1sr/I3RmKv0HVPswbF3vk62F0Amp6J5p5P34e9qFW+9Cp2wpv7kFUAMrhrtG42Fj/5B8y03IMjIRhstR/EThZ7/V0drdGnjP/gj9lGqwwn6GdGglK1Mx7C2LmBXhr7ft9I2ysduVvV4QyvCGE1ingpNH8JvlyQsCKBJmSi6NDNHvcN7sKGgjH/sgMShbiQ6u19NoFCNlZJhR/PE5sRyh6c+pw35jeDyrQNqWr3j0SsXpX26vNoqlluxKum/gdVm+xXqSqUO5Odh9pNaWt8AR4ZV+UX7el0O0Om4VjL3F/i6mgcvbiReSW9veJ3wbHp1h4UIzuTFO5w7TQweaq6hhjHKrytl44hjL42FMdlVdqI"
 }

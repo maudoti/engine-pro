@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.134 | Painel status das plataformas | 12/11/2026
+
+- **Melhoria**: Painel status das plataformas.
+
 ## Versão 4.50.133 | Autodiagnostico vigia subsistemas | 12/11/2026
 
 - **Melhoria**: Autodiagnostico vigia subsistemas.
