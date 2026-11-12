@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.93",
+        "Data":  "2026-11-12 00:14",
+        "Titulo":  "Correções e melhorias internas",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Correções e melhorias internas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.92",
         "Data":  "2026-11-12 00:06",
         "Titulo":  "Correções e melhorias internas",
