@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.129",
-    "Instalador":  "EnginePro_Setup_4.50.129.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.129/EnginePro_Setup_4.50.129.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.129/EnginePro_Setup_4.50.129.exe.gz",
-    "SHA256":  "5C8E98390BE6F40C9C4528F4C91E32883E47D3CA88B8AA1DF99A74FFFFD5DFED",
-    "Data":  "2026-11-12 17:03",
-    "Notas":  "Scan coluna Engine Pro; Estacoes instantaneas; impressao Excluindo",
-    "Assinatura":  "bOo/ogikJaWKuDRURujLhhpzYD/W5uWSO/mXoG8mp6GB8EpR/eIiIqektyYjLJpqYIovifeLqk84ybenP1dNju/q/FsqYPvmse2sd/PQw8AkANEacFMkTzYuuoMmhYdUP7wKE+j96q/WNta3RZgOH+Rov2EsO9u8kigdqWGkdI9biaj2aQPF6wE5gaU9WizFMfZvN3kWayA/xdxBlpn6Srr7V5BBMVareYwTzsv2DlVQZeD7DkmBeV+J1vy7B7nUQfCsiIfigibEMqhRC5TuJ+9zf4eYSlQHySMO3nbUklXIe0x/ecB6wDcQZcvQcDQZmpGbJbAURpgv9rUctxnXW46y7YzWZU8KOhE1sRyA4uqE7tNANfwEdkaCjqLC4nF/mEMaYB0+BZrIq66/kfQq0aPmHM6kNG6B27ee+dgCpi3aPS2e36gLklAmOdLM/HXAbLteE7Uknsv/ixXrq7l+Yo5VgYuuP3f+8E7GTdjoKfP1Ugo0BgUxy1hxnx3qTJ15"
+    "Versao":  "4.50.130",
+    "Instalador":  "EnginePro_Setup_4.50.130.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.130/EnginePro_Setup_4.50.130.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.130/EnginePro_Setup_4.50.130.exe.gz",
+    "SHA256":  "57A2F5367F0A73BCE665E2679B31155B0BAB8529D14F37B2DD7BFD49207788C1",
+    "Data":  "2026-11-12 17:17",
+    "Notas":  "Scan coluna Engine Pro corrigida",
+    "Assinatura":  "rlum1AC71yUzsmh1inn/m/HVoPlUgJ8Y/Gue86jNsw+9ubbTwJvPS3m/66BPYSXnUgm+o586G66Wgr5OI52L/tRjjXeVDstOOrqq0p3pxDCeIMJAPLvpMTRL0+ThSL4/6UIReCGZ363upLlJuaOQSAivxrzacOn695dre07NjFnohhxbOAcpswQqbOH6KCQbYOoiSpTeMcQJflG4p4ZD8beragFHXh9LWB+H8zXc7++NSTCZNGN/PBykhfvu/WFlsfYe+eaW0YCAyrqbMjQutXkKvX5z1xe3RXTXjkwN+ms/7VXSHw4aQADAIt0HUaw90TxDtIcDgC4dcYXj9JNOexrYtSQvl8aJEsxboZIeLBqy1zuISqHOWWdeb5pNoh1QUHmybACkdVvvshxyiXtfMY0w9HrMXBC923//O3LAd2LIO025OvaXxi9n2mo/VX6dtDP6f9KlrOs40NUhXXKX1KbAc1NhkJwvuVIa/4QLTJqKfWbweZwBzl1UUr6jJejz"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.130",
+        "Data":  "2026-11-12 17:17",
+        "Titulo":  "Scan coluna Engine Pro corrigida",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Scan coluna Engine Pro corrigida."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.129",
         "Data":  "2026-11-12 17:03",
         "Titulo":  "Scan coluna Engine Pro",
