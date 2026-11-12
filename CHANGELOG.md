@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.101 | Icone da barra de tarefas (usa os frames nitidos do EXE, ... | 12/11/2026
+
+- **Correção**: Icone da barra de tarefas (usa os frames nitidos do EXE, nao some mais no tamanho pequeno).
+
 ## Versão 4.50.100 | O e-mail separa o reparo do problema relatado da manutenc... | 12/11/2026
 
 - **Correção**: O e-mail separa o reparo do problema relatado da manutencao geral.

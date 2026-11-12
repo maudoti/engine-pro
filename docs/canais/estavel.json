@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.100",
-    "Instalador":  "EnginePro_Setup_4.50.100.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.100/EnginePro_Setup_4.50.100.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.100/EnginePro_Setup_4.50.100.exe.gz",
-    "SHA256":  "BAEC6C4FFF8D1FD23CA69083E33DBCD714D8A6284CEC7047E79714941A7687AA",
-    "Data":  "2026-11-12 02:25",
-    "Notas":  "Correcao: o e-mail separa o reparo do problema relatado da manutencao geral; Correcao: nome do usuario na saudacao; Correcao: avisos citam so o uso de camera/microfone, nao reuniao; Novo: reparo automatico da Lenovo ao detectar a camera travando, respeitando a trava",
-    "Assinatura":  "uw/Wg77jCBr3Zu6BbpIN3WAfO0I4dMxUbew1bPkM2qJcqnR45qAkHi/qhXs1GncY79QDFYHBuZcyVGbMndJZVBxiXA+9ZsjUy4ToF15OxH3iOTq/qGlPd++/vN74ETgExtcsKwGi71j7XAKkcya3rNc6DrebDPnM3SW31L6xJgKtgafa0iNP1JdsMC9Y84rAAsTU5x9DpiynYtxL92owfJSI+wcx5ViflA8Uu9V3bGihq8iOzy+eDsbyrpfg48ksHbGENnqvScS8GfL+98izi2hb/z3zY4p3np74cywZqNAZMwI36lezxPjAP5rMzw1nZiZSjV3voQwjk+qsZAdJiQqgRkJ12fgRuFzJjcITmjQ70XGkk/X/Nfs8EkhCIiSxi2BU3fxKKu43rC+qYGoLzw+Ov+BgZ4e1wD3GXQ8bNwdyOz77ekx4JjcHqSJbJo8Km77N72N80jb6m/KouxC0B49n6PxrGieC7mMGbBJbYtAQtwcI4HXKGbFd52QrRKbl"
+    "Versao":  "4.50.101",
+    "Instalador":  "EnginePro_Setup_4.50.101.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.101/EnginePro_Setup_4.50.101.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.101/EnginePro_Setup_4.50.101.exe.gz",
+    "SHA256":  "2D6514577D186C2894F756EB328CEE894E748DEB70B1F6AD3237B63693F98FBD",
+    "Data":  "2026-11-12 02:39",
+    "Notas":  "Correcao: icone da barra de tarefas (usa os frames nitidos do EXE, nao some mais no tamanho pequeno)",
+    "Assinatura":  "OCCWTwFwoEnzQPYKliH99B/ECqiSpW5bafMHIIpVnu7Ow+V23n1Cr8FGdFStBi7SL5pDePpwJ3HonZTt+eqm6tP8WXkwAyGjoTsdJZpjjlQZQEALP328MCm74nnUiQ6h/Rzg3kbWe4L104GAvo+XH9KAr8O1jq90UEmvR6njtDCdEJPTdP/FZd2GgubJecZ7jTb201Vn7UQNPKYnbNC/kyNXyry65LrIlbEeDQCtB6bU9tI0TppCC2mmizavc2XDI8m/LoJkdcCFyqtBw5lqUbrAjQlM75LlJivo66EFseiK5gslDd1DIneSGQDTvONUliWJ+2WUuzdqH117W7m2Q3AC2He9Kw6C1KOdqbL1UjhmcNPTh8OWLNSFuxXMIcyW4d5yQUFoOqDC0DSGHh/RYcbObbpQdTzggGHlwZE1OOx7psRkxj2fWLHnwr9UOAyl8pDOlA281nSS0nOlBlBtXywrpFIBqQvyT4Ygle8VY15O+V/6spISgqDHlMu4NsYH"
 }
