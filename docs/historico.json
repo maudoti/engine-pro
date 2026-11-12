@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.119",
+        "Data":  "2026-11-12 15:06",
+        "Titulo":  "COLMEIA: Claude assume os estudos quando as IAs gratuitas...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "COLMEIA: Claude assume os estudos quando as IAs gratuitas esgotam, com teto maior e backoff."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.118",
         "Data":  "2026-11-12 14:44",
         "Titulo":  "Driver de tela azul autonomo",

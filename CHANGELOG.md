@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.119 | COLMEIA: Claude assume os estudos quando as IAs gratuitas... | 12/11/2026
+
+- **Melhoria**: COLMEIA: Claude assume os estudos quando as IAs gratuitas esgotam, com teto maior e backoff.
+
 ## Versão 4.50.118 | Driver de tela azul autonomo | 12/11/2026
 
 - **Melhoria**: Driver de tela azul autonomo.
