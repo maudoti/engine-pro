@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.133",
+        "Data":  "2026-11-12 17:51",
+        "Titulo":  "Autodiagnostico vigia subsistemas",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Autodiagnostico vigia subsistemas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.132",
         "Data":  "2026-11-12 17:44",
         "Titulo":  "Instalacao seleciona maquinas",

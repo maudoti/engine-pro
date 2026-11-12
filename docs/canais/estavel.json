@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.132",
-    "Instalador":  "EnginePro_Setup_4.50.132.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.132/EnginePro_Setup_4.50.132.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.132/EnginePro_Setup_4.50.132.exe.gz",
-    "SHA256":  "CAAD5E486EB4C4E9027DD3B8D63E022B670261CFF9C98875DF35150E9E3E86FD",
-    "Data":  "2026-11-12 17:44",
-    "Notas":  "Instalacao seleciona maquinas; Java pergunta; travamento software",
-    "Assinatura":  "YyNsH14O4XAtOwpcSErpIuxIeSb7JNr/OJRPSkxpuOAiF0PDQM+ZNOo61faMgCOEKpk8rvZXvjETTg0LiMse1MYokBhMXtPcL4iHnrpibOIguyKzwbc0X5K+QmG0ExGLeHjyg/65MwrDNk0uYAft7EVQUzecPSJwKLHfRAiJ3RR5QJWO0XKROS5vlR2UWAKoCPMCTYnufK9dRY838dwdne4VwFXRgQQ+fhoU5L+DRgqs+D91f5RvBEAdtrTzMuHZCI139yuUGbpvLmMaBb0yNkY0mOq2QQc2bqjqo9J1QA4PUVAOdaypQxiil4wLTWEA3JINpnk5GRM7Ea8Bv5WfPZVNUoYwp0Cjw2nHiD6wCjCh9ysjaHbQt53f4/6obNw2KcW1vpM0rZ8u7vLO8GdDQvi/nA4zMrMgMrae0jwuTXh5O95c4AGpekEtXvstl4K/5kePHj+xBTqm3pDwv2i1u5RURGAbjYgWk6gcceRPykMnzjt8xEEFEJtXiCTdFzV7"
+    "Versao":  "4.50.133",
+    "Instalador":  "EnginePro_Setup_4.50.133.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.133/EnginePro_Setup_4.50.133.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.133/EnginePro_Setup_4.50.133.exe.gz",
+    "SHA256":  "F1FD0EB1A960A6A055B2DEB3735D50A1B57293D8A56CD5F4D46498BFBB5D6406",
+    "Data":  "2026-11-12 17:51",
+    "Notas":  "Autodiagnostico vigia subsistemas",
+    "Assinatura":  "kY4slPX4xkTluo3cHmfJgsT9a4+f1NkyG+wcQOh/lX5OeFz6TCk4/DD03fqxfucyFPiDt3SnY9IsQy1ujCYthLRJ5atBLv90K2bap22Q0ECfQJ+8TC5OGKhqBEO5QxaMBc86WKc1gVrw+Y70xkHT+PemqjInmAk8O4HJVaw89Mcl8cht+JLWQ7zIcJSNud+CSAMIqmnfVd6H8tGZepJ5u/HGC7diQdlOFXcoweRw/EKy/JINZ0+idUcTtPSF1ZN4m6ETP0fncDH/5YXDd7Y+f9h0o9qXBcIcqHQkmUFi+fdjKTvip8fNeTN2i/ifWqKTjfV5saBFanMOHcD9uAnUpI82JD/a1Pi2F4disHxMOIcfFglAtrLFb/8MSwqPoMhqLpc/WVUCZYMJzbGgLMfYMOxpGBba+r8fNq62Cgy+HuHfdUGxOu2k3Xg39meSH/Kf9f84+jBemLQFyXYbxgNA5oZVcXGUCEK1HGmHqk7LidYGReeQQq1aVyZJ/bDooYA2"
 }

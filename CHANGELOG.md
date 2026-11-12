@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.133 | Autodiagnostico vigia subsistemas | 12/11/2026
+
+- **Melhoria**: Autodiagnostico vigia subsistemas.
+
 ## Versão 4.50.132 | Instalacao seleciona maquinas | 12/11/2026
 
 - **Melhoria**: Instalacao seleciona maquinas.
