@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.111",
-    "Instalador":  "EnginePro_Setup_4.50.111.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.111/EnginePro_Setup_4.50.111.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.111/EnginePro_Setup_4.50.111.exe.gz",
-    "SHA256":  "BAAEFB8D751E51F06DFAD92F397473B86BD5835553933F11DB1066568E2ABB9B",
-    "Data":  "2026-11-12 10:34",
-    "Notas":  "Cache da colmeia 30 min e rastreador de inicializacao",
-    "Assinatura":  "B5J3LLqCHovW3TU+Y/GtIjo4eX5gNIgvZPDNC+vM3YhFmTvjp3XxNpsppP9fxwuowpeONY9XqewJ4Fh2uIh8hzQCIbetuzmSy1KLD9kgYtJUHyU1Q5oWtm8bXfQARJb6QMrj9NHUuLgXzYZ1h61Y0Gp0/femvbg47iR/u2TARdS+bKZuPEN4HE/V4Kh30j1c4MTA30E4iSSxoKY7YLsRAN/lr+fJNG15WsqQwe+mECAMKCqkOheYEsPA0X4NYOlt3kt4WSLDYKccumW5oN1497eF1IMouD4/WVLOipYWoPPV76hUWlCuzv84PK467s0eyBFXYHXsO7jbOKJy1F6I3jdbknxaEupV5z72x/JlHif5TOKZ+LVenS2viDcVPfEBEqOgRSDgMG+vCgt3iStWNlutj9FhU+dDQVj76UivLIIMeAYpGEDVPC3dPxfUjTYcXEvD1B1MDXAbzl73b+Gkz8mhAqSAxnZDqbQB4sChg7C5PjROj0JGCqA8AjWgnUA/"
+    "Versao":  "4.50.112",
+    "Instalador":  "EnginePro_Setup_4.50.112.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.112/EnginePro_Setup_4.50.112.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.112/EnginePro_Setup_4.50.112.exe.gz",
+    "SHA256":  "5A54AEB6FCC49B1D9776DA6E553A8FF5FDC1CC4E95B70F415A6D377A2189B8E4",
+    "Data":  "2026-11-12 10:43",
+    "Notas":  "Lista de pesquisas e linha viva pelo cache, fim do travao de abertura",
+    "Assinatura":  "INUlkpUK+2irqC34ohKcOYMa5Kz4AlLMEBBehSO+GnxLgcb3vn2tCIl1h4zppHAyhWVeFc8GzmBnuTUmDKCxfbUwwh+Vsivd9jIllaCStYdpCI4U2HTTaMDgM3JR8C/aFl+nArn2wY7dts5h7A/MF/FGgYNIk0vl0NrK4H6CdWIHaJiRDayVerdpB5bJs+WXhZEH05Us2TboivvrXznjtYeYl/ARRRPCE1TqlTYQHtt0nQ998829AfqpJdplVsyk+XMehHhIzSHj13fjj8Bn7MCxHpQcRzcSCndGIzERxP9G01cw/0yWE5D6iSZ6EiMXagnII7tm47fKb4bB5pqCLJzA/0pZndzJV5P4H04ccDid/avNSu6Utem2+inuUKmmK2J+xm2ZR+a3VLHMIdvqK6Y26+EMgbI4CZs6WzzcPYNeE8/RoKmrfgdj1QUA9MLtr/ixrUelUKfIrT70QMw0zMweTGWuAl9o4h1YlFXczh9lAoAYEznb2JIiA+yJjKgh"
 }

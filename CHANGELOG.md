@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.112 | Lista de pesquisas e linha viva pelo cache, fim do travao... | 12/11/2026
+
+- **Melhoria**: Lista de pesquisas e linha viva pelo cache, fim do travao de abertura.
+
 ## Versão 4.50.111 | Cache da colmeia 30 min e rastreador de inicializacao | 12/11/2026
 
 - **Melhoria**: Cache da colmeia 30 min e rastreador de inicializacao.

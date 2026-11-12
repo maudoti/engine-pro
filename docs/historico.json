@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.112",
+        "Data":  "2026-11-12 10:43",
+        "Titulo":  "Lista de pesquisas e linha viva pelo cache, fim do travao...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Lista de pesquisas e linha viva pelo cache, fim do travao de abertura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.111",
         "Data":  "2026-11-12 10:34",
         "Titulo":  "Cache da colmeia 30 min e rastreador de inicializacao",
