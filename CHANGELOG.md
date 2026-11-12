@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.111 | Cache da colmeia 30 min e rastreador de inicializacao | 12/11/2026
+
+- **Melhoria**: Cache da colmeia 30 min e rastreador de inicializacao.
+
 ## Versão 4.50.110 | Correcao definitiva da travada de abertura (cache da colm... | 12/11/2026
 
 - **Correção**: Correcao definitiva da travada de abertura (cache da colmeia).

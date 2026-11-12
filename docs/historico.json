@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.111",
+        "Data":  "2026-11-12 10:34",
+        "Titulo":  "Cache da colmeia 30 min e rastreador de inicializacao",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cache da colmeia 30 min e rastreador de inicializacao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.110",
         "Data":  "2026-11-12 09:44",
         "Titulo":  "Correcao definitiva da travada de abertura (cache da colm...",

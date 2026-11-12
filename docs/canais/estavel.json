@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.110",
-    "Instalador":  "EnginePro_Setup_4.50.110.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.110/EnginePro_Setup_4.50.110.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.110/EnginePro_Setup_4.50.110.exe.gz",
-    "SHA256":  "A377F022C661F132652297770A824CFFBC593D2B04CA48FAF69BDECB46367085",
-    "Data":  "2026-11-12 09:44",
-    "Notas":  "Correcao definitiva da travada de abertura (cache da colmeia)",
-    "Assinatura":  "jAqjuIytCn5slIMbz/3JEE84xnsTMhgvmDKFP9hpfOgjZuzvUqD2dK3KjFeT7szdMpI3FL4Ah644W5l+1EBCOLOPZStC1hyoOKXbBJz5ZzQFS3n8/+yxyBlJJzV8I/zV2DD33v2Mn7vOSWzuXDiigEGRbl1N96t13jBbz91dXKd4oSyLFTyH4kCCd3ZJYLaLZasAX/Q3aIovSqj/b2HSWvsA7uIjhd4SDuhbCAyWbP0Mndvk7ylPj82AbJmaICxnYlsPG9SmeTbdb02nzj3Aeq6V1UCB3Ja/gdGveyfhTazty5XKJr01q2R5Xf3/p73nkmeH+xEXJMnDjPO8sgQG+tyx/N+hojjSSjnRo1XsWg3K8mpI5SQuDyTtlq7WMElKf2Swg4LrPvRA2jet7OesczqVUYsyKxtR/kqr58QzTqlEx/Uy+JA5UKEWcjlQGUnZmn3qZzdN5dd14s5rbLUR+s4klitV4adupUxB8UI1aj9h7S3uCA5h/OnxkOeh7aB/"
+    "Versao":  "4.50.111",
+    "Instalador":  "EnginePro_Setup_4.50.111.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.111/EnginePro_Setup_4.50.111.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.111/EnginePro_Setup_4.50.111.exe.gz",
+    "SHA256":  "BAAEFB8D751E51F06DFAD92F397473B86BD5835553933F11DB1066568E2ABB9B",
+    "Data":  "2026-11-12 10:34",
+    "Notas":  "Cache da colmeia 30 min e rastreador de inicializacao",
+    "Assinatura":  "B5J3LLqCHovW3TU+Y/GtIjo4eX5gNIgvZPDNC+vM3YhFmTvjp3XxNpsppP9fxwuowpeONY9XqewJ4Fh2uIh8hzQCIbetuzmSy1KLD9kgYtJUHyU1Q5oWtm8bXfQARJb6QMrj9NHUuLgXzYZ1h61Y0Gp0/femvbg47iR/u2TARdS+bKZuPEN4HE/V4Kh30j1c4MTA30E4iSSxoKY7YLsRAN/lr+fJNG15WsqQwe+mECAMKCqkOheYEsPA0X4NYOlt3kt4WSLDYKccumW5oN1497eF1IMouD4/WVLOipYWoPPV76hUWlCuzv84PK467s0eyBFXYHXsO7jbOKJy1F6I3jdbknxaEupV5z72x/JlHif5TOKZ+LVenS2viDcVPfEBEqOgRSDgMG+vCgt3iStWNlutj9FhU+dDQVj76UivLIIMeAYpGEDVPC3dPxfUjTYcXEvD1B1MDXAbzl73b+Gkz8mhAqSAxnZDqbQB4sChg7C5PjROj0JGCqA8AjWgnUA/"
 }
