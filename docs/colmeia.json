@@ -5,13 +5,13 @@
     "N48":  4113,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 21:18:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Novo Outlook não sincroniza os e-mails",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-11 21:31",
+                         "Texto":  "Nova versão 4.50.79 publicada: Correções e melhorias internas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-11 21:18:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Novo Outlook não abre ou fica em tela branca",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Novo Outlook não sincroniza os e-mails",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,7 +21,7 @@
                      },
                      {
                          "Data":  "2026-11-11 21:18:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Novo Outlook não abre ou fica em tela branca",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,13 +30,13 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-11 21:18:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-11 21:18:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-11 21:12",
-                         "Texto":  "Nova versão 4.50.78 publicada: Correções e melhorias internas",
+                         "Data":  "2026-11-11 21:18:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -48,54 +48,54 @@
     "Horas":  [
                   79,
                   89,
-                  161,
-                  249,
-                  229,
+                  186,
+                  245,
                   228,
-                  158,
-                  153,
-                  174,
-                  119,
+                  229,
+                  137,
+                  180,
+                  179,
+                  87,
                   27,
                   27,
                   45,
                   51,
                   28,
                   35,
-                  39,
-                  44,
+                  40,
+                  43,
                   45,
                   50,
                   39,
                   70,
                   68,
-                  50,
-                  68,
-                  57,
-                  101,
-                  193,
-                  140,
-                  137,
-                  134,
-                  141,
-                  160,
+                  70,
+                  52,
+                  53,
+                  115,
+                  179,
+                  155,
+                  142,
+                  114,
+                  155,
+                  146,
                   104,
                   48,
                   60,
                   40,
+                  27,
                   18,
                   27,
                   27,
-                  27,
-                  9,
+                  33,
+                  47,
                   71,
-                  71,
-                  50,
-                  50,
+                  55,
+                  45,
                   51,
                   72
               ],
     "Ultima":  "2026-11-11 21:18:23",
-    "Gerado":  "2026-11-11 21:27:04",
-    "Data":  "2026-11-11 21:27"
+    "Gerado":  "2026-11-11 21:31:42",
+    "Data":  "2026-11-11 21:31"
 }
