@@ -5,13 +5,13 @@
     "N48":  4106,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-11 21:45:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-11 21:50",
+                         "Texto":  "Nova versão 4.50.82 publicada: Correções e melhorias internas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-11 21:45:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A0 (INTERNAL_POWER_ERROR) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,7 +21,7 @@
                      },
                      {
                          "Data":  "2026-11-11 21:45:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Project, Arquivo .mpp do Project corrompido ou abre só leitura",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A0 (INTERNAL_POWER_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-11 21:45",
-                         "Texto":  "Nova versão 4.50.81 publicada: Correções e melhorias internas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-11 21:45:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Project, Arquivo .mpp do Project corrompido ou abre só leitura",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-11 21:44:55",
@@ -46,39 +46,39 @@
                      }
                  ],
     "Horas":  [
-                  56,
-                  105,
-                  224,
-                  257,
-                  188,
-                  227,
+                  77,
+                  84,
+                  235,
+                  246,
+                  221,
+                  194,
                   166,
-                  145,
-                  184,
+                  173,
+                  156,
                   64,
                   27,
                   42,
                   30,
                   51,
-                  19,
-                  54,
-                  21,
-                  59,
+                  43,
+                  30,
+                  33,
+                  47,
                   40,
-                  39,
-                  68,
+                  59,
+                  48,
                   63,
                   67,
-                  49,
-                  74,
+                  57,
+                  66,
                   54,
                   151,
                   176,
-                  122,
-                  141,
+                  147,
+                  116,
                   142,
-                  132,
-                  175,
+                  162,
+                  145,
                   68,
                   52,
                   50,
@@ -86,16 +86,16 @@
                   18,
                   27,
                   27,
-                  18,
-                  33,
+                  27,
+                  24,
                   57,
                   89,
-                  27,
-                  71,
+                  51,
+                  47,
                   38,
                   84
               ],
     "Ultima":  "2026-11-11 21:44:55",
-    "Gerado":  "2026-11-11 21:47:03",
-    "Data":  "2026-11-11 21:47"
+    "Gerado":  "2026-11-11 21:50:30",
+    "Data":  "2026-11-11 21:50"
 }
