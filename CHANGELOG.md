@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.114 | Recomendacao por componente, disco enchendo com limpeza s... | 12/11/2026
+
+- **Melhoria**: Recomendacao por componente, disco enchendo com limpeza segura automatica e tamanho real, reparos explicados.
+
 ## Versão 4.50.113 | RY-TI-254: disco roda chkdsk, inicializacao lenta e Prote... | 12/11/2026
 
 - **Melhoria**: RY-TI-254: disco roda chkdsk, inicializacao lenta e Protecao do Sistema reparam sozinhas.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.113",
-    "Instalador":  "EnginePro_Setup_4.50.113.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.113/EnginePro_Setup_4.50.113.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.113/EnginePro_Setup_4.50.113.exe.gz",
-    "SHA256":  "C40A4AA240833EFFD4FF444258BE8DFDF270CF0CB2F6E65B978D03C184A533B7",
-    "Data":  "2026-11-12 11:01",
-    "Notas":  "RY-TI-254: disco roda chkdsk, inicializacao lenta e Protecao do Sistema reparam sozinhas",
-    "Assinatura":  "VIUQsPxPFNrIVqjCubt0Ps3fOOVz05NSOsAaAKYhz55UKhXdLtBwktLwASVsjnLO8ppIc8nEf/ClIJlMsyr5F50HdguiHwkwiPFMqV8BCTw7EbU4TnZNocNzptgproYWxXd90JUD/Jy+a6H3jYZQqwvCA3bp6bT5/Lm+3oZaJP7CY9p9f7s7IgCUHwSR4OZjIXLhZ0CfzdXRjO9eBSy4zsWtwPrkcgr350juSyoouKTNu23fHghr+uSNtNCsyymVpv7QhTGZ2EAImUOyMsEzDCcdC+ywrhLQb8lf+cZuJ03s+Q4n79RUnz34IdMSvC/LvUyNM2SJ2VGWg4ECFnIgE0rdmKupwc1Gt+vq3KoRWWPnaIsO9hIr/EOMOgoYLSU8liy6EGLfeSxEAUOqji7rqclKfP5zzF+vzA53gE+pTf6YiyXMa7G2D67GU8pNfIzUonu9BB4G5fE0b/giVfnVS06M2MXYJa45n7RDcr39EFBUWoTdkbLdn9wT1uXUQKFQ"
+    "Versao":  "4.50.114",
+    "Instalador":  "EnginePro_Setup_4.50.114.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.114/EnginePro_Setup_4.50.114.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.114/EnginePro_Setup_4.50.114.exe.gz",
+    "SHA256":  "C021581B2B83F623431C00CE50186B59082B8530EB6EAC8C49F0FC563CF6CF2A",
+    "Data":  "2026-11-12 11:17",
+    "Notas":  "Recomendacao por componente, disco enchendo com limpeza segura automatica e tamanho real, reparos explicados",
+    "Assinatura":  "hc5xluRyCYxnyvSOgjvU6HyfdFYfXvDB3ABw4PaP3ZkA+JrbQFcCdeDoB2nX8ERZYWbFJGCtQHHWDpoeiok51xkPif+FxoM4+JjDSOV5B5BfbIhHaUAgPqW9TF+Ibyjxwq9wRSfKwD6W/k7Kz8uZGr2QUGax5TW9hoZ/sBa2U9S0cgKeL1x+6xiQfJjfzJ6cSJe/MsQb6fH87Ok8p3w/lLQl25QuirFKCZEOJZBJ7vJ46zqbxsA3NGab/ZH3QuyKxVOfsrWXN0mloITPowkVM+Ikp0GjiNviZ7KwDIb6GvuISJ+nwlG0f/jCsTkoSWDAtPqrani+j/XGjB3AIs+i2xtt3S6yNhELAmjErywL6onfWTMvTQNroajUO3lLpXv9K+pd/dlUQGvKh8umgu+RqG1N2vKy/L40wMOudxaSD9OJeKOD9nkToRnsLYdbbjEXd2F5Iy/MGcPpX1mTmYbSAPcoQpz0jhefAo/ZupXzsgAMvu8NyAGHiT/fVL3jGoNU"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.114",
+        "Data":  "2026-11-12 11:17",
+        "Titulo":  "Recomendacao por componente, disco enchendo com limpeza s...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Recomendacao por componente, disco enchendo com limpeza segura automatica e tamanho real, reparos explicados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.113",
         "Data":  "2026-11-12 11:01",
         "Titulo":  "RY-TI-254: disco roda chkdsk, inicializacao lenta e Prote...",
