@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.102",
+        "Data":  "2026-11-12 02:56",
+        "Notas":  "Correcao: a busca das Estacoes passa a ignorar acentos (andre acha Andre) e maiusculas/minusculas",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.102/EnginePro_Setup_4.50.102.exe"
+    },
+    {
         "Versao":  "4.50.101",
         "Data":  "2026-11-12 02:48",
         "Notas":  "Correcao: icone da barra de tarefas (usa os frames nitidos do EXE, nao some mais no tamanho pequeno)",

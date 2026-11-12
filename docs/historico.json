@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.102",
+        "Data":  "2026-11-12 02:56",
+        "Titulo":  "A busca das Estacoes passa a ignorar acentos (andre acha ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "A busca das Estacoes passa a ignorar acentos (andre acha Andre) e maiusculas/minusculas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.101",
         "Data":  "2026-11-12 02:39",
         "Titulo":  "Icone da barra de tarefas (usa os frames nitidos do EXE, ...",

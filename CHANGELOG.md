@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.102 | A busca das Estacoes passa a ignorar acentos (andre acha ... | 12/11/2026
+
+- **Correção**: A busca das Estacoes passa a ignorar acentos (andre acha Andre) e maiusculas/minusculas.
+
 ## Versão 4.50.101 | Icone da barra de tarefas (usa os frames nitidos do EXE, ... | 12/11/2026
 
 - **Correção**: Icone da barra de tarefas (usa os frames nitidos do EXE, nao some mais no tamanho pequeno).
