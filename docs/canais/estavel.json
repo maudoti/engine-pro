@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.127",
-    "Instalador":  "EnginePro_Setup_4.50.127.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.127/EnginePro_Setup_4.50.127.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.127/EnginePro_Setup_4.50.127.exe.gz",
-    "SHA256":  "95C4D1F5AE204133A98A615B0E7F78E1A902E5D1C8562381739789F74FE8628F",
-    "Data":  "2026-11-12 16:26",
-    "Notas":  "Scan: nomes em paralelo",
-    "Assinatura":  "ib0XGDgf/I0YGpdDCYeI8xU/4HiS3dAt2RrdD6QGvxEYTcZCyqwUG2SChm8MHdprSBiEVBepEEcrm9VMa40AybIv4qY0d4uG2ERKSVqWMTmv7xnQeFIqShg3d6WSnEOhALgdzajsGqnBUYVC6feMKiSIi/dS1SN9PFukFwZmXjR45KoOfCQc1TY/6hDBdNNMb5767tHwrH+DBJvkN2DJOJe8Oq0+f1bCnLs2rnk7kZTZIfOp+iPyaij1HtfUWMvAhU+O4goIGoZmgtAKLOpSGaIezgcTyckrRBNpUq45ixiWGNGU3+nWRkEzVUVhWy5cYVV7UcVMnMa1vZhzCNOT3R6uWDQ8iov17Opl+/GR828T/8be/Ot37UIoDJ0nd5Fl3P2flG4Na78WW+H0vWwjLP60XTvKIFS8FcpvV3uQkZgBoN3kNIHpr1/IuTB1GxBykVrumBnQoJP9nhV9EbAEtGZspGhSuW+rEfGGT063mdlZLz/Vh35rojMvGwAsNoGX"
+    "Versao":  "4.50.128",
+    "Instalador":  "EnginePro_Setup_4.50.128.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.128/EnginePro_Setup_4.50.128.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.128/EnginePro_Setup_4.50.128.exe.gz",
+    "SHA256":  "E50EEED8595EE2119333D28935BE8FDFAF82BD4FFE10971618CE12FD0189A5F4",
+    "Data":  "2026-11-12 17:01",
+    "Notas":  "Scan coluna Engine Pro; Estacoes instantaneas; impressao Excluindo",
+    "Assinatura":  "QsJOqxPdY9o1EXbWwV91pW6QPewlr4yzx5TVpprN3Tl9nCo+UMs8yvcZ2lfXMZSsUqDnvL7VtYbb61DyRDVg4FSWDvr5OkeicBa5xt0uXxU7ZNIMb0ZQzGCOsmIR9dFglgKis8CbvhuxDVfVbmmk3i3b2uim3zjgrWqQrDMv5/D/gTcPvBTXCIlqlC36og5FatQdv75rjUN3DqkTw+lz3cWVZLYnonnYog+C1GtLBBQL49SDwstu9JBCsAm5a3fE2R01CG0g8pXuo+5IVJOp8kVxl/OTSmBxpVinU6YbHDZ3/RhD1fmkcAIPbEtm2opj3Dng2j4p1FNUdSkl9CTzkyecpkn3sDoNVr7vu0BPa5TK0rOi8S9aAvNlqdW7getdIrnYZdJ4RbECV2HMG38zkbbnKjenI+7W1TNejub1jHNf63A7LDZ5J7ctJMWAcHVYLBmI0VhMzuMbcNVppTFj+feUOuq6PgylWW3ieQS7vpCAvNjzyeu+t+/9HlO0iS+2"
 }
