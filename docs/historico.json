@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.118",
+        "Data":  "2026-11-12 14:44",
+        "Titulo":  "Driver de tela azul autonomo",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Driver de tela azul autonomo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Texto do email mais firme."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.117",
         "Data":  "2026-11-12 14:17",
         "Titulo":  "Email HTML com quebras, robo por assunto, nome correto do...",

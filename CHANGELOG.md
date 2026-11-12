@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.118 | Driver de tela azul autonomo | 12/11/2026
+
+- **Melhoria**: Driver de tela azul autonomo.
+- **Melhoria**: Texto do email mais firme.
+
 ## Versão 4.50.117 | Email HTML com quebras, robo por assunto, nome correto do... | 12/11/2026
 
 - **Melhoria**: Email HTML com quebras, robo por assunto, nome correto do usuario, tela azul de driver autonoma.

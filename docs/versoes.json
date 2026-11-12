@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.118",
+        "Data":  "2026-11-12 14:44",
+        "Notas":  "Driver de tela azul autonomo; texto do email mais firme",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.118/EnginePro_Setup_4.50.118.exe"
+    },
+    {
         "Versao":  "4.50.117",
         "Data":  "2026-11-12 14:17",
         "Notas":  "Email HTML com quebras, robo por assunto, nome correto do usuario, tela azul de driver autonoma",
