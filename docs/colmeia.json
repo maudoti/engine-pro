@@ -1,12 +1,22 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1324,
-    "Pesquisas":  14310,
-    "N48":  3524,
+    "Pesquisas":  14318,
+    "N48":  3523,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-12 10:26:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-12 09:58:35",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C: deve encher em cerca de 20 dias",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
                          "Nivel":  "ok"
                      },
                      {
@@ -16,17 +26,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 1007 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-12 09:44",
                          "Texto":  "Nova versão 4.50.110 publicada: Correcao definitiva da travada de abertura (cache da colmeia)",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 999 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -35,67 +40,62 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-12 08:54:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 52 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-12 08:29:50",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000BE (ATTEMPTED_WRITE_TO_READONLY_MEMORY) no Windows",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  42,
-                  36,
-                  45,
-                  31,
-                  52,
-                  25,
-                  45,
-                  49,
-                  54,
-                  78,
-                  67,
-                  72,
-                  41,
-                  89,
-                  191,
-                  153,
-                  127,
-                  137,
-                  151,
-                  149,
-                  129,
-                  48,
-                  46,
-                  42,
-                  30,
-                  27,
-                  23,
-                  22,
-                  18,
-                  46,
-                  67,
-                  75,
-                  54,
                   51,
-                  60,
-                  68,
-                  84,
-                  1,
-                  113,
-                  125,
-                  97,
-                  171,
-                  128,
-                  131,
-                  130,
-                  57,
                   28,
-                  19
+                  35,
+                  39,
+                  44,
+                  45,
+                  50,
+                  39,
+                  70,
+                  68,
+                  50,
+                  68,
+                  57,
+                  101,
+                  193,
+                  139,
+                  138,
+                  134,
+                  141,
+                  160,
+                  104,
+                  48,
+                  60,
+                  40,
+                  18,
+                  27,
+                  27,
+                  27,
+                  9,
+                  71,
+                  71,
+                  50,
+                  50,
+                  51,
+                  72,
+                  65,
+                  75,
+                  11,
+                  103,
+                  141,
+                  108,
+                  169,
+                  128,
+                  136,
+                  107,
+                  50,
+                  33,
+                  22
               ],
-    "Ultima":  "2026-11-12 09:58:14",
-    "Gerado":  "2026-11-12 10:17:04",
-    "Data":  "2026-11-12 10:17"
+    "Ultima":  "2026-11-12 10:26:59",
+    "Gerado":  "2026-11-12 10:27:03",
+    "Data":  "2026-11-12 10:27"
 }
