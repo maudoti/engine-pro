@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.127 | Scan: nomes em paralelo | 12/11/2026
+
+- **Melhoria**: Scan: nomes em paralelo.
+
 ## Versão 4.50.126 | Scan TCP/ARP, monitor de quedas, fila de impressao | 12/11/2026
 
 - **Melhoria**: Scan TCP/ARP, monitor de quedas, fila de impressao.

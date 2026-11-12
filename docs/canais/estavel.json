@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.126",
-    "Instalador":  "EnginePro_Setup_4.50.126.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.126/EnginePro_Setup_4.50.126.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.126/EnginePro_Setup_4.50.126.exe.gz",
-    "SHA256":  "584EC2A32C49E69248A07F54E9725226C74CBBDD020BFCC9BFEFDB9FBE5967D9",
-    "Data":  "2026-11-12 16:14",
-    "Notas":  "Scan TCP/ARP, monitor de quedas, fila de impressao",
-    "Assinatura":  "XCgtzTN7Eu1ywMbwyrNuAac31s0S0laukuLCp4WmP/1PUKwW0ReleH/jyfeyQwhRn6YNzrzBx5Aai9Y8f5QmzSuhX7GdSri+dABe5Hn2ON4gxd3u4wCmzIubZeLijxADSLf9G6Za/wssTSpaOwowhZsXqDz7dxg8w72xEzhCl9d3rF7ScEf8rZdVsYbyUiGSsm213XzvKCz/FV1YDyI7XHdr+v1AwwmBw2DTYMGCAxrLXWWZRWgHqJDYvOPu7P888j0tMm4paqIZ3dKq+p8OGLSIbPaOdpGuT1djohKr7ksdrd5aRcFzl4FEGQt/irX41aaT3kAV/R+yYsAgaXnl3YtF7MMqSWjWgJA1kpsE6xcWdn4iCgkH7DnraKQJZaswDSlnR1iCp7CYfuNQA754/LrH8xfBVJdF5d5O6MZGyh2fzBphM9YiCCmG+E7ItK0t4YTppgzD8lvdziikm32RmC8wCqaKUWc1c+5pVkhu2fHpewCKa9W48nq6m5ODIgsR"
+    "Versao":  "4.50.127",
+    "Instalador":  "EnginePro_Setup_4.50.127.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.127/EnginePro_Setup_4.50.127.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.127/EnginePro_Setup_4.50.127.exe.gz",
+    "SHA256":  "95C4D1F5AE204133A98A615B0E7F78E1A902E5D1C8562381739789F74FE8628F",
+    "Data":  "2026-11-12 16:26",
+    "Notas":  "Scan: nomes em paralelo",
+    "Assinatura":  "ib0XGDgf/I0YGpdDCYeI8xU/4HiS3dAt2RrdD6QGvxEYTcZCyqwUG2SChm8MHdprSBiEVBepEEcrm9VMa40AybIv4qY0d4uG2ERKSVqWMTmv7xnQeFIqShg3d6WSnEOhALgdzajsGqnBUYVC6feMKiSIi/dS1SN9PFukFwZmXjR45KoOfCQc1TY/6hDBdNNMb5767tHwrH+DBJvkN2DJOJe8Oq0+f1bCnLs2rnk7kZTZIfOp+iPyaij1HtfUWMvAhU+O4goIGoZmgtAKLOpSGaIezgcTyckrRBNpUq45ixiWGNGU3+nWRkEzVUVhWy5cYVV7UcVMnMa1vZhzCNOT3R6uWDQ8iov17Opl+/GR828T/8be/Ot37UIoDJ0nd5Fl3P2flG4Na78WW+H0vWwjLP60XTvKIFS8FcpvV3uQkZgBoN3kNIHpr1/IuTB1GxBykVrumBnQoJP9nhV9EbAEtGZspGhSuW+rEfGGT063mdlZLz/Vh35rojMvGwAsNoGX"
 }

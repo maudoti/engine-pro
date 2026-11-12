@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.127",
+        "Data":  "2026-11-12 16:26",
+        "Titulo":  "Scan: nomes em paralelo",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Scan: nomes em paralelo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.126",
         "Data":  "2026-11-12 16:14",
         "Titulo":  "Scan TCP/ARP, monitor de quedas, fila de impressao",

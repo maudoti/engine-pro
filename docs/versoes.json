@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.127",
+        "Data":  "2026-11-12 16:26",
+        "Notas":  "Scan: nomes em paralelo",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.127/EnginePro_Setup_4.50.127.exe"
+    },
+    {
         "Versao":  "4.50.126",
         "Data":  "2026-11-12 16:14",
         "Notas":  "Scan TCP/ARP, monitor de quedas, fila de impressao",
