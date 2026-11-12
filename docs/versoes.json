@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.104",
+        "Data":  "2026-11-12 08:33",
+        "Notas":  "Diagnostico: cronometros para achar o travao de abertura",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.104/EnginePro_Setup_4.50.104.exe"
+    },
+    {
         "Versao":  "4.50.103",
         "Data":  "2026-11-12 08:17",
         "Notas":  "Correcao: msiexec e processos de instalador/atualizador do Windows nao geram mais alerta (falso positivo); Correcao: busca das Estacoes ignora acentos",

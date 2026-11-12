@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.104 | Diagnostico: cronometros para achar o travao de abertura | 12/11/2026
+
+- **Melhoria**: Diagnostico: cronometros para achar o travao de abertura.
+
 ## Versão 4.50.103 | Msiexec e processos de instalador/atualizador do Windows ... | 12/11/2026
 
 - **Correção**: Msiexec e processos de instalador/atualizador do Windows nao geram mais alerta (falso positivo).

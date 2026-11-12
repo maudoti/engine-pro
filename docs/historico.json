@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.104",
+        "Data":  "2026-11-12 08:33",
+        "Titulo":  "Diagnostico: cronometros para achar o travao de abertura",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Diagnostico: cronometros para achar o travao de abertura."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.103",
         "Data":  "2026-11-12 08:17",
         "Titulo":  "Msiexec e processos de instalador/atualizador do Windows ...",

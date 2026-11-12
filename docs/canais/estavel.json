@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.103",
-    "Instalador":  "EnginePro_Setup_4.50.103.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.103/EnginePro_Setup_4.50.103.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.103/EnginePro_Setup_4.50.103.exe.gz",
-    "SHA256":  "BB732D4F78528137CCC897445AF6F60884874AAAC4013589FC89C237993DFCF6",
-    "Data":  "2026-11-12 08:17",
-    "Notas":  "Correcao: msiexec e processos de instalador/atualizador do Windows nao geram mais alerta (falso positivo); Correcao: busca das Estacoes ignora acentos",
-    "Assinatura":  "lT0pqAkpKD/l+uXNKfbjYWI4wPX+eWgZxNyBvxLfi+7ovL8xaxMgq9H0nYJHcjwbk5o7vrK+xvmcZ3fcCGq4Eic8V9vZt/gcf+MY0i+f+1U9ezjBbpGoYyuxWUbkOyiZAV325BYBTKfTnbXWePn2hgE6QmWJfgCGfwCJ2rDRIDNaqNxosOICXF7dYdxqKwr+24pgBrAJ+TZQ2abUoxWa2CoQxe3fYX7m5/9n3xtjrOQVFWt9OoQxOOkDlvJH/0/A1BbF9ejypN4sxWCFZNxpADSp00+uk3KiffEb92vUy2GycM2fsl9Fi34Bh5JdjSNj3KZYIea1N3+2cAb/pnp42xUSmGFz+WPtxjMI8EwAKBIedxRtPJMLUe8tsN/tUEbWsfcw2QdOXQa7RSbPcKn0bvEjVWyH42DtLPp+upOdNuMGnh5ucrWtK1iM90bpGpb8PFzDSE+jHfxLXrq1xHAArztblYEGRJ7yLf+52uXGgDOaTfgdRyN1ThLJ/3UcJxAC"
+    "Versao":  "4.50.104",
+    "Instalador":  "EnginePro_Setup_4.50.104.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.104/EnginePro_Setup_4.50.104.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.104/EnginePro_Setup_4.50.104.exe.gz",
+    "SHA256":  "BA5DCAEA2C682A8CFD609F6526342CE5D7F36982E276C46035AB535BBFD5FE4C",
+    "Data":  "2026-11-12 08:33",
+    "Notas":  "Diagnostico: cronometros para achar o travao de abertura",
+    "Assinatura":  "JWW2eUbY4RmqATP3Xa82K1JFOBmkxAkVHx9dS78JpQ+9s3PtP8GM5LMWyC67VFUiHTb03qznSOVBD2tg54ukBGyV4+jjfdLrriA5sf1DULLusYYMyx/zKsC8f6ODZ/+zH8qlIPEjbbowh0BBF5vi/T6ehZR3Z80SHDCHbua+Z2KY0IEzq9fH1+6fjp2j+A+OXuz8mAgBsK5h0TdVekiaaQzHpv4kUE6O+m0TdVBX6La549Ctq34XqFfd89f446HJS43ftCa0dGHltTCHZqVImi91PflmRDDnxCrEsuJIXsgnEAPXICYPgLLA83eFRLuf/B8+0tY2rbx+HquHnY5gDRUCegg5OWNUIADusYvPR0GRt21FoAqIPNApQuIwbE2W3UPYt4zcNkKr8BuM8OwgWcV/D7kjhWUS44ZglJ3JARzcxBrkzCnbU80qAtdbAkXBE3jNmLaxZOrCo1vB0ltkgDiPA01FXYBI8nMeSY9FCJasnbx6zXxIO9DyjFidD3UP"
 }
