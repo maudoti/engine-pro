@@ -5,13 +5,13 @@
     "N48":  3525,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-12 16:01:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 3 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-12 16:08",
+                         "Texto":  "Nova versão 4.50.124 publicada: Correções e melhorias internas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-12 16:01",
-                         "Texto":  "Nova versão 4.50.123 publicada: Correções e melhorias internas",
+                         "Data":  "2026-11-12 16:01:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 3 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -55,8 +55,8 @@
                   49,
                   54,
                   78,
-                  51,
-                  64,
+                  55,
+                  60,
                   54,
                   70,
                   189,
@@ -80,27 +80,27 @@
                   33,
                   47,
                   70,
-                  77,
-                  75,
+                  83,
+                  69,
                   16,
                   109,
                   113,
-                  78,
-                  183,
+                  81,
+                  180,
                   141,
                   133,
                   138,
-                  43,
-                  42,
+                  48,
+                  37,
                   19,
                   19,
                   39,
                   40,
-                  42,
-                  54,
+                  48,
+                  48,
                   38
               ],
     "Ultima":  "2026-11-12 16:01:36",
-    "Gerado":  "2026-11-12 16:07:05",
-    "Data":  "2026-11-12 16:07"
+    "Gerado":  "2026-11-12 16:08:05",
+    "Data":  "2026-11-12 16:08"
 }
