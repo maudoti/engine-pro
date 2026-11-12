@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.112",
-    "Instalador":  "EnginePro_Setup_4.50.112.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.112/EnginePro_Setup_4.50.112.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.112/EnginePro_Setup_4.50.112.exe.gz",
-    "SHA256":  "5A54AEB6FCC49B1D9776DA6E553A8FF5FDC1CC4E95B70F415A6D377A2189B8E4",
-    "Data":  "2026-11-12 10:43",
-    "Notas":  "Lista de pesquisas e linha viva pelo cache, fim do travao de abertura",
-    "Assinatura":  "INUlkpUK+2irqC34ohKcOYMa5Kz4AlLMEBBehSO+GnxLgcb3vn2tCIl1h4zppHAyhWVeFc8GzmBnuTUmDKCxfbUwwh+Vsivd9jIllaCStYdpCI4U2HTTaMDgM3JR8C/aFl+nArn2wY7dts5h7A/MF/FGgYNIk0vl0NrK4H6CdWIHaJiRDayVerdpB5bJs+WXhZEH05Us2TboivvrXznjtYeYl/ARRRPCE1TqlTYQHtt0nQ998829AfqpJdplVsyk+XMehHhIzSHj13fjj8Bn7MCxHpQcRzcSCndGIzERxP9G01cw/0yWE5D6iSZ6EiMXagnII7tm47fKb4bB5pqCLJzA/0pZndzJV5P4H04ccDid/avNSu6Utem2+inuUKmmK2J+xm2ZR+a3VLHMIdvqK6Y26+EMgbI4CZs6WzzcPYNeE8/RoKmrfgdj1QUA9MLtr/ixrUelUKfIrT70QMw0zMweTGWuAl9o4h1YlFXczh9lAoAYEznb2JIiA+yJjKgh"
+    "Versao":  "4.50.113",
+    "Instalador":  "EnginePro_Setup_4.50.113.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.113/EnginePro_Setup_4.50.113.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.113/EnginePro_Setup_4.50.113.exe.gz",
+    "SHA256":  "C40A4AA240833EFFD4FF444258BE8DFDF270CF0CB2F6E65B978D03C184A533B7",
+    "Data":  "2026-11-12 11:01",
+    "Notas":  "RY-TI-254: disco roda chkdsk, inicializacao lenta e Protecao do Sistema reparam sozinhas",
+    "Assinatura":  "VIUQsPxPFNrIVqjCubt0Ps3fOOVz05NSOsAaAKYhz55UKhXdLtBwktLwASVsjnLO8ppIc8nEf/ClIJlMsyr5F50HdguiHwkwiPFMqV8BCTw7EbU4TnZNocNzptgproYWxXd90JUD/Jy+a6H3jYZQqwvCA3bp6bT5/Lm+3oZaJP7CY9p9f7s7IgCUHwSR4OZjIXLhZ0CfzdXRjO9eBSy4zsWtwPrkcgr350juSyoouKTNu23fHghr+uSNtNCsyymVpv7QhTGZ2EAImUOyMsEzDCcdC+ywrhLQb8lf+cZuJ03s+Q4n79RUnz34IdMSvC/LvUyNM2SJ2VGWg4ECFnIgE0rdmKupwc1Gt+vq3KoRWWPnaIsO9hIr/EOMOgoYLSU8liy6EGLfeSxEAUOqji7rqclKfP5zzF+vzA53gE+pTf6YiyXMa7G2D67GU8pNfIzUonu9BB4G5fE0b/giVfnVS06M2MXYJa45n7RDcr39EFBUWoTdkbLdn9wT1uXUQKFQ"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.113",
+        "Data":  "2026-11-12 11:01",
+        "Titulo":  "RY-TI-254: disco roda chkdsk, inicializacao lenta e Prote...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "RY-TI-254: disco roda chkdsk, inicializacao lenta e Protecao do Sistema reparam sozinhas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.112",
         "Data":  "2026-11-12 10:43",
         "Titulo":  "Lista de pesquisas e linha viva pelo cache, fim do travao...",

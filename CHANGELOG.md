@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.113 | RY-TI-254: disco roda chkdsk, inicializacao lenta e Prote... | 12/11/2026
+
+- **Melhoria**: RY-TI-254: disco roda chkdsk, inicializacao lenta e Protecao do Sistema reparam sozinhas.
+
 ## Versão 4.50.112 | Lista de pesquisas e linha viva pelo cache, fim do travao... | 12/11/2026
 
 - **Melhoria**: Lista de pesquisas e linha viva pelo cache, fim do travao de abertura.
