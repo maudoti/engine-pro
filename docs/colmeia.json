@@ -5,8 +5,8 @@
     "N48":  2237,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 14:10:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 14:27",
+                         "Texto":  "Nova versão 4.50.144 publicada: Drenagem de alertas com log de causa e dois novos sensores do Autodiagnostico (backlog e acervo na nuvem)",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 14:03",
-                         "Texto":  "Nova versão 4.50.143 publicada: Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA",
+                         "Data":  "2026-11-13 14:10:01",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -82,14 +82,14 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
+                  90,
+                  104,
                   100,
-                  269,
-                  185,
+                  270,
+                  184,
                   226,
-                  223,
-                  236,
+                  228,
+                  231,
                   188,
                   117,
                   51,
@@ -101,6 +101,6 @@
                   40
               ],
     "Ultima":  "2026-11-13 14:10:01",
-    "Gerado":  "2026-11-13 14:27:03",
+    "Gerado":  "2026-11-13 14:27:34",
     "Data":  "2026-11-13 14:27"
 }

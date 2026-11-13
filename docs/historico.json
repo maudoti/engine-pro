@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.144",
+        "Data":  "2026-11-13 14:27",
+        "Titulo":  "Drenagem de alertas com log de causa e dois novos sensore...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Drenagem de alertas com log de causa e dois novos sensores do Autodiagnostico (backlog e acervo na nuvem)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.143",
         "Data":  "2026-11-13 14:03",
         "Titulo":  "Gravacao atomica com backup, leitura auto-recuperavel e t...",
