@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.151 | Estacoes criticas: botao Visualizar os Avisos (lista do q... | 13/11/2026
+
+- **Correção**: Estacoes criticas: botao Visualizar os Avisos (lista do que ha de errado) ao lado do Corrigir pela IA.
+
 ## Versão 4.50.150 | Card grande vermelho Estado Critico na tela de Estacoes, ... | 13/11/2026
 
 - **Melhoria**: Card grande vermelho Estado Critico na tela de Estacoes, clicavel para filtrar as maquinas criticas.
