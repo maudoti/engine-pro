@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1505,
-    "Pesquisas":  16862,
-    "N48":  2149,
+    "Conhecimentos":  1507,
+    "Pesquisas":  16863,
+    "N48":  2150,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 12:30:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 39 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 12:33:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora aparece offline",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 12:30:14",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 12:33:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora não imprime",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 12:30",
-                         "Texto":  "Nova versão 4.50.139 publicada: Cartao status: texto, moldura, clique aqui",
+                         "Data":  "2026-11-13 12:30:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 40 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1800 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1801 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 12:30:31",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 12:30",
+                         "Texto":  "Nova versão 4.50.139 publicada: Cartao status: texto, moldura, clique aqui",
                          "Nivel":  "info"
                      },
                      {
@@ -38,16 +48,6 @@
                          "Data":  "2026-11-13 11:39:38",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 61 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 11:02:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 09:04:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD ou Revit sem licença",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
@@ -86,21 +86,21 @@
                   76,
                   101,
                   93,
-                  128,
-                  242,
-                  184,
-                  226,
-                  236,
-                  223,
-                  215,
-                  90,
-                  51,
-                  63,
-                  46,
-                  55,
-                  64
+                  135,
+                  235,
+                  224,
+                  221,
+                  212,
+                  250,
+                  186,
+                  97,
+                  35,
+                  72,
+                  50,
+                  42,
+                  65
               ],
-    "Ultima":  "2026-11-13 12:30:17",
-    "Gerado":  "2026-11-13 12:30:18",
-    "Data":  "2026-11-13 12:30"
+    "Ultima":  "2026-11-13 12:30:31",
+    "Gerado":  "2026-11-13 12:37:04",
+    "Data":  "2026-11-13 12:37"
 }
