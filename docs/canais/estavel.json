@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.141",
-    "Instalador":  "EnginePro_Setup_4.50.141.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.141/EnginePro_Setup_4.50.141.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.141/EnginePro_Setup_4.50.141.exe.gz",
-    "SHA256":  "1DA5F2F345225BEEB4CFE904BB1037759EFC536BB7CA45C03C22277004FB74CF",
-    "Data":  "2026-11-13 13:30",
-    "Notas":  "Texto clique no satelite",
-    "Assinatura":  "g6ts8v8V21Y71CzKqdxT8I4IC+rR03nwnaTQN8y+DmC4YG/y/KYnLw125tBCIQLMPZbhEWdAoR2UtbS5hdiFPZSYnkuUgv0oA1cBE0lyOgjP0iNm1ym0yR6j8Mo6AilUooJzeGZ/tVy1A2NHi2qln3WGnbGej8TCgGM5+qVYnNDtEIP++LMC6DDerl/9qbt+qdXyMOBWNPKRlrSPWYfXPkUAG9QVZ638tByoMSrxbziR7QRsQopy6peZRtnRz/O90Whqc2dH/vc/P0s+kwd5j80IQYe+bBDfA0XJj7x+Gbdf9E1I60e3E1SJY9OntnN0sFs3AMLJX9MclB/4Zk57Dr6DIxRW6MrDyHeb08tX+YWXtGxpKG3lGfVmDhM3fiMLlsMpeqoE06ZA4BZLPFhmDTET08DGg8hX66Vhm+xMwijf93slSHANsREwz5GQ7F2mYL91LGh9FbnmhN+WfrpYHNWguW87qVSlP8CelNNp9l5RPqyU6+3uzoOnZ68uH9rW"
+    "Versao":  "4.50.142",
+    "Instalador":  "EnginePro_Setup_4.50.142.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.142/EnginePro_Setup_4.50.142.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.142/EnginePro_Setup_4.50.142.exe.gz",
+    "SHA256":  "FC268CF9DCF166AA8C512B1E1A1E305E5B027163CC3016C28BFD6D0BC424189C",
+    "Data":  "2026-11-13 14:01",
+    "Notas":  "Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA",
+    "Assinatura":  "lxi6i0h/TbXxLKq1Y9FEcYRi1ZjDno5jLN/E5eH6ICRLYWD7Wn24lNQwBosi1VSRpeeyoHnw6TVfgRTpQfP1+pvSqqSj/cI5egx8OtIuyqdo4LCR24t9OvyCKhvMfa7pxRiVy1OJTuSr/OuzUpiGDz8FirS6h7/o8eQdPl3WCAbv3Axc62kc5PIPEjPO0ScsG408sSdR6fS8p0I7LOYbfzZcjN/kQhJW2iOqI/HJS9O80BjjkiFqmDu/Di2dRk/amzlkkvkYiLayqveBHeb0p2nFFjubizLn76GeiRBqolEfcJeqTmdHwmT7yYANPRfUGbislcK6W+6OunxK2RyFKW0rrbrHBa3w9ovNE2DpKnD/VRW+OfbPAmjaO8btmGRgn+ZYyYdo9BIsIwb/RFEsLLUo1FRkDQ/1EHH7YPnyFJH99HURTSTfMRTyYATECBylMG6BChAiyKsE5PTC7cJm7CDg6h2WjicD/0y//G1BFcnQTgHax8jH9ib4O7vmpKDd"
 }
