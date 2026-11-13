@@ -1,16 +1,16 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1520,
-    "Pesquisas":  17280,
-    "N48":  2567,
+    "Conhecimentos":  1522,
+    "Pesquisas":  17306,
+    "N48":  2593,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 19:26:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 19:36:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 74 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 19:26:39",
+                         "Data":  "2026-11-13 19:36:45",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 19:12:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
+                         "Data":  "2026-11-13 19:33:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2218 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2244 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 18:46:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, \"A relação de confiança entre a estação e o domínio falhou\"",
+                         "Data":  "2026-11-13 19:33:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736B3 (ERROR_SXS_ASSEMBLY_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 18:46:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
+                         "Data":  "2026-11-13 19:12:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -77,30 +77,30 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
-                  100,
-                  269,
-                  185,
-                  226,
-                  223,
-                  236,
-                  188,
-                  117,
-                  51,
-                  54,
-                  55,
-                  55,
+                  101,
+                  93,
+                  135,
+                  235,
+                  224,
+                  221,
+                  212,
+                  250,
+                  186,
+                  97,
+                  35,
+                  72,
                   50,
-                  62,
-                  40,
-                  70,
-                  71,
-                  43,
+                  42,
+                  65,
+                  47,
+                  57,
+                  53,
+                  72,
+                  42,
                   67,
-                  79
+                  105
               ],
-    "Ultima":  "2026-11-13 19:26:55",
-    "Gerado":  "2026-11-13 19:27:03",
-    "Data":  "2026-11-13 19:27"
+    "Ultima":  "2026-11-13 19:36:57",
+    "Gerado":  "2026-11-13 19:37:03",
+    "Data":  "2026-11-13 19:37"
 }
