@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.146 | Nome da maquina mascarado em conflito, e-mail de tela azu... | 13/11/2026
+
+- **Melhoria**: Nome da maquina mascarado em conflito, e-mail de tela azul no tom investigado, e botao de editar na quarentena.
+
 ## Versão 4.50.145 | Trava anti-encolhimento do acervo na nuvem, carimbo da ma... | 13/11/2026
 
 - **Melhoria**: Trava anti-encolhimento do acervo na nuvem, carimbo da maquina no commit, sincronizacao confiavel e drenagem com log de causa.

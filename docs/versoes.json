@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.146",
+        "Data":  "2026-11-13 14:48",
+        "Notas":  "Nome da maquina mascarado em conflito, e-mail de tela azul no tom investigado, e botao de editar na quarentena",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.146/EnginePro_Setup_4.50.146.exe"
+    },
+    {
         "Versao":  "4.50.145",
         "Data":  "2026-11-13 14:32",
         "Notas":  "Trava anti-encolhimento do acervo na nuvem, carimbo da maquina no commit, sincronizacao confiavel e drenagem com log de causa",

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.146",
+        "Data":  "2026-11-13 14:48",
+        "Titulo":  "Nome da maquina mascarado em conflito, e-mail de tela azu...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Nome da maquina mascarado em conflito, e-mail de tela azul no tom investigado, e botao de editar na quarentena."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.145",
         "Data":  "2026-11-13 14:32",
         "Titulo":  "Trava anti-encolhimento do acervo na nuvem, carimbo da ma...",
