@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.153",
+        "Data":  "2026-11-13 16:20",
+        "Notas":  "Previa da COLMEIA leve e drenagem com retentativa em 403",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.153/EnginePro_Setup_4.50.153.exe"
+    },
+    {
         "Versao":  "4.50.152",
         "Data":  "2026-11-13 16:09",
         "Notas":  "Java nunca automatico, logs OneDrive fora da limpeza auto, travamento de app sem delegar ao TI",

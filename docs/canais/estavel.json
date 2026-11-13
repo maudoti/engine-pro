@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.152",
-    "Instalador":  "EnginePro_Setup_4.50.152.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.152/EnginePro_Setup_4.50.152.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.152/EnginePro_Setup_4.50.152.exe.gz",
-    "SHA256":  "2A7F44A64436A3CA9CFD1545D3E672FC30E8CD5F681DD24014DD1CD82F11196C",
-    "Data":  "2026-11-13 16:09",
-    "Notas":  "Java nunca automatico, logs OneDrive fora da limpeza auto, travamento de app sem delegar ao TI",
-    "Assinatura":  "Tjp1T5kU1ObfLEmtiUqIGB9JJhkxkkcvcs3t9VskCtw4wXw+W4O7aICDdXvmar1GPxLNXxmlWQYNN8Zfb5c/T7Mi9VpYDrbJXkNMEpPEOJsY9reardwDcuUv9PpEMVvZ7nCh1UaGvQVuCtJ4A1ttuChDv147T4WQZCOXTEETBZjDFCAVCFf7/9jy18jQIHz2bw58aICkO41j49kqnKEFpecrabNgDUEVdU11ziIWJjL475PCXzgsWQ9MfcOulWoeBRInZnkzO5rV76te9vR3yHtyXU6c94xBJg7/LHxVI7JWhvVqdErMeCiIbcM1jc1IFQSE8LLJchJTB+797ds5j5G201cDVvF6SQrNylRDBMZY4NUdqKn+l+bxqAhgNK8p3AtA6kxvoOSBI2/my3Yp9c74kCV687Lc3OOvloQIkXkYuOWzSklBZuopK9XjIYwnjvHfkle6kbvKXrSXKHXZBffdjj11sATyuR2nZLJ2iNRYJwjr7eN9aGRTutdY33vC"
+    "Versao":  "4.50.153",
+    "Instalador":  "EnginePro_Setup_4.50.153.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.153/EnginePro_Setup_4.50.153.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.153/EnginePro_Setup_4.50.153.exe.gz",
+    "SHA256":  "90CB2247AA24402DEF1B34865761B48D63E2B6B5E64FF6F7F67C9AF055D78595",
+    "Data":  "2026-11-13 16:20",
+    "Notas":  "Previa da COLMEIA leve e drenagem com retentativa em 403",
+    "Assinatura":  "mlQJ2gSmNWsFUoTYUNJnKKSCGiqHlrYKMhMzow8NAw+pqVBwRjCAO0LLXHcQHZQPLoTSI7+UrK3kJtG9k1Ugjjg4pEhJpFYbipslSa5p8iVdvXfI3xvSZY7ENC1FOPgTB3DRxMNcYcpnDs8lCJpC9ZEWGyeyton6T76yZ4GuSzrFfYe9e5TFGhraSz80TE4zSJAqhBKcgpN5cZ9LIUI5qmJ+Xo4or9rlRm1CO1rTGHcvi0GbaqWZGi8G8hrPTUkcn2s908wPWNXVvKZwqYEZHWVJwDqVGTxI6y4lu/mvdTU7MtsK7XktPjZyqfZCSRTwwAR72kyhGQzmMknZWfjTBJJoPbVfSTlvaEj+N9vdD1kSHm/UxAxyZINroORrpkdlbFgauUJTetgvkDim093zr+ORsKQP0ijs1U8Yd/+XOrosQdy61E13VNXRsaamKEFYJlXGUBmXaLqlM/1KPQ2HScU7UQ9xTLouptZNDh6AxCXfCADWx9cn0pc6P8FZCpr6"
 }

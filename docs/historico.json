@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.153",
+        "Data":  "2026-11-13 16:20",
+        "Titulo":  "Previa da COLMEIA leve e drenagem com retentativa em 403",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Previa da COLMEIA leve e drenagem com retentativa em 403."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.152",
         "Data":  "2026-11-13 16:09",
         "Titulo":  "Java nunca automatico, logs OneDrive fora da limpeza auto...",
