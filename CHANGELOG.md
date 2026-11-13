@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.160 | Monitor de sessao auto-reiniciavel: tarefa de logon repet... | 13/11/2026
+
+- **Correção**: Monitor de sessao auto-reiniciavel: tarefa de logon repete a cada 3 min e reinicia em falha.
+
 ## Versão 4.50.159 | Backup diario tambem copiado para o OneDrive do TI (offsite) | 13/11/2026
 
 - **Melhoria**: Backup diario tambem copiado para o OneDrive do TI (offsite).

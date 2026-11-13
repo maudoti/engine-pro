@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.160",
+        "Data":  "2026-11-13 18:01",
+        "Notas":  "Monitor de sessao auto-reiniciavel: tarefa de logon repete a cada 3 min e reinicia em falha",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.160/EnginePro_Setup_4.50.160.exe"
+    },
+    {
         "Versao":  "4.50.159",
         "Data":  "2026-11-13 17:33",
         "Notas":  "Backup diario tambem copiado para o OneDrive do TI (offsite)",
