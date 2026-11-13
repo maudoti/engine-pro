@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.147",
-    "Instalador":  "EnginePro_Setup_4.50.147.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.147/EnginePro_Setup_4.50.147.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.147/EnginePro_Setup_4.50.147.exe.gz",
-    "SHA256":  "A2F0F37351D44FC76B9B13206DE55C7664BC34358DB9BB8D6E52E7CFCF103D1D",
-    "Data":  "2026-11-13 14:55",
-    "Notas":  "TI conserta na montagem do e-mail os chamados antigos: oculta nome de maquina alheio e troca investigar por ja analisei",
-    "Assinatura":  "htzRqVqAHMtJEfkVPZu0ui72+ebNeAvYxkv+0EJOrjBA662XjA+LKQ3ssvtBjVjlRZw1hEotpRGw/r5OG3axC7WtRNLalwiL8dESYwLWisPxZdza+vl+u8qaHhAy6pahOchrZawVfFoMAO1zac7D8FRT/4m4Ie26gV0QNWoFv1iS3cJ94x5Rj8IU2vP7MNu2IpUDWFyrA9KNkopi+LT9Aop7wN8ftZd90EARiDQ1mty/UypF6NbQan1tiks95fQglNMwtoWdiY1afQSs1ynx1XNYOyfrLVueQepWaTlySiPs6z6m8a7/uCTVFPWs5wKZRqdjBJfwyfG65zkHp3pkS7b0bj6Tm/AywUFsxvULt10YOETU2EpS8ZsBkG95Pm233pRifDxitOjJc0nJPfOo/oTd6lSCMYio9aBDjJc1mTWqFKvF4unqRRPOkw7faS23Ek93zQe38Qm7ojNLC4VsOjHkSlQgfCePLEYb2nhsKHFfSjsGKdbSKX8qD+WbDU1P"
+    "Versao":  "4.50.148",
+    "Instalador":  "EnginePro_Setup_4.50.148.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.148/EnginePro_Setup_4.50.148.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.148/EnginePro_Setup_4.50.148.exe.gz",
+    "SHA256":  "36DFD678B0BA8D70575168594AEA7B38E72D084F83F6A96F22FBAD5A387068C6",
+    "Data":  "2026-11-13 15:05",
+    "Notas":  "Escrita mais firme, aviso de renomear a maquina no DADOS, limpeza retroativa no TI",
+    "Assinatura":  "ghwave2zy8SWuGZCidpkVK27Yyy36FaYZ67KrKYOiTwnJzG20JvHKdYRYlnsx4+uZjgotQ7GzcWsVGLowglg8JUGibgqdEmJIilcdgpBybI8bEW/GReO3mLlPC7FYXzNoxz36jse+8Bvhw7eYfnxvdorSnUdeS7H/4pUDlW0f5WhlKIxXozYNsz6eT0B82pp3I87RXhkD0jDnbouZSwl2qIcPswo+HA2x2Z43vVRhCpvFcQvZfBvqKP2t2LVsTU8AEa0/T3EOJWA9UBsMr/Di4ezqsJgdaiQdi839KY8qZVoweRp7GP9t6efx+9poQwp+md5sHJ8fcihKE68Aq8GHbCNaf+Vb4hiqPLwA56CTPLM+gLwqCj36Tt96b91ZD+sZ2HuFNlJjUxO4cPGKoXCPZUc37NycOY4HQN+NqWeJ8NNj1n2Vy5f7Vni1DGKqNLWOIHUEJbctGjdDwjLf7s62mCorS2SIKWc6IwIz1KiR6s6n5j5YyPltr2/Q3+qTSTv"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.148",
+        "Data":  "2026-11-13 15:05",
+        "Titulo":  "Escrita mais firme, aviso de renomear a maquina no DADOS,...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Escrita mais firme, aviso de renomear a maquina no DADOS, limpeza retroativa no TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.147",
         "Data":  "2026-11-13 14:55",
         "Titulo":  "TI conserta na montagem do e-mail os chamados antigos: oc...",

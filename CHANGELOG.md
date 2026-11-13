@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.148 | Escrita mais firme, aviso de renomear a maquina no DADOS,... | 13/11/2026
+
+- **Melhoria**: Escrita mais firme, aviso de renomear a maquina no DADOS, limpeza retroativa no TI.
+
 ## Versão 4.50.147 | TI conserta na montagem do e-mail os chamados antigos: oc... | 13/11/2026
 
 - **Melhoria**: TI conserta na montagem do e-mail os chamados antigos: oculta nome de maquina alheio e troca investigar por ja analisei.
