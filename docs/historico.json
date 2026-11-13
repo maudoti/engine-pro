@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.137",
+        "Data":  "2026-11-13 12:17",
+        "Titulo":  "Botao status reposicionado",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao status reposicionado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.136",
         "Data":  "2026-11-13 12:14",
         "Titulo":  "Botao status na tela inicial",

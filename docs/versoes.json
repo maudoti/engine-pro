@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.137",
+        "Data":  "2026-11-13 12:17",
+        "Notas":  "Botao status reposicionado",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.137/EnginePro_Setup_4.50.137.exe"
+    },
+    {
         "Versao":  "4.50.136",
         "Data":  "2026-11-13 12:14",
         "Notas":  "Botao status na tela inicial",

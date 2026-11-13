@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.137 | Botao status reposicionado | 13/11/2026
+
+- **Melhoria**: Botao status reposicionado.
+
 ## Versão 4.50.136 | Botao status na tela inicial | 13/11/2026
 
 - **Melhoria**: Botao status na tela inicial.
