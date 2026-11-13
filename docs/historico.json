@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.158",
+        "Data":  "2026-11-13 17:27",
+        "Titulo":  "Backup seguro diario do Engine (acervo, casos, config, ch...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Backup seguro diario do Engine (acervo, casos, config, chave) e script de restauracao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.157",
         "Data":  "2026-11-13 17:20",
         "Titulo":  "Autodiagnostico corrige sozinho (acervo COLMEIA e drenage...",

@@ -5,8 +5,8 @@
     "N48":  2421,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 17:20",
-                         "Texto":  "Nova versão 4.50.157 publicada: Autodiagnostico corrige sozinho (acervo COLMEIA e drenagem) e avisa o TI por email da acao autonoma",
+                         "Data":  "2026-11-13 17:27",
+                         "Texto":  "Nova versão 4.50.158 publicada: Backup seguro diario do Engine (acervo, casos, config, chave) e script de restauracao",
                          "Nivel":  "info"
                      },
                      {
@@ -79,16 +79,16 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
+                  91,
+                  103,
                   100,
-                  269,
-                  185,
+                  270,
+                  184,
                   226,
-                  223,
-                  236,
-                  188,
-                  117,
+                  229,
+                  230,
+                  189,
+                  116,
                   51,
                   54,
                   55,
@@ -97,10 +97,10 @@
                   62,
                   40,
                   70,
-                  71,
-                  43
+                  72,
+                  42
               ],
     "Ultima":  "2026-11-13 17:14:52",
-    "Gerado":  "2026-11-13 17:27:03",
+    "Gerado":  "2026-11-13 17:27:46",
     "Data":  "2026-11-13 17:27"
 }

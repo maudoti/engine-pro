@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.158 | Backup seguro diario do Engine (acervo, casos, config, ch... | 13/11/2026
+
+- **Melhoria**: Backup seguro diario do Engine (acervo, casos, config, chave) e script de restauracao.
+
 ## Versão 4.50.157 | Autodiagnostico corrige sozinho (acervo COLMEIA e drenage... | 13/11/2026
 
 - **Correção**: Autodiagnostico corrige sozinho (acervo COLMEIA e drenagem) e avisa o TI por email da acao autonoma.
