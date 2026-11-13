@@ -1,13 +1,13 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1519,
+    "Conhecimentos":  1520,
     "Pesquisas":  17258,
     "N48":  2545,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 19:05:22",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 19:12:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 19:05:22",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 18:46:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, \"A relação de confiança entre a estação e o domínio falhou\"",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 19:05:22",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 2196 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 18:46:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, \"A relação de confiança entre a estação e o domínio falhou\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 18:46:56",
@@ -38,11 +43,6 @@
                          "Data":  "2026-11-13 18:46:46",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 18:24:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070003 (ERROR_PATH_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 18:01",
@@ -75,32 +75,32 @@
                   0,
                   0,
                   0,
-                  31,
-                  76,
-                  65,
-                  130,
-                  47,
-                  247,
-                  212,
-                  222,
+                  56,
+                  51,
+                  87,
+                  108,
+                  89,
+                  264,
+                  189,
                   225,
                   226,
-                  206,
-                  170,
-                  51,
+                  232,
+                  193,
+                  150,
+                  38,
                   42,
-                  64,
-                  46,
-                  70,
-                  37,
-                  48,
+                  80,
+                  32,
+                  73,
+                  36,
                   66,
+                  44,
                   77,
-                  42,
-                  58,
+                  63,
+                  37,
                   87
               ],
     "Ultima":  "2026-11-13 19:05:22",
-    "Gerado":  "2026-11-13 19:07:03",
-    "Data":  "2026-11-13 19:07"
+    "Gerado":  "2026-11-13 19:17:03",
+    "Data":  "2026-11-13 19:17"
 }
