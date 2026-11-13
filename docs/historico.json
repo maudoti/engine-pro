@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.139",
+        "Data":  "2026-11-13 12:30",
+        "Titulo":  "Cartao status: texto, moldura, clique aqui",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cartao status: texto, moldura, clique aqui."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.138",
         "Data":  "2026-11-13 12:24",
         "Titulo":  "Cartao satelite + aviso de chamado",

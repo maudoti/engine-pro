@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.139",
+        "Data":  "2026-11-13 12:30",
+        "Notas":  "Cartao status: texto, moldura, clique aqui",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.139/EnginePro_Setup_4.50.139.exe"
+    },
+    {
         "Versao":  "4.50.138",
         "Data":  "2026-11-13 12:24",
         "Notas":  "Cartao satelite + aviso de chamado",

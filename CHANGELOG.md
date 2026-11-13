@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.139 | Cartao status: texto, moldura, clique aqui | 13/11/2026
+
+- **Melhoria**: Cartao status: texto, moldura, clique aqui.
+
 ## Versão 4.50.138 | Cartao satelite + aviso de chamado | 13/11/2026
 
 - **Melhoria**: Cartao satelite + aviso de chamado.

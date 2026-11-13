@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.138",
-    "Instalador":  "EnginePro_Setup_4.50.138.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.138/EnginePro_Setup_4.50.138.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.138/EnginePro_Setup_4.50.138.exe.gz",
-    "SHA256":  "C2A2E72F26013C616ACA14699D7AE72F5A45E475F3B3B7788EB1E10EF7B1E118",
-    "Data":  "2026-11-13 12:24",
-    "Notas":  "Cartao satelite + aviso de chamado",
-    "Assinatura":  "Ahi5hiUs+ijyNdA1s/SEwQG3BoqQvjFDn2BLMfAa57ALajPGLYhmpepTnt4CixW5bKjmFnB1x6yUgWDK5pWcAMeX1BiZ2nViYHa4+Tor3y2OnU9dOHdH6IxQjc3CPhaBRrhyHait7J6J8fazTc2metfa6ryEi5knb/haSsVRmmDRprbxy8c80KTf01lBMEso3nImdXrN92kKfhY4bH6OeShSibdeYd1s81cMaR2Q4VBLZ67APnHWUFl4Wk4eoLupM1Jj+X6yMI7xRakckNrFTIZPY2cMLZ+VFwMjOUZJyn/BiX15xMDg/VFzoyYBAkN1u28kKdFst9SvvlwHvzxZJdsroHol/4Ef0RanK5r5G07b40r5WU18F0WKrH5RvsIws+77PnLJpCIYmjM2ZkD0Vy755IZc3Vb47DNx3QUVPVD2fRQLL66+88BG8Wq6eOwwmp17ip4uiBkQ+XJQFj4xLHAwmLZTcKd/Y5+E6HhcVPNf5x6HyCU27lRNkqYdCWGh"
+    "Versao":  "4.50.139",
+    "Instalador":  "EnginePro_Setup_4.50.139.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.139/EnginePro_Setup_4.50.139.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.139/EnginePro_Setup_4.50.139.exe.gz",
+    "SHA256":  "42F79A7155ED57F14B7076DB366F6E0CDA7DD43E289BC556689CBCA000B489A1",
+    "Data":  "2026-11-13 12:30",
+    "Notas":  "Cartao status: texto, moldura, clique aqui",
+    "Assinatura":  "guwNcx91xO2xDKBI+YJpd14ksVcH8iLRzcgcygVeWDKjpmmVUOAFi26fsTqNyjRU2pYLy/O3Szn8AfVK/d5K2Vv8q09B+vqqFFINTz4IK9kFWRlZJ2vjTjU8aAW0RYH6KL099w0OUiUffQtVpLpdKzSqventKKFTn/OyeXENtFJy/EsPkNG3AT++gdNnLYaa3eO4WChRpB67bCFInNh5ncnXtDyimHx6Q2YeupxE1vDee1lBQ4YKdHevQ24QJSg6H27Xk647qgdclOn+l0tlgXz1ayeV8L7FoDKcgDdxJ8zODNK7EKecz4YM5Hz5fD4U1PBWkNA+hezJ2+H8G10peTJ+HkNDAo1d5A+2S3IxCVGutGinSi3d9WNgKEogVvyRronjfG7Uj9a+JcXv5R0UlELORjX5CdjpwGcebB77PKItUoW2zCQ3z/1v6belFi0NdWonqBwSXQUwGXTK1tPM5rnc7ICzsNIG8KFjYXvWa8NzvwKAuE3a9WP/FxJuzNXw"
 }
