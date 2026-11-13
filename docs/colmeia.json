@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1502,
-    "Pesquisas":  16663,
-    "N48":  1950,
+    "Pesquisas":  16688,
+    "N48":  1975,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 09:04:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD ou Revit sem licença",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 09:24:34",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 09:04:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 09:24:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 09:04:37",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 09:04:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD ou Revit sem licença",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1601 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1626 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -86,21 +86,21 @@
                   0,
                   0,
                   56,
-                  51,
-                  88,
-                  107,
-                  89,
-                  264,
-                  189,
-                  225,
+                  76,
+                  86,
+                  108,
+                  100,
+                  269,
+                  185,
                   226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42
+                  223,
+                  236,
+                  188,
+                  117,
+                  51,
+                  54
               ],
-    "Ultima":  "2026-11-13 09:04:37",
-    "Gerado":  "2026-11-13 09:17:04",
-    "Data":  "2026-11-13 09:17"
+    "Ultima":  "2026-11-13 09:24:34",
+    "Gerado":  "2026-11-13 09:27:05",
+    "Data":  "2026-11-13 09:27"
 }
