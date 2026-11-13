@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1519,
-    "Pesquisas":  17232,
-    "N48":  2519,
+    "Pesquisas":  17258,
+    "N48":  2545,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 18:46:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, \"A relação de confiança entre a estação e o domínio falhou\"",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 19:05:22",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 18:46:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 19:05:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 18:46:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 18:46:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, \"A relação de confiança entre a estação e o domínio falhou\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2170 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2196 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
+                         "Data":  "2026-11-13 18:46:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-13 18:46:46",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -42,11 +47,6 @@
                      {
                          "Data":  "2026-11-13 18:01",
                          "Texto":  "Nova versão 4.50.160 publicada: Monitor de sessao auto-reiniciavel: tarefa de logon repete a cada 3 min e reinicia em falha",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 17:59:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
@@ -76,31 +76,31 @@
                   0,
                   0,
                   31,
-                  48,
-                  78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
+                  76,
+                  65,
+                  130,
+                  47,
+                  247,
+                  212,
+                  222,
                   225,
+                  226,
                   206,
-                  29,
-                  48,
-                  80,
-                  32,
+                  170,
+                  51,
+                  42,
                   64,
-                  50,
-                  55,
+                  46,
+                  70,
+                  37,
+                  48,
                   66,
-                  50,
-                  69,
-                  44,
-                  75
+                  77,
+                  42,
+                  58,
+                  87
               ],
-    "Ultima":  "2026-11-13 18:46:46",
-    "Gerado":  "2026-11-13 18:57:03",
-    "Data":  "2026-11-13 18:57"
+    "Ultima":  "2026-11-13 19:05:22",
+    "Gerado":  "2026-11-13 19:07:03",
+    "Data":  "2026-11-13 19:07"
 }
