@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.157 | Autodiagnostico corrige sozinho (acervo COLMEIA e drenage... | 13/11/2026
+
+- **Correção**: Autodiagnostico corrige sozinho (acervo COLMEIA e drenagem) e avisa o TI por email da acao autonoma.
+
 ## Versão 4.50.156 | Texto do teste de memoria (IA agenda sozinha, sem midia) ... | 13/11/2026
 
 - **Melhoria**: Texto do teste de memoria (IA agenda sozinha, sem midia) e firmada dos robos/emails.

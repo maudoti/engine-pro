@@ -5,9 +5,9 @@
     "N48":  2421,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 17:15:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Wi-Fi sumiu ou não encontra redes",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 17:20",
+                         "Texto":  "Nova versão 4.50.157 publicada: Autodiagnostico corrige sozinho (acervo COLMEIA e drenagem) e avisa o TI por email da acao autonoma",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-13 17:15:06",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 17:14:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 17:15:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Wi-Fi sumiu ou não encontra redes",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -31,12 +31,12 @@
                      },
                      {
                          "Data":  "2026-11-13 17:14:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 17:08",
-                         "Texto":  "Nova versão 4.50.156 publicada: Texto do teste de memoria (IA agenda sozinha, sem midia) e firmada dos robos/emails",
+                         "Data":  "2026-11-13 17:14:52",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -79,28 +79,28 @@
                   0,
                   56,
                   51,
-                  88,
-                  107,
-                  89,
-                  264,
-                  189,
-                  225,
-                  226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42,
+                  101,
+                  94,
+                  119,
+                  234,
+                  199,
+                  215,
+                  234,
+                  229,
+                  215,
+                  123,
+                  51,
+                  29,
                   80,
-                  33,
-                  72,
-                  36,
-                  66,
+                  55,
+                  50,
+                  62,
+                  40,
                   44,
                   77,
                   63
               ],
     "Ultima":  "2026-11-13 17:14:52",
-    "Gerado":  "2026-11-13 17:17:04",
-    "Data":  "2026-11-13 17:17"
+    "Gerado":  "2026-11-13 17:20:36",
+    "Data":  "2026-11-13 17:20"
 }

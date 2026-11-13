@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.157",
+        "Data":  "2026-11-13 17:20",
+        "Titulo":  "Autodiagnostico corrige sozinho (acervo COLMEIA e drenage...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Autodiagnostico corrige sozinho (acervo COLMEIA e drenagem) e avisa o TI por email da acao autonoma."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.156",
         "Data":  "2026-11-13 17:08",
         "Titulo":  "Texto do teste de memoria (IA agenda sozinha, sem midia) ...",

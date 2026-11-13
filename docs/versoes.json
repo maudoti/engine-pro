@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.157",
+        "Data":  "2026-11-13 17:20",
+        "Notas":  "Autodiagnostico corrige sozinho (acervo COLMEIA e drenagem) e avisa o TI por email da acao autonoma",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.157/EnginePro_Setup_4.50.157.exe"
+    },
+    {
         "Versao":  "4.50.156",
         "Data":  "2026-11-13 17:08",
         "Notas":  "Texto do teste de memoria (IA agenda sozinha, sem midia) e firmada dos robos/emails",
