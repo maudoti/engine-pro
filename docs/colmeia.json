@@ -5,8 +5,8 @@
     "N48":  2400,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 16:50:55",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 17:08",
+                         "Texto":  "Nova versão 4.50.156 publicada: Texto do teste de memoria (IA agenda sozinha, sem midia) e firmada dos robos/emails",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 16:44",
-                         "Texto":  "Nova versão 4.50.155 publicada: Heads-up Novo chamado volta a sair, log de chamados claro RETIDO vs ENVIADO",
+                         "Data":  "2026-11-13 16:50:55",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -79,28 +79,28 @@
                   0,
                   31,
                   76,
-                  65,
-                  130,
-                  47,
-                  247,
+                  75,
+                  120,
+                  58,
+                  236,
                   212,
                   222,
-                  225,
-                  226,
+                  235,
+                  229,
                   206,
-                  170,
+                  157,
                   51,
                   42,
                   64,
                   46,
-                  70,
-                  37,
-                  48,
-                  66,
+                  75,
+                  32,
+                  60,
+                  54,
                   77,
                   42
               ],
     "Ultima":  "2026-11-13 16:50:55",
-    "Gerado":  "2026-11-13 17:07:03",
-    "Data":  "2026-11-13 17:07"
+    "Gerado":  "2026-11-13 17:08:43",
+    "Data":  "2026-11-13 17:08"
 }

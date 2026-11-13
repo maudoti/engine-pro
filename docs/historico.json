@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.156",
+        "Data":  "2026-11-13 17:08",
+        "Titulo":  "Texto do teste de memoria (IA agenda sozinha, sem midia) ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Texto do teste de memoria (IA agenda sozinha, sem midia) e firmada dos robos/emails."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.155",
         "Data":  "2026-11-13 16:44",
         "Titulo":  "Heads-up Novo chamado volta a sair, log de chamados claro...",

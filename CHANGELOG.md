@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.156 | Texto do teste de memoria (IA agenda sozinha, sem midia) ... | 13/11/2026
+
+- **Melhoria**: Texto do teste de memoria (IA agenda sozinha, sem midia) e firmada dos robos/emails.
+
 ## Versão 4.50.155 | Heads-up Novo chamado volta a sair, log de chamados claro... | 13/11/2026
 
 - **Melhoria**: Heads-up Novo chamado volta a sair, log de chamados claro RETIDO vs ENVIADO.
