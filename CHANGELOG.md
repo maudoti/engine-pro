@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.149 | Tela de Estacoes: alarme vermelho dos criticos e botao Co... | 13/11/2026
+
+- **Correção**: Tela de Estacoes: alarme vermelho dos criticos e botao Corrigir pela IA (reparo remoto com aviso na Quarentena).
+
 ## Versão 4.50.148 | Escrita mais firme, aviso de renomear a maquina no DADOS,... | 13/11/2026
 
 - **Melhoria**: Escrita mais firme, aviso de renomear a maquina no DADOS, limpeza retroativa no TI.

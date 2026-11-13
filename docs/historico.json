@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.149",
+        "Data":  "2026-11-13 15:28",
+        "Titulo":  "Tela de Estacoes: alarme vermelho dos criticos e botao Co...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Tela de Estacoes: alarme vermelho dos criticos e botao Corrigir pela IA (reparo remoto com aviso na Quarentena)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.148",
         "Data":  "2026-11-13 15:05",
         "Titulo":  "Escrita mais firme, aviso de renomear a maquina no DADOS,...",

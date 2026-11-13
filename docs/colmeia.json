@@ -5,8 +5,8 @@
     "N48":  2307,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 15:24:06",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 15:28",
+                         "Texto":  "Nova versão 4.50.149 publicada: Tela de Estacoes: alarme vermelho dos criticos e botao Corrigir pela IA (reparo remoto com aviso na Quarentena)",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 15:05",
-                         "Texto":  "Nova versão 4.50.148 publicada: Escrita mais firme, aviso de renomear a maquina no DADOS, limpeza retroativa no TI",
+                         "Data":  "2026-11-13 15:24:06",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -81,16 +81,16 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
+                  92,
+                  102,
                   100,
-                  269,
-                  185,
+                  270,
+                  184,
                   226,
-                  223,
-                  236,
-                  188,
-                  117,
+                  231,
+                  228,
+                  193,
+                  112,
                   51,
                   54,
                   55,
@@ -101,6 +101,6 @@
                   70
               ],
     "Ultima":  "2026-11-13 15:24:06",
-    "Gerado":  "2026-11-13 15:27:03",
-    "Data":  "2026-11-13 15:27"
+    "Gerado":  "2026-11-13 15:28:03",
+    "Data":  "2026-11-13 15:28"
 }
