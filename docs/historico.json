@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.136",
+        "Data":  "2026-11-13 12:14",
+        "Titulo":  "Botao status na tela inicial",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao status na tela inicial."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.135",
         "Data":  "2026-11-13 11:44",
         "Titulo":  "Vigia COLMEIA nao cresce",

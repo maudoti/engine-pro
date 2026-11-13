@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.136",
+        "Data":  "2026-11-13 12:14",
+        "Notas":  "Botao status na tela inicial",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.136/EnginePro_Setup_4.50.136.exe"
+    },
+    {
         "Versao":  "4.50.135",
         "Data":  "2026-11-13 11:44",
         "Notas":  "Vigia COLMEIA nao cresce; Status no menu",

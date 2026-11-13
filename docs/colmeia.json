@@ -1,18 +1,18 @@
 {
     "Resolvidos":  3,
-    "Conhecimentos":  1504,
-    "Pesquisas":  16843,
-    "N48":  2130,
+    "Conhecimentos":  1505,
+    "Pesquisas":  16848,
+    "N48":  2135,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 12:07:03",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 12:14",
+                         "Texto":  "Nova versão 4.50.136 publicada: Botao status na tela inicial",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 12:07:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 12:07:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 11:44",
-                         "Texto":  "Nova versão 4.50.135 publicada: Vigia COLMEIA nao cresce",
+                         "Data":  "2026-11-13 12:07:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1781 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1786 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 12:07:22",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -42,11 +47,6 @@
                      {
                          "Data":  "2026-11-13 09:04:59",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD ou Revit sem licença",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 08:43:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
                          "Nivel":  "ok"
                      }
                  ],
@@ -82,25 +82,25 @@
                   0,
                   0,
                   0,
-                  31,
-                  76,
-                  65,
-                  130,
-                  47,
-                  247,
-                  212,
-                  222,
-                  225,
-                  226,
-                  206,
-                  170,
+                  56,
                   51,
+                  75,
+                  120,
+                  89,
+                  244,
+                  209,
+                  212,
+                  214,
+                  257,
+                  193,
+                  150,
+                  38,
                   42,
-                  64,
-                  46,
-                  70
+                  80,
+                  30,
+                  75
               ],
-    "Ultima":  "2026-11-13 12:07:03",
-    "Gerado":  "2026-11-13 12:07:04",
-    "Data":  "2026-11-13 12:07"
+    "Ultima":  "2026-11-13 12:07:22",
+    "Gerado":  "2026-11-13 12:14:37",
+    "Data":  "2026-11-13 12:14"
 }

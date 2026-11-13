@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.136 | Botao status na tela inicial | 13/11/2026
+
+- **Melhoria**: Botao status na tela inicial.
+
 ## Versão 4.50.135 | Vigia COLMEIA nao cresce | 13/11/2026
 
 - **Melhoria**: Vigia COLMEIA nao cresce.
