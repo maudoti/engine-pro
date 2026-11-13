@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1514,
-    "Pesquisas":  17091,
-    "N48":  2378,
+    "Pesquisas":  17092,
+    "N48":  2379,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 16:26:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 16:35",
+                         "Texto":  "Nova versão 4.50.154 publicada: Motor de atualizacao autonoma do app que trava (winget no ocio, mantendo configuracoes) e quarentena sem bypass",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 16:26:05",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 16:27:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 16:20",
-                         "Texto":  "Nova versão 4.50.153 publicada: Previa da COLMEIA leve e drenagem com retentativa em 403",
+                         "Data":  "2026-11-13 16:27:11",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2029 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2030 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -80,27 +80,27 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
-                  100,
-                  269,
-                  185,
-                  226,
+                  101,
+                  93,
+                  135,
+                  235,
                   223,
-                  236,
-                  188,
-                  117,
-                  51,
-                  54,
-                  55,
-                  55,
-                  50,
-                  62,
-                  40,
-                  70,
-                  71
+                  203,
+                  220,
+                  261,
+                  186,
+                  97,
+                  35,
+                  72,
+                  46,
+                  46,
+                  65,
+                  47,
+                  57,
+                  53,
+                  72
               ],
-    "Ultima":  "2026-11-13 16:26:51",
-    "Gerado":  "2026-11-13 16:27:03",
-    "Data":  "2026-11-13 16:27"
+    "Ultima":  "2026-11-13 16:27:11",
+    "Gerado":  "2026-11-13 16:35:04",
+    "Data":  "2026-11-13 16:35"
 }

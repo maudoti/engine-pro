@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.154",
+        "Data":  "2026-11-13 16:35",
+        "Titulo":  "Motor de atualizacao autonoma do app que trava (winget no...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Motor de atualizacao autonoma do app que trava (winget no ocio, mantendo configuracoes) e quarentena sem bypass."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.153",
         "Data":  "2026-11-13 16:20",
         "Titulo":  "Previa da COLMEIA leve e drenagem com retentativa em 403",

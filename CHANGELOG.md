@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.154 | Motor de atualizacao autonoma do app que trava (winget no... | 13/11/2026
+
+- **Melhoria**: Motor de atualizacao autonoma do app que trava (winget no ocio, mantendo configuracoes) e quarentena sem bypass.
+
 ## Versão 4.50.153 | Previa da COLMEIA leve e drenagem com retentativa em 403 | 13/11/2026
 
 - **Melhoria**: Previa da COLMEIA leve e drenagem com retentativa em 403.
