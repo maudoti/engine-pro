@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1511,
-    "Pesquisas":  16950,
-    "N48":  2237,
+    "Pesquisas":  16966,
+    "N48":  2253,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 14:27",
-                         "Texto":  "Nova versão 4.50.144 publicada: Drenagem de alertas com log de causa e dois novos sensores do Autodiagnostico (backlog e acervo na nuvem)",
+                         "Data":  "2026-11-13 14:32:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 38 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 14:10:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 14:32:10",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 14:10:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 14:32",
+                         "Texto":  "Nova versão 4.50.145 publicada: Trava anti-encolhimento do acervo na nuvem, carimbo da maquina no commit, sincronizacao confiavel e drenagem com log de causa",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1888 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1904 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -82,25 +82,25 @@
                   0,
                   56,
                   76,
-                  90,
-                  104,
-                  100,
-                  270,
-                  184,
-                  226,
-                  228,
-                  231,
-                  188,
-                  117,
-                  51,
-                  54,
+                  101,
+                  93,
+                  135,
+                  235,
+                  208,
+                  202,
+                  236,
+                  244,
+                  203,
+                  86,
+                  46,
+                  72,
+                  37,
                   55,
-                  55,
-                  50,
-                  62,
-                  40
+                  65,
+                  47,
+                  56
               ],
-    "Ultima":  "2026-11-13 14:10:01",
-    "Gerado":  "2026-11-13 14:27:34",
-    "Data":  "2026-11-13 14:27"
+    "Ultima":  "2026-11-13 14:32:51",
+    "Gerado":  "2026-11-13 14:32:59",
+    "Data":  "2026-11-13 14:32"
 }

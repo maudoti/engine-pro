@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.145",
+        "Data":  "2026-11-13 14:32",
+        "Titulo":  "Trava anti-encolhimento do acervo na nuvem, carimbo da ma...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Trava anti-encolhimento do acervo na nuvem, carimbo da maquina no commit, sincronizacao confiavel e drenagem com log de causa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.144",
         "Data":  "2026-11-13 14:27",
         "Titulo":  "Drenagem de alertas com log de causa e dois novos sensore...",

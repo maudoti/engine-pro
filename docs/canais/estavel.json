@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.144",
-    "Instalador":  "EnginePro_Setup_4.50.144.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.144/EnginePro_Setup_4.50.144.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.144/EnginePro_Setup_4.50.144.exe.gz",
-    "SHA256":  "C334351C21D52DEFF24AC630EDEDBF16F175B75FB2ABD526F51C28539019859B",
-    "Data":  "2026-11-13 14:27",
-    "Notas":  "Drenagem de alertas com log de causa e dois novos sensores do Autodiagnostico (backlog e acervo na nuvem)",
-    "Assinatura":  "epoS3JbF+QcJYreikLN7mWFcEvl0aJeXZZfEqdoULm4q3QAU1n+zNlu4fe7GgnRUYdvUHzrzkDmltL1ZPJbgRcl++XaaYtlceLH6LmMEeauPqTipCsjyW3gzQ3YHbODmSNRL4JKNmrAOcor3rjzNUYvkV3o28gnCqtTuVKvhu9shR2NELci3GS7b5Mjf9tOUoBQYOWdg1voxEl0PeEZptS1MneOt2zTSgdeciaiZFznIVstdn//kEu9VwIstWRFas4cLbh6oChSCKI2/jhfuSUEtRWgKkNDUB91i30r89dSTgz5C4hD5yJxO34zbCxiefNnC0v4VUQAQCORcxldzT/5c7W8Skd4Zov0majI/Sjrhw53aCz6oby9sFDW71YvzHaHXhctrpbk+j7frIktyT6ax57PMHge8EQekth8XS2vAl3dltsNFgoqY4qM3WfUsbZFM7V8YgzbxoMj2E8j5cw7awLe0VgadT4JLYY3eE/9q3u9i0HzcST/pmgkloOM8"
+    "Versao":  "4.50.145",
+    "Instalador":  "EnginePro_Setup_4.50.145.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.145/EnginePro_Setup_4.50.145.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.145/EnginePro_Setup_4.50.145.exe.gz",
+    "SHA256":  "9BC02C7C26EA09FE0878206857ECF28A05EE7F0756D89F76C1828C2D536C969F",
+    "Data":  "2026-11-13 14:32",
+    "Notas":  "Trava anti-encolhimento do acervo na nuvem, carimbo da maquina no commit, sincronizacao confiavel e drenagem com log de causa",
+    "Assinatura":  "l9fIgAmE/1I1yZZlVT8JRnixn8cRVRbJVpKfz///Z5mo1EGbn/i/vmHgRJJkRDBAiWDREzz/qmSTeQJi61Name7PWOlcMrcsSuysg81a0g8aZFFythWo7erkLDe7kj4Wh0leD8ahgIbH8JWKz0k0kpBP6Z+UCo3g1e+LCoUN+EV3/1i8XVkxox6Pn1ZodBthp4/HsO5lj4qUiAJv1HKTF1BTpsRUq243SJmkf7b2oBIlpJ0enlVpXZ/GxS/6Y43fg1drvomoQ8V2tVvVfnPX5eS0H1VOeIrUkZgVYI7zm/PIENy8j51QKq9mk0vQatwj6HDPEJr8BOFLd7RONNKBzbXI8aMHKAWtjSghi93iGzHKahrNN1YW40rg8OZXmMnUCqb/TxEnxvDL23yjL9c2VA88QvphUb6eRHZK020U+Eh07rd++XLAHcPRxr4tpiYejobEpN4WHnCZNXE3TH4Y0mtXfJT8zYNuuYM0DMmwrgpzzVti5osyqGYZ3gKdkj6k"
 }
