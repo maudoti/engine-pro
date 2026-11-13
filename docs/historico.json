@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.138",
+        "Data":  "2026-11-13 12:24",
+        "Titulo":  "Cartao satelite + aviso de chamado",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cartao satelite + aviso de chamado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.137",
         "Data":  "2026-11-13 12:17",
         "Titulo":  "Botao status reposicionado",
