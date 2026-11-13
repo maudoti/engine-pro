@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.154",
-    "Instalador":  "EnginePro_Setup_4.50.154.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.154/EnginePro_Setup_4.50.154.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.154/EnginePro_Setup_4.50.154.exe.gz",
-    "SHA256":  "B8B96BA96221CBCA38B3E823F3295357042943A4C1B1C8E193D046A4A57EB019",
-    "Data":  "2026-11-13 16:35",
-    "Notas":  "Motor de atualizacao autonoma do app que trava (winget no ocio, mantendo configuracoes) e quarentena sem bypass",
-    "Assinatura":  "a6E7V5zHc1pRKdq8XjsZrc7Yu5jXeMbFAW0UfhGFGhdz6ZHOLqXSAql1uGnUtaB0wiv7Kq+kerHtpmhcshyMq9vaQSsrKXBfczCrcgpbGebltfIofycc29IqkQyyc7lBwDEL0pI/DoCg555EpTPrrS3N/BtE5Vjuwud0EavorQ24oOuudJI5ouz3FRs8I/KBORL+c+rWSpJwD2Z3SJ+w6Y3X+TpQcn4gJ2Zh93DYFs4JL67RQuH5QX2iuEXTwXYVHfp3j+CL/0iGaiS5+Il9OWdNBsH/YFLmDHmbJlHfZsfaGEKKVaec3AACjKKQQ9Dh67joHvWG3/uTcIMjJTMdyvwMMKiwTPZjKWQ8NIvemb4LhdJSjPOgWlDwQyyh73ZimTC9EU7Gl0NZiWF6o/gUCMJwtRYz2OOhTsGCYF4jSBO6ndShx40sAKThX018idGZdLMwen8VHeljb2NWZ5BNFi63OjVWQZtePD35uVF2l+QsK2oN68EFit+TX0yRt8qR"
+    "Versao":  "4.50.155",
+    "Instalador":  "EnginePro_Setup_4.50.155.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.155/EnginePro_Setup_4.50.155.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.155/EnginePro_Setup_4.50.155.exe.gz",
+    "SHA256":  "E692AB216D684F475B4E45E2906F72622B605949796812B3184702691D5FA295",
+    "Data":  "2026-11-13 16:44",
+    "Notas":  "Heads-up Novo chamado volta a sair, log de chamados claro RETIDO vs ENVIADO",
+    "Assinatura":  "CWyv4VWDCdvYUjpg66WkG+KoeChywEA8R6XS2Fsrtyv6Raco05xVDE53zrpIiAgGg/cfh6DXYCSZtKE2ABYzsKbf4imUMV92u8NRpeENAVmvdrdLoVQ28aPAbvdwUfOMLeW5NL+mgAj/vW4KbloD20EJczmVtF137XSG38NQbF1Y5P+N4tKazW5RYqy/AycTBotygBpgbsRkHdDWqa9NyzIpIWLdZvnkzyihRxAp7Glx08hMu/8rY8uSfZG7eR3udf4BbAfQGlwaEmbR0yr5MnIaIquQ1gN0QkBGA5ocdnqb13gKC3vGfmkZ/GcaNu5upMG6cUx2QmYwxS+x4J4bzNMznyqzK8/wS2GGG1Ciw7u8zMAjS3goIERTKzsqBoJtQ38vKfKTC6X0cbiKCZQaZ1vXSz3RNY1xmaE3vhpIVPaYyZCSVmMXtU4UYSmbJ+HDqSA0n9x0qqT5esKdZsldN2T/Srcob6QUGbPeGdTPbDvT3dz41R4fzihHlLJ2OLCu"
 }

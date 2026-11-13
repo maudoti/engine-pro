@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.155 | Heads-up Novo chamado volta a sair, log de chamados claro... | 13/11/2026
+
+- **Melhoria**: Heads-up Novo chamado volta a sair, log de chamados claro RETIDO vs ENVIADO.
+
 ## Versão 4.50.154 | Motor de atualizacao autonoma do app que trava (winget no... | 13/11/2026
 
 - **Melhoria**: Motor de atualizacao autonoma do app que trava (winget no ocio, mantendo configuracoes) e quarentena sem bypass.

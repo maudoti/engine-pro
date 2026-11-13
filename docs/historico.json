@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.155",
+        "Data":  "2026-11-13 16:44",
+        "Titulo":  "Heads-up Novo chamado volta a sair, log de chamados claro...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Heads-up Novo chamado volta a sair, log de chamados claro RETIDO vs ENVIADO."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.154",
         "Data":  "2026-11-13 16:35",
         "Titulo":  "Motor de atualizacao autonoma do app que trava (winget no...",

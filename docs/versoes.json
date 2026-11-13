@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.155",
+        "Data":  "2026-11-13 16:44",
+        "Notas":  "Heads-up Novo chamado volta a sair, log de chamados claro RETIDO vs ENVIADO",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.155/EnginePro_Setup_4.50.155.exe"
+    },
+    {
         "Versao":  "4.50.154",
         "Data":  "2026-11-13 16:35",
         "Notas":  "Motor de atualizacao autonoma do app que trava (winget no ocio, mantendo configuracoes) e quarentena sem bypass",
