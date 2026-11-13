@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.141",
+        "Data":  "2026-11-13 13:30",
+        "Titulo":  "Texto clique no satelite",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Texto clique no satelite."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.140",
         "Data":  "2026-11-13 13:25",
         "Titulo":  "Dedo animado tocando o cartao",

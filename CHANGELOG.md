@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.141 | Texto clique no satelite | 13/11/2026
+
+- **Melhoria**: Texto clique no satelite.
+
 ## Versão 4.50.140 | Dedo animado tocando o cartao | 13/11/2026
 
 - **Melhoria**: Dedo animado tocando o cartao.
