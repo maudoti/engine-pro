@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.135",
+        "Data":  "2026-11-13 11:44",
+        "Titulo":  "Vigia COLMEIA nao cresce",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Vigia COLMEIA nao cresce."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Status no menu."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.134",
         "Data":  "2026-11-12 17:56",
         "Titulo":  "Painel status das plataformas",

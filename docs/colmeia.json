@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1504,
-    "Pesquisas":  16798,
-    "N48":  2085,
+    "Pesquisas":  16823,
+    "N48":  2110,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 11:19:46",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 11:44",
+                         "Texto":  "Nova versão 4.50.135 publicada: Vigia COLMEIA nao cresce",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 11:19:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 11:39:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 61 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 11:02:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 11:38:49",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1736 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1761 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 11:02:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 10:59:51",
@@ -43,11 +48,6 @@
                          "Data":  "2026-11-13 08:43:44",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-12 17:56",
-                         "Texto":  "Nova versão 4.50.134 publicada: Painel status das plataformas",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
@@ -83,24 +83,24 @@
                   0,
                   0,
                   0,
-                  56,
-                  76,
-                  101,
-                  93,
-                  135,
-                  235,
-                  224,
-                  221,
-                  212,
-                  250,
-                  186,
-                  97,
-                  35,
-                  72,
+                  79,
+                  62,
+                  116,
+                  69,
+                  174,
+                  237,
+                  213,
+                  206,
+                  228,
+                  219,
+                  219,
+                  64,
+                  48,
+                  59,
                   50,
-                  42
+                  67
               ],
-    "Ultima":  "2026-11-13 11:19:46",
-    "Gerado":  "2026-11-13 11:37:04",
-    "Data":  "2026-11-13 11:37"
+    "Ultima":  "2026-11-13 11:39:38",
+    "Gerado":  "2026-11-13 11:44:38",
+    "Data":  "2026-11-13 11:44"
 }
