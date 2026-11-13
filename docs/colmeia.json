@@ -1,17 +1,17 @@
 {
     "Resolvidos":  3,
     "Conhecimentos":  1503,
-    "Pesquisas":  16727,
-    "N48":  2014,
+    "Pesquisas":  16743,
+    "N48":  2030,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 09:54:49",
+                         "Data":  "2026-11-13 10:13:55",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 09:54:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 80 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 10:13:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 09:04:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD ou Revit sem licença",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 09:54:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 80 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1665 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1681 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 09:04:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD ou Revit sem licença",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 08:43:44",
@@ -38,11 +43,6 @@
                          "Data":  "2026-11-13 08:43:43",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook desconectado ou com e-mails presos na Caixa de Saída",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 08:42:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-12 17:56",
@@ -84,23 +84,23 @@
                   0,
                   0,
                   0,
-                  31,
-                  76,
-                  65,
-                  130,
-                  47,
-                  247,
-                  212,
-                  222,
+                  56,
+                  51,
+                  87,
+                  108,
+                  89,
+                  264,
+                  189,
                   225,
                   226,
-                  206,
-                  170,
-                  51,
+                  232,
+                  193,
+                  150,
+                  38,
                   42,
-                  64
+                  80
               ],
-    "Ultima":  "2026-11-13 09:54:49",
-    "Gerado":  "2026-11-13 10:07:04",
-    "Data":  "2026-11-13 10:07"
+    "Ultima":  "2026-11-13 10:13:55",
+    "Gerado":  "2026-11-13 10:17:03",
+    "Data":  "2026-11-13 10:17"
 }
