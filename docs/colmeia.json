@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1511,
-    "Pesquisas":  16967,
-    "N48":  2254,
+    "Pesquisas":  16994,
+    "N48":  2281,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 14:48",
-                         "Texto":  "Nova versão 4.50.146 publicada: Nome da maquina mascarado em conflito, e-mail de tela azul no tom investigado, e botao de editar na quarentena",
+                         "Data":  "2026-11-13 14:55",
+                         "Texto":  "Nova versão 4.50.147 publicada: TI conserta na montagem do e-mail os chamados antigos: oculta nome de maquina alheio e troca investigar por ja analisei",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 14:33:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 39 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 14:54:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 66 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 14:33:07",
+                         "Data":  "2026-11-13 14:54:58",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1905 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1932 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -79,28 +79,28 @@
                   0,
                   0,
                   0,
-                  0,
-                  79,
-                  78,
-                  100,
-                  92,
-                  151,
-                  245,
-                  213,
-                  227,
-                  210,
-                  223,
-                  204,
-                  64,
+                  31,
                   48,
-                  59,
-                  50,
-                  67,
-                  40,
-                  65,
-                  39
+                  78,
+                  121,
+                  71,
+                  175,
+                  248,
+                  215,
+                  214,
+                  223,
+                  223,
+                  209,
+                  30,
+                  48,
+                  80,
+                  30,
+                  66,
+                  42,
+                  63,
+                  66
               ],
-    "Ultima":  "2026-11-13 14:33:07",
-    "Gerado":  "2026-11-13 14:48:48",
-    "Data":  "2026-11-13 14:48"
+    "Ultima":  "2026-11-13 14:54:58",
+    "Gerado":  "2026-11-13 14:55:48",
+    "Data":  "2026-11-13 14:55"
 }

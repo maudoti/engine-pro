@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.147",
+        "Data":  "2026-11-13 14:55",
+        "Titulo":  "TI conserta na montagem do e-mail os chamados antigos: oc...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "TI conserta na montagem do e-mail os chamados antigos: oculta nome de maquina alheio e troca investigar por ja analisei."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.146",
         "Data":  "2026-11-13 14:48",
         "Titulo":  "Nome da maquina mascarado em conflito, e-mail de tela azu...",

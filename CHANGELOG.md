@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.147 | TI conserta na montagem do e-mail os chamados antigos: oc... | 13/11/2026
+
+- **Melhoria**: TI conserta na montagem do e-mail os chamados antigos: oculta nome de maquina alheio e troca investigar por ja analisei.
+
 ## Versão 4.50.146 | Nome da maquina mascarado em conflito, e-mail de tela azu... | 13/11/2026
 
 - **Melhoria**: Nome da maquina mascarado em conflito, e-mail de tela azul no tom investigado, e botao de editar na quarentena.

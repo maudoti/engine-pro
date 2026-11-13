@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.146",
-    "Instalador":  "EnginePro_Setup_4.50.146.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.146/EnginePro_Setup_4.50.146.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.146/EnginePro_Setup_4.50.146.exe.gz",
-    "SHA256":  "FCC81B1DD758DD9008BE97DC85EC5B9BA3B4A7CDB8E4B4C971ADFEE11929874C",
-    "Data":  "2026-11-13 14:48",
-    "Notas":  "Nome da maquina mascarado em conflito, e-mail de tela azul no tom investigado, e botao de editar na quarentena",
-    "Assinatura":  "YlPSFHJ4j9JphAshhSMn2mWZIe4qdMhaWsbTxFs2HmC0hoaMbw3IN6FOsOqvNj3d+OxV+Vv3DBY+mmgAB6ukGoa7qeR6LgDlvyQwcW8MuHEcuD8AeRIZeOd8PqhuhnO9ghcIWb0/tskJrRKO0O6KRJJWSN8q7K21aw7d5s7/aHrVd8q6Lx0xFpYaqhVbbpxJKiDH+8xa14OjBh8BLkZCzhFyJhByIAWNi9RGreoObGsERSLQWzV9r/B3cZbwVLbRmwH9bDKHnX1xU0psEbX9s9pwm5Kd19hZUmkVnc5nSBzbEm4NKs1Gds+IppeF+Yk2sclywLiUcHoQQaB/dY/p2rnLK2URPHCjN6MpxY6MFK86hJYGiNQtKVaBILei/CssoNLKwyL2zqwVJC6oK4xY85hMPbTYveL2DaSXOKaCaLmscuqQd+zF3QA5XtV4KeekOjAgwj1eEijEelcJ98vBlT4t+8oyn/RDpk42keo9rlqUwKJ1KzAjlaW2qLAecliS"
+    "Versao":  "4.50.147",
+    "Instalador":  "EnginePro_Setup_4.50.147.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.147/EnginePro_Setup_4.50.147.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.147/EnginePro_Setup_4.50.147.exe.gz",
+    "SHA256":  "A2F0F37351D44FC76B9B13206DE55C7664BC34358DB9BB8D6E52E7CFCF103D1D",
+    "Data":  "2026-11-13 14:55",
+    "Notas":  "TI conserta na montagem do e-mail os chamados antigos: oculta nome de maquina alheio e troca investigar por ja analisei",
+    "Assinatura":  "htzRqVqAHMtJEfkVPZu0ui72+ebNeAvYxkv+0EJOrjBA662XjA+LKQ3ssvtBjVjlRZw1hEotpRGw/r5OG3axC7WtRNLalwiL8dESYwLWisPxZdza+vl+u8qaHhAy6pahOchrZawVfFoMAO1zac7D8FRT/4m4Ie26gV0QNWoFv1iS3cJ94x5Rj8IU2vP7MNu2IpUDWFyrA9KNkopi+LT9Aop7wN8ftZd90EARiDQ1mty/UypF6NbQan1tiks95fQglNMwtoWdiY1afQSs1ynx1XNYOyfrLVueQepWaTlySiPs6z6m8a7/uCTVFPWs5wKZRqdjBJfwyfG65zkHp3pkS7b0bj6Tm/AywUFsxvULt10YOETU2EpS8ZsBkG95Pm233pRifDxitOjJc0nJPfOo/oTd6lSCMYio9aBDjJc1mTWqFKvF4unqRRPOkw7faS23Ek93zQe38Qm7ojNLC4VsOjHkSlQgfCePLEYb2nhsKHFfSjsGKdbSKX8qD+WbDU1P"
 }
