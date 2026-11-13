@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.143 | Gravacao atomica com backup, leitura auto-recuperavel e t... | 13/11/2026
+
+- **Melhoria**: Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA.
+
 ## Versão 4.50.142 | Gravacao atomica com backup, leitura auto-recuperavel e t... | 13/11/2026
 
 - **Melhoria**: Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA.

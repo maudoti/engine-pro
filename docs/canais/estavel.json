@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.142",
-    "Instalador":  "EnginePro_Setup_4.50.142.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.142/EnginePro_Setup_4.50.142.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.142/EnginePro_Setup_4.50.142.exe.gz",
-    "SHA256":  "FC268CF9DCF166AA8C512B1E1A1E305E5B027163CC3016C28BFD6D0BC424189C",
-    "Data":  "2026-11-13 14:01",
+    "Versao":  "4.50.143",
+    "Instalador":  "EnginePro_Setup_4.50.143.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.143/EnginePro_Setup_4.50.143.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.143/EnginePro_Setup_4.50.143.exe.gz",
+    "SHA256":  "D41757CBC6D218A9DE19B0F512B474B832CB5B1A3FEE1466DC5B71862A032903",
+    "Data":  "2026-11-13 14:03",
     "Notas":  "Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA",
-    "Assinatura":  "lxi6i0h/TbXxLKq1Y9FEcYRi1ZjDno5jLN/E5eH6ICRLYWD7Wn24lNQwBosi1VSRpeeyoHnw6TVfgRTpQfP1+pvSqqSj/cI5egx8OtIuyqdo4LCR24t9OvyCKhvMfa7pxRiVy1OJTuSr/OuzUpiGDz8FirS6h7/o8eQdPl3WCAbv3Axc62kc5PIPEjPO0ScsG408sSdR6fS8p0I7LOYbfzZcjN/kQhJW2iOqI/HJS9O80BjjkiFqmDu/Di2dRk/amzlkkvkYiLayqveBHeb0p2nFFjubizLn76GeiRBqolEfcJeqTmdHwmT7yYANPRfUGbislcK6W+6OunxK2RyFKW0rrbrHBa3w9ovNE2DpKnD/VRW+OfbPAmjaO8btmGRgn+ZYyYdo9BIsIwb/RFEsLLUo1FRkDQ/1EHH7YPnyFJH99HURTSTfMRTyYATECBylMG6BChAiyKsE5PTC7cJm7CDg6h2WjicD/0y//G1BFcnQTgHax8jH9ib4O7vmpKDd"
+    "Assinatura":  "MgXvyXANNkI3k8KVTfC2FA5ersGdYOFNjrUuHmEMPHZdnIZCBWkaHC0VRgzWNRDwCa4vRNBBlaf2a1b15u7myQKXrNpgzRk0/xIBLK8f6/MM67knPcfCfqpBMieZsxXYd02tjJDww3AXFRxmJDwJFgKIrR44hCn+yYoRjXEfdZ9K1HkDZ/JiRuud29/hed+RfiqIXbCqOiAmGy/0pk10OP7dd7RHTisAt8zgDtgLezy3q85A6+vVrSCOe+E7zON3XgUh8TA1yZ6/vYltn+JOlDMV/6UCYwax9JKC/y/YlPbTTJzaok5b89wxpzQ7OB5r6gwtdR88IoQXlZmeBu4LjTsD/NsmpchhNNJoLzk/w068G400nXI/oquxVIH/cKqdh47WkxnAcUiv/UPJy2ZB+gKdGk76u9IlZ3pAj5qh/iDdOFlEDTyGR8PKX1K2RELuODRKvp/WbSokQQrC1ftAopKUN443JclHd2H1vBSIcLy1zmLDHZY5mBdcBZ+ixcaf"
 }

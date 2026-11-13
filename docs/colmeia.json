@@ -5,8 +5,8 @@
     "N48":  2215,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 14:01",
-                         "Texto":  "Nova versão 4.50.142 publicada: Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA",
+                         "Data":  "2026-11-13 14:03",
+                         "Texto":  "Nova versão 4.50.143 publicada: Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA",
                          "Nivel":  "info"
                      },
                      {
@@ -81,26 +81,26 @@
                   0,
                   0,
                   31,
-                  48,
-                  78,
-                  139,
-                  53,
-                  197,
-                  256,
-                  191,
+                  63,
+                  63,
+                  145,
+                  47,
+                  224,
                   235,
-                  229,
-                  225,
-                  175,
+                  200,
+                  220,
+                  233,
+                  223,
+                  173,
                   51,
-                  26,
-                  80,
-                  38,
-                  58,
+                  37,
+                  69,
+                  46,
+                  50,
                   57,
                   48
               ],
     "Ultima":  "2026-11-13 13:46:56",
-    "Gerado":  "2026-11-13 14:01:14",
-    "Data":  "2026-11-13 14:01"
+    "Gerado":  "2026-11-13 14:03:42",
+    "Data":  "2026-11-13 14:03"
 }

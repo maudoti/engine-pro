@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.143",
+        "Data":  "2026-11-13 14:03",
+        "Titulo":  "Gravacao atomica com backup, leitura auto-recuperavel e t...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Gravacao atomica com backup, leitura auto-recuperavel e trava anti-esvaziamento da COLMEIA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.142",
         "Data":  "2026-11-13 14:01",
         "Titulo":  "Gravacao atomica com backup, leitura auto-recuperavel e t...",
