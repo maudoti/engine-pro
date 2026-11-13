@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.159 | Backup diario tambem copiado para o OneDrive do TI (offsite) | 13/11/2026
+
+- **Melhoria**: Backup diario tambem copiado para o OneDrive do TI (offsite).
+
 ## Versão 4.50.158 | Backup seguro diario do Engine (acervo, casos, config, ch... | 13/11/2026
 
 - **Melhoria**: Backup seguro diario do Engine (acervo, casos, config, chave) e script de restauracao.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.159",
+        "Data":  "2026-11-13 17:33",
+        "Titulo":  "Backup diario tambem copiado para o OneDrive do TI (offsite)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Backup diario tambem copiado para o OneDrive do TI (offsite)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.158",
         "Data":  "2026-11-13 17:27",
         "Titulo":  "Backup seguro diario do Engine (acervo, casos, config, ch...",
