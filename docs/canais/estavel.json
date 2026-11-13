@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.149",
-    "Instalador":  "EnginePro_Setup_4.50.149.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.149/EnginePro_Setup_4.50.149.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.149/EnginePro_Setup_4.50.149.exe.gz",
-    "SHA256":  "E78B7CA09D58569D63435D76A732CD6907E84627F5FE565411162D2695F98523",
-    "Data":  "2026-11-13 15:28",
-    "Notas":  "Tela de Estacoes: alarme vermelho dos criticos e botao Corrigir pela IA (reparo remoto com aviso na Quarentena)",
-    "Assinatura":  "jb8ynwIDBbdj13559bWAkiHy+f5R3Vf5BdW9SaEpbPC6fZJPfElAuv4xojusAlw2QmVgPtHfqnlSmF13rq29VxfDuE7RcY3zjd7O9HnKSQgzxUf/3S5JLd41z6CQ8VkTNCOfXGf23S+UThAM/rsH2md12VN7BcpJ2v3TKmkulWcczr+h9qaStWmbOUIAhTLNqEX22+ASkpUY5112k0l/kZckB9h4E+fRgQy7rA4smF/RKnKvRK3jT+uC9QcLdQoI1FAXXdfBVOhi6M96JYJ4HHZ9PqaiKhsNoZqEWSq/6mfPHETRraTGptyYfigDpGj9CpzrH153pDFoXqjGj4R387dQr7ERBpXxa1VREm/ZTb3t5C73tJig/llMwYHgDFY/6uXxGGBXDqeDeyKEmMYOeR+3AcmgR6i6cs3OAWiQSf29xsMyVT3DpTUfMrSVNJY67wCZHfA0TByD+Ix1G7EuAKx300EFUFRdXg0bDeDmdgmxN1a/iHP6W5de/R5A2kCW"
+    "Versao":  "4.50.150",
+    "Instalador":  "EnginePro_Setup_4.50.150.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.150/EnginePro_Setup_4.50.150.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.150/EnginePro_Setup_4.50.150.exe.gz",
+    "SHA256":  "C74216B733741616F97ADDCF77CD4D106A0180AEC0B224ED6721CC4AC6E936EB",
+    "Data":  "2026-11-13 15:45",
+    "Notas":  "Card grande vermelho Estado Critico na tela de Estacoes, clicavel para filtrar as maquinas criticas",
+    "Assinatura":  "saBZNXhR+KBZqxL/hLSu6FsvOiwMOGNOTQfdvRc+VsPTgGRdUPZBXaiU2iNLH/akzxtEmsD2WycH2dKsvfin58lthSjsXseY7NvQvp6utA9h5RnjGtZEWl1YiyhpdZLtAc+dxMRJh/TPmAIeGgtFACzLwz33w0gpZo4ZL+VKsAtmc+CpUpq7gxy9gJ5pKTEVCVgWU+no0t8cU/eyB3+JHXDxkmvzl2ONbdVb6py/dXg6PS+JrB4hI3m5XY/xLfebj0g2/JKba7mAcfU0DrWhQHBrUPO5mBCc2UDPBwn9tZhbD9Ds/iaHw4k/+rZsM90xZDAAtjAluqW0m5+7wZkm1KJM6g7suHzXAzY/39qQ4oP/tA8SRubmoQgRzzDDr21mMIGOqqstkZsZ7iBluhcAVwRb2xqMOHdy7/zFGzi2mXEN1O5rASIJWWyIlHEjaPKsdAW4xu0nBW1XinaMjC/X61GKdPhIP8EEfb/zKNVV6K++KnbepoJQY23oKpj6awFd"
 }

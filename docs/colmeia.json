@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1511,
-    "Pesquisas":  17020,
-    "N48":  2307,
+    "Pesquisas":  17044,
+    "N48":  2331,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 15:28",
-                         "Texto":  "Nova versão 4.50.149 publicada: Tela de Estacoes: alarme vermelho dos criticos e botao Corrigir pela IA (reparo remoto com aviso na Quarentena)",
+                         "Data":  "2026-11-13 15:45",
+                         "Texto":  "Nova versão 4.50.150 publicada: Card grande vermelho Estado Critico na tela de Estacoes, clicavel para filtrar as maquinas criticas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 15:24:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 15:44:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 15:24:06",
+                         "Data":  "2026-11-13 15:44:41",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1958 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1982 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -79,28 +79,28 @@
                   0,
                   0,
                   0,
-                  56,
-                  76,
-                  101,
-                  93,
-                  135,
-                  235,
+                  79,
+                  67,
+                  111,
+                  69,
+                  174,
+                  237,
+                  220,
+                  203,
                   224,
-                  221,
-                  212,
-                  250,
-                  186,
-                  97,
-                  35,
-                  72,
+                  219,
+                  219,
+                  64,
+                  48,
+                  59,
                   50,
-                  42,
-                  65,
-                  47,
-                  57,
-                  53
+                  67,
+                  40,
+                  52,
+                  52,
+                  77
               ],
-    "Ultima":  "2026-11-13 15:24:06",
-    "Gerado":  "2026-11-13 15:37:03",
-    "Data":  "2026-11-13 15:37"
+    "Ultima":  "2026-11-13 15:44:41",
+    "Gerado":  "2026-11-13 15:45:14",
+    "Data":  "2026-11-13 15:45"
 }

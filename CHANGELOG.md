@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.150 | Card grande vermelho Estado Critico na tela de Estacoes, ... | 13/11/2026
+
+- **Melhoria**: Card grande vermelho Estado Critico na tela de Estacoes, clicavel para filtrar as maquinas criticas.
+
 ## Versão 4.50.149 | Tela de Estacoes: alarme vermelho dos criticos e botao Co... | 13/11/2026
 
 - **Correção**: Tela de Estacoes: alarme vermelho dos criticos e botao Corrigir pela IA (reparo remoto com aviso na Quarentena).

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.150",
+        "Data":  "2026-11-13 15:45",
+        "Titulo":  "Card grande vermelho Estado Critico na tela de Estacoes, ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Card grande vermelho Estado Critico na tela de Estacoes, clicavel para filtrar as maquinas criticas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.149",
         "Data":  "2026-11-13 15:28",
         "Titulo":  "Tela de Estacoes: alarme vermelho dos criticos e botao Co...",
