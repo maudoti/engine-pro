@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.152",
+        "Data":  "2026-11-13 16:09",
+        "Titulo":  "Java nunca automatico, logs OneDrive fora da limpeza auto...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Java nunca automatico, logs OneDrive fora da limpeza auto, travamento de app sem delegar ao TI."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.151",
         "Data":  "2026-11-13 15:53",
         "Titulo":  "Estacoes criticas: botao Visualizar os Avisos (lista do q...",

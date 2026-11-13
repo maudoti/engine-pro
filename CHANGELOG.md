@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.152 | Java nunca automatico, logs OneDrive fora da limpeza auto... | 13/11/2026
+
+- **Melhoria**: Java nunca automatico, logs OneDrive fora da limpeza auto, travamento de app sem delegar ao TI.
+
 ## Versão 4.50.151 | Estacoes criticas: botao Visualizar os Avisos (lista do q... | 13/11/2026
 
 - **Correção**: Estacoes criticas: botao Visualizar os Avisos (lista do que ha de errado) ao lado do Corrigir pela IA.

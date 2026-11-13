@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.152",
+        "Data":  "2026-11-13 16:09",
+        "Notas":  "Java nunca automatico, logs OneDrive fora da limpeza auto, travamento de app sem delegar ao TI",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.152/EnginePro_Setup_4.50.152.exe"
+    },
+    {
         "Versao":  "4.50.151",
         "Data":  "2026-11-13 15:53",
         "Notas":  "Estacoes criticas: botao Visualizar os Avisos (lista do que ha de errado) ao lado do Corrigir pela IA",

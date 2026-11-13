@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.151",
-    "Instalador":  "EnginePro_Setup_4.50.151.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.151/EnginePro_Setup_4.50.151.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.151/EnginePro_Setup_4.50.151.exe.gz",
-    "SHA256":  "C9EF24AE976B915B016E00D7438AC2A4F34914A490A576A776797105E9760A19",
-    "Data":  "2026-11-13 15:53",
-    "Notas":  "Estacoes criticas: botao Visualizar os Avisos (lista do que ha de errado) ao lado do Corrigir pela IA",
-    "Assinatura":  "by8sdl8/N19PQpYel2CENl09WY4jr13a3ByuJ1Mfn20cZgMLVAulw0oNA25tExPwsmoSfUjE5pKWZWL9HOAfA10ZNh35F3EHBasBSIppyYuDVnfgKcEXGloGa1l0OioQ5LOekJ/43xPcgmT0dsz70dH7YeBTeBm/J+Vv9qKy/LkYMCAb05kP2WZSW7+wygyKCp7EPR22EXEirrh7AWKSe3VgCGfejLXH6Y9a8CNT2ONrHCjKcsGlbOLZLGCuZZ6LezWRRw/KeFKlcovwyLL7ehkYoHQ6clRxrrhfhj0SG1C9/6PfjJma/y3m0FcgTeH6gfqbrsRxctAaSy0gmnNcX5Kf1Uo3XHL9dVi+428qwtM9kF77xMAP+pbh81BCUp2tyi2mZVVD1ue1OEoGK+SlJ1RTseFZElCrILv358RCcCez7KtX6JRgPeCteB0RMu9nL/aUbOBZp0xcIwp+YCVChAyANYvPkMXDN0yYEWZSs7ZC/GWo+WB0v+JXEzO8HFlw"
+    "Versao":  "4.50.152",
+    "Instalador":  "EnginePro_Setup_4.50.152.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.152/EnginePro_Setup_4.50.152.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.152/EnginePro_Setup_4.50.152.exe.gz",
+    "SHA256":  "2A7F44A64436A3CA9CFD1545D3E672FC30E8CD5F681DD24014DD1CD82F11196C",
+    "Data":  "2026-11-13 16:09",
+    "Notas":  "Java nunca automatico, logs OneDrive fora da limpeza auto, travamento de app sem delegar ao TI",
+    "Assinatura":  "Tjp1T5kU1ObfLEmtiUqIGB9JJhkxkkcvcs3t9VskCtw4wXw+W4O7aICDdXvmar1GPxLNXxmlWQYNN8Zfb5c/T7Mi9VpYDrbJXkNMEpPEOJsY9reardwDcuUv9PpEMVvZ7nCh1UaGvQVuCtJ4A1ttuChDv147T4WQZCOXTEETBZjDFCAVCFf7/9jy18jQIHz2bw58aICkO41j49kqnKEFpecrabNgDUEVdU11ziIWJjL475PCXzgsWQ9MfcOulWoeBRInZnkzO5rV76te9vR3yHtyXU6c94xBJg7/LHxVI7JWhvVqdErMeCiIbcM1jc1IFQSE8LLJchJTB+797ds5j5G201cDVvF6SQrNylRDBMZY4NUdqKn+l+bxqAhgNK8p3AtA6kxvoOSBI2/my3Yp9c74kCV687Lc3OOvloQIkXkYuOWzSklBZuopK9XjIYwnjvHfkle6kbvKXrSXKHXZBffdjj11sATyuR2nZLJ2iNRYJwjr7eN9aGRTutdY33vC"
 }
