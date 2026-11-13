@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1510,
-    "Pesquisas":  16884,
-    "N48":  2171,
+    "Conhecimentos":  1511,
+    "Pesquisas":  16910,
+    "N48":  2197,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 13:16:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 13:25",
+                         "Texto":  "Nova versão 4.50.140 publicada: Dedo animado tocando o cartao",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 12:58:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressão demora para começar",
+                         "Data":  "2026-11-13 13:20:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,33 +20,33 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-13 13:19:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1848 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 13:19:52",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 12:58:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressão demora para começar",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-13 12:58:55",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1822 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 12:58:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Erro 0x00000709 ao definir a impressora padrão",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-13 12:58:05",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 57 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 12:57:41",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 12:30",
-                         "Texto":  "Nova versão 4.50.139 publicada: Cartao status: texto, moldura, clique aqui",
                          "Nivel":  "info"
                      }
                  ],
@@ -82,25 +82,25 @@
                   0,
                   0,
                   56,
+                  76,
+                  76,
+                  102,
+                  116,
+                  252,
+                  202,
+                  221,
+                  211,
+                  253,
+                  188,
+                  117,
                   51,
-                  88,
-                  107,
-                  89,
-                  264,
-                  189,
-                  225,
-                  226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42,
-                  80,
-                  33,
-                  72,
-                  36
+                  54,
+                  55,
+                  55,
+                  50,
+                  62
               ],
-    "Ultima":  "2026-11-13 13:16:59",
-    "Gerado":  "2026-11-13 13:17:04",
-    "Data":  "2026-11-13 13:17"
+    "Ultima":  "2026-11-13 13:19:52",
+    "Gerado":  "2026-11-13 13:25:27",
+    "Data":  "2026-11-13 13:25"
 }
