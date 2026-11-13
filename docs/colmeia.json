@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1532,
-    "Pesquisas":  17383,
-    "N48":  2670,
+    "Pesquisas":  17412,
+    "N48":  2699,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 20:32:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 20:51:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 79 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 20:32:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 20:50:58",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 20:32:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
+                         "Data":  "2026-11-13 20:32:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2321 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2350 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 20:31:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 20:32:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 20:31:44",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 20:32:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 19:41:35",
@@ -73,34 +73,34 @@
                   0,
                   0,
                   0,
-                  0,
-                  79,
+                  31,
+                  48,
                   78,
-                  100,
-                  77,
-                  166,
-                  237,
+                  121,
+                  71,
+                  175,
+                  248,
                   221,
-                  214,
-                  214,
-                  219,
-                  217,
+                  218,
+                  215,
+                  225,
+                  206,
+                  29,
+                  48,
+                  80,
+                  32,
                   64,
-                  48,
-                  59,
                   50,
-                  67,
-                  40,
-                  65,
-                  39,
-                  77,
-                  48,
-                  65,
+                  55,
+                  66,
+                  50,
+                  69,
+                  44,
                   75,
                   101,
-                  50
+                  79
               ],
-    "Ultima":  "2026-11-13 20:31:44",
-    "Gerado":  "2026-11-13 20:47:04",
-    "Data":  "2026-11-13 20:47"
+    "Ultima":  "2026-11-13 20:51:21",
+    "Gerado":  "2026-11-13 20:57:03",
+    "Data":  "2026-11-13 20:57"
 }
