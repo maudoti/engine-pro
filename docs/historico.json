@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.50.179",
+        "Data":  "2026-11-14 20:27",
+        "Titulo":  "OneDrive fechado escala para reinstalar",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "OneDrive fechado escala para reinstalar."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Outlook novo tratado (sem AutoArchive local)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Recomendacoes OneDrive sem troca de peca."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.178",
         "Data":  "2026-11-14 18:48",
         "Titulo":  "IA reinstala OneDrive (cloud-only em disco cheio)",

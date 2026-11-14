@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.178",
-    "Instalador":  "EnginePro_Setup_4.50.178.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.178/EnginePro_Setup_4.50.178.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.178/EnginePro_Setup_4.50.178.exe.gz",
-    "SHA256":  "3C3F9ECDAF7BE894CA3F7DAEBB04C605B8A09BCF24123BBFDCD0521AB5CEB956",
-    "Data":  "2026-11-14 18:48",
-    "Notas":  "IA reinstala OneDrive (cloud-only em disco cheio); arquivamento do Outlook 24m em PST fora do OneDrive",
-    "Assinatura":  "VSA++OmmqU0T8sgaITmS3fWFgnaD5im9M2afXQgfBZHYjhGlmFZkQnmjegrwX/O8ZLp2SjQaFNgOcBwZ7i63Dhga1P1eZfkhgZyDpjKekIr5sEpeI6uwsz6FpEmoU7zHGGVjiarXORo80nIzA0p0THOU8fE40lfUKaJJYUKqSmq7zOPX9uo/w8cLHRXHse0CJEo01P5j3Qtcp9iPau39i73RD/MOOygnTXi85ivmmEX/vCp3V/B/Q+oDRVEKZ64WBI9xtl8jj8Mu4HLembshgUyOX6HX+3bHOt42o232g/b+YHlUcr5hHnaUvwdViHPP/jZaEf6zwDca+67gR3wJ77GhseABNFppp9iqW0pm0KZ4Lil+9rfvhpSXua4BMWB9SGcbVIR3f4ym3I8UksGyYNUAStLm55kYath6JCzxaD6zkGXUFA/kfgrcpzD8sqnvyCt6ENJWh0sUSggeLKpozyB7g+hTi/8gQMaeXADhtQ1l7qcOTmxRZNLe1Ag65GOq"
+    "Versao":  "4.50.179",
+    "Instalador":  "EnginePro_Setup_4.50.179.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.179/EnginePro_Setup_4.50.179.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.179/EnginePro_Setup_4.50.179.exe.gz",
+    "SHA256":  "1611F590718A617BE1537FAFB362AA926FCB25FCF2801064043101810DCF745D",
+    "Data":  "2026-11-14 20:27",
+    "Notas":  "OneDrive fechado escala para reinstalar; Outlook novo tratado (sem AutoArchive local); recomendacoes OneDrive sem troca de peca",
+    "Assinatura":  "K3d2k1L3R9zQVhLI/mirGhxVNavsl9qBDow7CIG/3/2HC4k7xeDuuF0pnPl8kfaXLk8iLFN9OSDKy1ChnVXpDeJdPUwQdNI9AanDZGnvad4DIxJSMV6RAlk7tRiVslxKViCtbWWhXDY9UMOOlqLLk8eWisu6OXCU8ldQICIKwZFKoSOReJrC9lZTK09XJyYqqkpB7eEPhfj+X1FkaxO0iZGywsBolmrlxl03Uda8l2rqlLuxK+yrJLEWPRUDNRpGSTZbjIkNOOI851e0+9XJX9jiccBJymdn86sepwiAKe7cQ4Va7sBXkd+CjgAsv/3Tj/L5vn95fAybOlgjpQ98qBIYP1bz2qa7lxJKFdFyHq15ZrVOy8Eg4zXBXBoctFt2ixN5mOEUXb0tmniW1Tz904nUjxxFjzwvPeVgyZoCrdUiuJoCpPuLB4fcnbCuCof2XpUU1q3KrRW80giRkgHzQxy9+yoQp6fzNM5mCO6hfL1JSnvEJzcr2Arfjl59wMNs"
 }

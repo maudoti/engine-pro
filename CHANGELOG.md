@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.179 | OneDrive fechado escala para reinstalar | 14/11/2026
+
+- **Melhoria**: OneDrive fechado escala para reinstalar.
+- **Melhoria**: Outlook novo tratado (sem AutoArchive local).
+- **Melhoria**: Recomendacoes OneDrive sem troca de peca.
+
 ## Versão 4.50.178 | IA reinstala OneDrive (cloud-only em disco cheio) | 14/11/2026
 
 - **Melhoria**: IA reinstala OneDrive (cloud-only em disco cheio).
