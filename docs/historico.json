@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.172",
+        "Data":  "2026-11-14 02:55",
+        "Titulo":  "Painel de Autodiagnostico enxuto: so as secoes do mockup,...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Painel de Autodiagnostico enxuto: so as secoes do mockup, sem historico de log cru."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.171",
         "Data":  "2026-11-14 02:50",
         "Titulo":  "Painel de Autodiagnostico com secao Subsistemas do progra...",

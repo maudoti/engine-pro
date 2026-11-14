@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.172",
+        "Data":  "2026-11-14 02:55",
+        "Notas":  "Painel de Autodiagnostico enxuto: so as secoes do mockup, sem historico de log cru",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.172/EnginePro_Setup_4.50.172.exe"
+    },
+    {
         "Versao":  "4.50.171",
         "Data":  "2026-11-14 02:50",
         "Notas":  "Painel de Autodiagnostico com secao Subsistemas do programa e faixa na Autoprotecao, igual ao mockup",
