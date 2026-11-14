@@ -1,6 +1,6 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1574,
+    "Conhecimentos":  1578,
     "Pesquisas":  17996,
     "N48":  3283,
     "Recentes":  [
@@ -30,18 +30,18 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 01:20:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos só na nuvem (sob demanda) não abrem sem internet",
+                         "Data":  "2026-11-14 01:25:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo não sobe porque a biblioteca exige informações",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 01:20:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
+                         "Data":  "2026-11-14 01:25:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivo PST do Outlook dentro do OneDrive",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 01:20:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Cópias em conflito (arquivo com o nome do computador)",
+                         "Data":  "2026-11-14 01:24:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Biblioteca grande demais para sincronizar bem",
                          "Nivel":  "ok"
                      },
                      {
@@ -75,16 +75,16 @@
                   93,
                   135,
                   235,
-                  210,
-                  202,
-                  234,
-                  247,
-                  200,
-                  88,
-                  44,
+                  224,
+                  221,
+                  212,
+                  250,
+                  186,
+                  97,
+                  35,
                   72,
-                  38,
-                  54,
+                  50,
+                  42,
                   65,
                   47,
                   57,
@@ -92,15 +92,15 @@
                   72,
                   42,
                   67,
-                  85,
-                  97,
+                  105,
+                  77,
                   63,
-                  88,
-                  90,
-                  170,
+                  95,
+                  93,
+                  160,
                   202
               ],
     "Ultima":  "2026-11-14 01:30:17",
-    "Gerado":  "2026-11-14 01:33:16",
-    "Data":  "2026-11-14 01:33"
+    "Gerado":  "2026-11-14 01:37:03",
+    "Data":  "2026-11-14 01:37"
 }
