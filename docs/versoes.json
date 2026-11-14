@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.176",
+        "Data":  "2026-11-14 14:29",
+        "Notas":  "IA em acao mostra resolvidos/em verificacao/nao resolvidos em 7 dias; chamado automatico no nivel 3 (configuravel em NivelChamado)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.176/EnginePro_Setup_4.50.176.exe"
+    },
+    {
         "Versao":  "4.50.175",
         "Data":  "2026-11-14 14:25",
         "Notas":  "Casos concluidos viram resolveu/nao resolveu com VerificadoEm; relatorio semanal destravado + catch-up 1x",

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.176 | IA em acao mostra resolvidos/em verificacao/nao resolvido... | 14/11/2026
+
+- **Melhoria**: IA em acao mostra resolvidos/em verificacao/nao resolvidos em 7 dias.
+- **Melhoria**: Chamado automatico no nivel 3 (configuravel em NivelChamado).
+
 ## Versão 4.50.175 | Casos concluidos viram resolveu/nao resolveu com Verifica... | 14/11/2026
 
 - **Melhoria**: Casos concluidos viram resolveu/nao resolveu com VerificadoEm.

@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.176",
+        "Data":  "2026-11-14 14:29",
+        "Titulo":  "IA em acao mostra resolvidos/em verificacao/nao resolvido...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA em acao mostra resolvidos/em verificacao/nao resolvidos em 7 dias."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Chamado automatico no nivel 3 (configuravel em NivelChamado)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.175",
         "Data":  "2026-11-14 14:25",
         "Titulo":  "Casos concluidos viram resolveu/nao resolveu com Verifica...",
