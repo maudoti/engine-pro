@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.163",
+        "Data":  "2026-11-13 23:50",
+        "Titulo":  "Satelite e Status das Plataformas Globais clicavel em tod...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Satelite e Status das Plataformas Globais clicavel em todas as estacoes (menu so no TI)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mais quarentena obrigatoria para todo e-mail, relatorio semanal, quadro de avisos verde, disco por SMART e macro autonoma."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.162",
         "Data":  "2026-11-13 23:38",
         "Titulo":  "Quarentena obrigatoria para todo e qualquer e-mail (nada ...",

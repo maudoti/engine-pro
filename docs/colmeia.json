@@ -5,14 +5,14 @@
     "N48":  2921,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-13 23:50",
+                         "Texto":  "Nova versão 4.50.163 publicada: Satelite e Status das Plataformas Globais clicavel em todas as estacoes (menu so no TI)",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-13 23:39:45",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 23:38",
-                         "Texto":  "Nova versão 4.50.162 publicada: Quarentena obrigatoria para todo e qualquer e-mail (nada sai sem aprovacao do TI)",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -70,18 +70,18 @@
                   0,
                   0,
                   0,
-                  0,
-                  79,
+                  19,
+                  60,
                   78,
-                  100,
-                  77,
-                  166,
-                  237,
-                  221,
-                  214,
-                  214,
-                  219,
-                  217,
+                  111,
+                  81,
+                  158,
+                  248,
+                  203,
+                  230,
+                  220,
+                  220,
+                  194,
                   64,
                   48,
                   59,
@@ -91,16 +91,16 @@
                   65,
                   39,
                   77,
-                  48,
                   65,
+                  48,
                   75,
                   101,
-                  50,
-                  73,
-                  85,
-                  93
+                  65,
+                  63,
+                  88,
+                  85
               ],
     "Ultima":  "2026-11-13 23:35:37",
-    "Gerado":  "2026-11-13 23:47:03",
-    "Data":  "2026-11-13 23:47"
+    "Gerado":  "2026-11-13 23:50:09",
+    "Data":  "2026-11-13 23:50"
 }
