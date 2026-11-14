@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1543,
-    "Pesquisas":  17664,
-    "N48":  2951,
+    "Conhecimentos":  1547,
+    "Pesquisas":  17669,
+    "N48":  2956,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 23:57:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 91 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 00:06:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 23:56:58",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 23:57:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Pesquisa do Windows não encontra arquivos",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,33 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-13 23:57:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-13 23:57:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Menu Iniciar ou barra de tarefas não funciona",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-13 23:57:13",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 23:57:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 92 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-13 23:50",
                          "Texto":  "Nova versão 4.50.163 publicada: Satelite e Status das Plataformas Globais clicavel em todas as estacoes (menu so no TI)",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2602 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 23:39:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 23:36:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 23:36:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007016A (ERROR_CLOUD_FILE_PROVIDER_NOT_RUNNING) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 22:53:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
@@ -71,36 +66,36 @@
                   0,
                   0,
                   31,
-                  48,
-                  78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
-                  225,
-                  206,
-                  29,
-                  48,
-                  80,
-                  32,
-                  64,
-                  50,
-                  55,
-                  66,
-                  50,
-                  69,
-                  44,
-                  75,
-                  101,
-                  79,
+                  76,
                   65,
-                  96,
-                  91
+                  130,
+                  47,
+                  247,
+                  212,
+                  222,
+                  225,
+                  226,
+                  206,
+                  170,
+                  51,
+                  42,
+                  64,
+                  46,
+                  70,
+                  37,
+                  48,
+                  66,
+                  77,
+                  42,
+                  58,
+                  87,
+                  100,
+                  54,
+                  97,
+                  64,
+                  96
               ],
-    "Ultima":  "2026-11-13 23:57:02",
-    "Gerado":  "2026-11-13 23:57:03",
-    "Data":  "2026-11-13 23:57"
+    "Ultima":  "2026-11-14 00:06:44",
+    "Gerado":  "2026-11-14 00:07:03",
+    "Data":  "2026-11-14 00:07"
 }
