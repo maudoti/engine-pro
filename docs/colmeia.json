@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1612,
-    "Pesquisas":  18469,
-    "N48":  3756,
+    "Conhecimentos":  1618,
+    "Pesquisas":  18497,
+    "N48":  3784,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 03:56:39",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-14 04:06:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 03:56:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 199 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 04:06:55",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 03:49:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como desabilitar complementos COM que causam travamento na inicialização do P...",
+                         "Data":  "2026-11-14 04:00:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro de sincronização do OneDrive causado por nomes de arquiv...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 804 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 832 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 03:49:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o Word que não inicia após atualização, usando modo de seguranç...",
+                         "Data":  "2026-11-14 04:00:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o acesso negado no SharePoint causado por quebra de herança de...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 03:49:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Referências externas (XREF) não encontradas",
+                         "Data":  "2026-11-14 04:00:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como limpar o cache do novo Microsoft Teams para corrigir falhas de login e t...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:59:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 202 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 03:56:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 199 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -67,40 +67,40 @@
                   0,
                   0,
                   31,
-                  48,
-                  78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
-                  225,
-                  206,
-                  29,
-                  48,
-                  80,
-                  32,
-                  64,
-                  50,
-                  55,
-                  66,
-                  50,
-                  69,
-                  44,
-                  75,
-                  101,
-                  79,
+                  76,
                   65,
+                  130,
+                  47,
+                  247,
+                  212,
+                  222,
+                  225,
+                  226,
+                  206,
+                  170,
+                  51,
+                  42,
+                  64,
+                  46,
+                  70,
+                  37,
+                  48,
+                  66,
+                  77,
+                  42,
+                  58,
+                  87,
+                  100,
+                  54,
+                  97,
+                  64,
                   96,
-                  91,
-                  218,
-                  174,
-                  209,
-                  204
+                  249,
+                  179,
+                  213,
+                  187
               ],
-    "Ultima":  "2026-11-14 03:56:39",
-    "Gerado":  "2026-11-14 03:57:03",
-    "Data":  "2026-11-14 03:57"
+    "Ultima":  "2026-11-14 04:06:59",
+    "Gerado":  "2026-11-14 04:07:03",
+    "Data":  "2026-11-14 04:07"
 }
