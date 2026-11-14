@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1589,
-    "Pesquisas":  18265,
-    "N48":  3552,
+    "Conhecimentos":  1595,
+    "Pesquisas":  18310,
+    "N48":  3597,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 02:55",
-                         "Texto":  "Nova versão 4.50.172 publicada: Painel de Autodiagnostico enxuto: so as secoes do mockup, sem historico de log cru",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 03:04:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Planilha não abre ou está corrompida",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:46:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 197 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 03:04:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Arquivo abre em \"Modo de exibição protegido\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,34 +20,34 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:46:53",
+                         "Data":  "2026-11-14 03:04:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Macros bloqueadas (\"Risco de segurança\")",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 645 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 03:04:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 40 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 03:04:16",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 600 pesquisas em bases técnicas",
+                         "Data":  "2026-11-14 02:59:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 202 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 02:34:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 01:59:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 183 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 02:55",
+                         "Texto":  "Nova versão 4.50.172 publicada: Painel de Autodiagnostico enxuto: so as secoes do mockup, sem historico de log cru",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-14 01:49:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Limite de exibição de 5 mil itens do SharePoint",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 01:49:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos ~$ que não sincronizam",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
@@ -68,39 +68,39 @@
                   0,
                   0,
                   31,
-                  48,
-                  78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
-                  225,
-                  206,
-                  29,
-                  48,
-                  80,
-                  32,
-                  64,
-                  50,
-                  55,
-                  66,
-                  50,
-                  69,
-                  44,
-                  75,
-                  101,
-                  79,
+                  76,
                   65,
+                  130,
+                  47,
+                  247,
+                  212,
+                  222,
+                  225,
+                  226,
+                  206,
+                  170,
+                  51,
+                  42,
+                  64,
+                  46,
+                  70,
+                  37,
+                  48,
+                  66,
+                  77,
+                  42,
+                  58,
+                  87,
+                  100,
+                  54,
+                  97,
+                  64,
                   96,
-                  91,
-                  218,
-                  174,
-                  209
+                  249,
+                  179,
+                  213
               ],
-    "Ultima":  "2026-11-14 02:46:53",
-    "Gerado":  "2026-11-14 02:57:04",
-    "Data":  "2026-11-14 02:57"
+    "Ultima":  "2026-11-14 03:04:16",
+    "Gerado":  "2026-11-14 03:07:03",
+    "Data":  "2026-11-14 03:07"
 }
