@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1649,
-    "Pesquisas":  18795,
-    "N48":  4082,
+    "Pesquisas":  18821,
+    "N48":  4108,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 05:36:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar um disco com SMART degradado usando CrystalDiskInfo e chkdsk?",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 05:46:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 146 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 05:36:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conflito de IP na rede",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 05:46:45",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 05:36:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Data":  "2026-11-14 05:36:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar um disco com SMART degradado usando CrystalDiskInfo e chkdsk?",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1130 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1156 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 05:35:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 120 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 05:36:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conflito de IP na rede",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 05:35:35",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 05:36:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-14 04:59:48",
@@ -65,42 +65,42 @@
                   0,
                   0,
                   0,
-                  56,
-                  76,
-                  101,
-                  93,
-                  135,
-                  235,
-                  224,
-                  221,
-                  212,
-                  250,
-                  186,
-                  97,
-                  35,
-                  72,
-                  50,
-                  42,
-                  65,
-                  47,
-                  57,
-                  53,
-                  72,
-                  42,
-                  67,
-                  105,
+                  79,
+                  78,
+                  100,
                   77,
-                  63,
-                  95,
+                  166,
+                  237,
+                  221,
+                  214,
+                  214,
+                  219,
+                  217,
+                  64,
+                  48,
+                  59,
+                  50,
+                  67,
+                  40,
+                  65,
+                  39,
+                  77,
+                  48,
+                  65,
+                  75,
+                  101,
+                  50,
+                  73,
+                  85,
                   93,
-                  160,
-                  202,
-                  227,
-                  177,
-                  193,
-                  202
+                  206,
+                  211,
+                  214,
+                  168,
+                  199,
+                  189
               ],
-    "Ultima":  "2026-11-14 05:35:35",
-    "Gerado":  "2026-11-14 05:37:03",
-    "Data":  "2026-11-14 05:37"
+    "Ultima":  "2026-11-14 05:46:56",
+    "Gerado":  "2026-11-14 05:47:03",
+    "Data":  "2026-11-14 05:47"
 }
