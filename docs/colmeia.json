@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1574,
-    "Pesquisas":  17995,
-    "N48":  3282,
+    "Pesquisas":  17996,
+    "N48":  3283,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 01:30:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 110 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 01:33",
+                         "Texto":  "Nova versão 4.50.165 publicada: Autoprotecao reforcada: base de todos os arquivos do programa com varredura que pega apagado ou alterado, protecao do servico (desabilitado volta ao ar), e alerta detalhado ao TI com onde, como, se houve dano real e se ja foi reparado",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 01:30",
-                         "Texto":  "Nova versão 4.50.164 publicada: Autodiagnostico e autoreparo nas estacoes (monitor se reergue, update travado se autocorrige, arquivos de estado se restauram) e autoprotecao (integridade dos arquivos, tentativa de desinstalacao, reparo ativo), com guarda-freios contra conflito com updates e PowerShell",
+                         "Data":  "2026-11-14 01:30:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 111 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 01:29:50",
+                         "Data":  "2026-11-14 01:30:17",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 330 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 331 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -73,34 +73,34 @@
                   76,
                   101,
                   93,
-                  127,
-                  243,
-                  184,
-                  226,
-                  236,
-                  223,
-                  215,
-                  90,
-                  51,
-                  63,
-                  46,
-                  55,
-                  62,
-                  50,
-                  40,
-                  70,
+                  135,
+                  235,
+                  210,
+                  202,
+                  234,
+                  247,
+                  200,
+                  88,
+                  44,
+                  72,
+                  38,
+                  54,
+                  65,
+                  47,
+                  57,
+                  53,
                   72,
                   42,
                   67,
                   85,
-                  87,
-                  66,
-                  80,
+                  97,
+                  63,
+                  88,
                   90,
-                  174,
-                  212
+                  170,
+                  202
               ],
-    "Ultima":  "2026-11-14 01:30:00",
-    "Gerado":  "2026-11-14 01:30:09",
-    "Data":  "2026-11-14 01:30"
+    "Ultima":  "2026-11-14 01:30:17",
+    "Gerado":  "2026-11-14 01:33:16",
+    "Data":  "2026-11-14 01:33"
 }

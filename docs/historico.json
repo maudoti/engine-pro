@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.165",
+        "Data":  "2026-11-14 01:33",
+        "Titulo":  "Autoprotecao reforcada: base de todos os arquivos do prog...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Autoprotecao reforcada: base de todos os arquivos do programa com varredura que pega apagado ou alterado, protecao do servico (desabilitado volta ao ar), e alerta detalhado ao TI com onde, como, se houve dano real e se ja foi reparado."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.164",
         "Data":  "2026-11-14 01:30",
         "Titulo":  "Autodiagnostico e autoreparo nas estacoes (monitor se ree...",

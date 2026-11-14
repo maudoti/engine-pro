@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.165",
+        "Data":  "2026-11-14 01:33",
+        "Notas":  "Autoprotecao reforcada: base de todos os arquivos do programa com varredura que pega apagado ou alterado, protecao do servico (desabilitado volta ao ar), e alerta detalhado ao TI com onde, como, se houve dano real e se ja foi reparado",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.165/EnginePro_Setup_4.50.165.exe"
+    },
+    {
         "Versao":  "4.50.164",
         "Data":  "2026-11-14 01:30",
         "Notas":  "Autodiagnostico e autoreparo nas estacoes (monitor se reergue, update travado se autocorrige, arquivos de estado se restauram) e autoprotecao (integridade dos arquivos, tentativa de desinstalacao, reparo ativo), com guarda-freios contra conflito com updates e PowerShell",

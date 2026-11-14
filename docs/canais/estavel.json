@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.164",
-    "Instalador":  "EnginePro_Setup_4.50.164.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.164/EnginePro_Setup_4.50.164.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.164/EnginePro_Setup_4.50.164.exe.gz",
-    "SHA256":  "0104D70EDB86647826D1AC59BF8B88257715BA0329A67CF6175338A7EFA78ECA",
-    "Data":  "2026-11-14 01:30",
-    "Notas":  "Autodiagnostico e autoreparo nas estacoes (monitor se reergue, update travado se autocorrige, arquivos de estado se restauram) e autoprotecao (integridade dos arquivos, tentativa de desinstalacao, reparo ativo), com guarda-freios contra conflito com updates e PowerShell",
-    "Assinatura":  "qb4Dw1KAejnGJNulVOUz4p5zqsgbHyqnBMG87pxS9Ni9r7MNJltEc2ADuLtRiVwkI99vMBOLmnyzXy6WC05CdcFwyW6iaXXetUTph/yhnbNalvf88LsC8XG7iXfq5yOkKPBwECY091cg9EPmGr/w0HV6CBkvrAwk9oeeejaJFZkCxSKa5c0VBh6WM+I2TJ1nHGYR4PBMw+/a65nNchGwfjzW02ujEvPbDPcFU0h2ZZO6ZLoyR+KIZfFo5ZE0i776bHfPNMD5RRe0bN4ncY6s4IeI2S6OGZCtWm3HWVh41Ebpff0xCuJll8ULR/nbIRGnvHw0F3n+aseMKmvXb4z1cyE+0JNM3MwUbBxLx1ZSHSiGoHjz+R8X3IKM7HsYgXucOTdsZlp33fvYASxemZhR+/gvrl2D9wyQ9py9m45jvqMQSyBWCZuM10ERBKW/dwc/BWIRgElcR83rngxAeiJU8Er2c28iJwjrZDn1zSslmUdpP6s1yJn3stzCHXWJYIQW"
+    "Versao":  "4.50.165",
+    "Instalador":  "EnginePro_Setup_4.50.165.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.165/EnginePro_Setup_4.50.165.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.165/EnginePro_Setup_4.50.165.exe.gz",
+    "SHA256":  "A0F8D651967AC1ED951C9E10A34751751D711A0F3B0821795DBC1E01FD7665A6",
+    "Data":  "2026-11-14 01:33",
+    "Notas":  "Autoprotecao reforcada: base de todos os arquivos do programa com varredura que pega apagado ou alterado, protecao do servico (desabilitado volta ao ar), e alerta detalhado ao TI com onde, como, se houve dano real e se ja foi reparado",
+    "Assinatura":  "nboxEqpiCa80brRKQvmYS8QH9+iTMBaPsdL48lHhYqz9VxXTQ3OSg17M27HkalEAJOOnR4gDe5mud0WBhAtN9QGizm6QNfi8eP7kauvZUK4yq5Jv6bQDnF03soKtjQXohjzMY8s0KGBSCwJ/wh35cW4LKJU+dDZnlRpTjZxdgeRBUBbzilitkxOjOHpdnoUmERMSraqy7Ip0wxVlLEiL7bEr/Fnh6lqd57DmS1aswtIvL+P0scFUftYqIx22Yger7jPV2Qgugz6xI1Kr+0ZbVpQlyYtuvhFH7pOX/X/ad30Z8qJtoG9grzqcfq/3GqQzKahFWtKiFP7Ur/390VdGVII1JDTGLkvu5Zf07Kl1fLNgvNHonZXJhHYXRJIyhyxrHcA7n1RkblLbJBbl0Af86nycOPi8lWQ+NL4yBnbZNngi/SxzvepWYv3ecpDZNXgc/tbRQzX+wdlopr2gDLT9CzkO4OkX/jo7oVhDtWppGLnwZhTuWVqiJi1oF4GYGkx7"
 }

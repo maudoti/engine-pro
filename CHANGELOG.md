@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.165 | Autoprotecao reforcada: base de todos os arquivos do prog... | 14/11/2026
+
+- **Melhoria**: Autoprotecao reforcada: base de todos os arquivos do programa com varredura que pega apagado ou alterado, protecao do servico (desabilitado volta ao ar), e alerta detalhado ao TI com onde, como, se houve dano real e se ja foi reparado.
+
 ## Versão 4.50.164 | Autodiagnostico e autoreparo nas estacoes (monitor se ree... | 14/11/2026
 
 - **Melhoria**: Autodiagnostico e autoreparo nas estacoes (monitor se reergue, update travado se autocorrige, arquivos de estado se restauram) e autoprotecao (integridade dos arquivos, tentativa de desinstalacao, reparo ativo), com guarda-freios contra conflito com updates e PowerShell.
