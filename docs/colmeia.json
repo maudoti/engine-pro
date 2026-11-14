@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1589,
-    "Pesquisas":  18223,
-    "N48":  3510,
+    "Pesquisas":  18265,
+    "N48":  3552,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 02:38",
-                         "Texto":  "Nova versão 4.50.170 publicada: Painel de Autodiagnostico em tema escuro igual ao mockup",
+                         "Data":  "2026-11-14 02:46:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 02:34:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 02:46:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 197 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:34:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 155 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 02:38",
+                         "Texto":  "Nova versão 4.50.170 publicada: Painel de Autodiagnostico em tema escuro igual ao mockup",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 558 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 600 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 02:34:19",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 02:34:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-14 01:59:50",
@@ -68,39 +68,39 @@
                   0,
                   0,
                   0,
-                  56,
-                  76,
-                  101,
-                  93,
-                  135,
-                  240,
+                  79,
+                  78,
+                  100,
+                  77,
+                  166,
+                  237,
+                  221,
+                  214,
+                  214,
                   219,
-                  227,
-                  216,
-                  240,
-                  186,
-                  97,
-                  35,
-                  72,
+                  217,
+                  64,
+                  48,
+                  59,
                   50,
-                  47,
-                  60,
-                  47,
-                  57,
-                  53,
-                  72,
-                  49,
-                  60,
-                  109,
+                  67,
+                  40,
+                  65,
+                  39,
+                  77,
+                  48,
+                  65,
+                  75,
+                  101,
+                  50,
                   73,
-                  63,
-                  95,
+                  85,
                   93,
-                  160,
-                  209,
-                  220
+                  206,
+                  211,
+                  214
               ],
-    "Ultima":  "2026-11-14 02:34:19",
-    "Gerado":  "2026-11-14 02:38:05",
-    "Data":  "2026-11-14 02:38"
+    "Ultima":  "2026-11-14 02:46:53",
+    "Gerado":  "2026-11-14 02:47:03",
+    "Data":  "2026-11-14 02:47"
 }
