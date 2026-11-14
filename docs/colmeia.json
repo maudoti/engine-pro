@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1547,
-    "Pesquisas":  17669,
-    "N48":  2956,
+    "Conhecimentos":  1553,
+    "Pesquisas":  17709,
+    "N48":  2996,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 00:06:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 00:16:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 44 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 23:57:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Pesquisa do Windows não encontra arquivos",
+                         "Data":  "2026-11-14 00:14:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,17 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 23:57:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
+                         "Data":  "2026-11-14 00:14:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 23:57:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Menu Iniciar ou barra de tarefas não funciona",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 44 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 00:14:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 23:57:13",
+                         "Data":  "2026-11-14 00:13:37",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -65,37 +70,37 @@
                   0,
                   0,
                   0,
-                  31,
-                  76,
-                  65,
-                  130,
-                  47,
-                  247,
-                  212,
-                  222,
+                  56,
+                  51,
+                  87,
+                  108,
+                  89,
+                  264,
+                  189,
                   225,
                   226,
-                  206,
-                  170,
-                  51,
+                  232,
+                  193,
+                  150,
+                  38,
                   42,
-                  64,
-                  46,
-                  70,
-                  37,
-                  48,
+                  80,
+                  32,
+                  73,
+                  36,
                   66,
+                  44,
                   77,
-                  42,
-                  58,
+                  63,
+                  37,
                   87,
                   100,
-                  54,
-                  97,
                   64,
-                  96
+                  87,
+                  74,
+                  126
               ],
-    "Ultima":  "2026-11-14 00:06:44",
-    "Gerado":  "2026-11-14 00:07:03",
-    "Data":  "2026-11-14 00:07"
+    "Ultima":  "2026-11-14 00:16:51",
+    "Gerado":  "2026-11-14 00:17:03",
+    "Data":  "2026-11-14 00:17"
 }
