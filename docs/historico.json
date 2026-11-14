@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.50.166",
+        "Data":  "2026-11-14 02:03",
+        "Titulo":  "Relatorio semanal passa a disparar (corrige marca de esta...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Relatorio semanal passa a disparar (corrige marca de estado que travava a recuperacao inicial)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Log de auditoria da quarentena."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Gatilho de drenagem baixado de 15 para 3 alertas represados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.165",
         "Data":  "2026-11-14 01:33",
         "Titulo":  "Autoprotecao reforcada: base de todos os arquivos do prog...",

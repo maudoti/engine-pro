@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.166 | Relatorio semanal passa a disparar (corrige marca de esta... | 14/11/2026
+
+- **Correção**: Relatorio semanal passa a disparar (corrige marca de estado que travava a recuperacao inicial).
+- **Melhoria**: Log de auditoria da quarentena.
+- **Melhoria**: Gatilho de drenagem baixado de 15 para 3 alertas represados.
+
 ## Versão 4.50.165 | Autoprotecao reforcada: base de todos os arquivos do prog... | 14/11/2026
 
 - **Melhoria**: Autoprotecao reforcada: base de todos os arquivos do programa com varredura que pega apagado ou alterado, protecao do servico (desabilitado volta ao ar), e alerta detalhado ao TI com onde, como, se houve dano real e se ja foi reparado.
