@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1558,
-    "Pesquisas":  17752,
-    "N48":  3039,
+    "Conhecimentos":  1562,
+    "Pesquisas":  17794,
+    "N48":  3081,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 00:24:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071AC3 (ERROR_DIRTY_VOLUME) no Windows",
+                         "Data":  "2026-11-14 00:35:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome desatualizado ou não atualiza",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 00:24:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Project, Microsoft Project lento ou travando",
+                         "Data":  "2026-11-14 00:35:08",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,22 +20,22 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 00:24:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
+                         "Data":  "2026-11-14 00:34:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800704C3 (ERROR_SESSION_CREDENTIAL_CONFLICT) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 87 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 129 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 00:23:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 87 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 00:31:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 129 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 00:23:32",
+                         "Data":  "2026-11-14 00:31:47",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -72,35 +72,35 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
-                  100,
-                  269,
-                  185,
-                  226,
-                  223,
-                  236,
-                  188,
-                  117,
-                  51,
-                  54,
-                  55,
-                  55,
+                  101,
+                  93,
+                  135,
+                  235,
+                  224,
+                  221,
+                  212,
+                  250,
+                  186,
+                  97,
+                  35,
+                  72,
                   50,
-                  62,
-                  40,
-                  70,
-                  71,
-                  43,
+                  42,
+                  65,
+                  47,
+                  57,
+                  53,
+                  72,
+                  42,
                   67,
-                  79,
-                  78,
-                  74,
+                  105,
                   77,
+                  63,
                   95,
-                  148
+                  93,
+                  160
               ],
-    "Ultima":  "2026-11-14 00:23:50",
-    "Gerado":  "2026-11-14 00:27:03",
-    "Data":  "2026-11-14 00:27"
+    "Ultima":  "2026-11-14 00:31:47",
+    "Gerado":  "2026-11-14 00:37:04",
+    "Data":  "2026-11-14 00:37"
 }
