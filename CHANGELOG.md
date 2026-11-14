@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.177 | Disco sem contradicao | 14/11/2026
+
+- **Melhoria**: Disco sem contradicao.
+- **Melhoria**: Dedup do que fiz.
+- **Melhoria**: Windows Update reparado pela IA.
+- **Melhoria**: Robo Previne/Ajuda no rodape.
+
 ## Versão 4.50.176 | IA em acao mostra resolvidos/em verificacao/nao resolvido... | 14/11/2026
 
 - **Melhoria**: IA em acao mostra resolvidos/em verificacao/nao resolvidos em 7 dias.

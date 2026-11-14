@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.50.177",
+        "Data":  "2026-11-14 18:29",
+        "Titulo":  "Disco sem contradicao",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Disco sem contradicao."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Dedup do que fiz."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Windows Update reparado pela IA."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Robo Previne/Ajuda no rodape."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.176",
         "Data":  "2026-11-14 14:29",
         "Titulo":  "IA em acao mostra resolvidos/em verificacao/nao resolvido...",

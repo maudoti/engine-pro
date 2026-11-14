@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.176",
-    "Instalador":  "EnginePro_Setup_4.50.176.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.176/EnginePro_Setup_4.50.176.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.176/EnginePro_Setup_4.50.176.exe.gz",
-    "SHA256":  "8C9A37DF53E65A25DE6FCA2965532F47FC7BE668F8CDA158806D89F4BD44A341",
-    "Data":  "2026-11-14 14:29",
-    "Notas":  "IA em acao mostra resolvidos/em verificacao/nao resolvidos em 7 dias; chamado automatico no nivel 3 (configuravel em NivelChamado)",
-    "Assinatura":  "vWVt+WrEmI/yZfYuYLRPt2gRu6FLdyFTDFa2wSfaoqXWlxq/y6InHr5GW9Ukrt8JVOyZttkhF2NznG7ZufUhY1Je+/LaOvPb70NJVacKHF90flje+wKk4TNvL6b5GMJEcIwE8w8JqZqu087+xVSoiHgVEyn13LI+c+ave8py882A36BLUvwHNZYYK8QYxOywmFHNzZeouKhbgtAMQVgo9b72yD7zNAkdd2Fi0P0uiziy+q3ru9tHW5CJW+yKVVEp/viPYEOUTTxW7WxRbHvwoYxX2kjBK8ko0Tr9E4aAFZpBETmnapv1awVJtacVkgtYv/98u078ouPwnlDr2jHwfN8XYocL168XXQx7uVMnkSUAsRr74+Eznkid6uqFpEV86do06D9NTO+H3hqY3fyKaU9ckA9BmLqMlCePFXwDP0Jh5qhmS/kdtk5Dm/S3CykX/gYWGBXy527k+igdqolRv+3ajjJBsiDY39DKaLwGTXWWA5lqDI/79L0U7l+Vukkx"
+    "Versao":  "4.50.177",
+    "Instalador":  "EnginePro_Setup_4.50.177.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.177/EnginePro_Setup_4.50.177.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.177/EnginePro_Setup_4.50.177.exe.gz",
+    "SHA256":  "C2F47C1574E564B8399E83C675C3C677EB3AD5F13ECABD971041EFAA0FC4351A",
+    "Data":  "2026-11-14 18:29",
+    "Notas":  "Disco sem contradicao; dedup do que fiz; Windows Update reparado pela IA; robo Previne/Ajuda no rodape",
+    "Assinatura":  "lMVc4ImNqkgoMUYIPVoaeRpTfZBSMEXjUavPH1yert3vzgLw1zDpGl2L/qHbvHLAZtEWTqYVTamx+pPDbp2GQX77fznj4gEfPTTSa6qwlq3q/FEDizuY/HqSySxyEeswWQQcdqKhfq1/I5o6qN++2ccPeKrKByGSPGj94u2MH/3FsojDhmwHMM+1CAGbIXdEWvDuXZwRml6eim8Jbx5axLz+78vl5qMAxgqjClpHzZi0+cn0uJiMO9aYZgqN+jJTS3hQKJTmpY0GjfAyfYOU4FxFsFXh/y/auH3PcwNWLHGdbhEBEulZJUHQM9IXOOqNy1tJSl3Nw6fbaAl8x8gBiujkIHpE/YEGsa7TT30HqCOJTbVaBNFGtJ+MjdzQp4GoeoGyuAEUT3bzkXuMtt3fuq7sG+J8/tAv/BV9zinXyvyEmvpaKwmVcaSa6pqyoj8YtP38zqEWLUzfDM6EaVJMO5VKdqfbRAFNNEntUv2a3bVCyx2llKln0ffl4T9/OxBi"
 }

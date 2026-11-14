@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.177",
+        "Data":  "2026-11-14 18:29",
+        "Notas":  "Disco sem contradicao; dedup do que fiz; Windows Update reparado pela IA; robo Previne/Ajuda no rodape",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.177/EnginePro_Setup_4.50.177.exe"
+    },
+    {
         "Versao":  "4.50.176",
         "Data":  "2026-11-14 14:29",
         "Notas":  "IA em acao mostra resolvidos/em verificacao/nao resolvidos em 7 dias; chamado automatico no nivel 3 (configuravel em NivelChamado)",
