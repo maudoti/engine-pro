@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1703,
-    "Pesquisas":  19365,
-    "N48":  4652,
+    "Conhecimentos":  1704,
+    "Pesquisas":  19373,
+    "N48":  4660,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 12:16:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 12:18:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA70004 (AAD_CONNECTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 12:00",
-                         "Texto":  "Nova versão 4.50.173 publicada: Autorreparo sempre visivel com estado positivo",
+                         "Data":  "2026-11-14 12:18:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 11:58:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007232B (DNS_ERROR_RCODE_NAME_ERROR) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 12:00",
+                         "Texto":  "Nova versão 4.50.173 publicada: Autorreparo sempre visivel com estado positivo",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1700 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1708 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 11:58:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007232B (DNS_ERROR_RCODE_NAME_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-14 11:55:07",
@@ -38,16 +43,6 @@
                          "Data":  "2026-11-14 11:36:15",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000225 (BOOT_SELECTION_FAILED) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 10:51:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007000E (E_OUTOFMEMORY) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 09:20:49",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
@@ -59,48 +54,48 @@
                   0,
                   0,
                   56,
-                  51,
-                  87,
+                  76,
+                  86,
                   108,
-                  89,
-                  264,
-                  189,
-                  225,
-                  226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42,
-                  80,
-                  32,
-                  73,
-                  36,
-                  66,
-                  44,
-                  77,
-                  63,
-                  37,
-                  87,
                   100,
-                  64,
-                  87,
-                  74,
-                  126,
-                  235,
-                  201,
-                  177,
-                  186,
-                  241,
-                  194,
-                  156,
-                  98,
+                  269,
+                  185,
+                  226,
+                  223,
+                  236,
+                  188,
+                  117,
+                  51,
+                  54,
+                  55,
+                  55,
+                  50,
+                  62,
+                  40,
+                  70,
+                  71,
                   43,
-                  60,
-                  36,
-                  29
+                  67,
+                  79,
+                  78,
+                  74,
+                  77,
+                  95,
+                  148,
+                  226,
+                  213,
+                  169,
+                  190,
+                  209,
+                  208,
+                  177,
+                  53,
+                  65,
+                  42,
+                  32,
+                  37
               ],
-    "Ultima":  "2026-11-14 12:16:55",
-    "Gerado":  "2026-11-14 12:17:03",
-    "Data":  "2026-11-14 12:17"
+    "Ultima":  "2026-11-14 12:18:00",
+    "Gerado":  "2026-11-14 12:27:03",
+    "Data":  "2026-11-14 12:27"
 }
