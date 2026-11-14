@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1532,
-    "Pesquisas":  17432,
-    "N48":  2719,
+    "Conhecimentos":  1533,
+    "Pesquisas":  17446,
+    "N48":  2733,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 21:26:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 21:34:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 21:26:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 21:31:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 20:51:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 79 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 21:31:29",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2370 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2384 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 20:51:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 79 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -37,11 +42,6 @@
                      {
                          "Data":  "2026-11-13 20:32:29",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-13 20:32:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -75,32 +75,32 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
-                  100,
-                  269,
-                  185,
-                  226,
-                  223,
-                  236,
-                  188,
-                  117,
-                  51,
-                  54,
-                  55,
-                  55,
+                  101,
+                  93,
+                  135,
+                  235,
+                  224,
+                  221,
+                  212,
+                  250,
+                  186,
+                  97,
+                  35,
+                  72,
                   50,
-                  62,
-                  40,
-                  70,
-                  71,
-                  43,
+                  42,
+                  65,
+                  47,
+                  57,
+                  53,
+                  72,
+                  42,
                   67,
-                  79,
-                  78,
-                  74
+                  105,
+                  77,
+                  63
               ],
-    "Ultima":  "2026-11-13 21:26:52",
-    "Gerado":  "2026-11-13 21:27:03",
-    "Data":  "2026-11-13 21:27"
+    "Ultima":  "2026-11-13 21:31:29",
+    "Gerado":  "2026-11-13 21:37:03",
+    "Data":  "2026-11-13 21:37"
 }
