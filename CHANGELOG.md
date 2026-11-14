@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.168 | Painel de Autodiagnostico blindado: abre mesmo se a anima... | 14/11/2026
+
+- **Correção**: Painel de Autodiagnostico blindado: abre mesmo se a animacao falhar.
+- **Correção**: Clique mostra o erro real em vez de nao fazer nada.
+
 ## Versão 4.50.167 | Painel de Autodiagnostico novo: cabecalho com animacao de... | 14/11/2026
 
 - **Melhoria**: Painel de Autodiagnostico novo: cabecalho com animacao de scan (aneis, nucleo pulsando e ponto girando), dedicado ao programa, com secoes de Autoprotecao e Autorreparo.

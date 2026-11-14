@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.168",
+        "Data":  "2026-11-14 02:19",
+        "Titulo":  "Painel de Autodiagnostico blindado: abre mesmo se a anima...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Painel de Autodiagnostico blindado: abre mesmo se a animacao falhar."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Clique mostra o erro real em vez de nao fazer nada."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.167",
         "Data":  "2026-11-14 02:11",
         "Titulo":  "Painel de Autodiagnostico novo: cabecalho com animacao de...",

@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1588,
-    "Pesquisas":  18145,
-    "N48":  3432,
+    "Pesquisas":  18164,
+    "N48":  3451,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 02:16:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 77 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 02:19:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 96 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 02:16:44",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-14 02:19",
+                         "Texto":  "Nova versão 4.50.168 publicada: Painel de Autodiagnostico blindado: abre mesmo se a animacao falhar",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:11",
-                         "Texto":  "Nova versão 4.50.167 publicada: Painel de Autodiagnostico novo: cabecalho com animacao de scan (aneis, nucleo pulsando e ponto girando), dedicado ao programa, com secoes de Autoprotecao e Autorreparo",
+                         "Data":  "2026-11-14 02:18:49",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 480 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 499 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -70,23 +70,23 @@
                   0,
                   56,
                   51,
-                  87,
-                  108,
-                  89,
-                  264,
+                  101,
+                  94,
+                  109,
+                  244,
                   189,
                   225,
-                  226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42,
-                  80,
+                  234,
+                  224,
+                  209,
+                  134,
+                  48,
                   32,
-                  73,
-                  36,
-                  66,
+                  80,
+                  52,
+                  53,
+                  57,
+                  45,
                   44,
                   77,
                   63,
@@ -95,12 +95,12 @@
                   100,
                   64,
                   87,
-                  74,
-                  126,
-                  235,
-                  201
+                  84,
+                  130,
+                  237,
+                  204
               ],
-    "Ultima":  "2026-11-14 02:16:47",
-    "Gerado":  "2026-11-14 02:17:03",
-    "Data":  "2026-11-14 02:17"
+    "Ultima":  "2026-11-14 02:19:18",
+    "Gerado":  "2026-11-14 02:19:27",
+    "Data":  "2026-11-14 02:19"
 }
