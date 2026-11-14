@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1707,
-    "Pesquisas":  19423,
-    "N48":  4710,
+    "Conhecimentos":  1708,
+    "Pesquisas":  19430,
+    "N48":  4717,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 14:08",
-                         "Texto":  "Nova versão 4.50.174 publicada: Dreno respeita Retry-After e avisa o TI no quadro se travar mais de 2h",
+                         "Data":  "2026-11-14 14:25",
+                         "Texto":  "Nova versão 4.50.175 publicada: Casos concluidos viram resolveu/nao resolveu com VerificadoEm",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 14:06:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 14:19:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, \"Não foi possível redefinir o OneDrive\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 13:46:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Cópias em conflito (arquivo com o nome do computador)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 14:18:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1758 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1765 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 13:46:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Cópias em conflito (arquivo com o nome do computador)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-14 13:44:54",
@@ -38,11 +43,6 @@
                          "Data":  "2026-11-14 13:24:49",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 13:02:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000BC4 (ERROR_NO_PRINTERS_FOUND) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
@@ -52,50 +52,50 @@
                   0,
                   0,
                   56,
-                  51,
-                  87,
-                  108,
-                  89,
-                  264,
-                  189,
-                  225,
-                  226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42,
-                  80,
-                  32,
-                  73,
-                  36,
-                  66,
-                  44,
-                  77,
-                  63,
-                  37,
-                  87,
-                  100,
-                  64,
-                  87,
-                  74,
-                  126,
-                  235,
-                  201,
-                  177,
-                  186,
-                  241,
-                  194,
-                  156,
+                  71,
+                  81,
                   98,
-                  43,
-                  60,
-                  36,
-                  29,
+                  120,
+                  246,
+                  208,
+                  219,
+                  208,
+                  258,
+                  188,
+                  117,
+                  51,
+                  54,
+                  55,
+                  55,
+                  50,
+                  62,
+                  40,
+                  70,
+                  56,
+                  58,
+                  67,
+                  63,
+                  94,
+                  69,
+                  82,
+                  95,
+                  148,
+                  214,
+                  218,
+                  176,
+                  180,
+                  213,
+                  214,
+                  177,
+                  53,
+                  65,
+                  42,
+                  32,
+                  37,
                   34,
-                  24
+                  23
               ],
-    "Ultima":  "2026-11-14 14:06:09",
-    "Gerado":  "2026-11-14 14:17:03",
-    "Data":  "2026-11-14 14:17"
+    "Ultima":  "2026-11-14 14:18:50",
+    "Gerado":  "2026-11-14 14:25:01",
+    "Data":  "2026-11-14 14:25"
 }

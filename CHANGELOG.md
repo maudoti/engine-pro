@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.175 | Casos concluidos viram resolveu/nao resolveu com Verifica... | 14/11/2026
+
+- **Melhoria**: Casos concluidos viram resolveu/nao resolveu com VerificadoEm.
+- **Melhoria**: Relatorio semanal destravado + catch-up 1x.
+
 ## Versão 4.50.174 | Dreno respeita Retry-After e avisa o TI no quadro se trav... | 14/11/2026
 
 - **Melhoria**: Dreno respeita Retry-After e avisa o TI no quadro se travar mais de 2h.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.174",
-    "Instalador":  "EnginePro_Setup_4.50.174.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.174/EnginePro_Setup_4.50.174.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.174/EnginePro_Setup_4.50.174.exe.gz",
-    "SHA256":  "2B1C7816AEF01670BA6F1868FC8B2A4ABB3A42E0BABF421B7DC9785D283FF886",
-    "Data":  "2026-11-14 14:08",
-    "Notas":  "Dreno respeita Retry-After e avisa o TI no quadro se travar mais de 2h; pausa de cota da COLMEIA",
-    "Assinatura":  "sh74RAk0SuFLTgxF4B/bisPiT0HkQgiGEK+aFu373sgmFmOXk11IMp7V20WquKLQSop7IifYZGuguae8pqKOgLM6DSznlfgWz8yxn38X2AIOMe1YGKJu79bCrKYRm5eZuc6E3Q7tZ9EPsa5t1w/0CblsPgEZatz0Q5MMZWqOHEuCSc1hn+rvkKKAPRHlDNg0MseBHUlibWiD/ARCeYQuS0DU8mVIch9vajdTFEtrhJmBg+CDxrVGp8FEo6PEZzqGCLdWVRuh0rWoZ8SmWyL8ax967gz4kDwwqRodFI7HHPA7i80VhMf87KQF+DBiAabs5mLZmJyD3zsht6Qrlo5FekvzaGpzOyWzUxKLoRgVAJqhqMdzhLW1q25cedfp0N/WyYNilvvhD/lB5ayNGPEmupy3UluiOOD8jEwD3i/tlhfWQvTKm0m+TXTzLluWZY+dtn9SH8HMJYO7p09uQ0Tf9Dr00Ymsk4EAeboykLn/netpbGBW+3c/8ZCdI2NGZzG/"
+    "Versao":  "4.50.175",
+    "Instalador":  "EnginePro_Setup_4.50.175.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.175/EnginePro_Setup_4.50.175.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.175/EnginePro_Setup_4.50.175.exe.gz",
+    "SHA256":  "5231E454BC09094B4F0BF17BCDD7929882B1705F5E2CD633039366B2DE048D9E",
+    "Data":  "2026-11-14 14:25",
+    "Notas":  "Casos concluidos viram resolveu/nao resolveu com VerificadoEm; relatorio semanal destravado + catch-up 1x",
+    "Assinatura":  "ctrcKZucKLHYw1lqGEUdNmf5yBIowhg6yUGuJhzbr5jBB6pjfqFGHohKc+GTndthP7JAdBczGAKroa3RaS1KsI/+D6/bIcenPrDc37mSvVkCHZ3XkoRqjfofOmxxJG4/ry9IQrgFbWRR5pwzl30T7W04sSOrBmQScC5m55cb6CWv4bpMDL7+wpRV3nYSbpkO43NFwOV2pomvGThr+qx5x0O9QAwax9NwW2Z97M0TRyacNhEbmP+insO56DL5Uq7j4qoqXKjNjcigDNZy56gWOr1agrlC2aK1HbidLVYPqrl3LYYkWc10IidI9PfiamlrOcV3CJHkk8pESUga2Hl8cTsNuM0A8N/bNQwXcmqU+T0iC2M5ZKBIajZmEQpBs4hcC2JqohnFkUay6m19YYBdT6DmObzLNfnDS9MoOwMBst2mBD5qPenrfQRWk9XQ5oeIOtMDD55KHvwpaU1iXw3sVNUnz3FKDoSo1/Fo6l9jE2vFvHy+5ejTc6JE3hqI2bJB"
 }
