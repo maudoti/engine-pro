@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1635,
-    "Pesquisas":  18655,
-    "N48":  3941,
+    "Conhecimentos":  1641,
+    "Pesquisas":  18708,
+    "N48":  3995,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 04:56:58",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 05:04:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C7 (TIMER_OR_DPC_INVALID) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 04:56:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 185 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 05:04:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000EA (THREAD_STUCK_IN_DEVICE_DRIVER) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 04:50:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressão demora para começar",
+                         "Data":  "2026-11-14 05:04:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, \"A letra da unidade já está em uso\" (erro 85)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 989 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1043 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 04:50:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Spooler de impressão parando sozinho",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 05:04:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 04:50:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Erro 0x00000709 ao definir a impressora padrão",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 05:04:23",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 03:56:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 199 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 04:59:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 206 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -66,41 +66,41 @@
                   0,
                   0,
                   31,
-                  48,
-                  78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
-                  225,
-                  206,
-                  29,
-                  48,
-                  80,
-                  32,
-                  64,
-                  50,
-                  55,
-                  66,
-                  50,
-                  69,
-                  44,
-                  75,
-                  101,
-                  79,
+                  76,
                   65,
+                  130,
+                  47,
+                  247,
+                  212,
+                  222,
+                  225,
+                  226,
+                  206,
+                  170,
+                  51,
+                  42,
+                  64,
+                  46,
+                  70,
+                  37,
+                  48,
+                  66,
+                  77,
+                  42,
+                  58,
+                  87,
+                  100,
+                  54,
+                  97,
+                  64,
                   96,
-                  91,
-                  218,
-                  174,
-                  209,
-                  204,
-                  185
+                  249,
+                  179,
+                  213,
+                  187,
+                  211
               ],
-    "Ultima":  "2026-11-14 04:56:58",
-    "Gerado":  "2026-11-14 04:57:04",
-    "Data":  "2026-11-14 04:57"
+    "Ultima":  "2026-11-14 05:04:23",
+    "Gerado":  "2026-11-14 05:07:04",
+    "Data":  "2026-11-14 05:07"
 }
