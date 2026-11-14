@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.164 | Autodiagnostico e autoreparo nas estacoes (monitor se ree... | 14/11/2026
+
+- **Melhoria**: Autodiagnostico e autoreparo nas estacoes (monitor se reergue, update travado se autocorrige, arquivos de estado se restauram) e autoprotecao (integridade dos arquivos, tentativa de desinstalacao, reparo ativo), com guarda-freios contra conflito com updates e PowerShell.
+
 ## Versão 4.50.163 | Satelite e Status das Plataformas Globais clicavel em tod... | 13/11/2026
 
 - **Melhoria**: Satelite e Status das Plataformas Globais clicavel em todas as estacoes (menu so no TI).

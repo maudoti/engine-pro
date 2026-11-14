@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.164",
+        "Data":  "2026-11-14 01:30",
+        "Notas":  "Autodiagnostico e autoreparo nas estacoes (monitor se reergue, update travado se autocorrige, arquivos de estado se restauram) e autoprotecao (integridade dos arquivos, tentativa de desinstalacao, reparo ativo), com guarda-freios contra conflito com updates e PowerShell",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.164/EnginePro_Setup_4.50.164.exe"
+    },
+    {
         "Versao":  "4.50.163",
         "Data":  "2026-11-13 23:50",
         "Notas":  "Satelite e Status das Plataformas Globais clicavel em todas as estacoes (menu so no TI); mais quarentena obrigatoria para todo e-mail, relatorio semanal, quadro de avisos verde, disco por SMART e macro autonoma",
