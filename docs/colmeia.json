@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1533,
-    "Pesquisas":  17477,
-    "N48":  2764,
+    "Conhecimentos":  1535,
+    "Pesquisas":  17509,
+    "N48":  2796,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 21:51:44",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 22:05:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Computadores fora do domínio não se enxergam na rede",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 21:51:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-13 22:05:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Falha de login no domínio por relógio errado",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 21:34:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 22:04:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 2415 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 2447 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 20:51:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 79 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-13 22:04:43",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 20:32:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 21:59:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 71 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-13 20:32:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
+                         "Data":  "2026-11-13 21:34:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
                          "Nivel":  "ok"
                      },
                      {
@@ -73,34 +73,34 @@
                   0,
                   0,
                   31,
-                  48,
-                  78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
+                  76,
+                  65,
+                  130,
+                  47,
+                  247,
+                  212,
+                  222,
                   225,
+                  226,
                   206,
-                  29,
-                  48,
-                  80,
-                  32,
+                  170,
+                  51,
+                  42,
                   64,
-                  50,
-                  55,
+                  46,
+                  70,
+                  37,
+                  48,
                   66,
-                  50,
-                  69,
-                  44,
-                  75,
-                  101,
-                  79,
-                  65
+                  77,
+                  42,
+                  58,
+                  87,
+                  100,
+                  54,
+                  97
               ],
-    "Ultima":  "2026-11-13 21:51:44",
-    "Gerado":  "2026-11-13 21:57:04",
-    "Data":  "2026-11-13 21:57"
+    "Ultima":  "2026-11-13 22:04:43",
+    "Gerado":  "2026-11-13 22:07:03",
+    "Data":  "2026-11-13 22:07"
 }
