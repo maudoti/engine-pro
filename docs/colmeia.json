@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1684,
-    "Pesquisas":  19147,
-    "N48":  4434,
+    "Conhecimentos":  1686,
+    "Pesquisas":  19172,
+    "N48":  4459,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 07:46:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 72 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 07:55:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 07:23:45",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-14 07:55:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 97 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-14 07:55:04",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1507 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-14 07:20:18",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040119 (MAPI_E_UNKNOWN) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1482 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-14 07:20:18",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 07:07:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Políticas da empresa não aplicam",
                          "Nivel":  "ok"
                      },
                      {
@@ -62,45 +62,45 @@
                   0,
                   0,
                   0,
-                  0,
-                  79,
+                  31,
+                  48,
                   78,
-                  100,
-                  77,
-                  166,
-                  237,
+                  121,
+                  71,
+                  175,
+                  248,
                   221,
-                  214,
-                  214,
-                  219,
-                  217,
+                  218,
+                  215,
+                  225,
+                  206,
+                  29,
+                  48,
+                  80,
+                  32,
                   64,
-                  48,
-                  59,
                   50,
-                  67,
-                  40,
-                  65,
-                  39,
-                  77,
-                  48,
-                  65,
+                  55,
+                  66,
+                  50,
+                  69,
+                  44,
                   75,
                   101,
-                  50,
-                  73,
-                  85,
-                  93,
-                  206,
-                  211,
-                  214,
-                  168,
-                  199,
-                  189,
-                  198,
-                  128
+                  79,
+                  65,
+                  96,
+                  91,
+                  218,
+                  174,
+                  209,
+                  204,
+                  186,
+                  209,
+                  197,
+                  111
               ],
-    "Ultima":  "2026-11-14 07:46:39",
-    "Gerado":  "2026-11-14 07:47:04",
-    "Data":  "2026-11-14 07:47"
+    "Ultima":  "2026-11-14 07:55:04",
+    "Gerado":  "2026-11-14 07:57:03",
+    "Data":  "2026-11-14 07:57"
 }
