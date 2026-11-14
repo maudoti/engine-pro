@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1682,
-    "Pesquisas":  19099,
-    "N48":  4386,
+    "Conhecimentos":  1684,
+    "Pesquisas":  19144,
+    "N48":  4431,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 07:07:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 07:23:45",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 07:07:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro 0x800F081F ao instalar o .NET Framework 3.5 offline?",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 07:23:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 69 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 07:07:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Políticas da empresa não aplicam",
+                         "Data":  "2026-11-14 07:20:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040119 (MAPI_E_UNKNOWN) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1434 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1479 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 07:03:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 07:20:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 07:03:36",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 07:07:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Políticas da empresa não aplicam",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-14 06:59:54",
@@ -64,43 +64,43 @@
                   0,
                   0,
                   56,
-                  51,
-                  87,
+                  76,
+                  86,
                   108,
-                  89,
-                  264,
-                  189,
-                  225,
-                  226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42,
-                  80,
-                  32,
-                  73,
-                  36,
-                  66,
-                  44,
-                  77,
-                  63,
-                  37,
-                  87,
                   100,
-                  64,
-                  87,
+                  269,
+                  185,
+                  226,
+                  223,
+                  236,
+                  188,
+                  117,
+                  51,
+                  54,
+                  55,
+                  55,
+                  50,
+                  62,
+                  40,
+                  70,
+                  71,
+                  43,
+                  67,
+                  79,
+                  78,
                   74,
-                  126,
-                  235,
-                  201,
-                  177,
-                  186,
-                  241,
-                  194,
-                  156
+                  77,
+                  95,
+                  148,
+                  226,
+                  213,
+                  169,
+                  190,
+                  209,
+                  208,
+                  177
               ],
-    "Ultima":  "2026-11-14 07:03:36",
-    "Gerado":  "2026-11-14 07:17:03",
-    "Data":  "2026-11-14 07:17"
+    "Ultima":  "2026-11-14 07:23:45",
+    "Gerado":  "2026-11-14 07:27:04",
+    "Data":  "2026-11-14 07:27"
 }
