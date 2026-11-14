@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1702,
+    "Conhecimentos":  1703,
     "Pesquisas":  19361,
     "N48":  4648,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 11:55:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 12:00",
+                         "Texto":  "Nova versão 4.50.173 publicada: Autorreparo sempre visivel com estado positivo",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 11:36:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000225 (BOOT_SELECTION_FAILED) no Windows",
+                         "Data":  "2026-11-14 11:58:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007232B (DNS_ERROR_RCODE_NAME_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 10:51:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007000E (E_OUTOFMEMORY) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 11:55:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,8 +30,13 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 10:51:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
+                         "Data":  "2026-11-14 11:36:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000225 (BOOT_SELECTION_FAILED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-14 10:51:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007000E (E_OUTOFMEMORY) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -42,11 +47,6 @@
                      {
                          "Data":  "2026-11-14 09:20:49",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-14 02:55",
-                         "Texto":  "Nova versão 4.50.172 publicada: Painel de Autodiagnostico enxuto: so as secoes do mockup, sem historico de log cru",
                          "Nivel":  "info"
                      }
                  ],
@@ -61,46 +61,46 @@
                   31,
                   48,
                   78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
-                  225,
-                  206,
-                  29,
+                  130,
+                  62,
+                  191,
+                  258,
+                  195,
+                  235,
+                  223,
+                  226,
+                  180,
                   48,
+                  29,
                   80,
-                  32,
-                  64,
-                  50,
-                  55,
+                  36,
+                  60,
+                  57,
+                  48,
                   66,
                   50,
                   69,
-                  44,
-                  75,
+                  49,
+                  70,
                   101,
                   79,
-                  65,
-                  96,
-                  91,
-                  218,
-                  174,
-                  209,
+                  71,
+                  90,
+                  92,
+                  224,
+                  181,
                   204,
-                  186,
-                  209,
-                  197,
-                  111,
-                  50,
-                  56,
+                  195,
+                  212,
+                  201,
+                  198,
+                  92,
+                  62,
+                  44,
                   42,
                   41
               ],
     "Ultima":  "2026-11-14 11:55:07",
-    "Gerado":  "2026-11-14 11:57:03",
-    "Data":  "2026-11-14 11:57"
+    "Gerado":  "2026-11-14 12:00:33",
+    "Data":  "2026-11-14 12:00"
 }

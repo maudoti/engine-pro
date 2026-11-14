@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.173",
+        "Data":  "2026-11-14 12:00",
+        "Titulo":  "Autorreparo sempre visivel com estado positivo",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Autorreparo sempre visivel com estado positivo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Icones nos titulos do painel de Autodiagnostico."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.172",
         "Data":  "2026-11-14 02:55",
         "Titulo":  "Painel de Autodiagnostico enxuto: so as secoes do mockup,...",

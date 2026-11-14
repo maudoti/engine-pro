@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.173 | Autorreparo sempre visivel com estado positivo | 14/11/2026
+
+- **Melhoria**: Autorreparo sempre visivel com estado positivo.
+- **Melhoria**: Icones nos titulos do painel de Autodiagnostico.
+
 ## Versão 4.50.172 | Painel de Autodiagnostico enxuto: so as secoes do mockup,... | 14/11/2026
 
 - **Melhoria**: Painel de Autodiagnostico enxuto: so as secoes do mockup, sem historico de log cru.

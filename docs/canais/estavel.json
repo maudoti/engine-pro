@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.172",
-    "Instalador":  "EnginePro_Setup_4.50.172.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.172/EnginePro_Setup_4.50.172.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.172/EnginePro_Setup_4.50.172.exe.gz",
-    "SHA256":  "E19F7A9DDF91AF6739537FF6B4379D84E22D84583DFE7BC862BB7F0BA53A9EFE",
-    "Data":  "2026-11-14 02:55",
-    "Notas":  "Painel de Autodiagnostico enxuto: so as secoes do mockup, sem historico de log cru",
-    "Assinatura":  "Oa+54724QrqazxfUQXYFjPf8UjbHljGbl+o6VbAXSkVh/CIUuFewh0DbM37poa20pTQpH5TPeuqOira5S3ErMf9hkoEJFGFm0WaiayznTarS+7M1YcQ8XK6829xPP+bR0tczclXMs7O/naOqtOLzLiFoSsVMaDCGX1vagzsHCAEiJKVVp0q+SS9tedMYstoVY3AURWfdgixq6XIJ8/qT8an8HBAIcyCB6R3MQjxstTO/cgwA3lXCdv7K1zW0LZYUFIuEElEz3uy83LumGpEoMWsUxt6aIMG4w4eGG7IulQHVDIajm4oLbol1eLTKgvY12JFBwlYZ1b+iJo6Cx3TMgdz1s5ReUN/bGmp3VYoVtPTIZmSmC0ElhkcxMqXWB+BHDe3WgZ7B1iLbd3hSQOsV2Ivc8fZdAMWcW3/utI0rRGMKKspaANnmJzsEM44MGQxHshv9ofaSjSiKPQqj+Ud9Uhb6xPjJZQQpgfGxAdfVfCvjrzgpztisgx8MROH4+bX7"
+    "Versao":  "4.50.173",
+    "Instalador":  "EnginePro_Setup_4.50.173.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.173/EnginePro_Setup_4.50.173.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.173/EnginePro_Setup_4.50.173.exe.gz",
+    "SHA256":  "05B18C817FD8998231366EE6931C4C0B88C28B5DC8408F1E0F38EB6A2FA502BA",
+    "Data":  "2026-11-14 12:00",
+    "Notas":  "Autorreparo sempre visivel com estado positivo; icones nos titulos do painel de Autodiagnostico",
+    "Assinatura":  "AhBIlOINUsTHhjttkHyT8mrOr4TLRdwmZEsnwxfK+g7/P1vNj6jlc4nxOlXVobvEoaIjzbf1fK/0RVREHTs5hBnqD9cjZgMP1W1dHUDvffPdRsxo5/IYVeT783ugpRZXiKjFVD3AofAh+NyNjCijVuX3DJjhhcbZGPkAl/bnDXatOyISaWPQJkLzU1J+6QbDTBNHS/6z3bgIwAceANB9lgqZg6WHNJgF2C8nM9Agjf2UAKKqpRX9kPIzv4voy6WZCiHp1qg/1FwntPd6Lbek7IAaQqMQn8zh5UH3btrGvUtCqXfGDUsCOl178FNHrh3sclNoUSaRR0ylr3kqELUGWF3sYLaiTkh+M5o3hJALqpVjwCZlHh1wsxSsfiIujNAM7CuNFD2y0QU/MehNST+I1UNLSwrHul0G0IDnYzI/YXbrUQ/ayU0RXF9Apsio8er9pfLY9zrU/+9HaRuKsTf9KCaTsdeD5db6METgAAZKxFhfdpcw80WTkxWaMe1OUEHd"
 }
