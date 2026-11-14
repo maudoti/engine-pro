@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1588,
-    "Pesquisas":  18191,
-    "N48":  3478,
+    "Conhecimentos":  1589,
+    "Pesquisas":  18223,
+    "N48":  3510,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 02:26",
-                         "Texto":  "Nova versão 4.50.169 publicada: Painel de Autodiagnostico: cabecalho hero escuro com radar maior girando (aneis azuis, nucleo pulsando, ponto na orbita) e texto claro, no estilo do mockup",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 02:34:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Indexação do Windows (pesquisa) pesando",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:25:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 123 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 02:34:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 155 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:25:34",
+                         "Data":  "2026-11-14 02:34:19",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 526 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 558 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 02:26",
+                         "Texto":  "Nova versão 4.50.169 publicada: Painel de Autodiagnostico: cabecalho hero escuro com radar maior girando (aneis azuis, nucleo pulsando, ponto na orbita) e texto claro, no estilo do mockup",
                          "Nivel":  "info"
                      },
                      {
@@ -37,11 +42,6 @@
                      {
                          "Data":  "2026-11-14 01:49:15",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Limite de exibição de 5 mil itens do SharePoint",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 01:49:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive desatualizado",
                          "Nivel":  "ok"
                      },
                      {
@@ -70,37 +70,37 @@
                   0,
                   56,
                   76,
-                  86,
-                  108,
-                  100,
-                  269,
-                  185,
-                  226,
-                  223,
-                  236,
-                  188,
-                  117,
-                  51,
-                  54,
-                  55,
-                  55,
+                  101,
+                  93,
+                  135,
+                  235,
+                  224,
+                  221,
+                  212,
+                  250,
+                  186,
+                  97,
+                  35,
+                  72,
                   50,
-                  62,
-                  40,
-                  70,
-                  71,
-                  43,
+                  42,
+                  65,
+                  47,
+                  57,
+                  53,
+                  72,
+                  42,
                   67,
-                  79,
-                  78,
-                  74,
+                  105,
                   77,
+                  63,
                   95,
-                  148,
-                  226,
-                  213
+                  93,
+                  160,
+                  202,
+                  227
               ],
-    "Ultima":  "2026-11-14 02:25:58",
-    "Gerado":  "2026-11-14 02:27:04",
-    "Data":  "2026-11-14 02:27"
+    "Ultima":  "2026-11-14 02:34:19",
+    "Gerado":  "2026-11-14 02:37:03",
+    "Data":  "2026-11-14 02:37"
 }
