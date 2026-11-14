@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.162 | Quarentena obrigatoria para todo e qualquer e-mail (nada ... | 13/11/2026
+
+- **Melhoria**: Quarentena obrigatoria para todo e qualquer e-mail (nada sai sem aprovacao do TI).
+- **Melhoria**: Mais relatorio semanal, quadro de avisos verde, disco por SMART, dedupe, status dos pontos e macro autonoma.
+
 ## Versão 4.50.161 | Disco so acusa defeito com SMART confirmado (superficie e... | 13/11/2026
 
 - **Melhoria**: Disco so acusa defeito com SMART confirmado (superficie e software, a IA faz).

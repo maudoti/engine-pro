@@ -5,9 +5,9 @@
     "N48":  2921,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 23:36:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007016A (ERROR_CLOUD_FILE_PROVIDER_NOT_RUNNING) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 23:38",
+                         "Texto":  "Nova versão 4.50.162 publicada: Quarentena obrigatoria para todo e qualquer e-mail (nada sai sem aprovacao do TI)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-13 23:36:28",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 23:36:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Data":  "2026-11-13 23:36:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007016A (ERROR_CLOUD_FILE_PROVIDER_NOT_RUNNING) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 2572 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 23:36:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 23:35:37",
@@ -37,11 +42,6 @@
                      {
                          "Data":  "2026-11-13 23:35:37",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 23:01",
-                         "Texto":  "Nova versão 4.50.161 publicada: Disco so acusa defeito com SMART confirmado (superficie e software, a IA faz)",
                          "Nivel":  "info"
                      },
                      {
@@ -76,31 +76,31 @@
                   101,
                   93,
                   135,
-                  235,
-                  224,
-                  221,
-                  212,
-                  250,
+                  244,
+                  215,
+                  227,
+                  218,
+                  238,
                   186,
                   97,
                   35,
                   72,
                   50,
-                  42,
-                  65,
+                  51,
+                  56,
                   47,
                   57,
                   53,
                   72,
-                  42,
-                  67,
-                  105,
-                  77,
+                  51,
+                  58,
+                  109,
+                  73,
                   63,
                   95,
                   93
               ],
     "Ultima":  "2026-11-13 23:35:37",
-    "Gerado":  "2026-11-13 23:37:03",
-    "Data":  "2026-11-13 23:37"
+    "Gerado":  "2026-11-13 23:38:18",
+    "Data":  "2026-11-13 23:38"
 }

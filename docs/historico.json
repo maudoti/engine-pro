@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.162",
+        "Data":  "2026-11-13 23:38",
+        "Titulo":  "Quarentena obrigatoria para todo e qualquer e-mail (nada ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Quarentena obrigatoria para todo e qualquer e-mail (nada sai sem aprovacao do TI)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Mais relatorio semanal, quadro de avisos verde, disco por SMART, dedupe, status dos pontos e macro autonoma."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.161",
         "Data":  "2026-11-13 23:01",
         "Titulo":  "Disco so acusa defeito com SMART confirmado (superficie e...",
