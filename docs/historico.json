@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.171",
+        "Data":  "2026-11-14 02:50",
+        "Titulo":  "Painel de Autodiagnostico com secao Subsistemas do progra...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Painel de Autodiagnostico com secao Subsistemas do programa e faixa na Autoprotecao, igual ao mockup."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.170",
         "Data":  "2026-11-14 02:38",
         "Titulo":  "Painel de Autodiagnostico em tema escuro igual ao mockup",

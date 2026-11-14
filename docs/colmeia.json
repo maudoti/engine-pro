@@ -5,8 +5,8 @@
     "N48":  3552,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 02:46:53",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-14 02:50",
+                         "Texto":  "Nova versão 4.50.171 publicada: Painel de Autodiagnostico com secao Subsistemas do programa e faixa na Autoprotecao, igual ao mockup",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 02:38",
-                         "Texto":  "Nova versão 4.50.170 publicada: Painel de Autodiagnostico em tema escuro igual ao mockup",
+                         "Data":  "2026-11-14 02:46:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -67,18 +67,18 @@
                   0,
                   0,
                   0,
-                  0,
-                  79,
+                  18,
+                  61,
                   78,
-                  100,
-                  77,
-                  166,
-                  237,
-                  221,
-                  214,
-                  214,
+                  109,
+                  83,
+                  158,
+                  247,
+                  204,
+                  230,
                   219,
-                  217,
+                  221,
+                  194,
                   64,
                   48,
                   59,
@@ -88,19 +88,19 @@
                   65,
                   39,
                   77,
-                  48,
-                  65,
+                  64,
+                  49,
                   75,
                   101,
-                  50,
-                  73,
-                  85,
-                  93,
-                  206,
-                  211,
+                  64,
+                  64,
+                  86,
+                  87,
+                  210,
+                  207,
                   214
               ],
     "Ultima":  "2026-11-14 02:46:53",
-    "Gerado":  "2026-11-14 02:47:03",
-    "Data":  "2026-11-14 02:47"
+    "Gerado":  "2026-11-14 02:50:04",
+    "Data":  "2026-11-14 02:50"
 }

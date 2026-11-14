@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.171 | Painel de Autodiagnostico com secao Subsistemas do progra... | 14/11/2026
+
+- **Melhoria**: Painel de Autodiagnostico com secao Subsistemas do programa e faixa na Autoprotecao, igual ao mockup.
+
 ## Versão 4.50.170 | Painel de Autodiagnostico em tema escuro igual ao mockup | 14/11/2026
 
 - **Melhoria**: Painel de Autodiagnostico em tema escuro igual ao mockup.
