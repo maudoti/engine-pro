@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1584,
-    "Pesquisas":  18051,
-    "N48":  3338,
+    "Conhecimentos":  1588,
+    "Pesquisas":  18056,
+    "N48":  3343,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 01:45:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Nome de arquivo não permitido",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 01:56:50",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 01:45:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive usando muito processador ou memória",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 01:56:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 171 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 01:45:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive pausado",
+                         "Data":  "2026-11-14 01:49:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos ~$ que não sincronizam",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 386 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 391 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 01:44:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 166 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 01:49:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive desatualizado",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 01:44:24",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 01:49:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Limite de exibição de 5 mil itens do SharePoint",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-14 01:33",
@@ -68,39 +68,39 @@
                   0,
                   0,
                   0,
-                  0,
-                  79,
+                  31,
+                  48,
                   78,
-                  100,
-                  77,
-                  166,
-                  237,
+                  121,
+                  71,
+                  175,
+                  248,
                   221,
-                  214,
-                  214,
-                  219,
-                  217,
+                  218,
+                  215,
+                  225,
+                  206,
+                  29,
+                  48,
+                  80,
+                  32,
                   64,
-                  48,
-                  59,
                   50,
-                  67,
-                  40,
-                  65,
-                  39,
-                  77,
-                  48,
-                  65,
+                  55,
+                  66,
+                  50,
+                  69,
+                  44,
                   75,
                   101,
-                  50,
-                  73,
-                  85,
-                  93,
-                  206,
-                  211
+                  79,
+                  65,
+                  96,
+                  91,
+                  218,
+                  174
               ],
-    "Ultima":  "2026-11-14 01:44:40",
-    "Gerado":  "2026-11-14 01:47:04",
-    "Data":  "2026-11-14 01:47"
+    "Ultima":  "2026-11-14 01:56:50",
+    "Gerado":  "2026-11-14 01:57:03",
+    "Data":  "2026-11-14 01:57"
 }
