@@ -1,16 +1,16 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1568,
-    "Pesquisas":  17944,
-    "N48":  3231,
+    "Conhecimentos":  1574,
+    "Pesquisas":  17978,
+    "N48":  3265,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 01:16:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 59 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 01:26:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 93 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 01:16:51",
+                         "Data":  "2026-11-14 01:26:48",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 00:59:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 220 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 01:20:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos só na nuvem (sob demanda) não abrem sem internet",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 279 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 313 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-14 00:56:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000011B (PRINT_RPC_PRIVACY) no Windows",
+                         "Data":  "2026-11-14 01:20:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 00:56:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000709 (ERROR_INVALID_PRINTER_NAME) no Windows",
+                         "Data":  "2026-11-14 01:20:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Cópias em conflito (arquivo com o nome do computador)",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 00:56:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-14 00:59:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 220 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-13 23:50",
@@ -70,37 +70,37 @@
                   0,
                   0,
                   56,
-                  51,
-                  87,
+                  76,
+                  86,
                   108,
-                  89,
-                  264,
-                  189,
-                  225,
-                  226,
-                  232,
-                  193,
-                  150,
-                  38,
-                  42,
-                  80,
-                  32,
-                  73,
-                  36,
-                  66,
-                  44,
-                  77,
-                  63,
-                  37,
-                  87,
                   100,
-                  64,
-                  87,
+                  269,
+                  185,
+                  226,
+                  223,
+                  236,
+                  188,
+                  117,
+                  51,
+                  54,
+                  55,
+                  55,
+                  50,
+                  62,
+                  40,
+                  70,
+                  71,
+                  43,
+                  67,
+                  79,
+                  78,
                   74,
-                  126,
-                  235
+                  77,
+                  95,
+                  148,
+                  226
               ],
-    "Ultima":  "2026-11-14 01:16:58",
-    "Gerado":  "2026-11-14 01:17:03",
-    "Data":  "2026-11-14 01:17"
+    "Ultima":  "2026-11-14 01:26:54",
+    "Gerado":  "2026-11-14 01:27:03",
+    "Data":  "2026-11-14 01:27"
 }
