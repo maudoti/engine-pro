@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.167",
+        "Data":  "2026-11-14 02:11",
+        "Notas":  "Painel de Autodiagnostico novo: cabecalho com animacao de scan (aneis, nucleo pulsando e ponto girando), dedicado ao programa, com secoes de Autoprotecao e Autorreparo; disponivel em todas as maquinas",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.167/EnginePro_Setup_4.50.167.exe"
+    },
+    {
         "Versao":  "4.50.166",
         "Data":  "2026-11-14 02:03",
         "Notas":  "Relatorio semanal passa a disparar (corrige marca de estado que travava a recuperacao inicial); log de auditoria da quarentena; gatilho de drenagem baixado de 15 para 3 alertas represados",

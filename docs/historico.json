@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.167",
+        "Data":  "2026-11-14 02:11",
+        "Titulo":  "Painel de Autodiagnostico novo: cabecalho com animacao de...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Painel de Autodiagnostico novo: cabecalho com animacao de scan (aneis, nucleo pulsando e ponto girando), dedicado ao programa, com secoes de Autoprotecao e Autorreparo."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Disponivel em todas as maquinas."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.166",
         "Data":  "2026-11-14 02:03",
         "Titulo":  "Relatorio semanal passa a disparar (corrige marca de esta...",

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.167 | Painel de Autodiagnostico novo: cabecalho com animacao de... | 14/11/2026
+
+- **Melhoria**: Painel de Autodiagnostico novo: cabecalho com animacao de scan (aneis, nucleo pulsando e ponto girando), dedicado ao programa, com secoes de Autoprotecao e Autorreparo.
+- **Melhoria**: Disponivel em todas as maquinas.
+
 ## Versão 4.50.166 | Relatorio semanal passa a disparar (corrige marca de esta... | 14/11/2026
 
 - **Correção**: Relatorio semanal passa a disparar (corrige marca de estado que travava a recuperacao inicial).
