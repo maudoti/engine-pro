@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.178",
+        "Data":  "2026-11-14 18:48",
+        "Titulo":  "IA reinstala OneDrive (cloud-only em disco cheio)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "IA reinstala OneDrive (cloud-only em disco cheio)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Arquivamento do Outlook 24m em PST fora do OneDrive."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.177",
         "Data":  "2026-11-14 18:29",
         "Titulo":  "Disco sem contradicao",

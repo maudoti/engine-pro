@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.178 | IA reinstala OneDrive (cloud-only em disco cheio) | 14/11/2026
+
+- **Melhoria**: IA reinstala OneDrive (cloud-only em disco cheio).
+- **Melhoria**: Arquivamento do Outlook 24m em PST fora do OneDrive.
+
 ## Versão 4.50.177 | Disco sem contradicao | 14/11/2026
 
 - **Melhoria**: Disco sem contradicao.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.177",
-    "Instalador":  "EnginePro_Setup_4.50.177.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.177/EnginePro_Setup_4.50.177.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.177/EnginePro_Setup_4.50.177.exe.gz",
-    "SHA256":  "C2F47C1574E564B8399E83C675C3C677EB3AD5F13ECABD971041EFAA0FC4351A",
-    "Data":  "2026-11-14 18:29",
-    "Notas":  "Disco sem contradicao; dedup do que fiz; Windows Update reparado pela IA; robo Previne/Ajuda no rodape",
-    "Assinatura":  "lMVc4ImNqkgoMUYIPVoaeRpTfZBSMEXjUavPH1yert3vzgLw1zDpGl2L/qHbvHLAZtEWTqYVTamx+pPDbp2GQX77fznj4gEfPTTSa6qwlq3q/FEDizuY/HqSySxyEeswWQQcdqKhfq1/I5o6qN++2ccPeKrKByGSPGj94u2MH/3FsojDhmwHMM+1CAGbIXdEWvDuXZwRml6eim8Jbx5axLz+78vl5qMAxgqjClpHzZi0+cn0uJiMO9aYZgqN+jJTS3hQKJTmpY0GjfAyfYOU4FxFsFXh/y/auH3PcwNWLHGdbhEBEulZJUHQM9IXOOqNy1tJSl3Nw6fbaAl8x8gBiujkIHpE/YEGsa7TT30HqCOJTbVaBNFGtJ+MjdzQp4GoeoGyuAEUT3bzkXuMtt3fuq7sG+J8/tAv/BV9zinXyvyEmvpaKwmVcaSa6pqyoj8YtP38zqEWLUzfDM6EaVJMO5VKdqfbRAFNNEntUv2a3bVCyx2llKln0ffl4T9/OxBi"
+    "Versao":  "4.50.178",
+    "Instalador":  "EnginePro_Setup_4.50.178.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.178/EnginePro_Setup_4.50.178.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.178/EnginePro_Setup_4.50.178.exe.gz",
+    "SHA256":  "3C3F9ECDAF7BE894CA3F7DAEBB04C605B8A09BCF24123BBFDCD0521AB5CEB956",
+    "Data":  "2026-11-14 18:48",
+    "Notas":  "IA reinstala OneDrive (cloud-only em disco cheio); arquivamento do Outlook 24m em PST fora do OneDrive",
+    "Assinatura":  "VSA++OmmqU0T8sgaITmS3fWFgnaD5im9M2afXQgfBZHYjhGlmFZkQnmjegrwX/O8ZLp2SjQaFNgOcBwZ7i63Dhga1P1eZfkhgZyDpjKekIr5sEpeI6uwsz6FpEmoU7zHGGVjiarXORo80nIzA0p0THOU8fE40lfUKaJJYUKqSmq7zOPX9uo/w8cLHRXHse0CJEo01P5j3Qtcp9iPau39i73RD/MOOygnTXi85ivmmEX/vCp3V/B/Q+oDRVEKZ64WBI9xtl8jj8Mu4HLembshgUyOX6HX+3bHOt42o232g/b+YHlUcr5hHnaUvwdViHPP/jZaEf6zwDca+67gR3wJ77GhseABNFppp9iqW0pm0KZ4Lil+9rfvhpSXua4BMWB9SGcbVIR3f4ym3I8UksGyYNUAStLm55kYath6JCzxaD6zkGXUFA/kfgrcpzD8sqnvyCt6ENJWh0sUSggeLKpozyB7g+hTi/8gQMaeXADhtQ1l7qcOTmxRZNLe1Ag65GOq"
 }
