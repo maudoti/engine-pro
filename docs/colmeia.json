@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1686,
-    "Pesquisas":  19172,
-    "N48":  4459,
+    "Pesquisas":  19197,
+    "N48":  4484,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-14 07:55:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Data":  "2026-11-14 08:16:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Computadores fora do domínio não se enxergam na rede",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 07:55:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 97 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-14 08:16:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE90 (ONEDRIVE_NOT_SET_UP) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-14 07:55:04",
+                         "Data":  "2026-11-14 08:16:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1532 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 08:14:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-14 08:14:48",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1507 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-14 07:20:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80040119 (MAPI_E_UNKNOWN) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 07:20:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-14 06:59:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 193 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-14 07:55:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 97 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -62,45 +62,45 @@
                   0,
                   0,
                   0,
-                  31,
-                  76,
-                  65,
-                  130,
-                  47,
-                  247,
-                  212,
-                  222,
+                  56,
+                  51,
+                  87,
+                  108,
+                  89,
+                  264,
+                  189,
                   225,
                   226,
-                  206,
-                  170,
-                  51,
+                  232,
+                  193,
+                  150,
+                  38,
                   42,
-                  64,
-                  46,
-                  70,
-                  37,
-                  48,
+                  80,
+                  32,
+                  73,
+                  36,
                   66,
+                  44,
                   77,
-                  42,
-                  58,
+                  63,
+                  37,
                   87,
                   100,
-                  54,
-                  97,
                   64,
-                  96,
-                  249,
-                  179,
-                  213,
-                  187,
-                  211,
-                  197,
+                  87,
+                  74,
+                  126,
+                  235,
+                  201,
+                  177,
+                  186,
+                  241,
                   194,
-                  73
+                  156,
+                  98
               ],
-    "Ultima":  "2026-11-14 07:55:04",
-    "Gerado":  "2026-11-14 08:07:03",
-    "Data":  "2026-11-14 08:07"
+    "Ultima":  "2026-11-14 08:14:48",
+    "Gerado":  "2026-11-14 08:17:03",
+    "Data":  "2026-11-14 08:17"
 }
