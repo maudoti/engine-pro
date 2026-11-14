@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.169 | Painel de Autodiagnostico: cabecalho hero escuro com rada... | 14/11/2026
+
+- **Melhoria**: Painel de Autodiagnostico: cabecalho hero escuro com radar maior girando (aneis azuis, nucleo pulsando, ponto na orbita) e texto claro, no estilo do mockup.
+
 ## Versão 4.50.168 | Painel de Autodiagnostico blindado: abre mesmo se a anima... | 14/11/2026
 
 - **Correção**: Painel de Autodiagnostico blindado: abre mesmo se a animacao falhar.
