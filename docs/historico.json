@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.170",
+        "Data":  "2026-11-14 02:38",
+        "Titulo":  "Painel de Autodiagnostico em tema escuro igual ao mockup",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Painel de Autodiagnostico em tema escuro igual ao mockup."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Textos do cabecalho e do rodape ajustados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.169",
         "Data":  "2026-11-14 02:26",
         "Titulo":  "Painel de Autodiagnostico: cabecalho hero escuro com rada...",

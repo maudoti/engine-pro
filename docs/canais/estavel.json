@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.169",
-    "Instalador":  "EnginePro_Setup_4.50.169.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.169/EnginePro_Setup_4.50.169.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.169/EnginePro_Setup_4.50.169.exe.gz",
-    "SHA256":  "BE0288DBA669274AAD63E55883237F74CDCA7F95549149904DC9C19D24C96B5E",
-    "Data":  "2026-11-14 02:26",
-    "Notas":  "Painel de Autodiagnostico: cabecalho hero escuro com radar maior girando (aneis azuis, nucleo pulsando, ponto na orbita) e texto claro, no estilo do mockup",
-    "Assinatura":  "RTL/fERDiW7t8+smLNdQw6Bzt7FjDL2cZgPgkYMGovj68Ppgo9hCzJKrPLI19GwLW3M6RmWVsBSsldv5Id7xdHHTRqbuxRnyaWqjpEu+ot2kvfITRW7Tl6AOIlpBPCd92GaEp4E0eENgG5Xvs6DkWRJIaeEjZp8N23vXOAfmUCMC2ooQqY12bYNWAdeCuJS1OmRPsej2l+ozvYWlTpbPApRYeUxhOFtCgNxCv6T4LipZ9A6ZDnK3XHANGbPpd0KEJTNop54YlXWtIv2vXJPAV1x2XOPGP0vQ6kVYmW7lGjJGyNwrxJpuay0TzN9e82qRdX32RlI/UuEmWxethqB1mGvSGcbTgsjUrd0LSmGr1CkAS5YjnsgZ5lyUBDykHDC+zrONIPGx0yHsn16AIBny6wFhewFzarBIMox1MJKuQGq0IrJAiyQP60w5OWaUvR8Zqif3RUhXUpIJJOsCXKLYcvRmL92cT5PpnWabreDuchBov93uaVHoEtnoac0g/61k"
+    "Versao":  "4.50.170",
+    "Instalador":  "EnginePro_Setup_4.50.170.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.170/EnginePro_Setup_4.50.170.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.170/EnginePro_Setup_4.50.170.exe.gz",
+    "SHA256":  "476899F9E8623DE512684DD17A6AB5BCC693B99656740EB4AE6135D919EEB135",
+    "Data":  "2026-11-14 02:38",
+    "Notas":  "Painel de Autodiagnostico em tema escuro igual ao mockup; textos do cabecalho e do rodape ajustados",
+    "Assinatura":  "HTVWDKI/vESAUge9Cf7tCEW4vaeo4xfHkUeOcFYhAJ+RgVbGdfid6jpjBe+AGm/qLyX3DCRL8UTeB2XrgAL4BBex/Z/xmr/8CdnOCKfw6k91GeEREbrDV6i9NzoRhS9q/UNOcDPqCsRYhu4JFmXQ5pW29Bly/Dm1Ls5zextmRGlUc5JHfXJuWuWv4GMLu80eS4GZHsHFOBuTau3KSXkNkXhreTly6iJ3pasdwotEWiugExoOmxWEAtDfNAK5ankgzbM97Z8Y3SmiG3Bn3Xzn63v/PhRwPCu/McUDxXYavf3wrMpCJzg4712VamNbr45gWiCW3Oh2UcnI3NBnBKImTNb0GXI1RKMk+yAEInU8M4NJcbVjoylh2U665Zhc6n/kt16EPH/t9BzweGXVj/qAwVgwy6Qfp/lMyO8+kOJoGal08Ycoe3YdWsgElFJKhH8gfPlrQBGQpZL+u2shiGgZC44ypbMvSw9qTNg0Pl/xBr4PwatWTEIvvZYvKMXoW/8V"
 }

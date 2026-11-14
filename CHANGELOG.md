@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.170 | Painel de Autodiagnostico em tema escuro igual ao mockup | 14/11/2026
+
+- **Melhoria**: Painel de Autodiagnostico em tema escuro igual ao mockup.
+- **Melhoria**: Textos do cabecalho e do rodape ajustados.
+
 ## Versão 4.50.169 | Painel de Autodiagnostico: cabecalho hero escuro com rada... | 14/11/2026
 
 - **Melhoria**: Painel de Autodiagnostico: cabecalho hero escuro com radar maior girando (aneis azuis, nucleo pulsando, ponto na orbita) e texto claro, no estilo do mockup.
