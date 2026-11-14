@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.174 | Dreno respeita Retry-After e avisa o TI no quadro se trav... | 14/11/2026
+
+- **Melhoria**: Dreno respeita Retry-After e avisa o TI no quadro se travar mais de 2h.
+- **Melhoria**: Pausa de cota da COLMEIA.
+
 ## Versão 4.50.173 | Autorreparo sempre visivel com estado positivo | 14/11/2026
 
 - **Melhoria**: Autorreparo sempre visivel com estado positivo.

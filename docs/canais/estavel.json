@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.173",
-    "Instalador":  "EnginePro_Setup_4.50.173.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.173/EnginePro_Setup_4.50.173.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.173/EnginePro_Setup_4.50.173.exe.gz",
-    "SHA256":  "05B18C817FD8998231366EE6931C4C0B88C28B5DC8408F1E0F38EB6A2FA502BA",
-    "Data":  "2026-11-14 12:00",
-    "Notas":  "Autorreparo sempre visivel com estado positivo; icones nos titulos do painel de Autodiagnostico",
-    "Assinatura":  "AhBIlOINUsTHhjttkHyT8mrOr4TLRdwmZEsnwxfK+g7/P1vNj6jlc4nxOlXVobvEoaIjzbf1fK/0RVREHTs5hBnqD9cjZgMP1W1dHUDvffPdRsxo5/IYVeT783ugpRZXiKjFVD3AofAh+NyNjCijVuX3DJjhhcbZGPkAl/bnDXatOyISaWPQJkLzU1J+6QbDTBNHS/6z3bgIwAceANB9lgqZg6WHNJgF2C8nM9Agjf2UAKKqpRX9kPIzv4voy6WZCiHp1qg/1FwntPd6Lbek7IAaQqMQn8zh5UH3btrGvUtCqXfGDUsCOl178FNHrh3sclNoUSaRR0ylr3kqELUGWF3sYLaiTkh+M5o3hJALqpVjwCZlHh1wsxSsfiIujNAM7CuNFD2y0QU/MehNST+I1UNLSwrHul0G0IDnYzI/YXbrUQ/ayU0RXF9Apsio8er9pfLY9zrU/+9HaRuKsTf9KCaTsdeD5db6METgAAZKxFhfdpcw80WTkxWaMe1OUEHd"
+    "Versao":  "4.50.174",
+    "Instalador":  "EnginePro_Setup_4.50.174.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.174/EnginePro_Setup_4.50.174.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.174/EnginePro_Setup_4.50.174.exe.gz",
+    "SHA256":  "2B1C7816AEF01670BA6F1868FC8B2A4ABB3A42E0BABF421B7DC9785D283FF886",
+    "Data":  "2026-11-14 14:08",
+    "Notas":  "Dreno respeita Retry-After e avisa o TI no quadro se travar mais de 2h; pausa de cota da COLMEIA",
+    "Assinatura":  "sh74RAk0SuFLTgxF4B/bisPiT0HkQgiGEK+aFu373sgmFmOXk11IMp7V20WquKLQSop7IifYZGuguae8pqKOgLM6DSznlfgWz8yxn38X2AIOMe1YGKJu79bCrKYRm5eZuc6E3Q7tZ9EPsa5t1w/0CblsPgEZatz0Q5MMZWqOHEuCSc1hn+rvkKKAPRHlDNg0MseBHUlibWiD/ARCeYQuS0DU8mVIch9vajdTFEtrhJmBg+CDxrVGp8FEo6PEZzqGCLdWVRuh0rWoZ8SmWyL8ax967gz4kDwwqRodFI7HHPA7i80VhMf87KQF+DBiAabs5mLZmJyD3zsht6Qrlo5FekvzaGpzOyWzUxKLoRgVAJqhqMdzhLW1q25cedfp0N/WyYNilvvhD/lB5ayNGPEmupy3UluiOOD8jEwD3i/tlhfWQvTKm0m+TXTzLluWZY+dtn9SH8HMJYO7p09uQ0Tf9Dr00Ymsk4EAeboykLn/netpbGBW+3c/8ZCdI2NGZzG/"
 }

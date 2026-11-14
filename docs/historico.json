@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.174",
+        "Data":  "2026-11-14 14:08",
+        "Titulo":  "Dreno respeita Retry-After e avisa o TI no quadro se trav...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Dreno respeita Retry-After e avisa o TI no quadro se travar mais de 2h."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Pausa de cota da COLMEIA."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.173",
         "Data":  "2026-11-14 12:00",
         "Titulo":  "Autorreparo sempre visivel com estado positivo",
