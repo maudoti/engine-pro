@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.50.161",
+        "Data":  "2026-11-13 23:01",
+        "Titulo":  "Disco so acusa defeito com SMART confirmado (superficie e...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Disco so acusa defeito com SMART confirmado (superficie e software, a IA faz)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Dedupe das acoes."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Status em cada ponto aberto."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Liberar macro (Locais Confiaveis) sozinho e em massa."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.160",
         "Data":  "2026-11-13 18:01",
         "Titulo":  "Monitor de sessao auto-reiniciavel: tarefa de logon repet...",

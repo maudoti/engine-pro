@@ -5,8 +5,8 @@
     "N48":  2860,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-13 22:53:49",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-13 23:01",
+                         "Texto":  "Nova versão 4.50.161 publicada: Disco so acusa defeito com SMART confirmado (superficie e software, a IA faz)",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-13 22:35:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-13 22:53:49",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 2511 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-13 22:35:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-13 22:05:27",
@@ -42,11 +47,6 @@
                      {
                          "Data":  "2026-11-13 21:59:27",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 71 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-13 18:01",
-                         "Texto":  "Nova versão 4.50.160 publicada: Monitor de sessao auto-reiniciavel: tarefa de logon repete a cada 3 min e reinicia em falha",
                          "Nivel":  "info"
                      }
                  ],
@@ -72,35 +72,35 @@
                   0,
                   0,
                   31,
-                  48,
+                  53,
+                  73,
+                  145,
+                  47,
+                  203,
+                  256,
+                  185,
+                  235,
+                  233,
+                  223,
+                  173,
+                  51,
+                  28,
                   78,
-                  121,
-                  71,
-                  175,
-                  248,
-                  221,
-                  218,
-                  215,
-                  225,
-                  206,
-                  29,
+                  42,
+                  54,
+                  57,
                   48,
-                  80,
-                  32,
-                  64,
-                  50,
-                  55,
                   66,
                   50,
                   69,
-                  44,
-                  75,
+                  58,
+                  61,
                   101,
                   79,
-                  65,
-                  96
+                  76,
+                  85
               ],
     "Ultima":  "2026-11-13 22:53:49",
-    "Gerado":  "2026-11-13 22:57:03",
-    "Data":  "2026-11-13 22:57"
+    "Gerado":  "2026-11-13 23:01:57",
+    "Data":  "2026-11-13 23:01"
 }
