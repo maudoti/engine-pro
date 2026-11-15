@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.211",
+        "Data":  "2026-11-15 10:44",
+        "Titulo":  "Kit 640",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Kit 640."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.210",
         "Data":  "2026-11-15 10:40",
         "Titulo":  "Kit 639",
