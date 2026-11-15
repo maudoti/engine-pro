@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.184 | Corrige quarentena vazia (remove descarte de 6h | 14/11/2026
+
+- **Correção**: Corrige quarentena vazia (remove descarte de 6h.
+- **Melhoria**: Todo chamado vai para a quarentena, backlog drena 30/ciclo) + monitor de engasgos e travamentos + relatorio sempre-semanal.
+
 ## Versão 4.50.183 | Monitor de travamentos: detecta engasgos de video (tela c... | 14/11/2026
 
 - **Melhoria**: Monitor de travamentos: detecta engasgos de video (tela congela e volta, TDR 4101/4102) com atualizacao de driver no ocio, e travamento total (reset no botao) a partir de 2 ocorrencias.

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.183",
-    "Instalador":  "EnginePro_Setup_4.50.183.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.183/EnginePro_Setup_4.50.183.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.183/EnginePro_Setup_4.50.183.exe.gz",
-    "SHA256":  "73F4DBB47C439D8F5A96A7B74708388628967BC5A92718E6897BC81113BC2850",
-    "Data":  "2026-11-14 22:00",
-    "Notas":  "Monitor de travamentos: detecta engasgos de video (tela congela e volta, TDR 4101/4102) com atualizacao de driver no ocio, e travamento total (reset no botao) a partir de 2 ocorrencias",
-    "Assinatura":  "Uyz0gmLDEwWI2QzzRhr1L16gs+zsogBvKXRSsCYZuf1jhMiAB+cB3JiHEJ31kb1eeGgz3CRnB5KxwGT6IP6rHif+cLWmP0vQAjpr8t4024uJV1ZDJISY2uMJ1iD5x/kqgVZAGZ6D0K0NehnazpEn3szzUgEVv2QCMflGejm+EyWw2fdKA9iwy93qfbzgqaZqx8e6gZIXKBO8oA7PVczIax87toL4GppwGoyT5rDUR+ZXCG3S3UAsKY3uBoauvujriioR1cpyCB5YI2oHwwawAduuNVQi/HFIRumRvt8EmuMUeSoXf/fUXSBQT5YMPK2pDvkydaen6xsr0ZZvR/Xc4aEInWEFHgAp2FxO955QoFgndAwEVpKwFfB24gckbhDNTjzaLwnnNyHSBZh2bTKvDLQTrBq/ZvjqPz6l8Igca5LlNRRA4A4x7o0KWa4U0PO08skBzld53iF/liWq/1wszAOPpGVKdfzo23deyqsNnqkPCUQiYQyTFtZj8hSAsCg1"
+    "Versao":  "4.50.184",
+    "Instalador":  "EnginePro_Setup_4.50.184.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.184/EnginePro_Setup_4.50.184.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.184/EnginePro_Setup_4.50.184.exe.gz",
+    "SHA256":  "3A009C430E251FC7488807C8069E4F559BD73328E8652753629F6C2D6A790B5C",
+    "Data":  "2026-11-14 22:09",
+    "Notas":  "Corrige quarentena vazia (remove descarte de 6h; todo chamado vai para a quarentena, backlog drena 30/ciclo) + monitor de engasgos e travamentos + relatorio sempre-semanal",
+    "Assinatura":  "EWZDNLUeCpMHOa0RvLQjJHslU+FqpN5pgcE5qyzr31T2JbC3aUpZAclHszG1ck5BKtoOfqwYEFJeGqfQ2Ivbe25pkCemLoV1DFznLjP1SmWgElOfTksjTq+ZRXXXORu/5/OUDSDHNh9ULl0qivFYdzDr1rIe7vLn/htZ28ACZ7ct5iQs280XNdKEudgDq3wWn0RsYolB2IEKIkmDFb3pJMEE/qMGi32wFlOMk0qNKALnS+LN1FHmD5Dcen7UiSY18842usFM76IzNYgXd+Q6AePX4ZIfrmf816RuYo44+KkMejpKn40VjyrX9hfmbrLxsrhd53HtxbG0z0j0t+jS8FSNP6ZLuW163/a+Ylt4hP+DNRUq6z14SWxlqUAsiJW8DuqlDrQRQyg73qzdFRRZjvGEEqCFidy3P1lojknDFTtsx45DEbKLfHl5VyDFhfoQvnSWaBox5SiOBFEGeugRFBj2fYUVRE+nSqg844n1D7uuSTfaN/PObzpS0KX8PW4x"
 }

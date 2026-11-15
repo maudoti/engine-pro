@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.184",
+        "Data":  "2026-11-14 22:09",
+        "Titulo":  "Corrige quarentena vazia (remove descarte de 6h",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige quarentena vazia (remove descarte de 6h."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Todo chamado vai para a quarentena, backlog drena 30/ciclo) + monitor de engasgos e travamentos + relatorio sempre-semanal."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.183",
         "Data":  "2026-11-14 22:00",
         "Titulo":  "Monitor de travamentos: detecta engasgos de video (tela c...",

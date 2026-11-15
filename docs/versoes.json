@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.184",
+        "Data":  "2026-11-14 22:09",
+        "Notas":  "Corrige quarentena vazia (remove descarte de 6h; todo chamado vai para a quarentena, backlog drena 30/ciclo) + monitor de engasgos e travamentos + relatorio sempre-semanal",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.184/EnginePro_Setup_4.50.184.exe"
+    },
+    {
         "Versao":  "4.50.183",
         "Data":  "2026-11-14 22:00",
         "Notas":  "Monitor de travamentos: detecta engasgos de video (tela congela e volta, TDR 4101/4102) com atualizacao de driver no ocio, e travamento total (reset no botao) a partir de 2 ocorrencias",
