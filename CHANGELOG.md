@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.215 | Kit 643 | 15/11/2026
+
+- **Melhoria**: Kit 643.
+
 ## Versão 4.50.214 | Kit 643 | 15/11/2026
 
 - **Melhoria**: Kit 643.
