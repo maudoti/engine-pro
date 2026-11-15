@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.218",
+        "Data":  "2026-11-15 12:45",
+        "Notas":  "Atualizacao automatica (Kit 647)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.218/EnginePro_Setup_4.50.218.exe"
+    },
+    {
         "Versao":  "4.50.217",
         "Data":  "2026-11-15 12:43",
         "Notas":  "Atualizacao automatica (Kit 647)",
