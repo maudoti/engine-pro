@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.196 | Log do teste sem ruido (-ErrorAction nos escritores) | 15/11/2026
+
+- **Correção**: Log do teste sem ruido (-ErrorAction nos escritores).
+- **Melhoria**: Inclui reescrita por IA local (Ollama).
+
 ## Versão 4.50.195 | Reescrita por IA local (Ollama) dos textos | 15/11/2026
 
 - **Melhoria**: Reescrita por IA local (Ollama) dos textos.

@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.196",
+        "Data":  "2026-11-15 00:41",
+        "Titulo":  "Log do teste sem ruido (-ErrorAction nos escritores)",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Log do teste sem ruido (-ErrorAction nos escritores)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Inclui reescrita por IA local (Ollama)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.195",
         "Data":  "2026-11-15 00:36",
         "Titulo":  "Reescrita por IA local (Ollama) dos textos",

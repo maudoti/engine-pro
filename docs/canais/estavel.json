@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.195",
-    "Instalador":  "EnginePro_Setup_4.50.195.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.195/EnginePro_Setup_4.50.195.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.195/EnginePro_Setup_4.50.195.exe.gz",
-    "SHA256":  "7E9C5DA0A1967D914C67EED477605B8883A9C439E5EFD7233087F328452A8ABA",
-    "Data":  "2026-11-15 00:36",
-    "Notas":  "Reescrita por IA local (Ollama) dos textos; teste multilingue robusto",
-    "Assinatura":  "TVaqe4r/CcB4rRlVKodVQXgMNeTmWzgvbOjFgo8Gfggcx3NiZdZmWZ5ndsCyn9uNSmxkmVoF/uL3d3Q9DzEB0B+MkHBMhisXwxPpPpMTXJ2OXjHnECQ/pVA7ywd6BBM9uEkI6/XyI7Qo6YOHh9VtFrO6ySvHXWWeBQvQbAncn4qAR3oob/4ROG7Oo7wjKPN753L6aVkChNRqXGDTsD162HT+0j0St/Bw4BWru0FE5a1jgxc4KYeUrB1J5OI/okiKZDjGFYc1uaLgCDPgtjwtmT/6RToW8lFg+6xkgnXQ2cMhp215jU1CyKfWIEZi7f+AACvHyFphK76qwmbquscchnlrUbBLyNw+VSR4067y8j3GYOAzK5nm1Gag0Ed+a9vovSCgGOse5EjK7gk0TrIuYHjfpq/L8DWzoDySAu3MYRE62+tnkIhAvoU6vQsUj+RwqyEcm9EwmK13Bjh9KzGfxb9BjLoAjW1Uik+mSYzMnRyHQ9oBFTCVbc0xngyg/xoV"
+    "Versao":  "4.50.196",
+    "Instalador":  "EnginePro_Setup_4.50.196.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.196/EnginePro_Setup_4.50.196.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.196/EnginePro_Setup_4.50.196.exe.gz",
+    "SHA256":  "4BFD48F49BAD13F0A7E278C988E77D951E548244173A78FC5FD8CC688ABF57AB",
+    "Data":  "2026-11-15 00:41",
+    "Notas":  "Log do teste sem ruido (-ErrorAction nos escritores); inclui reescrita por IA local (Ollama)",
+    "Assinatura":  "Hx4hzytj0meEGcgo1u5RwqooLywGSVRrVEa1+pdhJOQwmAZgAqk/wPZNwC/Dbva2JLfvI7FBjiDSGukEaRCBx8MGOMVVTVSw8hBE+ilhgm/6lF80zHFyTiV813Yem5j42XEXJM9aW0WbQDcqVfp9e/l7cQrT4QnCKWUMe9Kl756M8Q/8mcnE/mpg+A29kT1JmvrGgJEK4crb5LkF8XjG4n8Nnsj6JG/ODcex0clb/K40l19c+pklg+gPqwZOr1KLPYmCSf9OLpdjsO7saiFIg+98KukyhN9EAz0P/C4b4o2ZJiABQt7hw/kmM+7t6oA76+aJYb0YyxBMeRz2612OOtaTH9W692dnRqgzjfJGAxN2b66k84udBYsPUir44DV15hMQRkfQDgVX2aq/+uZhM7meZFbd7LVcjih/D0p0Ew999e/PE6BYiDW11iSbQ+HG/Y1Dp7iBNnCrAsxt58wvqd1BaFp97u9+EJBVREngcjdNaUaSPEPcHPE/OLTfAqhO"
 }
