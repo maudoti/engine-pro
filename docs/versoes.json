@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.185",
+        "Data":  "2026-11-14 22:19",
+        "Notas":  "Recupera backlog de chamados para a quarentena: lista separada de quarentenados, le so abertos do mais antigo ao mais novo, drena 30/ciclo",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.185/EnginePro_Setup_4.50.185.exe"
+    },
+    {
         "Versao":  "4.50.184",
         "Data":  "2026-11-14 22:09",
         "Notas":  "Corrige quarentena vazia (remove descarte de 6h; todo chamado vai para a quarentena, backlog drena 30/ciclo) + monitor de engasgos e travamentos + relatorio sempre-semanal",

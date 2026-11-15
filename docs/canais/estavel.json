@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.184",
-    "Instalador":  "EnginePro_Setup_4.50.184.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.184/EnginePro_Setup_4.50.184.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.184/EnginePro_Setup_4.50.184.exe.gz",
-    "SHA256":  "3A009C430E251FC7488807C8069E4F559BD73328E8652753629F6C2D6A790B5C",
-    "Data":  "2026-11-14 22:09",
-    "Notas":  "Corrige quarentena vazia (remove descarte de 6h; todo chamado vai para a quarentena, backlog drena 30/ciclo) + monitor de engasgos e travamentos + relatorio sempre-semanal",
-    "Assinatura":  "EWZDNLUeCpMHOa0RvLQjJHslU+FqpN5pgcE5qyzr31T2JbC3aUpZAclHszG1ck5BKtoOfqwYEFJeGqfQ2Ivbe25pkCemLoV1DFznLjP1SmWgElOfTksjTq+ZRXXXORu/5/OUDSDHNh9ULl0qivFYdzDr1rIe7vLn/htZ28ACZ7ct5iQs280XNdKEudgDq3wWn0RsYolB2IEKIkmDFb3pJMEE/qMGi32wFlOMk0qNKALnS+LN1FHmD5Dcen7UiSY18842usFM76IzNYgXd+Q6AePX4ZIfrmf816RuYo44+KkMejpKn40VjyrX9hfmbrLxsrhd53HtxbG0z0j0t+jS8FSNP6ZLuW163/a+Ylt4hP+DNRUq6z14SWxlqUAsiJW8DuqlDrQRQyg73qzdFRRZjvGEEqCFidy3P1lojknDFTtsx45DEbKLfHl5VyDFhfoQvnSWaBox5SiOBFEGeugRFBj2fYUVRE+nSqg844n1D7uuSTfaN/PObzpS0KX8PW4x"
+    "Versao":  "4.50.185",
+    "Instalador":  "EnginePro_Setup_4.50.185.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.185/EnginePro_Setup_4.50.185.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.185/EnginePro_Setup_4.50.185.exe.gz",
+    "SHA256":  "91601AB607B6EDA21DFAF40F1939EB0C3A6ACB77CBA313071E80BBFCE7ACB7BF",
+    "Data":  "2026-11-14 22:19",
+    "Notas":  "Recupera backlog de chamados para a quarentena: lista separada de quarentenados, le so abertos do mais antigo ao mais novo, drena 30/ciclo",
+    "Assinatura":  "oMO2G8U7Ng+AxRV79EKJRRAG68nLjn7FXrtZ/Ch4ZFWkDCBjBsiqE2a18XBGSa6UlpcZEO+Ez/+hbX/ehaO80bVr44wUG9zMmo8hsz5SHIYCB/5ekKe3c0vG+4W9QxP38rS7sXSmiyfDv0h6iyr62mhZ9ZFxGuVlg88Hxb+AqbJ2sdvIa0uI+tbpH+Z4MtjSfEAniGec11i1z4GKwmpJAtckV5P4JdDDpPV46R9LwKQd4WOedr980bKXi1xWqslKWlgvjCDV8y8sIicIMvYhwfsbVh5EVogvQOO0pEahe82EMYalL9MJ5RM0V/8FVwLI5cL/cUFF9LqAPHSFvUNQw8Dyrqk16/OrTPZ+j3WWNi5B76WVDr0g93SC0PdV0U9RlziywZhlZXq6rmzNVTydjOv6VDLJnwxbfxB0J2FL5zekBqZTkD2c3NQAScLC7/LFAiMK0ciNu4mCfdqADg2az2h1eOx7eWF5sbbfJwRN3zV8rNBPA2u13nVEbAy3yn5f"
 }

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.185",
+        "Data":  "2026-11-14 22:19",
+        "Titulo":  "Recupera backlog de chamados para a quarentena: lista sep...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Recupera backlog de chamados para a quarentena: lista separada de quarentenados, le so abertos do mais antigo ao mais novo, drena 30/ciclo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.184",
         "Data":  "2026-11-14 22:09",
         "Titulo":  "Corrige quarentena vazia (remove descarte de 6h",

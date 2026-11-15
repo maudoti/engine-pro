@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.185 | Recupera backlog de chamados para a quarentena: lista sep... | 14/11/2026
+
+- **Melhoria**: Recupera backlog de chamados para a quarentena: lista separada de quarentenados, le so abertos do mais antigo ao mais novo, drena 30/ciclo.
+
 ## Versão 4.50.184 | Corrige quarentena vazia (remove descarte de 6h | 14/11/2026
 
 - **Correção**: Corrige quarentena vazia (remove descarte de 6h.
