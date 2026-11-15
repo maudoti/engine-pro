@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.208",
+        "Data":  "2026-11-15 09:58",
+        "Titulo":  "Reescrita ciente da estrutura (titulos/checks/dados prese...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reescrita ciente da estrutura (titulos/checks/dados preservados)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Usuario entre parenteses."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.207",
         "Data":  "2026-11-15 03:02",
         "Titulo":  "Agrupar por maquina lendo Computador/Maquina/pc",

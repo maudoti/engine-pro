@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.208 | Reescrita ciente da estrutura (titulos/checks/dados prese... | 15/11/2026
+
+- **Melhoria**: Reescrita ciente da estrutura (titulos/checks/dados preservados).
+- **Melhoria**: Usuario entre parenteses.
+
 ## Versão 4.50.207 | Agrupar por maquina lendo Computador/Maquina/pc | 15/11/2026
 
 - **Melhoria**: Agrupar por maquina lendo Computador/Maquina/pc.
