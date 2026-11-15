@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.204",
+        "Data":  "2026-11-15 02:43",
+        "Titulo":  "Dreno descarta perfil temporario (falso positivo)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Dreno descarta perfil temporario (falso positivo)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.203",
         "Data":  "2026-11-15 02:26",
         "Titulo":  "Correcao do colapso de lista grande (PS 5.1) no dreno de ...",

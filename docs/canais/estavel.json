@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.203",
-    "Instalador":  "EnginePro_Setup_4.50.203.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.203/EnginePro_Setup_4.50.203.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.203/EnginePro_Setup_4.50.203.exe.gz",
-    "SHA256":  "3FD684D76E0DAFE69071F6404C77C0118892287F8D215FDBB6EAE652EE14F94A",
-    "Data":  "2026-11-15 02:26",
-    "Notas":  "Correcao do colapso de lista grande (PS 5.1) no dreno de e-mails",
-    "Assinatura":  "g621plDMtYLQigu/EtvsPA7ODGWxILDlsBqDkIJ4A8uCgTby7aWIEz2FNx/3evVKJ7tgW+5Wd/Q4fMZkxJutgAbyA2RmDVEW8BLmU7BlmIRYNUHpEKBkxKb9tKQctMpKQZsjLYPC65H+0GICPqAwZzbmfzQvlHBjpA0Y4AFzblkTDJGQTDoSc0k+TRVYLfDlNyU0uCA7FvHG8PP5JdsInyxUmBdll2nHTFB7C91KIKl6oYzauBSEC/lXSDsiATmnYenQWvD6z8njKLbrnO9fy+7FRCvMHEXY9YAdJQovFGPXfsfwkkW3qJDtECA7HKb/bmjyGcdLAurHNWbUgFKkosySzH0A2iQdAU9GoBFCeLMfTdBauATfC56MqEfajiXv1uy5cJLfAdgVF7JlD8AP0jJo2bvrm/qhNjzpIAr0hX2tUAOdLlfkgcKu3rSD4WIdyebt4M4njHTUwFxUmfElS0piwLKDW0TDBNSh3m7Wh6ixeEsceRfcyPWmfDi8RhqC"
+    "Versao":  "4.50.204",
+    "Instalador":  "EnginePro_Setup_4.50.204.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.204/EnginePro_Setup_4.50.204.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.204/EnginePro_Setup_4.50.204.exe.gz",
+    "SHA256":  "3D641419EDE5317E456A5DC8F6DEB8DAB8F0721304D62B6C30E565ABA4AA5A82",
+    "Data":  "2026-11-15 02:43",
+    "Notas":  "Dreno descarta perfil temporario (falso positivo)",
+    "Assinatura":  "YbozK/Pl7AWLztRGUgTg89g9Mu4+YH9e1erLTWtB+Nm09+IluNIW4LX+of582A0qYHr3mW3iaHnOJa3yqeF7mCTPfKkGS4JTt2872z+hqI5UZ0OSXlmrwrQbBQVbHCdDJL2tcjn3vyoRMnKXhdPIn56wE1e3GiKMEZ2K8MkwHDWlcU8LtsxJl3pBjazF/8Di8rBkioM+VtHM5+GPjJJ8d3x7TEzCbYXI9iBQp0ZrMHaBst2NMdmX/fV+gWlnXoIezlNnFc9GULd3Mndmrz72pAqnMWCAHGbl1M7P5FrNRVMLUExcr/jPld8ZodiQTZSJ30yBT44m3Ole18FnlTfIj6x6/qT/ryGp88VzvI6nA3380NqrmZXjbupsllgq11x95c7UFeTLRiv8xutuJrA9BMqzAMB/YRioRwRliHPSd5ic/OcCEVqZfjwt8NEh67EmLl/d/0bPMXzhtASvpyEMMkKy3WIG04mEeeyxuTaLtq8C51loyYyiYClTvYvoqcTq"
 }

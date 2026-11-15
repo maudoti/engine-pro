@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.204",
+        "Data":  "2026-11-15 02:43",
+        "Notas":  "Dreno descarta perfil temporario (falso positivo)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.204/EnginePro_Setup_4.50.204.exe"
+    },
+    {
         "Versao":  "4.50.203",
         "Data":  "2026-11-15 02:26",
         "Notas":  "Correcao do colapso de lista grande (PS 5.1) no dreno de e-mails",
