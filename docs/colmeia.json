@@ -1,27 +1,37 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1744,
-    "Pesquisas":  20118,
-    "N48":  3320,
+    "Pesquisas":  20126,
+    "N48":  3303,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-15 11:27",
-                         "Texto":  "Nova versão 4.50.213 publicada: Atualizacao automatica (Kit 643)",
+                         "Data":  "2026-11-15 11:43",
+                         "Texto":  "Nova versão 4.50.214 publicada: Kit 643",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-15 11:38:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-15 10:58:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DEF7 (ONEDRIVE_QUOTA_SUSPENDED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 530 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-15 10:58:40",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Arquivo da rede \"em uso por outro usuário\"",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 522 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-15 10:58:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DEF7 (ONEDRIVE_QUOTA_SUSPENDED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -33,64 +43,59 @@
                          "Data":  "2026-11-15 10:56:29",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-15 09:55:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  65,
+                  40,
                   47,
                   57,
-                  53,
-                  72,
-                  42,
-                  67,
-                  105,
-                  77,
+                  62,
                   63,
-                  95,
+                  65,
+                  48,
+                  128,
+                  50,
+                  68,
+                  90,
                   93,
-                  160,
-                  202,
-                  227,
-                  177,
-                  193,
-                  202,
-                  196,
-                  153,
-                  63,
-                  55,
-                  42,
+                  190,
+                  216,
+                  192,
+                  184,
+                  189,
+                  197,
+                  214,
+                  128,
+                  76,
+                  51,
+                  33,
                   44,
-                  25,
-                  34,
-                  23,
-                  12,
+                  39,
+                  20,
+                  24,
+                  11,
                   18,
                   9,
                   12,
                   12,
-                  21,
-                  51,
-                  12,
-                  13,
-                  30,
-                  38,
-                  68,
-                  49,
-                  41,
-                  54,
-                  72,
-                  32,
-                  32,
-                  40,
                   48,
-                  24
+                  26,
+                  10,
+                  19,
+                  24,
+                  47,
+                  65,
+                  44,
+                  49,
+                  49,
+                  79,
+                  32,
+                  23,
+                  38,
+                  48,
+                  32
               ],
-    "Ultima":  "2026-11-15 10:56:29",
-    "Gerado":  "2026-11-15 11:37:03",
-    "Data":  "2026-11-15 11:37"
+    "Ultima":  "2026-11-15 11:38:43",
+    "Gerado":  "2026-11-15 11:43:06",
+    "Data":  "2026-11-15 11:43"
 }
