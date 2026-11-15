@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.186 | Corrige aviso da tela inicial invadindo o espaco do satelite | 14/11/2026
+
+- **Correção**: Corrige aviso da tela inicial invadindo o espaco do satelite.
+
 ## Versão 4.50.185 | Recupera backlog de chamados para a quarentena: lista sep... | 14/11/2026
 
 - **Melhoria**: Recupera backlog de chamados para a quarentena: lista separada de quarentenados, le so abertos do mais antigo ao mais novo, drena 30/ciclo.
