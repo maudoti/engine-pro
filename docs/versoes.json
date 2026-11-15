@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.190",
+        "Data":  "2026-11-14 23:46",
+        "Notas":  "Driver/tela azul corrigido pela IA (atualiza drivers no ocio); O QUE FIZ coerente; COLMEIA vira \u0027banco de dados\u0027 nos e-mails; botoes da quarentena renomeados para separar reescrever texto x resolver problema",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.190/EnginePro_Setup_4.50.190.exe"
+    },
+    {
         "Versao":  "4.50.189",
         "Data":  "2026-11-14 23:32",
         "Notas":  "Quarentena reconstruida: cache, lista compacta com expandir sob demanda, paginacao, busca corrigida, resumo do assistente e descarte em lote por categoria",

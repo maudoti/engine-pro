@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.190 | Driver/tela azul corrigido pela IA (atualiza drivers no o... | 14/11/2026
+
+- **Correção**: Driver/tela azul corrigido pela IA (atualiza drivers no ocio).
+- **Melhoria**: O QUE FIZ coerente.
+- **Melhoria**: COLMEIA vira 'banco de dados' nos e-mails.
+- **Melhoria**: Botoes da quarentena renomeados para separar reescrever texto x resolver problema.
+
 ## Versão 4.50.189 | Quarentena reconstruida: cache, lista compacta com expand... | 14/11/2026
 
 - **Correção**: Quarentena reconstruida: cache, lista compacta com expandir sob demanda, paginacao, busca corrigida, resumo do assistente e descarte em lote por categoria.
