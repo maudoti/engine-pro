@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.189 | Quarentena reconstruida: cache, lista compacta com expand... | 14/11/2026
+
+- **Correção**: Quarentena reconstruida: cache, lista compacta com expandir sob demanda, paginacao, busca corrigida, resumo do assistente e descarte em lote por categoria.
+
 ## Versão 4.50.188 | IA corrige o rascunho na fonte | 14/11/2026
 
 - **Correção**: IA corrige o rascunho na fonte.

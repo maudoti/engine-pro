@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.189",
+        "Data":  "2026-11-14 23:32",
+        "Titulo":  "Quarentena reconstruida: cache, lista compacta com expand...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Quarentena reconstruida: cache, lista compacta com expandir sob demanda, paginacao, busca corrigida, resumo do assistente e descarte em lote por categoria."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.188",
         "Data":  "2026-11-14 23:19",
         "Titulo":  "IA corrige o rascunho na fonte",
