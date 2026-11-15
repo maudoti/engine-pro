@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.206 | Saudacao pelo nome do usuario | 15/11/2026
+
+- **Melhoria**: Saudacao pelo nome do usuario.
+- **Melhoria**: Fim do texto quebrado da maquina.
+
 ## Versão 4.50.205 | Fim do falso 'protecao reativada' em cada atualizacao | 15/11/2026
 
 - **Melhoria**: Fim do falso 'protecao reativada' em cada atualizacao.

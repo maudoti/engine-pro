@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.206",
+        "Data":  "2026-11-15 02:53",
+        "Titulo":  "Saudacao pelo nome do usuario",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Saudacao pelo nome do usuario."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Fim do texto quebrado da maquina."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.205",
         "Data":  "2026-11-15 02:50",
         "Titulo":  "Fim do falso \u0027protecao reativada\u0027 em cada atualizacao",
