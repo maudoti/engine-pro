@@ -1,5 +1,28 @@
 [
     {
+        "Versao":  "4.50.188",
+        "Data":  "2026-11-14 23:19",
+        "Titulo":  "IA corrige o rascunho na fonte",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "IA corrige o rascunho na fonte."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Versao revisada pronta na quarentena."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aprovar+resolver na maquina pelo canal assinado."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Aprendizado alimenta a geracao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.187",
         "Data":  "2026-11-14 22:38",
         "Titulo":  "Reset da placa de video (Win+Ctrl+Shift+B) no ocio para e...",

@@ -2,6 +2,13 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.188 | IA corrige o rascunho na fonte | 14/11/2026
+
+- **Correção**: IA corrige o rascunho na fonte.
+- **Melhoria**: Versao revisada pronta na quarentena.
+- **Melhoria**: Aprovar+resolver na maquina pelo canal assinado.
+- **Melhoria**: Aprendizado alimenta a geracao.
+
 ## Versão 4.50.187 | Reset da placa de video (Win+Ctrl+Shift+B) no ocio para e... | 14/11/2026
 
 - **Melhoria**: Reset da placa de video (Win+Ctrl+Shift+B) no ocio para engasgos leves.
