@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.181 | Dreno fecha no GitHub os chamados ja tratados e antigos (... | 14/11/2026
+
+- **Melhoria**: Dreno fecha no GitHub os chamados ja tratados e antigos (+2 dias), limpando a pilha de Chamados (TI).
+
 ## Versão 4.50.180 | Disco vai encher escala para OneDrive cloud-only (sem uso... | 14/11/2026
 
 - **Melhoria**: Disco vai encher escala para OneDrive cloud-only (sem uso ha 10 dias), automatico e reversivel.

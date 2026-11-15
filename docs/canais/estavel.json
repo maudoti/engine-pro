@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.180",
-    "Instalador":  "EnginePro_Setup_4.50.180.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.180/EnginePro_Setup_4.50.180.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.180/EnginePro_Setup_4.50.180.exe.gz",
-    "SHA256":  "79A66D38EF9D5BC4418ACE20E50861586EDCBED0103EC47738A74C4CE13FE06B",
-    "Data":  "2026-11-14 21:24",
-    "Notas":  "Disco vai encher escala para OneDrive cloud-only (sem uso ha 10 dias), automatico e reversivel",
-    "Assinatura":  "klh1eKrk2vgVTf2bLB5M4sycfNlj0j7cUdj5UR0b57dc9Kr5mHarJ5gKkAvu9N9ID8C9gFrLI2Daizde7Z6G1gCXwPzCpshx/t647GraxJJdyI9fSdcL9LZzT5Z8RmqgRkih2PxEX0RNfyDSR5G75fFtNVAcp59gAhUKyg5qMxqkam6/O3PZlbtKXQ76tC0jXBHae1yfeqxfu+A2NI03H8i+sSUpXpgud8YTpv0F3jrNhU1R/bF8o6Ik9EjsfZYhtdlvzbPtmHOTnVYS/wCuhIwlXEAxpgPF4aQEO79KI/0NWaPhoFrGD+h0aFbJVjTNsvS3dS+YIQbOrmcnNPZG+fbyobdBU4miceF0W/6KbJi8bw5q5Nfp4kvh3reHOdsng/KhAM7eUUMh7N4vPWymOUAWJMx9SF8ma4/mzo/oFliPadgKtTmjtXts+k9SYD6ghvmRC9UrUj46AweJx8so38WEtNbiiPQqe/qoc1xxXvKAEQG8F5/tH0XJVRXy9Tpt"
+    "Versao":  "4.50.181",
+    "Instalador":  "EnginePro_Setup_4.50.181.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.181/EnginePro_Setup_4.50.181.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.181/EnginePro_Setup_4.50.181.exe.gz",
+    "SHA256":  "5A75EA1C7B334433DC5A685D459FE5F3A040FA29087CA07F65998A664A23238A",
+    "Data":  "2026-11-14 21:33",
+    "Notas":  "Dreno fecha no GitHub os chamados ja tratados e antigos (+2 dias), limpando a pilha de Chamados (TI)",
+    "Assinatura":  "Uwnog2H05pjUxLqB8+mXjFhnqt5v7jImARI6rYzfyQS0Sr5+ZsDAnnJRKEr0EyvAAopVR0AgPJV896uiXEV6G2ztYSgGBjHNhmtvwHdHL5FfjMwmHz44r0uohBYnRqzTX7YAG8iFGhHFBqqsCNAL6Eb6yYOvcMwr4LbTaupjsIFiv4uB206xgPL7eMK90eh+QlSlfY6tTV2iU5aGfm8yNmGlil07D+9feYEpehVjpB1ASMeaMCCRY071oQnbc+laBX6V39ZwDV0f3JHD8muGM9EZhjUPmHk/LXn6HAKvEd5T27PfsRK43MpFXk+DgGaJsZ9OSijPRlJRdArBUJiRqNeF0lZUbK+Ea77jIZsIXmwBF5NZj/x5qFXnVk3gZDeq0KuNEF+WTf8AbHCX15sUOW5n7Kz0P58dyQii7nqGDZZZ1q42A7QOibspIU4ZgSQpB/IIRhcXk6RTL+jj6iBIe0Vo1p+sejAaV4LSW7HB4SSt3wYuUEUnkG2jIsJsi7WX"
 }

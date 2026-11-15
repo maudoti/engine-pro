@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.181",
+        "Data":  "2026-11-14 21:33",
+        "Titulo":  "Dreno fecha no GitHub os chamados ja tratados e antigos (...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Dreno fecha no GitHub os chamados ja tratados e antigos (+2 dias), limpando a pilha de Chamados (TI)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.180",
         "Data":  "2026-11-14 21:24",
         "Titulo":  "Disco vai encher escala para OneDrive cloud-only (sem uso...",
