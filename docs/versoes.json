@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.200",
+        "Data":  "2026-11-15 01:44",
+        "Notas":  "Corrige falso positivo de perfil temporario: so avisa se o usuario logado agora esta mesmo em perfil temporario",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.200/EnginePro_Setup_4.50.200.exe"
+    },
+    {
         "Versao":  "4.50.199",
         "Data":  "2026-11-15 01:31",
         "Notas":  "Reescrita usa Claude (qualidade maxima) + deepseek/groq de reserva; refaz tudo (RevVer 4)",

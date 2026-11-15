@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.200",
+        "Data":  "2026-11-15 01:44",
+        "Titulo":  "Corrige falso positivo de perfil temporario: so avisa se ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige falso positivo de perfil temporario: so avisa se o usuario logado agora esta mesmo em perfil temporario."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.199",
         "Data":  "2026-11-15 01:31",
         "Titulo":  "Reescrita usa Claude (qualidade maxima) + deepseek/groq d...",
