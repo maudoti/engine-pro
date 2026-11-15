@@ -1,9 +1,34 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1738,
+    "Conhecimentos":  1744,
     "Pesquisas":  20118,
-    "N48":  3359,
+    "N48":  3345,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-15 10:58:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Arquivo da rede \"em uso por outro usuário\"",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-15 10:58:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DEF7 (ONEDRIVE_QUOTA_SUSPENDED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-15 10:58:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 522 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-15 10:56:29",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
@@ -15,87 +40,62 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-15 10:22:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 522 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-15 10:22:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE40 (ONEDRIVE_CONNECTION) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-15 10:22:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070780 (ERROR_CANT_ACCESS_FILE) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-15 09:55:23",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  64,
-                  50,
-                  55,
+                  70,
+                  37,
+                  48,
                   66,
-                  50,
-                  69,
-                  44,
-                  75,
-                  101,
-                  79,
-                  65,
-                  96,
-                  91,
-                  218,
-                  174,
-                  209,
-                  204,
-                  186,
-                  209,
-                  197,
-                  111,
-                  50,
-                  56,
+                  77,
                   42,
-                  41,
-                  26,
-                  28,
-                  19,
-                  12,
-                  18,
-                  9,
-                  12,
+                  58,
+                  87,
+                  100,
+                  54,
+                  97,
+                  64,
+                  96,
+                  249,
+                  179,
+                  213,
+                  187,
+                  211,
+                  197,
+                  194,
+                  73,
+                  68,
+                  38,
+                  43,
+                  40,
+                  38,
+                  24,
                   15,
-                  41,
-                  26,
+                  8,
+                  18,
+                  10,
+                  15,
+                  11,
+                  61,
+                  6,
                   14,
                   15,
-                  24,
-                  81,
-                  33,
-                  58,
-                  43,
-                  54,
-                  74,
-                  22,
-                  29,
-                  56,
+                  48,
+                  62,
+                  28,
+                  67,
+                  42,
+                  61,
+                  59,
+                  32,
+                  27,
+                  48,
                   48
               ],
     "Ultima":  "2026-11-15 10:56:29",
-    "Gerado":  "2026-11-15 10:57:03",
-    "Data":  "2026-11-15 10:57"
+    "Gerado":  "2026-11-15 11:07:03",
+    "Data":  "2026-11-15 11:07"
 }
