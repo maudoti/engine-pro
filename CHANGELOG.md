@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.192 | Textos de driver: 'sem atrapalhar o usuario', banco de da... | 14/11/2026
+
+- **Melhoria**: Textos de driver: 'sem atrapalhar o usuario', banco de dados, sem contradicao de peca fisica.
+- **Melhoria**: Deduplicacao de chamados repetidos na quarentena.
+
 ## Versão 4.50.191 | Resolver cirurgico (rotina exata pelo canal assinado) | 14/11/2026
 
 - **Melhoria**: Resolver cirurgico (rotina exata pelo canal assinado).

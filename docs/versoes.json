@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.192",
+        "Data":  "2026-11-14 23:57",
+        "Notas":  "Textos de driver: \u0027sem atrapalhar o usuario\u0027, banco de dados, sem contradicao de peca fisica; deduplicacao de chamados repetidos na quarentena",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.192/EnginePro_Setup_4.50.192.exe"
+    },
+    {
         "Versao":  "4.50.191",
         "Data":  "2026-11-14 23:54",
         "Notas":  "Resolver cirurgico (rotina exata pelo canal assinado); quarentena agrupada por maquina com expandir/colapsar e descartar por maquina",
