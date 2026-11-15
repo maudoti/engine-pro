@@ -1,96 +1,101 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1732,
-    "Pesquisas":  20070,
-    "N48":  3327,
+    "Conhecimentos":  1738,
+    "Pesquisas":  20094,
+    "N48":  3351,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-15 10:22:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-15 10:22:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070780 (ERROR_CANT_ACCESS_FILE) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-15 10:22:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE40 (ONEDRIVE_CONNECTION) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 498 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-15 10:21:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-15 10:09",
                          "Texto":  "Nova versão 4.50.209 publicada: Reescrita usa so o Claude",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-15 10:08:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8000FFFF (E_UNEXPECTED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 474 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-15 10:08:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80004005 (E_FAIL) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-15 10:08:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070043 (ERROR_BAD_NET_NAME) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-15 09:55:23",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-15 08:44:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  32,
-                  73,
-                  36,
-                  66,
-                  44,
-                  77,
-                  63,
-                  37,
-                  87,
-                  100,
-                  64,
-                  87,
-                  74,
-                  126,
-                  235,
-                  201,
-                  177,
-                  186,
-                  241,
-                  194,
-                  156,
-                  98,
+                  55,
+                  50,
+                  62,
+                  40,
+                  70,
+                  71,
                   43,
-                  60,
-                  36,
-                  29,
+                  67,
+                  79,
+                  78,
+                  74,
+                  77,
+                  95,
+                  148,
+                  226,
+                  213,
+                  169,
+                  190,
+                  209,
+                  208,
+                  177,
+                  53,
+                  65,
+                  42,
+                  32,
+                  37,
                   34,
-                  24,
-                  15,
-                  15,
-                  14,
-                  10,
+                  23,
+                  12,
+                  11,
+                  16,
+                  8,
                   12,
                   22,
-                  50,
-                  6,
-                  23,
-                  10,
-                  44,
-                  70,
-                  44,
-                  48,
+                  54,
+                  12,
+                  13,
+                  24,
+                  30,
+                  76,
+                  47,
+                  46,
                   43,
-                  69,
+                  73,
                   45,
                   32,
-                  27,
-                  48
+                  16,
+                  72
               ],
-    "Ultima":  "2026-11-15 09:55:23",
-    "Gerado":  "2026-11-15 10:17:03",
-    "Data":  "2026-11-15 10:17"
+    "Ultima":  "2026-11-15 10:21:35",
+    "Gerado":  "2026-11-15 10:27:03",
+    "Data":  "2026-11-15 10:27"
 }
