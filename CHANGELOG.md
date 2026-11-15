@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.193 | Cabecalho da maquina na quarentena mostra o usuario entre... | 14/11/2026
+
+- **Melhoria**: Cabecalho da maquina na quarentena mostra o usuario entre parenteses quando o nome da maquina nao o identifica.
+
 ## Versão 4.50.192 | Textos de driver: 'sem atrapalhar o usuario', banco de da... | 14/11/2026
 
 - **Melhoria**: Textos de driver: 'sem atrapalhar o usuario', banco de dados, sem contradicao de peca fisica.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.193",
+        "Data":  "2026-11-14 23:59",
+        "Titulo":  "Cabecalho da maquina na quarentena mostra o usuario entre...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Cabecalho da maquina na quarentena mostra o usuario entre parenteses quando o nome da maquina nao o identifica."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.192",
         "Data":  "2026-11-14 23:57",
         "Titulo":  "Textos de driver: \u0027sem atrapalhar o usuario\u0027, banco de da...",
