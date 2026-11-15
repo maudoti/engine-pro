@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.195 | Reescrita por IA local (Ollama) dos textos | 15/11/2026
+
+- **Melhoria**: Reescrita por IA local (Ollama) dos textos.
+- **Melhoria**: Teste multilingue robusto.
+
 ## Versão 4.50.194 | Teste multilingue robusto (passa com ou sem IA local) | 15/11/2026
 
 - **Melhoria**: Teste multilingue robusto (passa com ou sem IA local).

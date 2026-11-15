@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.195",
+        "Data":  "2026-11-15 00:36",
+        "Titulo":  "Reescrita por IA local (Ollama) dos textos",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reescrita por IA local (Ollama) dos textos."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Teste multilingue robusto."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.194",
         "Data":  "2026-11-15 00:31",
         "Titulo":  "Teste multilingue robusto (passa com ou sem IA local)",
