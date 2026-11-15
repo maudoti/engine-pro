@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.187",
+        "Data":  "2026-11-14 22:38",
+        "Notas":  "Reset da placa de video (Win+Ctrl+Shift+B) no ocio para engasgos leves; driver para persistentes; corrige layout do satelite",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.187/EnginePro_Setup_4.50.187.exe"
+    },
+    {
         "Versao":  "4.50.186",
         "Data":  "2026-11-14 22:32",
         "Notas":  "Corrige aviso da tela inicial invadindo o espaco do satelite",

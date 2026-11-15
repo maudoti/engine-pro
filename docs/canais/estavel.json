@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.186",
-    "Instalador":  "EnginePro_Setup_4.50.186.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.186/EnginePro_Setup_4.50.186.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.186/EnginePro_Setup_4.50.186.exe.gz",
-    "SHA256":  "769D0BE475AEA08DD9F2D8910D32998D1D55BEAAF1D76C8AED7540FC321B4739",
-    "Data":  "2026-11-14 22:32",
-    "Notas":  "Corrige aviso da tela inicial invadindo o espaco do satelite",
-    "Assinatura":  "uM4iuLxZZrZeO/z3w5xBGtHcyN3O9/pVloiGKhKvWC955LdD1oZSb8gkjxmHmJdYb2PsOGum9hupxMKc6gWlsRc/+wO9GupSlJ6P+0EuQMSQ4Ms7BIOay8cI9kdm6tUwLPbjwsB5kEIXMEJjrPXTL+bsNEOIWEkN6IoNYfe8XB+qj0d1Jqys0qhMrC7yjbxMXWwT3+i/V+YxvfkFM5X6eim4cyCfIB++VPqE1DI27h8Xv2Qqgkx5ExEMUcWcpT9tg5CA137Cvnb0uZMyxbnI+9CluC1cOy+U7dL4I2j48JhKfFFhBxFTNSBtgtHP9UIoUvfuVqmN5gZgzCHToS57o6RwTNcTWuFnm7pqZzDYkFVdxG3bNiGFflvl0U7xY2S1k+KTZ37pxlv/VE6LfNEzkDf7tG7vFXJe4LhV/+Y2VwAbs0/dV3N+izJ3PuliuQLTy8YU9/CDLSEmwIi+yN7suD5/ppzB2e+SAj9ff+SEOexN+o0Rm7YwxNez3mtdUlI9"
+    "Versao":  "4.50.187",
+    "Instalador":  "EnginePro_Setup_4.50.187.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.187/EnginePro_Setup_4.50.187.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.187/EnginePro_Setup_4.50.187.exe.gz",
+    "SHA256":  "FCB9B72A3D2E741E2912C96AEEF958464E2A47761FA337DCF8BA8CDC37FCACE6",
+    "Data":  "2026-11-14 22:38",
+    "Notas":  "Reset da placa de video (Win+Ctrl+Shift+B) no ocio para engasgos leves; driver para persistentes; corrige layout do satelite",
+    "Assinatura":  "DY3nqtazKU42fdin+Qxibjm6uT+V9aN/7JUD+Wqyj5m9hUAO6Fx6eTVjMxOeDugiIXBL7NoVOrXXg9QhIXKObvseXqWDaHmy6bMcGsg9iAMGHWBPl1Cv7y6nNMEpYzsnGnL4dEtpnYeLv9ylVblF/je2IWgxUIVvOzOAi8dGtV7ioyVlu6hlC5dw/NXCGwee96yGA1ogIP7hB1FlTzhrHjZ7F2qUJJg/9zxmsKcIUl29zEBOd91JbizNjvjGWjggMcN1pUsn6zXTrE/2fy0XtKLzZ5ZHMbN9RXNPXodN2gy6twIEenCZ5rOHx8/uSNs7AVptaMAEQClzATLabVtE1VjaHqqwXXB3EkXMt08fcCLrRieiQQ1Hm1mZ2Ve+U70CVCVJqtxGcMN3PF9Bdtin/OqPJl5vxZUiwMHREsfn4hpe6H2AXLxXsrP8W9q2N5Q9dV5QQH0xtGSzjLzrJSsgFhD4m0yJdvu4sKY03wBRfk9h6GKQPBcpHs05ZtjbR2W4"
 }

@@ -2,6 +2,12 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.187 | Reset da placa de video (Win+Ctrl+Shift+B) no ocio para e... | 14/11/2026
+
+- **Melhoria**: Reset da placa de video (Win+Ctrl+Shift+B) no ocio para engasgos leves.
+- **Melhoria**: Driver para persistentes.
+- **Correção**: Corrige layout do satelite.
+
 ## Versão 4.50.186 | Corrige aviso da tela inicial invadindo o espaco do satelite | 14/11/2026
 
 - **Correção**: Corrige aviso da tela inicial invadindo o espaco do satelite.

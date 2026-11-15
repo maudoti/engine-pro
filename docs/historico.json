@@ -1,5 +1,24 @@
 [
     {
+        "Versao":  "4.50.187",
+        "Data":  "2026-11-14 22:38",
+        "Titulo":  "Reset da placa de video (Win+Ctrl+Shift+B) no ocio para e...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reset da placa de video (Win+Ctrl+Shift+B) no ocio para engasgos leves."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Driver para persistentes."
+                      },
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Corrige layout do satelite."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.186",
         "Data":  "2026-11-14 22:32",
         "Titulo":  "Corrige aviso da tela inicial invadindo o espaco do satelite",
