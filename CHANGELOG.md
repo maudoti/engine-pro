@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.209 | Reescrita usa so o Claude | 15/11/2026
+
+- **Melhoria**: Reescrita usa so o Claude.
+- **Melhoria**: 8 por ciclo.
+
 ## Versão 4.50.208 | Reescrita ciente da estrutura (titulos/checks/dados prese... | 15/11/2026
 
 - **Melhoria**: Reescrita ciente da estrutura (titulos/checks/dados preservados).

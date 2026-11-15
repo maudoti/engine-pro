@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.209",
+        "Data":  "2026-11-15 10:09",
+        "Titulo":  "Reescrita usa so o Claude",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reescrita usa so o Claude."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "8 por ciclo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.208",
         "Data":  "2026-11-15 09:58",
         "Titulo":  "Reescrita ciente da estrutura (titulos/checks/dados prese...",
