@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.205 | Fim do falso 'protecao reativada' em cada atualizacao | 15/11/2026
+
+- **Melhoria**: Fim do falso 'protecao reativada' em cada atualizacao.
+
 ## Versão 4.50.204 | Dreno descarta perfil temporario (falso positivo) | 15/11/2026
 
 - **Melhoria**: Dreno descarta perfil temporario (falso positivo).

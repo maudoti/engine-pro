@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.205",
+        "Data":  "2026-11-15 02:50",
+        "Titulo":  "Fim do falso \u0027protecao reativada\u0027 em cada atualizacao",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Fim do falso \u0027protecao reativada\u0027 em cada atualizacao."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.204",
         "Data":  "2026-11-15 02:43",
         "Titulo":  "Dreno descarta perfil temporario (falso positivo)",

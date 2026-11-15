@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.204",
-    "Instalador":  "EnginePro_Setup_4.50.204.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.204/EnginePro_Setup_4.50.204.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.204/EnginePro_Setup_4.50.204.exe.gz",
-    "SHA256":  "3D641419EDE5317E456A5DC8F6DEB8DAB8F0721304D62B6C30E565ABA4AA5A82",
-    "Data":  "2026-11-15 02:43",
-    "Notas":  "Dreno descarta perfil temporario (falso positivo)",
-    "Assinatura":  "YbozK/Pl7AWLztRGUgTg89g9Mu4+YH9e1erLTWtB+Nm09+IluNIW4LX+of582A0qYHr3mW3iaHnOJa3yqeF7mCTPfKkGS4JTt2872z+hqI5UZ0OSXlmrwrQbBQVbHCdDJL2tcjn3vyoRMnKXhdPIn56wE1e3GiKMEZ2K8MkwHDWlcU8LtsxJl3pBjazF/8Di8rBkioM+VtHM5+GPjJJ8d3x7TEzCbYXI9iBQp0ZrMHaBst2NMdmX/fV+gWlnXoIezlNnFc9GULd3Mndmrz72pAqnMWCAHGbl1M7P5FrNRVMLUExcr/jPld8ZodiQTZSJ30yBT44m3Ole18FnlTfIj6x6/qT/ryGp88VzvI6nA3380NqrmZXjbupsllgq11x95c7UFeTLRiv8xutuJrA9BMqzAMB/YRioRwRliHPSd5ic/OcCEVqZfjwt8NEh67EmLl/d/0bPMXzhtASvpyEMMkKy3WIG04mEeeyxuTaLtq8C51loyYyiYClTvYvoqcTq"
+    "Versao":  "4.50.205",
+    "Instalador":  "EnginePro_Setup_4.50.205.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.205/EnginePro_Setup_4.50.205.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.205/EnginePro_Setup_4.50.205.exe.gz",
+    "SHA256":  "BA74400F78704FFDF3CBC1F50EEE5DF198A754B00EE69AFFA2AC9B88CBE51583",
+    "Data":  "2026-11-15 02:50",
+    "Notas":  "Fim do falso \u0027protecao reativada\u0027 em cada atualizacao",
+    "Assinatura":  "RbG0DOxjouViUwgv67CcF3XyTgnRFWxJPml8DA+ltT6Dx/fqEeCPQz+p6lESh90osSyG9lgKqGEGGtdg4ZevmBRnxIHYF3WSauE56WoFEBw3C7sWb5SXzltKJIPHV9R1H5F5MvCy9r6pcBhMjFjgqDYX8eVUeUYMdbhyki1rEfOc1gZityoJRFpVTWGg16kEpLhj8BCCTmuI+xnJhdfNQUmDquVel76rF3GB5IgjeSAFKiUOoLREuAamkM8fPPb7pNSDK/ewike59VquPlbEbx5j/fCT+unRmz3HkODbTENFQ0sfdbceqP9gLz4y/6yFvJRlxn2s0CYa0IsOgsSEr+7EPUzMrbkAm/3nWrSoqPafNvgaZLdcjZkY9JCWyIsVGuPhG9GZh4HWwpiglW9uAsdGeveKSS/3oCkM0B1TtyKpt1e1CoB8db3zbWP2SfERYizUUc6VhbJj3dcH1XMoAm7Lf6yQOeDBw093FsqpvjLZw9lCZ0EOYUXBV4sFeopx"
 }

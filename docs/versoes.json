@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.205",
+        "Data":  "2026-11-15 02:50",
+        "Notas":  "Fim do falso \u0027protecao reativada\u0027 em cada atualizacao",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.205/EnginePro_Setup_4.50.205.exe"
+    },
+    {
         "Versao":  "4.50.204",
         "Data":  "2026-11-15 02:43",
         "Notas":  "Dreno descarta perfil temporario (falso positivo)",
