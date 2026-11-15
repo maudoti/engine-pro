@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.191 | Resolver cirurgico (rotina exata pelo canal assinado) | 14/11/2026
+
+- **Melhoria**: Resolver cirurgico (rotina exata pelo canal assinado).
+- **Melhoria**: Quarentena agrupada por maquina com expandir/colapsar e descartar por maquina.
+
 ## Versão 4.50.190 | Driver/tela azul corrigido pela IA (atualiza drivers no o... | 14/11/2026
 
 - **Correção**: Driver/tela azul corrigido pela IA (atualiza drivers no ocio).

@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.190",
-    "Instalador":  "EnginePro_Setup_4.50.190.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.190/EnginePro_Setup_4.50.190.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.190/EnginePro_Setup_4.50.190.exe.gz",
-    "SHA256":  "0C3083189D73E38E5DDD57AE07F057F0A65531AEE049695372264D67D6E513FC",
-    "Data":  "2026-11-14 23:46",
-    "Notas":  "Driver/tela azul corrigido pela IA (atualiza drivers no ocio); O QUE FIZ coerente; COLMEIA vira \u0027banco de dados\u0027 nos e-mails; botoes da quarentena renomeados para separar reescrever texto x resolver problema",
-    "Assinatura":  "uy4uCalCiN/qTmxm937g0Szaexk9dJ7rUn9v00KmBKRnWuzvim8UBUgV/OWx43lZtoFojMkCXITJ63uU4UeSIK6daReFc9fSEzR02wUiA936bWT1oQnPjtvZgws4xRwbL+Qzxo8RGPTrNStmC9d1Cf4pGSyVrZxjR6PCmNPaPeD8DyJAo1g4D1ASAG48JPoXRg/BLjA7BKe1cFRNAZIirxzg2AzuEJXebYf3buGemI44lOBztC8WzzgRnsJY76TzOiA4WCmHWZUahV2YlLhpzyE4lMVftGiEnQav8WLSUoeVhw2s9JSUciMGaK5G7sG7XoFeFwOiSPM3V1cdSKkrEkEQq5QKFViZc/o68mIAcgbqd0cfgtS8d+JzPEAO+tuT17nT7RNT7vFr3rMn11JFrUj3Xp0H3tlzkaWIiZNe49ZKLHw/YjBnOKymQu9ICHHR9AYDuU0dp8+bvOaOR8kERCG5mVwTL1U+zCGi2J6LYOoQQH/ozE1UBVTevc+LxEeA"
+    "Versao":  "4.50.191",
+    "Instalador":  "EnginePro_Setup_4.50.191.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.191/EnginePro_Setup_4.50.191.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.191/EnginePro_Setup_4.50.191.exe.gz",
+    "SHA256":  "B473201C650A507A8D89B3EAB6F6CEB1EAB97E076193CB6D0815F70014BF3502",
+    "Data":  "2026-11-14 23:54",
+    "Notas":  "Resolver cirurgico (rotina exata pelo canal assinado); quarentena agrupada por maquina com expandir/colapsar e descartar por maquina",
+    "Assinatura":  "AsIJDVXWlCg+5mta8rry+TAOAidOoJvLJH3lPc+zSQzvnvQWxtOqrT/IVHoV4jE7RXrtSGGPq2kLnGjWzhD3Wy7ur07NIaPLuHxdwvxwmE3EcBvuOnp37Qruzy/Z4hbjaNJaOn9Ymabq6FA774wd7EdeIupLgE2cBxdFah5cPcnyTgpmYKARZBTmIevbeUJyRg+AyeTNR4V4qKNs8QjH/VRR7/LCTSXb/BCYj7WBL09LseCs474C0Zknwhwe8Z1WDU3ns/10/09EBVsm02KbP5NQeinFAeqOuCIujvhuLga/eDiRhoFsCWK8/IvjRbDbNLfBuM4P8MSLFFJa6L5mce2W+Nc0LizWIbrrutPifzHlK/Jygp3z0xAwNt+LOQGyLMg5ktbzzITzxKBWKcEKYpo4SoPb93ysV6DgnGyWJ8GnVpMWvarlil9KXHo1zvXyB57DZsRcHCVAkdSXBlKxQm7LkFvEC/rz3KBOJUqcHk3Cmx/kqwc/TEh/e0rEk2E9"
 }
