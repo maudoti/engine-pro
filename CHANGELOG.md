@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.210 | Kit 639 | 15/11/2026
+
+- **Melhoria**: Kit 639.
+
 ## Versão 4.50.209 | Reescrita usa so o Claude | 15/11/2026
 
 - **Melhoria**: Reescrita usa so o Claude.

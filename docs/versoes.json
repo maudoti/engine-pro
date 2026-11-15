@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.210",
+        "Data":  "2026-11-15 10:40",
+        "Notas":  "Kit 639",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.210/EnginePro_Setup_4.50.210.exe"
+    },
+    {
         "Versao":  "4.50.209",
         "Data":  "2026-11-15 10:09",
         "Notas":  "Reescrita usa so o Claude; 8 por ciclo",
