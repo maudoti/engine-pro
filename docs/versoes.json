@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.198",
+        "Data":  "2026-11-15 01:18",
+        "Notas":  "Reescrita preserva linha do tempo/dados, reconcilia contradicoes (caixa cheia != hardware) e refaz os ja revisados (RevVer)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.198/EnginePro_Setup_4.50.198.exe"
+    },
+    {
         "Versao":  "4.50.197",
         "Data":  "2026-11-15 01:10",
         "Notas":  "Reescrita no servico (nao trava a janela) + limite de tempo por ciclo",

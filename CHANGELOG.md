@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.198 | Reescrita preserva linha do tempo/dados, reconcilia contr... | 15/11/2026
+
+- **Melhoria**: Reescrita preserva linha do tempo/dados, reconcilia contradicoes (caixa cheia != hardware) e refaz os ja revisados (RevVer).
+
 ## Versão 4.50.197 | Reescrita no servico (nao trava a janela) + limite de tem... | 15/11/2026
 
 - **Melhoria**: Reescrita no servico (nao trava a janela) + limite de tempo por ciclo.
