@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.203 | Correcao do colapso de lista grande (PS 5.1) no dreno de ... | 15/11/2026
+
+- **Correção**: Correcao do colapso de lista grande (PS 5.1) no dreno de e-mails.
+
 ## Versão 4.50.202 | Dreno de e-mails com ritmo e recuo no 403 | 15/11/2026
 
 - **Melhoria**: Dreno de e-mails com ritmo e recuo no 403.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.203",
+        "Data":  "2026-11-15 02:26",
+        "Titulo":  "Correcao do colapso de lista grande (PS 5.1) no dreno de ...",
+        "Itens":  [
+                      {
+                          "Tipo":  "correcao",
+                          "Texto":  "Correcao do colapso de lista grande (PS 5.1) no dreno de e-mails."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.202",
         "Data":  "2026-11-15 02:18",
         "Titulo":  "Dreno de e-mails com ritmo e recuo no 403",

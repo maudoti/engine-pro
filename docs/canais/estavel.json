@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.202",
-    "Instalador":  "EnginePro_Setup_4.50.202.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.202/EnginePro_Setup_4.50.202.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.202/EnginePro_Setup_4.50.202.exe.gz",
-    "SHA256":  "D99A99C819E4F6BF616A63F24D912BCD13695F83A02C09ABFAAAC6A3BAFA379F",
-    "Data":  "2026-11-15 02:18",
-    "Notas":  "Dreno de e-mails com ritmo e recuo no 403; botao Desarquivar",
-    "Assinatura":  "FqvzF/dYUI8D2N34KZGnjCmY8rAyzwaWow7XreH/tkXcP9kUoi8cZz7J+rP0ZjDmAnUedtSaqiBDR09fSVJKyqEPutgKzVo3Tq9Hp/uAkBT+P11q5nZCf1FFu/OV0jNwlhZljSEmIXCoR2JHzha6P38+GhwrFiupbKEgbtTMwyWXOY+RHEw/1KgQFyEWGuVhlpSlsZo1WIOdEbcr4d4dSdh/v3KeJhWk9l0nBa2poyMyVbLsNsAEwQtphT08lkJdwEN4YMM1hANHHLxVPUyv7s6oC6WGougJrlHPMsaLK7kKcby2cI/MNjtrzkWpybE8QwgD7BjEhZBzI2Ikl+Hzhzt00zx2R7Yll847wEzfccdiOuFCbtmHU7s0P+676sGfDRtGgn3ZvgsMZU4OFDoY7iycetOtWEg9x/9ZaysQrNwLY6ET5ySyzzQesEFl4EedsrfpQ5fqGyI5f14h98z8/YzHPMzJw4hX7l+nuhluSjlXNFj26nmSUZJT+tjcncM3"
+    "Versao":  "4.50.203",
+    "Instalador":  "EnginePro_Setup_4.50.203.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.203/EnginePro_Setup_4.50.203.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.203/EnginePro_Setup_4.50.203.exe.gz",
+    "SHA256":  "3FD684D76E0DAFE69071F6404C77C0118892287F8D215FDBB6EAE652EE14F94A",
+    "Data":  "2026-11-15 02:26",
+    "Notas":  "Correcao do colapso de lista grande (PS 5.1) no dreno de e-mails",
+    "Assinatura":  "g621plDMtYLQigu/EtvsPA7ODGWxILDlsBqDkIJ4A8uCgTby7aWIEz2FNx/3evVKJ7tgW+5Wd/Q4fMZkxJutgAbyA2RmDVEW8BLmU7BlmIRYNUHpEKBkxKb9tKQctMpKQZsjLYPC65H+0GICPqAwZzbmfzQvlHBjpA0Y4AFzblkTDJGQTDoSc0k+TRVYLfDlNyU0uCA7FvHG8PP5JdsInyxUmBdll2nHTFB7C91KIKl6oYzauBSEC/lXSDsiATmnYenQWvD6z8njKLbrnO9fy+7FRCvMHEXY9YAdJQovFGPXfsfwkkW3qJDtECA7HKb/bmjyGcdLAurHNWbUgFKkosySzH0A2iQdAU9GoBFCeLMfTdBauATfC56MqEfajiXv1uy5cJLfAdgVF7JlD8AP0jJo2bvrm/qhNjzpIAr0hX2tUAOdLlfkgcKu3rSD4WIdyebt4M4njHTUwFxUmfElS0piwLKDW0TDBNSh3m7Wh6ixeEsceRfcyPWmfDi8RhqC"
 }
