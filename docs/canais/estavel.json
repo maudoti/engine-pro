@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.201",
-    "Instalador":  "EnginePro_Setup_4.50.201.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.201/EnginePro_Setup_4.50.201.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.201/EnginePro_Setup_4.50.201.exe.gz",
-    "SHA256":  "290C5320B7E7CFC0F9F80F6357EC00B50DE13C9CEBCF82DB5D8DA77E424DBF82",
-    "Data":  "2026-11-15 01:50",
-    "Notas":  "Botao Arquivar fila na quarentena (guarda copia e esvazia, sem apagar)",
-    "Assinatura":  "GIFiUYbrl/1T1qjfSsZH+WmxKBFfoiqUsFmNWP81693kq1gjVXOAAWx+qYbbQYjjb8dbwuouvwR+EUaShFwY6RLsW1VDPXt4JwnQqEgn/WF3kiw/tMFPUoG9RwTrwv9axmnmTA0fNcrpeen8md8mlZWrZwVXCUy8d50HGGFesOylT6jdYGJh3ItkuF26Tu3u2cAoMe2kazbHoukEt5Xt5xQj6afW/uceFRPgHXi75V4/OYk4ktOnVVApoxYEHgIVDz6Tt5pc15ULpiaQ4kozEmFXszYb2wLnpTFPBhRSx8XY/CKwhsrvKQlZoUnYeIcFMmmRzGv2JVSEfrilk/z6U/Dw7AXGLD6ImXv/ISWQDI9XFYdxTgZDOhcy7FPQ4DxQKO1/r5Shf8oCZFdIwRLpf2SLZLPo+LfGH5rJydDyLvi4FAn495OgspxWalzfSBwWTR72tfKVVS9mEeycOqC5s1PuwgNIVFMndlrwagkUNoSQ6LyW3NSObMUdfFFCiaCh"
+    "Versao":  "4.50.202",
+    "Instalador":  "EnginePro_Setup_4.50.202.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.202/EnginePro_Setup_4.50.202.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.202/EnginePro_Setup_4.50.202.exe.gz",
+    "SHA256":  "D99A99C819E4F6BF616A63F24D912BCD13695F83A02C09ABFAAAC6A3BAFA379F",
+    "Data":  "2026-11-15 02:18",
+    "Notas":  "Dreno de e-mails com ritmo e recuo no 403; botao Desarquivar",
+    "Assinatura":  "FqvzF/dYUI8D2N34KZGnjCmY8rAyzwaWow7XreH/tkXcP9kUoi8cZz7J+rP0ZjDmAnUedtSaqiBDR09fSVJKyqEPutgKzVo3Tq9Hp/uAkBT+P11q5nZCf1FFu/OV0jNwlhZljSEmIXCoR2JHzha6P38+GhwrFiupbKEgbtTMwyWXOY+RHEw/1KgQFyEWGuVhlpSlsZo1WIOdEbcr4d4dSdh/v3KeJhWk9l0nBa2poyMyVbLsNsAEwQtphT08lkJdwEN4YMM1hANHHLxVPUyv7s6oC6WGougJrlHPMsaLK7kKcby2cI/MNjtrzkWpybE8QwgD7BjEhZBzI2Ikl+Hzhzt00zx2R7Yll847wEzfccdiOuFCbtmHU7s0P+676sGfDRtGgn3ZvgsMZU4OFDoY7iycetOtWEg9x/9ZaysQrNwLY6ET5ySyzzQesEFl4EedsrfpQ5fqGyI5f14h98z8/YzHPMzJw4hX7l+nuhluSjlXNFj26nmSUZJT+tjcncM3"
 }

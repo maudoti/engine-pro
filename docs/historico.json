@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.202",
+        "Data":  "2026-11-15 02:18",
+        "Titulo":  "Dreno de e-mails com ritmo e recuo no 403",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Dreno de e-mails com ritmo e recuo no 403."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao Desarquivar."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.201",
         "Data":  "2026-11-15 01:50",
         "Titulo":  "Botao Arquivar fila na quarentena (guarda copia e esvazia...",

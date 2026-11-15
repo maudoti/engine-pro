@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.202 | Dreno de e-mails com ritmo e recuo no 403 | 15/11/2026
+
+- **Melhoria**: Dreno de e-mails com ritmo e recuo no 403.
+- **Melhoria**: Botao Desarquivar.
+
 ## Versão 4.50.201 | Botao Arquivar fila na quarentena (guarda copia e esvazia... | 15/11/2026
 
 - **Melhoria**: Botao Arquivar fila na quarentena (guarda copia e esvazia, sem apagar).
