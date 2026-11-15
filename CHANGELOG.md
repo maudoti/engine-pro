@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.183 | Monitor de travamentos: detecta engasgos de video (tela c... | 14/11/2026
+
+- **Melhoria**: Monitor de travamentos: detecta engasgos de video (tela congela e volta, TDR 4101/4102) com atualizacao de driver no ocio, e travamento total (reset no botao) a partir de 2 ocorrencias.
+
 ## Versão 4.50.182 | Relatorio semanal sempre: correcoes quando houver, ou res... | 14/11/2026
 
 - **Melhoria**: Relatorio semanal sempre: correcoes quando houver, ou resumo positivo de saude.

@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.183",
+        "Data":  "2026-11-14 22:00",
+        "Titulo":  "Monitor de travamentos: detecta engasgos de video (tela c...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Monitor de travamentos: detecta engasgos de video (tela congela e volta, TDR 4101/4102) com atualizacao de driver no ocio, e travamento total (reset no botao) a partir de 2 ocorrencias."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.182",
         "Data":  "2026-11-14 21:43",
         "Titulo":  "Relatorio semanal sempre: correcoes quando houver, ou res...",

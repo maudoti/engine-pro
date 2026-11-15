@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.183",
+        "Data":  "2026-11-14 22:00",
+        "Notas":  "Monitor de travamentos: detecta engasgos de video (tela congela e volta, TDR 4101/4102) com atualizacao de driver no ocio, e travamento total (reset no botao) a partir de 2 ocorrencias",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.183/EnginePro_Setup_4.50.183.exe"
+    },
+    {
         "Versao":  "4.50.182",
         "Data":  "2026-11-14 21:43",
         "Notas":  "Relatorio semanal sempre: correcoes quando houver, ou resumo positivo de saude; log do relatorio",
