@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.197",
+        "Data":  "2026-11-15 01:10",
+        "Titulo":  "Reescrita no servico (nao trava a janela) + limite de tem...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reescrita no servico (nao trava a janela) + limite de tempo por ciclo."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.196",
         "Data":  "2026-11-15 00:41",
         "Titulo":  "Log do teste sem ruido (-ErrorAction nos escritores)",

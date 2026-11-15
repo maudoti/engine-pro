@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.197 | Reescrita no servico (nao trava a janela) + limite de tem... | 15/11/2026
+
+- **Melhoria**: Reescrita no servico (nao trava a janela) + limite de tempo por ciclo.
+
 ## Versão 4.50.196 | Log do teste sem ruido (-ErrorAction nos escritores) | 15/11/2026
 
 - **Correção**: Log do teste sem ruido (-ErrorAction nos escritores).
