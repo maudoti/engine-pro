@@ -1,9 +1,39 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1717,
-    "Pesquisas":  19734,
-    "N48":  3991,
+    "Conhecimentos":  1721,
+    "Pesquisas":  19758,
+    "N48":  3976,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-15 03:15:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000CA (PNP_DETECTED_FATAL_ERROR) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-15 03:15:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C7 (TIMER_OR_DPC_INVALID) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-15 03:15:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C5 (DRIVER_CORRUPTED_EXPOOL) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 162 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-15 03:14:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-15 03:02",
                          "Texto":  "Nova versão 4.50.207 publicada: Agrupar por maquina lendo Computador/Maquina/pc",
@@ -13,84 +43,59 @@
                          "Data":  "2026-11-15 02:43:13",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 138 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-15 01:57:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-15 01:57:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000008E (KERNEL_MODE_EXCEPTION_NOT_HANDLED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-15 01:56:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 67 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-14 21:02:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  225,
                   226,
-                  206,
-                  170,
-                  51,
+                  232,
+                  193,
+                  150,
+                  38,
                   42,
-                  64,
-                  46,
-                  70,
-                  37,
-                  48,
+                  80,
+                  33,
+                  72,
+                  36,
                   66,
+                  44,
                   77,
-                  42,
-                  58,
+                  63,
+                  37,
                   87,
                   100,
-                  54,
-                  97,
                   64,
-                  96,
-                  249,
-                  179,
-                  213,
-                  187,
-                  211,
-                  197,
+                  87,
+                  74,
+                  126,
+                  235,
+                  201,
+                  177,
+                  186,
+                  241,
                   194,
-                  73,
-                  68,
-                  38,
+                  156,
+                  98,
                   43,
-                  40,
-                  38,
+                  60,
+                  36,
+                  29,
+                  34,
                   24,
                   15,
-                  8,
-                  18,
-                  10,
                   15,
-                  11,
-                  61,
-                  6,
                   14,
-                  15,
-                  48,
-                  62,
-                  28
+                  10,
+                  12,
+                  22,
+                  50,
+                  6,
+                  23,
+                  10,
+                  44,
+                  70,
+                  44
               ],
-    "Ultima":  "2026-11-15 02:43:13",
-    "Gerado":  "2026-11-15 03:07:04",
-    "Data":  "2026-11-15 03:07"
+    "Ultima":  "2026-11-15 03:14:36",
+    "Gerado":  "2026-11-15 03:17:04",
+    "Data":  "2026-11-15 03:17"
 }
