@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.194",
+        "Data":  "2026-11-15 00:31",
+        "Titulo":  "Teste multilingue robusto (passa com ou sem IA local)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Teste multilingue robusto (passa com ou sem IA local)."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Inclui reescrita por IA local e dedup."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.193",
         "Data":  "2026-11-14 23:59",
         "Titulo":  "Cabecalho da maquina na quarentena mostra o usuario entre...",

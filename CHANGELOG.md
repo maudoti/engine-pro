@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.194 | Teste multilingue robusto (passa com ou sem IA local) | 15/11/2026
+
+- **Melhoria**: Teste multilingue robusto (passa com ou sem IA local).
+- **Melhoria**: Inclui reescrita por IA local e dedup.
+
 ## Versão 4.50.193 | Cabecalho da maquina na quarentena mostra o usuario entre... | 14/11/2026
 
 - **Melhoria**: Cabecalho da maquina na quarentena mostra o usuario entre parenteses quando o nome da maquina nao o identifica.
