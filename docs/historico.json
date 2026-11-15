@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.199",
+        "Data":  "2026-11-15 01:31",
+        "Titulo":  "Reescrita usa Claude (qualidade maxima) + deepseek/groq d...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Reescrita usa Claude (qualidade maxima) + deepseek/groq de reserva."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Refaz tudo (RevVer 4)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.198",
         "Data":  "2026-11-15 01:18",
         "Titulo":  "Reescrita preserva linha do tempo/dados, reconcilia contr...",

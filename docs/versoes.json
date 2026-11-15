@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.199",
+        "Data":  "2026-11-15 01:31",
+        "Notas":  "Reescrita usa Claude (qualidade maxima) + deepseek/groq de reserva; refaz tudo (RevVer 4)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.199/EnginePro_Setup_4.50.199.exe"
+    },
+    {
         "Versao":  "4.50.198",
         "Data":  "2026-11-15 01:18",
         "Notas":  "Reescrita preserva linha do tempo/dados, reconcilia contradicoes (caixa cheia != hardware) e refaz os ja revisados (RevVer)",

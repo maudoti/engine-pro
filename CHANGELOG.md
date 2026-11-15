@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.199 | Reescrita usa Claude (qualidade maxima) + deepseek/groq d... | 15/11/2026
+
+- **Melhoria**: Reescrita usa Claude (qualidade maxima) + deepseek/groq de reserva.
+- **Melhoria**: Refaz tudo (RevVer 4).
+
 ## Versão 4.50.198 | Reescrita preserva linha do tempo/dados, reconcilia contr... | 15/11/2026
 
 - **Melhoria**: Reescrita preserva linha do tempo/dados, reconcilia contradicoes (caixa cheia != hardware) e refaz os ja revisados (RevVer).
