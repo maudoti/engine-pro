@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1753,
-    "Pesquisas":  20344,
-    "N48":  3112,
+    "Conhecimentos":  1754,
+    "Pesquisas":  20356,
+    "N48":  3124,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-15 18:44",
-                         "Texto":  "Nova versão 4.50.231 publicada: Atualizacao automatica (Kit 655)",
+                         "Data":  "2026-11-15 18:50:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 91 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-15 18:37:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo não sobe porque a biblioteca exige informações",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-15 18:50",
+                         "Texto":  "Nova versão 4.50.232 publicada: Atualizacao automatica (Kit 656)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -26,18 +26,18 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 748 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 760 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-15 18:37:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Arquivo não sobe porque a biblioteca exige informações",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-15 18:36:59",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Biblioteca do SharePoint sincronizada duas vezes (atalho e sincro...",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-15 18:36:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 79 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-15 17:48:28",
@@ -47,41 +47,41 @@
                  ],
     "Horas":  [
                   101,
-                  50,
                   73,
-                  85,
-                  93,
-                  206,
-                  211,
+                  60,
+                  86,
+                  82,
+                  214,
+                  203,
                   214,
                   168,
                   199,
-                  189,
-                  198,
-                  128,
-                  73,
+                  207,
+                  196,
+                  121,
+                  64,
                   58,
+                  41,
                   30,
-                  40,
-                  39,
+                  38,
                   28,
                   19,
-                  8,
-                  18,
+                  9,
+                  17,
                   13,
                   8,
                   12,
                   48,
                   26,
-                  10,
-                  19,
+                  14,
+                  15,
                   24,
                   64,
                   50,
                   51,
-                  40,
-                  55,
-                  73,
+                  50,
+                  54,
+                  64,
                   32,
                   29,
                   32,
@@ -90,12 +90,12 @@
                   14,
                   19,
                   16,
-                  12,
-                  22,
-                  48,
-                  87
+                  20,
+                  14,
+                  56,
+                  91
               ],
-    "Ultima":  "2026-11-15 18:36:39",
-    "Gerado":  "2026-11-15 18:47:04",
-    "Data":  "2026-11-15 18:47"
+    "Ultima":  "2026-11-15 18:50:04",
+    "Gerado":  "2026-11-15 18:50:41",
+    "Data":  "2026-11-15 18:50"
 }
