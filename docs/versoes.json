@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.207",
+        "Data":  "2026-11-15 03:02",
+        "Notas":  "Agrupar por maquina lendo Computador/Maquina/pc; backfill dos ja triados",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.207/EnginePro_Setup_4.50.207.exe"
+    },
+    {
         "Versao":  "4.50.206",
         "Data":  "2026-11-15 02:53",
         "Notas":  "Saudacao pelo nome do usuario; fim do texto quebrado da maquina",

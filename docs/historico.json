@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.207",
+        "Data":  "2026-11-15 03:02",
+        "Titulo":  "Agrupar por maquina lendo Computador/Maquina/pc",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Agrupar por maquina lendo Computador/Maquina/pc."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Backfill dos ja triados."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.206",
         "Data":  "2026-11-15 02:53",
         "Titulo":  "Saudacao pelo nome do usuario",
