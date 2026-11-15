@@ -1,5 +1,20 @@
 [
     {
+        "Versao":  "4.50.182",
+        "Data":  "2026-11-14 21:43",
+        "Titulo":  "Relatorio semanal sempre: correcoes quando houver, ou res...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Relatorio semanal sempre: correcoes quando houver, ou resumo positivo de saude."
+                      },
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Log do relatorio."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.181",
         "Data":  "2026-11-14 21:33",
         "Titulo":  "Dreno fecha no GitHub os chamados ja tratados e antigos (...",

@@ -2,6 +2,11 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.182 | Relatorio semanal sempre: correcoes quando houver, ou res... | 14/11/2026
+
+- **Melhoria**: Relatorio semanal sempre: correcoes quando houver, ou resumo positivo de saude.
+- **Melhoria**: Log do relatorio.
+
 ## Versão 4.50.181 | Dreno fecha no GitHub os chamados ja tratados e antigos (... | 14/11/2026
 
 - **Melhoria**: Dreno fecha no GitHub os chamados ja tratados e antigos (+2 dias), limpando a pilha de Chamados (TI).
