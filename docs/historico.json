@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.180",
+        "Data":  "2026-11-14 21:24",
+        "Titulo":  "Disco vai encher escala para OneDrive cloud-only (sem uso...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Disco vai encher escala para OneDrive cloud-only (sem uso ha 10 dias), automatico e reversivel."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.179",
         "Data":  "2026-11-14 20:27",
         "Titulo":  "OneDrive fechado escala para reinstalar",

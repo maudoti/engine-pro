@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.180 | Disco vai encher escala para OneDrive cloud-only (sem uso... | 14/11/2026
+
+- **Melhoria**: Disco vai encher escala para OneDrive cloud-only (sem uso ha 10 dias), automatico e reversivel.
+
 ## Versão 4.50.179 | OneDrive fechado escala para reinstalar | 14/11/2026
 
 - **Melhoria**: OneDrive fechado escala para reinstalar.
