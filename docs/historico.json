@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.201",
+        "Data":  "2026-11-15 01:50",
+        "Titulo":  "Botao Arquivar fila na quarentena (guarda copia e esvazia...",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Botao Arquivar fila na quarentena (guarda copia e esvazia, sem apagar)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.200",
         "Data":  "2026-11-15 01:44",
         "Titulo":  "Corrige falso positivo de perfil temporario: so avisa se ...",

@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.201 | Botao Arquivar fila na quarentena (guarda copia e esvazia... | 15/11/2026
+
+- **Melhoria**: Botao Arquivar fila na quarentena (guarda copia e esvazia, sem apagar).
+
 ## Versão 4.50.200 | Corrige falso positivo de perfil temporario: so avisa se ... | 15/11/2026
 
 - **Correção**: Corrige falso positivo de perfil temporario: so avisa se o usuario logado agora esta mesmo em perfil temporario.

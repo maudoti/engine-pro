@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.200",
-    "Instalador":  "EnginePro_Setup_4.50.200.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.200/EnginePro_Setup_4.50.200.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.200/EnginePro_Setup_4.50.200.exe.gz",
-    "SHA256":  "E260F6EA193BEC0BF0AE864864A73522999BF948E0219756C891EADA6FAE87D0",
-    "Data":  "2026-11-15 01:44",
-    "Notas":  "Corrige falso positivo de perfil temporario: so avisa se o usuario logado agora esta mesmo em perfil temporario",
-    "Assinatura":  "IA8fXxqw174X6wD1j3ZMBqVt2Wy4ZlawMMcBrmwULTVLCh5Pqdc6uxQFoPb08DzCysSUeKe+1opmOQTejGlP+YoORm8dyL+eMbYeIb+wp06UYFtSH+4K3Jz8rypb4qGnUXMkrMJ8bMtKnn0nz2sgJjA675c6d7/Yz4058KUTECoFBFYi6QyzPHhrXsA3CmOTrOCZH7mLX4E4R1e1kCQKM2frj2A3s/Wz1E9NtFklghqw19pVcQNrmGw/oKke50cXuuhBvjHcwhhgJa8Rt5IWahY0BrY7jzFhS5DOGIuuUZtErDVO1mvVZ71+jrVuElBHZjkYEMmbE79+FsCdNdVS2EfL5zAl8pkl8YEIDa9g7sRr8dyTsZLN5FEhAyCTgjVG7ivq65o3Q4RpNIoJK9rcVlaBuiIZnOMTw0ROqP5SlFVkI06aj8uyhM5ylX48EdYV82uXqS/3APowV91Lwfd0SN1mjm5J2ickif+tI77MwfegmfK5F1GKdhoAXkMeMHkr"
+    "Versao":  "4.50.201",
+    "Instalador":  "EnginePro_Setup_4.50.201.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.201/EnginePro_Setup_4.50.201.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.201/EnginePro_Setup_4.50.201.exe.gz",
+    "SHA256":  "290C5320B7E7CFC0F9F80F6357EC00B50DE13C9CEBCF82DB5D8DA77E424DBF82",
+    "Data":  "2026-11-15 01:50",
+    "Notas":  "Botao Arquivar fila na quarentena (guarda copia e esvazia, sem apagar)",
+    "Assinatura":  "GIFiUYbrl/1T1qjfSsZH+WmxKBFfoiqUsFmNWP81693kq1gjVXOAAWx+qYbbQYjjb8dbwuouvwR+EUaShFwY6RLsW1VDPXt4JwnQqEgn/WF3kiw/tMFPUoG9RwTrwv9axmnmTA0fNcrpeen8md8mlZWrZwVXCUy8d50HGGFesOylT6jdYGJh3ItkuF26Tu3u2cAoMe2kazbHoukEt5Xt5xQj6afW/uceFRPgHXi75V4/OYk4ktOnVVApoxYEHgIVDz6Tt5pc15ULpiaQ4kozEmFXszYb2wLnpTFPBhRSx8XY/CKwhsrvKQlZoUnYeIcFMmmRzGv2JVSEfrilk/z6U/Dw7AXGLD6ImXv/ISWQDI9XFYdxTgZDOhcy7FPQ4DxQKO1/r5Shf8oCZFdIwRLpf2SLZLPo+LfGH5rJydDyLvi4FAn495OgspxWalzfSBwWTR72tfKVVS9mEeycOqC5s1PuwgNIVFMndlrwagkUNoSQ6LyW3NSObMUdfFFCiaCh"
 }
