@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1801,
-    "Pesquisas":  20667,
-    "N48":  2689,
+    "Pesquisas":  20687,
+    "N48":  2691,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-16 01:27:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 109 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-16 01:30",
+                         "Texto":  "Nova versão 4.50.254 publicada: Atualizacao automatica (Kit 683)",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-16 01:26:57",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-16 01:29:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 129 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-16 01:29:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 236 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-16 01:09:19",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Project, Microsoft Project não abre ou só abre em modo de segurança",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 216 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-16 01:09:18",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-16 00:58",
-                         "Texto":  "Nova versão 4.50.253 publicada: Atualizacao automatica (Kit 681)",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-16 00:50:42",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  213,
-                  169,
-                  190,
-                  209,
-                  208,
-                  177,
+                  201,
+                  165,
+                  192,
+                  219,
+                  195,
+                  176,
                   53,
                   65,
                   42,
-                  32,
-                  37,
+                  44,
+                  25,
                   34,
                   23,
                   12,
                   11,
                   16,
-                  8,
                   12,
-                  22,
+                  12,
+                  18,
                   54,
                   12,
                   13,
-                  24,
                   30,
-                  76,
+                  33,
+                  67,
                   47,
-                  46,
+                  48,
+                  44,
+                  72,
                   43,
-                  73,
-                  45,
                   32,
                   16,
                   72,
                   24,
+                  22,
+                  12,
+                  15,
                   20,
                   14,
-                  15,
-                  13,
-                  21,
                   40,
                   79,
                   40,
-                  10,
-                  29,
+                  14,
+                  25,
                   24,
                   23,
-                  33,
-                  188
+                  56,
+                  185
               ],
-    "Ultima":  "2026-11-16 01:27:03",
-    "Gerado":  "2026-11-16 01:27:04",
-    "Data":  "2026-11-16 01:27"
+    "Ultima":  "2026-11-16 01:29:53",
+    "Gerado":  "2026-11-16 01:30:31",
+    "Data":  "2026-11-16 01:30"
 }
