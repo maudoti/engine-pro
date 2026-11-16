@@ -1,9 +1,34 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1913,
-    "Pesquisas":  21945,
-    "N48":  2530,
+    "Conhecimentos":  1914,
+    "Pesquisas":  21961,
+    "N48":  2546,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-16 13:56:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo PST corrompido",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-16 13:56:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 44 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-16 13:56:42",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1510 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-16 13:32:23",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não encontra e-mails",
@@ -13,31 +38,6 @@
                          "Data":  "2026-11-16 13:32:07",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook pedindo a senha toda hora",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-16 13:31:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Outlook não abre ou fica em \"Carregando perfil\"",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1494 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-16 13:31:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-16 13:31:37",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-16 12:51:12",
@@ -52,55 +52,55 @@
                  ],
     "Horas":  [
                   19,
-                  8,
-                  18,
-                  13,
-                  8,
                   12,
-                  48,
+                  18,
+                  9,
+                  12,
+                  15,
+                  41,
                   26,
-                  10,
-                  19,
+                  14,
+                  15,
                   24,
-                  64,
-                  50,
-                  51,
-                  40,
-                  55,
-                  73,
-                  32,
+                  81,
+                  33,
+                  58,
+                  43,
+                  54,
+                  74,
+                  22,
                   29,
-                  32,
+                  56,
                   48,
-                  32,
+                  8,
                   14,
                   19,
                   16,
-                  12,
+                  20,
                   22,
-                  47,
-                  88,
-                  21,
+                  48,
+                  91,
                   9,
-                  25,
-                  36,
-                  15,
-                  96,
-                  172,
-                  178,
-                  195,
-                  217,
-                  180,
-                  162,
-                  74,
-                  60,
-                  54,
-                  12,
-                  25,
-                  32,
-                  38
+                  9,
+                  37,
+                  24,
+                  16,
+                  107,
+                  213,
+                  159,
+                  204,
+                  212,
+                  175,
+                  152,
+                  51,
+                  87,
+                  27,
+                  13,
+                  24,
+                  42,
+                  44
               ],
-    "Ultima":  "2026-11-16 13:31:37",
-    "Gerado":  "2026-11-16 13:47:03",
-    "Data":  "2026-11-16 13:47"
+    "Ultima":  "2026-11-16 13:56:42",
+    "Gerado":  "2026-11-16 13:57:04",
+    "Data":  "2026-11-16 13:57"
 }
