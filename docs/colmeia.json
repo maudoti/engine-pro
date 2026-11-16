@@ -2,16 +2,16 @@
     "Resolvidos":  4,
     "Conhecimentos":  1790,
     "Pesquisas":  20477,
-    "N48":  2788,
+    "N48":  2769,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-16 00:10:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Segurança, Suspeita de vírus ou golpe",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-16 00:16",
+                         "Texto":  "Nova versão 4.50.250 publicada: Atualizacao automatica (Kit 678)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-16 00:10:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Segurança, Suspeita de vírus ou golpe",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,7 +21,7 @@
                      },
                      {
                          "Data":  "2026-11-16 00:10:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não conecta ou fica pedindo senha",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-16 00:10",
-                         "Texto":  "Nova versão 4.50.249 publicada: Atualizacao automatica (Kit 676)",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-16 00:10:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-16 00:09:33",
@@ -51,36 +51,36 @@
                      }
                  ],
     "Horas":  [
-                  229,
+                  234,
                   201,
+                  177,
+                  188,
+                  241,
                   191,
-                  198,
-                  201,
-                  216,
-                  174,
-                  80,
-                  61,
-                  45,
-                  51,
+                  159,
+                  98,
+                  43,
+                  58,
+                  38,
                   25,
                   38,
                   24,
                   15,
-                  8,
-                  18,
+                  15,
                   13,
-                  12,
                   11,
-                  61,
+                  12,
+                  22,
+                  50,
                   6,
                   23,
                   10,
                   44,
-                  63,
-                  27,
-                  67,
-                  42,
-                  75,
+                  68,
+                  46,
+                  45,
+                  45,
+                  70,
                   45,
                   32,
                   27,
@@ -90,17 +90,17 @@
                   11,
                   22,
                   13,
-                  17,
-                  20,
-                  69,
-                  70,
+                  21,
+                  16,
+                  75,
+                  64,
                   14,
                   17,
-                  24,
-                  35,
+                  36,
+                  23,
                   31
               ],
     "Ultima":  "2026-11-16 00:09:33",
-    "Gerado":  "2026-11-16 00:10:35",
-    "Data":  "2026-11-16 00:10"
+    "Gerado":  "2026-11-16 00:16:35",
+    "Data":  "2026-11-16 00:16"
 }
