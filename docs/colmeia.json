@@ -1,16 +1,16 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1919,
-    "Pesquisas":  22108,
-    "N48":  2648,
+    "Pesquisas":  22120,
+    "N48":  2659,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-16 16:46:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-16 16:48:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 52 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-16 16:46:43",
+                         "Data":  "2026-11-16 16:48:18",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-16 16:28:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Erro 1618: outra instalação em andamento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-16 16:48",
+                         "Texto":  "Nova versão 4.50.266 publicada: Atualizacao automatica (Kit 696)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1657 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1668 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-16 16:12",
-                         "Texto":  "Nova versão 4.50.265 publicada: Atualizacao automatica (Kit 694)",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-16 16:28:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Erro 1618: outra instalação em andamento",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-16 16:07:12",
@@ -56,15 +56,15 @@
                   12,
                   48,
                   26,
-                  10,
-                  19,
+                  14,
+                  15,
                   24,
                   64,
                   50,
                   51,
-                  40,
-                  55,
-                  73,
+                  48,
+                  53,
+                  67,
                   32,
                   29,
                   32,
@@ -75,32 +75,32 @@
                   16,
                   12,
                   22,
-                  48,
-                  87,
-                  21,
+                  56,
+                  82,
+                  18,
                   9,
                   25,
                   36,
                   15,
-                  96,
-                  172,
-                  178,
+                  98,
+                  176,
+                  177,
                   195,
-                  217,
-                  180,
-                  162,
-                  74,
+                  215,
+                  182,
+                  163,
+                  68,
                   60,
                   54,
                   12,
                   25,
-                  32,
-                  38,
+                  37,
+                  33,
                   44,
                   74,
-                  45
+                  56
               ],
-    "Ultima":  "2026-11-16 16:46:58",
-    "Gerado":  "2026-11-16 16:47:04",
-    "Data":  "2026-11-16 16:47"
+    "Ultima":  "2026-11-16 16:48:32",
+    "Gerado":  "2026-11-16 16:48:36",
+    "Data":  "2026-11-16 16:48"
 }
