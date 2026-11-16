@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1882,
-    "Pesquisas":  21672,
-    "N48":  2611,
+    "Conhecimentos":  1884,
+    "Pesquisas":  21682,
+    "N48":  2583,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-16 06:56:58",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-16 06:59:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive não abre ou o ícone sumiu",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-16 06:56:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 143 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-16 06:59:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Cópias em conflito (arquivo com o nome do computador)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-16 06:49:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1221 pesquisas em bases técnicas",
+                         "Data":  "2026-11-16 06:58:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 153 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-16 06:48:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos com X vermelho (erro de sincronização)",
-                         "Nivel":  "ok"
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1231 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-16 06:48:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Sincronização do OneDrive muito lenta",
+                         "Data":  "2026-11-16 06:57:19",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-16 06:49:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Áudio, Computador sem som",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  111,
-                  50,
-                  56,
-                  42,
-                  41,
-                  26,
-                  28,
-                  19,
-                  12,
-                  18,
-                  9,
-                  12,
-                  15,
-                  41,
-                  26,
-                  14,
-                  15,
-                  24,
-                  81,
-                  33,
-                  58,
+                  73,
+                  68,
+                  38,
                   43,
-                  54,
-                  74,
-                  22,
-                  29,
-                  56,
-                  48,
+                  40,
+                  38,
+                  24,
+                  15,
                   8,
+                  18,
+                  10,
+                  15,
+                  11,
+                  61,
+                  6,
                   14,
-                  19,
+                  15,
+                  48,
+                  62,
+                  28,
+                  67,
+                  42,
+                  61,
+                  59,
+                  32,
+                  27,
+                  48,
+                  48,
                   16,
-                  20,
+                  11,
+                  16,
+                  19,
+                  15,
                   22,
                   48,
                   91,
-                  9,
-                  9,
-                  37,
+                  14,
+                  17,
                   24,
-                  16,
-                  107,
-                  213,
-                  159,
-                  204,
-                  212,
-                  175,
-                  151
+                  35,
+                  14,
+                  147,
+                  171,
+                  191,
+                  217,
+                  197,
+                  169,
+                  130
               ],
-    "Ultima":  "2026-11-16 06:56:58",
-    "Gerado":  "2026-11-16 06:57:03",
-    "Data":  "2026-11-16 06:57"
+    "Ultima":  "2026-11-16 06:58:34",
+    "Gerado":  "2026-11-16 07:07:03",
+    "Data":  "2026-11-16 07:07"
 }
