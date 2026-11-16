@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1866,
-    "Pesquisas":  21521,
-    "N48":  2657,
+    "Conhecimentos":  1871,
+    "Pesquisas":  21552,
+    "N48":  2647,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-16 05:54:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071AC3 (ERROR_DIRTY_VOLUME) no Windows",
+                         "Data":  "2026-11-16 06:04:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar memória defeituosa com o Diagnóstico de Memória do Windows...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-16 05:54:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 169 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-16 06:04:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como executar o diagnóstico SupportAssist ou ePSA em notebook Dell e interpre...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-16 05:54:07",
+                         "Data":  "2026-11-16 06:04:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar um disco com SMART degradado usando CrystalDiskInfo e chkdsk?",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1101 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-16 06:04:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-16 06:04:12",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1070 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-16 05:44:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que uma impressora de rede aparece offline e como corrigir a porta WSD ou...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-16 05:44:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conflito de IP na rede",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-16 04:59:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 210 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-16 05:59:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 177 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  197,
-                  111,
-                  50,
-                  56,
-                  42,
-                  41,
-                  26,
-                  28,
-                  19,
-                  12,
-                  18,
-                  9,
-                  12,
-                  15,
-                  41,
-                  26,
-                  14,
-                  15,
-                  24,
-                  81,
-                  33,
-                  58,
+                  194,
+                  73,
+                  68,
+                  38,
                   43,
-                  54,
-                  74,
-                  22,
-                  29,
-                  56,
-                  48,
+                  40,
+                  38,
+                  24,
+                  15,
                   8,
+                  18,
+                  10,
+                  15,
+                  11,
+                  61,
+                  6,
                   14,
-                  19,
+                  15,
+                  48,
+                  62,
+                  28,
+                  67,
+                  42,
+                  61,
+                  59,
+                  32,
+                  27,
+                  48,
+                  48,
                   16,
-                  20,
+                  11,
+                  16,
+                  19,
+                  15,
                   22,
                   48,
                   91,
-                  9,
-                  9,
-                  37,
+                  14,
+                  17,
                   24,
-                  16,
-                  107,
-                  213,
-                  159,
-                  204,
-                  212,
-                  175
+                  35,
+                  14,
+                  147,
+                  171,
+                  191,
+                  217,
+                  197,
+                  169
               ],
-    "Ultima":  "2026-11-16 05:54:07",
-    "Gerado":  "2026-11-16 05:57:03",
-    "Data":  "2026-11-16 05:57"
+    "Ultima":  "2026-11-16 06:04:12",
+    "Gerado":  "2026-11-16 06:07:03",
+    "Data":  "2026-11-16 06:07"
 }
