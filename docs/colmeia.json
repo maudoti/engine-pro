@@ -5,9 +5,9 @@
     "N48":  2560,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-16 09:42:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Teams pesado",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-16 09:54",
+                         "Texto":  "Nova versão 4.50.256 publicada: Atualizacao automatica (Kit 685)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-16 09:42:48",
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-16 09:42:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-16 09:42:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desempenho, Teams pesado",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 1387 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-16 09:42:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -43,64 +48,59 @@
                          "Data":  "2026-11-16 08:57:26",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-16 01:40",
-                         "Texto":  "Nova versão 4.50.255 publicada: Atualizacao automatica (Kit 684)",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  30,
-                  40,
-                  39,
+                  42,
+                  38,
+                  29,
                   28,
                   19,
-                  8,
-                  18,
-                  13,
-                  8,
                   12,
-                  48,
+                  14,
+                  13,
+                  12,
+                  15,
+                  41,
                   26,
-                  10,
-                  19,
+                  14,
+                  15,
                   24,
-                  64,
-                  50,
-                  51,
-                  40,
-                  55,
-                  73,
-                  32,
+                  69,
+                  45,
+                  54,
+                  47,
+                  54,
+                  74,
+                  22,
                   29,
+                  50,
                   32,
-                  48,
-                  32,
+                  30,
                   14,
                   19,
                   16,
-                  12,
+                  20,
                   22,
-                  47,
-                  88,
-                  21,
+                  48,
+                  91,
                   9,
-                  25,
-                  36,
+                  9,
+                  29,
+                  32,
                   15,
-                  96,
-                  172,
-                  178,
-                  195,
-                  217,
+                  108,
+                  199,
+                  153,
+                  224,
+                  207,
                   180,
-                  162,
-                  74,
-                  60,
-                  54
+                  141,
+                  62,
+                  72,
+                  42
               ],
     "Ultima":  "2026-11-16 09:42:14",
-    "Gerado":  "2026-11-16 09:47:03",
-    "Data":  "2026-11-16 09:47"
+    "Gerado":  "2026-11-16 09:54:36",
+    "Data":  "2026-11-16 09:54"
 }
