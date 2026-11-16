@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  1917,
+    "Conhecimentos":  1918,
     "Pesquisas":  22067,
     "N48":  2621,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-16 15:58:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 64 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-16 16:08",
+                         "Texto":  "Nova versão 4.50.264 publicada: Atualizacao automatica (Kit 693)",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-16 15:58",
-                         "Texto":  "Nova versão 4.50.263 publicada: Atualizacao automatica (Kit 692)",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-16 16:07:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-16 15:44:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-16 15:58:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 64 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 1616 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-16 15:44:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-16 15:44:19",
@@ -43,64 +48,59 @@
                          "Data":  "2026-11-16 14:30:40",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Referências externas (XREF) não encontradas",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-16 13:56:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo PST corrompido",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   18,
-                  10,
-                  15,
+                  13,
+                  12,
                   11,
                   61,
                   6,
                   14,
-                  15,
-                  48,
-                  62,
-                  28,
+                  18,
+                  45,
+                  63,
+                  27,
                   67,
                   42,
-                  61,
-                  59,
+                  66,
+                  54,
                   32,
                   27,
                   48,
                   48,
                   16,
                   11,
-                  16,
-                  19,
+                  22,
+                  13,
                   15,
                   22,
-                  48,
-                  91,
+                  53,
+                  86,
                   14,
                   17,
                   24,
                   35,
-                  14,
-                  147,
-                  171,
-                  191,
-                  217,
-                  197,
+                  25,
+                  152,
+                  155,
+                  200,
+                  208,
+                  198,
                   169,
-                  130,
-                  68,
-                  64,
+                  129,
+                  72,
+                  60,
                   24,
                   13,
                   36,
-                  30,
-                  44,
+                  34,
+                  40,
                   42,
                   64
               ],
     "Ultima":  "2026-11-16 15:58:20",
-    "Gerado":  "2026-11-16 16:07:04",
-    "Data":  "2026-11-16 16:07"
+    "Gerado":  "2026-11-16 16:08:38",
+    "Data":  "2026-11-16 16:08"
 }
