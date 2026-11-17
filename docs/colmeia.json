@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2053,
-    "Pesquisas":  24006,
-    "N48":  3765,
+    "Conhecimentos":  2055,
+    "Pesquisas":  24014,
+    "N48":  3758,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-17 17:36:54",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 17:38:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 17:36:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 17:38:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 17:30:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1633 pesquisas em bases técnicas",
+                         "Data":  "2026-11-17 17:38:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 58 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-17 17:25:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1641 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 17:38:13",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 17:30:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -43,64 +48,59 @@
                          "Data":  "2026-11-17 16:46:25",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-17 15:20:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome lento ou consumindo muita memória",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  103,
-                  16,
-                  14,
+                  87,
+                  21,
+                  9,
                   25,
-                  24,
-                  27,
-                  63,
-                  185,
-                  155,
-                  197,
-                  223,
-                  186,
-                  165,
-                  71,
-                  89,
-                  43,
-                  23,
-                  13,
-                  42,
-                  40,
+                  36,
+                  15,
+                  96,
+                  172,
+                  178,
+                  195,
+                  217,
+                  180,
+                  162,
+                  74,
+                  60,
+                  54,
+                  12,
+                  25,
+                  32,
+                  38,
                   44,
+                  74,
                   45,
-                  63,
-                  30,
-                  62,
+                  49,
                   45,
-                  50,
+                  37,
+                  45,
                   26,
-                  35,
-                  28,
-                  140,
-                  78,
-                  189,
-                  225,
-                  185,
-                  126,
-                  138,
-                  130,
-                  23,
-                  40,
-                  39,
-                  59,
-                  31,
                   43,
+                  20,
+                  172,
+                  76,
+                  205,
+                  214,
+                  171,
+                  120,
+                  139,
+                  114,
+                  32,
+                  31,
+                  51,
                   47,
-                  46,
-                  41,
-                  53
+                  39,
+                  35,
+                  60,
+                  60,
+                  17,
+                  58
               ],
-    "Ultima":  "2026-11-17 17:36:54",
-    "Gerado":  "2026-11-17 17:37:05",
-    "Data":  "2026-11-17 17:37"
+    "Ultima":  "2026-11-17 17:38:13",
+    "Gerado":  "2026-11-17 17:47:04",
+    "Data":  "2026-11-17 17:47"
 }
