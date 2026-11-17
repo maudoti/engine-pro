@@ -5,8 +5,18 @@
     "N48":  3601,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-17 09:44",
+                         "Texto":  "Nova versão 4.50.295 publicada: Atualizacao automatica (Kit 731)",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-17 09:32:42",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora aparece offline",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
                          "Nivel":  "ok"
                      },
                      {
@@ -16,18 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 1274 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 09:32:39",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Windows não ativado",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1274 pesquisas em bases técnicas",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 09:32:01",
@@ -43,64 +48,59 @@
                          "Data":  "2026-11-17 08:47:53",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-17 08:14",
-                         "Texto":  "Nova versão 4.50.294 publicada: Atualizacao automatica (Kit 730)",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
                   48,
-                  25,
-                  21,
-                  12,
-                  23,
+                  32,
+                  14,
+                  15,
+                  20,
                   12,
                   22,
-                  32,
-                  103,
+                  42,
+                  93,
                   16,
                   14,
                   25,
-                  24,
-                  27,
-                  63,
-                  185,
-                  155,
-                  197,
-                  223,
-                  186,
+                  36,
+                  15,
+                  96,
                   165,
+                  169,
+                  211,
+                  212,
+                  183,
+                  152,
+                  75,
                   71,
-                  89,
-                  43,
-                  23,
-                  13,
-                  42,
+                  54,
+                  12,
+                  25,
+                  30,
                   40,
                   44,
-                  45,
-                  63,
-                  30,
-                  62,
-                  45,
+                  74,
+                  37,
+                  57,
+                  43,
+                  34,
                   50,
                   26,
-                  35,
-                  28,
-                  140,
-                  78,
-                  189,
-                  225,
+                  43,
+                  20,
+                  160,
+                  88,
                   185,
-                  126,
-                  138,
-                  130,
+                  230,
+                  163,
+                  131,
+                  133,
+                  121,
                   23,
                   40
               ],
     "Ultima":  "2026-11-17 09:32:01",
-    "Gerado":  "2026-11-17 09:37:04",
-    "Data":  "2026-11-17 09:37"
+    "Gerado":  "2026-11-17 09:44:39",
+    "Data":  "2026-11-17 09:44"
 }
