@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.302 | Atualizacao automatica (Kit 742) | 17/11/2026
+
+- **Melhoria**: Atualizacao automatica (Kit 742).
+
 ## Versão 4.50.301 | Atualizacao automatica (Kit 741) | 17/11/2026
 
 - **Melhoria**: Atualizacao automatica (Kit 741).

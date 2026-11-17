@@ -1,5 +1,12 @@
 [
     {
+        "Versao":  "4.50.302",
+        "Data":  "2026-11-17 13:34",
+        "Notas":  "Atualizacao automatica (Kit 742)",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.302/EnginePro_Setup_4.50.302.exe"
+    },
+    {
         "Versao":  "4.50.301",
         "Data":  "2026-11-17 13:02",
         "Notas":  "Atualizacao automatica (Kit 741)",
