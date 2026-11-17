@@ -1,13 +1,23 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2051,
-    "Pesquisas":  23909,
-    "N48":  3729,
+    "Pesquisas":  23912,
+    "N48":  3724,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-17 15:36:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 32 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-17 15:26",
                          "Texto":  "Nova versão 4.50.307 publicada: Atualizacao automatica (Kit 749)",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-17 15:20:03",
@@ -16,8 +26,8 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 1538 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 15:14:37",
@@ -25,19 +35,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1536 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-17 15:14:34",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-17 15:14:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 15:14:18",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  21,
-                  40,
-                  79,
-                  40,
-                  10,
-                  29,
-                  24,
-                  23,
-                  33,
-                  188,
-                  160,
-                  189,
-                  227,
-                  185,
-                  162,
-                  104,
-                  61,
-                  71,
-                  12,
+                  22,
+                  32,
+                  103,
+                  16,
+                  14,
                   25,
-                  42,
-                  28,
-                  41,
-                  59,
-                  58,
-                  36,
-                  62,
-                  39,
-                  38,
-                  38,
-                  41,
-                  28,
-                  84,
-                  130,
-                  152,
-                  249,
-                  172,
-                  144,
-                  133,
-                  122,
-                  48,
+                  24,
                   27,
-                  46,
-                  51,
-                  38,
+                  63,
+                  185,
+                  155,
+                  197,
+                  223,
+                  186,
+                  165,
+                  71,
+                  89,
+                  43,
+                  23,
+                  13,
+                  42,
+                  40,
+                  44,
+                  45,
+                  63,
+                  30,
+                  62,
+                  45,
                   50,
+                  26,
+                  35,
+                  28,
+                  140,
+                  78,
+                  189,
+                  225,
+                  185,
+                  126,
+                  138,
+                  130,
+                  23,
+                  40,
+                  39,
+                  59,
+                  31,
+                  43,
                   47,
-                  43
+                  45
               ],
-    "Ultima":  "2026-11-17 15:14:18",
-    "Gerado":  "2026-11-17 15:27:04",
-    "Data":  "2026-11-17 15:27"
+    "Ultima":  "2026-11-17 15:36:32",
+    "Gerado":  "2026-11-17 15:37:04",
+    "Data":  "2026-11-17 15:37"
 }
