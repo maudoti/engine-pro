@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.281",
+        "Data":  "2026-11-16 23:26",
+        "Titulo":  "Atualizacao automatica (Kit 716)",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Atualizacao automatica (Kit 716)."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.280",
         "Data":  "2026-11-16 22:44",
         "Titulo":  "Atualizacao automatica (Kit 714)",
