@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2064,
-    "Pesquisas":  24135,
-    "N48":  3761,
+    "Conhecimentos":  2067,
+    "Pesquisas":  24152,
+    "N48":  3778,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-17 20:40",
-                         "Texto":  "Nova versão 4.50.321 publicada: Atualizacao automatica (Kit 766)",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 20:54:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Acesso remoto, TeamViewer com \"suspeita de uso comercial\" (sessões caindo)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 20:29:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
+                         "Data":  "2026-11-17 20:54:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80041003 (WBEM_E_ACCESS_DENIED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,87 +20,87 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 20:29:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 20:54:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8000FFFF (E_UNEXPECTED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1762 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1779 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-17 20:29:41",
+                         "Data":  "2026-11-17 20:53:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 40 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 20:53:37",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 20:40",
+                         "Texto":  "Nova versão 4.50.321 publicada: Atualizacao automatica (Kit 766)",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 19:59:25",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-17 18:55:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-17 18:55:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072EE2 (ERROR_INTERNET_TIMEOUT) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  25,
-                  36,
-                  15,
-                  96,
-                  172,
-                  178,
-                  195,
-                  217,
-                  180,
-                  162,
-                  74,
-                  60,
-                  54,
-                  12,
-                  25,
-                  32,
-                  38,
-                  44,
-                  74,
-                  45,
-                  49,
-                  45,
                   37,
-                  45,
-                  26,
-                  43,
-                  20,
-                  172,
-                  76,
-                  205,
-                  214,
-                  171,
-                  120,
-                  139,
-                  114,
-                  32,
-                  31,
-                  51,
-                  47,
-                  39,
-                  35,
+                  24,
+                  16,
+                  107,
+                  213,
+                  159,
+                  204,
+                  212,
+                  175,
+                  151,
+                  52,
+                  87,
+                  27,
+                  13,
+                  24,
+                  42,
+                  44,
+                  42,
                   60,
+                  58,
+                  36,
+                  45,
+                  50,
+                  47,
+                  13,
+                  41,
+                  20,
+                  177,
+                  91,
+                  243,
+                  198,
+                  150,
+                  126,
+                  166,
+                  70,
+                  27,
+                  43,
+                  36,
+                  51,
+                  42,
+                  43,
+                  43,
                   60,
                   17,
                   58,
-                  33,
-                  53,
-                  35
+                  51,
+                  43,
+                  44
               ],
-    "Ultima":  "2026-11-17 20:29:41",
-    "Gerado":  "2026-11-17 20:47:03",
-    "Data":  "2026-11-17 20:47"
+    "Ultima":  "2026-11-17 20:53:37",
+    "Gerado":  "2026-11-17 20:57:03",
+    "Data":  "2026-11-17 20:57"
 }
