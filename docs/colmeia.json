@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  1981,
-    "Pesquisas":  23118,
-    "N48":  3317,
+    "Pesquisas":  23152,
+    "N48":  3346,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-17 04:06:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o acesso negado no SharePoint causado por quebra de herança de...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-17 04:16:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 63 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-17 04:06:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-17 04:16:24",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 04:06:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x803F7001 (ACTIVATION_NO_LICENSE) no Windows",
+                         "Data":  "2026-11-17 04:06:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o acesso negado no SharePoint causado por quebra de herança de...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 745 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 779 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-17 04:06:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 04:06:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 04:06:15",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 04:06:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x803F7001 (ACTIVATION_NO_LICENSE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-17 03:59:44",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  42,
-                  61,
-                  59,
+                  43,
+                  69,
+                  45,
                   32,
                   27,
                   48,
                   48,
                   16,
                   11,
-                  16,
-                  19,
-                  15,
                   22,
-                  48,
-                  91,
-                  14,
+                  13,
+                  21,
+                  16,
+                  76,
+                  66,
+                  11,
                   17,
-                  24,
-                  35,
-                  14,
-                  147,
-                  171,
-                  191,
-                  217,
+                  36,
+                  23,
+                  31,
+                  152,
+                  154,
                   197,
+                  252,
+                  187,
                   169,
-                  130,
-                  68,
-                  64,
-                  24,
+                  106,
+                  60,
+                  72,
+                  12,
                   13,
                   36,
-                  30,
-                  44,
-                  42,
-                  64,
-                  54,
-                  51,
-                  47,
-                  33,
-                  47,
-                  29,
+                  46,
                   28,
-                  58,
-                  170,
-                  79,
-                  283,
-                  172
+                  72,
+                  34,
+                  60,
+                  45,
+                  48,
+                  46,
+                  38,
+                  29,
+                  38,
+                  77,
+                  139,
+                  103,
+                  270,
+                  192
               ],
-    "Ultima":  "2026-11-17 04:06:15",
-    "Gerado":  "2026-11-17 04:07:03",
-    "Data":  "2026-11-17 04:07"
+    "Ultima":  "2026-11-17 04:16:50",
+    "Gerado":  "2026-11-17 04:17:03",
+    "Data":  "2026-11-17 04:17"
 }
