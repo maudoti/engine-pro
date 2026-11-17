@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2043,
-    "Pesquisas":  23731,
-    "N48":  3613,
+    "Conhecimentos":  2045,
+    "Pesquisas":  23745,
+    "N48":  3626,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-17 11:12",
-                         "Texto":  "Nova versão 4.50.298 publicada: Atualizacao automatica (Kit 736)",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 11:36:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 11:07:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 11:36:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000116 (VIDEO_TDR_FAILURE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 11:07:13",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-17 11:36:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 32 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1358 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1372 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 11:36:11",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 11:12",
+                         "Texto":  "Nova versão 4.50.298 publicada: Atualizacao automatica (Kit 736)",
                          "Nivel":  "info"
                      },
                      {
@@ -38,69 +48,59 @@
                          "Data":  "2026-11-17 10:59:17",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-17 10:20:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Spooler de impressão parando sozinho",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-17 09:32:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora aparece offline",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  20,
-                  14,
-                  15,
-                  13,
                   21,
-                  40,
-                  79,
-                  40,
-                  10,
-                  29,
-                  24,
-                  23,
-                  33,
-                  188,
-                  160,
-                  189,
-                  227,
-                  185,
-                  162,
-                  104,
-                  61,
-                  71,
                   12,
+                  23,
+                  12,
+                  22,
+                  32,
+                  103,
+                  16,
+                  14,
                   25,
-                  42,
-                  28,
-                  41,
-                  59,
-                  58,
-                  36,
-                  62,
-                  39,
-                  38,
-                  38,
-                  41,
-                  28,
-                  84,
-                  130,
-                  152,
-                  249,
-                  172,
-                  144,
-                  133,
-                  122,
-                  48,
+                  24,
                   27,
-                  46,
-                  51
+                  63,
+                  185,
+                  155,
+                  197,
+                  223,
+                  186,
+                  165,
+                  71,
+                  89,
+                  43,
+                  23,
+                  13,
+                  42,
+                  40,
+                  44,
+                  45,
+                  63,
+                  30,
+                  62,
+                  45,
+                  50,
+                  26,
+                  35,
+                  28,
+                  140,
+                  78,
+                  189,
+                  225,
+                  185,
+                  126,
+                  138,
+                  130,
+                  23,
+                  40,
+                  39,
+                  59
               ],
-    "Ultima":  "2026-11-17 11:07:13",
-    "Gerado":  "2026-11-17 11:27:04",
-    "Data":  "2026-11-17 11:27"
+    "Ultima":  "2026-11-17 11:36:11",
+    "Gerado":  "2026-11-17 11:37:04",
+    "Data":  "2026-11-17 11:37"
 }
