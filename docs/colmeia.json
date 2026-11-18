@@ -1,9 +1,34 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2193,
-    "Pesquisas":  25500,
-    "N48":  3649,
+    "Conhecimentos":  2194,
+    "Pesquisas":  25517,
+    "N48":  3666,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-18 11:14:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80041003 (WBEM_E_ACCESS_DENIED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-18 11:13:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-18 11:13:12",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1236 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-18 10:54:23",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
@@ -15,21 +40,6 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-18 10:54:06",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1219 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-18 10:18",
                          "Texto":  "Nova versão 4.50.333 publicada: Atualizacao automatica (Kit 782)",
                          "Nivel":  "info"
@@ -38,69 +48,59 @@
                          "Data":  "2026-11-18 10:13:46",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC0000135 (DLL_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-18 09:42:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 09:07:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   36,
-                  30,
-                  44,
-                  42,
-                  64,
-                  54,
-                  51,
-                  47,
-                  33,
-                  47,
-                  29,
+                  46,
                   28,
+                  72,
+                  34,
                   60,
-                  168,
-                  79,
-                  283,
-                  172,
-                  137,
-                  136,
-                  143,
-                  71,
-                  25,
-                  35,
-                  65,
-                  21,
+                  45,
+                  48,
+                  46,
+                  38,
+                  29,
+                  38,
+                  77,
+                  139,
+                  103,
+                  270,
+                  193,
+                  130,
+                  126,
+                  145,
+                  53,
+                  27,
+                  33,
+                  64,
+                  37,
+                  34,
                   51,
+                  56,
+                  34,
+                  13,
+                  73,
+                  54,
                   34,
                   43,
-                  64,
-                  13,
-                  70,
-                  39,
-                  52,
-                  35,
-                  53,
+                  45,
                   31,
-                  59,
-                  198,
-                  118,
-                  107,
-                  140,
+                  110,
+                  173,
+                  112,
+                  112,
+                  126,
+                  144,
                   137,
-                  152,
-                  146,
-                  70,
-                  55,
-                  28,
-                  54
+                  166,
+                  69,
+                  33,
+                  47,
+                  52
               ],
-    "Ultima":  "2026-11-18 10:54:06",
-    "Gerado":  "2026-11-18 11:07:09",
-    "Data":  "2026-11-18 11:07"
+    "Ultima":  "2026-11-18 11:13:42",
+    "Gerado":  "2026-11-18 11:17:04",
+    "Data":  "2026-11-18 11:17"
 }
