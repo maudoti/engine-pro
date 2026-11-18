@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2077,
-    "Pesquisas":  24245,
-    "N48":  3799,
+    "Conhecimentos":  2078,
+    "Pesquisas":  24251,
+    "N48":  3805,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-17 23:26:03",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-17 23:32",
+                         "Texto":  "Nova versão 4.50.328 publicada: Atualizacao automatica (Kit 775)",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-17 23:26:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 23:29:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071AC3 (ERROR_DIRTY_VOLUME) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 23:12",
-                         "Texto":  "Nova versão 4.50.327 publicada: Atualizacao automatica (Kit 774)",
+                         "Data":  "2026-11-17 23:29:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1872 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1878 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 23:28:48",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -43,49 +48,44 @@
                          "Data":  "2026-11-17 22:33:29",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-17 22:33:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071129 (ERROR_REPARSE_TAG_INVALID) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  40,
-                  192,
-                  153,
-                  199,
-                  222,
-                  184,
-                  156,
-                  102,
-                  64,
-                  68,
+                  67,
+                  174,
+                  149,
+                  214,
+                  220,
+                  186,
+                  147,
+                  91,
+                  70,
+                  62,
                   12,
                   25,
                   42,
-                  28,
-                  43,
-                  57,
+                  40,
+                  44,
+                  44,
                   64,
                   30,
                   62,
                   45,
-                  32,
-                  38,
+                  45,
+                  25,
                   41,
                   28,
-                  92,
-                  122,
-                  157,
-                  251,
-                  167,
-                  142,
-                  139,
-                  120,
-                  44,
-                  28,
-                  45,
+                  129,
+                  85,
+                  188,
+                  221,
+                  174,
+                  137,
+                  147,
+                  129,
+                  24,
+                  40,
+                  33,
                   51,
                   38,
                   50,
@@ -93,14 +93,14 @@
                   43,
                   44,
                   33,
-                  43,
-                  54,
-                  44,
-                  43,
+                  60,
+                  37,
+                  52,
                   35,
-                  40
+                  47,
+                  34
               ],
-    "Ultima":  "2026-11-17 23:26:03",
-    "Gerado":  "2026-11-17 23:28:27",
-    "Data":  "2026-11-17 23:28"
+    "Ultima":  "2026-11-17 23:29:25",
+    "Gerado":  "2026-11-17 23:32:35",
+    "Data":  "2026-11-17 23:32"
 }
