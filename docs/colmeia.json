@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2156,
-    "Pesquisas":  24897,
-    "N48":  3654,
+    "Pesquisas":  24914,
+    "N48":  3641,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 04:25:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a fila de impressão travada limpando o serviço Spooler e a past...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 04:36:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 04:25:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Referências externas (XREF) não encontradas",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 04:36:33",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-18 04:25:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a fila de impressão travada limpando o serviço Spooler e a past...",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 633 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-18 04:25:00",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007F (UNEXPECTED_KERNEL_MODE_TRAP) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 616 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 04:24:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 39 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 04:24:41",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-18 04:25:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Referências externas (XREF) não encontradas",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-18 03:59:43",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  185,
-                  162,
-                  104,
-                  61,
+                  186,
+                  165,
                   71,
-                  12,
-                  25,
+                  89,
+                  43,
+                  23,
+                  13,
                   42,
-                  28,
-                  41,
-                  59,
-                  58,
-                  36,
-                  62,
-                  39,
-                  38,
-                  38,
-                  41,
-                  28,
-                  84,
-                  130,
-                  152,
-                  249,
-                  172,
-                  144,
-                  133,
-                  122,
-                  48,
-                  27,
-                  46,
-                  51,
-                  38,
-                  50,
-                  47,
-                  43,
-                  44,
-                  33,
-                  43,
-                  54,
-                  37,
-                  50,
-                  35,
                   40,
-                  142,
-                  161,
-                  96,
-                  115,
-                  138
+                  44,
+                  45,
+                  63,
+                  30,
+                  62,
+                  45,
+                  50,
+                  26,
+                  35,
+                  28,
+                  140,
+                  78,
+                  189,
+                  225,
+                  185,
+                  126,
+                  138,
+                  130,
+                  23,
+                  40,
+                  39,
+                  59,
+                  31,
+                  43,
+                  47,
+                  46,
+                  41,
+                  53,
+                  41,
+                  50,
+                  38,
+                  35,
+                  52,
+                  29,
+                  168,
+                  146,
+                  98,
+                  125,
+                  126
               ],
-    "Ultima":  "2026-11-18 04:24:41",
-    "Gerado":  "2026-11-18 04:27:04",
-    "Data":  "2026-11-18 04:27"
+    "Ultima":  "2026-11-18 04:36:45",
+    "Gerado":  "2026-11-18 04:37:04",
+    "Data":  "2026-11-18 04:37"
 }
