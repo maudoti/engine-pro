@@ -5,9 +5,9 @@
     "N48":  3771,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-17 21:18:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE8A (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-17 21:32",
+                         "Texto":  "Nova versão 4.50.324 publicada: Atualizacao automatica (Kit 770)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 21:18:47",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-17 21:18:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-17 21:18:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE8A (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -31,12 +31,12 @@
                      },
                      {
                          "Data":  "2026-11-17 21:18:29",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-17 21:04",
-                         "Texto":  "Nova versão 4.50.323 publicada: Atualizacao automatica (Kit 768)",
+                         "Data":  "2026-11-17 21:18:29",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -53,41 +53,41 @@
     "Horas":  [
                   24,
                   23,
-                  33,
-                  188,
-                  160,
-                  189,
-                  227,
-                  185,
-                  162,
-                  104,
-                  61,
-                  71,
+                  67,
+                  174,
+                  149,
+                  214,
+                  220,
+                  186,
+                  147,
+                  91,
+                  69,
+                  63,
                   12,
                   25,
                   42,
-                  28,
-                  41,
-                  59,
-                  58,
-                  36,
+                  40,
+                  44,
+                  44,
+                  64,
+                  30,
                   62,
-                  39,
-                  38,
-                  38,
+                  45,
+                  45,
+                  25,
                   41,
                   28,
-                  84,
-                  130,
-                  152,
-                  249,
-                  172,
-                  144,
-                  132,
-                  123,
-                  48,
-                  27,
-                  46,
+                  128,
+                  86,
+                  187,
+                  222,
+                  174,
+                  137,
+                  147,
+                  129,
+                  24,
+                  40,
+                  33,
                   51,
                   38,
                   50,
@@ -95,12 +95,12 @@
                   43,
                   44,
                   33,
-                  43,
-                  54,
+                  60,
                   37,
-                  50
+                  52,
+                  35
               ],
     "Ultima":  "2026-11-17 21:18:29",
-    "Gerado":  "2026-11-17 21:27:03",
-    "Data":  "2026-11-17 21:27"
+    "Gerado":  "2026-11-17 21:32:34",
+    "Data":  "2026-11-17 21:32"
 }
