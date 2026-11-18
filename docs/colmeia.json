@@ -1,9 +1,39 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2076,
-    "Pesquisas":  24222,
-    "N48":  3787,
+    "Conhecimentos":  2077,
+    "Pesquisas":  24236,
+    "N48":  3790,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-17 23:02:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Conflito de IP na rede",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-17 23:02:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-17 23:02:39",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1863 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-17 22:59:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-17 22:50",
                          "Texto":  "Nova versão 4.50.326 publicada: Atualizacao automatica (Kit 773)",
@@ -15,87 +45,62 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1849 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-17 22:33:28",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071129 (ERROR_REPARSE_TAG_INVALID) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-17 22:33:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-17 22:32:57",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-17 22:06:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007016A (ERROR_CLOUD_FILE_PROVIDER_NOT_RUNNING) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-17 21:44:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  16,
-                  107,
-                  213,
-                  159,
-                  204,
-                  212,
-                  175,
-                  151,
-                  52,
-                  87,
-                  27,
-                  13,
+                  14,
+                  147,
+                  171,
+                  191,
+                  217,
+                  197,
+                  169,
+                  130,
+                  68,
+                  64,
                   24,
-                  42,
-                  44,
-                  42,
-                  60,
-                  58,
-                  36,
-                  45,
-                  50,
-                  47,
                   13,
-                  41,
-                  20,
-                  177,
-                  91,
-                  243,
-                  198,
-                  150,
-                  126,
-                  166,
-                  70,
-                  27,
-                  43,
                   36,
-                  51,
-                  42,
-                  43,
-                  43,
-                  60,
-                  17,
-                  58,
-                  51,
-                  43,
+                  30,
                   44,
+                  42,
+                  64,
+                  54,
+                  51,
+                  47,
+                  33,
+                  47,
+                  29,
+                  28,
+                  58,
+                  170,
+                  79,
+                  283,
+                  172,
+                  137,
+                  136,
+                  143,
+                  71,
+                  24,
+                  36,
+                  65,
+                  21,
+                  51,
+                  34,
+                  43,
+                  64,
+                  13,
+                  70,
+                  39,
+                  52,
                   35,
-                  35
+                  53,
+                  31
               ],
-    "Ultima":  "2026-11-17 22:33:16",
-    "Gerado":  "2026-11-17 22:57:03",
-    "Data":  "2026-11-17 22:57"
+    "Ultima":  "2026-11-17 23:02:39",
+    "Gerado":  "2026-11-17 23:07:04",
+    "Data":  "2026-11-17 23:07"
 }
