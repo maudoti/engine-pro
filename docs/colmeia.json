@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2087,
-    "Pesquisas":  24477,
-    "N48":  3919,
+    "Pesquisas":  24493,
+    "N48":  3886,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 00:56:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 196 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-18 01:06:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 00:48:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 01:05:16",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-18 00:59:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 200 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 212 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-18 00:48:10",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reparar um arquivo PST corrompido com a ferramenta ScanPST?",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 196 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-18 00:48:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-18 00:48:10",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Falha de login no domínio por relógio errado",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-18 00:47:35",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-17 23:57:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 58 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 23:32",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  213,
-                  159,
-                  204,
-                  212,
-                  175,
-                  151,
-                  52,
-                  87,
-                  27,
-                  13,
+                  171,
+                  191,
+                  217,
+                  197,
+                  169,
+                  130,
+                  68,
+                  64,
                   24,
-                  42,
-                  44,
-                  42,
-                  60,
-                  58,
-                  36,
-                  45,
-                  50,
-                  47,
                   13,
-                  41,
-                  20,
-                  177,
-                  91,
-                  243,
-                  198,
-                  150,
-                  126,
-                  166,
-                  70,
-                  27,
-                  43,
                   36,
-                  51,
-                  42,
-                  43,
-                  43,
-                  60,
-                  17,
-                  58,
-                  51,
-                  43,
+                  30,
                   44,
-                  35,
+                  42,
+                  64,
+                  54,
+                  51,
+                  47,
+                  33,
+                  47,
+                  29,
+                  28,
+                  58,
+                  170,
+                  79,
+                  283,
+                  172,
+                  137,
+                  136,
+                  142,
+                  72,
+                  24,
+                  36,
+                  65,
+                  21,
+                  51,
+                  34,
+                  43,
+                  64,
+                  13,
+                  70,
+                  39,
+                  52,
                   35,
                   53,
-                  202
+                  31,
+                  59,
+                  198
               ],
-    "Ultima":  "2026-11-18 00:56:05",
-    "Gerado":  "2026-11-18 00:57:03",
-    "Data":  "2026-11-18 00:57"
+    "Ultima":  "2026-11-18 01:06:48",
+    "Gerado":  "2026-11-18 01:07:03",
+    "Data":  "2026-11-18 01:07"
 }
