@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2172,
-    "Pesquisas":  25146,
-    "N48":  3594,
+    "Conhecimentos":  2173,
+    "Pesquisas":  25150,
+    "N48":  3562,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 06:06:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-18 06:07:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word não abre o documento ou trava ao abrir",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-18 06:06:20",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-18 06:07:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 32 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-18 05:59:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 152 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-18 06:07:32",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 865 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 869 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-18 05:59:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 152 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -40,67 +45,62 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-18 05:36:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-17 23:32",
                          "Texto":  "Nova versão 4.50.328 publicada: Atualizacao automatica (Kit 775)",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  130,
-                  68,
-                  64,
-                  24,
+                  106,
+                  60,
+                  72,
+                  12,
                   13,
                   36,
-                  30,
-                  44,
-                  42,
-                  64,
-                  54,
-                  51,
-                  47,
-                  33,
-                  47,
-                  29,
+                  46,
                   28,
-                  58,
-                  170,
-                  79,
-                  283,
-                  172,
-                  137,
-                  136,
-                  142,
                   72,
-                  24,
+                  34,
+                  60,
+                  45,
+                  48,
+                  46,
+                  38,
+                  29,
+                  38,
+                  77,
+                  139,
+                  103,
+                  270,
+                  192,
+                  131,
+                  126,
+                  145,
+                  53,
+                  27,
+                  33,
+                  64,
                   36,
-                  65,
-                  21,
+                  35,
                   51,
+                  56,
+                  34,
+                  13,
+                  73,
+                  54,
                   34,
                   43,
-                  64,
-                  13,
-                  70,
-                  39,
-                  52,
-                  35,
-                  53,
+                  45,
                   31,
-                  59,
-                  198,
-                  118,
-                  106,
-                  141,
-                  137,
-                  151
+                  110,
+                  173,
+                  112,
+                  112,
+                  126,
+                  144,
+                  137
               ],
-    "Ultima":  "2026-11-18 06:06:44",
-    "Gerado":  "2026-11-18 06:07:03",
-    "Data":  "2026-11-18 06:07"
+    "Ultima":  "2026-11-18 06:07:32",
+    "Gerado":  "2026-11-18 06:17:03",
+    "Data":  "2026-11-18 06:17"
 }
