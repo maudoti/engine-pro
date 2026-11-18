@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2151,
-    "Pesquisas":  24858,
-    "N48":  3672,
+    "Pesquisas":  24869,
+    "N48":  3637,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 04:00:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Áudio ou microfone não funciona no Teams",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 04:16:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 04:00:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como identificar um driver com problema no Gerenciador de Dispositivos pelo c...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 04:15:14",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,27 +21,27 @@
                      },
                      {
                          "Data":  "2026-11-18 04:00:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Áudio ou microfone não funciona no Teams",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 577 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 588 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-18 04:00:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como identificar um driver com problema no Gerenciador de Dispositivos pelo c...",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-18 04:00:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-18 03:59:43",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 143 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 03:59:43",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 02:57:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 110 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  197,
+                  187,
                   169,
-                  130,
-                  68,
-                  64,
-                  24,
+                  106,
+                  60,
+                  72,
+                  12,
                   13,
                   36,
-                  30,
-                  44,
-                  42,
-                  64,
-                  54,
-                  51,
-                  47,
-                  33,
-                  47,
-                  29,
+                  46,
                   28,
-                  58,
-                  170,
-                  79,
-                  283,
-                  172,
-                  137,
-                  136,
-                  142,
                   72,
-                  24,
+                  34,
+                  60,
+                  45,
+                  48,
+                  46,
+                  38,
+                  29,
+                  38,
+                  77,
+                  139,
+                  103,
+                  270,
+                  192,
+                  131,
+                  126,
+                  145,
+                  53,
+                  27,
+                  33,
+                  64,
                   36,
-                  65,
-                  21,
+                  35,
                   51,
+                  56,
+                  34,
+                  13,
+                  73,
+                  54,
                   34,
                   43,
-                  64,
-                  13,
-                  70,
-                  39,
-                  52,
-                  35,
-                  53,
+                  45,
                   31,
-                  59,
-                  198,
-                  118,
-                  106,
-                  141
+                  110,
+                  173,
+                  112,
+                  112,
+                  126
               ],
-    "Ultima":  "2026-11-18 03:59:43",
-    "Gerado":  "2026-11-18 04:07:03",
-    "Data":  "2026-11-18 04:07"
+    "Ultima":  "2026-11-18 04:16:51",
+    "Gerado":  "2026-11-18 04:17:03",
+    "Data":  "2026-11-18 04:17"
 }
