@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2165,
-    "Pesquisas":  24995,
-    "N48":  3612,
+    "Pesquisas":  25013,
+    "N48":  3594,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 05:06:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressão demora para começar",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 05:17:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 05:06:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 05:16:32",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-18 05:06:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressão demora para começar",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 732 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-18 05:06:29",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Spooler de impressão parando sozinho",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 714 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 05:05:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 05:05:44",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-18 05:06:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-18 04:59:49",
@@ -52,55 +52,55 @@
                  ],
     "Horas":  [
                   169,
-                  130,
-                  68,
-                  64,
-                  24,
+                  106,
+                  60,
+                  72,
+                  12,
                   13,
                   36,
-                  30,
-                  44,
-                  42,
-                  64,
-                  54,
-                  51,
-                  47,
-                  33,
-                  47,
-                  29,
+                  46,
                   28,
-                  58,
-                  170,
-                  79,
-                  283,
-                  172,
-                  137,
-                  136,
-                  142,
                   72,
-                  24,
+                  34,
+                  60,
+                  45,
+                  48,
+                  46,
+                  38,
+                  29,
+                  38,
+                  77,
+                  139,
+                  103,
+                  270,
+                  192,
+                  131,
+                  126,
+                  145,
+                  53,
+                  27,
+                  33,
+                  64,
                   36,
-                  65,
-                  21,
+                  35,
                   51,
+                  56,
+                  34,
+                  13,
+                  73,
+                  54,
                   34,
                   43,
-                  64,
-                  13,
-                  70,
-                  39,
-                  52,
-                  35,
-                  53,
+                  45,
                   31,
-                  59,
-                  198,
-                  118,
-                  106,
-                  141,
-                  137
+                  110,
+                  173,
+                  112,
+                  112,
+                  126,
+                  144
               ],
-    "Ultima":  "2026-11-18 05:05:44",
-    "Gerado":  "2026-11-18 05:07:03",
-    "Data":  "2026-11-18 05:07"
+    "Ultima":  "2026-11-18 05:17:00",
+    "Gerado":  "2026-11-18 05:17:03",
+    "Data":  "2026-11-18 05:17"
 }
