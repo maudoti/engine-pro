@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2172,
-    "Pesquisas":  25111,
-    "N48":  3590,
+    "Pesquisas":  25146,
+    "N48":  3594,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 05:55:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 145 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-18 06:06:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 05:52:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar memória defeituosa com o Diagnóstico de Memória do Windows...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 06:06:20",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-18 05:59:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 152 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 865 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-18 05:52:19",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a conta Microsoft 365 bloqueada por MFA quando o usuário perdeu...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 830 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 05:52:03",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-18 05:52:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar memória defeituosa com o Diagnóstico de Memória do Windows...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-18 05:36:35",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-18 04:59:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 108 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-17 23:32",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  151,
-                  52,
-                  87,
-                  27,
-                  13,
+                  130,
+                  68,
+                  64,
                   24,
-                  42,
-                  44,
-                  42,
-                  60,
-                  58,
-                  36,
-                  45,
-                  50,
-                  47,
                   13,
-                  41,
-                  20,
-                  177,
-                  91,
-                  243,
-                  198,
-                  150,
-                  126,
-                  166,
-                  70,
-                  27,
-                  43,
                   36,
-                  51,
-                  42,
-                  43,
-                  43,
-                  60,
-                  17,
-                  58,
-                  51,
-                  43,
+                  30,
                   44,
-                  35,
+                  42,
+                  64,
+                  54,
+                  51,
+                  47,
+                  33,
+                  47,
+                  29,
+                  28,
+                  58,
+                  170,
+                  79,
+                  283,
+                  172,
+                  137,
+                  136,
+                  142,
+                  72,
+                  24,
+                  36,
+                  65,
+                  21,
+                  51,
+                  34,
+                  43,
+                  64,
+                  13,
+                  70,
+                  39,
+                  52,
                   35,
                   53,
-                  203,
-                  127,
-                  109,
-                  128,
-                  116,
-                  153
+                  31,
+                  59,
+                  198,
+                  118,
+                  106,
+                  141,
+                  137,
+                  151
               ],
-    "Ultima":  "2026-11-18 05:55:54",
-    "Gerado":  "2026-11-18 05:57:03",
-    "Data":  "2026-11-18 05:57"
+    "Ultima":  "2026-11-18 06:06:44",
+    "Gerado":  "2026-11-18 06:07:03",
+    "Data":  "2026-11-18 06:07"
 }
