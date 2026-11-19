@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2252,
-    "Pesquisas":  26111,
-    "N48":  3755,
+    "Pesquisas":  26114,
+    "N48":  3747,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 23:04:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Pesquisa do Windows não encontra arquivos",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 23:08:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 3 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 22:58:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 69 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-18 23:08",
+                         "Texto":  "Nova versão 4.50.341 publicada: Atualizacao automatica (Kit 791)",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-18 23:04:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Pesquisa do Windows não encontra arquivos",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1833 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-18 22:58:45",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1830 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-18 22:40",
-                         "Texto":  "Nova versão 4.50.340 publicada: Atualizacao automatica (Kit 790)",
+                         "Data":  "2026-11-18 22:58:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 69 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -43,64 +48,59 @@
                          "Data":  "2026-11-18 21:59:09",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Office fecha sozinho ao abrir",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-18 21:58:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 89 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  58,
-                  170,
-                  79,
-                  283,
-                  172,
-                  137,
-                  136,
+                  62,
+                  155,
+                  93,
+                  279,
+                  162,
                   143,
-                  71,
-                  24,
-                  36,
-                  65,
-                  21,
+                  130,
+                  148,
+                  66,
+                  29,
+                  31,
+                  66,
+                  20,
                   51,
                   34,
                   43,
                   64,
                   13,
-                  70,
-                  39,
+                  73,
+                  36,
                   52,
                   35,
                   53,
                   31,
-                  59,
-                  198,
-                  118,
-                  106,
-                  141,
-                  137,
-                  152,
-                  146,
-                  70,
+                  64,
+                  196,
+                  117,
+                  107,
+                  139,
+                  136,
+                  155,
+                  145,
+                  68,
                   55,
-                  28,
-                  54,
+                  32,
+                  50,
                   52,
                   35,
                   90,
                   78,
-                  35,
-                  40,
-                  24,
-                  39,
+                  41,
+                  34,
+                  25,
+                  38,
                   36,
-                  27,
-                  86,
-                  69
+                  28,
+                  85,
+                  72
               ],
-    "Ultima":  "2026-11-18 22:58:45",
-    "Gerado":  "2026-11-18 23:07:04",
-    "Data":  "2026-11-18 23:07"
+    "Ultima":  "2026-11-18 23:08:00",
+    "Gerado":  "2026-11-18 23:08:34",
+    "Data":  "2026-11-18 23:08"
 }
