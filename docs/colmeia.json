@@ -1,13 +1,13 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2277,
+    "Conhecimentos":  2278,
     "Pesquisas":  26691,
-    "N48":  2665,
+    "N48":  2662,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-19 18:07:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-19 18:07:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070003 (ERROR_PATH_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-19 18:07:01",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 17:36:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Novo Outlook não abre ou fica em tela branca",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-19 18:07:01",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 517 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-19 17:36:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Novo Outlook não abre ou fica em tela branca",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-19 17:35:57",
@@ -40,48 +45,43 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 15:56:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000122 (WHEA_INTERNAL_ERROR) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-19 00:20",
                          "Texto":  "Nova versão 4.50.345 publicada: Atualizacao automatica (Kit 796)",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  39,
-                  52,
-                  35,
-                  53,
-                  31,
-                  59,
-                  198,
-                  118,
-                  106,
-                  141,
-                  137,
-                  152,
-                  146,
-                  70,
-                  55,
-                  28,
                   54,
+                  34,
+                  43,
+                  45,
+                  31,
+                  110,
+                  173,
+                  112,
+                  112,
+                  126,
+                  144,
+                  137,
+                  166,
+                  69,
+                  33,
+                  47,
                   52,
                   35,
-                  90,
+                  58,
+                  67,
                   78,
-                  35,
-                  40,
-                  24,
-                  39,
-                  36,
+                  49,
+                  26,
+                  37,
+                  38,
                   27,
-                  86,
-                  70,
-                  62,
-                  52,
+                  45,
+                  65,
+                  72,
+                  95,
+                  17,
                   0,
                   0,
                   0,
@@ -90,17 +90,17 @@
                   0,
                   0,
                   67,
-                  53,
-                  43,
-                  74,
-                  57,
-                  19,
-                  40,
+                  65,
+                  70,
+                  35,
+                  61,
+                  35,
+                  20,
                   36,
                   36,
                   40
               ],
     "Ultima":  "2026-11-19 18:07:01",
-    "Gerado":  "2026-11-19 18:07:04",
-    "Data":  "2026-11-19 18:07"
+    "Gerado":  "2026-11-19 18:17:04",
+    "Data":  "2026-11-19 18:17"
 }
