@@ -1,12 +1,22 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2252,
+    "Conhecimentos":  2253,
     "Pesquisas":  26144,
     "N48":  3771,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-18 23:38",
+                         "Texto":  "Nova versão 4.50.343 publicada: Atualizacao automatica (Kit 793)",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-18 23:36:56",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
                          "Nivel":  "ok"
                      },
                      {
@@ -16,22 +26,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-18 23:36:38",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
                          "Texto":  "Hoje a IA já fez 1863 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 23:18",
-                         "Texto":  "Nova versão 4.50.342 publicada: Atualizacao automatica (Kit 792)",
+                         "Data":  "2026-11-18 23:36:38",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -52,55 +52,55 @@
                  ],
     "Horas":  [
                   140,
-                  78,
-                  189,
-                  225,
+                  84,
                   185,
-                  126,
-                  138,
+                  230,
+                  178,
+                  132,
+                  132,
                   130,
                   23,
                   40,
-                  39,
-                  59,
-                  31,
-                  43,
                   47,
-                  46,
-                  41,
-                  53,
-                  41,
-                  50,
+                  51,
                   38,
+                  36,
+                  47,
+                  50,
+                  37,
+                  61,
+                  33,
+                  53,
+                  35,
                   35,
                   52,
                   29,
-                  168,
-                  146,
-                  98,
-                  125,
+                  175,
+                  145,
+                  95,
                   127,
-                  156,
-                  123,
-                  144,
-                  48,
-                  32,
-                  64,
+                  129,
+                  149,
+                  132,
+                  139,
+                  46,
+                  33,
+                  61,
                   35,
                   53,
-                  51,
-                  86,
+                  61,
+                  76,
                   63,
                   48,
                   24,
                   37,
                   38,
-                  24,
-                  48,
-                  83,
-                  72
+                  25,
+                  55,
+                  78,
+                  69
               ],
     "Ultima":  "2026-11-18 23:36:38",
-    "Gerado":  "2026-11-18 23:37:04",
-    "Data":  "2026-11-18 23:37"
+    "Gerado":  "2026-11-18 23:38:35",
+    "Data":  "2026-11-18 23:38"
 }
