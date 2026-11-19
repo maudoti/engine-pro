@@ -5,9 +5,9 @@
     "N48":  3801,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-18 23:56:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word com problema no modelo Normal",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-18 23:58",
+                         "Texto":  "Nova versão 4.50.344 publicada: Atualizacao automatica (Kit 794)",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-18 23:56:22",
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-18 23:56:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
+                         "Data":  "2026-11-18 23:56:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Word, Word com problema no modelo Normal",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "Hoje a IA já fez 1893 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-18 23:56:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-18 23:55:20",
@@ -40,67 +45,62 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-18 23:38",
-                         "Texto":  "Nova versão 4.50.343 publicada: Atualizacao automatica (Kit 793)",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-18 22:58:45",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 69 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  177,
-                  91,
-                  244,
-                  197,
-                  151,
-                  125,
-                  166,
-                  70,
-                  27,
-                  43,
+                  182,
+                  86,
+                  250,
+                  195,
+                  154,
+                  120,
+                  164,
+                  74,
+                  23,
+                  44,
+                  45,
+                  41,
+                  48,
                   37,
-                  50,
-                  42,
                   43,
-                  43,
-                  60,
-                  17,
+                  64,
+                  13,
                   58,
                   51,
-                  43,
-                  44,
+                  45,
+                  42,
                   35,
                   35,
-                  53,
-                  203,
-                  127,
-                  109,
-                  128,
-                  116,
-                  154,
-                  150,
-                  101,
+                  59,
+                  199,
+                  125,
+                  110,
+                  135,
+                  111,
+                  153,
+                  158,
+                  91,
                   33,
                   48,
                   56,
                   35,
                   52,
-                  60,
-                  90,
+                  62,
+                  88,
                   51,
                   42,
                   24,
                   39,
                   36,
                   24,
-                  74,
-                  74,
-                  73
+                  86,
+                  71,
+                  64
               ],
     "Ultima":  "2026-11-18 23:55:20",
-    "Gerado":  "2026-11-18 23:57:04",
-    "Data":  "2026-11-18 23:57"
+    "Gerado":  "2026-11-18 23:58:34",
+    "Data":  "2026-11-18 23:58"
 }
