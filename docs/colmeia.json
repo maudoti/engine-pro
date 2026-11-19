@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2278,
-    "Pesquisas":  26697,
-    "N48":  2650,
+    "Conhecimentos":  2279,
+    "Pesquisas":  26715,
+    "N48":  2668,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-19 18:36:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-19 18:40:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não funciona ou não acha e-mails",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 18:36:27",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-19 18:40:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 18:07:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070003 (ERROR_PATH_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-19 18:40:17",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 523 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 541 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-19 18:07:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070003 (ERROR_PATH_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-19 17:36:14",
@@ -40,46 +45,41 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-19 16:28:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Erro 1219: várias conexões com usuários diferentes",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-19 00:20",
                          "Texto":  "Nova versão 4.50.345 publicada: Atualizacao automatica (Kit 796)",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  50,
-                  38,
+                  53,
                   35,
                   52,
-                  29,
-                  168,
-                  146,
-                  98,
-                  125,
-                  127,
-                  156,
-                  123,
-                  144,
-                  48,
-                  32,
-                  64,
                   35,
-                  53,
-                  51,
-                  86,
-                  63,
+                  29,
+                  220,
+                  110,
+                  102,
+                  137,
+                  113,
+                  154,
+                  132,
+                  123,
+                  54,
                   48,
-                  24,
-                  37,
                   38,
-                  24,
-                  48,
-                  83,
-                  72,
+                  53,
+                  35,
+                  77,
+                  71,
+                  54,
+                  46,
+                  36,
+                  25,
+                  38,
+                  36,
+                  59,
+                  70,
+                  62,
                   82,
                   0,
                   0,
@@ -89,18 +89,18 @@
                   0,
                   0,
                   34,
-                  66,
-                  32,
-                  70,
-                  70,
-                  30,
-                  31,
-                  37,
+                  67,
+                  62,
+                  48,
+                  61,
+                  41,
+                  23,
+                  34,
                   37,
                   34,
-                  30
+                  48
               ],
-    "Ultima":  "2026-11-19 18:36:48",
-    "Gerado":  "2026-11-19 18:37:04",
-    "Data":  "2026-11-19 18:37"
+    "Ultima":  "2026-11-19 18:40:17",
+    "Gerado":  "2026-11-19 18:47:05",
+    "Data":  "2026-11-19 18:47"
 }
