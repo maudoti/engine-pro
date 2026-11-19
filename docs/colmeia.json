@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2269,
-    "Pesquisas":  26520,
-    "N48":  2718,
+    "Conhecimentos":  2270,
+    "Pesquisas":  26524,
+    "N48":  2722,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-19 13:06:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-19 13:08:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Não conecta na impressora compartilhada (0x0000011B e parecidos)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 13:06:34",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-19 13:08:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-19 13:08:07",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 350 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-19 12:35:24",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora aparece offline",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 346 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-19 12:35:03",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-19 11:16:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-19 11:16:51",
@@ -51,42 +51,42 @@
                      }
                  ],
     "Horas":  [
+                  51,
+                  56,
+                  34,
+                  13,
+                  73,
+                  54,
                   34,
                   43,
-                  64,
-                  13,
-                  70,
-                  39,
-                  52,
-                  35,
-                  53,
+                  45,
                   31,
-                  59,
-                  198,
-                  118,
-                  106,
-                  141,
+                  110,
+                  173,
+                  112,
+                  112,
+                  126,
+                  144,
                   137,
-                  152,
-                  146,
-                  70,
-                  55,
-                  28,
-                  54,
+                  166,
+                  69,
+                  33,
+                  47,
                   52,
                   35,
-                  90,
+                  58,
+                  67,
                   78,
-                  35,
-                  40,
-                  24,
-                  39,
-                  36,
+                  49,
+                  26,
+                  37,
+                  38,
                   27,
-                  86,
-                  70,
-                  62,
-                  52,
+                  45,
+                  65,
+                  72,
+                  95,
+                  17,
                   0,
                   0,
                   0,
@@ -95,12 +95,12 @@
                   0,
                   0,
                   67,
-                  53,
-                  43,
-                  74,
-                  57
+                  65,
+                  70,
+                  35,
+                  61
               ],
-    "Ultima":  "2026-11-19 13:06:57",
-    "Gerado":  "2026-11-19 13:07:04",
-    "Data":  "2026-11-19 13:07"
+    "Ultima":  "2026-11-19 13:08:07",
+    "Gerado":  "2026-11-19 13:17:04",
+    "Data":  "2026-11-19 13:17"
 }
