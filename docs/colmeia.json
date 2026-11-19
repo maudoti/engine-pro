@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2266,
-    "Pesquisas":  26327,
-    "N48":  2663,
+    "Pesquisas":  26346,
+    "N48":  2681,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-19 09:37:14",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-19 10:06:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-19 09:37:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-19 10:06:25",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-19 09:37:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 172 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-19 08:57:35",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Teams, Teams não abre ou fica em tela branca",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 153 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-19 08:57:35",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo PST corrompido",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-19 08:57:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 67 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-19 08:33:50",
@@ -51,44 +51,44 @@
                      }
                  ],
     "Horas":  [
-                  36,
+                  65,
+                  21,
                   51,
-                  42,
+                  34,
                   43,
-                  43,
-                  60,
-                  17,
-                  58,
-                  51,
-                  43,
-                  44,
-                  35,
+                  64,
+                  13,
+                  70,
+                  39,
+                  52,
                   35,
                   53,
-                  203,
-                  127,
-                  109,
-                  128,
-                  116,
-                  154,
-                  149,
-                  102,
-                  33,
-                  48,
-                  56,
-                  35,
+                  31,
+                  59,
+                  198,
+                  118,
+                  106,
+                  141,
+                  137,
+                  151,
+                  147,
+                  70,
+                  55,
+                  28,
+                  54,
                   52,
-                  60,
+                  35,
                   90,
-                  51,
-                  42,
+                  78,
+                  35,
+                  40,
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -97,10 +97,10 @@
                   0,
                   0,
                   0,
-                  65,
-                  36
+                  67,
+                  53
               ],
-    "Ultima":  "2026-11-19 09:37:14",
-    "Gerado":  "2026-11-19 09:57:03",
-    "Data":  "2026-11-19 09:57"
+    "Ultima":  "2026-11-19 10:06:55",
+    "Gerado":  "2026-11-19 10:07:03",
+    "Data":  "2026-11-19 10:07"
 }
