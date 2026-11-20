@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2355,
-    "Pesquisas":  27676,
-    "N48":  2834,
+    "Conhecimentos":  2360,
+    "Pesquisas":  27687,
+    "N48":  2829,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 03:56:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 203 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 03:59:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como diagnosticar um disco com SMART degradado usando CrystalDiskInfo e chkdsk?",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 03:56:40",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 03:59:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel, Vínculos externos do Excel quebrados",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,24 +20,24 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 03:50:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Pesquisa do Windows não encontra arquivos",
+                         "Data":  "2026-11-20 03:59:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Erro de instalação ou atualização do Office (código 30xxx)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 719 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 730 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 03:50:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Data ou hora erradas",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 03:59:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 214 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 03:50:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Ícones em branco ou errados",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 03:59:19",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-20 02:57:00",
@@ -51,26 +51,26 @@
                      }
                  ],
     "Horas":  [
-                  116,
-                  154,
-                  150,
-                  101,
-                  33,
-                  48,
-                  56,
-                  35,
+                  137,
+                  152,
+                  146,
+                  70,
+                  55,
+                  28,
+                  54,
                   52,
-                  60,
+                  35,
                   90,
-                  51,
-                  42,
+                  78,
+                  35,
+                  40,
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -79,28 +79,28 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
-                  164,
-                  210,
-                  203
+                  64,
+                  33,
+                  32,
+                  54,
+                  167,
+                  160,
+                  189,
+                  208
               ],
-    "Ultima":  "2026-11-20 03:56:49",
-    "Gerado":  "2026-11-20 03:57:04",
-    "Data":  "2026-11-20 03:57"
+    "Ultima":  "2026-11-20 03:59:19",
+    "Gerado":  "2026-11-20 04:07:04",
+    "Data":  "2026-11-20 04:07"
 }
