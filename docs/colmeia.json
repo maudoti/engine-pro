@@ -1,18 +1,18 @@
 {
     "Resolvidos":  5,
     "Conhecimentos":  2411,
-    "Pesquisas":  28207,
-    "N48":  2891,
+    "Pesquisas":  28212,
+    "N48":  2895,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 07:00:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 07:26:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 07:00:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reativar o Windows 10/11 após troca de placa-mãe usando a conta Microsoft?",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 07:26:37",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,23 +21,23 @@
                      },
                      {
                          "Data":  "2026-11-20 07:00:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o código AADSTS50053 ao entrar no Microsoft 365?",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1250 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1255 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 07:00:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 1 pesquisa em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 07:00:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reativar o Windows 10/11 após troca de placa-mãe usando a conta Microsoft?",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 07:00:05",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 07:00:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o código AADSTS50053 ao entrar no Microsoft 365?",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 06:59:50",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  69,
+                  68,
                   33,
                   47,
                   52,
                   35,
-                  58,
-                  67,
-                  78,
-                  49,
-                  26,
-                  37,
-                  38,
-                  26,
-                  46,
                   65,
-                  72,
-                  95,
-                  17,
+                  90,
+                  63,
+                  34,
+                  38,
+                  25,
+                  38,
+                  36,
+                  41,
+                  90,
+                  42,
+                  110,
+                  2,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  0,
-                  67,
+                  33,
+                  34,
                   65,
                   70,
+                  39,
+                  57,
                   35,
-                  61,
-                  35,
-                  20,
-                  36,
-                  36,
+                  37,
+                  30,
+                  25,
                   40,
                   56,
-                  60,
-                  37,
+                  68,
+                  29,
                   43,
                   48,
-                  54,
-                  172,
-                  145,
-                  232,
-                  179,
-                  159,
-                  182,
-                  149
+                  90,
+                  161,
+                  161,
+                  239,
+                  163,
+                  155,
+                  180,
+                  128
               ],
-    "Ultima":  "2026-11-20 07:00:05",
-    "Gerado":  "2026-11-20 07:17:03",
-    "Data":  "2026-11-20 07:17"
+    "Ultima":  "2026-11-20 07:26:58",
+    "Gerado":  "2026-11-20 07:27:03",
+    "Data":  "2026-11-20 07:27"
 }
