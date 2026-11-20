@@ -1,17 +1,17 @@
 {
     "Resolvidos":  475,
     "Conhecimentos":  2450,
-    "Pesquisas":  28775,
-    "N48":  2844,
+    "Pesquisas":  28798,
+    "N48":  2856,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 19:58:06",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-20 20:26:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 19:58:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 54 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 20:26:05",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 19:33:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 1 arquivo(s) por causa do caminho longo",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1818 pesquisas em bases técnicas",
+                         "Data":  "2026-11-20 19:58:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 54 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 19:26:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 23,08 GB",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1840 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 19:33:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 1 arquivo(s) por causa do caminho longo",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 18:51:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 54 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 19:26:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 23,08 GB",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 18:19:26",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  45,
-                  65,
-                  72,
-                  95,
-                  17,
+                  41,
+                  90,
+                  42,
+                  110,
+                  2,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  0,
-                  67,
+                  33,
+                  34,
                   65,
                   70,
+                  39,
+                  57,
                   35,
-                  61,
-                  35,
-                  20,
-                  36,
-                  36,
+                  37,
+                  31,
+                  24,
                   40,
                   56,
-                  60,
-                  37,
+                  68,
+                  29,
                   43,
                   48,
-                  54,
-                  172,
-                  145,
-                  232,
-                  179,
-                  159,
+                  90,
+                  162,
+                  160,
+                  240,
+                  162,
+                  155,
                   182,
-                  149,
-                  60,
+                  127,
+                  54,
                   39,
                   70,
-                  35,
-                  46,
-                  52,
+                  58,
+                  30,
+                  45,
                   34,
                   37,
                   39,
                   20,
-                  44,
-                  38,
-                  54
+                  57,
+                  53,
+                  48
               ],
-    "Ultima":  "2026-11-20 19:58:06",
-    "Gerado":  "2026-11-20 20:17:04",
-    "Data":  "2026-11-20 20:17"
+    "Ultima":  "2026-11-20 20:26:37",
+    "Gerado":  "2026-11-20 20:27:16",
+    "Data":  "2026-11-20 20:27"
 }
