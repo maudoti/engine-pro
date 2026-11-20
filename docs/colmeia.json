@@ -1,17 +1,17 @@
 {
     "Resolvidos":  5,
-    "Conhecimentos":  2434,
-    "Pesquisas":  28529,
-    "N48":  2852,
+    "Conhecimentos":  2435,
+    "Pesquisas":  28543,
+    "N48":  2866,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 14:06:47",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 14:10:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 14:06:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 14:10:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 13:34:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 14:09:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1572 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1586 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 13:34:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 13:34:21",
@@ -40,11 +45,6 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 13:04:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x803F7001 (ACTIVATION_NO_LICENSE) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-20 11:07",
                          "Texto":  "Nova versão 4.50.348 publicada: Correções internas",
                          "Nivel":  "info"
@@ -52,16 +52,16 @@
                  ],
     "Horas":  [
                   78,
-                  35,
-                  40,
-                  24,
-                  39,
-                  36,
+                  49,
+                  26,
+                  37,
+                  38,
                   27,
-                  86,
-                  70,
-                  62,
-                  52,
+                  45,
+                  65,
+                  72,
+                  95,
+                  17,
                   0,
                   0,
                   0,
@@ -70,37 +70,37 @@
                   0,
                   0,
                   67,
-                  53,
-                  43,
-                  74,
-                  57,
-                  19,
-                  40,
-                  36,
-                  36,
-                  40,
-                  24,
                   65,
-                  64,
-                  33,
-                  32,
-                  54,
-                  167,
-                  160,
-                  189,
-                  208,
-                  183,
-                  164,
-                  173,
-                  60,
-                  22,
-                  52,
                   70,
+                  35,
+                  61,
+                  35,
+                  20,
+                  36,
+                  36,
+                  40,
+                  56,
+                  60,
+                  37,
+                  43,
+                  48,
+                  54,
+                  172,
+                  145,
+                  232,
+                  179,
+                  159,
+                  182,
+                  149,
+                  60,
+                  39,
+                  70,
+                  35,
                   46,
                   52,
-                  20
+                  34
               ],
-    "Ultima":  "2026-11-20 14:06:47",
-    "Gerado":  "2026-11-20 14:07:04",
-    "Data":  "2026-11-20 14:07"
+    "Ultima":  "2026-11-20 14:10:18",
+    "Gerado":  "2026-11-20 14:17:05",
+    "Data":  "2026-11-20 14:17"
 }
