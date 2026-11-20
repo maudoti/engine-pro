@@ -1,18 +1,18 @@
 {
     "Resolvidos":  5,
-    "Conhecimentos":  2423,
-    "Pesquisas":  28443,
-    "N48":  2908,
+    "Conhecimentos":  2427,
+    "Pesquisas":  28457,
+    "N48":  2905,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 11:56:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 32 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 11:59:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Por que o cache OST do Outlook não sincroniza e como forçar a reconstrução?",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 11:55:58",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 11:59:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como reparar um arquivo PST corrompido com a ferramenta ScanPST?",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 11:25:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Sites não abrem (erro de DNS)",
+                         "Data":  "2026-11-20 11:59:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800704CF (ERROR_NETWORK_UNREACHABLE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1486 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1500 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 11:59:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 11:59:32",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -38,31 +48,21 @@
                          "Data":  "2026-11-20 10:53:19",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 70 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-20 10:15:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007018B (ERROR_CLOUD_FILE_ACCESS_DENIED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-20 10:15:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071129 (ERROR_REPARSE_TAG_INVALID) no Windows",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  52,
-                  60,
+                  35,
                   90,
-                  51,
-                  42,
+                  78,
+                  35,
+                  40,
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -71,36 +71,36 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
+                  64,
+                  33,
+                  32,
+                  54,
+                  167,
+                  160,
+                  189,
+                  208,
+                  183,
                   164,
-                  210,
-                  203,
-                  165,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
+                  173,
+                  60,
+                  22,
+                  52,
                   70,
-                  32
+                  46
               ],
-    "Ultima":  "2026-11-20 11:56:58",
-    "Gerado":  "2026-11-20 11:57:03",
-    "Data":  "2026-11-20 11:57"
+    "Ultima":  "2026-11-20 11:59:32",
+    "Gerado":  "2026-11-20 12:07:04",
+    "Data":  "2026-11-20 12:07"
 }
