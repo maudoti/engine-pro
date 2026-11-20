@@ -2,6 +2,10 @@
 
 Todas as versões, da mais recente à primeira, com cada novidade, melhoria e correção.
 
+## Versão 4.50.352 | Correções internas | 20/11/2026
+
+- **Melhoria**: Correções internas.
+
 ## Versão 4.50.351 | Correções internas | 20/11/2026
 
 - **Melhoria**: Correções internas.
