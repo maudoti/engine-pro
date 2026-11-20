@@ -1,16 +1,16 @@
 {
     "Resolvidos":  474,
-    "Conhecimentos":  2443,
-    "Pesquisas":  28606,
-    "N48":  2816,
+    "Conhecimentos":  2445,
+    "Pesquisas":  28619,
+    "N48":  2815,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 16:06:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 7 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 16:15:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 16:06:40",
+                         "Data":  "2026-11-20 16:15:03",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 16:04:03",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
+                         "Data":  "2026-11-20 16:08:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Outlook novo registrou falhas no componente WebView2",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1649 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1662 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 15:44:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como desabilitar complementos COM que causam travamento na inicialização do P...",
+                         "Data":  "2026-11-20 16:04:03",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      },
                      {
@@ -41,12 +41,12 @@
                      },
                      {
                          "Data":  "2026-11-20 15:44:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como desabilitar complementos COM que causam travamento na inicialização do P...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 15:43:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
+                         "Data":  "2026-11-20 15:44:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Domínio, Senha expirada ou conta bloqueada",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,15 +61,15 @@
                      }
                  ],
     "Horas":  [
-                  40,
-                  24,
-                  39,
-                  36,
+                  26,
+                  37,
+                  38,
                   27,
-                  86,
-                  70,
-                  62,
-                  52,
+                  45,
+                  65,
+                  72,
+                  95,
+                  17,
                   0,
                   0,
                   0,
@@ -78,39 +78,39 @@
                   0,
                   0,
                   67,
-                  53,
-                  43,
-                  74,
-                  57,
-                  19,
-                  40,
-                  36,
-                  36,
-                  40,
-                  24,
                   65,
-                  64,
-                  33,
-                  32,
-                  54,
-                  167,
-                  160,
-                  189,
-                  208,
-                  183,
-                  164,
-                  173,
-                  60,
-                  22,
-                  52,
                   70,
+                  35,
+                  61,
+                  35,
+                  20,
+                  36,
+                  36,
+                  40,
+                  56,
+                  60,
+                  37,
+                  43,
+                  48,
+                  54,
+                  173,
+                  144,
+                  232,
+                  179,
+                  159,
+                  182,
+                  149,
+                  60,
+                  39,
+                  70,
+                  35,
                   46,
                   52,
-                  21,
-                  33,
-                  43
+                  34,
+                  37,
+                  39
               ],
-    "Ultima":  "2026-11-20 16:06:51",
-    "Gerado":  "2026-11-20 16:07:05",
-    "Data":  "2026-11-20 16:07"
+    "Ultima":  "2026-11-20 16:15:29",
+    "Gerado":  "2026-11-20 16:17:09",
+    "Data":  "2026-11-20 16:17"
 }
