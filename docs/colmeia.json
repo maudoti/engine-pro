@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2290,
-    "Pesquisas":  26877,
-    "N48":  2672,
+    "Conhecimentos":  2291,
+    "Pesquisas":  26887,
+    "N48":  2682,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-19 22:06:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-19 22:12:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 22:06:09",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-19 22:11:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 21:33:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024002E (WU_E_WU_DISABLED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-19 22:11:52",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 703 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 713 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-19 21:33:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024002E (WU_E_WU_DISABLED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-19 21:33:26",
@@ -40,11 +45,6 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-19 21:00:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-19 00:20",
                          "Texto":  "Nova versão 4.50.345 publicada: Atualizacao automatica (Kit 796)",
                          "Nivel":  "info"
@@ -52,32 +52,32 @@
                  ],
     "Horas":  [
                   31,
-                  59,
-                  199,
-                  117,
-                  107,
-                  140,
-                  137,
-                  154,
-                  144,
-                  70,
-                  55,
-                  28,
-                  54,
+                  110,
+                  175,
+                  110,
+                  114,
+                  124,
+                  145,
+                  136,
+                  166,
+                  69,
+                  33,
+                  47,
                   52,
                   35,
-                  90,
+                  61,
+                  64,
                   78,
-                  36,
-                  39,
-                  24,
-                  39,
-                  36,
+                  49,
+                  26,
+                  37,
+                  38,
                   27,
-                  86,
-                  70,
-                  62,
-                  52,
+                  47,
+                  64,
+                  71,
+                  97,
+                  15,
                   0,
                   0,
                   0,
@@ -86,21 +86,21 @@
                   0,
                   0,
                   67,
-                  55,
-                  41,
-                  74,
-                  58,
-                  18,
-                  40,
-                  36,
-                  36,
-                  40,
-                  24,
                   65,
-                  64,
-                  33
+                  70,
+                  35,
+                  61,
+                  35,
+                  20,
+                  36,
+                  36,
+                  40,
+                  56,
+                  60,
+                  37,
+                  43
               ],
-    "Ultima":  "2026-11-19 22:06:18",
-    "Gerado":  "2026-11-19 22:07:20",
-    "Data":  "2026-11-19 22:09"
+    "Ultima":  "2026-11-19 22:11:52",
+    "Gerado":  "2026-11-19 22:17:27",
+    "Data":  "2026-11-19 22:17"
 }
