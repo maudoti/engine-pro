@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2306,
-    "Pesquisas":  27099,
-    "N48":  2621,
+    "Conhecimentos":  2310,
+    "Pesquisas":  27130,
+    "N48":  2637,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 00:50:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
+                         "Data":  "2026-11-20 01:06:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como liberar a edição de um documento do Word bloqueado pelo Modo Protegido d...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 00:50:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como recuperar uma planilha do Excel não salva após fechamento inesperado do...",
+                         "Data":  "2026-11-20 01:06:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como evitar que a numeração de listas do Word reinicie ao colar conteúdo de o...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,28 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 00:50:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007018B (ERROR_CLOUD_FILE_ACCESS_DENIED) no Windows",
+                         "Data":  "2026-11-20 01:06:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Sites não abrem (erro de DNS)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 142 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 173 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 00:50:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 142 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 01:06:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 00:50:38",
+                         "Data":  "2026-11-20 01:06:20",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-19 23:45:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 00:59:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 145 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -51,29 +51,29 @@
                      }
                  ],
     "Horas":  [
-                  127,
-                  109,
-                  128,
-                  116,
-                  154,
-                  150,
-                  101,
-                  33,
-                  48,
-                  56,
-                  35,
+                  118,
+                  106,
+                  141,
+                  137,
+                  151,
+                  147,
+                  70,
+                  55,
+                  28,
+                  54,
                   52,
-                  60,
+                  35,
                   90,
-                  51,
-                  42,
+                  78,
+                  35,
+                  40,
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -82,25 +82,25 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142
+                  64,
+                  33,
+                  32,
+                  54,
+                  167
               ],
-    "Ultima":  "2026-11-20 00:50:38",
-    "Gerado":  "2026-11-20 00:57:04",
-    "Data":  "2026-11-20 00:57"
+    "Ultima":  "2026-11-20 01:06:20",
+    "Gerado":  "2026-11-20 01:07:03",
+    "Data":  "2026-11-20 01:07"
 }
