@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2366,
-    "Pesquisas":  27780,
-    "N48":  2866,
+    "Conhecimentos":  2367,
+    "Pesquisas":  27810,
+    "N48":  2877,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 04:35:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a conta Microsoft 365 bloqueada por MFA quando o usuário perdeu...",
+                         "Data":  "2026-11-20 04:45:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, \"Microsoft Print to PDF\" sumiu ou não funciona",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 04:35:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 93 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 04:45:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 123 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 04:35:12",
+                         "Data":  "2026-11-20 04:45:07",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 823 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 853 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 04:35:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver a conta Microsoft 365 bloqueada por MFA quando o usuário perdeu...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 04:16:43",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Adobe, PDF não abre no Adobe Reader ou Acrobat",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-20 04:16:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não encontra e-mails",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,25 +51,25 @@
                      }
                  ],
     "Horas":  [
-                  157,
+                  154,
+                  132,
                   123,
-                  144,
+                  54,
                   48,
-                  32,
-                  64,
-                  35,
-                  53,
-                  51,
-                  86,
-                  63,
-                  48,
-                  24,
-                  37,
                   38,
-                  24,
-                  48,
-                  83,
-                  72,
+                  53,
+                  35,
+                  77,
+                  71,
+                  54,
+                  46,
+                  36,
+                  25,
+                  38,
+                  36,
+                  59,
+                  70,
+                  62,
                   82,
                   0,
                   0,
@@ -79,28 +79,28 @@
                   0,
                   0,
                   34,
-                  66,
-                  32,
-                  70,
-                  70,
-                  30,
-                  31,
-                  37,
+                  67,
+                  62,
+                  48,
+                  61,
+                  41,
+                  23,
+                  34,
                   37,
                   34,
-                  30,
-                  50,
-                  68,
+                  48,
+                  59,
+                  41,
                   49,
-                  25,
-                  46,
-                  118,
-                  162,
-                  181,
-                  232,
-                  152
+                  45,
+                  48,
+                  122,
+                  172,
+                  191,
+                  202,
+                  166
               ],
-    "Ultima":  "2026-11-20 04:35:12",
-    "Gerado":  "2026-11-20 04:37:03",
-    "Data":  "2026-11-20 04:37"
+    "Ultima":  "2026-11-20 04:45:07",
+    "Gerado":  "2026-11-20 04:47:04",
+    "Data":  "2026-11-20 04:47"
 }
