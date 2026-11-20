@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2287,
-    "Pesquisas":  26826,
-    "N48":  2674,
+    "Conhecimentos":  2288,
+    "Pesquisas":  26844,
+    "N48":  2692,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-19 20:57:00",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-19 21:00:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 20:57:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-19 20:59:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 64 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-19 20:59:56",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 670 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-19 20:26:11",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 652 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-19 20:25:57",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-19 20:25:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070643 (ERROR_INSTALL_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,33 +51,33 @@
                      }
                  ],
     "Horas":  [
-                  35,
-                  35,
                   53,
-                  203,
-                  127,
-                  109,
-                  128,
-                  116,
-                  154,
-                  150,
-                  101,
-                  33,
-                  48,
-                  56,
-                  35,
+                  31,
+                  59,
+                  198,
+                  118,
+                  106,
+                  141,
+                  137,
+                  152,
+                  146,
+                  70,
+                  55,
+                  28,
+                  54,
                   52,
-                  60,
+                  35,
                   90,
-                  51,
-                  42,
+                  78,
+                  35,
+                  40,
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -86,21 +86,21 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46
+                  64
               ],
-    "Ultima":  "2026-11-19 20:57:00",
-    "Gerado":  "2026-11-19 20:57:04",
-    "Data":  "2026-11-19 20:57"
+    "Ultima":  "2026-11-19 20:59:56",
+    "Gerado":  "2026-11-19 21:07:04",
+    "Data":  "2026-11-19 21:07"
 }
