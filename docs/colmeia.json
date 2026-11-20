@@ -1,16 +1,16 @@
 {
     "Resolvidos":  5,
-    "Conhecimentos":  2382,
-    "Pesquisas":  27990,
-    "N48":  2878,
+    "Conhecimentos":  2384,
+    "Pesquisas":  28034,
+    "N48":  2887,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 05:56:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 149 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 06:06:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 05:56:29",
+                         "Data":  "2026-11-20 06:06:31",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,13 +20,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 05:50:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0x00000709 ao definir a impressora padrão no Windows?",
+                         "Data":  "2026-11-20 06:03:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070003 (ERROR_PATH_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1033 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1076 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 06:02:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-20 05:59:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 166 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -35,40 +45,30 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 05:39:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro 0x0000011b ao conectar em impressora compartilhada após...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-20 04:56:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 154 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-19 00:20",
                          "Texto":  "Nova versão 4.50.345 publicada: Atualizacao automatica (Kit 796)",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  149,
-                  102,
-                  33,
-                  48,
-                  56,
-                  35,
+                  147,
+                  70,
+                  55,
+                  28,
+                  54,
                   52,
-                  60,
+                  35,
                   90,
-                  51,
-                  42,
+                  78,
+                  35,
+                  40,
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -77,30 +77,30 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
-                  164,
-                  210,
-                  203,
-                  165,
-                  149
+                  64,
+                  33,
+                  32,
+                  54,
+                  167,
+                  160,
+                  188,
+                  209,
+                  183,
+                  163
               ],
-    "Ultima":  "2026-11-20 05:56:51",
-    "Gerado":  "2026-11-20 05:57:03",
-    "Data":  "2026-11-20 05:57"
+    "Ultima":  "2026-11-20 06:06:45",
+    "Gerado":  "2026-11-20 06:07:03",
+    "Data":  "2026-11-20 06:07"
 }
