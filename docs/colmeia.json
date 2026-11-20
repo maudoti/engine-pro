@@ -1,17 +1,17 @@
 {
     "Resolvidos":  4,
     "Conhecimentos":  2294,
-    "Pesquisas":  26957,
-    "N48":  2682,
+    "Pesquisas":  26963,
+    "N48":  2668,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-19 23:45:19",
+                         "Data":  "2026-11-20 00:07:00",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-19 23:45:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 00:07:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,14 +20,14 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-19 23:45:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-19 23:14:54",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 783 pesquisas em bases técnicas",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-19 22:40:52",
@@ -40,41 +40,36 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-19 22:40:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-19 00:20",
                          "Texto":  "Nova versão 4.50.345 publicada: Atualizacao automatica (Kit 796)",
                          "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  203,
-                  127,
-                  109,
-                  128,
-                  116,
-                  154,
-                  150,
-                  101,
-                  33,
-                  48,
-                  56,
-                  35,
+                  198,
+                  118,
+                  106,
+                  141,
+                  137,
+                  152,
+                  146,
+                  70,
+                  55,
+                  28,
+                  54,
                   52,
-                  60,
+                  35,
                   90,
-                  51,
-                  42,
+                  78,
+                  35,
+                  40,
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -83,24 +78,24 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48
+                  64,
+                  33,
+                  32,
+                  54
               ],
-    "Ultima":  "2026-11-19 23:45:19",
-    "Gerado":  "2026-11-19 23:57:04",
-    "Data":  "2026-11-19 23:57"
+    "Ultima":  "2026-11-20 00:07:00",
+    "Gerado":  "2026-11-20 00:07:05",
+    "Data":  "2026-11-20 00:07"
 }
