@@ -1,17 +1,17 @@
 {
     "Resolvidos":  474,
     "Conhecimentos":  2446,
-    "Pesquisas":  28629,
-    "N48":  2799,
+    "Pesquisas":  28639,
+    "N48":  2809,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 16:38:56",
+                         "Data":  "2026-11-20 17:06:30",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 16:38:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 17:06:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-20 16:38:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1682 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-20 16:08:15",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Outlook novo registrou falhas no componente WebView2",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1672 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "474 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 16:04:03",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "474 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
@@ -50,11 +55,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 15:43:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 42 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-20 11:07",
                          "Texto":  "Nova versão 4.50.348 publicada: Correções internas",
                          "Nivel":  "info"
@@ -64,10 +64,10 @@
                   24,
                   39,
                   36,
-                  24,
-                  74,
-                  74,
-                  73,
+                  27,
+                  86,
+                  70,
+                  62,
                   52,
                   0,
                   0,
@@ -76,41 +76,41 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
-                  164,
-                  210,
-                  203,
-                  165,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
-                  70,
+                  64,
+                  33,
                   32,
-                  39,
-                  41,
-                  34,
-                  42,
-                  30
+                  54,
+                  167,
+                  160,
+                  189,
+                  208,
+                  183,
+                  164,
+                  173,
+                  60,
+                  22,
+                  52,
+                  70,
+                  46,
+                  52,
+                  21,
+                  33,
+                  43,
+                  33
               ],
-    "Ultima":  "2026-11-20 16:38:56",
-    "Gerado":  "2026-11-20 16:57:04",
-    "Data":  "2026-11-20 16:57"
+    "Ultima":  "2026-11-20 17:06:30",
+    "Gerado":  "2026-11-20 17:07:05",
+    "Data":  "2026-11-20 17:07"
 }
