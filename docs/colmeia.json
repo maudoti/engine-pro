@@ -1,18 +1,18 @@
 {
     "Resolvidos":  4,
-    "Conhecimentos":  2295,
-    "Pesquisas":  26989,
-    "N48":  2643,
+    "Conhecimentos":  2297,
+    "Pesquisas":  27025,
+    "N48":  2639,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 00:12:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
+                         "Data":  "2026-11-20 00:26:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como localizar e corrigir vínculos externos quebrados (#REF!) em planilhas do...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 00:12:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 32 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 00:26:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 00:12:07",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-20 00:26:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 68 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 32 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 68 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 00:26:09",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 00:12:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Navegadores, Chrome diz \"A conexão não é particular\" (erro de certificado)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-19 23:45:19",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-19 23:14:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-19 22:40:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072EE7 (ERROR_INTERNET_NAME_NOT_RESOLVED) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-19 00:20",
@@ -51,56 +51,56 @@
                      }
                  ],
     "Horas":  [
-                  173,
-                  112,
-                  112,
-                  126,
-                  144,
-                  137,
-                  166,
-                  69,
+                  161,
+                  96,
+                  115,
+                  138,
+                  140,
+                  122,
+                  158,
+                  68,
                   33,
                   47,
                   52,
                   35,
-                  58,
-                  67,
-                  78,
-                  49,
-                  26,
-                  37,
-                  38,
-                  27,
-                  45,
                   65,
-                  72,
-                  95,
-                  17,
+                  90,
+                  63,
+                  34,
+                  38,
+                  25,
+                  38,
+                  36,
+                  41,
+                  90,
+                  42,
+                  110,
+                  2,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  0,
-                  67,
+                  33,
+                  34,
                   65,
                   70,
+                  39,
+                  57,
                   35,
-                  61,
-                  35,
-                  20,
-                  36,
-                  36,
+                  37,
+                  30,
+                  25,
                   40,
                   56,
-                  60,
-                  37,
+                  68,
+                  29,
                   43,
                   48,
-                  54
+                  90
               ],
-    "Ultima":  "2026-11-20 00:12:07",
-    "Gerado":  "2026-11-20 00:17:04",
-    "Data":  "2026-11-20 00:17"
+    "Ultima":  "2026-11-20 00:26:09",
+    "Gerado":  "2026-11-20 00:27:04",
+    "Data":  "2026-11-20 00:27"
 }
