@@ -1,18 +1,18 @@
 {
     "Resolvidos":  475,
-    "Conhecimentos":  2475,
-    "Pesquisas":  29157,
-    "N48":  2931,
+    "Conhecimentos":  2477,
+    "Pesquisas":  29182,
+    "N48":  2956,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 01:56:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 121 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 02:02:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 01:56:08",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 02:02:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000024 (NTFS_FILE_SYSTEM) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 01:41:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (9x em 7 dias)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 211 pesquisas em bases técnicas",
+                         "Data":  "2026-11-21 02:01:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 01:41:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo inacessível (6x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 236 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-21 02:01:43",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 01:28:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (18x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 01:59:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 136 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 00:51:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 01:41:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo inacessível (6x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 20:35:31",
@@ -67,50 +67,50 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
-                  164,
-                  210,
-                  203,
-                  165,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
-                  70,
+                  64,
+                  33,
                   32,
-                  39,
-                  41,
-                  34,
-                  42,
-                  30,
-                  38,
                   54,
-                  48,
-                  31,
-                  66,
-                  35,
+                  167,
+                  160,
+                  188,
+                  209,
+                  183,
+                  164,
+                  173,
+                  60,
+                  21,
+                  53,
+                  70,
+                  46,
+                  52,
+                  20,
+                  34,
+                  43,
+                  33,
+                  28,
+                  54,
+                  54,
+                  30,
+                  71,
+                  25,
                   45,
-                  90,
-                  121
+                  114,
+                  122
               ],
-    "Ultima":  "2026-11-21 01:56:50",
-    "Gerado":  "2026-11-21 01:57:03",
-    "Data":  "2026-11-21 01:57"
+    "Ultima":  "2026-11-21 02:01:43",
+    "Gerado":  "2026-11-21 02:07:03",
+    "Data":  "2026-11-21 02:07"
 }
