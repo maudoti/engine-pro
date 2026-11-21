@@ -1,18 +1,18 @@
 {
     "Resolvidos":  475,
-    "Conhecimentos":  2454,
-    "Pesquisas":  28895,
-    "N48":  2823,
+    "Conhecimentos":  2457,
+    "Pesquisas":  28901,
+    "N48":  2819,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 22:36:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 22:43:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive travou 3 vezes nesta semana",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 22:36:05",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 22:38:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 9 dia(s)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 21:59:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 76 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 22:38:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (12x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1938 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1944 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 21:13:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (60x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 22:38:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,18 +40,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 20:35:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Componente WebView2 travou 3 vezes nesta semana",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 22:38:12",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-20 21:59:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 76 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-20 20:35:31",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-20 20:29:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (30x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,7 +61,7 @@
                      }
                  ],
     "Horas":  [
-                  72,
+                  62,
                   82,
                   0,
                   0,
@@ -71,46 +71,46 @@
                   0,
                   0,
                   34,
-                  66,
-                  32,
-                  70,
-                  70,
-                  30,
-                  31,
-                  37,
+                  67,
+                  62,
+                  48,
+                  61,
+                  41,
+                  23,
+                  34,
                   37,
                   34,
-                  30,
-                  50,
-                  68,
+                  48,
+                  59,
+                  41,
                   49,
-                  25,
-                  46,
-                  118,
-                  162,
-                  181,
-                  232,
-                  152,
-                  152,
-                  192,
+                  45,
+                  48,
                   122,
-                  34,
-                  26,
-                  70,
-                  58,
+                  172,
+                  191,
+                  202,
+                  166,
+                  152,
+                  186,
+                  98,
+                  39,
+                  55,
+                  39,
+                  55,
                   48,
                   41,
-                  22,
-                  35,
-                  40,
+                  34,
+                  42,
                   30,
-                  46,
+                  38,
+                  29,
                   53,
                   51,
                   51,
-                  44
+                  50
               ],
-    "Ultima":  "2026-11-20 22:36:50",
-    "Gerado":  "2026-11-20 22:37:03",
-    "Data":  "2026-11-20 22:37"
+    "Ultima":  "2026-11-20 22:38:12",
+    "Gerado":  "2026-11-20 22:47:04",
+    "Data":  "2026-11-20 22:47"
 }
