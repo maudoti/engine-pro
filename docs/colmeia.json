@@ -1,18 +1,18 @@
 {
     "Resolvidos":  477,
-    "Conhecimentos":  2515,
-    "Pesquisas":  29789,
-    "N48":  3563,
+    "Conhecimentos":  2517,
+    "Pesquisas":  29815,
+    "N48":  3589,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 06:56:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 111 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 07:03:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 06:55:25",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 07:02:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x803F7001 (ACTIVATION_NO_LICENSE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 06:41:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 843 pesquisas em bases técnicas",
+                         "Data":  "2026-11-21 07:02:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 06:41:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC000000F (BOOT_CONFIG_MISSING) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 869 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-21 07:02:39",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 06:25:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007018B (ERROR_CLOUD_FILE_ACCESS_DENIED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 06:59:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 122 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 05:53:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 94 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 06:41:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC000000F (BOOT_CONFIG_MISSING) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 20:35:31",
@@ -62,55 +62,55 @@
                  ],
     "Horas":  [
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
-                  164,
-                  210,
-                  203,
-                  165,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
-                  70,
+                  64,
+                  33,
                   32,
-                  39,
-                  41,
-                  34,
-                  42,
-                  30,
-                  38,
                   54,
-                  48,
-                  31,
-                  66,
-                  35,
+                  167,
+                  160,
+                  188,
+                  209,
+                  183,
+                  164,
+                  173,
+                  60,
+                  21,
+                  53,
+                  70,
+                  46,
+                  52,
+                  20,
+                  34,
+                  43,
+                  33,
+                  28,
+                  54,
+                  54,
+                  30,
+                  71,
+                  25,
                   45,
-                  90,
-                  121,
-                  141,
-                  169,
-                  112,
-                  99,
-                  111
+                  114,
+                  122,
+                  139,
+                  151,
+                  134,
+                  93,
+                  116
               ],
-    "Ultima":  "2026-11-21 06:56:28",
-    "Gerado":  "2026-11-21 06:57:04",
-    "Data":  "2026-11-21 06:57"
+    "Ultima":  "2026-11-21 07:02:39",
+    "Gerado":  "2026-11-21 07:07:03",
+    "Data":  "2026-11-21 07:07"
 }
