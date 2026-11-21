@@ -2,11 +2,11 @@
     "Resolvidos":  481,
     "Conhecimentos":  2522,
     "Pesquisas":  29851,
-    "N48":  3591,
+    "N48":  3560,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 08:39:36",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-21 08:48",
+                         "Texto":  "Nova versão 4.50.360 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 08:08:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000011B (PRINT_RPC_PRIVACY) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 08:39:36",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -31,12 +31,17 @@
                      },
                      {
                          "Data":  "2026-11-21 08:08:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000011B (PRINT_RPC_PRIVACY) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-21 08:08:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -53,64 +58,59 @@
                          "Data":  "2026-11-20 20:35:31",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-20 17:28",
-                         "Texto":  "Nova versão 4.50.351 publicada: Correções e melhorias",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  67,
+                  36,
                   62,
-                  48,
-                  61,
+                  74,
+                  35,
                   41,
-                  23,
-                  34,
-                  37,
+                  40,
+                  36,
+                  18,
                   34,
                   48,
-                  59,
-                  41,
-                  49,
+                  65,
+                  46,
+                  38,
                   45,
                   48,
-                  122,
-                  172,
-                  191,
-                  202,
-                  166,
-                  152,
-                  186,
-                  98,
+                  142,
+                  164,
+                  210,
+                  203,
+                  165,
+                  149,
+                  198,
+                  58,
                   39,
-                  55,
+                  56,
+                  70,
+                  32,
                   39,
-                  55,
-                  48,
                   41,
                   34,
                   42,
                   30,
                   38,
-                  29,
-                  53,
-                  51,
-                  51,
-                  50,
+                  54,
+                  48,
+                  31,
+                  66,
+                  35,
                   45,
-                  69,
-                  124,
-                  132,
-                  141,
-                  148,
                   90,
-                  134,
-                  43,
+                  121,
+                  141,
+                  169,
+                  112,
+                  99,
+                  112,
+                  37,
                   24
               ],
     "Ultima":  "2026-11-21 08:39:36",
-    "Gerado":  "2026-11-21 08:47:04",
-    "Data":  "2026-11-21 08:47"
+    "Gerado":  "2026-11-21 08:57:04",
+    "Data":  "2026-11-21 08:57"
 }
