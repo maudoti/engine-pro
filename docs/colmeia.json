@@ -1,18 +1,18 @@
 {
     "Resolvidos":  477,
-    "Conhecimentos":  2504,
-    "Pesquisas":  29650,
-    "N48":  3424,
+    "Conhecimentos":  2506,
+    "Pesquisas":  29678,
+    "N48":  3452,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 05:46:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 66 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 05:53:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 05:45:42",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 05:53:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80041003 (WBEM_E_ACCESS_DENIED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 05:27:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 704 pesquisas em bases técnicas",
+                         "Data":  "2026-11-21 05:53:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 94 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 05:07:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 732 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-21 05:53:18",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 05:07:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
+                         "Data":  "2026-11-21 05:27:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -63,54 +63,54 @@
     "Horas":  [
                   0,
                   0,
-                  34,
-                  67,
+                  65,
+                  36,
                   62,
-                  48,
-                  61,
+                  74,
+                  35,
                   41,
-                  23,
-                  34,
-                  37,
+                  40,
+                  36,
+                  18,
                   34,
                   48,
-                  59,
-                  41,
-                  49,
+                  65,
+                  46,
+                  38,
                   45,
                   48,
-                  122,
-                  172,
-                  191,
-                  202,
-                  166,
-                  152,
-                  186,
-                  98,
+                  142,
+                  164,
+                  210,
+                  203,
+                  165,
+                  149,
+                  198,
+                  58,
                   39,
-                  55,
+                  56,
+                  70,
+                  32,
                   39,
-                  55,
-                  48,
                   41,
                   34,
                   42,
                   30,
                   38,
-                  29,
-                  53,
-                  51,
-                  51,
-                  50,
+                  54,
+                  48,
+                  31,
+                  66,
+                  35,
                   45,
-                  69,
-                  124,
-                  132,
+                  90,
+                  121,
                   141,
-                  148,
-                  90
+                  169,
+                  112,
+                  99
               ],
-    "Ultima":  "2026-11-21 05:46:38",
-    "Gerado":  "2026-11-21 05:47:04",
-    "Data":  "2026-11-21 05:47"
+    "Ultima":  "2026-11-21 05:53:18",
+    "Gerado":  "2026-11-21 05:57:03",
+    "Data":  "2026-11-21 05:57"
 }
