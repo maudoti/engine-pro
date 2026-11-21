@@ -1,18 +1,18 @@
 {
     "Resolvidos":  477,
-    "Conhecimentos":  2500,
-    "Pesquisas":  29606,
-    "N48":  3380,
+    "Conhecimentos":  2503,
+    "Pesquisas":  29607,
+    "N48":  3381,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 05:06:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-21 05:16:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 05:04:41",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 05:07:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 04:59:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 117 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 05:07:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 660 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 661 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 04:49:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024402C (WU_E_PT_WINHTTP_NAME_NOT_RESOLVED) no Windows",
+                         "Data":  "2026-11-21 05:06:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (70x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 04:49:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80244022 (WU_E_PT_HTTP_STATUS_SERVICE_UNAVAIL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 05:04:41",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 04:49:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 04:59:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 117 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-20 20:35:31",
@@ -65,52 +65,52 @@
                   0,
                   0,
                   67,
-                  53,
-                  43,
-                  74,
-                  57,
-                  19,
-                  40,
-                  36,
-                  36,
-                  40,
-                  24,
                   65,
-                  64,
-                  33,
-                  32,
-                  54,
-                  167,
-                  160,
-                  188,
-                  209,
-                  183,
-                  164,
-                  173,
-                  60,
-                  21,
-                  53,
                   70,
+                  35,
+                  61,
+                  35,
+                  20,
+                  36,
+                  36,
+                  40,
+                  56,
+                  60,
+                  37,
+                  43,
+                  48,
+                  54,
+                  172,
+                  145,
+                  232,
+                  179,
+                  159,
+                  182,
+                  149,
+                  60,
+                  39,
+                  70,
+                  35,
                   46,
                   52,
-                  20,
                   34,
-                  43,
-                  33,
-                  28,
+                  37,
+                  39,
+                  20,
+                  44,
+                  38,
                   54,
-                  54,
-                  30,
-                  71,
-                  25,
-                  45,
-                  114,
-                  122,
-                  139,
-                  151,
-                  134
+                  50,
+                  51,
+                  38,
+                  57,
+                  106,
+                  106,
+                  166,
+                  154,
+                  104
               ],
-    "Ultima":  "2026-11-21 05:06:35",
-    "Gerado":  "2026-11-21 05:07:03",
-    "Data":  "2026-11-21 05:07"
+    "Ultima":  "2026-11-21 05:16:45",
+    "Gerado":  "2026-11-21 05:17:04",
+    "Data":  "2026-11-21 05:17"
 }
