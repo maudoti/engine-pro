@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2524,
-    "Pesquisas":  29920,
-    "N48":  3531,
+    "Conhecimentos":  2525,
+    "Pesquisas":  29921,
+    "N48":  3532,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 10:46:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 49 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 10:47:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive parou de sincronizar por falta de espaço no disco",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 10:45:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-21 10:47:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-21 10:47:32",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 975 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-21 09:42:12",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 974 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-21 09:11:00",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Outlook novo registrou falhas no componente WebView2",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
@@ -50,67 +55,62 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 08:08:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-20 20:35:31",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  49,
-                  60,
+                  74,
+                  35,
                   41,
-                  23,
-                  34,
-                  37,
-                  34,
+                  40,
+                  36,
+                  22,
+                  30,
                   48,
-                  62,
-                  38,
-                  49,
+                  65,
+                  59,
+                  25,
                   45,
                   48,
-                  123,
-                  173,
-                  190,
-                  203,
-                  164,
-                  153,
-                  186,
-                  97,
+                  143,
+                  163,
+                  210,
+                  213,
+                  155,
+                  161,
+                  199,
+                  45,
                   39,
                   56,
-                  39,
-                  54,
-                  48,
-                  41,
+                  70,
+                  43,
+                  31,
+                  38,
                   34,
                   42,
                   30,
                   38,
-                  29,
-                  53,
-                  51,
-                  51,
-                  50,
+                  54,
+                  54,
+                  25,
+                  75,
+                  26,
                   45,
-                  70,
-                  123,
-                  132,
-                  142,
-                  148,
                   90,
-                  133,
-                  43,
+                  130,
+                  144,
+                  157,
+                  115,
+                  96,
+                  117,
+                  32,
                   24,
                   20,
-                  49
+                  50
               ],
-    "Ultima":  "2026-11-21 10:46:57",
-    "Gerado":  "2026-11-21 10:47:23",
-    "Data":  "2026-11-21 10:47"
+    "Ultima":  "2026-11-21 10:47:32",
+    "Gerado":  "2026-11-21 10:59:02",
+    "Data":  "2026-11-21 10:59"
 }
