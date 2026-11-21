@@ -1,17 +1,17 @@
 {
     "Resolvidos":  475,
     "Conhecimentos":  2453,
-    "Pesquisas":  28825,
-    "N48":  2843,
+    "Pesquisas":  28838,
+    "N48":  2856,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-20 21:13:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (60x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-20 21:26:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 38 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-20 21:12:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-20 21:24:59",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 21:12:35",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-20 21:13:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (60x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1868 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1881 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -61,8 +61,8 @@
                      }
                  ],
     "Horas":  [
-                  83,
-                  49,
+                  90,
+                  42,
                   110,
                   2,
                   0,
@@ -71,46 +71,46 @@
                   0,
                   0,
                   0,
-                  1,
-                  66,
+                  33,
+                  34,
                   65,
                   70,
+                  39,
+                  57,
                   35,
-                  61,
-                  35,
-                  35,
-                  21,
-                  36,
+                  37,
+                  30,
+                  25,
                   40,
                   56,
                   68,
                   29,
                   43,
                   48,
-                  68,
+                  90,
                   162,
-                  166,
-                  218,
-                  183,
-                  148,
-                  180,
-                  147,
-                  60,
+                  160,
+                  240,
+                  162,
+                  155,
+                  181,
+                  127,
+                  55,
                   39,
                   70,
-                  43,
-                  38,
-                  52,
+                  58,
+                  29,
+                  46,
                   34,
                   37,
                   39,
                   20,
                   57,
-                  31,
-                  52,
-                  46
+                  53,
+                  49,
+                  40
               ],
-    "Ultima":  "2026-11-20 21:12:35",
-    "Gerado":  "2026-11-20 21:21:49",
-    "Data":  "2026-11-20 21:21"
+    "Ultima":  "2026-11-20 21:26:58",
+    "Gerado":  "2026-11-20 21:27:11",
+    "Data":  "2026-11-20 21:27"
 }
