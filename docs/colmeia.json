@@ -1,17 +1,17 @@
 {
     "Resolvidos":  477,
-    "Conhecimentos":  2482,
-    "Pesquisas":  29321,
-    "N48":  3095,
+    "Conhecimentos":  2483,
+    "Pesquisas":  29349,
+    "N48":  3123,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 03:06:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 03:13:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000124 (WHEA_UNCORRECTABLE_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 03:05:53",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-21 03:13:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 38 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 02:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000EF (CRITICAL_PROCESS_DIED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 375 pesquisas em bases técnicas",
+                         "Data":  "2026-11-21 03:13:13",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 02:59:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 403 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-21 02:59:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000EF (CRITICAL_PROCESS_DIED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-21 02:59:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-21 02:59:03",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 139 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-21 02:45:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 20:35:31",
@@ -67,50 +67,50 @@
                   0,
                   0,
                   67,
-                  53,
-                  43,
-                  74,
-                  57,
-                  19,
-                  40,
-                  36,
-                  36,
-                  40,
-                  24,
                   65,
-                  64,
-                  33,
-                  32,
-                  54,
-                  167,
-                  160,
-                  189,
-                  208,
-                  183,
-                  164,
-                  173,
-                  60,
-                  22,
-                  52,
                   70,
+                  35,
+                  61,
+                  35,
+                  20,
+                  36,
+                  36,
+                  40,
+                  56,
+                  60,
+                  37,
+                  43,
+                  48,
+                  54,
+                  172,
+                  145,
+                  232,
+                  179,
+                  159,
+                  182,
+                  149,
+                  60,
+                  39,
+                  70,
+                  35,
                   46,
                   52,
-                  21,
-                  33,
-                  43,
-                  33,
-                  28,
+                  34,
+                  37,
+                  39,
+                  20,
+                  44,
+                  38,
                   54,
-                  54,
-                  30,
-                  71,
-                  25,
-                  45,
-                  114,
-                  122,
-                  139
+                  50,
+                  51,
+                  38,
+                  57,
+                  106,
+                  106,
+                  166
               ],
-    "Ultima":  "2026-11-21 03:06:50",
-    "Gerado":  "2026-11-21 03:07:04",
-    "Data":  "2026-11-21 03:07"
+    "Ultima":  "2026-11-21 03:13:13",
+    "Gerado":  "2026-11-21 03:17:04",
+    "Data":  "2026-11-21 03:17"
 }
