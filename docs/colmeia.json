@@ -1,18 +1,18 @@
 {
     "Resolvidos":  477,
-    "Conhecimentos":  2510,
-    "Pesquisas":  29715,
-    "N48":  3489,
+    "Conhecimentos":  2513,
+    "Pesquisas":  29748,
+    "N48":  3522,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 06:16:36",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 06:25:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071129 (ERROR_REPARSE_TAG_INVALID) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 06:16:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 37 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 06:25:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 06:09:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070184 (ERROR_CLOUD_FILE_NETWORK_UNAVAILABLE) no Windows",
+                         "Data":  "2026-11-21 06:25:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007018B (ERROR_CLOUD_FILE_ACCESS_DENIED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 769 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 802 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 06:09:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE8A (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 06:25:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 70 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 06:09:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 06:25:28",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-21 05:53:18",
@@ -62,55 +62,55 @@
                  ],
     "Horas":  [
                   0,
-                  0,
-                  67,
+                  33,
+                  34,
                   65,
                   70,
+                  39,
+                  57,
                   35,
-                  61,
-                  35,
-                  20,
-                  36,
-                  36,
+                  37,
+                  30,
+                  25,
                   40,
                   56,
-                  60,
-                  37,
+                  68,
+                  29,
                   43,
                   48,
-                  54,
-                  172,
-                  145,
-                  232,
-                  179,
-                  159,
-                  182,
-                  149,
-                  60,
+                  90,
+                  161,
+                  161,
+                  239,
+                  163,
+                  155,
+                  180,
+                  128,
+                  55,
                   39,
                   70,
-                  35,
-                  46,
-                  52,
+                  58,
+                  28,
+                  47,
                   34,
                   37,
                   39,
                   20,
-                  44,
-                  38,
-                  54,
-                  50,
-                  51,
-                  38,
                   57,
-                  106,
-                  106,
-                  166,
-                  154,
-                  104,
+                  53,
+                  49,
+                  40,
+                  38,
+                  45,
+                  67,
+                  115,
+                  124,
+                  124,
+                  153,
+                  136,
                   108
               ],
-    "Ultima":  "2026-11-21 06:16:36",
-    "Gerado":  "2026-11-21 06:17:04",
-    "Data":  "2026-11-21 06:17"
+    "Ultima":  "2026-11-21 06:25:28",
+    "Gerado":  "2026-11-21 06:27:03",
+    "Data":  "2026-11-21 06:27"
 }
