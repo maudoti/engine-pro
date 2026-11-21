@@ -1,16 +1,16 @@
 {
     "Resolvidos":  477,
-    "Conhecimentos":  2480,
-    "Pesquisas":  29297,
-    "N48":  3071,
+    "Conhecimentos":  2482,
+    "Pesquisas":  29321,
+    "N48":  3095,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 02:56:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 125 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-21 03:06:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 02:56:50",
+                         "Data":  "2026-11-21 03:05:53",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 02:45:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Data":  "2026-11-21 02:59:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000EF (CRITICAL_PROCESS_DIED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 351 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 375 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 02:45:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Data":  "2026-11-21 02:59:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 02:24:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 4059 item(ns) do OneDrive com caminho longo demais",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 02:59:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 139 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 01:59:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 136 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 02:45:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-20 20:35:31",
@@ -66,51 +66,51 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
-                  164,
-                  210,
-                  203,
-                  165,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
-                  70,
+                  64,
+                  33,
                   32,
-                  39,
-                  41,
-                  34,
-                  42,
-                  30,
-                  38,
                   54,
-                  48,
-                  31,
-                  66,
-                  35,
+                  167,
+                  160,
+                  189,
+                  208,
+                  183,
+                  164,
+                  173,
+                  60,
+                  22,
+                  52,
+                  70,
+                  46,
+                  52,
+                  21,
+                  33,
+                  43,
+                  33,
+                  28,
+                  54,
+                  54,
+                  30,
+                  71,
+                  25,
                   45,
-                  90,
-                  121,
-                  140
+                  114,
+                  122,
+                  139
               ],
-    "Ultima":  "2026-11-21 02:56:57",
-    "Gerado":  "2026-11-21 02:57:03",
-    "Data":  "2026-11-21 02:57"
+    "Ultima":  "2026-11-21 03:06:50",
+    "Gerado":  "2026-11-21 03:07:04",
+    "Data":  "2026-11-21 03:07"
 }
