@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2527,
-    "Pesquisas":  29995,
-    "N48":  3497,
+    "Conhecimentos":  2528,
+    "Pesquisas":  29996,
+    "N48":  3498,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 12:36:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 12:38:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 23,08 GB",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 12:36:26",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-21 12:37:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-21 12:37:30",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1050 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-21 11:59:53",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1049 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-21 11:52",
                          "Texto":  "Nova versão 4.50.363 publicada: Correções e melhorias",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-21 11:46:07",
@@ -50,67 +55,62 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 10:47:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive parou de sincronizar por falta de espaço no disco",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-20 20:35:31",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  31,
-                  30,
-                  37,
+                  41,
+                  23,
+                  34,
                   37,
                   34,
-                  31,
+                  48,
+                  59,
+                  41,
                   49,
-                  68,
-                  49,
-                  25,
-                  46,
-                  119,
-                  162,
-                  180,
-                  232,
-                  152,
-                  154,
+                  45,
+                  48,
+                  122,
+                  172,
                   191,
-                  121,
-                  35,
-                  25,
-                  70,
-                  58,
+                  202,
+                  166,
+                  152,
+                  186,
+                  98,
+                  39,
+                  55,
+                  39,
+                  55,
                   48,
                   41,
-                  22,
-                  35,
-                  41,
+                  34,
+                  42,
                   30,
-                  45,
+                  38,
+                  29,
                   53,
                   51,
                   51,
-                  45,
-                  25,
-                  91,
-                  107,
-                  118,
-                  170,
-                  131,
-                  104,
-                  119,
-                  58,
-                  23,
-                  19,
-                  35,
                   50,
-                  49
+                  45,
+                  69,
+                  124,
+                  132,
+                  141,
+                  148,
+                  90,
+                  134,
+                  43,
+                  24,
+                  20,
+                  49,
+                  26,
+                  50
               ],
-    "Ultima":  "2026-11-21 12:36:54",
-    "Gerado":  "2026-11-21 12:37:13",
-    "Data":  "2026-11-21 12:37"
+    "Ultima":  "2026-11-21 12:37:30",
+    "Gerado":  "2026-11-21 12:47:04",
+    "Data":  "2026-11-21 12:47"
 }
