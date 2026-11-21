@@ -1,13 +1,23 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2536,
-    "Pesquisas":  30168,
-    "N48":  3421,
+    "Pesquisas":  30178,
+    "N48":  3431,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 18:50:00",
+                         "Data":  "2026-11-21 19:22:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-21 19:22:05",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-21 18:50:00",
@@ -16,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1222 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1232 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -35,11 +45,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 17:48:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-21 16:27:01",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (12x em 7 dias)",
                          "Nivel":  "ok"
@@ -56,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  60,
-                  37,
+                  68,
+                  29,
                   43,
                   48,
-                  54,
-                  173,
-                  144,
-                  232,
-                  179,
-                  159,
+                  83,
+                  157,
+                  172,
+                  222,
+                  178,
+                  145,
                   182,
-                  149,
+                  133,
                   60,
                   39,
                   70,
-                  35,
-                  46,
+                  57,
+                  24,
                   52,
                   34,
                   37,
                   39,
                   20,
-                  44,
-                  38,
-                  54,
-                  50,
-                  51,
-                  38,
                   57,
-                  107,
-                  105,
-                  166,
+                  47,
+                  45,
+                  41,
+                  47,
+                  45,
+                  67,
+                  103,
+                  136,
+                  122,
                   154,
-                  104,
-                  109,
-                  99,
+                  126,
+                  115,
+                  71,
                   27,
                   19,
                   35,
                   25,
                   50,
                   50,
-                  49,
-                  20,
-                  20,
+                  50,
+                  19,
+                  21,
                   27,
                   20,
-                  11
+                  20
               ],
-    "Ultima":  "2026-11-21 18:50:00",
-    "Gerado":  "2026-11-21 19:17:07",
-    "Data":  "2026-11-21 19:17"
+    "Ultima":  "2026-11-21 19:22:35",
+    "Gerado":  "2026-11-21 19:24:51",
+    "Data":  "2026-11-21 19:24"
 }
