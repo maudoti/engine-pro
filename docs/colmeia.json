@@ -1,17 +1,17 @@
 {
     "Resolvidos":  477,
     "Conhecimentos":  2483,
-    "Pesquisas":  29412,
-    "N48":  3186,
+    "Pesquisas":  29467,
+    "N48":  3241,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 03:46:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 101 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 03:56:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 4047 item(ns) do OneDrive com caminho longo demais",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 03:36:11",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-21 03:56:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 156 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 03:13:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000124 (WHEA_UNCORRECTABLE_ERROR) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 466 pesquisas em bases técnicas",
+                         "Data":  "2026-11-21 03:56:43",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 02:59:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000EF (CRITICAL_PROCESS_DIED) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 521 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-21 03:13:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000124 (WHEA_UNCORRECTABLE_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 02:59:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
+                         "Data":  "2026-11-21 02:59:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000EF (CRITICAL_PROCESS_DIED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -65,52 +65,52 @@
                   0,
                   0,
                   0,
-                  34,
-                  67,
+                  65,
+                  36,
                   62,
-                  48,
-                  61,
+                  74,
+                  35,
                   41,
-                  23,
-                  34,
-                  37,
+                  40,
+                  36,
+                  18,
                   34,
                   48,
-                  59,
-                  41,
-                  49,
+                  65,
+                  46,
+                  38,
                   45,
                   48,
-                  122,
-                  172,
-                  190,
+                  142,
+                  164,
+                  210,
                   203,
-                  166,
-                  152,
-                  185,
-                  99,
+                  165,
+                  149,
+                  198,
+                  58,
                   39,
-                  55,
+                  56,
+                  70,
+                  32,
                   39,
-                  55,
-                  48,
                   41,
                   34,
                   42,
                   30,
                   38,
-                  29,
-                  53,
-                  51,
-                  51,
-                  50,
+                  54,
+                  48,
+                  31,
+                  66,
+                  35,
                   45,
-                  69,
-                  124,
-                  132,
-                  141
+                  90,
+                  121,
+                  141,
+                  169
               ],
-    "Ultima":  "2026-11-21 03:46:52",
-    "Gerado":  "2026-11-21 03:47:03",
-    "Data":  "2026-11-21 03:47"
+    "Ultima":  "2026-11-21 03:56:43",
+    "Gerado":  "2026-11-21 03:57:03",
+    "Data":  "2026-11-21 03:57"
 }
