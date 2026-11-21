@@ -1,17 +1,17 @@
 {
     "Resolvidos":  475,
-    "Conhecimentos":  2464,
-    "Pesquisas":  29036,
-    "N48":  2810,
+    "Conhecimentos":  2466,
+    "Pesquisas":  29060,
+    "N48":  2834,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 00:51:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (68x em 7 dias)",
+                         "Data":  "2026-11-21 01:05:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive fechou sozinho 2 vezes",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 00:51:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (34x em 7 dias)",
+                         "Data":  "2026-11-21 01:05:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Sobras de atualizações do Windows ocupam 4,22 GB",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 00:51:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (168x em 7 dias)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 90 pesquisas em bases técnicas",
+                         "Data":  "2026-11-21 01:05:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 24 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 00:51:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 114 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-21 01:05:36",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 00:51:14",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 00:51:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (168x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-20 23:45:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-21 00:51:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -68,49 +68,49 @@
                   0,
                   0,
                   0,
-                  65,
-                  36,
-                  62,
+                  67,
+                  53,
+                  43,
                   74,
-                  35,
-                  41,
+                  57,
+                  19,
                   40,
                   36,
-                  18,
-                  34,
-                  48,
+                  36,
+                  40,
+                  24,
                   65,
-                  46,
-                  38,
-                  45,
-                  48,
-                  142,
-                  164,
-                  210,
-                  203,
-                  165,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
-                  70,
+                  64,
+                  33,
                   32,
-                  39,
-                  41,
-                  34,
-                  42,
-                  30,
-                  38,
                   54,
-                  48,
-                  31,
-                  66,
-                  35,
+                  167,
+                  160,
+                  188,
+                  209,
+                  183,
+                  164,
+                  173,
+                  60,
+                  21,
+                  53,
+                  70,
+                  46,
+                  52,
+                  20,
+                  34,
+                  43,
+                  33,
+                  28,
+                  54,
+                  54,
+                  30,
+                  71,
+                  25,
                   45,
-                  90
+                  114
               ],
-    "Ultima":  "2026-11-21 00:51:14",
-    "Gerado":  "2026-11-21 00:57:03",
-    "Data":  "2026-11-21 00:57"
+    "Ultima":  "2026-11-21 01:05:36",
+    "Gerado":  "2026-11-21 01:07:03",
+    "Data":  "2026-11-21 01:07"
 }
