@@ -204,12 +204,12 @@
   <footer>Desenvolvido por Mau do TI</footer>
 
 <script>
-  // Contador privado: visitas e cliques em "Baixar o instalador". Nada disso aparece na página; só o TI vê, com
-  // .\Publicar.ps1 -Estatisticas (que também soma os downloads reais do instalador, contados pelo próprio GitHub).
-  // Sem cookies e sem dados de quem visita: só o número.
+  // Contador privado: visitas e cliques em "Baixar o instalador", guardados no intermediário do Engine Pro (só o
+  // número por dia). Nada disso aparece na página e ninguém de fora consegue ler: só o TI vê, no Engine Pro e com
+  // .\Publicar.ps1 -Estatisticas. Sem cookies e sem dados de quem visita.
   (function () {
-    var base = 'https://abacus.jasoncameron.dev/hit/enginepro-ryazbek-site/';
-    function contar(chave) { try { fetch(base + chave, { mode: 'cors', cache: 'no-store' }).catch(function () { }); } catch (e) { } }
+    var base = 'https://enginepro-intermediario.mauricio-b7a.workers.dev/v1/site/contar?k=';
+    function contar(chave) { try { if (navigator.sendBeacon) navigator.sendBeacon(base + chave); else fetch(base + chave, { method: 'POST', mode: 'no-cors', keepalive: true }).catch(function () { }); } catch (e) { } }
     var nova = true; try { nova = !sessionStorage.getItem('ep_visita'); sessionStorage.setItem('ep_visita', '1'); } catch (e) { }
     if (nova) contar('visitas');
     var b = document.getElementById('baixar');
