@@ -1,18 +1,18 @@
 {
     "Resolvidos":  477,
     "Conhecimentos":  2480,
-    "Pesquisas":  29271,
-    "N48":  3045,
+    "Pesquisas":  29297,
+    "N48":  3071,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 02:45:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 02:56:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 125 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 02:45:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 02:56:50",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 02:45:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 99 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 02:45:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 325 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 351 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 02:45:00",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 02:45:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -66,51 +66,51 @@
                   0,
                   0,
                   0,
-                  34,
-                  67,
+                  65,
+                  36,
                   62,
-                  48,
-                  61,
+                  74,
+                  35,
                   41,
-                  23,
-                  34,
-                  37,
+                  40,
+                  36,
+                  18,
                   34,
                   48,
-                  59,
-                  41,
-                  49,
+                  65,
+                  46,
+                  38,
                   45,
                   48,
-                  122,
-                  172,
-                  190,
+                  142,
+                  164,
+                  210,
                   203,
-                  166,
-                  152,
-                  185,
-                  99,
+                  165,
+                  149,
+                  198,
+                  58,
                   39,
-                  55,
+                  56,
+                  70,
+                  32,
                   39,
-                  55,
-                  48,
                   41,
                   34,
                   42,
                   30,
                   38,
-                  29,
-                  53,
-                  51,
-                  51,
-                  50,
+                  54,
+                  48,
+                  31,
+                  66,
+                  35,
                   45,
-                  69,
-                  124,
-                  132
+                  90,
+                  121,
+                  140
               ],
-    "Ultima":  "2026-11-21 02:45:00",
-    "Gerado":  "2026-11-21 02:47:03",
-    "Data":  "2026-11-21 02:47"
+    "Ultima":  "2026-11-21 02:56:57",
+    "Gerado":  "2026-11-21 02:57:03",
+    "Data":  "2026-11-21 02:57"
 }
