@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2526,
+    "Conhecimentos":  2527,
     "Pesquisas":  29946,
-    "N48":  3518,
+    "N48":  3509,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-21 11:46:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive está fechado",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-21 11:36:20",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 25 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-21 11:35:03",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 11:35",
-                         "Texto":  "Nova versão 4.50.362 publicada: Correções e melhorias",
+                         "Data":  "2026-11-21 11:35:03",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -30,13 +30,18 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 11:05:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook congelou 4 vezes nesta semana",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 11:35",
+                         "Texto":  "Nova versão 4.50.362 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-21 11:05:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook congelou 4 vezes nesta semana",
                          "Nivel":  "ok"
                      },
                      {
@@ -50,67 +55,62 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 09:11:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Outlook novo registrou falhas no componente WebView2",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-20 20:35:31",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  70,
-                  30,
-                  31,
-                  37,
+                  61,
+                  41,
+                  23,
+                  34,
                   37,
                   34,
-                  30,
-                  50,
-                  68,
+                  48,
+                  59,
+                  41,
                   49,
-                  25,
-                  46,
-                  118,
-                  162,
-                  181,
-                  232,
-                  152,
-                  152,
-                  192,
+                  45,
+                  48,
                   122,
-                  34,
-                  26,
-                  70,
-                  58,
+                  172,
+                  191,
+                  202,
+                  166,
+                  152,
+                  186,
+                  98,
+                  39,
+                  55,
+                  39,
+                  55,
                   48,
                   41,
-                  22,
-                  35,
-                  40,
+                  34,
+                  42,
                   30,
-                  46,
+                  38,
+                  29,
                   53,
                   51,
                   51,
-                  44,
-                  26,
-                  91,
-                  107,
-                  118,
-                  169,
+                  50,
+                  45,
+                  69,
+                  124,
                   132,
-                  104,
-                  118,
-                  58,
+                  141,
+                  148,
+                  90,
+                  134,
+                  43,
                   24,
-                  19,
-                  35,
-                  50
+                  20,
+                  49,
+                  26
               ],
     "Ultima":  "2026-11-21 11:36:20",
-    "Gerado":  "2026-11-21 11:37:04",
-    "Data":  "2026-11-21 11:37"
+    "Gerado":  "2026-11-21 11:47:05",
+    "Data":  "2026-11-21 11:47"
 }
