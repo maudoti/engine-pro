@@ -1,16 +1,16 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2547,
-    "Pesquisas":  30825,
-    "N48":  3351,
+    "Pesquisas":  30848,
+    "N48":  3369,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 02:56:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 138 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 03:06:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 02:54:46",
+                         "Data":  "2026-11-22 03:06:53",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 02:50:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 474 pesquisas em bases técnicas",
+                         "Data":  "2026-11-22 02:59:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 148 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 02:13:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 498 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-22 02:50:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:51:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 150 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 02:13:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-22 01:23:30",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  204,
+                  208,
+                  183,
                   164,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
+                  173,
+                  60,
+                  22,
+                  52,
                   70,
-                  32,
-                  39,
-                  41,
-                  34,
-                  42,
-                  30,
-                  38,
+                  46,
+                  52,
+                  21,
+                  33,
+                  43,
+                  33,
+                  28,
                   54,
-                  48,
-                  31,
-                  66,
-                  35,
+                  54,
+                  30,
+                  71,
+                  25,
                   45,
-                  90,
-                  121,
-                  141,
-                  169,
-                  113,
-                  98,
-                  112,
-                  37,
-                  24,
+                  114,
+                  122,
+                  139,
+                  151,
+                  134,
+                  93,
+                  116,
                   20,
+                  17,
+                  19,
+                  50,
                   50,
                   25,
                   50,
-                  50,
-                  42,
-                  22,
+                  44,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   20,
-                  25,
-                  55,
+                  51,
+                  29,
                   62,
-                  177,
-                  159,
-                  138
+                  207,
+                  133,
+                  158
               ],
-    "Ultima":  "2026-11-22 02:56:38",
-    "Gerado":  "2026-11-22 02:57:07",
-    "Data":  "2026-11-22 02:57"
+    "Ultima":  "2026-11-22 03:06:59",
+    "Gerado":  "2026-11-22 03:07:05",
+    "Data":  "2026-11-22 03:07"
 }
