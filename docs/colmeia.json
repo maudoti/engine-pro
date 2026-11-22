@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2551,
-    "Pesquisas":  30863,
-    "N48":  3325,
+    "Conhecimentos":  2556,
+    "Pesquisas":  30900,
+    "N48":  3314,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 03:16:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 03:24:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 03:14:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F081F (CBS_E_SOURCE_MISSING) no Windows",
+                         "Data":  "2026-11-22 03:24:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 03:13:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
+                         "Data":  "2026-11-22 03:24:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 513 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 550 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 03:13:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 03:23:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 66 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,7 +40,7 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 03:11:24",
+                         "Data":  "2026-11-22 03:23:55",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -61,34 +61,34 @@
                      }
                  ],
     "Horas":  [
-                  179,
-                  159,
-                  182,
-                  149,
-                  60,
+                  163,
+                  155,
+                  180,
+                  128,
+                  55,
                   39,
                   70,
-                  35,
-                  46,
-                  52,
+                  58,
+                  28,
+                  47,
                   34,
                   37,
                   39,
                   20,
-                  51,
-                  31,
-                  54,
-                  50,
-                  51,
-                  42,
-                  56,
+                  57,
+                  53,
+                  49,
+                  40,
+                  38,
+                  45,
+                  67,
+                  115,
+                  124,
+                  124,
+                  153,
+                  136,
                   108,
-                  102,
-                  165,
-                  154,
-                  105,
-                  111,
-                  96,
+                  67,
                   27,
                   19,
                   35,
@@ -96,21 +96,21 @@
                   50,
                   50,
                   50,
-                  19,
+                  26,
+                  23,
+                  18,
                   20,
-                  28,
                   20,
-                  10,
-                  28,
-                  28,
+                  20,
                   35,
-                  38,
-                  108,
-                  203,
-                  113,
-                  142
+                  26,
+                  64,
+                  88,
+                  217,
+                  98,
+                  174
               ],
-    "Ultima":  "2026-11-22 03:16:30",
-    "Gerado":  "2026-11-22 03:18:06",
-    "Data":  "2026-11-22 03:18"
+    "Ultima":  "2026-11-22 03:23:55",
+    "Gerado":  "2026-11-22 03:27:04",
+    "Data":  "2026-11-22 03:27"
 }
