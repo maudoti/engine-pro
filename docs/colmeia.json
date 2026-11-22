@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2637,
-    "Pesquisas":  31892,
-    "N48":  3116,
+    "Conhecimentos":  2638,
+    "Pesquisas":  31901,
+    "N48":  3103,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 20:16:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 5 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 20:19:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000010E (VIDEO_MEMORY_MANAGEMENT_INTERNAL) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 20:16:18",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-22 20:18:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 19:38:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 20:18:44",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1541 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1551 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 19:07:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 19:38:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 17:35:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
+                         "Data":  "2026-11-22 19:07:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  50,
-                  51,
+                  40,
                   38,
-                  57,
-                  106,
-                  106,
-                  166,
-                  154,
-                  104,
-                  109,
-                  99,
+                  45,
+                  67,
+                  115,
+                  124,
+                  124,
+                  153,
+                  136,
+                  108,
+                  67,
                   27,
                   19,
                   35,
                   25,
                   50,
                   50,
-                  49,
+                  50,
+                  25,
+                  24,
+                  18,
                   20,
                   20,
-                  27,
-                  19,
-                  12,
-                  23,
-                  28,
-                  40,
-                  38,
-                  103,
-                  201,
-                  120,
-                  142,
-                  143,
-                  178,
-                  135,
-                  171,
-                  20,
-                  20,
-                  20,
-                  10,
                   20,
                   35,
+                  26,
+                  64,
+                  88,
+                  217,
+                  98,
+                  174,
+                  141,
+                  169,
+                  142,
+                  138,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
                   50,
                   50,
                   50,
-                  46,
+                  31,
+                  40,
                   30,
                   30,
-                  20
+                  30
               ],
-    "Ultima":  "2026-11-22 20:16:41",
-    "Gerado":  "2026-11-22 20:17:03",
-    "Data":  "2026-11-22 20:17"
+    "Ultima":  "2026-11-22 20:18:44",
+    "Gerado":  "2026-11-22 20:27:03",
+    "Data":  "2026-11-22 20:27"
 }
