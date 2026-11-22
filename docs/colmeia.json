@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2636,
-    "Pesquisas":  31856,
-    "N48":  3135,
+    "Pesquisas":  31871,
+    "N48":  3150,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 18:42:20",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-22 19:06:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 18:42:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 19:06:23",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 17:35:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 18:42:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1506 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1521 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-22 17:35:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 17:35:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 17:35:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-22 15:27:59",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  48,
-                  31,
-                  66,
-                  35,
+                  54,
+                  30,
+                  71,
+                  25,
                   45,
-                  90,
-                  121,
-                  141,
-                  169,
-                  113,
-                  98,
-                  112,
-                  37,
-                  24,
+                  114,
+                  122,
+                  139,
+                  151,
+                  134,
+                  93,
+                  116,
                   20,
+                  17,
+                  19,
+                  50,
                   50,
                   25,
                   50,
-                  50,
-                  42,
-                  22,
+                  44,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   20,
-                  25,
-                  55,
+                  51,
+                  29,
                   62,
-                  177,
-                  159,
-                  139,
-                  145,
-                  143,
+                  207,
+                  133,
+                  158,
+                  135,
                   166,
-                  187,
-                  34,
+                  150,
+                  191,
                   20,
                   20,
-                  20,
+                  17,
+                  13,
                   20,
                   35,
                   50,
                   50,
                   50,
-                  25,
-                  36,
-                  30
+                  46,
+                  15,
+                  45
               ],
-    "Ultima":  "2026-11-22 18:42:20",
-    "Gerado":  "2026-11-22 18:57:06",
-    "Data":  "2026-11-22 18:57"
+    "Ultima":  "2026-11-22 19:06:58",
+    "Gerado":  "2026-11-22 19:07:05",
+    "Data":  "2026-11-22 19:07"
 }
