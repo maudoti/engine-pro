@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2545,
-    "Pesquisas":  30686,
-    "N48":  3423,
+    "Pesquisas":  30689,
+    "N48":  3399,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 01:51:06",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-22 02:06:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 3 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 01:51:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 150 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 02:06:39",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:23:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 336 pesquisas em bases técnicas",
+                         "Data":  "2026-11-22 01:51:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 150 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 01:12:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 339 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-22 01:23:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:12:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Data":  "2026-11-22 01:12:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 00:58:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 186 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 01:12:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-21 23:08",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  210,
-                  203,
-                  165,
-                  149,
-                  198,
-                  58,
-                  39,
-                  56,
+                  189,
+                  208,
+                  183,
+                  164,
+                  173,
+                  60,
+                  22,
+                  52,
                   70,
-                  32,
-                  39,
-                  41,
-                  34,
-                  42,
-                  30,
-                  38,
+                  46,
+                  52,
+                  21,
+                  33,
+                  43,
+                  33,
+                  28,
                   54,
-                  48,
-                  31,
-                  66,
-                  35,
+                  54,
+                  30,
+                  71,
+                  25,
                   45,
-                  90,
-                  121,
-                  141,
-                  169,
-                  112,
-                  99,
-                  112,
-                  37,
-                  24,
+                  114,
+                  122,
+                  139,
+                  151,
+                  134,
+                  93,
+                  116,
                   20,
+                  17,
+                  19,
+                  50,
                   50,
                   25,
                   50,
-                  50,
-                  42,
-                  22,
+                  44,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   20,
-                  25,
-                  55,
+                  51,
+                  29,
                   62,
-                  177,
-                  159
+                  207,
+                  132
               ],
-    "Ultima":  "2026-11-22 01:51:06",
-    "Gerado":  "2026-11-22 01:57:05",
-    "Data":  "2026-11-22 01:57"
+    "Ultima":  "2026-11-22 02:06:49",
+    "Gerado":  "2026-11-22 02:07:04",
+    "Data":  "2026-11-22 02:07"
 }
