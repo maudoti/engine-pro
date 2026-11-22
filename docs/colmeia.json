@@ -1,16 +1,16 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2546,
-    "Pesquisas":  30797,
-    "N48":  3355,
+    "Conhecimentos":  2547,
+    "Pesquisas":  30825,
+    "N48":  3351,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 02:46:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 111 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 02:56:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 138 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 02:46:26",
+                         "Data":  "2026-11-22 02:54:46",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 02:13:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Data":  "2026-11-22 02:50:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070070 (ERROR_DISK_FULL) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 447 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 474 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 01:51:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 150 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 02:13:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:23:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 01:51:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 150 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 01:12:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
+                         "Data":  "2026-11-22 01:23:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  202,
-                  166,
-                  152,
-                  186,
-                  98,
+                  204,
+                  164,
+                  149,
+                  198,
+                  58,
                   39,
-                  55,
+                  56,
+                  70,
+                  32,
                   39,
-                  55,
-                  48,
                   41,
                   34,
                   42,
                   30,
                   38,
-                  29,
-                  53,
-                  51,
-                  51,
-                  50,
+                  54,
+                  48,
+                  31,
+                  66,
+                  35,
                   45,
-                  69,
-                  124,
-                  132,
-                  141,
-                  148,
                   90,
-                  134,
-                  43,
+                  121,
+                  141,
+                  169,
+                  113,
+                  98,
+                  112,
+                  37,
                   24,
                   20,
-                  49,
-                  26,
-                  50,
                   50,
                   25,
-                  29,
+                  50,
+                  50,
+                  42,
+                  22,
+                  18,
                   20,
-                  19,
-                  19,
                   20,
-                  30,
+                  20,
+                  20,
                   25,
                   55,
-                  35,
-                  158,
-                  182,
-                  134
+                  62,
+                  177,
+                  159,
+                  138
               ],
-    "Ultima":  "2026-11-22 02:46:51",
-    "Gerado":  "2026-11-22 02:47:06",
-    "Data":  "2026-11-22 02:47"
+    "Ultima":  "2026-11-22 02:56:38",
+    "Gerado":  "2026-11-22 02:57:07",
+    "Data":  "2026-11-22 02:57"
 }
