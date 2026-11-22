@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2636,
+    "Conhecimentos":  2637,
     "Pesquisas":  31871,
     "N48":  3150,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 19:06:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 19:07:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000ED (UNMOUNTABLE_BOOT_VOLUME) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 19:06:23",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-22 19:06:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 18:42:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 19:06:23",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 17:35:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 18:42:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -41,12 +41,12 @@
                      },
                      {
                          "Data":  "2026-11-22 17:35:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 15:27:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C: com menos de 10 GB livres",
+                         "Data":  "2026-11-22 17:35:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -62,55 +62,55 @@
                  ],
     "Horas":  [
                   54,
-                  30,
-                  71,
-                  25,
-                  45,
-                  114,
-                  122,
-                  139,
-                  151,
-                  134,
-                  93,
-                  116,
-                  20,
-                  17,
-                  19,
                   50,
-                  50,
-                  25,
-                  50,
-                  44,
-                  20,
-                  18,
-                  20,
-                  20,
-                  20,
-                  20,
                   51,
-                  29,
-                  62,
-                  207,
-                  133,
-                  158,
-                  135,
+                  38,
+                  57,
+                  106,
+                  106,
                   166,
-                  150,
-                  191,
+                  154,
+                  104,
+                  109,
+                  99,
+                  27,
+                  19,
+                  35,
+                  25,
+                  50,
+                  50,
+                  49,
                   20,
                   20,
-                  17,
-                  13,
+                  27,
+                  19,
+                  12,
+                  23,
+                  28,
+                  40,
+                  38,
+                  103,
+                  201,
+                  120,
+                  142,
+                  143,
+                  178,
+                  135,
+                  171,
+                  20,
+                  20,
+                  20,
+                  10,
                   20,
                   35,
                   50,
                   50,
                   50,
                   46,
-                  15,
-                  45
+                  30,
+                  30
               ],
     "Ultima":  "2026-11-22 19:06:58",
-    "Gerado":  "2026-11-22 19:07:05",
-    "Data":  "2026-11-22 19:07"
+    "Gerado":  "2026-11-22 19:17:04",
+    "Data":  "2026-11-22 19:17"
 }
