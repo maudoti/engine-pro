@@ -1,13 +1,13 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2544,
+    "Conhecimentos":  2545,
     "Pesquisas":  30628,
-    "N48":  3459,
+    "N48":  3442,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 01:21:37",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 01:23:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-22 01:21:37",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:12:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 01:21:37",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,8 +30,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 01:12:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Data":  "2026-11-22 01:12:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-22 01:12:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-22 00:58:53",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 186 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-22 00:19:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (24x em 7 dias)",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-21 23:08",
@@ -61,36 +61,36 @@
                      }
                  ],
     "Horas":  [
-                  170,
-                  220,
-                  181,
-                  144,
-                  182,
-                  141,
-                  60,
+                  161,
+                  239,
+                  163,
+                  155,
+                  180,
+                  128,
+                  55,
                   39,
                   70,
-                  51,
-                  30,
-                  52,
+                  58,
+                  28,
+                  47,
                   34,
                   37,
                   39,
                   20,
                   57,
-                  39,
-                  48,
-                  43,
-                  50,
+                  53,
+                  49,
+                  40,
+                  38,
                   45,
                   67,
-                  97,
-                  135,
-                  129,
-                  154,
-                  120,
-                  113,
-                  79,
+                  115,
+                  124,
+                  124,
+                  153,
+                  136,
+                  108,
+                  67,
                   27,
                   19,
                   35,
@@ -98,19 +98,19 @@
                   50,
                   50,
                   50,
-                  19,
-                  20,
-                  28,
+                  26,
+                  23,
+                  18,
                   20,
                   20,
                   20,
                   35,
                   26,
-                  53,
-                  99,
+                  64,
+                  88,
                   217
               ],
     "Ultima":  "2026-11-22 01:21:37",
-    "Gerado":  "2026-11-22 01:23:22",
-    "Data":  "2026-11-22 01:23"
+    "Gerado":  "2026-11-22 01:27:04",
+    "Data":  "2026-11-22 01:27"
 }
