@@ -1,13 +1,13 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2633,
+    "Conhecimentos":  2634,
     "Pesquisas":  31740,
     "N48":  3160,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 15:22:33",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 15:27:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C: com menos de 10 GB livres",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-22 15:22:33",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 15:18",
-                         "Texto":  "Nova versão 4.50.378 publicada: Correções e melhorias",
+                         "Data":  "2026-11-22 15:22:33",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -30,13 +30,18 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 14:53:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 15:18",
+                         "Texto":  "Nova versão 4.50.378 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-22 14:53:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000002E (DATA_BUS_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -50,60 +55,55 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 13:59:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (9x em 7 dias)",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-20 20:35:31",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  39,
-                  20,
-                  57,
-                  53,
-                  49,
                   40,
-                  38,
-                  45,
-                  67,
-                  115,
-                  124,
-                  124,
-                  153,
-                  136,
-                  108,
-                  67,
-                  27,
+                  30,
+                  46,
+                  53,
+                  51,
+                  51,
+                  44,
+                  26,
+                  91,
+                  107,
+                  118,
+                  169,
+                  132,
+                  104,
+                  118,
+                  58,
+                  24,
                   19,
                   35,
-                  25,
                   50,
-                  50,
-                  50,
+                  49,
                   26,
-                  23,
+                  50,
+                  29,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   35,
-                  26,
-                  64,
-                  88,
-                  217,
-                  98,
-                  174,
-                  141,
-                  169,
-                  143,
-                  137,
+                  37,
+                  53,
+                  132,
+                  191,
+                  112,
+                  170,
+                  113,
+                  193,
+                  173,
+                  93,
                   20,
                   20,
-                  20,
+                  10,
                   20,
                   20,
                   50,
@@ -111,6 +111,6 @@
                   50
               ],
     "Ultima":  "2026-11-22 15:22:33",
-    "Gerado":  "2026-11-22 15:27:06",
-    "Data":  "2026-11-22 15:27"
+    "Gerado":  "2026-11-22 15:37:05",
+    "Data":  "2026-11-22 15:37"
 }
