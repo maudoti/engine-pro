@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2539,
-    "Pesquisas":  30270,
-    "N48":  3381,
+    "Conhecimentos":  2540,
+    "Pesquisas":  30288,
+    "N48":  3379,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 22:36:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 22:40:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 227 item(ns) do OneDrive com caminho longo demais",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 22:35:24",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-21 22:39:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 53 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 22:05:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 34,64 GB",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 22:39:11",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1324 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1342 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 21:59:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-21 22:05:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 34,64 GB",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 20:21:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (68x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-21 21:59:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 19:56:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (168x em 7 dias)",
+                         "Data":  "2026-11-21 20:21:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (68x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  46,
-                  119,
-                  162,
-                  180,
-                  232,
+                  48,
+                  122,
+                  172,
+                  191,
+                  203,
+                  165,
                   152,
-                  153,
-                  192,
-                  121,
-                  34,
-                  26,
-                  70,
-                  58,
+                  186,
+                  98,
+                  39,
+                  55,
+                  39,
+                  55,
                   48,
                   41,
-                  22,
-                  35,
-                  41,
+                  34,
+                  42,
                   30,
-                  45,
+                  38,
+                  29,
                   53,
                   51,
                   51,
-                  45,
-                  25,
-                  91,
-                  107,
-                  118,
-                  170,
-                  131,
-                  104,
-                  119,
-                  58,
-                  23,
-                  19,
-                  35,
                   50,
+                  45,
+                  69,
+                  124,
+                  132,
+                  141,
+                  148,
+                  90,
+                  134,
+                  43,
+                  24,
+                  20,
                   49,
                   26,
                   50,
+                  50,
+                  25,
                   29,
                   20,
-                  18,
+                  19,
+                  19,
                   20,
-                  20,
-                  20,
-                  35,
-                  37
+                  30,
+                  25,
+                  55
               ],
-    "Ultima":  "2026-11-21 22:36:49",
-    "Gerado":  "2026-11-21 22:37:11",
-    "Data":  "2026-11-21 22:37"
+    "Ultima":  "2026-11-21 22:39:57",
+    "Gerado":  "2026-11-21 22:47:07",
+    "Data":  "2026-11-21 22:47"
 }
