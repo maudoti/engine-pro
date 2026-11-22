@@ -1,13 +1,13 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2545,
+    "Conhecimentos":  2546,
     "Pesquisas":  30721,
-    "N48":  3429,
+    "N48":  3415,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 02:12:22",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 02:13:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000012B (FAULTY_HARDWARE_CORRUPTED_PAGE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-22 02:12:22",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:51:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 150 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 02:12:22",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 01:23:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 01:51:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 150 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:12:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
+                         "Data":  "2026-11-22 01:23:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000E2 (MANUALLY_INITIATED_CRASH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 01:12:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Data":  "2026-11-22 01:12:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  220,
-                  189,
-                  175,
+                  232,
+                  179,
+                  159,
                   182,
                   149,
                   60,
                   39,
-                  54,
-                  51,
+                  70,
+                  35,
                   46,
                   52,
                   34,
-                  35,
-                  32,
-                  29,
-                  28,
-                  54,
-                  54,
-                  50,
-                  51,
-                  26,
-                  53,
-                  106,
-                  121,
-                  165,
-                  156,
-                  103,
-                  106,
-                  103,
-                  27,
-                  19,
-                  26,
-                  34,
-                  50,
-                  50,
-                  25,
+                  37,
+                  39,
+                  20,
                   44,
-                  20,
-                  18,
-                  20,
-                  20,
-                  20,
-                  20,
+                  38,
+                  54,
+                  50,
                   51,
                   38,
-                  83,
-                  207,
-                  134
+                  57,
+                  106,
+                  106,
+                  166,
+                  154,
+                  104,
+                  109,
+                  99,
+                  27,
+                  19,
+                  35,
+                  25,
+                  50,
+                  50,
+                  49,
+                  20,
+                  20,
+                  27,
+                  19,
+                  12,
+                  23,
+                  28,
+                  40,
+                  38,
+                  103,
+                  201,
+                  120
               ],
     "Ultima":  "2026-11-22 02:12:22",
-    "Gerado":  "2026-11-22 02:12:53",
-    "Data":  "2026-11-22 02:12"
+    "Gerado":  "2026-11-22 02:17:04",
+    "Data":  "2026-11-22 02:17"
 }
