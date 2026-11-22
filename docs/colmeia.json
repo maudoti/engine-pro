@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2541,
-    "Pesquisas":  30350,
-    "N48":  3387,
+    "Pesquisas":  30400,
+    "N48":  3411,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-21 23:58:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (18x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 00:16:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 50 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-21 23:52:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 62 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 00:15:43",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-21 23:58:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (18x em 7 dias)",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 50 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-21 23:52:10",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 62 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -40,11 +50,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-21 22:39:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 53 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-21 22:05:27",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 34,64 GB",
                          "Nivel":  "ok"
@@ -56,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  167,
-                  160,
-                  189,
-                  208,
-                  183,
-                  164,
-                  173,
+                  172,
+                  145,
+                  232,
+                  179,
+                  159,
+                  182,
+                  149,
                   60,
-                  22,
-                  52,
+                  39,
                   70,
+                  35,
                   46,
                   52,
-                  21,
-                  33,
-                  43,
-                  33,
-                  28,
-                  54,
-                  54,
-                  30,
-                  71,
-                  25,
-                  45,
-                  114,
-                  122,
-                  139,
-                  151,
-                  134,
-                  93,
-                  116,
+                  34,
+                  37,
+                  39,
                   20,
-                  17,
-                  19,
-                  50,
-                  50,
-                  25,
-                  50,
                   44,
-                  20,
-                  18,
-                  20,
-                  20,
-                  20,
-                  20,
+                  38,
+                  54,
+                  50,
                   51,
-                  29,
-                  62
+                  38,
+                  57,
+                  106,
+                  106,
+                  166,
+                  154,
+                  104,
+                  109,
+                  99,
+                  27,
+                  19,
+                  35,
+                  25,
+                  50,
+                  50,
+                  49,
+                  20,
+                  20,
+                  27,
+                  19,
+                  12,
+                  23,
+                  28,
+                  40,
+                  38,
+                  103
               ],
-    "Ultima":  "2026-11-21 23:52:10",
-    "Gerado":  "2026-11-22 00:07:04",
-    "Data":  "2026-11-22 00:07"
+    "Ultima":  "2026-11-22 00:16:58",
+    "Gerado":  "2026-11-22 00:17:04",
+    "Data":  "2026-11-22 00:17"
 }
