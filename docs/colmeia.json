@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2560,
-    "Pesquisas":  30961,
-    "N48":  3316,
+    "Conhecimentos":  2621,
+    "Pesquisas":  31540,
+    "N48":  3200,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-22 03:46:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 126 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-22 09:32:28",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 03:45:26",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-22 09:32:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 03:38:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024402C (WU_E_PT_WINHTTP_NAME_NOT_RESOLVED) no Windows",
+                         "Data":  "2026-11-22 09:02:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive fechou sozinho 2 vezes",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 610 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1190 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 03:38:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
+                         "Data":  "2026-11-22 09:02:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (34x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-22 03:38:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-22 08:59:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 23 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 02:59:50",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 148 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-22 08:36:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (68x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-21 23:08",
@@ -61,12 +61,6 @@
                      }
                  ],
     "Horas":  [
-                  166,
-                  152,
-                  186,
-                  98,
-                  39,
-                  55,
                   39,
                   55,
                   48,
@@ -108,9 +102,15 @@
                   158,
                   182,
                   134,
-                  163
+                  164,
+                  116,
+                  181,
+                  186,
+                  56,
+                  20,
+                  20
               ],
-    "Ultima":  "2026-11-22 03:46:43",
-    "Gerado":  "2026-11-22 03:47:04",
-    "Data":  "2026-11-22 03:47"
+    "Ultima":  "2026-11-22 09:32:28",
+    "Gerado":  "2026-11-22 09:47:06",
+    "Data":  "2026-11-22 09:47"
 }
