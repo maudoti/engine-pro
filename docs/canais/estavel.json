@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.407",
-    "Instalador":  "EnginePro_Setup_4.50.407.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.407/EnginePro_Setup_4.50.407.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.407/EnginePro_Setup_4.50.407.exe.gz",
-    "SHA256":  "DD985D337C6CE97A289E639CF4B0FA559E17AD1E24E42A8E48DC586AA4C1AA8A",
-    "Data":  "2026-11-23 16:51",
-    "Notas":  "Explorador remoto das estações",
-    "Assinatura":  "k/krvwmSZ5CIVSKuSHWigQ/xmnKdXohmUDIM+ZkViVklSv4Vmtg5bSRFPghF555zDdWeTlWaGTp/z7A/A6MXfKL6TJjAwgwTmlxWQQmtFFMBZAlKu1vVe2KEM6xW8U+6YNjfm97gBUxvRdpnn136arLx32utMVZq22K9wxXS/+BIKUg62Yhqdc1GknDEVW5uaqgXV9jhFYo7jd0p4clCe/pN+tfkt7l6etTku7fLgeLAI5wUmc/3mmTXP0o46iWfRhiTGTHQFWvK+0GaVUALks+pWUWkrjZcvGc30/n6xP/QncLyxAptXLkhtjyafPJy4ApGyuASOlh0Cg1mXRLFD2I0uRmQCruhJZ5Pk55Kk2VGXr4O8lGTAn1apiZ7E79iYrr5FwDyqbXvl0rP/RMTvYfG/q6ML5FIlx3Ijgzl4gWvt/sgUuP5UHJJJ60+L/QOgvMvJJ+HceJmK/Ihv+Z9q9MN3bJGi+h5BZ+rzqqn/OFcx88Dcs//f5D0lE/9c5vp"
+    "Versao":  "4.50.410",
+    "Instalador":  "EnginePro_Setup_4.50.410.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.410/EnginePro_Setup_4.50.410.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.410/EnginePro_Setup_4.50.410.exe.gz",
+    "SHA256":  "0C4C8767A1073EAFCA8E2B1B3AE6255B1FD059417B94C6ADE1510F6D390044F5",
+    "Data":  "2026-11-23 19:02",
+    "Notas":  "Resolver nas estacoes: Win+Ctrl+Shift+B na sessao da pessoa; reiniciar o driver de video (forte); reparar audio e microfone; reparar o microfone (mudo e volume); redefinir o Edge e o Chrome mantendo favoritos e senhas",
+    "Assinatura":  "EO0t9X4Kkup4PA1Sf1d7Ctl/1BJbNO2pdIIo/qf2B1O5UCb6W7fC/Mc5aS27psA7ecTXwx/900ihBs44qaVtf4XqiXUSLX9hoM2REDyDArBsg7pDPqJc1+JNb3eSrE/6N4uev1x1H0hwytAtURLRCjLSLKZwdNE/DvhO1ojlx99V4tsSkR5PGgX2DLo3ro1i95mqrdlgFTGpvSLCCaNMjKlfXhdLHv1X7Jq8KmL6s1w/nIuX890H9sRqplAUsbHsNoj0KuJqeB9JuuZwuRihRwQDt0DQMZxjUrtSxY+q3HWbGtJaOc7BBTHYdKHK4M4AaPbaeY++sHQ6Xx/fE1/zujy3qwLsOrcygZMfXnkR94zXrqx/HiAfk4JtTrBiJrkbUowLcPQhC6yr7QTh26h7QktmFavRJIxH1EZBKHyU/Lh7UZhizYA58TWhnDKmtC2ioLSpyZahx/02H+N0UIzni7qsQsh6G5JRTb7QuK1C32rBzNeH0z/YhaRo4pT1R0Qi"
 }
