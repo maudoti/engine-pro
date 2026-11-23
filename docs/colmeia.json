@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2714,
-    "Pesquisas":  32616,
-    "N48":  3204,
+    "Conhecimentos":  2729,
+    "Pesquisas":  32638,
+    "N48":  3171,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 03:47:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-23 03:56:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 134 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 03:47:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 112 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 03:56:26",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 03:39:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: TÉRMICO, MEMÓRIA E DISCO (eventos que fecham o diagnóstico)",
+                         "Data":  "2026-11-23 03:50:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint, Biblioteca do SharePoint sincronizada duas vezes (atalho e sincro...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 607 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 629 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 03:39:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: P1, GANHOS RÁPIDOS (alto impacto, baixo esforço, fazer primeiro)",
+                         "Data":  "2026-11-23 03:50:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (60x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 03:39:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: MAIS CÓDIGOS DE TELA AZUL (o que cada um aponta)",
+                         "Data":  "2026-11-23 03:49:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
                          "Nivel":  "ok"
                      },
                      {
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  148,
-                  90,
-                  134,
-                  43,
+                  112,
+                  99,
+                  112,
+                  37,
                   24,
                   20,
-                  49,
-                  26,
-                  50,
                   50,
                   25,
-                  29,
+                  50,
+                  50,
+                  42,
+                  22,
+                  18,
                   20,
-                  19,
-                  19,
                   20,
-                  30,
+                  20,
+                  20,
                   25,
                   55,
+                  62,
+                  176,
+                  160,
+                  139,
+                  145,
+                  143,
+                  166,
+                  187,
+                  34,
+                  20,
+                  20,
+                  20,
+                  20,
                   35,
-                  158,
-                  182,
-                  134,
-                  164,
-                  116,
-                  181,
-                  186,
-                  56,
-                  20,
-                  20,
-                  17,
-                  13,
+                  50,
+                  50,
+                  50,
                   25,
-                  45,
-                  50,
-                  50,
-                  50,
                   36,
                   30,
                   30,
-                  15,
-                  45,
+                  30,
+                  30,
                   29,
                   29,
-                  105,
-                  163,
-                  177,
-                  167
+                  142,
+                  168,
+                  174,
+                  150
               ],
-    "Ultima":  "2026-11-23 03:47:01",
-    "Gerado":  "2026-11-23 03:47:04",
-    "Data":  "2026-11-23 03:47"
+    "Ultima":  "2026-11-23 03:56:53",
+    "Gerado":  "2026-11-23 03:57:03",
+    "Data":  "2026-11-23 03:57"
 }
