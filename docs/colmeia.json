@@ -1,18 +1,18 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2781,
-    "Pesquisas":  32800,
-    "N48":  3193,
+    "Conhecimentos":  2786,
+    "Pesquisas":  32820,
+    "N48":  3180,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 05:16:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 05:21:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não encontra e-mails",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:16:17",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 05:21:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD fecha com \"FATAL ERROR\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:11:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo de dados do Outlook (OST) muito grande",
+                         "Data":  "2026-11-23 05:21:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo PST corrompido",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 791 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 811 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 05:10:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Macros bloqueadas (\"Risco de segurança\")",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 05:21:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:10:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 34,64 GB",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 05:21:11",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 04:59:29",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  109,
-                  99,
+                  108,
+                  67,
                   27,
                   19,
                   35,
                   25,
                   50,
                   50,
-                  49,
-                  20,
-                  20,
-                  27,
-                  19,
-                  12,
+                  50,
+                  26,
                   23,
-                  28,
-                  40,
-                  38,
-                  103,
-                  201,
-                  120,
-                  142,
-                  143,
-                  178,
-                  135,
-                  171,
+                  18,
                   20,
                   20,
-                  20,
-                  10,
                   20,
                   35,
+                  26,
+                  64,
+                  88,
+                  217,
+                  98,
+                  174,
+                  141,
+                  169,
+                  142,
+                  138,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
                   50,
                   50,
                   50,
-                  46,
+                  31,
+                  40,
                   30,
                   30,
-                  21,
-                  24,
-                  44,
-                  19,
-                  63,
-                  132,
-                  219,
+                  30,
+                  30,
+                  29,
+                  30,
+                  81,
+                  160,
                   163,
-                  128,
-                  116
+                  186,
+                  120,
+                  120
               ],
-    "Ultima":  "2026-11-23 05:16:59",
-    "Gerado":  "2026-11-23 05:17:04",
-    "Data":  "2026-11-23 05:17"
+    "Ultima":  "2026-11-23 05:21:11",
+    "Gerado":  "2026-11-23 05:27:04",
+    "Data":  "2026-11-23 05:27"
 }
