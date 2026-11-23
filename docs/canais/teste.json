@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.402",
-    "Instalador":  "EnginePro_Setup_4.50.402.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.402/EnginePro_Setup_4.50.402.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.402/EnginePro_Setup_4.50.402.exe.gz",
-    "SHA256":  "C78F8BABA2199935E0D80C0613C4D8C1356ED0028A5FBBFADB6F9473FF4C0E88",
-    "Data":  "2026-11-23 14:23",
-    "Notas":  "Novo: caixa Pouca RAM na Quarentena, separando os chamados de falta de RAM dos Severos; Correção: chamado de programa que trava agora diz que a IA atualiza e reinstala sozinha, sem precisar da TI",
-    "Assinatura":  "QXyFKPXiVjCh5jLaEzWgtyAGKdvL2llITiZZW9sy7BN5rOs+rK2L5/J70ecXh8RR07RctnlR/xu5Sem9HkFlChb9Octnvy2SO2nHPFPTVjsw6iDA8kXoYJFyEU51MN25gdEZXFuXuyu4qy1bAIS8h2GSPFgx0rhmien7wr4XRncmDfrsTEbDfJLYlX6jvXS5n28xD8kgj2siFXIlAZJT5Ok4G36qs2owLGYQyRjdlk+A3FDg+3wZk7XvWz5SV1v0tuW0nU9bmtZS7QAkPoD/yIUWgqCy+9VW7lxXKIFC4WWRgb8S52wwAEWe1wZL5nKlZl2aKW4tdOjLIwU+JT85IBrAlzDHDmp0PanWG8zQbMvi2d4bIWufW/gHBBOBWKRXakJs8RfDZHTyouRui5V2E4EkMBSYQB+w0hw7kIcxZqy+a3p11fkQhEoe3PO8y1vScRmgF+FoWEwJSg+p4p5mYaib7j4F2lyshCwne11UKIem5NmGRe8Vn4vLOTEus6Gf"
+    "Versao":  "4.50.403",
+    "Instalador":  "EnginePro_Setup_4.50.403.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.403/EnginePro_Setup_4.50.403.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.403/EnginePro_Setup_4.50.403.exe.gz",
+    "SHA256":  "71AD001043F853BFAF3DAC1B3A7836727B27A0043006C1E62A0D1C30151862E2",
+    "Data":  "2026-11-23 15:48",
+    "Notas":  "Desliga a protecao anti-remocao",
+    "Assinatura":  "RsJXEBet2vuhJblDFg8Vu5rr4uQwo+QsNLOazH3/RVpwzOWrdtVWsz9bbf7gpkCyZUP/g67caaOpZGHAZCJMQFJi6vScQA8pv4s1Eyztb1QQfZtFSZ1UZAppfZp3nMZtAZwEExCi0iH0tpqzz/VdgJ/MqZ6QcUiyqGmJdqvHEx1S7yqdCU81Pc39HN8k7HTmPArum5tUnSYwoM9alAAq6ZMaCNNRFrTx6LMEVZ1RAvBk5BoajWaXmM8+h9rv12lDAlv2NUareciNZblyWh7Ue5/aBuUlRjSWVdLtkdBYYzg4bAzO/01izVwgL7wHTJ9SII3FwfFt77tGihKneZGUQttfIBPPLyOzCdJ43Q0TC6edMxNbQ+DnIo70Gk0pl3Otf08MVmWPqEUcrayIa3v65FqCsD+pzdIRwsBnuJi5nHqao6hHuq/A0B/ds5XtYt/NUp2r5nLdzbAFmYbXVUTbilBD2ENwEaHdX1IeVTutqs+xBmqkJ7HeQZ3A9+3DkQqB"
 }
