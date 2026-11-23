@@ -1,13 +1,23 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2850,
-    "Pesquisas":  33123,
-    "N48":  3304,
+    "Pesquisas":  33144,
+    "N48":  3317,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 07:36:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 63 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 07:46:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 85 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-23 07:45:13",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 07:19:22",
@@ -16,8 +26,8 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 1135 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 07:13:08",
@@ -26,23 +36,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1113 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 07:12:49",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: ACHADO PRIORITÁRIO: O PLURAL CRU PASSA NO FILTRO HUMANO",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-23 07:12:17",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 06:59:41",
@@ -57,55 +57,55 @@
                  ],
     "Horas":  [
                   24,
-                  19,
-                  35,
-                  50,
+                  20,
                   49,
                   26,
                   50,
+                  50,
+                  25,
                   29,
                   20,
-                  18,
+                  19,
+                  19,
                   20,
-                  20,
-                  20,
+                  30,
+                  25,
+                  55,
                   35,
-                  37,
-                  53,
-                  132,
-                  191,
-                  112,
-                  170,
-                  113,
-                  193,
-                  173,
-                  93,
+                  157,
+                  183,
+                  134,
+                  164,
+                  116,
+                  181,
+                  186,
+                  56,
                   20,
                   20,
-                  10,
-                  20,
-                  20,
-                  50,
+                  17,
+                  13,
+                  25,
+                  45,
                   50,
                   50,
                   50,
                   36,
-                  15,
-                  35,
-                  25,
                   30,
+                  30,
+                  15,
+                  45,
                   29,
-                  44,
-                  98,
-                  162,
+                  29,
+                  105,
                   163,
-                  170,
-                  120,
-                  120,
-                  156,
-                  129
+                  177,
+                  167,
+                  121,
+                  118,
+                  177,
+                  112
               ],
-    "Ultima":  "2026-11-23 07:36:12",
-    "Gerado":  "2026-11-23 07:37:04",
-    "Data":  "2026-11-23 07:37"
+    "Ultima":  "2026-11-23 07:46:46",
+    "Gerado":  "2026-11-23 07:47:03",
+    "Data":  "2026-11-23 07:47"
 }
