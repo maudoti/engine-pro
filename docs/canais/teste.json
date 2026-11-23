@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.409",
-    "Instalador":  "EnginePro_Setup_4.50.409.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.409/EnginePro_Setup_4.50.409.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.409/EnginePro_Setup_4.50.409.exe.gz",
-    "SHA256":  "1741D4FABF15E6452CD8A9C4B97DF9378B5A60EA8DF50717B03A3D8D6AA224DA",
-    "Data":  "2026-11-23 18:46",
-    "Notas":  "Resolver nas estacoes: 18 acoes de reparo novas (fila de impressao travada, impressora offline, atalhos quebrados e sem icone, cache de icones, reconectar unidades de rede, esquecer senha de servidor, menu Iniciar e busca, indice de pesquisa, servicos parados, descoberta de rede, cache do Edge e Chrome, Bluetooth, camera, fontes, copiar e colar, Otimizacao de Entrega)",
-    "Assinatura":  "e+b5wrB126Gb19vcCsBXnsRoD42o5llwLv0BTekKQWvGTSXLZvb02VsL5maa4JodBBQ8vkpDSV4pxzgCcGnaSMNagtRFFm4CzsHQVbz8VCCVfuSqqe3X6UHcLc9QTxiaBLS7tQuj5SXEzvboTjQBpYJxwNdSJSh1JhX5iCz0ScPk8eX25RdxeBQ/9PN0CO0eMSjask6RFNAtXr9E/X1pbAtIBtzqCbDORg2XCCUO0zsdeffxbqK7rLE4QfUHaxXQQDWq70NE+3oZzRaWFkEtDELatZBCR6PxstLvve+XyMH+JSypqrz126vuw4QUj4PIjfiwCO7jssil9P0moA6eqx0OcMX29s+Uvu83eLeEFtbCPCi6Cct51TcB3DDT/o1Gktjjb7IUUcHUoi4JjHZYs8oPqQ5CxU+zImo0umyzLFg78EkBidotr+hF+6o1yPt4cC00zdBq0TcEHtmd56w8L4jZ3JPPIPT28Ad7p7PvR137PP7AoUNxGH5rV46MAufH"
+    "Versao":  "4.50.410",
+    "Instalador":  "EnginePro_Setup_4.50.410.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.410/EnginePro_Setup_4.50.410.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.410/EnginePro_Setup_4.50.410.exe.gz",
+    "SHA256":  "0C4C8767A1073EAFCA8E2B1B3AE6255B1FD059417B94C6ADE1510F6D390044F5",
+    "Data":  "2026-11-23 19:02",
+    "Notas":  "Resolver nas estacoes: Win+Ctrl+Shift+B na sessao da pessoa; reiniciar o driver de video (forte); reparar audio e microfone; reparar o microfone (mudo e volume); redefinir o Edge e o Chrome mantendo favoritos e senhas",
+    "Assinatura":  "EO0t9X4Kkup4PA1Sf1d7Ctl/1BJbNO2pdIIo/qf2B1O5UCb6W7fC/Mc5aS27psA7ecTXwx/900ihBs44qaVtf4XqiXUSLX9hoM2REDyDArBsg7pDPqJc1+JNb3eSrE/6N4uev1x1H0hwytAtURLRCjLSLKZwdNE/DvhO1ojlx99V4tsSkR5PGgX2DLo3ro1i95mqrdlgFTGpvSLCCaNMjKlfXhdLHv1X7Jq8KmL6s1w/nIuX890H9sRqplAUsbHsNoj0KuJqeB9JuuZwuRihRwQDt0DQMZxjUrtSxY+q3HWbGtJaOc7BBTHYdKHK4M4AaPbaeY++sHQ6Xx/fE1/zujy3qwLsOrcygZMfXnkR94zXrqx/HiAfk4JtTrBiJrkbUowLcPQhC6yr7QTh26h7QktmFavRJIxH1EZBKHyU/Lh7UZhizYA58TWhnDKmtC2ioLSpyZahx/02H+N0UIzni7qsQsh6G5JRTb7QuK1C32rBzNeH0z/YhaRo4pT1R0Qi"
 }
