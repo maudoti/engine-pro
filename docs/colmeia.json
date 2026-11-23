@@ -5,13 +5,13 @@
     "N48":  3284,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 11:43:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 11:50",
+                         "Texto":  "Nova versão 4.50.401 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 11:43:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
+                         "Data":  "2026-11-23 11:43:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,13 +20,18 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 11:43:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
+                         "Data":  "2026-11-23 11:43:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-23 11:43:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
                          "Nivel":  "ok"
                      },
                      {
@@ -43,64 +48,59 @@
                          "Data":  "2026-11-23 10:53:51",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-23 00:50",
-                         "Texto":  "Nova versão 4.50.394 publicada: Correções e melhorias",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
                   50,
                   50,
-                  25,
-                  29,
+                  42,
+                  22,
+                  18,
                   20,
-                  19,
-                  19,
                   20,
-                  30,
+                  20,
+                  20,
                   25,
                   55,
+                  62,
+                  177,
+                  159,
+                  139,
+                  145,
+                  143,
+                  166,
+                  187,
+                  34,
+                  20,
+                  20,
+                  20,
+                  20,
                   35,
-                  158,
-                  182,
-                  134,
-                  164,
-                  116,
-                  181,
-                  186,
-                  56,
-                  20,
-                  20,
-                  17,
-                  13,
+                  50,
+                  50,
+                  50,
                   25,
-                  45,
-                  50,
-                  50,
-                  50,
                   36,
                   30,
                   30,
-                  15,
-                  45,
+                  30,
+                  30,
                   29,
                   29,
-                  105,
-                  163,
-                  177,
-                  167,
-                  121,
-                  118,
-                  177,
-                  112,
-                  26,
+                  142,
+                  168,
+                  174,
+                  151,
+                  120,
+                  130,
+                  165,
+                  91,
+                  35,
                   20,
                   20,
-                  20
+                  10
               ],
     "Ultima":  "2026-11-23 11:25:17",
-    "Gerado":  "2026-11-23 11:47:04",
-    "Data":  "2026-11-23 11:47"
+    "Gerado":  "2026-11-23 11:57:05",
+    "Data":  "2026-11-23 11:57"
 }
