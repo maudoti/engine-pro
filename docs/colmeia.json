@@ -1,18 +1,18 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2642,
-    "Pesquisas":  32158,
-    "N48":  3119,
+    "Conhecimentos":  2648,
+    "Pesquisas":  32162,
+    "N48":  3102,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 01:01:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 2 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 01:06:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024402C (WU_E_PT_WINHTTP_NAME_NOT_RESOLVED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:00:16",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 01:06:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 00:59:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 147 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 01:05:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 149 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 153 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 00:50",
-                         "Texto":  "Nova versão 4.50.394 publicada: Correções e melhorias",
+                         "Data":  "2026-11-23 01:02:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -40,34 +40,34 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 00:34:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 01:02:10",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 00:34:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 00:59:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 147 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-22 22:43:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 00:50",
+                         "Texto":  "Nova versão 4.50.394 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  141,
-                  131,
-                  156,
-                  119,
-                  92,
-                  130,
-                  19,
-                  24,
+                  122,
+                  139,
+                  151,
+                  134,
+                  93,
+                  116,
                   20,
+                  17,
+                  19,
                   50,
-                  35,
-                  40,
+                  50,
+                  25,
                   50,
                   44,
                   20,
@@ -76,36 +76,36 @@
                   20,
                   20,
                   20,
-                  30,
-                  50,
+                  51,
+                  29,
                   62,
-                  186,
-                  150,
-                  149,
+                  207,
+                  133,
+                  158,
                   135,
-                  151,
-                  161,
-                  187,
-                  31,
-                  28,
-                  12,
+                  166,
+                  150,
+                  191,
                   20,
+                  20,
+                  17,
+                  13,
                   20,
                   35,
                   50,
                   50,
                   50,
+                  46,
+                  15,
+                  45,
+                  15,
+                  30,
+                  30,
                   29,
-                  32,
-                  30,
-                  30,
-                  30,
-                  30,
-                  29,
-                  41,
-                  142
+                  53,
+                  134
               ],
-    "Ultima":  "2026-11-23 01:01:00",
-    "Gerado":  "2026-11-23 01:01:23",
-    "Data":  "2026-11-23 01:01"
+    "Ultima":  "2026-11-23 01:02:10",
+    "Gerado":  "2026-11-23 01:07:04",
+    "Data":  "2026-11-23 01:07"
 }
