@@ -1,18 +1,18 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2642,
-    "Pesquisas":  32102,
-    "N48":  3090,
+    "Pesquisas":  32108,
+    "N48":  3093,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 00:34:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 00:46:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 99 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 00:34:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 00:44:55",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 00:32:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 93 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 00:34:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 93 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 99 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 00:32:54",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 00:34:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  107,
-                  118,
-                  169,
+                  124,
                   132,
-                  104,
-                  118,
-                  58,
+                  141,
+                  148,
+                  90,
+                  134,
+                  43,
                   24,
-                  19,
-                  35,
-                  50,
+                  20,
                   49,
                   26,
                   50,
+                  50,
+                  25,
                   29,
                   20,
-                  18,
+                  19,
+                  19,
                   20,
-                  20,
-                  20,
+                  30,
+                  25,
+                  55,
                   35,
-                  37,
-                  53,
-                  132,
-                  191,
-                  112,
-                  170,
-                  113,
-                  193,
-                  173,
-                  93,
+                  158,
+                  182,
+                  134,
+                  164,
+                  116,
+                  181,
+                  186,
+                  56,
                   20,
                   20,
-                  10,
-                  20,
-                  20,
-                  50,
+                  17,
+                  13,
+                  25,
+                  45,
                   50,
                   50,
                   50,
                   36,
-                  15,
-                  35,
-                  25,
                   30,
+                  30,
+                  15,
+                  45,
                   29,
-                  44,
-                  98
+                  29,
+                  104
               ],
-    "Ultima":  "2026-11-23 00:32:54",
-    "Gerado":  "2026-11-23 00:37:04",
-    "Data":  "2026-11-23 00:37"
+    "Ultima":  "2026-11-23 00:46:10",
+    "Gerado":  "2026-11-23 00:47:04",
+    "Data":  "2026-11-23 00:47"
 }
