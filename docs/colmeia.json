@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2654,
-    "Pesquisas":  32314,
-    "N48":  3157,
+    "Pesquisas":  32340,
+    "N48":  3158,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 01:56:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8000FFFF (E_UNEXPECTED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 02:06:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 01:56:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 158 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 02:06:38",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:56:02",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 01:56:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8000FFFF (E_UNEXPECTED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 305 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 331 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 01:32:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 01:56:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 158 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -41,13 +41,13 @@
                      },
                      {
                          "Data":  "2026-11-23 01:32:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 00:59:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 147 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 01:32:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 00:50",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  141,
-                  169,
-                  112,
-                  99,
-                  112,
-                  37,
-                  24,
+                  139,
+                  151,
+                  134,
+                  93,
+                  116,
                   20,
+                  17,
+                  19,
+                  50,
                   50,
                   25,
                   50,
-                  50,
-                  42,
-                  22,
+                  44,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   20,
-                  25,
-                  55,
+                  51,
+                  29,
                   62,
-                  176,
-                  160,
-                  139,
-                  145,
-                  143,
+                  207,
+                  133,
+                  158,
+                  135,
                   166,
-                  187,
-                  34,
+                  150,
+                  191,
                   20,
                   20,
-                  20,
+                  17,
+                  13,
                   20,
                   35,
                   50,
                   50,
                   50,
-                  25,
-                  36,
-                  30,
-                  30,
+                  46,
+                  15,
+                  45,
+                  15,
                   30,
                   30,
                   29,
-                  29,
-                  142,
-                  168
+                  53,
+                  134,
+                  178
               ],
-    "Ultima":  "2026-11-23 01:56:02",
-    "Gerado":  "2026-11-23 01:57:03",
-    "Data":  "2026-11-23 01:57"
+    "Ultima":  "2026-11-23 02:06:55",
+    "Gerado":  "2026-11-23 02:07:04",
+    "Data":  "2026-11-23 02:07"
 }
