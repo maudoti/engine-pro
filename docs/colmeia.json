@@ -1,28 +1,18 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2887,
+    "Conhecimentos":  2902,
     "Pesquisas":  33190,
-    "N48":  3329,
+    "N48":  3319,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 09:18:47",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-23 09:18:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 09:38:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desligamento sem encerrar o Windows (Kernel-Power 41)",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 08:52:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 09:38:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive ocupando muito espaço no disco",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -30,8 +20,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 08:37:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Caminho longo (limite de 260) e limites que travam a sync (números com fonte)",
+                         "Data":  "2026-11-23 09:38:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SharePoint: erro de limite de exibição de lista (5.000 itens)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +30,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 08:37:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Caso recorrente: \"OneDrive removido com a conta ainda configurada\"",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 09:18:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 08:37:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Sequência segura do OneDrive (do barato ao caro), com o que cada passo faz",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 09:18:47",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-23 08:52:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 00:50",
@@ -56,28 +51,28 @@
                      }
                  ],
     "Horas":  [
-                  35,
+                  29,
+                  46,
                   50,
-                  49,
-                  26,
                   50,
+                  25,
                   29,
                   20,
                   18,
                   20,
                   20,
-                  20,
+                  23,
+                  32,
+                  55,
                   35,
-                  37,
-                  53,
-                  132,
-                  191,
-                  112,
-                  170,
-                  113,
-                  193,
+                  150,
                   173,
-                  93,
+                  126,
+                  165,
+                  126,
+                  173,
+                  208,
+                  56,
                   20,
                   20,
                   10,
@@ -88,24 +83,24 @@
                   50,
                   50,
                   36,
-                  15,
-                  35,
-                  25,
                   30,
-                  29,
-                  44,
-                  98,
-                  162,
+                  30,
+                  15,
+                  45,
+                  28,
+                  30,
+                  99,
                   163,
-                  170,
+                  166,
+                  172,
                   120,
                   120,
-                  156,
-                  130,
-                  47,
+                  162,
+                  125,
+                  39,
                   20
               ],
     "Ultima":  "2026-11-23 09:18:47",
-    "Gerado":  "2026-11-23 09:37:04",
-    "Data":  "2026-11-23 09:37"
+    "Gerado":  "2026-11-23 09:42:39",
+    "Data":  "2026-11-23 09:42"
 }
