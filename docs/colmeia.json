@@ -1,18 +1,18 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2838,
-    "Pesquisas":  33085,
-    "N48":  3270,
+    "Conhecimentos":  2849,
+    "Pesquisas":  33120,
+    "N48":  3305,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 07:06:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 26 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 07:13:08",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Rede, Servidor ou NAS antigo exige SMB1",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 07:06:10",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 07:12:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: ACHADO PRIORITÁRIO: O PLURAL CRU PASSA NO FILTRO HUMANO",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 06:59:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 154 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 07:12:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1076 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1111 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 06:50:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-3. Arvore de decisao do OneDrive travado (ordenada, do barato ao caro)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 07:12:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 61 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 06:50:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-1. Dicionario completo do SyncDiagnostics.log (campo a campo, com o que P...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 07:12:17",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 06:50:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Bibliotecas gigantes (os numeros oficiais, com fonte)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 06:59:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 154 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 00:50",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  20,
-                  17,
+                  27,
                   19,
-                  50,
-                  50,
+                  35,
                   25,
                   50,
-                  44,
-                  20,
-                  18,
-                  20,
+                  50,
+                  49,
                   20,
                   20,
-                  20,
-                  51,
-                  29,
-                  62,
-                  207,
-                  132,
-                  159,
+                  27,
+                  19,
+                  12,
+                  23,
+                  28,
+                  40,
+                  38,
+                  103,
+                  201,
+                  120,
+                  142,
+                  143,
+                  178,
                   135,
-                  166,
-                  150,
-                  191,
+                  171,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  10,
                   20,
                   35,
                   50,
                   50,
                   50,
                   46,
-                  15,
-                  45,
-                  15,
                   30,
                   30,
-                  29,
-                  53,
-                  134,
-                  178,
-                  178,
+                  21,
+                  24,
+                  44,
+                  19,
+                  63,
+                  132,
+                  219,
+                  163,
+                  128,
+                  116,
                   147,
-                  114,
-                  131,
-                  175
+                  173
               ],
-    "Ultima":  "2026-11-23 07:06:43",
-    "Gerado":  "2026-11-23 07:07:03",
-    "Data":  "2026-11-23 07:07"
+    "Ultima":  "2026-11-23 07:12:17",
+    "Gerado":  "2026-11-23 07:17:04",
+    "Data":  "2026-11-23 07:17"
 }
