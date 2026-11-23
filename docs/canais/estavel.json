@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.401",
-    "Instalador":  "EnginePro_Setup_4.50.401.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.401/EnginePro_Setup_4.50.401.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.401/EnginePro_Setup_4.50.401.exe.gz",
-    "SHA256":  "4B0B630033B2C2918143C84BEC74E7EE33DB7B9E863BF2759084C7BB05AB0D23",
-    "Data":  "2026-11-23 11:45",
-    "Notas":  "Correções internas",
-    "Assinatura":  "VADdKtcMoOQrTZnIt+CwqQTLVUf7R6akRf9LFaPlj6F/uiYyj4izVmFaddrCpdDNHqCQce0X459wfi5is7rYUjwlHUjJtac8utvBsQc17oxOjb08ZGmIzIsmyNRe5A+qXNj14xdAKJLXLFH1gd19mkZ6TgG8UqMnq+TFooUY9Np6yw3pzTu6Ui5NdQQdl72FLjvERcnK6LYzM/6yaIOBGiJIoHQf84i3Wp62DbwS2aBMtzj2pz4DnGh1rbZ/n6VZ0O1NdmqxWmNprNu3SVWHNZCY7DbKPzXXCJW1oIoibO0oXOoRbXfwzhIqDa1fZEm2Nux9wifJjHEVarbk+SmwsUVfTqbJDvbG/q3f1KHADFzoeOjbtVspoBK2y7eGorfP1xWqM7Eqna7nC+2aRcovyrDvmgdeWP++v4UgH+3k1eyonMrBG+T5JRkGOGluEGz3hwJhU/E80wVf9DlzPEoDvzI7oj6IJJjRFyvHjTLrd87iajMksQYVa94B6BgcLPl2"
+    "Versao":  "4.50.402",
+    "Instalador":  "EnginePro_Setup_4.50.402.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.402/EnginePro_Setup_4.50.402.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.402/EnginePro_Setup_4.50.402.exe.gz",
+    "SHA256":  "C78F8BABA2199935E0D80C0613C4D8C1356ED0028A5FBBFADB6F9473FF4C0E88",
+    "Data":  "2026-11-23 14:23",
+    "Notas":  "Novo: caixa Pouca RAM na Quarentena, separando os chamados de falta de RAM dos Severos; Correção: chamado de programa que trava agora diz que a IA atualiza e reinstala sozinha, sem precisar da TI",
+    "Assinatura":  "QXyFKPXiVjCh5jLaEzWgtyAGKdvL2llITiZZW9sy7BN5rOs+rK2L5/J70ecXh8RR07RctnlR/xu5Sem9HkFlChb9Octnvy2SO2nHPFPTVjsw6iDA8kXoYJFyEU51MN25gdEZXFuXuyu4qy1bAIS8h2GSPFgx0rhmien7wr4XRncmDfrsTEbDfJLYlX6jvXS5n28xD8kgj2siFXIlAZJT5Ok4G36qs2owLGYQyRjdlk+A3FDg+3wZk7XvWz5SV1v0tuW0nU9bmtZS7QAkPoD/yIUWgqCy+9VW7lxXKIFC4WWRgb8S52wwAEWe1wZL5nKlZl2aKW4tdOjLIwU+JT85IBrAlzDHDmp0PanWG8zQbMvi2d4bIWufW/gHBBOBWKRXakJs8RfDZHTyouRui5V2E4EkMBSYQB+w0hw7kIcxZqy+a3p11fkQhEoe3PO8y1vScRmgF+FoWEwJSg+p4p5mYaib7j4F2lyshCwne11UKIem5NmGRe8Vn4vLOTEus6Gf"
 }
