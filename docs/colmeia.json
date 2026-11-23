@@ -1,16 +1,16 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2816,
-    "Pesquisas":  32889,
+    "Conhecimentos":  2821,
+    "Pesquisas":  32910,
     "N48":  3211,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 05:56:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 117 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 06:06:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 5 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 05:56:32",
+                         "Data":  "2026-11-23 06:06:26",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:50:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Serviço Windows Installer inacessível",
+                         "Data":  "2026-11-23 06:00:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressão demora para começar",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 880 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 901 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 05:50:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Instalação, Erro 1618: outra instalação em andamento",
+                         "Data":  "2026-11-23 06:00:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Impressora, Impressora de PDF sumiu",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:50:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, Referências externas (XREF) não encontradas",
+                         "Data":  "2026-11-23 06:00:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000001A (MEMORY_MANAGEMENT) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 04:59:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 120 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 05:59:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 133 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  112,
-                  37,
-                  24,
+                  116,
                   20,
+                  17,
+                  19,
+                  50,
                   50,
                   25,
                   50,
-                  50,
-                  42,
-                  22,
+                  44,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   20,
-                  25,
-                  55,
+                  51,
+                  29,
                   62,
-                  176,
-                  160,
-                  139,
-                  145,
-                  143,
+                  207,
+                  132,
+                  159,
+                  135,
                   166,
-                  187,
-                  34,
+                  150,
+                  191,
                   20,
                   20,
-                  20,
+                  17,
+                  13,
                   20,
                   35,
                   50,
                   50,
                   50,
-                  25,
-                  36,
-                  30,
-                  30,
+                  46,
+                  15,
+                  45,
+                  15,
                   30,
                   30,
                   29,
-                  29,
-                  142,
-                  168,
-                  174,
-                  151,
-                  120,
-                  130
+                  53,
+                  134,
+                  178,
+                  178,
+                  147,
+                  114,
+                  131
               ],
-    "Ultima":  "2026-11-23 05:56:52",
-    "Gerado":  "2026-11-23 05:57:03",
-    "Data":  "2026-11-23 05:57"
+    "Ultima":  "2026-11-23 06:06:51",
+    "Gerado":  "2026-11-23 06:07:03",
+    "Data":  "2026-11-23 06:07"
 }
