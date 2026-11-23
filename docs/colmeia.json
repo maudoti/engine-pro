@@ -1,18 +1,18 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2786,
-    "Pesquisas":  32820,
-    "N48":  3180,
+    "Pesquisas":  32837,
+    "N48":  3195,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 05:21:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não encontra e-mails",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 05:36:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 05:21:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD fecha com \"FATAL ERROR\"",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 05:36:17",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -21,18 +21,18 @@
                      },
                      {
                          "Data":  "2026-11-23 05:21:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo PST corrompido",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Pesquisa do Outlook não encontra e-mails",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 811 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 828 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 05:21:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 48 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 05:21:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD, AutoCAD fecha com \"FATAL ERROR\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:21:11",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 05:21:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo PST corrompido",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 04:59:29",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  108,
-                  67,
-                  27,
+                  118,
+                  58,
+                  24,
                   19,
                   35,
-                  25,
                   50,
-                  50,
-                  50,
+                  49,
                   26,
-                  23,
+                  50,
+                  29,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   35,
-                  26,
-                  64,
-                  88,
-                  217,
-                  98,
-                  174,
-                  141,
+                  37,
+                  53,
+                  132,
+                  191,
+                  112,
                   169,
-                  142,
-                  138,
+                  114,
+                  193,
+                  173,
+                  93,
                   20,
                   20,
-                  20,
+                  10,
                   20,
                   20,
                   50,
                   50,
                   50,
-                  31,
-                  40,
-                  30,
-                  30,
-                  30,
+                  50,
+                  36,
+                  15,
+                  35,
+                  25,
                   30,
                   29,
-                  30,
-                  81,
-                  160,
+                  44,
+                  98,
+                  162,
                   163,
-                  186,
+                  170,
                   120,
                   120
               ],
-    "Ultima":  "2026-11-23 05:21:11",
-    "Gerado":  "2026-11-23 05:27:04",
-    "Data":  "2026-11-23 05:27"
+    "Ultima":  "2026-11-23 05:36:52",
+    "Gerado":  "2026-11-23 05:37:03",
+    "Data":  "2026-11-23 05:37"
 }
