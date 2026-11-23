@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2777,
-    "Pesquisas":  32778,
-    "N48":  3172,
+    "Conhecimentos":  2781,
+    "Pesquisas":  32800,
+    "N48":  3193,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 05:06:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-23 05:16:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 05:06:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 05:16:17",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:00:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Erro de instalação ou atualização do Office (código 30xxx)",
+                         "Data":  "2026-11-23 05:11:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Outlook, Arquivo de dados do Outlook (OST) muito grande",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 769 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 791 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 05:00:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Office fecha sozinho ao abrir",
+                         "Data":  "2026-11-23 05:10:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Macros bloqueadas (\"Risco de segurança\")",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 05:00:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office, Office \"Produto não licenciado\" ou funcionalidade reduzida",
+                         "Data":  "2026-11-23 05:10:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco: a cópia local do Outlook está com 34,64 GB",
                          "Nivel":  "ok"
                      },
                      {
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  93,
-                  116,
-                  20,
-                  17,
+                  109,
+                  99,
+                  27,
                   19,
-                  50,
-                  50,
+                  35,
                   25,
                   50,
-                  44,
-                  20,
-                  18,
-                  20,
+                  50,
+                  49,
                   20,
                   20,
-                  20,
-                  51,
-                  29,
-                  62,
-                  207,
-                  132,
-                  159,
+                  27,
+                  19,
+                  12,
+                  23,
+                  28,
+                  40,
+                  38,
+                  103,
+                  201,
+                  120,
+                  142,
+                  143,
+                  178,
                   135,
-                  166,
-                  150,
-                  191,
+                  171,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  10,
                   20,
                   35,
                   50,
                   50,
                   50,
                   46,
-                  15,
-                  45,
-                  15,
                   30,
                   30,
-                  29,
-                  53,
-                  134,
-                  178,
-                  178,
-                  147,
-                  113
+                  21,
+                  24,
+                  44,
+                  19,
+                  63,
+                  132,
+                  219,
+                  163,
+                  128,
+                  116
               ],
-    "Ultima":  "2026-11-23 05:06:52",
-    "Gerado":  "2026-11-23 05:07:03",
-    "Data":  "2026-11-23 05:07"
+    "Ultima":  "2026-11-23 05:16:59",
+    "Gerado":  "2026-11-23 05:17:04",
+    "Data":  "2026-11-23 05:17"
 }
