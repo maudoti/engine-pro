@@ -1,18 +1,18 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2654,
-    "Pesquisas":  32393,
-    "N48":  3210,
+    "Conhecimentos":  2660,
+    "Pesquisas":  32394,
+    "N48":  3167,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 02:16:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 79 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 02:18:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007018B (ERROR_CLOUD_FILE_ACCESS_DENIED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 02:16:31",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 02:18:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:56:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8000FFFF (E_UNEXPECTED) no Windows",
+                         "Data":  "2026-11-23 02:17:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F081F (CBS_E_SOURCE_MISSING) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 384 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 385 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 01:56:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 158 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 02:17:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 80 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:32:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 02:17:15",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 01:32:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 01:56:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 158 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 00:50",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  166,
-                  154,
-                  104,
-                  109,
-                  99,
+                  124,
+                  153,
+                  136,
+                  108,
+                  67,
                   27,
                   19,
                   35,
                   25,
                   50,
                   50,
-                  49,
+                  50,
+                  25,
+                  24,
+                  18,
                   20,
                   20,
-                  27,
-                  19,
-                  12,
-                  23,
-                  28,
-                  40,
-                  38,
-                  103,
-                  201,
-                  120,
-                  142,
-                  143,
-                  178,
-                  135,
-                  171,
-                  20,
-                  20,
-                  20,
-                  10,
                   20,
                   35,
+                  26,
+                  64,
+                  88,
+                  217,
+                  98,
+                  174,
+                  141,
+                  169,
+                  142,
+                  138,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
                   50,
                   50,
                   50,
-                  46,
+                  31,
+                  40,
                   30,
                   30,
-                  21,
-                  24,
-                  44,
-                  19,
-                  63,
-                  132,
-                  219
+                  30,
+                  30,
+                  29,
+                  30,
+                  81,
+                  160,
+                  163
               ],
-    "Ultima":  "2026-11-23 02:16:54",
-    "Gerado":  "2026-11-23 02:17:04",
-    "Data":  "2026-11-23 02:17"
+    "Ultima":  "2026-11-23 02:17:15",
+    "Gerado":  "2026-11-23 02:27:03",
+    "Data":  "2026-11-23 02:27"
 }
