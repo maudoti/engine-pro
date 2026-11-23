@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.402",
-    "Instalador":  "EnginePro_Setup_4.50.402.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.402/EnginePro_Setup_4.50.402.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.402/EnginePro_Setup_4.50.402.exe.gz",
-    "SHA256":  "C78F8BABA2199935E0D80C0613C4D8C1356ED0028A5FBBFADB6F9473FF4C0E88",
-    "Data":  "2026-11-23 14:23",
-    "Notas":  "Novo: caixa Pouca RAM na Quarentena, separando os chamados de falta de RAM dos Severos; Correção: chamado de programa que trava agora diz que a IA atualiza e reinstala sozinha, sem precisar da TI",
-    "Assinatura":  "QXyFKPXiVjCh5jLaEzWgtyAGKdvL2llITiZZW9sy7BN5rOs+rK2L5/J70ecXh8RR07RctnlR/xu5Sem9HkFlChb9Octnvy2SO2nHPFPTVjsw6iDA8kXoYJFyEU51MN25gdEZXFuXuyu4qy1bAIS8h2GSPFgx0rhmien7wr4XRncmDfrsTEbDfJLYlX6jvXS5n28xD8kgj2siFXIlAZJT5Ok4G36qs2owLGYQyRjdlk+A3FDg+3wZk7XvWz5SV1v0tuW0nU9bmtZS7QAkPoD/yIUWgqCy+9VW7lxXKIFC4WWRgb8S52wwAEWe1wZL5nKlZl2aKW4tdOjLIwU+JT85IBrAlzDHDmp0PanWG8zQbMvi2d4bIWufW/gHBBOBWKRXakJs8RfDZHTyouRui5V2E4EkMBSYQB+w0hw7kIcxZqy+a3p11fkQhEoe3PO8y1vScRmgF+FoWEwJSg+p4p5mYaib7j4F2lyshCwne11UKIem5NmGRe8Vn4vLOTEus6Gf"
+    "Versao":  "4.50.407",
+    "Instalador":  "EnginePro_Setup_4.50.407.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.407/EnginePro_Setup_4.50.407.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.407/EnginePro_Setup_4.50.407.exe.gz",
+    "SHA256":  "DD985D337C6CE97A289E639CF4B0FA559E17AD1E24E42A8E48DC586AA4C1AA8A",
+    "Data":  "2026-11-23 16:51",
+    "Notas":  "Explorador remoto das estações",
+    "Assinatura":  "k/krvwmSZ5CIVSKuSHWigQ/xmnKdXohmUDIM+ZkViVklSv4Vmtg5bSRFPghF555zDdWeTlWaGTp/z7A/A6MXfKL6TJjAwgwTmlxWQQmtFFMBZAlKu1vVe2KEM6xW8U+6YNjfm97gBUxvRdpnn136arLx32utMVZq22K9wxXS/+BIKUg62Yhqdc1GknDEVW5uaqgXV9jhFYo7jd0p4clCe/pN+tfkt7l6etTku7fLgeLAI5wUmc/3mmTXP0o46iWfRhiTGTHQFWvK+0GaVUALks+pWUWkrjZcvGc30/n6xP/QncLyxAptXLkhtjyafPJy4ApGyuASOlh0Cg1mXRLFD2I0uRmQCruhJZ5Pk55Kk2VGXr4O8lGTAn1apiZ7E79iYrr5FwDyqbXvl0rP/RMTvYfG/q6ML5FIlx3Ijgzl4gWvt/sgUuP5UHJJJ60+L/QOgvMvJJ+HceJmK/Ihv+Z9q9MN3bJGi+h5BZ+rzqqn/OFcx88Dcs//f5D0lE/9c5vp"
 }
