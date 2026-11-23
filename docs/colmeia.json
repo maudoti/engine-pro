@@ -1,13 +1,23 @@
 {
     "Resolvidos":  485,
     "Conhecimentos":  2928,
-    "Pesquisas":  33329,
-    "N48":  3239,
+    "Pesquisas":  33347,
+    "N48":  3257,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 14:42:07",
+                         "Data":  "2026-11-23 15:16:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-23 15:13:12",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 14:42:07",
@@ -16,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1320 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1338 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -40,11 +50,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 13:48:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-23 11:50",
                          "Texto":  "Nova versão 4.50.401 publicada: Correções e melhorias",
                          "Nivel":  "info"
@@ -52,55 +57,55 @@
                  ],
     "Horas":  [
                   20,
-                  18,
+                  27,
                   20,
-                  20,
-                  20,
-                  20,
-                  51,
-                  29,
-                  62,
-                  207,
-                  133,
-                  158,
+                  11,
+                  24,
+                  27,
+                  40,
+                  38,
+                  103,
+                  201,
+                  120,
+                  142,
+                  143,
+                  178,
                   135,
-                  166,
-                  150,
-                  191,
+                  171,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  10,
                   20,
                   35,
                   50,
                   50,
                   50,
                   46,
-                  15,
-                  45,
-                  15,
                   30,
                   30,
-                  29,
-                  53,
-                  134,
-                  178,
-                  178,
+                  21,
+                  24,
+                  44,
+                  19,
+                  63,
+                  132,
+                  219,
+                  164,
+                  128,
+                  115,
                   147,
-                  114,
-                  131,
-                  176,
-                  59,
-                  35,
+                  173,
+                  25,
+                  38,
+                  17,
                   20,
                   20,
                   20,
-                  13,
-                  32,
-                  44
+                  25,
+                  62
               ],
-    "Ultima":  "2026-11-23 14:42:07",
-    "Gerado":  "2026-11-23 15:07:06",
-    "Data":  "2026-11-23 15:07"
+    "Ultima":  "2026-11-23 15:16:58",
+    "Gerado":  "2026-11-23 15:17:06",
+    "Data":  "2026-11-23 15:17"
 }
