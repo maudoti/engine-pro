@@ -1,16 +1,16 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2642,
-    "Pesquisas":  32114,
-    "N48":  3086,
+    "Pesquisas":  32146,
+    "N48":  3110,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 00:49:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 105 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 00:56:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 137 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 00:48:54",
+                         "Data":  "2026-11-23 00:56:01",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,23 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-23 00:50",
+                         "Texto":  "Nova versão 4.50.394 publicada: Correções e melhorias",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 137 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-23 00:34:36",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 105 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 00:34:20",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "481 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
@@ -48,64 +53,59 @@
                          "Data":  "2026-11-22 22:43:26",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-22 15:18",
-                         "Texto":  "Nova versão 4.50.378 publicada: Correções e melhorias",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
-                  111,
-                  132,
-                  150,
-                  153,
-                  85,
-                  125,
-                  43,
+                  121,
+                  141,
+                  169,
+                  112,
+                  99,
+                  112,
+                  37,
                   24,
                   20,
                   50,
                   25,
                   50,
                   50,
-                  25,
-                  29,
-                  27,
-                  21,
+                  42,
+                  22,
                   18,
-                  12,
-                  30,
+                  20,
+                  20,
+                  20,
+                  20,
                   25,
                   55,
-                  48,
-                  156,
-                  185,
-                  130,
-                  163,
-                  112,
-                  176,
-                  186,
-                  56,
-                  20,
-                  20,
-                  20,
-                  17,
+                  62,
+                  177,
+                  159,
+                  139,
+                  145,
+                  143,
+                  166,
+                  187,
                   34,
-                  30,
-                  55,
-                  44,
+                  20,
+                  20,
+                  20,
+                  20,
+                  35,
                   50,
+                  50,
+                  50,
+                  25,
                   36,
                   30,
                   30,
-                  20,
-                  40,
+                  30,
+                  30,
                   29,
                   29,
-                  110
+                  142
               ],
-    "Ultima":  "2026-11-23 00:49:33",
-    "Gerado":  "2026-11-23 00:49:40",
-    "Data":  "2026-11-23 00:49"
+    "Ultima":  "2026-11-23 00:56:50",
+    "Gerado":  "2026-11-23 00:57:04",
+    "Data":  "2026-11-23 00:57"
 }
