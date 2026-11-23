@@ -1,16 +1,16 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2690,
-    "Pesquisas":  32488,
-    "N48":  3191,
+    "Conhecimentos":  2693,
+    "Pesquisas":  32518,
+    "N48":  3196,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 02:57:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 174 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 03:06:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 02:56:40",
+                         "Data":  "2026-11-23 03:05:25",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 02:49:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071AC3 (ERROR_DIRTY_VOLUME) no Windows",
+                         "Data":  "2026-11-23 02:59:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 479 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 508 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 02:49:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Erros de leitura ou gravação no disco (sem falha confirmada até agora)",
+                         "Data":  "2026-11-23 02:59:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive está fechado",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 02:49:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070017 (ERROR_CRC) no Windows",
+                         "Data":  "2026-11-23 02:59:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800704C3 (ERROR_SESSION_CREDENTIAL_CONFLICT) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:56:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 158 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 02:59:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 190 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  169,
-                  112,
-                  99,
-                  112,
-                  37,
-                  24,
+                  151,
+                  134,
+                  93,
+                  116,
                   20,
+                  17,
+                  19,
+                  50,
                   50,
                   25,
                   50,
-                  50,
-                  42,
-                  22,
+                  44,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   20,
-                  25,
-                  55,
+                  51,
+                  29,
                   62,
-                  176,
-                  160,
-                  139,
-                  145,
-                  143,
+                  207,
+                  133,
+                  158,
+                  135,
                   166,
-                  187,
-                  34,
+                  150,
+                  191,
                   20,
                   20,
-                  20,
+                  17,
+                  13,
                   20,
                   35,
                   50,
                   50,
                   50,
-                  25,
-                  36,
-                  30,
-                  30,
+                  46,
+                  15,
+                  45,
+                  15,
                   30,
                   30,
                   29,
-                  29,
-                  142,
-                  168,
-                  174
+                  53,
+                  134,
+                  178,
+                  177
               ],
-    "Ultima":  "2026-11-23 02:57:00",
-    "Gerado":  "2026-11-23 02:57:03",
-    "Data":  "2026-11-23 02:57"
+    "Ultima":  "2026-11-23 03:06:53",
+    "Gerado":  "2026-11-23 03:07:04",
+    "Data":  "2026-11-23 03:07"
 }
