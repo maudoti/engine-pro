@@ -1,16 +1,16 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2743,
-    "Pesquisas":  32717,
-    "N48":  3179,
+    "Conhecimentos":  2758,
+    "Pesquisas":  32737,
+    "N48":  3178,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 04:36:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 04:46:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 85 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 04:36:36",
+                         "Data":  "2026-11-23 04:46:17",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 04:20:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Nome de arquivo não permitido",
+                         "Data":  "2026-11-23 04:38:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: GUIA DE VOZ (firme e honesto, sem perder o jeito simpático)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 708 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 728 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 04:20:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar há tempo (6x em 7 dias)",
+                         "Data":  "2026-11-23 04:38:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: CORRELACIONAR TRAVAMENTO COM ATUALIZAÇÃO (sem confundir os tipos)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 04:10:05",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Arquivos com nomes iguais em maiúsculas e minúsculas",
+                         "Data":  "2026-11-23 04:38:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: NOTA DE SAÚDE OBJETIVA (hoje aparece sem padrão claro)",
                          "Nivel":  "ok"
                      },
                      {
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  104,
-                  118,
-                  58,
+                  90,
+                  134,
+                  43,
                   24,
-                  19,
-                  35,
-                  50,
+                  20,
                   49,
                   26,
                   50,
+                  50,
+                  25,
                   29,
                   20,
-                  18,
+                  19,
+                  19,
                   20,
-                  20,
-                  20,
+                  30,
+                  25,
+                  55,
                   35,
-                  37,
-                  53,
-                  132,
-                  191,
-                  112,
-                  170,
-                  113,
-                  193,
-                  173,
-                  93,
+                  158,
+                  182,
+                  134,
+                  164,
+                  116,
+                  181,
+                  186,
+                  56,
                   20,
                   20,
-                  10,
-                  20,
-                  20,
-                  50,
+                  17,
+                  13,
+                  25,
+                  45,
                   50,
                   50,
                   50,
                   36,
-                  15,
-                  35,
-                  25,
                   30,
+                  30,
+                  15,
+                  45,
                   29,
-                  44,
-                  98,
-                  162,
+                  29,
+                  105,
                   163,
-                  170,
-                  120
+                  177,
+                  167,
+                  121
               ],
-    "Ultima":  "2026-11-23 04:36:44",
-    "Gerado":  "2026-11-23 04:37:04",
-    "Data":  "2026-11-23 04:37"
+    "Ultima":  "2026-11-23 04:46:54",
+    "Gerado":  "2026-11-23 04:47:04",
+    "Data":  "2026-11-23 04:47"
 }
