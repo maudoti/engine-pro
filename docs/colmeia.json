@@ -1,17 +1,17 @@
 {
     "Resolvidos":  481,
     "Conhecimentos":  2887,
-    "Pesquisas":  33181,
-    "N48":  3320,
+    "Pesquisas":  33183,
+    "N48":  3322,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 09:16:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 1 pesquisa em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 09:16:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 3 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 08:52:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-23 09:16:41",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 08:37:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Caminho longo (limite de 260) e limites que travam a sync (números com fonte)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1172 pesquisas em bases técnicas",
+                         "Data":  "2026-11-23 08:52:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 08:37:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Caso recorrente: \"OneDrive removido com a conta ainda configurada\"",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1174 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-23 08:37:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Caminho longo (limite de 260) e limites que travam a sync (números com fonte)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 08:37:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Sequência segura do OneDrive (do barato ao caro), com o que cada passo faz",
+                         "Data":  "2026-11-23 08:37:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Caso recorrente: \"OneDrive removido com a conta ainda configurada\"",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 08:24:37",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 08:37:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Sequência segura do OneDrive (do barato ao caro), com o que cada passo faz",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 00:50",
@@ -60,24 +60,24 @@
                   25,
                   50,
                   50,
-                  45,
-                  24,
+                  49,
                   20,
-                  25,
                   20,
-                  13,
-                  22,
                   27,
-                  42,
+                  20,
+                  11,
+                  24,
+                  27,
+                  40,
                   38,
-                  100,
-                  203,
-                  121,
+                  103,
+                  201,
+                  120,
                   142,
                   143,
                   178,
-                  133,
-                  173,
+                  135,
+                  171,
                   20,
                   20,
                   20,
@@ -90,22 +90,22 @@
                   46,
                   30,
                   30,
-                  20,
-                  25,
+                  21,
+                  24,
                   44,
                   19,
                   63,
-                  131,
-                  218,
+                  132,
+                  219,
                   164,
-                  127,
-                  117,
-                  148,
+                  128,
+                  115,
+                  147,
                   173,
                   25,
-                  36
+                  38
               ],
-    "Ultima":  "2026-11-23 09:16:18",
-    "Gerado":  "2026-11-23 09:16:43",
-    "Data":  "2026-11-23 09:16"
+    "Ultima":  "2026-11-23 09:16:55",
+    "Gerado":  "2026-11-23 09:17:06",
+    "Data":  "2026-11-23 09:17"
 }
