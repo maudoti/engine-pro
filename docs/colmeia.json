@@ -1,18 +1,18 @@
 {
     "Resolvidos":  498,
-    "Conhecimentos":  2953,
-    "Pesquisas":  33490,
-    "N48":  3322,
+    "Conhecimentos":  2957,
+    "Pesquisas":  33491,
+    "N48":  3323,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 19:01:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 19:03:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 7 dia(s)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 19:01:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 19:02:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (115x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 18:59:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 19:02:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (32x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1481 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1482 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 18:27:59",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 19:02:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 9 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,18 +40,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 18:16:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 19:02:14",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 18:16:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 18:59:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 18:16:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
+                         "Data":  "2026-11-23 18:27:59",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      },
                      {
@@ -63,54 +63,54 @@
     "Horas":  [
                   20,
                   20,
-                  35,
-                  45,
+                  51,
+                  29,
                   62,
-                  186,
-                  150,
-                  150,
-                  134,
-                  156,
-                  156,
-                  189,
-                  29,
-                  30,
-                  10,
-                  20,
-                  20,
-                  35,
-                  50,
-                  50,
-                  50,
-                  32,
-                  29,
-                  30,
-                  30,
-                  30,
-                  30,
-                  29,
-                  45,
-                  142,
-                  158,
-                  184,
-                  148,
-                  120,
+                  207,
+                  132,
+                  159,
                   135,
-                  158,
-                  80,
+                  166,
+                  150,
+                  191,
+                  20,
+                  20,
+                  17,
+                  13,
+                  20,
+                  35,
+                  50,
+                  50,
+                  50,
+                  46,
+                  15,
+                  45,
+                  15,
+                  30,
+                  30,
+                  29,
+                  53,
+                  134,
+                  178,
+                  178,
+                  147,
+                  114,
+                  131,
+                  176,
+                  59,
                   35,
                   20,
                   20,
-                  10,
-                  20,
-                  35,
+                  19,
+                  14,
+                  32,
                   44,
                   45,
                   50,
                   47,
-                  19
+                  20
               ],
-    "Ultima":  "2026-11-23 19:01:59",
-    "Gerado":  "2026-11-23 19:02:14",
-    "Data":  "2026-11-23 19:02"
+    "Ultima":  "2026-11-23 19:02:14",
+    "Gerado":  "2026-11-23 19:07:03",
+    "Data":  "2026-11-23 19:07"
 }
