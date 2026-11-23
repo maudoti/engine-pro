@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.407",
-    "Instalador":  "EnginePro_Setup_4.50.407.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.407/EnginePro_Setup_4.50.407.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.407/EnginePro_Setup_4.50.407.exe.gz",
-    "SHA256":  "DD985D337C6CE97A289E639CF4B0FA559E17AD1E24E42A8E48DC586AA4C1AA8A",
-    "Data":  "2026-11-23 16:51",
-    "Notas":  "Explorador remoto das estações",
-    "Assinatura":  "k/krvwmSZ5CIVSKuSHWigQ/xmnKdXohmUDIM+ZkViVklSv4Vmtg5bSRFPghF555zDdWeTlWaGTp/z7A/A6MXfKL6TJjAwgwTmlxWQQmtFFMBZAlKu1vVe2KEM6xW8U+6YNjfm97gBUxvRdpnn136arLx32utMVZq22K9wxXS/+BIKUg62Yhqdc1GknDEVW5uaqgXV9jhFYo7jd0p4clCe/pN+tfkt7l6etTku7fLgeLAI5wUmc/3mmTXP0o46iWfRhiTGTHQFWvK+0GaVUALks+pWUWkrjZcvGc30/n6xP/QncLyxAptXLkhtjyafPJy4ApGyuASOlh0Cg1mXRLFD2I0uRmQCruhJZ5Pk55Kk2VGXr4O8lGTAn1apiZ7E79iYrr5FwDyqbXvl0rP/RMTvYfG/q6ML5FIlx3Ijgzl4gWvt/sgUuP5UHJJJ60+L/QOgvMvJJ+HceJmK/Ihv+Z9q9MN3bJGi+h5BZ+rzqqn/OFcx88Dcs//f5D0lE/9c5vp"
+    "Versao":  "4.50.408",
+    "Instalador":  "EnginePro_Setup_4.50.408.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.408/EnginePro_Setup_4.50.408.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.408/EnginePro_Setup_4.50.408.exe.gz",
+    "SHA256":  "C91455A0C873BFDC7938A11222D34D7913D05A0D55EBE8925A1997E36059C945",
+    "Data":  "2026-11-23 17:47",
+    "Notas":  "Quarentena: falta de RAM sempre na aba Pouca RAM; sem a nota minima vai para Precisa de revisao. Resolver nas estacoes: reiniciar e desligar sem aviso na tela (agora, em minutos ou num horario); monitor, brilho, volume, mudo, processos, procurar e desinstalar programas em silencio",
+    "Assinatura":  "kJiUvuxafMLxhv+jSsUR8ABi4bWC7SH3GPcRApjzz9fib3Kp4tbe0JCTBXEg3E1u0So+kz6Zv5J3fqlwqabLrn1+C4VoEjDZBkEtLIlkYp3oZbudGM+hxIWirUXW0coZjvuX4wrH2pQcEWpX9AeQ6+9BglDCLAhcXDdYMeFqbkwoZrIK3Z9elaGayLI2B5UAmElU3L0Y3vg+f0HUK8HRTGc2xc33MZ33GkCZx9om0mfHM5vV1i2mzCTFJ4CbL9D+E3cT/laRrdKEwJxt5lBn3Xruyvpe6Vd/J8g0nwxk4GcKEyXA+3jvTszLpXwR8eazt/77mt5SFMUSRAfDe0gv+irz7nZsHlXH6FMz0K055rR/9e03m9koNK5xL/6ZaoAav/fVsJYgdEfckSHMYSrL7JGfBg3jCbP7osnzzLelMF1iveCJVvu9xaRiaZOsJJ8DCaDezECMSPjn5VGkxDnmnov64sbSgSaP0z69YX8FHvyuOm87GEeEwQoIruZVMSKC"
 }
