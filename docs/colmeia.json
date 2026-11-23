@@ -1,18 +1,18 @@
 {
     "Resolvidos":  481,
-    "Conhecimentos":  2648,
-    "Pesquisas":  32230,
-    "N48":  3127,
+    "Conhecimentos":  2653,
+    "Pesquisas":  32264,
+    "N48":  3145,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 01:26:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 74 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 01:32:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:26:40",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 01:32:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:06:12",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024402C (WU_E_PT_WINHTTP_NAME_NOT_RESOLVED) no Windows",
+                         "Data":  "2026-11-23 01:32:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 221 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 255 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 01:06:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240034 (WU_E_DOWNLOAD_FAILED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 01:32:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 108 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 01:05:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 01:30:48",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 00:59:53",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  124,
-                  124,
-                  153,
-                  136,
-                  108,
-                  67,
-                  27,
+                  118,
+                  169,
+                  132,
+                  104,
+                  118,
+                  58,
+                  24,
                   19,
                   35,
-                  25,
                   50,
-                  50,
-                  50,
+                  49,
                   26,
-                  23,
+                  50,
+                  29,
+                  20,
                   18,
                   20,
                   20,
                   20,
                   35,
-                  26,
-                  64,
-                  88,
-                  217,
-                  98,
-                  174,
-                  141,
-                  169,
-                  142,
-                  138,
+                  37,
+                  53,
+                  132,
+                  191,
+                  112,
+                  170,
+                  113,
+                  193,
+                  173,
+                  93,
                   20,
                   20,
-                  20,
+                  10,
                   20,
                   20,
                   50,
                   50,
                   50,
-                  31,
-                  40,
-                  30,
-                  30,
-                  30,
+                  50,
+                  36,
+                  15,
+                  35,
+                  25,
                   30,
                   29,
-                  30,
-                  81,
-                  159
+                  44,
+                  98,
+                  162
               ],
-    "Ultima":  "2026-11-23 01:26:56",
-    "Gerado":  "2026-11-23 01:27:04",
-    "Data":  "2026-11-23 01:27"
+    "Ultima":  "2026-11-23 01:32:09",
+    "Gerado":  "2026-11-23 01:37:04",
+    "Data":  "2026-11-23 01:37"
 }
