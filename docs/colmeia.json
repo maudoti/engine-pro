@@ -1,17 +1,17 @@
 {
     "Resolvidos":  499,
-    "Conhecimentos":  2986,
-    "Pesquisas":  33582,
-    "N48":  3259,
+    "Conhecimentos":  2991,
+    "Pesquisas":  33591,
+    "N48":  3241,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 23:45:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 23:51:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 23:16:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 2 arquivo(s) por causa do caminho longo",
+                         "Data":  "2026-11-23 23:51:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 23:16:16",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 23:51:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1573 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1582 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 22:45:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-23 23:51",
+                         "Texto":  "Nova versão 4.50.412 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,18 +40,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 22:45:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-23 22:45:03",
+                         "Data":  "2026-11-23 23:50:59",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 22:38",
-                         "Texto":  "Nova versão 4.50.411 publicada: Correções e melhorias",
+                         "Data":  "2026-11-23 23:50:59",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-23 22:45:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  157,
-                  183,
-                  134,
-                  164,
-                  116,
-                  181,
-                  186,
-                  56,
+                  176,
+                  160,
+                  139,
+                  145,
+                  143,
+                  166,
+                  187,
+                  34,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  20,
+                  35,
+                  50,
+                  50,
+                  50,
                   25,
-                  45,
-                  50,
-                  50,
-                  50,
                   36,
                   30,
                   30,
+                  30,
+                  30,
+                  29,
+                  29,
+                  142,
+                  168,
+                  174,
+                  151,
+                  120,
+                  130,
+                  165,
+                  91,
+                  35,
+                  20,
+                  20,
+                  10,
+                  20,
+                  35,
+                  44,
+                  45,
+                  50,
+                  42,
                   15,
-                  45,
-                  29,
-                  29,
-                  105,
-                  163,
-                  177,
-                  167,
-                  121,
-                  118,
-                  177,
-                  112,
-                  26,
-                  20,
-                  20,
-                  20,
-                  20,
-                  29,
-                  50,
-                  45,
-                  50,
-                  25,
-                  32,
                   30,
                   20,
-                  13,
-                  27,
-                  11
+                  20,
+                  20,
+                  20
               ],
-    "Ultima":  "2026-11-23 23:45:47",
-    "Gerado":  "2026-11-23 23:47:03",
-    "Data":  "2026-11-23 23:47"
+    "Ultima":  "2026-11-23 23:50:59",
+    "Gerado":  "2026-11-23 23:57:03",
+    "Data":  "2026-11-23 23:57"
 }
