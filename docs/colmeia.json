@@ -1,18 +1,18 @@
 {
     "Resolvidos":  503,
-    "Conhecimentos":  3039,
-    "Pesquisas":  34081,
-    "N48":  3218,
+    "Conhecimentos":  3043,
+    "Pesquisas":  34095,
+    "N48":  3195,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 03:17:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 03:20:28",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DEF7 (ONEDRIVE_QUOTA_SUSPENDED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 03:16:52",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 03:20:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80041003 (WBEM_E_ACCESS_DENIED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 03:09:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
+                         "Data":  "2026-11-24 03:20:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DE85 (ONEDRIVE_ACCOUNT_MISMATCH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 490 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 504 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 03:09:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x887A0006 (DXGI_ERROR_DEVICE_HUNG) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 03:19:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 70 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 03:09:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 03:19:38",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 02:58:52",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  143,
-                  178,
-                  135,
-                  171,
+                  141,
+                  169,
+                  142,
+                  138,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  50,
+                  50,
+                  50,
+                  31,
+                  40,
+                  30,
+                  30,
+                  30,
+                  30,
+                  29,
+                  30,
+                  81,
+                  160,
+                  163,
+                  186,
+                  120,
+                  120,
+                  167,
+                  133,
+                  50,
                   20,
                   20,
                   20,
                   10,
                   20,
-                  35,
-                  50,
-                  50,
-                  50,
-                  46,
-                  30,
-                  30,
-                  21,
-                  24,
                   44,
-                  19,
-                  63,
-                  132,
-                  219,
-                  163,
-                  128,
-                  116,
-                  147,
-                  173,
-                  25,
-                  38,
-                  17,
-                  20,
-                  20,
-                  20,
-                  25,
-                  62,
-                  48,
-                  31,
                   45,
+                  50,
+                  50,
+                  22,
                   20,
                   30,
                   20,
                   20,
                   20,
-                  48,
-                  142,
-                  147,
-                  163
+                  77,
+                  133,
+                  132,
+                  172
               ],
-    "Ultima":  "2026-11-24 03:17:00",
-    "Gerado":  "2026-11-24 03:17:04",
-    "Data":  "2026-11-24 03:17"
+    "Ultima":  "2026-11-24 03:19:38",
+    "Gerado":  "2026-11-24 03:27:04",
+    "Data":  "2026-11-24 03:27"
 }
