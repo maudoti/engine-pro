@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.417",
-    "Instalador":  "EnginePro_Setup_4.50.417.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.417/EnginePro_Setup_4.50.417.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.417/EnginePro_Setup_4.50.417.exe.gz",
-    "SHA256":  "6739B7D536E2340C56643B04882CDEB448B6876DC0439E3D9DBBE9DC7FF1434D",
-    "Data":  "2026-11-24 10:50",
-    "Notas":  "COLMEIA: estudos noturnos so com conhecimento tecnico; limpeza unica de 25 secoes ja aprovadas que nao eram tecnicas; secao quase igual nao entra de novo",
-    "Assinatura":  "cJShSL1hTNbDYEp/iriLmCT1IR53vQZPb6cd3USXQFyYl2rdE3P2pXaFVMVidkasqf7SXVdC634CGm0V225z1eHYz5pbnoYh4z52QK2MpREYJMxLztUoL4AfH0A3f8TdhzeQmpu8VeJ0lauD7ZCrmxKjZHrqIVXfy2Daup8gldG1JbLEHpA7gZ/8rlbr+w8ymJ63b1avDouCyN/7NTbccXbPlNNjhRZeBlDTKnl3FNHlTaHdHm1SpYzBWCYxe1ndm77fJZK2h+lYLuEDyMhYdFyahNG23z+0erAPm0xoLbgxPhawxdk2JdgJL4rLQDESBzDO3ScHUVc95B9dpZwFnXFwQxzO9UR1kpDQIiQhH9VLJqTUgV10HiAhaFC8L74K+dvqg0sQkL42LVa7HGWrKKLTSfZVlSdjoT2hWSoI/Xo4QPhWBVwSpA5ej7mbkIc1obwziSI+b/Ee05gwVrgOQikmBXcuXK/JZlhZWUNlzG6TbbwsCwhYKp65JeK36bTn"
+    "Versao":  "4.50.418",
+    "Instalador":  "EnginePro_Setup_4.50.418.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.418/EnginePro_Setup_4.50.418.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.418/EnginePro_Setup_4.50.418.exe.gz",
+    "SHA256":  "AC9AB56C39C0C3CA6D36B4580A18CBBE89D7B16B16872BA9058B1794FBB466EB",
+    "Data":  "2026-11-24 11:22",
+    "Notas":  "Seguranca parte 4a: estacao aprovada trabalha sem o token do GitHub, sem o segredo e sem as chaves de IA no disco; Meus chamados, chamado do chat, explorador rapido e envio de arquivo pelo intermediario",
+    "Assinatura":  "Lef70Ni34wAnIX5oY4wuAU317K61Tfpui4rAYTokAAvKfyDymvcng5GE5ENl59ppyjU4Suq3zw24jZJ/6aaZOa/iipFw6LKrozmfhCMYd8RbH9R814j+uLrLhUzQOheJoOruh1dkLstB9RHSMOGqBv/A03gmNcWPl0xMaEnOsBYjU+ugmY5yyO3xsO8pQ22+5FAd4luUnjbfWGaph7E9ykntmVBNAfMZnxkPBq2ipknWyVzbdshELFEjUIBPhNd2TRuPCG7r7weXGb5C3q6fKOsXAKAyiWIFKLelMUTvj3pHHKj4psc2MjHcA4aM2Hc38og6QRUAnYMf3c/L3rTrcc0KL6CZOPfkrZ10vzBEb3HMUF9X1WeA+onrto9pC4VZeFprYA6Wo5YwvZswhpzRowkTgdPXBCjrQ2pv559T/RB8x+LzzeatQlJ4lVpTTM20bbAIP6oldp6LMffKuKO9uXG3Q0QajfZQH0DAgxst/CMlbZJE14u2z47Pwu7P9PMn"
 }
