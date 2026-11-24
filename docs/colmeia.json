@@ -5,8 +5,8 @@
     "N48":  3105,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 17:40:02",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-24 17:49",
+                         "Texto":  "Nova versão 4.50.424 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 17:15:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 17:40:02",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,13 +30,18 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 17:15:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (12x em 7 dias)",
+                         "Data":  "2026-11-24 17:15:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "567 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-24 17:15:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (12x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -50,11 +55,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 14:57",
-                         "Texto":  "Nova versão 4.50.421 publicada: Correções e melhorias",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-24 11:52:20",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
@@ -63,54 +63,54 @@
     "Horas":  [
                   30,
                   30,
-                  17,
-                  43,
+                  30,
+                  30,
                   29,
                   29,
-                  106,
-                  164,
-                  181,
-                  164,
-                  122,
-                  117,
-                  179,
-                  108,
-                  25,
+                  142,
+                  168,
+                  174,
+                  151,
+                  120,
+                  130,
+                  165,
+                  91,
+                  35,
                   20,
                   20,
+                  10,
                   20,
-                  20,
-                  33,
-                  46,
+                  35,
+                  44,
                   45,
                   50,
-                  25,
-                  32,
+                  42,
+                  15,
                   30,
                   20,
-                  15,
-                  25,
-                  13,
-                  127,
-                  126,
-                  147,
-                  161,
-                  127,
-                  139,
-                  124,
-                  105,
                   20,
                   20,
                   20,
+                  135,
+                  135,
+                  153,
+                  150,
+                  119,
+                  144,
+                  143,
+                  80,
+                  10,
+                  22,
+                  18,
                   20,
                   20,
                   10,
                   52,
-                  26,
                   50,
+                  26,
                   53
               ],
     "Ultima":  "2026-11-24 17:40:02",
-    "Gerado":  "2026-11-24 17:47:51",
-    "Data":  "2026-11-24 17:47"
+    "Gerado":  "2026-11-24 17:57:04",
+    "Data":  "2026-11-24 17:57"
 }
