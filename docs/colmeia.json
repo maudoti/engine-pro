@@ -5,13 +5,13 @@
     "N48":  3140,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 08:24:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 08:54",
+                         "Texto":  "Nova versão 4.50.414 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 08:24:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,12 +21,17 @@
                      },
                      {
                          "Data":  "2026-11-24 08:24:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "514 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-24 08:24:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
                          "Nivel":  "ok"
                      },
                      {
@@ -45,11 +50,6 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 23:51",
-                         "Texto":  "Nova versão 4.50.412 publicada: Correções e melhorias",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-23 18:27:59",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
@@ -60,10 +60,10 @@
                   20,
                   20,
                   35,
-                  49,
-                  51,
-                  40,
-                  35,
+                  50,
+                  50,
+                  50,
+                  25,
                   36,
                   30,
                   30,
@@ -71,41 +71,41 @@
                   30,
                   29,
                   29,
-                  126,
+                  142,
                   168,
-                  170,
-                  160,
+                  174,
+                  151,
                   120,
-                  124,
-                  181,
-                  92,
+                  130,
+                  165,
+                  91,
                   35,
-                  12,
-                  27,
-                  11,
+                  20,
+                  20,
+                  10,
                   20,
                   35,
                   44,
                   45,
                   50,
-                  25,
-                  32,
+                  42,
+                  15,
                   30,
                   20,
                   20,
                   20,
                   20,
-                  128,
-                  141,
-                  134,
-                  170,
-                  110,
+                  135,
+                  135,
                   153,
-                  123,
-                  91,
-                  19
+                  150,
+                  119,
+                  144,
+                  143,
+                  80,
+                  10
               ],
     "Ultima":  "2026-11-24 08:23:35",
-    "Gerado":  "2026-11-24 08:53:30",
-    "Data":  "2026-11-24 08:53"
+    "Gerado":  "2026-11-24 08:57:06",
+    "Data":  "2026-11-24 08:57"
 }
