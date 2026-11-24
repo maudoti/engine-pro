@@ -1,18 +1,18 @@
 {
-    "Resolvidos":  546,
-    "Conhecimentos":  3127,
-    "Pesquisas":  34719,
-    "N48":  3149,
+    "Resolvidos":  557,
+    "Conhecimentos":  3134,
+    "Pesquisas":  34720,
+    "N48":  3140,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 11:46:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 11:52:20",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 11:45:24",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 11:48:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Componente WebView2 travou 3 vezes nesta semana",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,29 +20,34 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 11:11:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco",
+                         "Data":  "2026-11-24 11:48:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 1 arquivo(s) por causa do caminho longo",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1128 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1129 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 10:43:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (109x em 7 dias)",
+                         "Data":  "2026-11-24 11:48:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "546 problemas resolvidos sozinha pela IA desde o início",
+                         "Texto":  "557 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 10:43:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (48x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 11:47:16",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-24 11:47:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 10:42:42",
@@ -53,64 +58,59 @@
                          "Data":  "2026-11-24 09:31",
                          "Texto":  "Nova versão 4.50.416 publicada: Correções e melhorias",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-23 18:27:59",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  25,
-                  45,
+                  35,
                   50,
                   50,
-                  50,
+                  44,
+                  31,
                   36,
                   30,
                   30,
-                  15,
-                  45,
-                  29,
-                  29,
-                  105,
-                  163,
-                  178,
-                  166,
-                  121,
-                  118,
-                  177,
-                  112,
-                  26,
-                  20,
-                  20,
-                  20,
-                  20,
-                  29,
-                  50,
-                  45,
-                  50,
-                  25,
-                  32,
                   30,
-                  20,
+                  30,
+                  29,
+                  29,
+                  128,
+                  170,
+                  168,
+                  159,
+                  120,
+                  125,
+                  179,
+                  92,
+                  35,
                   13,
                   27,
-                  12,
-                  128,
-                  124,
-                  145,
-                  162,
-                  130,
-                  136,
-                  124,
-                  108,
+                  10,
+                  20,
+                  35,
+                  44,
+                  45,
+                  50,
+                  27,
+                  30,
+                  30,
                   20,
                   20,
                   20,
-                  19
+                  20,
+                  129,
+                  140,
+                  137,
+                  167,
+                  111,
+                  152,
+                  125,
+                  90,
+                  18,
+                  20,
+                  20,
+                  20
               ],
-    "Ultima":  "2026-11-24 11:46:08",
-    "Gerado":  "2026-11-24 11:47:05",
-    "Data":  "2026-11-24 11:47"
+    "Ultima":  "2026-11-24 11:47:16",
+    "Gerado":  "2026-11-24 11:54:07",
+    "Data":  "2026-11-24 11:54"
 }
