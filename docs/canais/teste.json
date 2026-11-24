@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.419",
-    "Instalador":  "EnginePro_Setup_4.50.419.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.419/EnginePro_Setup_4.50.419.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.419/EnginePro_Setup_4.50.419.exe.gz",
-    "SHA256":  "E8521C342FAB98EB29DEA2A18919837C783881CB6A3DDACBC277F210C8604411",
-    "Data":  "2026-11-24 11:54",
-    "Notas":  "Comandos quase na hora no escritorio (aviso pela rede); impressao ja feita e retida nao vira aviso de fila lenta; site sem o detalhe de um computador so",
-    "Assinatura":  "XTWZt99jRIrT/etjfnxeVNMCjmZk9qVjmCBH65LEuejiF6jYxqGBOtR2h4hpqWBHKMUDM8XcvnUYtzY1ytntesa1VccgowupzaMNlTEMHIGvtV+zGv0q6Fbn/GVhd9/N9x3Ak3oZ+go5JURMfsFxBig5nERw8go3csv3X/8gSSCfDnkCJ9gb0hQ21xs7OgTTKjN60VGxgW1cekCQdw0Lplv27CHNhZBefvI45wkZr4OsAxGrhmkswOhn5cV1RXTP1pCyHuI50vsBVTxE5+YgVS+oUiaTY5sdDmmlpVMaJfRhUh1wO7hKvtKBBZbN9ECYTYw7YJ5rmJ8M08oIbB5SKW/iInYGtZL5dgDk4fqKHY3PeHNoIiX+kwrgD6ipl2Bfgp3XkFueGjSitDHGQ5YwBGZHusEKccE6wXZgqpbKNDMDs52REKw180qVNP7g0cZgXPpzTbQFacjxNktWv+cYXDrWVQWYoViYee4FqReLsoFWyyOvFtvPvqavFnKjbtCS"
+    "Versao":  "4.50.420",
+    "Instalador":  "EnginePro_Setup_4.50.420.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.420/EnginePro_Setup_4.50.420.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.420/EnginePro_Setup_4.50.420.exe.gz",
+    "SHA256":  "D99ABDD9E32AAA7136E63EEE06ADF28E5FEA3E1414B4673B5A4AB67A96D05C49",
+    "Data":  "2026-11-24 12:59",
+    "Notas":  "BitLocker: as chaves de recuperacao passam a chegar ao TI (antes falhavam no PowerShell 5.1)",
+    "Assinatura":  "szgG+2Pj4renWbM0ifqFry3G+XW0yUWHUcmxVv8Hu85PuYL64ZFzYQ5LLIiiIbAloRuM8WTDeb2+JKFT3/VNWl8LoZy1Vzu+sdhx74/3ueJyG7pC7eEHD2RkdTDHi9iMJi5Gle/Bcq370ByJfLX9qctvD2are/aCPhMBNQc7akFpOkTKAUcQDl7OjiFW0JH9wwjarSji42DHGbEWjPQYCUHjtEynQfl+y/72Lkx4x3KNt6QMXmcHh4SV4CXZusptqGNZ+ZlytAJR13vuoVgDVeZ/lHiWoEZ8YCkmNnttQfg8H01SuMzXpyytcHFZ9kgL6AWuAZnb7DffN4Kx3o41r/gsXGtmb7kjuPMIbBhYujajorX0Gw8p41nFzKqLPA6QOFrn8D3eCK5h7yDGWW7/NySU6nijkhzRY0xpj88etZumD/8XT8QpTg6fa+9qp9xjB/0Y5lF9NOVYYPhyo/kEjeGkYYh/WNujzuId/fnHuTHmIjZBrJmi7PgFfC3k9+39"
 }
