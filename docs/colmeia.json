@@ -1,16 +1,16 @@
 {
     "Resolvidos":  503,
-    "Conhecimentos":  3031,
-    "Pesquisas":  34046,
-    "N48":  3198,
+    "Conhecimentos":  3039,
+    "Pesquisas":  34081,
+    "N48":  3218,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 03:06:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 03:17:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 03:06:45",
+                         "Data":  "2026-11-24 03:16:52",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 02:58:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 155 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 03:09:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 455 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 490 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 02:49:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
+                         "Data":  "2026-11-24 03:09:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x887A0006 (DXGI_ERROR_DEVICE_HUNG) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 02:49:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
+                         "Data":  "2026-11-24 03:09:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 02:49:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (34x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 02:58:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 155 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 23:51",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
+                  143,
+                  178,
                   135,
-                  166,
-                  150,
-                  191,
+                  171,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  10,
                   20,
                   35,
                   50,
                   50,
                   50,
                   46,
-                  15,
-                  45,
-                  15,
                   30,
                   30,
-                  29,
-                  53,
-                  134,
-                  178,
-                  178,
-                  147,
-                  114,
-                  131,
-                  176,
-                  59,
-                  35,
-                  20,
-                  20,
-                  20,
-                  13,
-                  32,
+                  21,
+                  24,
                   44,
+                  19,
+                  63,
+                  132,
+                  219,
+                  163,
+                  128,
+                  116,
+                  147,
+                  173,
+                  25,
+                  38,
+                  17,
+                  20,
+                  20,
+                  20,
+                  25,
+                  62,
+                  48,
+                  31,
                   45,
-                  50,
-                  47,
+                  20,
+                  30,
                   20,
                   20,
                   20,
-                  20,
-                  20,
-                  20,
-                  160,
+                  48,
                   142,
-                  153
+                  147,
+                  163
               ],
-    "Ultima":  "2026-11-24 03:06:59",
-    "Gerado":  "2026-11-24 03:07:05",
-    "Data":  "2026-11-24 03:07"
+    "Ultima":  "2026-11-24 03:17:00",
+    "Gerado":  "2026-11-24 03:17:04",
+    "Data":  "2026-11-24 03:17"
 }
