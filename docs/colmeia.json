@@ -1,18 +1,18 @@
 {
     "Resolvidos":  507,
-    "Conhecimentos":  3072,
-    "Pesquisas":  34408,
-    "N48":  3150,
+    "Conhecimentos":  3077,
+    "Pesquisas":  34427,
+    "N48":  3148,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 05:46:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 114 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 05:53:09",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive parou de sincronizar",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 05:45:55",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 05:53:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive preso em \"Processando alterações\"",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 05:32:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000011B (PRINT_RPC_PRIVACY) no Windows",
+                         "Data":  "2026-11-24 05:52:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0831 (CBS_E_STORE_CORRUPTION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 817 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 836 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 05:32:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 05:52:05",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 133 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 05:32:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000709 (ERROR_INVALID_PRINTER_NAME) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 05:52:05",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 04:59:46",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  186,
-                  56,
+                  187,
+                  34,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  20,
+                  35,
+                  50,
+                  50,
+                  50,
                   25,
-                  45,
-                  50,
-                  50,
-                  50,
                   36,
                   30,
                   30,
+                  30,
+                  30,
+                  29,
+                  29,
+                  142,
+                  168,
+                  174,
+                  151,
+                  120,
+                  130,
+                  165,
+                  91,
+                  35,
+                  20,
+                  20,
+                  10,
+                  20,
+                  35,
+                  44,
+                  45,
+                  50,
+                  42,
                   15,
-                  45,
-                  29,
-                  29,
-                  105,
-                  163,
-                  177,
-                  167,
-                  121,
-                  118,
-                  177,
-                  112,
-                  26,
-                  20,
-                  20,
-                  20,
-                  20,
-                  29,
-                  50,
-                  45,
-                  50,
-                  25,
-                  32,
                   30,
                   20,
-                  13,
-                  27,
-                  12,
-                  128,
-                  124,
-                  145,
-                  162,
-                  130,
-                  136
+                  20,
+                  20,
+                  20,
+                  135,
+                  135,
+                  153,
+                  150,
+                  119,
+                  144
               ],
-    "Ultima":  "2026-11-24 05:46:39",
-    "Gerado":  "2026-11-24 05:47:04",
-    "Data":  "2026-11-24 05:47"
+    "Ultima":  "2026-11-24 05:52:05",
+    "Gerado":  "2026-11-24 05:57:04",
+    "Data":  "2026-11-24 05:57"
 }
