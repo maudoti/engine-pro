@@ -1,17 +1,17 @@
 {
     "Resolvidos":  507,
-    "Conhecimentos":  3056,
-    "Pesquisas":  34283,
-    "N48":  3170,
+    "Conhecimentos":  3058,
+    "Pesquisas":  34309,
+    "N48":  3160,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 04:57:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-24 05:06:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 04:57:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 115 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 05:06:37",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 04:46:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Data":  "2026-11-24 05:02:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C: com menos de 10 GB livres",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 692 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 718 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 04:46:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007B (INACCESSIBLE_BOOT_DEVICE) no Windows",
+                         "Data":  "2026-11-24 05:02:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (123x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 04:24:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 04:59:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 126 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 03:59:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 143 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 04:46:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007B (INACCESSIBLE_BOOT_DEVICE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 23:51",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  166,
-                  187,
-                  34,
+                  150,
+                  191,
                   20,
                   20,
-                  20,
+                  17,
+                  13,
                   20,
                   35,
                   50,
                   50,
                   50,
-                  25,
-                  36,
-                  30,
-                  30,
+                  46,
+                  15,
+                  45,
+                  15,
                   30,
                   30,
                   29,
-                  29,
-                  142,
-                  168,
-                  174,
-                  151,
-                  120,
-                  130,
-                  165,
-                  91,
+                  53,
+                  134,
+                  178,
+                  178,
+                  147,
+                  114,
+                  131,
+                  176,
+                  59,
                   35,
                   20,
                   20,
-                  10,
                   20,
-                  35,
+                  13,
+                  32,
                   44,
                   45,
                   50,
-                  42,
-                  15,
-                  30,
+                  47,
                   20,
                   20,
                   20,
                   20,
-                  135,
-                  135,
+                  20,
+                  20,
+                  160,
+                  142,
                   153,
                   150,
-                  119
+                  113
               ],
-    "Ultima":  "2026-11-24 04:57:01",
-    "Gerado":  "2026-11-24 04:57:04",
-    "Data":  "2026-11-24 04:57"
+    "Ultima":  "2026-11-24 05:06:52",
+    "Gerado":  "2026-11-24 05:07:04",
+    "Data":  "2026-11-24 05:07"
 }
