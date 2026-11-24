@@ -1,17 +1,17 @@
 {
     "Resolvidos":  567,
     "Conhecimentos":  3143,
-    "Pesquisas":  34802,
-    "N48":  3087,
+    "Pesquisas":  34816,
+    "N48":  3101,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 14:55:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 15:06:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 14:38:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 15:06:20",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,24 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 14:38:03",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-24 14:57",
+                         "Texto":  "Nova versão 4.50.421 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1211 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1225 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 13:59:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 14:55:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "567 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-24 14:38:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 41 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 12:48:04",
@@ -53,64 +58,59 @@
                          "Data":  "2026-11-24 11:52:20",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-24 09:31",
-                         "Texto":  "Nova versão 4.50.416 publicada: Correções e melhorias",
-                         "Nivel":  "info"
                      }
                  ],
     "Horas":  [
                   50,
-                  25,
-                  36,
-                  30,
-                  30,
+                  46,
+                  15,
+                  45,
+                  15,
                   30,
                   30,
                   29,
-                  29,
-                  142,
-                  168,
-                  174,
-                  151,
-                  120,
-                  130,
-                  165,
-                  91,
+                  53,
+                  134,
+                  178,
+                  178,
+                  147,
+                  114,
+                  131,
+                  176,
+                  59,
                   35,
                   20,
                   20,
-                  10,
                   20,
-                  35,
+                  13,
+                  32,
                   44,
                   45,
                   50,
-                  42,
-                  15,
-                  30,
+                  47,
                   20,
                   20,
                   20,
                   20,
-                  135,
-                  135,
-                  152,
-                  151,
-                  119,
-                  144,
-                  143,
-                  80,
-                  10,
-                  22,
-                  18,
+                  20,
+                  20,
+                  160,
+                  142,
+                  153,
+                  150,
+                  113,
+                  142,
+                  136,
+                  63,
                   20,
                   20,
                   10,
-                  52
+                  20,
+                  20,
+                  37,
+                  39
               ],
-    "Ultima":  "2026-11-24 14:38:03",
-    "Gerado":  "2026-11-24 14:57:03",
-    "Data":  "2026-11-24 14:57"
+    "Ultima":  "2026-11-24 15:06:53",
+    "Gerado":  "2026-11-24 15:07:04",
+    "Data":  "2026-11-24 15:07"
 }
