@@ -1,18 +1,18 @@
 {
     "Resolvidos":  570,
-    "Conhecimentos":  3154,
-    "Pesquisas":  35029,
-    "N48":  3128,
+    "Conhecimentos":  3157,
+    "Pesquisas":  35036,
+    "N48":  3135,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 20:36:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 20:39:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel travou 14 vezes nesta semana",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 20:36:39",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 20:39:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (65x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 19:45:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel travou 10 vezes nesta semana",
+                         "Data":  "2026-11-24 20:39:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1438 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1445 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 19:45:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (27x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 20:39:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 19:43:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 20:39:16",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 19:33:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 19:43:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 18:07:16",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  30,
+                  45,
                   29,
-                  44,
-                  98,
-                  162,
+                  29,
+                  105,
                   163,
-                  170,
-                  120,
-                  120,
-                  156,
-                  130,
-                  47,
-                  20,
-                  20,
-                  20,
-                  16,
-                  14,
-                  47,
-                  42,
-                  50,
-                  50,
-                  32,
-                  20,
-                  20,
-                  20,
-                  20,
-                  20,
-                  129,
-                  120,
-                  129,
-                  159,
+                  177,
+                  167,
+                  121,
                   118,
+                  177,
+                  112,
+                  26,
+                  20,
+                  20,
+                  20,
+                  20,
+                  29,
+                  50,
+                  45,
+                  50,
+                  25,
+                  32,
+                  30,
+                  20,
+                  13,
+                  27,
+                  12,
+                  128,
+                  124,
+                  145,
                   162,
-                  123,
-                  119,
+                  130,
+                  136,
+                  124,
+                  108,
                   20,
                   20,
-                  10,
                   20,
+                  19,
                   20,
-                  20,
-                  46,
-                  31,
+                  11,
+                  52,
+                  25,
                   51,
-                  37,
-                  43,
-                  48,
-                  23
+                  53,
+                  52,
+                  33,
+                  20
               ],
-    "Ultima":  "2026-11-24 20:36:56",
-    "Gerado":  "2026-11-24 20:37:03",
-    "Data":  "2026-11-24 20:37"
+    "Ultima":  "2026-11-24 20:39:16",
+    "Gerado":  "2026-11-24 20:47:04",
+    "Data":  "2026-11-24 20:47"
 }
