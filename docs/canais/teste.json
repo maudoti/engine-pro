@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.415",
-    "Instalador":  "EnginePro_Setup_4.50.415.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.415/EnginePro_Setup_4.50.415.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.415/EnginePro_Setup_4.50.415.exe.gz",
-    "SHA256":  "F891358FEEEB65DD455E38243F7FEF8033CDC3EF1144D0886471D3C875A0F769",
-    "Data":  "2026-11-24 09:07",
-    "Notas":  "Status das plataformas: o cartao do 365 diz quais apps tem incidente e so interrupcao e fora do ar; fora do ar em vermelho cheio",
-    "Assinatura":  "SFw6hRv5T1/9A7G0hm0c7n/okC1DxrvFv87OjlhHjWt6Yq7sPV9RWtFSeyZEzrTRAyc0IGfjQOlrEr45xywBk7jSBP9CuLTS7+r3g6Y9rqm0t3aEZtFE/kIQ9am8NLqw0//87nmUbD9TajbEMrmirqwPPwXjHpaufPSvOu2DDRhVd2nteACn29UfcMRLHswG7JLA1KZ2sHHvcBt2EcJKGpuNBBF6HuATR4GATOeJNewtX/RzdW+9/RouaiBF55CAXWXrHkCPTp9Cej44n17peNss87nf22A35HLDa/7SrQGFV/yN0PRtUSUxfeG5WCw3L+MNaXA+L6XdjquoVSPEnk2mmo4Vq4BEYMBGjvpICSKdjsYZtNHzuE+68O9rJOLMN1XuLxiXGkDsB/VzQWNjHDhrQ6iJEx1k/K+0vLJXzJoyRjon7Xi4EqVaQzRsBFWi9iqqPDMggBVM0N6J/OSJeweAPw3ytD1ZcgFJ263/q8Wzl8Oy0TWmFajwuC+r8/i9"
+    "Versao":  "4.50.416",
+    "Instalador":  "EnginePro_Setup_4.50.416.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.416/EnginePro_Setup_4.50.416.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.416/EnginePro_Setup_4.50.416.exe.gz",
+    "SHA256":  "E232901DBE353BFEA63FFC05EB2FF962583FAA9E1118D9F80E9926ABB640B25B",
+    "Data":  "2026-11-24 09:30",
+    "Notas":  "Status das plataformas em portugues: frases das paginas de status por dicionario e o texto dos incidentes traduzido uma vez e guardado",
+    "Assinatura":  "haHPYY237pMdGugFqMYgaExEDoOkeCn6ji6iclDE2rvAs/d6TzMeOatQ2VvmX9NsQzjs0k7fREgY3ic3UhjqyM3rQWBz9BlSw1+N9IsxcQuxf8xlvF/X1d//AgJtYjquosP282e8Y6nuc92cqGpHAPEKLGRRFYQP5OLKX5L3yOEqsHgFj0sJXNUqCd+V6+zzlSINASDRTUAg6+o/0zIQCxl6hEJEEhv9foG7JFrJ3rqqKAFXzGZUZ26E4vY8dzB2uO8kxU9X4wfVaIIPwZnaTQmQXtwmO6ZUZ3KRJPhwJaGCVHqrm0NA1UdTmJ2jTzgoZ0UxyMYFmPee66qWEzduFVKrxEEyYDAoipFYCO3W7LU78W3qKHFxwDGPh4i6Law35QxLMJ8WtGrSdJo2YJS3O1dYIkzA17ffcUclG0YLfkSQdgdXMmtRG6OJWujMcedY0tnMqWkWrmJlpdMqpMrIWo5OuVcGzZVmahZIgG4mRX9YQBRFMPgtfU/XiBJHRNss"
 }
