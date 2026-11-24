@@ -1,17 +1,17 @@
 {
     "Resolvidos":  506,
-    "Conhecimentos":  3054,
-    "Pesquisas":  34236,
+    "Conhecimentos":  3056,
+    "Pesquisas":  34272,
     "N48":  3195,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 04:24:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
+                         "Data":  "2026-11-24 04:46:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 04:24:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
+                         "Data":  "2026-11-24 04:46:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007B (INACCESSIBLE_BOOT_DEVICE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 04:24:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 645 pesquisas em bases técnicas",
+                         "Data":  "2026-11-24 04:45:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 104 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 04:24:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 68 pesquisas em bases técnicas de diversos países",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 681 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-24 04:45:40",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 04:23:38",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 04:24:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-24 03:59:42",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  193,
-                  173,
-                  93,
+                  181,
+                  186,
+                  56,
                   20,
                   20,
-                  10,
-                  20,
-                  20,
-                  50,
+                  17,
+                  13,
+                  25,
+                  45,
                   50,
                   50,
                   50,
                   36,
-                  15,
-                  35,
-                  25,
                   30,
+                  30,
+                  15,
+                  45,
                   29,
-                  44,
-                  98,
-                  162,
+                  29,
+                  105,
                   163,
-                  170,
-                  120,
-                  120,
-                  156,
-                  130,
-                  47,
+                  177,
+                  167,
+                  121,
+                  118,
+                  177,
+                  112,
+                  26,
                   20,
                   20,
                   20,
-                  16,
-                  14,
-                  47,
-                  42,
+                  20,
+                  29,
                   50,
+                  45,
                   50,
+                  25,
                   32,
+                  30,
                   20,
-                  20,
-                  20,
-                  20,
-                  20,
-                  129,
-                  120,
-                  129,
-                  159,
-                  118
+                  13,
+                  27,
+                  12,
+                  128,
+                  124,
+                  145,
+                  162,
+                  130
               ],
-    "Ultima":  "2026-11-24 04:24:09",
-    "Gerado":  "2026-11-24 04:37:04",
-    "Data":  "2026-11-24 04:37"
+    "Ultima":  "2026-11-24 04:45:40",
+    "Gerado":  "2026-11-24 04:47:04",
+    "Data":  "2026-11-24 04:47"
 }
