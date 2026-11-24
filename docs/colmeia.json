@@ -1,17 +1,17 @@
 {
     "Resolvidos":  499,
     "Conhecimentos":  2992,
-    "Pesquisas":  33726,
-    "N48":  3200,
+    "Pesquisas":  33751,
+    "N48":  3194,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 00:56:41",
+                         "Data":  "2026-11-24 01:06:36",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 00:56:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 135 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 01:06:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,23 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-24 00:59:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 141 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 160 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-24 00:37:27",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x00000124 (WHEA_UNCORRECTABLE_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 135 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "499 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 23:51:40",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "499 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
@@ -50,67 +55,62 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 23:50:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-23 18:27:59",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  160,
-                  139,
-                  145,
-                  143,
+                  132,
+                  159,
+                  135,
                   166,
-                  187,
-                  34,
+                  150,
+                  191,
                   20,
                   20,
-                  20,
+                  17,
+                  13,
                   20,
                   35,
                   50,
                   50,
                   50,
-                  25,
-                  36,
-                  30,
-                  30,
+                  46,
+                  15,
+                  45,
+                  15,
                   30,
                   30,
                   29,
-                  29,
-                  142,
-                  168,
-                  174,
-                  151,
-                  120,
-                  130,
-                  165,
-                  91,
+                  53,
+                  134,
+                  178,
+                  178,
+                  147,
+                  114,
+                  131,
+                  176,
+                  59,
                   35,
                   20,
                   20,
-                  10,
-                  20,
-                  35,
+                  19,
+                  14,
+                  32,
                   44,
                   45,
                   50,
-                  42,
-                  15,
-                  30,
+                  47,
                   20,
                   20,
                   20,
                   20,
-                  135
+                  20,
+                  20,
+                  160
               ],
-    "Ultima":  "2026-11-24 00:56:41",
-    "Gerado":  "2026-11-24 00:57:03",
-    "Data":  "2026-11-24 00:57"
+    "Ultima":  "2026-11-24 01:06:36",
+    "Gerado":  "2026-11-24 01:07:03",
+    "Data":  "2026-11-24 01:07"
 }
