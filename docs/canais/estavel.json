@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.421",
-    "Instalador":  "EnginePro_Setup_4.50.421.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.421/EnginePro_Setup_4.50.421.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.421/EnginePro_Setup_4.50.421.exe.gz",
-    "SHA256":  "EFEDC87B9619D89EC99A5AF40A068823E11793948E14210D93779F547AC92F81",
-    "Data":  "2026-11-24 14:54",
-    "Notas":  "Resultado de comando nao se perde mais: guardado e reenviado quando o GitHub recusa por gravacao simultanea",
-    "Assinatura":  "mjCFwkNNnDsaXM+1LxRlkPFzSl6xcCNWAIBibGrhzeTH/EPfp4k3VvWPsP5xuQo2mQrWkN1bix1BAwoZr26jXx3NsIC81p/uAHbe04/QxSYPxOxhTWFoOMU5CgTtEVa/2uTdyAjUH/VjRIZN402H4OEyliXsBDPp0ha4EFPSGaH7xxxq5e03BxbbVXkxwhnmlW9O7mzzoypDdmZMZyD/JvTJ+ybr57ftHkw2ZcNE/uYV1GssPyln7VKNC1fMKbkVXAhUfI3ovmUYnKrcWtnr/cmauzHQueyalapE/k/Vs7zep0E2GC5Mlb9EYoulT9gsO1JVomEQ4Fnv67sePUGhub0tVt9XyBeFMP9wH3EzbjxuN55KrwyWKWakuO6v+vwUMTCAeS2uJmyRwZxjQx0n2tsNQGuOZch1C54Df9vlh9lf9PAs5oqENH3sQaRaZ1uZbySh9kA5fV7ZEKYranp5imUZEq5m1DdGuidJk11dBpmewOA/ikPA9fi+ZSiBy5DH"
+    "Versao":  "4.50.424",
+    "Instalador":  "EnginePro_Setup_4.50.424.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.424/EnginePro_Setup_4.50.424.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.424/EnginePro_Setup_4.50.424.exe.gz",
+    "SHA256":  "15B90A53323ADE28094EEF8259D28E61D0C1E1AD976717A0BFF2FB1AA2C77D47",
+    "Data":  "2026-11-24 17:47",
+    "Notas":  "OneDrive: sem o falso aviso de removido (conta o OneDrive rodando e o registro de instalacao do usuario; confirma 2 h depois)",
+    "Assinatura":  "Kvg7So4zSS1RihHK6M73eZwimG1ZKLsyjwGmPzc02jY8dDMB2K4ejj2DTbD4L15MTZOXvyRRH4nqkp3XXiWA7ZIZ4J1oZMkmL+ZjbvyhqcoTfqdaERPJRVXjyu+IjE8GEeu3arHaXjpdgCpVv2ORdW6vC4Dima11lK28YXbDknKaHOhsYBhWX3L54dq0GJnaWLVamhl8vPSSGydQ4//evUKa9FrUyKSMQjK7YDkHOn2H9+OhJ6OiAxdsi+mm0DD2IFkacpiHtb/M8J90JPlEO3U075Qb8vWWTrRXcUPOgjKY77O1Fggc+EbSCRG5xFPHFLlMJWyXVTToEKH66ZE379LeEsedUdP4V8UoOd013vO/MCLxmi3fgzA5OXoMeDq8cTw/Zdq9LY/1xkwS1yBYr4fp0fD+gDi+3L/KWvKYq++q4dkDLqnQzpISnEK4SqwdYkZ1QN3FeSp6gLxqYOm3r/MKC6OsYTtFgoWktFBvcHkonx5JZbDaPOjQn/3Qg3gK"
 }
