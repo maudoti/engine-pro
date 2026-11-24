@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.422",
-    "Instalador":  "EnginePro_Setup_4.50.422.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.422/EnginePro_Setup_4.50.422.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.422/EnginePro_Setup_4.50.422.exe.gz",
-    "SHA256":  "BAD54E872DF585087F1C432047668CFAB14D760B10646AE250AD9AAFF0C8AAF3",
-    "Data":  "2026-11-24 16:47",
-    "Notas":  "Seguranca parte 4b-1: o segredo sai do instalador; token e chaves de IA nao vao mais para o site",
-    "Assinatura":  "Jn9oT7jXoZoJk8btHHYmigwDYJd1XbAV+q7govih/1jOqY2Sb7Q1RO7vB7azeKDmB/RZUOMy6qKxU5IAp1mlncgC+2+68+JZQpHgKGsS+PHmTNLmJkSFdbGt6DdZ1EmYxI7NcT3o+KLdQOWxuVaZY5Takg8UDJXJDFekQYNZj/lFQdH7mr/OzQ1hl6IB9r1UcJbZQGZdPsz6eBjgApQwuRqXvkzrekCs2lOeXnxX8pyeEk1scOX0JoDH+pgX6mB2nz5wEbc0wzCtYqWN7nAssuEjYGaXTiYgaxGPAsjB4/nE+uMjwhHWMsVD381PD85S4C4+LWaAw3KcHlol2DoXUqZOur7N5h5fX9ocITk415d6upF1YNAu8L+c/eSU3buYdGTisnGB5C817YJnwo/RKjJAKNWXaW2vUg9bTCBJeE07BRzR0p9dCbVsPM2UfOGhwsqn3BMPOgjVaPO2oNLqgc3vMShTyXv4rysOazCCWQGgSu+nYlSz0ksJhzb9V0X/"
+    "Versao":  "4.50.423",
+    "Instalador":  "EnginePro_Setup_4.50.423.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.423/EnginePro_Setup_4.50.423.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.423/EnginePro_Setup_4.50.423.exe.gz",
+    "SHA256":  "8EA2708F0B7B4E612BFC7406411B28BA530D6089EDD4BCE83007A9942B5DCB97",
+    "Data":  "2026-11-24 17:08",
+    "Notas":  "Status das plataformas: o incidente do 365 vai para o cartao do proprio servico, sem cartao repetido",
+    "Assinatura":  "amZgnoyN8ItilksZ7o8QXFJGW4teVtY88sb2S91O7L+uzhklL+EmcvkfsqSMPKiAbTu0QHzSxZcSh6k4OwNdf4aAUPW+AuYRwQV7wAoe3G9yLLVyJftdjJouLFSQNeXFs9vPrW7wXoiWihgrCXTsqaUAk1v09IPzaiU/ccfvLCyS6HjrSaLtcAfXz9eQxdaURGqzZctWMYWV8x/aNb5rSvVslO3ODTadpjrF5JbXuH0SAGR5Gf9QNSDchfO9ixDLWawcfpdcKRueRLHS671wWVsVbBPebTqM6BVSPnulFIt963h5Ap1LfD63+pdi6ARRY/5iUGDEW0I0OXVCRX4vlY7E9LgcScyDKTujwvwQGYVDpU0QJh6NccrLld99PNUyUL0VeX4m+Vny82j2KmXRlj3krJsyDDhESkqKuauVUPvkYCEdSR4Xvu8SmBvJl+31HPfMWftI5Zjn3t8Qz4R/7bFjaLBU4RZRWmeViAdLiwGvxdFJO8t6F7h1giWxteiR"
 }
