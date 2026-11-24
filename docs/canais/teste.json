@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.412",
-    "Instalador":  "EnginePro_Setup_4.50.412.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.412/EnginePro_Setup_4.50.412.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.412/EnginePro_Setup_4.50.412.exe.gz",
-    "SHA256":  "967273A2CF1A07BE6829FDCDC51A2E214588F612F219C208951632AA073C061E",
-    "Data":  "2026-11-23 23:10",
-    "Notas":  "Status das plataformas: as estacoes nao medem mais os servidores internos (rede de visitante, VPN e obra davam leitura falsa); mostram so a medicao assinada do TI, e sem ela o cartao nao aparece",
-    "Assinatura":  "YDQl+bdsjygnj85vgUIVmrl7OADi4dnhj3AP+cL7+S3NICsz9NsmwX7xTJEEl438e8UKAmIukc8DuazR9yB/QfNZ7HoAyq4JQqldycGxzkeYv9KJFSEf643VBIL+vPU0jB2GsFVMyK6OIailsIVekO9IfY/+XTui1PWUA7ZDxQFt/C+ehsHleD70v8tI6RG7hPCNTmQ3jADRrxcyjwhow7NsAKXauAsHokfIkdN/N0HEV41hsQcVxw/EQvvnYp/2q7J67sNah1l7ynAeeHUqMviLc8PXDkFwjgyYYoX3VXnP42NAiq83U8EvIVX3CitCF4SmPsJ0Rdixp5eaTbc6k6I/5igoA3c6I62eugoGZ1tfvv7a3HjxAH/VeZWQ0iMIxCiMPKXG9p6+NEXal+8p0tRx00ePWa+R1RJsaw+Kf06M72AhOw+T2lhtt57r38xQQQZQAFZa3pw9NbQ5aRgD2/t05V2csaA1rAEFyjkfRMlOTIou9DhTm/+4hXhm26Z7"
+    "Versao":  "4.50.413",
+    "Instalador":  "EnginePro_Setup_4.50.413.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.413/EnginePro_Setup_4.50.413.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.413/EnginePro_Setup_4.50.413.exe.gz",
+    "SHA256":  "ABDA2D65CF7B005EE6A8336BDC2C9BF6575336FC02123B93337E6A826C8F5F12",
+    "Data":  "2026-11-24 00:10",
+    "Notas":  "Resolver nas estacoes: pastas orfas do SharePoint no predinho (diagnosticar, limpar com APAGAR: e ver o resultado); a trava pula biblioteca que o OneDrive sincroniza e recusa tudo com pessoa deslogada ou leitura incompleta",
+    "Assinatura":  "cRVn2udHjUl/rp8QwptMy0tLkTK1beE4NlM+S9ov90MNvkRvI8+TSVmgiOLMTDY6HTSdFEkuUyF7uoECN/yA2RpCQoAAvXK2TOEE6/K8EwiQj4RUBvQccQnNK2CUBUehMS7jZrN8XmkcyJbuiQP946625yVXLzDKdVxnEfwMXyV52WEBj8KLz9iVcZDvS0qYmFswRbPy2iw0wROZQ15Ggb4iPI/k2uJNg57xednUxTn3fIuUlLBIdw8UVMw7EN3DQSy+dbrTdSr/XplFQPgrL5cpfV7SojP+X5CmEX90SAu296xY4rgzNqFjC76pVbNzUfqp1hNlE14tH1W7WKqAFgXY/SIbtXiwhrt7QtjdrRQ+GAmovb4ZNRC6zlMhQoBoug+rTmAVIdce/rUEQ65sG6rkTQxyXwEaJbZTSUBM9gX6DAYbdzCI1I3iKZ1tXI1s4BFkcpCmeC3lrkBqSnaMeci/dYctHxQ6dXV8WjwCdggq0NLFTG3gT7jz+tIGjB3h"
 }

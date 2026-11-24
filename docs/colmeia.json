@@ -1,13 +1,33 @@
 {
     "Resolvidos":  499,
     "Conhecimentos":  2991,
-    "Pesquisas":  33591,
-    "N48":  3241,
+    "Pesquisas":  33601,
+    "N48":  3237,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-24 00:10:22",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-24 00:10:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-23 23:51:40",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 10 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 23:51:39",
@@ -16,17 +36,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Texto":  "499 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-23 23:51:39",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "499 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,72 +55,62 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 23:50:59",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-23 22:45:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-23 18:27:59",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  207,
-                  133,
-                  158,
+                  212,
                   135,
-                  166,
-                  150,
-                  191,
+                  147,
+                  137,
+                  158,
+                  153,
+                  184,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  10,
                   20,
                   35,
                   50,
                   50,
                   50,
                   46,
-                  15,
-                  45,
+                  20,
+                  40,
                   15,
                   30,
-                  30,
-                  29,
-                  53,
-                  134,
-                  178,
-                  178,
-                  147,
-                  114,
-                  131,
-                  176,
-                  59,
+                  31,
+                  28,
+                  60,
+                  127,
+                  194,
+                  182,
+                  138,
+                  120,
+                  128,
+                  183,
+                  38,
                   35,
                   20,
                   20,
                   20,
-                  13,
-                  32,
+                  20,
+                  25,
                   44,
                   45,
                   50,
                   47,
                   20,
+                  26,
+                  14,
                   20,
                   20,
-                  20,
-                  20,
-                  20
+                  30
               ],
-    "Ultima":  "2026-11-23 23:50:59",
-    "Gerado":  "2026-11-24 00:07:04",
-    "Data":  "2026-11-24 00:07"
+    "Ultima":  "2026-11-24 00:10:22",
+    "Gerado":  "2026-11-24 00:10:31",
+    "Data":  "2026-11-24 00:10"
 }
