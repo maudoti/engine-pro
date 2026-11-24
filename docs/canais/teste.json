@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.424",
-    "Instalador":  "EnginePro_Setup_4.50.424.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.424/EnginePro_Setup_4.50.424.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.424/EnginePro_Setup_4.50.424.exe.gz",
-    "SHA256":  "15B90A53323ADE28094EEF8259D28E61D0C1E1AD976717A0BFF2FB1AA2C77D47",
-    "Data":  "2026-11-24 17:47",
-    "Notas":  "OneDrive: sem o falso aviso de removido (conta o OneDrive rodando e o registro de instalacao do usuario; confirma 2 h depois)",
-    "Assinatura":  "Kvg7So4zSS1RihHK6M73eZwimG1ZKLsyjwGmPzc02jY8dDMB2K4ejj2DTbD4L15MTZOXvyRRH4nqkp3XXiWA7ZIZ4J1oZMkmL+ZjbvyhqcoTfqdaERPJRVXjyu+IjE8GEeu3arHaXjpdgCpVv2ORdW6vC4Dima11lK28YXbDknKaHOhsYBhWX3L54dq0GJnaWLVamhl8vPSSGydQ4//evUKa9FrUyKSMQjK7YDkHOn2H9+OhJ6OiAxdsi+mm0DD2IFkacpiHtb/M8J90JPlEO3U075Qb8vWWTrRXcUPOgjKY77O1Fggc+EbSCRG5xFPHFLlMJWyXVTToEKH66ZE379LeEsedUdP4V8UoOd013vO/MCLxmi3fgzA5OXoMeDq8cTw/Zdq9LY/1xkwS1yBYr4fp0fD+gDi+3L/KWvKYq++q4dkDLqnQzpISnEK4SqwdYkZ1QN3FeSp6gLxqYOm3r/MKC6OsYTtFgoWktFBvcHkonx5JZbDaPOjQn/3Qg3gK"
+    "Versao":  "4.50.425",
+    "Instalador":  "EnginePro_Setup_4.50.425.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.425/EnginePro_Setup_4.50.425.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.425/EnginePro_Setup_4.50.425.exe.gz",
+    "SHA256":  "3B0EAAA95699547F15ACFFEB1FB23C14F5F42BC1B64AA0BEEFBF8989D3B4BFE1",
+    "Data":  "2026-11-24 18:08",
+    "Notas":  "Avisos: o chamado aberto vai no proprio aviso do problema, sem aviso repetido",
+    "Assinatura":  "vn+BbNVBToIbP8agdnLevFkL0PD6aZQfgeh7pBvy1AzflNiQdmZVOWyi2LAeTo1Pngj4mWPbSafxBM6bHh501a2va6+AaO8GVh4xCRLGBMPvYnfVLvFw2ONKvDdduNBTOEZwsoOsK95m54vokGV7LR0tz1k+x6gwBfu8GfqBkpf0lH7QW82LV4wEzweD5KAo9dqO0M/GHpYwNX3k+7gN/vjI5+cImwaTgABPcBqC4qRvI8sIQAzBq0C1qFJlh1HtpGRrCK9gA8C/7xQzjgXuwnw4/EvouAArhctd0SprbCiAhg91SQt1Ue5KbkVAlBjiVtlNhYEW3KdFUf0ClIWx/s/kEPACSVgSdqQ5w0W82lf8GNlbWeRoDtxdz7yQ9aTIuBcoklL2oiijqVYsfDqEKz2iztgnoaZBqxpZq04CD10ZhJ5VaBFgaSKk32JJRDEg6p1DHSPzBA3LExbixDJEum07LG4247TTGcLpVQR5o7gRLOvg6lmGUHtLr+kVDh+h"
 }

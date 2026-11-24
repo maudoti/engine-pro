@@ -1,17 +1,17 @@
 {
-    "Resolvidos":  567,
+    "Resolvidos":  570,
     "Conhecimentos":  3147,
     "Pesquisas":  34931,
     "N48":  3105,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 17:49",
-                         "Texto":  "Nova versão 4.50.424 publicada: Correções e melhorias",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 18:07:16",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 17:40:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 53 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 17:49",
+                         "Texto":  "Nova versão 4.50.424 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
@@ -21,13 +21,18 @@
                      },
                      {
                          "Data":  "2026-11-24 17:40:02",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 53 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "567 problemas resolvidos sozinha pela IA desde o início",
+                         "Texto":  "570 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-24 17:40:02",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 17:15:17",
@@ -48,11 +53,6 @@
                          "Data":  "2026-11-24 15:08:53",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (62x em 7 dias)",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-24 11:52:20",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
@@ -63,19 +63,19 @@
                   29,
                   53,
                   134,
-                  178,
+                  184,
                   178,
                   147,
                   114,
-                  131,
-                  176,
-                  59,
+                  128,
+                  181,
+                  51,
                   35,
                   20,
                   20,
                   20,
-                  13,
-                  32,
+                  16,
+                  29,
                   44,
                   45,
                   50,
@@ -85,27 +85,27 @@
                   20,
                   20,
                   20,
-                  20,
+                  22,
+                  163,
+                  137,
                   160,
-                  142,
-                  153,
-                  150,
-                  113,
-                  142,
+                  147,
+                  115,
+                  136,
                   136,
                   63,
                   20,
                   20,
-                  10,
-                  20,
+                  11,
+                  19,
                   20,
                   37,
-                  39,
-                  36,
-                  45,
-                  34
+                  49,
+                  26,
+                  51,
+                  28
               ],
     "Ultima":  "2026-11-24 17:40:02",
-    "Gerado":  "2026-11-24 18:07:05",
-    "Data":  "2026-11-24 18:07"
+    "Gerado":  "2026-11-24 18:08:19",
+    "Data":  "2026-11-24 18:08"
 }
