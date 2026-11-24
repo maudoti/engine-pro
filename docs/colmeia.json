@@ -1,17 +1,17 @@
 {
     "Resolvidos":  498,
-    "Conhecimentos":  2977,
-    "Pesquisas":  33544,
-    "N48":  3311,
+    "Conhecimentos":  2978,
+    "Pesquisas":  33551,
+    "N48":  3318,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 21:46:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-23 21:49:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive está fechado",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 21:46:16",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-23 21:48:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 21:35:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1535 pesquisas em bases técnicas",
+                         "Data":  "2026-11-23 21:48:44",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 21:35:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1542 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-23 21:35:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP3-4. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-23 21:35:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
+                         "Data":  "2026-11-23 21:35:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
@@ -62,55 +62,55 @@
                  ],
     "Horas":  [
                   55,
+                  62,
+                  177,
+                  159,
+                  139,
+                  145,
+                  143,
+                  166,
+                  187,
+                  34,
+                  20,
+                  20,
+                  20,
+                  20,
                   35,
-                  157,
-                  183,
-                  134,
-                  164,
-                  116,
-                  181,
-                  186,
-                  56,
-                  20,
-                  20,
-                  17,
-                  13,
+                  50,
+                  50,
+                  50,
                   25,
-                  45,
-                  50,
-                  50,
-                  50,
                   36,
                   30,
                   30,
+                  30,
+                  30,
+                  29,
+                  29,
+                  142,
+                  168,
+                  174,
+                  151,
+                  120,
+                  130,
+                  165,
+                  91,
+                  35,
+                  20,
+                  20,
+                  10,
+                  20,
+                  35,
+                  44,
+                  45,
+                  50,
+                  42,
                   15,
-                  45,
-                  29,
-                  29,
-                  105,
-                  163,
-                  177,
-                  167,
-                  121,
-                  118,
-                  177,
-                  112,
-                  26,
-                  20,
-                  20,
-                  20,
-                  20,
-                  29,
-                  50,
-                  45,
-                  50,
-                  25,
-                  32,
                   30,
                   20,
-                  13
+                  20
               ],
-    "Ultima":  "2026-11-23 21:46:49",
-    "Gerado":  "2026-11-23 21:47:03",
-    "Data":  "2026-11-23 21:47"
+    "Ultima":  "2026-11-23 21:48:44",
+    "Gerado":  "2026-11-23 21:57:06",
+    "Data":  "2026-11-23 21:57"
 }
