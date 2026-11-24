@@ -1,18 +1,18 @@
 {
     "Resolvidos":  507,
-    "Conhecimentos":  3058,
-    "Pesquisas":  34309,
-    "N48":  3160,
+    "Conhecimentos":  3062,
+    "Pesquisas":  34341,
+    "N48":  3157,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 05:06:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 05:16:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 47 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 05:06:37",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 05:12:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F213 (SL_E_NO_PRODUCT_KEY_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 05:02:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C: com menos de 10 GB livres",
+                         "Data":  "2026-11-24 05:12:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 718 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 750 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 05:02:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (123x em 7 dias)",
+                         "Data":  "2026-11-24 05:12:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004F074 (SL_E_VL_KMS_UNREACHABLE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 04:59:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 126 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 05:12:17",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 04:46:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007B (INACCESSIBLE_BOOT_DEVICE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 04:59:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 126 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 23:51",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  150,
-                  191,
+                  135,
+                  171,
                   20,
                   20,
-                  17,
-                  13,
+                  20,
+                  10,
                   20,
                   35,
                   50,
                   50,
                   50,
                   46,
-                  15,
-                  45,
-                  15,
                   30,
                   30,
-                  29,
-                  53,
-                  134,
-                  178,
-                  178,
-                  147,
-                  114,
-                  131,
-                  176,
-                  59,
-                  35,
-                  20,
-                  20,
-                  20,
-                  13,
-                  32,
+                  21,
+                  24,
                   44,
-                  45,
-                  50,
+                  19,
+                  63,
+                  132,
+                  219,
+                  163,
+                  128,
+                  116,
+                  147,
+                  173,
+                  25,
+                  38,
+                  17,
+                  20,
+                  20,
+                  20,
+                  25,
+                  62,
                   47,
+                  32,
+                  45,
+                  20,
+                  30,
                   20,
                   20,
                   20,
-                  20,
-                  20,
-                  20,
-                  160,
+                  48,
                   142,
-                  153,
-                  150,
-                  113
+                  147,
+                  163,
+                  126,
+                  134
               ],
-    "Ultima":  "2026-11-24 05:06:52",
-    "Gerado":  "2026-11-24 05:07:04",
-    "Data":  "2026-11-24 05:07"
+    "Ultima":  "2026-11-24 05:16:56",
+    "Gerado":  "2026-11-24 05:17:03",
+    "Data":  "2026-11-24 05:17"
 }
