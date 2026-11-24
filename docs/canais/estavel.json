@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.410",
-    "Instalador":  "EnginePro_Setup_4.50.410.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.410/EnginePro_Setup_4.50.410.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.410/EnginePro_Setup_4.50.410.exe.gz",
-    "SHA256":  "0C4C8767A1073EAFCA8E2B1B3AE6255B1FD059417B94C6ADE1510F6D390044F5",
-    "Data":  "2026-11-23 19:02",
-    "Notas":  "Resolver nas estacoes: Win+Ctrl+Shift+B na sessao da pessoa; reiniciar o driver de video (forte); reparar audio e microfone; reparar o microfone (mudo e volume); redefinir o Edge e o Chrome mantendo favoritos e senhas",
-    "Assinatura":  "EO0t9X4Kkup4PA1Sf1d7Ctl/1BJbNO2pdIIo/qf2B1O5UCb6W7fC/Mc5aS27psA7ecTXwx/900ihBs44qaVtf4XqiXUSLX9hoM2REDyDArBsg7pDPqJc1+JNb3eSrE/6N4uev1x1H0hwytAtURLRCjLSLKZwdNE/DvhO1ojlx99V4tsSkR5PGgX2DLo3ro1i95mqrdlgFTGpvSLCCaNMjKlfXhdLHv1X7Jq8KmL6s1w/nIuX890H9sRqplAUsbHsNoj0KuJqeB9JuuZwuRihRwQDt0DQMZxjUrtSxY+q3HWbGtJaOc7BBTHYdKHK4M4AaPbaeY++sHQ6Xx/fE1/zujy3qwLsOrcygZMfXnkR94zXrqx/HiAfk4JtTrBiJrkbUowLcPQhC6yr7QTh26h7QktmFavRJIxH1EZBKHyU/Lh7UZhizYA58TWhnDKmtC2ioLSpyZahx/02H+N0UIzni7qsQsh6G5JRTb7QuK1C32rBzNeH0z/YhaRo4pT1R0Qi"
+    "Versao":  "4.50.411",
+    "Instalador":  "EnginePro_Setup_4.50.411.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.411/EnginePro_Setup_4.50.411.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.411/EnginePro_Setup_4.50.411.exe.gz",
+    "SHA256":  "F33F75094B04F2ABCAC9628CFB0F239351BC901BF971C9DC32ED9710B7B87A71",
+    "Data":  "2026-11-23 22:14",
+    "Notas":  "Status das plataformas: fora do escritorio, servidor interno que nao responde nao aparece mais como fora do ar; as estacoes usam o status medido pelo computador do TI no escritorio (assinado, ate 30 min)",
+    "Assinatura":  "PLa9fpASI+X81xmj7a+Hez7DsAlVGjQR0vkL4ZJXNC9WWXrHBzBkLT8CrHRmne2T+7R3cEC+Mr1GtZ5NQV6vGD+/TXAzKioAVvS0cavoMwplJ7bBA6ZOlkffW7z7LTjrx3e1Q4Q1eVKWjMXLCA1oSbgd/S50vhiu/+mLgW9bj6Oed5uetrNE1jJX0hED6Vsncqiruwiirr6BlECgkKfyk5x5iHsLnJfnec4oQW6H9Mc75J6AkSo8ogPvG4ScYcnppvqzeTcG+Us6ySXCeSeIrKtoRzJEtCa3skjwU7uPR0zjXBuMNN0tj4Qyp7zCBcfsfLn2ncODGrFrcQErJebUr12vSBwd3clTTaKJ2Jz7aVvVwwSiLe7/3jskTGDtvtk0mqXIodF/Zc2+OCSjl+QAET8XrVzRpSwMc9bzCPvoVObAR7pp73loI1qPGsaMOS8MerTKwvvp5WBtdfFMML/I2k6CCDehl0hV4DzuKtmpXSZeUnqKmQ/nZoV/ucnDniZi"
 }
