@@ -1,13 +1,33 @@
 {
     "Resolvidos":  499,
-    "Conhecimentos":  2985,
-    "Pesquisas":  33571,
-    "N48":  3274,
+    "Conhecimentos":  2986,
+    "Pesquisas":  33581,
+    "N48":  3284,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-23 22:45:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
+                         "Data":  "2026-11-23 23:16:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Office não abriu 2 arquivo(s) por causa do caminho longo",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-23 23:16:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-23 23:16:16",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1572 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-23 22:45:29",
@@ -16,17 +36,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1562 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-23 22:45:28",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: G. Fontes deste adendo",
+                         "Texto":  "499 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "499 problemas resolvidos sozinha pela IA desde o início",
+                         "Data":  "2026-11-23 22:45:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AP-6. Fontes deste aprofundamento",
                          "Nivel":  "ok"
                      },
                      {
@@ -35,18 +50,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-23 22:44:08",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-23 22:38",
                          "Texto":  "Nova versão 4.50.411 publicada: Correções e melhorias",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-23 21:48:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -56,14 +61,14 @@
                      }
                  ],
     "Horas":  [
-                  68,
-                  212,
-                  136,
-                  145,
-                  137,
-                  160,
-                  151,
-                  184,
+                  103,
+                  201,
+                  120,
+                  142,
+                  143,
+                  178,
+                  135,
+                  171,
                   20,
                   20,
                   20,
@@ -74,38 +79,38 @@
                   50,
                   50,
                   46,
-                  21,
-                  39,
-                  15,
                   30,
-                  32,
-                  27,
-                  62,
-                  125,
-                  196,
-                  182,
-                  136,
-                  120,
-                  130,
-                  184,
-                  35,
-                  35,
-                  20,
+                  30,
+                  21,
+                  24,
+                  44,
+                  19,
+                  63,
+                  132,
+                  219,
+                  163,
+                  128,
+                  116,
+                  147,
+                  173,
+                  25,
+                  38,
+                  17,
                   20,
                   20,
                   20,
                   25,
-                  44,
-                  45,
-                  50,
+                  62,
                   47,
+                  32,
+                  45,
                   20,
-                  27,
-                  13,
+                  30,
+                  20,
                   20,
                   20
               ],
-    "Ultima":  "2026-11-23 22:45:03",
-    "Gerado":  "2026-11-23 23:10:53",
-    "Data":  "2026-11-23 23:10"
+    "Ultima":  "2026-11-23 23:16:16",
+    "Gerado":  "2026-11-23 23:17:03",
+    "Data":  "2026-11-23 23:17"
 }
