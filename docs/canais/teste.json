@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.414",
-    "Instalador":  "EnginePro_Setup_4.50.414.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.414/EnginePro_Setup_4.50.414.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.414/EnginePro_Setup_4.50.414.exe.gz",
-    "SHA256":  "4D72B1E4DC451E26CDB3923C995A17CFE29B5EFC5A2A8928770D34436F56DBDF",
-    "Data":  "2026-11-24 08:53",
-    "Notas":  "Cota do GitHub: a estacao so baixa a medicao dos servidores com o painel Status das plataformas aberto. Pastas orfas do predinho: antes de apagar, guarda os arquivos com conteudo no computador em C:\\Users\\\u003cpessoa\u003e\\Arquivos guardados das pastas orfas; sem guardar tudo, nao apaga",
-    "Assinatura":  "Qr88FYdHpFuqddt3qcSglsc/t+cSq5Xg8J+RwnS8R/9jxktmoWYThFOAhkD4Sispchh06YFWoNmZYqMMzDnHvvKBFYR+j77S+R/5ApjwKe2IyyGEEZ3R9B7dduea7Z6oT3V9CvP4M+pjc3A+TAlUWr8/K7sHJhGxiNiWVeOne3Q1mGlpHVXv/NxXDKH8pEItoUy5XaHeG2nBgWA0SeTURDwQIaDcbOzEzNxgx2jaYpyi4E4GENKr8EzJrsg5zCLSRYuqRWqe9nxf0NqO8QuLtqobywuaVryaCxmBD+ErK+WFkEfVJS0NBcoNif+b3soWF7UdLOfI4hA5L47YH31PngTjcPUD7Yt/08P2wDGxB/py0lfyyjMZfQW17Su9qLTjVejDM0TcaGt5nFSNfANjkxDZga9U5nWvFd8OnIyWdumruFVw7LzUPNWdjPorBLyGrfuL9sw1ohHkORwD/iL5Ict1sddW93Q1vPLzadqJz9KbIWnBNXcqvkzVgyQi9cbH"
+    "Versao":  "4.50.415",
+    "Instalador":  "EnginePro_Setup_4.50.415.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.415/EnginePro_Setup_4.50.415.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.415/EnginePro_Setup_4.50.415.exe.gz",
+    "SHA256":  "F891358FEEEB65DD455E38243F7FEF8033CDC3EF1144D0886471D3C875A0F769",
+    "Data":  "2026-11-24 09:07",
+    "Notas":  "Status das plataformas: o cartao do 365 diz quais apps tem incidente e so interrupcao e fora do ar; fora do ar em vermelho cheio",
+    "Assinatura":  "SFw6hRv5T1/9A7G0hm0c7n/okC1DxrvFv87OjlhHjWt6Yq7sPV9RWtFSeyZEzrTRAyc0IGfjQOlrEr45xywBk7jSBP9CuLTS7+r3g6Y9rqm0t3aEZtFE/kIQ9am8NLqw0//87nmUbD9TajbEMrmirqwPPwXjHpaufPSvOu2DDRhVd2nteACn29UfcMRLHswG7JLA1KZ2sHHvcBt2EcJKGpuNBBF6HuATR4GATOeJNewtX/RzdW+9/RouaiBF55CAXWXrHkCPTp9Cej44n17peNss87nf22A35HLDa/7SrQGFV/yN0PRtUSUxfeG5WCw3L+MNaXA+L6XdjquoVSPEnk2mmo4Vq4BEYMBGjvpICSKdjsYZtNHzuE+68O9rJOLMN1XuLxiXGkDsB/VzQWNjHDhrQ6iJEx1k/K+0vLJXzJoyRjon7Xi4EqVaQzRsBFWi9iqqPDMggBVM0N6J/OSJeweAPw3ytD1ZcgFJ263/q8Wzl8Oy0TWmFajwuC+r8/i9"
 }
