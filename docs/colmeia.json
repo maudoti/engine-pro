@@ -1,12 +1,22 @@
 {
-    "Resolvidos":  621,
+    "Resolvidos":  624,
     "Conhecimentos":  3264,
     "Pesquisas":  36465,
     "N48":  2934,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-25 20:53:18",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-25 20:16:57",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 9 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1359 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -16,18 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1359 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "624 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-25 19:46:21",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 16 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "621 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-25 19:11",
@@ -43,64 +48,59 @@
                          "Data":  "2026-11-25 14:29:32",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Core travou 6 vezes nesta semana",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-25 11:38:04",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  13,
-                  27,
-                  12,
+                  20,
+                  20,
+                  20,
                   128,
-                  124,
-                  145,
-                  162,
-                  130,
-                  136,
-                  124,
-                  108,
-                  20,
-                  20,
-                  20,
+                  141,
+                  134,
+                  170,
+                  110,
+                  153,
+                  123,
+                  91,
                   19,
                   20,
-                  11,
+                  20,
+                  20,
+                  20,
+                  10,
                   52,
-                  25,
-                  51,
+                  42,
+                  34,
                   53,
                   52,
                   33,
                   20,
-                  17,
                   18,
-                  19,
-                  140,
-                  156,
-                  141,
-                  215,
-                  132,
+                  22,
+                  21,
                   134,
-                  113,
-                  17,
-                  29,
+                  176,
+                  145,
+                  215,
+                  121,
+                  121,
+                  119,
+                  19,
+                  20,
                   20,
                   10,
                   47,
                   51,
-                  29,
-                  58,
+                  46,
+                  41,
                   20,
                   4,
                   8,
-                  24,
-                  18,
+                  26,
+                  16,
                   9
               ],
     "Ultima":  "2026-11-25 20:16:57",
-    "Gerado":  "2026-11-25 20:47:05",
-    "Data":  "2026-11-25 20:47"
+    "Gerado":  "2026-11-25 20:53:37",
+    "Data":  "2026-11-25 20:53"
 }
