@@ -1,17 +1,17 @@
 {
-    "Resolvidos":  592,
-    "Conhecimentos":  3241,
+    "Resolvidos":  604,
+    "Conhecimentos":  3242,
     "Pesquisas":  36244,
     "N48":  3014,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 11:32:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (2 de 10)",
+                         "Data":  "2026-11-25 11:38:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Xtendutility travou 10 vezes nesta semana",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 11:32:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 2 dispositivos com erro de driver",
+                         "Data":  "2026-11-25 11:38:04",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 11:32:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 2 telas azuis nos últimos 30 dias",
+                         "Data":  "2026-11-25 11:32:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (2 de 10)",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +30,19 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 11:31:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 11:32:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 2 dispositivos com erro de driver",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "592 problemas resolvidos sozinha pela IA desde o início",
+                         "Texto":  "604 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-25 11:31:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-25 11:01:25",
@@ -53,64 +58,59 @@
                          "Data":  "2026-11-24 23:46",
                          "Texto":  "Nova versão 4.50.427 publicada: Correções e melhorias",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-24 18:07:16",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  16,
-                  14,
-                  47,
-                  42,
+                  20,
+                  29,
                   50,
+                  45,
                   50,
+                  25,
                   32,
+                  30,
                   20,
-                  20,
-                  20,
-                  20,
-                  20,
-                  129,
-                  120,
-                  129,
-                  159,
-                  118,
+                  13,
+                  27,
+                  12,
+                  128,
+                  124,
+                  145,
                   162,
-                  123,
-                  119,
+                  130,
+                  136,
+                  124,
+                  108,
                   20,
                   20,
-                  10,
-                  20,
-                  20,
-                  20,
-                  46,
-                  31,
-                  51,
-                  37,
-                  43,
-                  48,
-                  23,
-                  15,
-                  20,
-                  26,
-                  100,
-                  152,
-                  167,
-                  174,
-                  185,
-                  127,
-                  101,
-                  42,
                   20,
                   19,
                   20,
+                  11,
+                  52,
+                  25,
+                  51,
+                  53,
+                  52,
+                  33,
+                  20,
+                  17,
+                  18,
+                  19,
+                  140,
+                  156,
+                  141,
+                  214,
+                  133,
+                  134,
+                  113,
+                  17,
+                  29,
+                  20,
+                  10,
                   47
               ],
     "Ultima":  "2026-11-25 11:31:22",
-    "Gerado":  "2026-11-25 11:37:04",
-    "Data":  "2026-11-25 11:37"
+    "Gerado":  "2026-11-25 11:47:04",
+    "Data":  "2026-11-25 11:47"
 }
