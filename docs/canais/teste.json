@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.435",
-    "Instalador":  "EnginePro_Setup_4.50.435.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.435/EnginePro_Setup_4.50.435.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.435/EnginePro_Setup_4.50.435.exe.gz",
-    "SHA256":  "34568FC77EBB37908D261E09983ACCADA5A0CC43C326C84186334F8C56146164",
-    "Data":  "2026-11-25 14:42",
-    "Notas":  "Regra de e-mail so ao TI com 95% de certeza; quarentena vira Estudos da COLMEIA decididos pela IA; custo do Claude registrado; aprovacao automatica de estacoes conhecidas do inventario com aviso ao responsavel do TI",
-    "Assinatura":  "FaAFA7lsErVM7ueJMUN4C/Mji55MsNpiWpSaP0Ltd3NkQleZ5xJqYisopxfiTL578l0LwkKGR/3bAla+HSHD2RDmOQX1dkD9v8w6JnspL4zBsjfHpJsFFa13AZZMgvkYGp2/ywWplqA0NdreIwyRzUc/f0CZBQbe7X9BNWIRChlX8WMS4WEe6Ink1QcJ+0v9XAocHJbN7+CyE4bwDdlV03Npl8AOfYmvxCVQKwhey3IVDM9xf5Eily//hfs9BAUIX5/m2v8QU0mPvzE9+7VCsjhiZoWGwLwDeDjphkCGP5qdju9nwjHVnrLo+typmufVrX6vYTHAwNAGETT4oGGdnSNBmZChGXa/Yz7wp7iJNgkp/EDRPvennKVG/tkZQaonn0E0GAG4BAPyinZs3eQjYNEySy/6oHQngJqKpQRPEFpfCrhhfxemn0XUQwuIVdmTJrSA5dfWsKaS3K+hUzPaHCwtFQ5bx6N2Fgu/T8fMO+yl/sqg2A4B/k+HhHwTDQ5e"
+    "Versao":  "4.50.436",
+    "Instalador":  "EnginePro_Setup_4.50.436.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.436/EnginePro_Setup_4.50.436.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.436/EnginePro_Setup_4.50.436.exe.gz",
+    "SHA256":  "397E7CDC34038FFA2FBA5061C728FFD5AAEEC896B2075526B62A6D967C1589F0",
+    "Data":  "2026-11-25 14:54",
+    "Notas":  "COLMEIA pesquisa pela assinatura do Claude: o agente do TI deixa os temas para a tarefa agendada e confere as respostas como as das outras IAs",
+    "Assinatura":  "krfiwc9utKpgCAEbcpQMzeoS7sQviiWsH6nu3ZwzozL6/Iq+B8+OZGEOC6X9YXRcP2WKS/sgNawFQ7pNIbnvLwoCwU/LyXded/9zy+6e9rCndf1s6kZ/x+f1Wpy0PbD8DfOTwo0bYqUnczDexb1+xw7lotb7LsML6a8TcP0ER4MJwoqjxu3x0TtoPZ7yovVyy2tGmxyzocf8ZCWMPJyVp9yOsgkhMp8lOqhJhBffFJ7lS5gLJLmbmtv3KqQMHyE0kk47zV7MmiDTlVNaynRWJ2epWuSfm6Zx0ueCf7s9Osdhr7oYBjtNf42lT1ZgGA257KZZdf5stdW4cV0jBFAeHAxjqX25CyzMFIvinresaE0ZSA3gv+b8tE3+Fv+D2s8Gac6lRSH1vxApSi6CggIDNrtpwJX0qWiuj68HFViimh3r5mEYcKpn46JIs7SVljg5R0CMu6ErzymrWfPOTWREkudbroGG7O80tnCjrGb1mGzVKf3+ku635e2sTFNNUkJk"
 }
