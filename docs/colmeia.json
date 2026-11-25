@@ -1,18 +1,18 @@
 {
     "Resolvidos":  576,
-    "Conhecimentos":  3195,
-    "Pesquisas":  35867,
-    "N48":  3167,
+    "Conhecimentos":  3202,
+    "Pesquisas":  35868,
+    "N48":  3151,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 04:26:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 100 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 04:28:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 04:26:39",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 04:28:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 03:51:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
+                         "Data":  "2026-11-25 04:28:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 761 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 762 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 03:51:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive fechado ou removido: nada sobe até reabrir ou reinstalar",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 04:27:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 101 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 03:51:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive preso em Processando alterações sem mostrar quais arquivos",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 04:27:20",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-25 03:50:59",
@@ -62,55 +62,55 @@
                  ],
     "Horas":  [
                   120,
-                  167,
-                  133,
-                  50,
+                  156,
+                  130,
+                  47,
                   20,
+                  20,
+                  20,
+                  16,
+                  14,
+                  47,
+                  42,
+                  50,
+                  50,
+                  32,
+                  20,
+                  20,
+                  20,
+                  20,
+                  20,
+                  129,
+                  120,
+                  129,
+                  159,
+                  118,
+                  162,
+                  123,
+                  119,
                   20,
                   20,
                   10,
                   20,
-                  44,
-                  45,
-                  50,
-                  50,
-                  22,
-                  20,
-                  30,
                   20,
                   20,
-                  20,
-                  78,
-                  132,
-                  132,
-                  172,
-                  141,
-                  135,
-                  128,
-                  141,
-                  20,
-                  10,
-                  20,
-                  20,
-                  20,
-                  20,
-                  27,
-                  50,
-                  27,
+                  46,
+                  31,
                   51,
-                  53,
+                  37,
+                  43,
                   48,
-                  20,
-                  18,
+                  23,
+                  15,
                   20,
                   26,
-                  68,
-                  172,
-                  137,
-                  180,
-                  220
+                  100,
+                  152,
+                  167,
+                  174,
+                  185
               ],
-    "Ultima":  "2026-11-25 04:26:57",
-    "Gerado":  "2026-11-25 04:27:05",
-    "Data":  "2026-11-25 04:27"
+    "Ultima":  "2026-11-25 04:27:20",
+    "Gerado":  "2026-11-25 04:37:04",
+    "Data":  "2026-11-25 04:37"
 }
