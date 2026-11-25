@@ -1,17 +1,17 @@
 {
     "Resolvidos":  604,
-    "Conhecimentos":  3242,
-    "Pesquisas":  36284,
-    "N48":  3034,
+    "Conhecimentos":  3243,
+    "Pesquisas":  36295,
+    "N48":  3045,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 12:38:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 40 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 12:40:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 12:36:16",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-25 12:40:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 51 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 11:38:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Xtendutility travou 10 vezes nesta semana",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1178 pesquisas em bases técnicas",
+                         "Data":  "2026-11-25 12:40:33",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 11:38:04",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1189 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-25 11:38:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Xtendutility travou 10 vezes nesta semana",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 11:32:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (2 de 10)",
+                         "Data":  "2026-11-25 11:38:04",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 11:32:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 2 dispositivos com erro de driver",
+                         "Data":  "2026-11-25 11:32:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (2 de 10)",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  10,
-                  53,
-                  36,
+                  29,
                   50,
+                  45,
                   50,
-                  32,
-                  20,
-                  20,
-                  20,
-                  20,
-                  20,
-                  130,
-                  119,
-                  129,
-                  169,
-                  110,
-                  160,
-                  123,
-                  119,
-                  20,
-                  20,
-                  10,
-                  20,
-                  20,
-                  20,
-                  52,
                   25,
-                  51,
-                  46,
-                  34,
-                  48,
-                  28,
-                  10,
+                  32,
+                  30,
                   20,
-                  26,
-                  109,
-                  148,
-                  173,
-                  175,
-                  173,
+                  13,
+                  27,
+                  12,
+                  128,
+                  124,
+                  145,
+                  162,
+                  130,
                   136,
-                  92,
-                  42,
+                  124,
+                  108,
+                  20,
+                  20,
                   20,
                   19,
                   20,
+                  11,
+                  52,
+                  26,
+                  50,
+                  53,
+                  52,
+                  33,
+                  20,
+                  17,
+                  18,
+                  19,
+                  140,
+                  156,
+                  141,
+                  215,
+                  132,
+                  134,
+                  113,
+                  17,
+                  29,
+                  20,
+                  10,
                   47,
-                  40
+                  51
               ],
-    "Ultima":  "2026-11-25 12:38:30",
-    "Gerado":  "2026-11-25 12:38:44",
-    "Data":  "2026-11-25 12:38"
+    "Ultima":  "2026-11-25 12:40:33",
+    "Gerado":  "2026-11-25 12:47:06",
+    "Data":  "2026-11-25 12:47"
 }
