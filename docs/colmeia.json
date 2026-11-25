@@ -1,17 +1,17 @@
 {
     "Resolvidos":  586,
-    "Conhecimentos":  3230,
-    "Pesquisas":  36158,
-    "N48":  2988,
+    "Conhecimentos":  3231,
+    "Pesquisas":  36167,
+    "N48":  2997,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 08:18:14",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 08:41:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (59x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 08:18:14",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-25 08:41:10",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 19 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 08:03:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1052 pesquisas em bases técnicas",
+                         "Data":  "2026-11-25 08:41:10",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 07:54:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Componente WebView2 travou 3 vezes nesta semana",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1061 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-25 08:03:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-25 07:54:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Componente WebView2 travou 3 vezes nesta semana",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-25 07:53:39",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-25 07:21:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pouco espaço em disco",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-24 23:46",
@@ -64,53 +64,53 @@
                   20,
                   20,
                   20,
-                  16,
-                  14,
-                  47,
-                  42,
-                  50,
-                  50,
+                  20,
+                  27,
+                  52,
+                  45,
+                  45,
+                  30,
                   32,
+                  30,
                   20,
-                  20,
-                  20,
-                  20,
-                  20,
+                  11,
+                  29,
+                  11,
                   129,
-                  120,
-                  129,
-                  159,
-                  118,
-                  162,
                   123,
-                  119,
+                  142,
+                  163,
+                  133,
+                  134,
+                  123,
+                  111,
                   20,
                   20,
-                  10,
                   20,
-                  20,
-                  20,
-                  46,
-                  31,
+                  19,
+                  18,
+                  13,
+                  52,
+                  25,
                   51,
-                  37,
-                  43,
-                  48,
-                  23,
-                  15,
+                  53,
+                  52,
+                  33,
                   20,
-                  26,
-                  100,
-                  152,
-                  167,
-                  174,
-                  185,
-                  126,
-                  102,
-                  42,
-                  20
+                  13,
+                  18,
+                  23,
+                  140,
+                  151,
+                  146,
+                  209,
+                  136,
+                  136,
+                  110,
+                  20,
+                  29
               ],
-    "Ultima":  "2026-11-25 08:18:14",
-    "Gerado":  "2026-11-25 08:37:03",
-    "Data":  "2026-11-25 08:37"
+    "Ultima":  "2026-11-25 08:41:10",
+    "Gerado":  "2026-11-25 08:46:11",
+    "Data":  "2026-11-25 08:46"
 }

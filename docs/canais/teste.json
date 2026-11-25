@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.427",
-    "Instalador":  "EnginePro_Setup_4.50.427.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.427/EnginePro_Setup_4.50.427.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.427/EnginePro_Setup_4.50.427.exe.gz",
-    "SHA256":  "78AC5D730A567A5C5A92ABE15E5757284392287348B6DEDEA532989E13E3DD9C",
-    "Data":  "2026-11-24 23:35",
-    "Notas":  "Seguranca parte 4b-2: as sementes do autenticador sairam do instalador; o intermediario confere os codigos de ativacao e de protecao e assina a liberacao",
-    "Assinatura":  "RpwKTiPr6CrxuJ166QyTvswJpBho2KvMFp7AuEFOnQPxQkit4hu0k0u10aHEkJPFKuy0919UbxAYJdw1JE9NUn/ozF0D7V1oBO7n84T8OMaPs30jRIzLIRoOUd0bO4MU+FNokrs9sFs1QW/rTkZvNaatc7DE7MvkYkriiz7JEyc5yNMF962ldCIhAH/kiD+f0ngfjL4rct89y/cOlU6cyMdecsnosvDl9sAR10BGDFuGWh9UzUX1sscQlNUvvJAKeywyCr9TBLHhEtOLAHguGaM0+1ip/waPAjuk5yahhTqjti1R/K8HpKMefmun8Tv/2/pYX5R2Cv5hhZoX5qRT1Dc9hvzF69g/+QslGWiDcbsE3sUmau5HsIWlr76K2KzP8EHNSEXStChomzzpabOdSxfhssZBKZp77mixSfp54Ld3vk83q+xQ654HVfWOT71OMnL2uinKIqa46q9TbtWVFtoYeHKqUyChhtPztNSNOKcjcL8fPj8TF+9vb0yOvxBj"
+    "Versao":  "4.50.428",
+    "Instalador":  "EnginePro_Setup_4.50.428.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.428/EnginePro_Setup_4.50.428.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.428/EnginePro_Setup_4.50.428.exe.gz",
+    "SHA256":  "CD0FF3AC26439E88BAB56E488D548BB371B5664F57EF87AFF16E149A2CEDD528",
+    "Data":  "2026-11-25 08:46",
+    "Notas":  "Correção: o aviso de caixa de e-mail cheia separa a caixa principal dos Itens Recuperáveis (área depois da lixeira) e indica a ação certa para cada uma",
+    "Assinatura":  "n24N+W1m0iZDkR0EuTH6AQ7PtkxX8fQrADIQeG/YJ89KEfwC/pexwHbzVRzAf01zOosZPYJ1eT7nwTWjGMPwZQyAwqGh1fStAVXgDlxfdawfInXzq0X3p0HXKsTO3gWvYfFvBSyXyDeVTJx1MvyOoRFkD+zrElOmx0IemHJiLaOwagGH1B6fOEKZd48b+b3caEoJ+EnlZ6IlrlU31IJW2EA8tPzEpQ2KC/z8bFOtQdx+rBpbgtAVhVhD+JYTOHFfDAqQjM4sAvBj5ebG4utrOvm65umhTpyFXdcovLCEPrLTvd0BBdvoGWlucLpF9yp2f1UKJpjDZ6QFaScy55L2QBEchowfFiwu4X64azbETiifK3sYdeK+zLTNe+ChgbN9UBkIFtMVTNc/rPxdbvMwhcajA5rySYQMt4+CQnfPvHGd6Hy7Po4qdNBhN55g+++3NRMh98EdV2Gf07kzu+T+9kQGh76xiWb/r77/CWkq9S0A86qAlzNx7AwDDX56Lz+t"
 }
