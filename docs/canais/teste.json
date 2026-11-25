@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.431",
-    "Instalador":  "EnginePro_Setup_4.50.431.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.431/EnginePro_Setup_4.50.431.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.431/EnginePro_Setup_4.50.431.exe.gz",
-    "SHA256":  "34CE5D08A3BD2059A52B35E6DF717D9DD70BDAEA16F35C29A38E850A927774E6",
-    "Data":  "2026-11-25 11:15",
-    "Notas":  "COLMEIA estuda os eventos do Windows de toda a frota; ficha mostra o link de internet, o IP e a velocidade",
-    "Assinatura":  "sjyxrJADlKNPqpFGp81hKFrsHGnG6X13fFipjZ3vSxg+LrajJ1Mzql2nJP0kzA3cdR1lhKRv5L6N5o0nCliB7/3Ae0AUSNd9SSQE1DQkx/WkoRB8sWxFjDwe7I3TnoJZ5+byGyzoBcRMY/NLqHcOC8AlKVxQYeq7WYOMo9sUdKHTwdlgTCDXSNdBiVD4+OtHM2gz7JN4XJu9WKanyjFr15hmvb3tZBMENtlkFlVG2Tp/FG7QA8O9D8y4JAQl+4c/qv8J0U2QUDIA9xtreI/HrBIzDIYUHLrpw3RD23+sM/8OjsGHpvUFLY5IxHhj4+2VQj4ce267cWPSBmO9fyAGbF4AXfHA1T3MQ12SUQEeR4Gf4xr2XXN+ofI9Q03tfbw/ocMUCHJZXCJhdTvs+zPatUxgirOuVkMCvujNj3aZv2ddDGIrfP9i6q25bKUUBcYQEBw8hRo4JP3XOl/Reo6VSUIga9OV96DBImd50Og9rj21OU5JF56g4/sY91Dh8kDd"
+    "Versao":  "4.50.432",
+    "Instalador":  "EnginePro_Setup_4.50.432.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.432/EnginePro_Setup_4.50.432.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.432/EnginePro_Setup_4.50.432.exe.gz",
+    "SHA256":  "5079B164733838780BB79C14331554027359EE53B7D8A2EF6D1A7D655858259F",
+    "Data":  "2026-11-25 12:38",
+    "Notas":  "Qualidade dos e-mails: sem frases pomposas, tela azul de video sem culpar driver sem o minidump, OneDrive aponta o item exato antes do reset, alertas repetidos juntados, RAM so vira chamado quando sustentada",
+    "Assinatura":  "mvn05TQBKOubpv/Ys4qbSC57iCGox/GOHn4xpq8dOYoSYpsr8STod5oL/iMLwRcOwAL1BqPZM+QT6Qc9b3RyENWtV9qUJgYbVojXIz3QpQsR4oQQ0d6qESc5qQpT0a4yGeYSj21Ls545cNTWk4qWVq+9DBlkuPJXEa26+6qKxVt1XGq0b4CHdYmTFhpcOuj/Fw3ZNeoH8sEn377PQ3SUZ7KObwhjGNJ6EOdxVpSWqnt43KZyf37xBicwXv+2oWliQSUpTWaX9E93Lr3mOpMzd1zmS3lBMnvlZLfHpXN7Y6m67zZFvFDE6jBgAhLta0A//3VkE8HKKwhgkctvMUflhykN7y7U+HiL0WYB/pr/YtkqUfsWaTmhhkwIxHBJbudM3FjkSs+236lnA8QyiAWHsdhbaOaUHZONpiKs0gw/53JLskzqLIuLVfb0B8DBiwKOhtH2sO+rJOEKFekpltYp4XVeUvQ+sHFFKqqyLRP3soeogRt8B3VAWuQFMKgWR6d2"
 }
