@@ -1,18 +1,18 @@
 {
     "Resolvidos":  576,
-    "Conhecimentos":  3212,
-    "Pesquisas":  36015,
-    "N48":  3126,
+    "Conhecimentos":  3215,
+    "Pesquisas":  36037,
+    "N48":  3127,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 05:56:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 99 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 06:02:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC004C003 (SL_E_CHPA_PRODUCT_KEY_BLOCKED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 05:54:01",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 06:02:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 05:39:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071AC3 (ERROR_DIRTY_VOLUME) no Windows",
+                         "Data":  "2026-11-25 06:02:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 4002 item(ns) do OneDrive com caminho longo demais",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 909 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 931 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 05:24:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80071129 (ERROR_REPARSE_TAG_INVALID) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 06:02:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 11 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 05:24:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800700CE (ERROR_FILENAME_EXCED_RANGE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 06:02:04",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 04:59:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 149 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-25 05:59:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 110 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  165,
-                  91,
+                  176,
+                  59,
                   35,
                   20,
                   20,
-                  10,
                   20,
-                  35,
+                  13,
+                  32,
                   44,
                   45,
                   50,
-                  42,
-                  15,
-                  30,
+                  47,
                   20,
                   20,
                   20,
                   20,
-                  135,
-                  135,
+                  20,
+                  20,
+                  160,
+                  142,
                   153,
                   150,
-                  119,
-                  144,
-                  143,
-                  80,
+                  113,
+                  142,
+                  136,
+                  63,
+                  20,
+                  20,
                   10,
-                  22,
+                  20,
+                  20,
+                  37,
+                  39,
+                  36,
+                  45,
+                  34,
+                  52,
+                  35,
                   18,
-                  20,
-                  20,
-                  10,
-                  52,
-                  50,
-                  26,
-                  53,
-                  52,
-                  33,
-                  20,
                   18,
                   22,
                   30,
-                  130,
-                  171,
-                  169,
-                  191,
-                  136,
-                  112
+                  173,
+                  133,
+                  230,
+                  137,
+                  158,
+                  100
               ],
-    "Ultima":  "2026-11-25 05:56:56",
-    "Gerado":  "2026-11-25 05:57:04",
-    "Data":  "2026-11-25 05:57"
+    "Ultima":  "2026-11-25 06:02:04",
+    "Gerado":  "2026-11-25 06:07:04",
+    "Data":  "2026-11-25 06:07"
 }
