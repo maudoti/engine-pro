@@ -2,6 +2,10 @@
 
 As versões mais recentes. Toda versão é assinada digitalmente.
 
+## Versão 4.50.429 | Correções e melhorias | 25/11/2026
+
+- **Melhoria**: Correções e melhorias de estabilidade e segurança.
+
 ## Versão 4.50.428 | Correções e melhorias | 25/11/2026
 
 - **Melhoria**: Correções e melhorias de estabilidade e segurança.
@@ -55,10 +59,6 @@ As versões mais recentes. Toda versão é assinada digitalmente.
 - **Melhoria**: Correções e melhorias de estabilidade e segurança.
 
 ## Versão 4.50.415 | Correções e melhorias | 24/11/2026
-
-- **Melhoria**: Correções e melhorias de estabilidade e segurança.
-
-## Versão 4.50.414 | Correções e melhorias | 24/11/2026
 
 - **Melhoria**: Correções e melhorias de estabilidade e segurança.
 
