@@ -1,18 +1,18 @@
 {
     "Resolvidos":  572,
-    "Conhecimentos":  3178,
-    "Pesquisas":  35446,
-    "N48":  3053,
+    "Conhecimentos":  3181,
+    "Pesquisas":  35467,
+    "N48":  3073,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 02:16:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 39 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 02:21:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 02:15:55",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 02:21:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 01:52:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80073712 (ERROR_SXS_COMPONENT_STORE_CORRUPT) no Windows",
+                         "Data":  "2026-11-25 02:21:36",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 340 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 361 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 01:52:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (139x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 02:21:03",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 60 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 01:51:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 166 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-25 02:21:03",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 01:30:52",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (56x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 01:51:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 166 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 23:46",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  163,
-                  128,
-                  116,
-                  147,
-                  173,
-                  25,
-                  38,
-                  17,
+                  186,
+                  120,
+                  120,
+                  167,
+                  133,
+                  50,
                   20,
                   20,
                   20,
-                  25,
-                  62,
-                  48,
-                  31,
+                  10,
+                  20,
+                  44,
                   45,
+                  50,
+                  50,
+                  22,
                   20,
                   30,
                   20,
                   20,
                   20,
-                  48,
-                  142,
-                  147,
-                  163,
-                  126,
+                  77,
+                  133,
+                  132,
+                  172,
+                  141,
                   134,
-                  134,
-                  138,
-                  37,
-                  20,
-                  20,
-                  20,
+                  129,
+                  141,
                   20,
                   10,
-                  37,
+                  20,
+                  20,
+                  20,
+                  20,
+                  27,
                   50,
-                  25,
-                  53,
+                  27,
+                  51,
                   53,
                   48,
                   20,
                   18,
-                  11,
-                  21,
-                  61,
-                  148,
-                  161
+                  20,
+                  26,
+                  68,
+                  172,
+                  137
               ],
-    "Ultima":  "2026-11-25 02:16:48",
-    "Gerado":  "2026-11-25 02:17:04",
-    "Data":  "2026-11-25 02:17"
+    "Ultima":  "2026-11-25 02:21:03",
+    "Gerado":  "2026-11-25 02:27:04",
+    "Data":  "2026-11-25 02:27"
 }
