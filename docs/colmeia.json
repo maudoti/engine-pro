@@ -1,18 +1,18 @@
 {
     "Resolvidos":  573,
-    "Conhecimentos":  3181,
-    "Pesquisas":  35509,
-    "N48":  3081,
+    "Conhecimentos":  3183,
+    "Pesquisas":  35527,
+    "N48":  3078,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 02:36:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 101 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 02:40:08",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240017 (WU_E_NOT_APPLICABLE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 02:36:47",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 02:40:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 02:21:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 402 pesquisas em bases técnicas",
+                         "Data":  "2026-11-25 02:39:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 120 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 02:21:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 421 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-25 02:39:48",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 02:21:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
+                         "Data":  "2026-11-25 02:21:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800736CC (ERROR_SXS_FILE_HASH_MISMATCH) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  170,
-                  120,
-                  120,
-                  156,
-                  130,
-                  47,
-                  20,
-                  20,
-                  20,
-                  16,
-                  14,
-                  47,
-                  42,
-                  50,
-                  50,
-                  32,
-                  20,
-                  20,
-                  20,
-                  20,
-                  20,
-                  129,
-                  120,
-                  129,
-                  159,
+                  167,
+                  121,
                   118,
-                  162,
-                  123,
-                  119,
-                  20,
-                  20,
-                  10,
-                  20,
-                  20,
-                  20,
-                  46,
-                  31,
-                  51,
-                  37,
-                  43,
-                  48,
-                  23,
-                  15,
-                  20,
+                  177,
+                  112,
                   26,
-                  100,
-                  152,
-                  166
+                  20,
+                  20,
+                  20,
+                  20,
+                  29,
+                  50,
+                  45,
+                  50,
+                  25,
+                  32,
+                  30,
+                  20,
+                  13,
+                  27,
+                  12,
+                  128,
+                  124,
+                  145,
+                  162,
+                  130,
+                  136,
+                  124,
+                  108,
+                  20,
+                  20,
+                  20,
+                  19,
+                  20,
+                  11,
+                  52,
+                  25,
+                  51,
+                  53,
+                  52,
+                  33,
+                  20,
+                  17,
+                  18,
+                  19,
+                  140,
+                  156,
+                  141
               ],
-    "Ultima":  "2026-11-25 02:36:56",
-    "Gerado":  "2026-11-25 02:37:04",
-    "Data":  "2026-11-25 02:37"
+    "Ultima":  "2026-11-25 02:39:48",
+    "Gerado":  "2026-11-25 02:47:04",
+    "Data":  "2026-11-25 02:47"
 }
