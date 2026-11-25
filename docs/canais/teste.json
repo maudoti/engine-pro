@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.430",
-    "Instalador":  "EnginePro_Setup_4.50.430.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.430/EnginePro_Setup_4.50.430.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.430/EnginePro_Setup_4.50.430.exe.gz",
-    "SHA256":  "A5DDC4B78DEEA0E56CAFF0421C2F02151B0C8DE35C348B06F630F578FDB39C27",
-    "Data":  "2026-11-25 10:40",
-    "Notas":  "Assinatura de codigo de volta; tela do TI nao trava a leitura dos pulsos; notebook no dominio fora do escritorio nao avisa politica de grupo; ficha ganhou Remover um programa (silencioso)",
-    "Assinatura":  "kpL7eDAtd+nEf+L1TMQKuD9+MtjCzddlEtuSjn4jJx+ujP2j1srzHwWor19OlMKZEW0KtotaXmmVkyT2RqwoOL0uShdHnlGuLViexLBAvLvZe4bvtjy7Ugn855jxZ3zyL6QDMmaPsB6ztAm8KR4slQvlbzhLF8iyZLResNX3zN/1qOmkzoR49ZJcdF9WCdds7i2Kz20OAnzXhppyWaN5pvAWI0QYAQehKrPB7TvzwSZVjho1IjJYn8JzCAWytXfWGjq43eKkJxMul3nGXDfSq6J3vzXnH5BIwAVh7CC7cRg+9v9JmO6W0RNfLwE6PLrHEekvgcXcdi2Mcg7kGaHfAXO21Be7rKp2U6unGt4z9+eXKWIP7lLOICG1GLK4mcljiZ9HEKuYyCdI9PH/W+6kvTkjm3zsz6Ge5TmNMU8F6+aduAWOSVre0BwQnqg+LX7rLYAio/bgOjgNeCdh84/l2L1TP3gjPJGhCT1+G4k/ug/CjAOOrUSsEeJkkwcAOdps"
+    "Versao":  "4.50.431",
+    "Instalador":  "EnginePro_Setup_4.50.431.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.431/EnginePro_Setup_4.50.431.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.431/EnginePro_Setup_4.50.431.exe.gz",
+    "SHA256":  "34CE5D08A3BD2059A52B35E6DF717D9DD70BDAEA16F35C29A38E850A927774E6",
+    "Data":  "2026-11-25 11:15",
+    "Notas":  "COLMEIA estuda os eventos do Windows de toda a frota; ficha mostra o link de internet, o IP e a velocidade",
+    "Assinatura":  "sjyxrJADlKNPqpFGp81hKFrsHGnG6X13fFipjZ3vSxg+LrajJ1Mzql2nJP0kzA3cdR1lhKRv5L6N5o0nCliB7/3Ae0AUSNd9SSQE1DQkx/WkoRB8sWxFjDwe7I3TnoJZ5+byGyzoBcRMY/NLqHcOC8AlKVxQYeq7WYOMo9sUdKHTwdlgTCDXSNdBiVD4+OtHM2gz7JN4XJu9WKanyjFr15hmvb3tZBMENtlkFlVG2Tp/FG7QA8O9D8y4JAQl+4c/qv8J0U2QUDIA9xtreI/HrBIzDIYUHLrpw3RD23+sM/8OjsGHpvUFLY5IxHhj4+2VQj4ce267cWPSBmO9fyAGbF4AXfHA1T3MQ12SUQEeR4Gf4xr2XXN+ofI9Q03tfbw/ocMUCHJZXCJhdTvs+zPatUxgirOuVkMCvujNj3aZv2ddDGIrfP9i6q25bKUUBcYQEBw8hRo4JP3XOl/Reo6VSUIga9OV96DBImd50Og9rj21OU5JF56g4/sY91Dh8kDd"
 }
