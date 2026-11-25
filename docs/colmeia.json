@@ -1,17 +1,17 @@
 {
-    "Resolvidos":  608,
+    "Resolvidos":  612,
     "Conhecimentos":  3250,
-    "Pesquisas":  36341,
-    "N48":  3056,
+    "Pesquisas":  36361,
+    "N48":  3076,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-25 14:16:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-25 13:51:27",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (1,3 de 10)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-25 13:51:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (2,9 de 10)",
                          "Nivel":  "ok"
                      },
                      {
@@ -26,8 +26,18 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1235 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1255 pesquisas em bases técnicas",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-25 13:51:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (2,9 de 10)",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "612 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-25 13:50:52",
@@ -35,18 +45,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "608 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-25 13:16:50",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-25 12:40:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 51 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  44,
+                  62,
+                  48,
+                  31,
                   45,
-                  50,
-                  47,
+                  20,
+                  30,
                   20,
                   20,
                   20,
-                  20,
-                  20,
-                  20,
-                  160,
+                  48,
                   142,
-                  153,
-                  150,
-                  114,
-                  141,
-                  136,
-                  63,
+                  147,
+                  163,
+                  126,
+                  134,
+                  134,
+                  138,
+                  37,
+                  20,
+                  20,
                   20,
                   20,
                   10,
-                  20,
-                  20,
                   37,
-                  39,
-                  36,
-                  45,
-                  34,
-                  52,
-                  35,
-                  18,
-                  18,
-                  22,
-                  30,
-                  174,
-                  132,
-                  231,
-                  136,
-                  158,
-                  100,
-                  91,
+                  50,
+                  25,
+                  53,
+                  53,
+                  48,
                   20,
-                  21,
                   18,
-                  35,
-                  41,
+                  11,
+                  21,
+                  61,
+                  148,
+                  161,
+                  201,
+                  179,
+                  118,
+                  123,
+                  61,
+                  26,
+                  23,
+                  13,
                   32,
-                  46
+                  47,
+                  51,
+                  41
               ],
-    "Ultima":  "2026-11-25 13:50:52",
-    "Gerado":  "2026-11-25 14:07:07",
-    "Data":  "2026-11-25 14:07"
+    "Ultima":  "2026-11-25 14:16:51",
+    "Gerado":  "2026-11-25 14:17:04",
+    "Data":  "2026-11-25 14:17"
 }
