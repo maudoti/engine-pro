@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.438",
-    "Instalador":  "EnginePro_Setup_4.50.438.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.438/EnginePro_Setup_4.50.438.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.438/EnginePro_Setup_4.50.438.exe.gz",
-    "SHA256":  "EB6BCB6528B2FAD84E0F66901B7228CEFBC3E0D240AE8A992F2A10462FC212D7",
-    "Data":  "2026-11-25 15:46",
-    "Notas":  "Acentos recuperados nos chamados; disco no limite (90%) resolvido pela IA por etapas, OneDrive so por ultimo; eventos e dumps a fundo pela assinatura com ideias de estudo; chamados com titulo em outro formato entram nos estudos; reserva gratuita sem verba do Claude",
-    "Assinatura":  "mVku6Kzx7U4OOpMc0CyllKu7zkhMZLF2b+E1YluHVmG/MJ4BhoyLqsCgZuLB/x9tpv6dY8lrR+qf+U4EpCYkwQMSUwBafgsZuF4CovfqQrRVvaaCTJ27aBSSkzZz8m5qQ0SP/ucXGLy4SvUl+fsgeUfHOYDacH3S4bkKo0jnYs+8X8iDT9zsGPxdZ2Qyx0g1QLuLIStbzo4TCKbPmXvFE/u/XFD5S+SQfZvVMZRBRbowt0lTo+yuU3/abmoBPhcnkvyU8ILfY2qpTbbZ/zc2em5HYfQw/MZQGRiUCSqFsE8GQyVAOv6f25cJokG3PYjoGVWs1O6vHe8jz43HblhUJzNATso6asNr5582EAKLIdima2/qSy/QF0yh8lGBFOHCkGfOSo0PV4PLhYRboDoCdrNtYd3eYbhOYCFUQmvXLx0mVJEVpwdGrKZ3hMWeVXsSmyriuzMP37o1QPq0w4cac0rEWlXsfAOx08Twx2q11T0ucEFbzA9u+C3gTX9j7sVH"
+    "Versao":  "4.50.439",
+    "Instalador":  "EnginePro_Setup_4.50.439.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.439/EnginePro_Setup_4.50.439.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.439/EnginePro_Setup_4.50.439.exe.gz",
+    "SHA256":  "EE7DDA88E3D9CC7BE2FC2C9F68CC61C796B4613A296A034356FD03694C042A9F",
+    "Data":  "2026-11-25 16:21",
+    "Notas":  "Pouca RAM com um aviso por maquina para avaliar upgrade; fila dos Estudos da COLMEIA anda sozinha mesmo sem o editor-chefe; recuperacao de acentos mais completa",
+    "Assinatura":  "jdt9CxddmIE3KgFmAoTCyjLBet45xHX0Z+04LmhLBJdX9wJrDCl6WgklKo2XgLj3SjMMv3EWQlAUm265M0MGNwkQjTvB1jXI4+FosX/1Hf2npybtAS+edI74kjHBvELG1cH52for2vCEEZcjQL3G9kOs4j9EijOifCqJT7vbvzM/5edWh1j0+UghkQmWpDXRrNARDFlMxifhc+yg5kFhk6GYCeZfKMfofdu+x3Vrd1fc5LE3ksSKWouqyh93f1x+7RiFtWSwk5lJuSqkYcFs//5igiAkyS5lfbkYHT1xc48ouczWlUmHidINhSNrP5QyZTYQHBKcuwUxKc+NKaBDgbps6cxxqTrQHvTVYEXJH0SelppFNBYG4/qFth+27OgCDHT+bHV9SvNGyErdDfMXr4Yq3jkT3vqHbOsNczXsnvI2JLEkLZrnaBozJbpb4VTwmM85cS5NKFtu0waWPZRIDNYtvE7Vy7SKQLKp45zAOB7f2cc9qFvlWhCB8uSp/OBZ"
 }
