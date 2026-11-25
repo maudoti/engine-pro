@@ -1,18 +1,18 @@
 {
     "Resolvidos":  573,
-    "Conhecimentos":  3185,
-    "Pesquisas":  35741,
-    "N48":  3125,
+    "Conhecimentos":  3195,
+    "Pesquisas":  35767,
+    "N48":  3128,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 03:46:49",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 149 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 03:51:32",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80072F8F (ERROR_INTERNET_SECURE_FAILURE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 03:46:18",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 03:51:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive fechado ou removido: nada sobe até reabrir ou reinstalar",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 03:08:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Data":  "2026-11-25 03:51:29",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive preso em Processando alterações sem mostrar quais arquivos",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 635 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 661 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 03:07:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 03:50:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 175 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 02:59:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 185 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-25 03:50:59",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 02:40:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240017 (WU_E_NOT_APPLICABLE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 02:59:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 185 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 23:46",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  121,
-                  118,
-                  177,
-                  112,
-                  26,
+                  120,
+                  130,
+                  165,
+                  91,
+                  35,
                   20,
                   20,
+                  10,
                   20,
-                  20,
-                  29,
-                  50,
+                  35,
+                  44,
                   45,
                   50,
-                  25,
-                  32,
+                  42,
+                  15,
                   30,
                   20,
-                  13,
-                  27,
-                  12,
-                  128,
-                  124,
-                  145,
-                  162,
-                  130,
-                  136,
-                  124,
-                  108,
                   20,
                   20,
                   20,
-                  19,
+                  135,
+                  135,
+                  153,
+                  150,
+                  119,
+                  144,
+                  143,
+                  80,
+                  10,
+                  22,
+                  18,
                   20,
-                  11,
+                  20,
+                  10,
                   52,
-                  25,
-                  51,
+                  50,
+                  26,
                   53,
                   52,
                   33,
                   20,
-                  17,
                   18,
-                  19,
-                  140,
-                  156,
-                  141,
-                  214
+                  22,
+                  30,
+                  130,
+                  171,
+                  169,
+                  191
               ],
-    "Ultima":  "2026-11-25 03:46:49",
-    "Gerado":  "2026-11-25 03:47:04",
-    "Data":  "2026-11-25 03:47"
+    "Ultima":  "2026-11-25 03:50:59",
+    "Gerado":  "2026-11-25 03:57:04",
+    "Data":  "2026-11-25 03:57"
 }
