@@ -1,16 +1,16 @@
 {
     "Resolvidos":  571,
     "Conhecimentos":  3172,
-    "Pesquisas":  35236,
-    "N48":  3090,
+    "Pesquisas":  35279,
+    "N48":  3117,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 00:56:31",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 130 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-25 01:06:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 38 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 00:54:03",
+                         "Data":  "2026-11-25 01:06:23",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 00:43:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070005 (E_ACCESSDENIED) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 130 pesquisas em bases técnicas",
+                         "Data":  "2026-11-25 00:59:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 135 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 00:43:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070003 (ERROR_PATH_NOT_FOUND) no Windows",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 173 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-25 00:43:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070005 (E_ACCESSDENIED) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 00:43:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
+                         "Data":  "2026-11-25 00:43:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070003 (ERROR_PATH_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 23:55:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 30 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 00:43:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070002 (ERROR_FILE_NOT_FOUND) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-24 23:46",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  168,
-                  174,
-                  151,
-                  120,
-                  130,
-                  165,
-                  91,
+                  178,
+                  178,
+                  147,
+                  114,
+                  131,
+                  176,
+                  59,
                   35,
                   20,
                   20,
-                  10,
                   20,
-                  35,
+                  13,
+                  32,
                   44,
                   45,
                   50,
-                  42,
-                  15,
-                  30,
+                  47,
                   20,
                   20,
                   20,
                   20,
-                  135,
-                  135,
+                  20,
+                  20,
+                  160,
+                  142,
                   153,
                   150,
-                  119,
-                  144,
-                  143,
-                  80,
+                  113,
+                  142,
+                  136,
+                  63,
+                  20,
+                  20,
                   10,
-                  22,
+                  20,
+                  20,
+                  37,
+                  39,
+                  36,
+                  45,
+                  34,
+                  52,
+                  35,
                   18,
-                  20,
-                  20,
-                  10,
-                  52,
-                  50,
-                  26,
-                  53,
-                  52,
-                  33,
-                  20,
                   18,
                   22,
                   30,
-                  130
+                  173
               ],
-    "Ultima":  "2026-11-25 00:56:31",
-    "Gerado":  "2026-11-25 00:57:04",
-    "Data":  "2026-11-25 00:57"
+    "Ultima":  "2026-11-25 01:06:49",
+    "Gerado":  "2026-11-25 01:07:04",
+    "Data":  "2026-11-25 01:07"
 }
