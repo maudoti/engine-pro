@@ -1,18 +1,18 @@
 {
     "Resolvidos":  576,
-    "Conhecimentos":  3202,
-    "Pesquisas":  35903,
-    "N48":  3144,
+    "Conhecimentos":  3209,
+    "Pesquisas":  35937,
+    "N48":  3158,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 04:56:32",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 05:04:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070194 (ERROR_CLOUD_FILE_PROVIDER_TERMINATED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 04:56:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 136 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 05:04:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004DED7 (ONEDRIVE_OUTDATED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 04:28:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8024001E (WU_E_SERVICE_STOP) no Windows",
+                         "Data":  "2026-11-25 05:04:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004010F (MAPI_E_NOT_FOUND) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 797 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 831 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 04:28:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900200 (MOSETUP_E_COMPAT_SYSREQ_BLOCK) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 05:04:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 04:28:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xC1900101 (MOSETUP_E_ROLLBACK (driver)) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 05:04:02",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 03:50:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 175 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-25 04:59:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 149 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  130,
-                  165,
-                  91,
+                  131,
+                  176,
+                  59,
                   35,
                   20,
                   20,
-                  10,
                   20,
-                  35,
+                  13,
+                  32,
                   44,
                   45,
                   50,
-                  42,
-                  15,
-                  30,
+                  47,
                   20,
                   20,
                   20,
                   20,
-                  135,
-                  135,
+                  20,
+                  20,
+                  160,
+                  142,
                   153,
                   150,
-                  119,
-                  144,
-                  143,
-                  80,
+                  113,
+                  142,
+                  136,
+                  63,
+                  20,
+                  20,
                   10,
-                  22,
+                  20,
+                  20,
+                  37,
+                  39,
+                  36,
+                  45,
+                  34,
+                  52,
+                  35,
                   18,
-                  20,
-                  20,
-                  10,
-                  52,
-                  50,
-                  26,
-                  53,
-                  52,
-                  33,
-                  20,
                   18,
                   22,
                   30,
-                  130,
-                  171,
-                  169,
-                  191,
-                  136
+                  173,
+                  133,
+                  230,
+                  137,
+                  158
               ],
-    "Ultima":  "2026-11-25 04:56:32",
-    "Gerado":  "2026-11-25 04:57:04",
-    "Data":  "2026-11-25 04:57"
+    "Ultima":  "2026-11-25 05:04:02",
+    "Gerado":  "2026-11-25 05:07:04",
+    "Data":  "2026-11-25 05:07"
 }
