@@ -1,13 +1,33 @@
 {
     "Resolvidos":  570,
-    "Conhecimentos":  3157,
-    "Pesquisas":  35036,
-    "N48":  3120,
+    "Conhecimentos":  3158,
+    "Pesquisas":  35044,
+    "N48":  3128,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 20:39:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel travou 14 vezes nesta semana",
+                         "Data":  "2026-11-24 21:12:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (54x em 7 dias)",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-24 21:12:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-24 21:12:27",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 1453 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 20:39:45",
@@ -16,32 +36,17 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1445 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-24 20:39:44",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Texto":  "570 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "570 problemas resolvidos sozinha pela IA desde o início",
+                         "Data":  "2026-11-24 20:39:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Excel travou 14 vezes nesta semana",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-24 20:39:16",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-24 20:39:16",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-24 19:43:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -56,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  30,
-                  29,
-                  53,
-                  134,
-                  178,
-                  178,
-                  147,
-                  114,
-                  131,
-                  176,
-                  59,
-                  35,
-                  20,
-                  20,
-                  19,
-                  14,
-                  32,
                   44,
-                  45,
-                  50,
-                  47,
-                  20,
-                  20,
-                  20,
-                  20,
-                  20,
-                  20,
-                  160,
-                  142,
-                  153,
-                  150,
-                  113,
-                  142,
-                  136,
+                  19,
                   63,
+                  132,
+                  219,
+                  163,
+                  128,
+                  116,
+                  147,
+                  173,
+                  25,
+                  38,
+                  17,
+                  20,
+                  20,
+                  20,
+                  25,
+                  62,
+                  48,
+                  31,
+                  45,
+                  20,
+                  30,
+                  20,
+                  20,
+                  20,
+                  48,
+                  142,
+                  147,
+                  163,
+                  126,
+                  134,
+                  134,
+                  138,
+                  37,
+                  20,
+                  20,
                   20,
                   20,
                   10,
-                  20,
-                  20,
                   37,
-                  39,
-                  36,
-                  45,
-                  34,
-                  52,
-                  35,
+                  50,
+                  25,
+                  53,
+                  53,
+                  48,
+                  20,
                   18
               ],
-    "Ultima":  "2026-11-24 20:39:16",
-    "Gerado":  "2026-11-24 21:07:03",
-    "Data":  "2026-11-24 21:07"
+    "Ultima":  "2026-11-24 21:12:27",
+    "Gerado":  "2026-11-24 21:17:04",
+    "Data":  "2026-11-24 21:17"
 }
