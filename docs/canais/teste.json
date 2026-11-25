@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.437",
-    "Instalador":  "EnginePro_Setup_4.50.437.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.437/EnginePro_Setup_4.50.437.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.437/EnginePro_Setup_4.50.437.exe.gz",
-    "SHA256":  "22B81C0628064656D439140C4E90D06985DBB73FA82F4F6165A45EC8DBF24C88",
-    "Data":  "2026-11-25 15:09",
-    "Notas":  "Segunda conferencia e editor-chefe pela assinatura do Claude (tarefa noturna); a API do Claude so entra se a tarefa parar",
-    "Assinatura":  "YBkCVme37YNhvJJnGIsszCf7priZWoGLtvcDtkcb5NpvVIioUti5b2Niwhq1+bhAj4kcC+79Q1raRCLdanLz2vsqubPYaPprjuOAu3cchCFe/oM9pYbBibMw6IcuVSYedcNbSvPUeUYl1LY7Prpr9Flqzf/xotT496wkK4Iw4/MKhzkoi48LYMRIcC3avsVd0jrx0sQox4qQmoQY3UrK6dKRV3SbB7EYJoQI7N8b//gd4LCptNwvO/uxkIGt5u7BMeCbTuN+ldUxcSPUriERM8iP0diTXZlJoeEh4SwWGpuQW7Qz2nugEcFzIeq72mObKpsvJQACu+mZxbPIJdkqIAsBwoz1mUc33OSJQ7yQVhC2EeAXiIShCru6EJYYnAGmU8mOfwenB+ytuoTNlnAG4Tlzey6+MoRbd3DXdtFvJ21rUrAgwxdfsy6OTyIzTDJgbuLHwRoACPCobB8g1GAHvapkA6Tt1DrjqlNAAMQzU6ujfbCtstohQwUmQZKHap2P"
+    "Versao":  "4.50.438",
+    "Instalador":  "EnginePro_Setup_4.50.438.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.438/EnginePro_Setup_4.50.438.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.438/EnginePro_Setup_4.50.438.exe.gz",
+    "SHA256":  "EB6BCB6528B2FAD84E0F66901B7228CEFBC3E0D240AE8A992F2A10462FC212D7",
+    "Data":  "2026-11-25 15:46",
+    "Notas":  "Acentos recuperados nos chamados; disco no limite (90%) resolvido pela IA por etapas, OneDrive so por ultimo; eventos e dumps a fundo pela assinatura com ideias de estudo; chamados com titulo em outro formato entram nos estudos; reserva gratuita sem verba do Claude",
+    "Assinatura":  "mVku6Kzx7U4OOpMc0CyllKu7zkhMZLF2b+E1YluHVmG/MJ4BhoyLqsCgZuLB/x9tpv6dY8lrR+qf+U4EpCYkwQMSUwBafgsZuF4CovfqQrRVvaaCTJ27aBSSkzZz8m5qQ0SP/ucXGLy4SvUl+fsgeUfHOYDacH3S4bkKo0jnYs+8X8iDT9zsGPxdZ2Qyx0g1QLuLIStbzo4TCKbPmXvFE/u/XFD5S+SQfZvVMZRBRbowt0lTo+yuU3/abmoBPhcnkvyU8ILfY2qpTbbZ/zc2em5HYfQw/MZQGRiUCSqFsE8GQyVAOv6f25cJokG3PYjoGVWs1O6vHe8jz43HblhUJzNATso6asNr5582EAKLIdima2/qSy/QF0yh8lGBFOHCkGfOSo0PV4PLhYRboDoCdrNtYd3eYbhOYCFUQmvXLx0mVJEVpwdGrKZ3hMWeVXsSmyriuzMP37o1QPq0w4cac0rEWlXsfAOx08Twx2q11T0ucEFbzA9u+C3gTX9j7sVH"
 }
