@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.427",
-    "Instalador":  "EnginePro_Setup_4.50.427.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.427/EnginePro_Setup_4.50.427.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.427/EnginePro_Setup_4.50.427.exe.gz",
-    "SHA256":  "78AC5D730A567A5C5A92ABE15E5757284392287348B6DEDEA532989E13E3DD9C",
-    "Data":  "2026-11-24 23:35",
-    "Notas":  "Seguranca parte 4b-2: as sementes do autenticador sairam do instalador; o intermediario confere os codigos de ativacao e de protecao e assina a liberacao",
-    "Assinatura":  "RpwKTiPr6CrxuJ166QyTvswJpBho2KvMFp7AuEFOnQPxQkit4hu0k0u10aHEkJPFKuy0919UbxAYJdw1JE9NUn/ozF0D7V1oBO7n84T8OMaPs30jRIzLIRoOUd0bO4MU+FNokrs9sFs1QW/rTkZvNaatc7DE7MvkYkriiz7JEyc5yNMF962ldCIhAH/kiD+f0ngfjL4rct89y/cOlU6cyMdecsnosvDl9sAR10BGDFuGWh9UzUX1sscQlNUvvJAKeywyCr9TBLHhEtOLAHguGaM0+1ip/waPAjuk5yahhTqjti1R/K8HpKMefmun8Tv/2/pYX5R2Cv5hhZoX5qRT1Dc9hvzF69g/+QslGWiDcbsE3sUmau5HsIWlr76K2KzP8EHNSEXStChomzzpabOdSxfhssZBKZp77mixSfp54Ld3vk83q+xQ654HVfWOT71OMnL2uinKIqa46q9TbtWVFtoYeHKqUyChhtPztNSNOKcjcL8fPj8TF+9vb0yOvxBj"
+    "Versao":  "4.50.442",
+    "Instalador":  "EnginePro_Setup_4.50.442.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.442/EnginePro_Setup_4.50.442.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.442/EnginePro_Setup_4.50.442.exe.gz",
+    "SHA256":  "A828FDA5DFBA0052ECF53491EF80E5928BFA548C0BA678D7252FC1B58E80BC14",
+    "Data":  "2026-11-25 17:13",
+    "Notas":  "Fila sem itens parados: caso com evidencia arquivado pela IA em 3 dias como historico; chamados ja nos Estudos da COLMEIA fechados no GitHub em 1 hora",
+    "Assinatura":  "SEO+JWT9RgFJpwANo1DeMtJl7ZOI7kSWL2qh+rp4+l+di0uApxlY0Ug6vUDR4Hur2z1vrVL7GYVBsKgICMsA+lvz1HkzHnf5ScJi+eSyGvCo4/7/vyXPlv3VpyP2MLL+CmoiVnbK+k7erTLjb2xJsfBYzuiMctnZBvQoGuCcYiI+54XB58GXGcpdNEgdc76LQHys4x1aPDe2ugmsDocSrmuPa/3xMxiCuzDLqc6i40YWbvnSG8DknTDtQgeoxgZdgn/gDV7Qn4KpwkyWye+j31rb25fx3g3Mfdc0lmEzR57dPioh34v/msatXogn/j76/8OltQ612ezfcvrEKYoA99p0NhkNuI+ycS3vpfebtDndQzGBb52uvbkM6PFoEAxF8yNqKvcZ0NC90Ny7jvZMSvjy43OxiaDeEWyvwYvRG7dYw7usBCLRNPN7q0LSxWLDTZyFL2trM1eDFTD2GIvNzalBlQ+lonHgQ4W5mREMRfag4QtM55idgjQdru5r2b7/"
 }
