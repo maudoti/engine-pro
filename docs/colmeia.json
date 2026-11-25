@@ -1,17 +1,17 @@
 {
     "Resolvidos":  608,
-    "Conhecimentos":  3246,
-    "Pesquisas":  36328,
-    "N48":  3044,
+    "Conhecimentos":  3250,
+    "Pesquisas":  36341,
+    "N48":  3056,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 13:48:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 33 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 13:51:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (1,3 de 10)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 13:37:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Data":  "2026-11-25 13:51:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (2,9 de 10)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 13:17:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive travou 3 vezes nesta semana",
+                         "Data":  "2026-11-25 13:51:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar há tempo (6x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1222 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1235 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 13:16:50",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Data":  "2026-11-25 13:50:52",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 12:59:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 7 dia(s)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 13:16:50",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-25 12:40:33",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  45,
+                  44,
                   45,
                   50,
-                  25,
-                  32,
+                  42,
+                  15,
                   30,
                   20,
-                  19,
-                  21,
-                  14,
-                  127,
-                  126,
-                  149,
-                  161,
-                  124,
-                  141,
-                  124,
-                  103,
                   20,
                   20,
                   20,
+                  135,
+                  135,
+                  153,
+                  150,
+                  119,
+                  144,
+                  143,
+                  80,
+                  10,
+                  22,
+                  18,
                   20,
                   20,
                   10,
                   52,
-                  29,
-                  47,
+                  50,
+                  26,
                   53,
                   52,
                   33,
                   20,
                   18,
                   22,
-                  14,
-                  140,
-                  163,
+                  30,
+                  130,
+                  171,
+                  169,
+                  191,
                   136,
-                  222,
-                  126,
-                  131,
-                  120,
-                  10,
-                  29,
+                  112,
+                  113,
                   20,
-                  10,
-                  47,
+                  19,
+                  20,
+                  16,
+                  41,
                   51,
-                  33
+                  46
               ],
-    "Ultima":  "2026-11-25 13:48:10",
-    "Gerado":  "2026-11-25 13:48:35",
-    "Data":  "2026-11-25 13:48"
+    "Ultima":  "2026-11-25 13:50:52",
+    "Gerado":  "2026-11-25 13:57:04",
+    "Data":  "2026-11-25 13:57"
 }
