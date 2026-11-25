@@ -1,18 +1,18 @@
 {
     "Resolvidos":  573,
     "Conhecimentos":  3185,
-    "Pesquisas":  35647,
-    "N48":  3067,
+    "Pesquisas":  35683,
+    "N48":  3086,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 03:08:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 03:36:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 91 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 03:07:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 03:36:51",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 03:07:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 55 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 03:08:11",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80246007 (WU_E_DM_NOTDOWNLOADED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 541 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 577 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 03:07:39",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 03:07:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240020 (WU_E_NO_INTERACTIVE_USER) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -63,54 +63,54 @@
     "Horas":  [
                   120,
                   120,
-                  167,
-                  133,
+                  156,
+                  130,
+                  47,
+                  20,
+                  20,
+                  20,
+                  16,
+                  14,
+                  47,
+                  42,
                   50,
-                  20,
-                  20,
-                  20,
-                  10,
-                  20,
-                  44,
-                  45,
                   50,
-                  50,
-                  22,
-                  20,
-                  30,
+                  32,
                   20,
                   20,
                   20,
-                  77,
-                  133,
-                  132,
-                  172,
-                  141,
-                  134,
+                  20,
+                  20,
                   129,
-                  141,
+                  120,
+                  129,
+                  159,
+                  118,
+                  162,
+                  123,
+                  119,
+                  20,
                   20,
                   10,
                   20,
                   20,
                   20,
-                  20,
-                  27,
-                  50,
-                  27,
+                  46,
+                  31,
                   51,
-                  53,
+                  38,
+                  42,
                   48,
-                  20,
-                  18,
+                  23,
+                  15,
                   20,
                   26,
-                  68,
-                  172,
-                  137,
-                  180
+                  100,
+                  152,
+                  167,
+                  174
               ],
-    "Ultima":  "2026-11-25 03:07:39",
-    "Gerado":  "2026-11-25 03:27:04",
-    "Data":  "2026-11-25 03:27"
+    "Ultima":  "2026-11-25 03:36:59",
+    "Gerado":  "2026-11-25 03:37:05",
+    "Data":  "2026-11-25 03:37"
 }
