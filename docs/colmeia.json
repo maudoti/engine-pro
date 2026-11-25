@@ -1,18 +1,18 @@
 {
     "Resolvidos":  573,
     "Conhecimentos":  3183,
-    "Pesquisas":  35527,
-    "N48":  3078,
+    "Pesquisas":  35576,
+    "N48":  3088,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 02:40:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240017 (WU_E_NOT_APPLICABLE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 02:57:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 169 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 02:40:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 02:56:33",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 02:39:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 120 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 02:40:08",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80240017 (WU_E_NOT_APPLICABLE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 421 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 470 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 02:39:48",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 02:40:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x800F0907 (CBS_E_GROUPPOLICY_DISALLOWED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  167,
-                  121,
-                  118,
-                  177,
-                  112,
-                  26,
+                  151,
+                  120,
+                  130,
+                  165,
+                  91,
+                  35,
                   20,
                   20,
+                  10,
                   20,
-                  20,
-                  29,
-                  50,
+                  35,
+                  44,
                   45,
                   50,
-                  25,
-                  32,
+                  42,
+                  15,
                   30,
                   20,
-                  13,
-                  27,
-                  12,
-                  128,
-                  124,
-                  145,
-                  162,
-                  130,
-                  136,
-                  124,
-                  108,
                   20,
                   20,
                   20,
-                  19,
+                  135,
+                  135,
+                  153,
+                  150,
+                  119,
+                  144,
+                  143,
+                  80,
+                  10,
+                  22,
+                  18,
                   20,
-                  11,
+                  20,
+                  10,
                   52,
-                  25,
-                  51,
+                  50,
+                  26,
                   53,
                   52,
                   33,
                   20,
-                  17,
                   18,
-                  19,
-                  140,
-                  156,
-                  141
+                  22,
+                  30,
+                  130,
+                  171,
+                  169
               ],
-    "Ultima":  "2026-11-25 02:39:48",
-    "Gerado":  "2026-11-25 02:47:04",
-    "Data":  "2026-11-25 02:47"
+    "Ultima":  "2026-11-25 02:57:01",
+    "Gerado":  "2026-11-25 02:57:05",
+    "Data":  "2026-11-25 02:57"
 }
