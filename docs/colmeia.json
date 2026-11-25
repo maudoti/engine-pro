@@ -1,17 +1,17 @@
 {
     "Resolvidos":  570,
-    "Conhecimentos":  3159,
-    "Pesquisas":  35055,
-    "N48":  3095,
+    "Conhecimentos":  3161,
+    "Pesquisas":  35064,
+    "N48":  3104,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-24 22:16:51",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 1 pesquisa em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-24 22:20:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (6x em 7 dias)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 21:47:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Data":  "2026-11-24 22:20:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (34x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,17 +20,17 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 21:47:15",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-24 22:19:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1464 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1473 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-24 21:45:52",
+                         "Data":  "2026-11-24 22:18:23",
                          "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
                          "Nivel":  "info"
                      },
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 21:12:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (54x em 7 dias)",
+                         "Data":  "2026-11-24 21:47:45",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-24 20:39:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (65x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-24 21:47:15",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-24 18:07:16",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  19,
-                  63,
-                  132,
-                  219,
+                  30,
+                  81,
+                  160,
                   163,
-                  128,
-                  116,
-                  147,
-                  173,
-                  25,
-                  38,
-                  17,
+                  186,
+                  120,
+                  120,
+                  167,
+                  133,
+                  50,
                   20,
                   20,
                   20,
-                  25,
-                  62,
-                  48,
-                  31,
+                  10,
+                  20,
+                  44,
                   45,
+                  50,
+                  50,
+                  22,
                   20,
                   30,
                   20,
                   20,
                   20,
-                  48,
-                  142,
-                  147,
-                  163,
-                  126,
+                  77,
+                  133,
+                  132,
+                  172,
+                  141,
                   134,
-                  134,
-                  138,
-                  37,
-                  20,
-                  20,
-                  20,
+                  129,
+                  141,
                   20,
                   10,
-                  37,
+                  20,
+                  20,
+                  20,
+                  20,
+                  27,
                   50,
-                  25,
-                  53,
+                  27,
+                  51,
                   53,
                   48,
                   20,
                   18,
-                  11
+                  20
               ],
-    "Ultima":  "2026-11-24 22:16:51",
-    "Gerado":  "2026-11-24 22:17:04",
-    "Data":  "2026-11-24 22:17"
+    "Ultima":  "2026-11-24 22:19:51",
+    "Gerado":  "2026-11-24 22:27:04",
+    "Data":  "2026-11-24 22:27"
 }
