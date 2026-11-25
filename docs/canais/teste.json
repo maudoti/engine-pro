@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.433",
-    "Instalador":  "EnginePro_Setup_4.50.433.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.433/EnginePro_Setup_4.50.433.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.433/EnginePro_Setup_4.50.433.exe.gz",
-    "SHA256":  "8E4D8818977920C0D14484DB2A151242891ACDCF383DA1011F51CB1B04F47A7A",
-    "Data":  "2026-11-25 13:25",
-    "Notas":  "Tela azul: o Engine Pro le o minidump e aponta o modulo culpado (driver NVIDIA, Intel, AMD, antivirus...); Claude nao volta mais sem resposta por gastar o limite pensando",
-    "Assinatura":  "Kc9l2a7iFYyqTZyvMITDSE2uaiUJJfJyVA2gq/njPhI6d8XXKZjF7aNyz3dSKma76o7x5DoYHuLRAdB9WUV1kvZ0rVXrKRE6OPdlqUrFexRnMyE/fl5OiyMBHnAa0o+f4Kf5NC8BGSQEIDOchBLzGOVm149Djc87rQp5TwTcf8tULuzWrUyEtiz8yEfhyKQqbhd/A59M6jNERBOCNrv93zKCgB3roRwNV0FGhpqXE52aYTcJhBfcdm3iJmmBkLQMnNsts5B/A41rRwO4CrieWoEZvhNQll5IvGnEQZ1j5fFK+8rkY5+j7JJateiCAVuiTvsThz8+8Gja/m453U1UYuJgFM+dNR5wRZILRFlf0NsWPoOK8vjc4NPamKdS2+V9o7FBO4iVVkzBnFojyTJt+xUFCLl/vAVoQ1c238gndwDeL6P010Vr2wcTX2cn+XtCWoz47CGQXeg8PoB7afI34fq+rk+nwzZS61VbOlOWP9MRQ7CthVE3AYEa4mp+ujSq"
+    "Versao":  "4.50.434",
+    "Instalador":  "EnginePro_Setup_4.50.434.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.434/EnginePro_Setup_4.50.434.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.434/EnginePro_Setup_4.50.434.exe.gz",
+    "SHA256":  "902E654C3DA17B4DC294DE1460370CD5E2F8ABD4609FBBBC5AE765734BB7146F",
+    "Data":  "2026-11-25 13:48",
+    "Notas":  "Claude com teto de gasto: pesquisa da COLMEIA com raciocinio curto; teto mensal do Console atingido pausa o Claude ate o dia 1 e o resto vai pelas IAs gratuitas",
+    "Assinatura":  "BMdDXA61/6Kj+gU/uzG9PygiyM2Pdx/9AJBEi1nr02YpCl4JEe7i8eTjfThiCc2b2uaHgifPOoWUZRYvIkCmVMI2QS2883trxdnsjy6uDy9BStMA337fiu6+cFYqQN0208bL25U7N41trWDUQguLn5/8vSOKmcd+JmwX3IIZ7q4mqutvF3v1ihRztUQgv5YRF8uW5uToJ/FhuA1sthGG5NquuT2Eps/wju8KkfHyYqs6Cwy3JaEzZHKOuTWcQ7OUU63Zx3MCenBgON1B/veVEBbja2k7disM4Ei0IRfP4FIpQ9iEahXoSPUWZ6ydgdNtrqY48/FP1jSzPjo9qmJkByJ4rpdT1hCeoGRt6RgyB9+2WYsRYgIGCCXJSoSmVhYgDoaFaiPURShy9txeWAZACWhZjtiJ0k6jMewux/IQIqtDvSyYevQDNcD7fxGNG0kBA1KpREurk7LnVXvcQpXGJC1jDHf5E4pySHM7ws3/XPLvoZe6IgSXC5HXn1qGwJGm"
 }
