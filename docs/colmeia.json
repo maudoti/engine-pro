@@ -1,13 +1,13 @@
 {
     "Resolvidos":  608,
-    "Conhecimentos":  3244,
+    "Conhecimentos":  3245,
     "Pesquisas":  36320,
     "N48":  3060,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 13:16:50",
-                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 13:17:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive travou 3 vezes nesta semana",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-25 13:16:50",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 12:59:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 7 dia(s)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-25 13:16:50",
+                         "Texto":  "A IA encontrou uma solução e está conferindo com outra IA antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,8 +30,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 12:40:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Data":  "2026-11-25 12:59:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 7 dia(s)",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-25 12:40:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-25 12:40:33",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 51 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-25 11:38:11",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Xtendutility travou 10 vezes nesta semana",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-25 11:38:04",
@@ -61,31 +61,31 @@
                      }
                  ],
     "Horas":  [
-                  25,
-                  62,
-                  48,
-                  31,
+                  44,
                   45,
+                  50,
+                  50,
+                  22,
                   20,
                   30,
                   20,
                   20,
                   20,
-                  48,
+                  73,
+                  127,
                   142,
-                  147,
-                  163,
-                  126,
+                  172,
+                  141,
                   134,
-                  134,
-                  138,
-                  37,
-                  20,
-                  20,
-                  20,
-                  20,
+                  129,
+                  135,
+                  26,
                   10,
-                  37,
+                  20,
+                  20,
+                  20,
+                  19,
+                  28,
                   50,
                   25,
                   53,
@@ -93,24 +93,24 @@
                   48,
                   20,
                   18,
-                  11,
-                  21,
-                  61,
-                  148,
-                  161,
-                  201,
-                  179,
-                  118,
-                  123,
-                  61,
+                  20,
                   26,
-                  23,
-                  13,
-                  32,
+                  59,
+                  172,
+                  146,
+                  180,
+                  212,
+                  113,
+                  95,
+                  71,
+                  20,
+                  19,
+                  20,
+                  25,
                   47,
                   51
               ],
     "Ultima":  "2026-11-25 13:16:50",
-    "Gerado":  "2026-11-25 13:17:05",
-    "Data":  "2026-11-25 13:17"
+    "Gerado":  "2026-11-25 13:25:23",
+    "Data":  "2026-11-25 13:25"
 }

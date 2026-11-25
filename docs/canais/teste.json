@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.432",
-    "Instalador":  "EnginePro_Setup_4.50.432.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.432/EnginePro_Setup_4.50.432.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.432/EnginePro_Setup_4.50.432.exe.gz",
-    "SHA256":  "5079B164733838780BB79C14331554027359EE53B7D8A2EF6D1A7D655858259F",
-    "Data":  "2026-11-25 12:38",
-    "Notas":  "Qualidade dos e-mails: sem frases pomposas, tela azul de video sem culpar driver sem o minidump, OneDrive aponta o item exato antes do reset, alertas repetidos juntados, RAM so vira chamado quando sustentada",
-    "Assinatura":  "mvn05TQBKOubpv/Ys4qbSC57iCGox/GOHn4xpq8dOYoSYpsr8STod5oL/iMLwRcOwAL1BqPZM+QT6Qc9b3RyENWtV9qUJgYbVojXIz3QpQsR4oQQ0d6qESc5qQpT0a4yGeYSj21Ls545cNTWk4qWVq+9DBlkuPJXEa26+6qKxVt1XGq0b4CHdYmTFhpcOuj/Fw3ZNeoH8sEn377PQ3SUZ7KObwhjGNJ6EOdxVpSWqnt43KZyf37xBicwXv+2oWliQSUpTWaX9E93Lr3mOpMzd1zmS3lBMnvlZLfHpXN7Y6m67zZFvFDE6jBgAhLta0A//3VkE8HKKwhgkctvMUflhykN7y7U+HiL0WYB/pr/YtkqUfsWaTmhhkwIxHBJbudM3FjkSs+236lnA8QyiAWHsdhbaOaUHZONpiKs0gw/53JLskzqLIuLVfb0B8DBiwKOhtH2sO+rJOEKFekpltYp4XVeUvQ+sHFFKqqyLRP3soeogRt8B3VAWuQFMKgWR6d2"
+    "Versao":  "4.50.433",
+    "Instalador":  "EnginePro_Setup_4.50.433.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.433/EnginePro_Setup_4.50.433.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.433/EnginePro_Setup_4.50.433.exe.gz",
+    "SHA256":  "8E4D8818977920C0D14484DB2A151242891ACDCF383DA1011F51CB1B04F47A7A",
+    "Data":  "2026-11-25 13:25",
+    "Notas":  "Tela azul: o Engine Pro le o minidump e aponta o modulo culpado (driver NVIDIA, Intel, AMD, antivirus...); Claude nao volta mais sem resposta por gastar o limite pensando",
+    "Assinatura":  "Kc9l2a7iFYyqTZyvMITDSE2uaiUJJfJyVA2gq/njPhI6d8XXKZjF7aNyz3dSKma76o7x5DoYHuLRAdB9WUV1kvZ0rVXrKRE6OPdlqUrFexRnMyE/fl5OiyMBHnAa0o+f4Kf5NC8BGSQEIDOchBLzGOVm149Djc87rQp5TwTcf8tULuzWrUyEtiz8yEfhyKQqbhd/A59M6jNERBOCNrv93zKCgB3roRwNV0FGhpqXE52aYTcJhBfcdm3iJmmBkLQMnNsts5B/A41rRwO4CrieWoEZvhNQll5IvGnEQZ1j5fFK+8rkY5+j7JJateiCAVuiTvsThz8+8Gja/m453U1UYuJgFM+dNR5wRZILRFlf0NsWPoOK8vjc4NPamKdS2+V9o7FBO4iVVkzBnFojyTJt+xUFCLl/vAVoQ1c238gndwDeL6P010Vr2wcTX2cn+XtCWoz47CGQXeg8PoB7afI34fq+rk+nwzZS61VbOlOWP9MRQ7CthVE3AYEa4mp+ujSq"
 }
