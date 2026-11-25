@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.425",
-    "Instalador":  "EnginePro_Setup_4.50.425.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.425/EnginePro_Setup_4.50.425.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.425/EnginePro_Setup_4.50.425.exe.gz",
-    "SHA256":  "3B0EAAA95699547F15ACFFEB1FB23C14F5F42BC1B64AA0BEEFBF8989D3B4BFE1",
-    "Data":  "2026-11-24 18:08",
-    "Notas":  "Avisos: o chamado aberto vai no proprio aviso do problema, sem aviso repetido",
-    "Assinatura":  "vn+BbNVBToIbP8agdnLevFkL0PD6aZQfgeh7pBvy1AzflNiQdmZVOWyi2LAeTo1Pngj4mWPbSafxBM6bHh501a2va6+AaO8GVh4xCRLGBMPvYnfVLvFw2ONKvDdduNBTOEZwsoOsK95m54vokGV7LR0tz1k+x6gwBfu8GfqBkpf0lH7QW82LV4wEzweD5KAo9dqO0M/GHpYwNX3k+7gN/vjI5+cImwaTgABPcBqC4qRvI8sIQAzBq0C1qFJlh1HtpGRrCK9gA8C/7xQzjgXuwnw4/EvouAArhctd0SprbCiAhg91SQt1Ue5KbkVAlBjiVtlNhYEW3KdFUf0ClIWx/s/kEPACSVgSdqQ5w0W82lf8GNlbWeRoDtxdz7yQ9aTIuBcoklL2oiijqVYsfDqEKz2iztgnoaZBqxpZq04CD10ZhJ5VaBFgaSKk32JJRDEg6p1DHSPzBA3LExbixDJEum07LG4247TTGcLpVQR5o7gRLOvg6lmGUHtLr+kVDh+h"
+    "Versao":  "4.50.426",
+    "Instalador":  "EnginePro_Setup_4.50.426.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.426/EnginePro_Setup_4.50.426.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.426/EnginePro_Setup_4.50.426.exe.gz",
+    "SHA256":  "9953BEDB2B21F0A600EBDB75EE6EA2F06905BB1C8C577963A257A070D00D83F5",
+    "Data":  "2026-11-24 21:36",
+    "Notas":  "COLMEIA proativa: atualizacao ou driver que derrubou estacoes e bloqueado sozinho nas que ainda nao o receberam (60 dias)",
+    "Assinatura":  "sDUXhue8sBlCmoWcu4WZ+Hfj/gisD3U92tlSkWwgkXEpzCS1YqzkP7sqOUSqmMTMMgKABXOBv0CiZQfmHMu7T1t0ZdegL5j0MihBS/bORCwWAK0ND9DG6mwURlTiiCOITglTAA4YTwMVwonEvl2hqSIeX/HmgKhltSGET9bunVYpU5xAqTrlhKzRrtPnQJxrfDdiMsyBNIAYuFwu2iHo3Tzi09mJmFYnAFJaxdSx1tcN7XAXK6TLMzta0InWHaZnAr0xlkH7kHjOna91Ym9nCMWD+zLY9J+6MWIccGhrnsMnH4fL9CnrQ6Ls3LGnShK2DY5gvQKhDNxAzfOkt45NrKvugCw8kxhzjX/i7SGZLEOp6sf8MbHQWK7muv0Bp79zz2hmTguDX+kzAucOrICP7ZFi4vyl6gBpC/bK1OLuP0quJTrV1MqLYhUK4rwuG4jSTU44ofzQWYq0ILb0fATAzFbNltWA0/F6jDe80a0NR7KuYa8SnHiwCsnKnkSgccFL"
 }
