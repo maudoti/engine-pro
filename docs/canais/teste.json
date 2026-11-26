@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.455",
-    "Instalador":  "EnginePro_Setup_4.50.455.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.455/EnginePro_Setup_4.50.455.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.455/EnginePro_Setup_4.50.455.exe.gz",
-    "SHA256":  "31F0BEEBCFEA706625379745DE3E1DDD5C9986E29E81CEF79F8AEDE1703D5770",
-    "Data":  "2026-11-26 12:53",
-    "Notas":  "Filtro rigoroso de dados sensíveis antes das camadas de inteligência de reserva (senhas, chaves, tokens, CPF, dados bancários, e-mails, nomes de pessoas, nomes de arquivos e conteúdo colado; os caminhos de pasta seguem); o chat não diz mais qual IA respondeu; botão Continuar no Claude, na conta corporativa da pessoa, quando as cotas acabam; feed da tela inicial já abre cheio",
-    "Assinatura":  "tgzBiUmyu5vaSWH1ZEVxfpCcekzfvsi8ctxS/VLjCSQpwr752IzqzeeT0FOy+ASQb8nlg5wdGaEWGrJUNkyafAJ1SR/HZSnSvrhYyKrq3Up6b2FN8sLypx/D7xqvheRs6uYKhLMoWztSoe1cIMnkwfziwvefw5Ff/yEx8RR9FnP0VNsU/BCXmEDLCkiI2yTgwCfjh2+xWFUVO/algilJRfY3/UHjEkmG0mQanZ7Q6T7IJ+522of+UM5vGyTxeDmbDezAx67iE7LtjpgSzBFb1MkJKnvEiZJuknj/GnR5nrqsMIZR3xHzIsNWAO40Afn1fC1s5pHFsWwUn8mzoC4zKcbFLif6kVVzVNKr49f6cnlhuuuwhVqGuaCe8YkqJyaBwPBWjlkOMOV4kh6BcIEHXJ+AAwDFbNWqmVKaqP9Hxz5yKyjoQUbYPQ3UDrl2CVkX6afHTs6b39FdB8wnGotfFSp4vpG5lOHK8DdcWIkBbPTfmNuSaF7vOoQbz3JnnLrJ"
+    "Versao":  "4.50.456",
+    "Instalador":  "EnginePro_Setup_4.50.456.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.456/EnginePro_Setup_4.50.456.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.456/EnginePro_Setup_4.50.456.exe.gz",
+    "SHA256":  "45D5FD2926B4AFA141383C2654BF84B408BBF98954205E2C62CA3404EFC50B85",
+    "Data":  "2026-11-26 13:20",
+    "Notas":  "Feed da tela inicial: cada frase fica 11 segundos na tela, para dar tempo de ler",
+    "Assinatura":  "FWYYrMUYaPyTMjgkj/p+y3n0fg6ea5Uc9BVXpRU3uIbvQhSeGZrPq43YD+9nhr/J8tjrjZgJVVcN7Hlx5I7nVnRyoLOuHnjxcvT7GPdtLGXAgUSk+boRN7tWmTsblTC8LE0pb77B/kunreFExNf6AhoM+ZCvBG63i4+hfTkYz/HgIWLsIfXZm7Gf2fB9vgtO/pkc/3T6S+G6M7jfxiAdY13JWrQoLYpmXo+oZZS0ExXl87mmwZICGPwEY5ZUWaVoL6WFc1f1jQHIE0ICkTf1N34Cbwpzq/IHQmvX38LnSmXE62GvFJDutHFfj5QO0ZZ5isia7I9EQJ/1oDoAaUjw8Xse+OsHsX4iOYOBZUbMJVLI8uslrE2Q/ewWQTV3U9CR+t4ymVdwMNxSper4qQ0U/bwIVp6U19IIRcwC/BLgdSDNECNRWS/X86lMUfZw8d5ehdYsUgKpu/Zal3t6X9iqKl81kKhTN30YAnIU2m97/OrilIgYs7fwUvlra89nMD21"
 }
