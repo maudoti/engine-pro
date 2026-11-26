@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.461",
-    "Instalador":  "EnginePro_Setup_4.50.461.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.461/EnginePro_Setup_4.50.461.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.461/EnginePro_Setup_4.50.461.exe.gz",
-    "SHA256":  "BFA8CF677A38AD5A1305CE4678E80E61C93121BD42ACE2A4170EA67F6132395A",
-    "Data":  "2026-11-26 17:56",
-    "Notas":  "Feed da tela inicial: um aviso só de memória (sem repetir RAM), 26 frases sobre o time sorteadas para não repetir, textos corrigidos, horário em toda linha e alertas em vermelho e âmbar também no feed; Quarentena: os 10 casos arquivados como estudados sem estudo voltam para a fila e são estudados pela assinatura",
-    "Assinatura":  "jFlqQcxF1a2Xn++eR3OioZlsNWndaLiOPvaqYXFogCIRbgUEoBUbTwoykPA1QV6W3df1GVqTSJYKkAmmMwX7pp0tW6z6/4xgS4em2pszd6yAgeI6H4CB9EkrUGIhpRT/5S1J5NdnODHO20+X7KzPPQJ1ZOst++kDCya1RIdkCUJIUcHUpM5hc0382jqEJU6cHm06KUoCe1/uAIeZKS0RGMvgK8jMYjGstLKZCL/9lwXYAd7TQmdZAZfSwlt3Cq6o5I4bMWiZrGg96ydBGhdxut+esJUIHGx3Q8CoxPSN08jVtQ25pVOoZLPan9K/nWtOlkrtg5q15IC0qIgjM5h5882al+SK7dH6yEKIRRRZ6fwi+lhmXX+vN+4tAA39lXqxo1GCnkmY2jVFGYas3XNH4A8FIqDLpevbvh8r62GsXA8tjzGdGXCmSHMLw3R21qRlR3PVZoxC6VUldPywHDEoupPsQV7ZCaatHNsnqv2G8DLhHksv4P2q9jnCX6sH8GH0"
+    "Versao":  "4.50.462",
+    "Instalador":  "EnginePro_Setup_4.50.462.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.462/EnginePro_Setup_4.50.462.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.462/EnginePro_Setup_4.50.462.exe.gz",
+    "SHA256":  "2E36AF37374260C568CE0A0F318D63D7ABBDAB4834EF0A7E13F7A7A4D06AF791",
+    "Data":  "2026-11-26 19:15",
+    "Notas":  "Menu lateral em tema silício (metal escovado, ícones em forma de chip e trilhas de circuito); Ações rápidas com Velocidade da internet, Impressoras, OneDrive e Diagnóstico completo; Caixa de sugestões que chega ao e-mail do TI",
+    "Assinatura":  "D2koiPZRR7BTvxK2QIm5UIWDiQXInX7/Qx67DZheAykZhxKTJTXfDfGdQxxY8U0bpJ294rWAStEqXlZSeaJ2BUqzAQnjDanIbTdJ8MD20ZJfm4DyCI+89g1F1uQ8XJ/1vaME5buGRowlJVk4TaIfhvh0bMsBuFeVKBT1epwlD8QrHF3UWbafWJrqv5z9taL4BThM8N6qpx3d4OVzi7J1mCrZuVKhs2DbdhypG5d247F3DJPYKdZFocO1/NUoaxWFLG5uJBFZZE3eC3uVX5GayAmc1F6qyCMxJ4sZtVE3rwEOfhaQkHoLWL3MfVcQdiuLuJ24oZh0rgQVWT4yLQayRcHzJrbaiG8KnzhUEQmU2jYqVoftfODC0Hz/8NDvFidCTMNvZwy5ptArIBNEGB/wHbsP7FF0Wz1LMr1IRwIZlxM7RpA68ets+VmrrB8eYpSXoO9cZKxwQ3ENAulRd0yoeCByflLFN3CtGBncfAbdA6qIkKbwSOQRPOKlq8eosNTD"
 }
