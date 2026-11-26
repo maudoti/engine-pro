@@ -1,13 +1,23 @@
 {
     "Resolvidos":  628,
     "Conhecimentos":  3305,
-    "Pesquisas":  36696,
-    "N48":  2683,
+    "Pesquisas":  36707,
+    "N48":  2661,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-26 02:51:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 51 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-26 03:00:50",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-26 02:59:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-26 02:43:19",
@@ -16,8 +26,8 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 141 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-26 02:43:18",
@@ -26,23 +36,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 130 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "628 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-26 02:43:18",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Programa fechando com o erro 0xE0434352",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "628 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-26 01:58:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 52 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-25 22:33:38",
@@ -57,55 +57,55 @@
                  ],
     "Horas":  [
                   150,
-                  119,
-                  144,
-                  143,
-                  80,
+                  113,
+                  142,
+                  136,
+                  63,
+                  20,
+                  20,
                   10,
-                  22,
+                  20,
+                  20,
+                  37,
+                  39,
+                  36,
+                  45,
+                  34,
+                  52,
+                  35,
                   18,
-                  20,
-                  20,
-                  10,
-                  52,
-                  50,
-                  26,
-                  53,
-                  52,
-                  33,
-                  20,
                   18,
                   22,
                   30,
-                  130,
-                  171,
-                  169,
-                  191,
-                  136,
-                  112,
-                  113,
+                  173,
+                  133,
+                  230,
+                  137,
+                  158,
+                  100,
+                  91,
                   20,
-                  19,
-                  20,
-                  16,
+                  21,
+                  18,
+                  35,
                   41,
-                  51,
+                  32,
                   46,
-                  41,
-                  20,
+                  56,
+                  5,
                   8,
                   14,
                   16,
                   16,
                   18,
-                  9,
-                  57,
-                  26,
-                  22,
-                  46,
+                  18,
+                  65,
+                  16,
+                  20,
+                  52,
                   62
               ],
-    "Ultima":  "2026-11-26 02:51:46",
-    "Gerado":  "2026-11-26 02:57:04",
-    "Data":  "2026-11-26 02:57"
+    "Ultima":  "2026-11-26 03:00:50",
+    "Gerado":  "2026-11-26 03:07:04",
+    "Data":  "2026-11-26 03:07"
 }
