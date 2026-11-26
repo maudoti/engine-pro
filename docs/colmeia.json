@@ -1,17 +1,17 @@
 {
     "Resolvidos":  626,
-    "Conhecimentos":  3278,
-    "Pesquisas":  36523,
-    "N48":  2952,
+    "Conhecimentos":  3283,
+    "Pesquisas":  36540,
+    "N48":  2969,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 22:46:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-25 22:56:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 53 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 22:33:38",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
+                         "Data":  "2026-11-25 22:49:18",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (42x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 22:21:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Data":  "2026-11-25 22:49:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C5 (DRIVER_CORRUPTED_EXPOOL) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1417 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1434 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-25 22:21:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A0 (INTERNAL_POWER_ERROR) no Windows",
+                         "Data":  "2026-11-25 22:49:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C4 (DRIVER_VERIFIER_DETECTED_VIOLATION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,8 +40,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 22:21:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Data":  "2026-11-25 22:33:38",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      },
                      {
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  12,
-                  128,
-                  124,
-                  145,
-                  162,
-                  130,
+                  20,
                   136,
-                  124,
-                  108,
+                  135,
+                  155,
+                  148,
+                  120,
+                  142,
+                  147,
+                  76,
+                  10,
+                  23,
+                  17,
                   20,
                   20,
-                  20,
-                  19,
-                  20,
-                  11,
-                  52,
-                  25,
-                  51,
+                  12,
+                  50,
+                  50,
+                  26,
                   53,
                   52,
                   33,
                   20,
-                  17,
                   18,
+                  22,
+                  30,
+                  131,
+                  170,
+                  171,
+                  189,
+                  138,
+                  111,
+                  112,
+                  20,
                   19,
-                  140,
-                  156,
-                  141,
-                  215,
-                  132,
-                  134,
-                  113,
-                  17,
-                  29,
                   20,
-                  10,
-                  47,
+                  18,
+                  39,
                   51,
-                  29,
-                  58,
+                  46,
+                  41,
                   20,
-                  4,
                   8,
-                  24,
+                  14,
+                  16,
+                  16,
                   18,
                   9,
-                  18,
-                  40
+                  57
               ],
-    "Ultima":  "2026-11-25 22:46:57",
-    "Gerado":  "2026-11-25 22:47:05",
-    "Data":  "2026-11-25 22:47"
+    "Ultima":  "2026-11-25 22:56:51",
+    "Gerado":  "2026-11-25 22:57:34",
+    "Data":  "2026-11-25 22:57"
 }
