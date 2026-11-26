@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.445",
-    "Instalador":  "EnginePro_Setup_4.50.445.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.445/EnginePro_Setup_4.50.445.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.445/EnginePro_Setup_4.50.445.exe.gz",
-    "SHA256":  "6C5093C873F2B7598F9041EE67C727C1BDE63B3B7AE2E9B692616995E084BAFC",
-    "Data":  "2026-11-25 22:06",
-    "Notas":  "Motor heuristico etapa 1: linha de base de cada maquina, desvio do normal, tendencia a um limite e contagio na frota, com riscos explicados",
-    "Assinatura":  "AzEb0UEl9gyFL1ogqN3dcdQP6Eway0Drp+T3uFZ2B9lBwLEamRTwWqcuspPMkDGxlqB6xZZqjg479QaoQ0tQ91dnlmU4LP2JcZPkYmC8W2PVyR6zv291S83TvNUTRXeOze6e8SRfianyadc+XL523SwH6y/y6t2rHsbZZSda13DXFiGCdzMZ80DyKcQFswvg77W2l0lkaXmKiNzPht1STCN61tOQub2SFi4KEsCxKs0Qg2KM49uBfow6Pdz5H1hfedmOBSfB1t/9v4nQGtdFg/WcmGskY9ClRxA4mWhj+rrPbGtG7fgC3DPFM/AX40LqxpwM8Jg3/AN0xZcG/1W5Bs4CmiQDqXzxgPk5E7L6UgnKOAAXxoeCJ+vjxJJgE7bh5FVPCZjAVaHB9rbqInaUPRxBCBKXTKD5uo939jI7UrdaLYF7POe6GG4QRUQoowOJkhVUyUuBJ+zyBTUGMBF60uhMtz6xDfQYJeFeU7ZtkGbMx2EANxDToT+/Jl4vKehG"
+    "Versao":  "4.50.446",
+    "Instalador":  "EnginePro_Setup_4.50.446.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.446/EnginePro_Setup_4.50.446.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.446/EnginePro_Setup_4.50.446.exe.gz",
+    "SHA256":  "BDFC1324815A21E84DD54611824D98BFC001BBB1853A4E2FB55D4F19366D3DF9",
+    "Data":  "2026-11-25 22:21",
+    "Notas":  "Motor heuristico etapa 2: sequencias precursoras aprendidas da frota, reconhecidas em cada estacao, e correcao da semente pelas regras de selo",
+    "Assinatura":  "MzMbgLlHZLWamXbaosqhhZPpt9JMrdBiRMzL5J6PXyEgqyztojvDNZM7Cj7Wu6ll4gE6lza9P/DE054xqgghjWPmnM6VFgcpN2E7DYs+Kb9jQkrg/5IH/kL/NuOgoZkyUK8Y1nV6MPmTNzVET7+2KXM0ocbAZfVgS+tO+XYZtivd5f4KO/CJyKwPpzJslsukq1VIHSRuoFACkIVhB76gIQU9fiVfn+49UpVPlm2Op7IgdVRVN/z+KKHkj1yp/TZ220DxtpAPYVpIDtHjCSxQ34ZzOXQO9jdA3DYJpyWfwgHGMo2FMSaljDk+9PlDPnNvuI0aF+PE82CCE1NULziOKR4SU+o8qwPcTZ6+g/Q4AXxnk9rjOzGwAMeuFectDHwDmourXNcnOwinTUs/m7gcxDQ3I61cgMCowNA6lCGKPWk2jYifRsTXjgrXwhgomgl5GThOhFUMD8UzRkWZiupmjk/VOmBnmkF7RtbqBiODReQvz1GmK+uN3PvvCmWj67Ac"
 }

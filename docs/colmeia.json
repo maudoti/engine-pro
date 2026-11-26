@@ -1,18 +1,18 @@
 {
     "Resolvidos":  624,
     "Conhecimentos":  3265,
-    "Pesquisas":  36497,
-    "N48":  2936,
+    "Pesquisas":  36515,
+    "N48":  2954,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-25 22:16:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 22:21:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 21:59:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 22:21:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,13 +20,28 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 21:11:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
+                         "Data":  "2026-11-25 22:21:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A0 (INTERNAL_POWER_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1391 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1409 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-25 22:20:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "624 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-25 21:59:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 13 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -35,38 +50,23 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "624 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-25 19:11",
                          "Texto":  "Nova versão 4.50.442 publicada: Correções e melhorias",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-25 15:08:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Disco C",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-25 14:29:32",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Core travou 6 vezes nesta semana",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   20,
-                  48,
-                  142,
-                  147,
-                  163,
+                  70,
+                  120,
+                  152,
+                  172,
                   126,
-                  134,
-                  134,
-                  138,
-                  37,
-                  20,
+                  141,
+                  119,
+                  137,
+                  33,
+                  19,
                   20,
                   20,
                   20,
@@ -79,33 +79,33 @@
                   48,
                   20,
                   18,
-                  11,
-                  21,
-                  61,
-                  148,
-                  161,
-                  201,
-                  179,
-                  118,
-                  123,
-                  61,
+                  20,
                   26,
-                  23,
-                  13,
-                  32,
+                  52,
+                  159,
+                  166,
+                  180,
+                  200,
+                  113,
+                  107,
+                  70,
+                  21,
+                  19,
+                  20,
+                  25,
                   47,
                   51,
                   41,
                   41,
-                  0,
-                  8,
-                  14,
-                  16,
-                  25,
+                  4,
+                  4,
+                  22,
                   9,
-                  23
+                  24,
+                  9,
+                  41
               ],
-    "Ultima":  "2026-11-25 22:16:37",
-    "Gerado":  "2026-11-25 22:17:04",
-    "Data":  "2026-11-25 22:17"
+    "Ultima":  "2026-11-25 22:20:00",
+    "Gerado":  "2026-11-25 22:21:16",
+    "Data":  "2026-11-25 22:21"
 }
