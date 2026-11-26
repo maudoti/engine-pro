@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.450",
-    "Instalador":  "EnginePro_Setup_4.50.450.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.450/EnginePro_Setup_4.50.450.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.450/EnginePro_Setup_4.50.450.exe.gz",
-    "SHA256":  "FF2ABBD097765707EE49385F06E1C959F8719EEA66F493851EBD7F2AE13F5D7C",
-    "Data":  "2026-11-26 00:24",
-    "Notas":  "Canario: reparos com selo de laboratorio do Windows Sandbox rodam sozinhos primeiro nas maquinas do canal Teste e, com resultado real bom, ganham o selo verificado para a frota",
-    "Assinatura":  "OjUJjrk+D17PcwROLx1xb1aKuEXyB/3rzXO4s9Bzj0LbI70fRUvRXubYauS9p+VZ7cJU6J9qbIi9hT1sPTlFL6GDaEkGN8okp1bODdAre4EJnknM+yvYM+1MAUTarEf4nzCqQZNzRxEM2orIWXvFKv7XVCjODPuFepeU/iKS/B060GZ+3ugVCFqCDOedz2bkJKpX7v008QzxLfa7KH13dfUahx6veaEUCs6mCnAlH7EBsvuFha1ClHRr2kS1zjSoCQUxeJucFMSIODCSooaHikja/mZDFMy0lOmMzIP8cnEgzO4md09IjZgcgt4bhSmZdv9uN2b8lZyLDNEYDRRTlT6FCi9JAQQaGADw1NbzITKzYqPDXngNwmzs9dGONDliJ9qqRH1xAT+U5OOiBy+0/Eorie394bSSo3XgEqx7qtLwaXGb6Mc47go0/2QMmrIsAQHNXAttLcPFJp5bVUriizGSGGOgoot36W05nXighYt7AaVRqJEDPlY3RSfgZ1Ug"
+    "Versao":  "4.50.451",
+    "Instalador":  "EnginePro_Setup_4.50.451.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.451/EnginePro_Setup_4.50.451.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.451/EnginePro_Setup_4.50.451.exe.gz",
+    "SHA256":  "DE2F6EC092A073273428B06A459807737538C5A5354FEEE13B23CF35CAFB2A31",
+    "Data":  "2026-11-26 00:36",
+    "Notas":  "Escala de selos por cores dos reparos (cinza, azul, amarelo, verde, vermelho) na janela do TI e no painel do supervisor",
+    "Assinatura":  "p6+eTaiJAtSJNPini4mWFLOdx2lFYZYtgwZLsFsTkzLerlVzYVA6b4t35Df5X77X5z56R/5X9ntpfXFkCnvkA3egNJtPfdgCGpqDvoIZEPhk+YuzYUh2kGEXwMspgmyRBrul0FM1zKUyXTjkE7qAIR27VWqA9d3TzdtXK7mGaDyaF4MUaRHD7DQlBLIM0fCFM8vrZVVfLwOu0HYTZ5t/KGiX569Xn4H3oTI8ubJgmeBnJ5mOD5lMJcNEF1RnRUYXQPRblveYYgxSsX3jjUU7Tp6uJwa9L1XhLVhnp+b6tgQntZfEhDjV4K6eEWNBtrP8WKn32G0egstM8Z5NImXPjR/l33dc5wtMlLd6GUqPKDHv8xt3muQMQID05YJUurYFap9oW7CKQHMT15tEVGm4IplqvKnemV3/K/4ro2VJGczMylzNT2iIO9D7Fbq8lmjMwW3tSPk9uZ5JqoNHy/GTJk9KS7E3g4cuv4HFtnWt/btohxQGrUehyLJaOSyp5diI"
 }
