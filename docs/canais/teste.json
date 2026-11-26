@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.454",
-    "Instalador":  "EnginePro_Setup_4.50.454.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.454/EnginePro_Setup_4.50.454.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.454/EnginePro_Setup_4.50.454.exe.gz",
-    "SHA256":  "A0C7392B5275ED55EEA578BEE0E6436C28E3A967CAA6E39B1400779EB35A9719",
-    "Data":  "2026-11-26 11:37",
-    "Notas":  "Painel inicial como feed de notícias da inteligência (robôs, scripts, rotinas, regras, motor heurístico e laboratório, com cores por sensação) e Ações rápidas em gaveta; ficha de compra da memória na aba Pouca RAM; Status das plataformas e Aplicativos abrem na hora e o site só aparece fora do ar com evidência; textos de outras IAs trocados por camadas de inteligência e fontes comprovadas",
-    "Assinatura":  "BuH1Vap+E6eQMsV1wAj/OXNjOprwtZcInUw2RyyRYj7e0hL/YADfzRPosHye4QP03LZyMUzLxCpvrvW1KCNjRPAkWXcRhrzR5wgVWrw35iltcNlkYjWJBqlOIae9gRGhBr4NZM2vc18SaIWiEt5LWpp70bPkVdyoM+uOmYrci+OiKlytnh3SwW6sXmDJxUTque53+VzYhq7km0dm7eAUgzo/4TBvG/FrTi/8TqCH8j/UJapwuMs7gniYJuhiWcdANuFhbb03leF16dR5xSwLkbY37oNMVlCevM2qMA+FRuXk7BtSzm/GXYVPHcpXUFFGqgpfP8KwGjKydzTohR6f8wzjIyQF8cd5ZHVZ+29vUP+GDnXjrJnPfwP0BXJ90/oNczt3JSMNFuaKcAbMC9W20E3YNUlb/QJZLZgZXuJq7ScbGXQ8dXqRPtUngVuwnymxssKvyJoh8RBAHK8X821otwl8jUOY2XX2yxkyTSGFJJFqfIUH0sO/54s+v7CKvnZ7"
+    "Versao":  "4.50.455",
+    "Instalador":  "EnginePro_Setup_4.50.455.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.455/EnginePro_Setup_4.50.455.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.455/EnginePro_Setup_4.50.455.exe.gz",
+    "SHA256":  "31F0BEEBCFEA706625379745DE3E1DDD5C9986E29E81CEF79F8AEDE1703D5770",
+    "Data":  "2026-11-26 12:53",
+    "Notas":  "Filtro rigoroso de dados sensíveis antes das camadas de inteligência de reserva (senhas, chaves, tokens, CPF, dados bancários, e-mails, nomes de pessoas, nomes de arquivos e conteúdo colado; os caminhos de pasta seguem); o chat não diz mais qual IA respondeu; botão Continuar no Claude, na conta corporativa da pessoa, quando as cotas acabam; feed da tela inicial já abre cheio",
+    "Assinatura":  "tgzBiUmyu5vaSWH1ZEVxfpCcekzfvsi8ctxS/VLjCSQpwr752IzqzeeT0FOy+ASQb8nlg5wdGaEWGrJUNkyafAJ1SR/HZSnSvrhYyKrq3Up6b2FN8sLypx/D7xqvheRs6uYKhLMoWztSoe1cIMnkwfziwvefw5Ff/yEx8RR9FnP0VNsU/BCXmEDLCkiI2yTgwCfjh2+xWFUVO/algilJRfY3/UHjEkmG0mQanZ7Q6T7IJ+522of+UM5vGyTxeDmbDezAx67iE7LtjpgSzBFb1MkJKnvEiZJuknj/GnR5nrqsMIZR3xHzIsNWAO40Afn1fC1s5pHFsWwUn8mzoC4zKcbFLif6kVVzVNKr49f6cnlhuuuwhVqGuaCe8YkqJyaBwPBWjlkOMOV4kh6BcIEHXJ+AAwDFbNWqmVKaqP9Hxz5yKyjoQUbYPQ3UDrl2CVkX6afHTs6b39FdB8wnGotfFSp4vpG5lOHK8DdcWIkBbPTfmNuSaF7vOoQbz3JnnLrJ"
 }
