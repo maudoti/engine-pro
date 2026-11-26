@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.449",
-    "Instalador":  "EnginePro_Setup_4.50.449.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.449/EnginePro_Setup_4.50.449.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.449/EnginePro_Setup_4.50.449.exe.gz",
-    "SHA256":  "3781AB11A255F20390C369D79D4DBA40A17F69AB025B3D1F8FBCF13F4EE7A148",
-    "Data":  "2026-11-26 00:12",
-    "Notas":  "API do Claude bloqueada por padrao (ordem: assinatura, IAs gratuitas, API so liberada pelo TI por prazo); pedidos registrados e aviso diario ao TI",
-    "Assinatura":  "REXZf4EgROUCR5i8rY6c/UOcEz93Vy40mvDRQVmQ0QQRa+wSQLQ92IWTGpmOiB61OrHqvAsdxWW1kFL/MA7mjXumw+/hGiUJjdQXogBTj11mjcU2KTRVSzR0wopAzIDfUM6WFKYG4TZOxXjA4z5TK/qgkuv7F3i7IZTM760A86CT+Ccxc/MsgkJWbDXcjfT0CyKWhsRa0a2G7q2e9t+RkfaxIYX8l1yN0KxPAZVe4WALSvVvO5D/cK8lWVJPdPjKoI4GqWbjS4FiUJnx9NCSgzT6hg4hxD06fAkNzdvP5gzzJ+J4oqeY8vawYCXZc5wjcH0yR5qUWL+naC6wZPjpit2tsnTo6tFtiLbBlskBWwBCqHQ/i/V6qml8nJOcHMZpjoDkRrVKMDDOUe4G9O/eYGGFrLYKP7lp5WjLsixiWW630U82q+JbeT4Z1omNklP3zr6LEmWR33DArSwXx9gZBeJG0sCd/rBui5gbug43gYHGYJSI4SLLkpX0r6GeDrfG"
+    "Versao":  "4.50.450",
+    "Instalador":  "EnginePro_Setup_4.50.450.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.450/EnginePro_Setup_4.50.450.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.450/EnginePro_Setup_4.50.450.exe.gz",
+    "SHA256":  "FF2ABBD097765707EE49385F06E1C959F8719EEA66F493851EBD7F2AE13F5D7C",
+    "Data":  "2026-11-26 00:24",
+    "Notas":  "Canario: reparos com selo de laboratorio do Windows Sandbox rodam sozinhos primeiro nas maquinas do canal Teste e, com resultado real bom, ganham o selo verificado para a frota",
+    "Assinatura":  "OjUJjrk+D17PcwROLx1xb1aKuEXyB/3rzXO4s9Bzj0LbI70fRUvRXubYauS9p+VZ7cJU6J9qbIi9hT1sPTlFL6GDaEkGN8okp1bODdAre4EJnknM+yvYM+1MAUTarEf4nzCqQZNzRxEM2orIWXvFKv7XVCjODPuFepeU/iKS/B060GZ+3ugVCFqCDOedz2bkJKpX7v008QzxLfa7KH13dfUahx6veaEUCs6mCnAlH7EBsvuFha1ClHRr2kS1zjSoCQUxeJucFMSIODCSooaHikja/mZDFMy0lOmMzIP8cnEgzO4md09IjZgcgt4bhSmZdv9uN2b8lZyLDNEYDRRTlT6FCi9JAQQaGADw1NbzITKzYqPDXngNwmzs9dGONDliJ9qqRH1xAT+U5OOiBy+0/Eorie394bSSo3XgEqx7qtLwaXGb6Mc47go0/2QMmrIsAQHNXAttLcPFJp5bVUriizGSGGOgoot36W05nXighYt7AaVRqJEDPlY3RSfgZ1Ug"
 }
