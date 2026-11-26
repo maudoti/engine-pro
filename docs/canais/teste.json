@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.444",
-    "Instalador":  "EnginePro_Setup_4.50.444.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.444/EnginePro_Setup_4.50.444.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.444/EnginePro_Setup_4.50.444.exe.gz",
-    "SHA256":  "F5AC7CEC0F4693DF8E9FB169879E42EF3FC352741C6DA6249EA65D15976531D8",
-    "Data":  "2026-11-25 21:44",
-    "Notas":  "Selo 100% verificado para reparos e estudos que provaram funcionar, com o sucesso semeando estudos de pontos pouco explorados; 60 temas por noite para as duas rodadas da assinatura",
-    "Assinatura":  "GXtLW2mWkE+zQBzGCOlCPa8693qI8I/4wO0wUnA8UGMLC4UmRigca8uEod3yR+b4W+5ujenwDMZ5Wr5+eldC+83AH/Jsj/R9CEIzZlr+cUDyr096GyX80uMEu3202YZ4frPHQXFsuSqDXCJl1L48SrTwZHRdEas69UYwFvt5wSQ/M6aeoHkMaKja+fZZMsa0mrwXtEODyzHIMy2DSl9JzyDmkzpN0hi4BlnVYECFlbXeCP9GfkRlVIyquPBYzXDTcGRkh/shbW56RqXiEmBVpC0isFdZWT2dn1Sw0jKFRcE8q1984vDvdj4uWfvlCStYsSIPMwYEEc0evOuyx+yH+DlIfCOYftAvlQ3KR+Y9G/a75gE829GzPx/9ILNUpWmFkAfAgA/POPav8SQQdGpwA3VQkicopfkZfdq6XKIRLoX/qDk7/IAy/9VRcFB+g7MArNw2/IXP6EmRJK8rau7EkCpcMh1siQEr+F5ugwxFR97R4YR2SjwZ6WmN0LkLh1eU"
+    "Versao":  "4.50.445",
+    "Instalador":  "EnginePro_Setup_4.50.445.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.445/EnginePro_Setup_4.50.445.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.445/EnginePro_Setup_4.50.445.exe.gz",
+    "SHA256":  "6C5093C873F2B7598F9041EE67C727C1BDE63B3B7AE2E9B692616995E084BAFC",
+    "Data":  "2026-11-25 22:06",
+    "Notas":  "Motor heuristico etapa 1: linha de base de cada maquina, desvio do normal, tendencia a um limite e contagio na frota, com riscos explicados",
+    "Assinatura":  "AzEb0UEl9gyFL1ogqN3dcdQP6Eway0Drp+T3uFZ2B9lBwLEamRTwWqcuspPMkDGxlqB6xZZqjg479QaoQ0tQ91dnlmU4LP2JcZPkYmC8W2PVyR6zv291S83TvNUTRXeOze6e8SRfianyadc+XL523SwH6y/y6t2rHsbZZSda13DXFiGCdzMZ80DyKcQFswvg77W2l0lkaXmKiNzPht1STCN61tOQub2SFi4KEsCxKs0Qg2KM49uBfow6Pdz5H1hfedmOBSfB1t/9v4nQGtdFg/WcmGskY9ClRxA4mWhj+rrPbGtG7fgC3DPFM/AX40LqxpwM8Jg3/AN0xZcG/1W5Bs4CmiQDqXzxgPk5E7L6UgnKOAAXxoeCJ+vjxJJgE7bh5FVPCZjAVaHB9rbqInaUPRxBCBKXTKD5uo939jI7UrdaLYF7POe6GG4QRUQoowOJkhVUyUuBJ+zyBTUGMBF60uhMtz6xDfQYJeFeU7ZtkGbMx2EANxDToT+/Jl4vKehG"
 }
