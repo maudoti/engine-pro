@@ -1,17 +1,17 @@
 {
     "Resolvidos":  626,
     "Conhecimentos":  3278,
-    "Pesquisas":  36515,
-    "N48":  2954,
+    "Pesquisas":  36523,
+    "N48":  2952,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-25 22:46:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 36 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-25 22:33:38",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-25 22:21:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,12 +21,12 @@
                      },
                      {
                          "Data":  "2026-11-25 22:21:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 1409 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 1417 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-25 22:20:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-25 22:21:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-25 21:59:53",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  20,
+                  12,
+                  128,
+                  124,
+                  145,
+                  162,
                   130,
-                  119,
-                  129,
-                  168,
-                  111,
-                  160,
-                  123,
-                  119,
+                  136,
+                  124,
+                  108,
                   20,
                   20,
-                  10,
-                  20,
-                  20,
-                  20,
-                  52,
-                  25,
-                  51,
-                  44,
-                  36,
-                  48,
-                  27,
-                  11,
-                  20,
-                  26,
-                  107,
-                  150,
-                  170,
-                  175,
-                  176,
-                  133,
-                  95,
-                  42,
                   20,
                   19,
                   20,
+                  11,
+                  52,
+                  25,
+                  51,
+                  53,
+                  52,
+                  33,
+                  20,
+                  17,
+                  18,
+                  19,
+                  140,
+                  156,
+                  141,
+                  215,
+                  132,
+                  134,
+                  113,
+                  17,
+                  29,
+                  20,
+                  10,
                   47,
-                  39,
-                  37,
-                  62,
+                  51,
+                  29,
+                  58,
                   20,
                   4,
                   8,
+                  24,
                   18,
-                  15,
+                  9,
                   18,
-                  18,
-                  32
+                  40
               ],
-    "Ultima":  "2026-11-25 22:20:00",
-    "Gerado":  "2026-11-25 22:38:27",
-    "Data":  "2026-11-25 22:38"
+    "Ultima":  "2026-11-25 22:46:57",
+    "Gerado":  "2026-11-25 22:47:05",
+    "Data":  "2026-11-25 22:47"
 }
