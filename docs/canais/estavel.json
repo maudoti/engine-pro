@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.459",
-    "Instalador":  "EnginePro_Setup_4.50.459.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.459/EnginePro_Setup_4.50.459.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.459/EnginePro_Setup_4.50.459.exe.gz",
-    "SHA256":  "FF3C08975920A1D374201B49410DCDB4F3ECC2C440E5046857EF64037DB9374D",
-    "Data":  "2026-11-26 15:24",
-    "Notas":  "Quadro da COLMEIA redesenhado: letras maiores, manchete em faixa com barra de tempo, etiquetas com ponto colorido, hora junto da etiqueta, crescimento do dia nos números e favos na largura toda com legenda",
-    "Assinatura":  "ClsVgsZde5Spakk0mOr0sUFN+v7odjFEBp1N0J9Bgz1gIpxQvT55IvZAz/TasPU859LchCMq3G/X2aqeIvNFHxLIfG8Hh/EKnplCSaMjVdSC0oy2fBdSVY9zN/5dr3OyJumXvw/yy4aE5acIwxWEk7Oww9aKM6+HRErHrO6ZtRWTTwTkPjVgNimtLSN1ARXgEDomTzj+0x3pe3TJj1oN1p9dIkek/Fw2qEiIYA3P5gYJc43ujYmRgn9y9tpRiDcn7AYUSj44PCulMXJCTIWQv57pCmkmDLbkIKO0foF8s9zpnjxYTJpkLHOjp//UnG6EszyQcgHAPrf3AhWjwp3/w2swjGX/YRadQ8RaQ8//Yc2OyYfuJ8H0Xk8M0niwMPfYBPTQ8zdYHWpzVWOdGGNihDg0irOQ438L9IvZouwbe8J39naOBMegvFt7AsvtAlxx/6sVufos2T8gmWhk0al88sw3LI0R0sk40XiAInEuJWpXWvM1TyY3shWaO3bEidm8"
+    "Versao":  "4.50.460",
+    "Instalador":  "EnginePro_Setup_4.50.460.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.460/EnginePro_Setup_4.50.460.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.460/EnginePro_Setup_4.50.460.exe.gz",
+    "SHA256":  "F45D25047255DF2EE864AED12DA2F05A2FF0DD880FD43211315535487C05EED7",
+    "Data":  "2026-11-26 17:14",
+    "Notas":  "Feed da tela inicial: etiquetas em pílula suave, 8 segundos por frase e sem frases repetidas; Aplicativos com AutoCAD LT, AutoCAD, Civil 3D, Revit, Navisworks e Autodesk Access; Quarentena volta a andar sem esperar o editor-chefe à toa e os casos reais são estudados pela assinatura (até 20 por dia), sem serem marcados como estudados antes do estudo",
+    "Assinatura":  "kTydfaFX0HLyGK4lW6coMd56LPCpMnAMv4jl/4AOXtLBRLiXLfV5GC/nSTvbvN+FrZUdrx4w8aYtRxUrNr4yZ5cdHwPhL4BLRKk9huEr7I8pXjOfJ8WMsIO4C63iTt9J0hOCK6lezfqJCeW6Oi1FD+E+adYpvVcq4SpMsn5enbrQHcpP7Zol4BeDGqpa2KlSuH14BD/FV612CrWLVpvWe4TQAD0H3i5tdG6DXOKYMKU73sIu2r6HkY5WeJUd/8UY8iB35STz3ovwS74GfZoDx56nq7efx622Z6RBzKZrts4SE8FMzsFrc83IPuGbMBHe68Wz6BIeQYpqj1SBRtziFm7qgzHHW6GnI+6u4YI7biI1AUe87Ry9aPfBQB5n+K5k0krbWx2et7DKVYtD7RMZncUBOhUvSQSepLQVvhFRcq1bojD1IP9HCYBXjpNp5ok6FOkKSmIyddL3XWllc1Q5rbJyDRLJm+VdV/Urq2ADaDotGlugdOtgClBWcAZ+UIXD"
 }
