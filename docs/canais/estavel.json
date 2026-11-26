@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.460",
-    "Instalador":  "EnginePro_Setup_4.50.460.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.460/EnginePro_Setup_4.50.460.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.460/EnginePro_Setup_4.50.460.exe.gz",
-    "SHA256":  "F45D25047255DF2EE864AED12DA2F05A2FF0DD880FD43211315535487C05EED7",
-    "Data":  "2026-11-26 17:14",
-    "Notas":  "Feed da tela inicial: etiquetas em pílula suave, 8 segundos por frase e sem frases repetidas; Aplicativos com AutoCAD LT, AutoCAD, Civil 3D, Revit, Navisworks e Autodesk Access; Quarentena volta a andar sem esperar o editor-chefe à toa e os casos reais são estudados pela assinatura (até 20 por dia), sem serem marcados como estudados antes do estudo",
-    "Assinatura":  "kTydfaFX0HLyGK4lW6coMd56LPCpMnAMv4jl/4AOXtLBRLiXLfV5GC/nSTvbvN+FrZUdrx4w8aYtRxUrNr4yZ5cdHwPhL4BLRKk9huEr7I8pXjOfJ8WMsIO4C63iTt9J0hOCK6lezfqJCeW6Oi1FD+E+adYpvVcq4SpMsn5enbrQHcpP7Zol4BeDGqpa2KlSuH14BD/FV612CrWLVpvWe4TQAD0H3i5tdG6DXOKYMKU73sIu2r6HkY5WeJUd/8UY8iB35STz3ovwS74GfZoDx56nq7efx622Z6RBzKZrts4SE8FMzsFrc83IPuGbMBHe68Wz6BIeQYpqj1SBRtziFm7qgzHHW6GnI+6u4YI7biI1AUe87Ry9aPfBQB5n+K5k0krbWx2et7DKVYtD7RMZncUBOhUvSQSepLQVvhFRcq1bojD1IP9HCYBXjpNp5ok6FOkKSmIyddL3XWllc1Q5rbJyDRLJm+VdV/Urq2ADaDotGlugdOtgClBWcAZ+UIXD"
+    "Versao":  "4.50.461",
+    "Instalador":  "EnginePro_Setup_4.50.461.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.461/EnginePro_Setup_4.50.461.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.461/EnginePro_Setup_4.50.461.exe.gz",
+    "SHA256":  "BFA8CF677A38AD5A1305CE4678E80E61C93121BD42ACE2A4170EA67F6132395A",
+    "Data":  "2026-11-26 17:56",
+    "Notas":  "Feed da tela inicial: um aviso só de memória (sem repetir RAM), 26 frases sobre o time sorteadas para não repetir, textos corrigidos, horário em toda linha e alertas em vermelho e âmbar também no feed; Quarentena: os 10 casos arquivados como estudados sem estudo voltam para a fila e são estudados pela assinatura",
+    "Assinatura":  "jFlqQcxF1a2Xn++eR3OioZlsNWndaLiOPvaqYXFogCIRbgUEoBUbTwoykPA1QV6W3df1GVqTSJYKkAmmMwX7pp0tW6z6/4xgS4em2pszd6yAgeI6H4CB9EkrUGIhpRT/5S1J5NdnODHO20+X7KzPPQJ1ZOst++kDCya1RIdkCUJIUcHUpM5hc0382jqEJU6cHm06KUoCe1/uAIeZKS0RGMvgK8jMYjGstLKZCL/9lwXYAd7TQmdZAZfSwlt3Cq6o5I4bMWiZrGg96ydBGhdxut+esJUIHGx3Q8CoxPSN08jVtQ25pVOoZLPan9K/nWtOlkrtg5q15IC0qIgjM5h5882al+SK7dH6yEKIRRRZ6fwi+lhmXX+vN+4tAA39lXqxo1GCnkmY2jVFGYas3XNH4A8FIqDLpevbvh8r62GsXA8tjzGdGXCmSHMLw3R21qRlR3PVZoxC6VUldPywHDEoupPsQV7ZCaatHNsnqv2G8DLhHksv4P2q9jnCX6sH8GH0"
 }
