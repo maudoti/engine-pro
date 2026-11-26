@@ -1,13 +1,23 @@
 {
     "Resolvidos":  656,
     "Conhecimentos":  3347,
-    "Pesquisas":  36891,
-    "N48":  1873,
+    "Pesquisas":  36895,
+    "N48":  1869,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-26 20:12:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-26 19:47",
                          "Texto":  "Nova versão 4.50.462 publicada: Correções e melhorias",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-26 19:46:32",
@@ -16,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 325 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 329 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -35,11 +45,6 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-26 18:45:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-26 18:13:27",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (7x em 7 dias)",
                          "Nivel":  "ok"
@@ -51,49 +56,48 @@
                      },
                      {
                          "Data":  "2026-11-26 10:26:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: DIAGNÓSTICO POR EVENTOS (o que foi firmado nesta rodada)",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
                   18,
-                  18,
-                  22,
-                  30,
-                  173,
-                  133,
-                  230,
-                  137,
-                  158,
-                  100,
-                  91,
-                  20,
+                  11,
                   21,
-                  18,
-                  35,
-                  41,
+                  60,
+                  149,
+                  161,
+                  201,
+                  178,
+                  118,
+                  124,
+                  61,
+                  25,
+                  24,
+                  13,
                   32,
-                  46,
-                  56,
-                  5,
+                  47,
+                  51,
+                  41,
+                  41,
+                  0,
                   8,
                   14,
                   16,
-                  16,
-                  18,
-                  18,
-                  65,
-                  16,
-                  20,
-                  52,
-                  62,
-                  49,
-                  49,
+                  25,
+                  9,
                   24,
+                  59,
                   16,
-                  12,
+                  30,
+                  50,
+                  55,
+                  59,
+                  45,
+                  21,
+                  16,
                   8,
-                  1,
+                  9,
                   0,
                   0,
                   0,
@@ -101,11 +105,12 @@
                   0,
                   0,
                   0,
-                  5,
+                  0,
                   10,
+                  9,
                   10
               ],
-    "Ultima":  "2026-11-26 19:46:32",
-    "Gerado":  "2026-11-26 20:07:04",
-    "Data":  "2026-11-26 20:07"
+    "Ultima":  "2026-11-26 20:12:34",
+    "Gerado":  "2026-11-26 20:16:59",
+    "Data":  "2026-11-26 20:17"
 }
