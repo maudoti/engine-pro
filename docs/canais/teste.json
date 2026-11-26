@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.456",
-    "Instalador":  "EnginePro_Setup_4.50.456.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.456/EnginePro_Setup_4.50.456.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.456/EnginePro_Setup_4.50.456.exe.gz",
-    "SHA256":  "45D5FD2926B4AFA141383C2654BF84B408BBF98954205E2C62CA3404EFC50B85",
-    "Data":  "2026-11-26 13:20",
-    "Notas":  "Feed da tela inicial: cada frase fica 11 segundos na tela, para dar tempo de ler",
-    "Assinatura":  "FWYYrMUYaPyTMjgkj/p+y3n0fg6ea5Uc9BVXpRU3uIbvQhSeGZrPq43YD+9nhr/J8tjrjZgJVVcN7Hlx5I7nVnRyoLOuHnjxcvT7GPdtLGXAgUSk+boRN7tWmTsblTC8LE0pb77B/kunreFExNf6AhoM+ZCvBG63i4+hfTkYz/HgIWLsIfXZm7Gf2fB9vgtO/pkc/3T6S+G6M7jfxiAdY13JWrQoLYpmXo+oZZS0ExXl87mmwZICGPwEY5ZUWaVoL6WFc1f1jQHIE0ICkTf1N34Cbwpzq/IHQmvX38LnSmXE62GvFJDutHFfj5QO0ZZ5isia7I9EQJ/1oDoAaUjw8Xse+OsHsX4iOYOBZUbMJVLI8uslrE2Q/ewWQTV3U9CR+t4ymVdwMNxSper4qQ0U/bwIVp6U19IIRcwC/BLgdSDNECNRWS/X86lMUfZw8d5ehdYsUgKpu/Zal3t6X9iqKl81kKhTN30YAnIU2m97/OrilIgYs7fwUvlra89nMD21"
+    "Versao":  "4.50.457",
+    "Instalador":  "EnginePro_Setup_4.50.457.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.457/EnginePro_Setup_4.50.457.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.457/EnginePro_Setup_4.50.457.exe.gz",
+    "SHA256":  "0D1CE3284086A8EAF3A77E4E47EC782DFE9F5A9150DEA659357356B44CDAF28B",
+    "Data":  "2026-11-26 14:25",
+    "Notas":  "Feed da tela inicial: uma frase só sobre o motor heurístico (antes apareciam duas seguidas): sensor de alta precisão que estuda o comportamento de máquinas e programas com base em situações reais e avisa ou resolve antes da falha",
+    "Assinatura":  "VMugsLnevIP4QnRDSARDzofpqIcbBUDZJRN9bdExRpyQL1rmfkcPbxFUbkrjq2pHgjWR8UxB/kvx2SOYfJzeHhz/YwQmILKn0QODE1bvzo8ZXP7KNlhgby0LDbUu4JX4MziAZJITam9rppCcO5mDtqy2kKi4Ipa0ozXKnhs/6lF1GBAh9ZRdObY1p7wi2LkBx0dgOuV5mlfUZXOhgBc0DmkWdsII9p8nOagrCs6ul510TmlA4roY3pBNd6DlfZGAvIVPQQie9+wYrnurcDQP6Ooa1fdpx0+CtL37FYCxie9bO+wGYbCSv3ohxfqX53NahywG1Hy5sbXEoQ5KxFrWnzF2694lkDDpfJHxnatCcCyNSW22Zkyx0SFGclX4yj/gLlFnQg1hMtsRbjOBywVafMjhFRuJWB9dHgqxl95fn2B6quj+AxVZI9c+pAxfPwrR009HheLXSnepQToi86pnhzdJ5ZCUWEisge5KQ88XGVGVB4MwRfGpfXO/47Js4toZ"
 }
