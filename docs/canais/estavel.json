@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.458",
-    "Instalador":  "EnginePro_Setup_4.50.458.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.458/EnginePro_Setup_4.50.458.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.458/EnginePro_Setup_4.50.458.exe.gz",
-    "SHA256":  "69B4BCF5D40C3EF7C4BCD59FD6A95C8F978360E564885135BD2EBDD8AD84817F",
-    "Data":  "2026-11-26 14:45",
-    "Notas":  "Feed da tela inicial sem espaço vazio ao abrir (mostra as últimas notícias guardadas); Avisar o TI deixa a IA tentar resolver primeiro e o chamado fica no botão Enviar ao TI",
-    "Assinatura":  "Aa9DxBDiycsD7TWNL04WrydfLa4XhW/vKHzHVxUdst8BTDRrK2JWyTrtvwl7DuZe2njKn2ag1YIcLhRovzbTpFeDQcsVJTH3bXT9sGwoFoaxByE8JLNegwzRkqQnODZDO8QTCcBBS+0XxNxw+XAUImG1tfYuSyQGo5lhmS1g0DIV7j41RQPR+XSAXh5mdQwdEYR0HE8PlOorFyjqrOBvjPGZ82LDDN9rS3ESuGIwXmnyylakrjhSFLAi40t5SKJfLHTIrL+87Z6zuKEJYhC1fRf8s7NE5TtzVmPmg0uVF3C6yNa+LhgLC/wQXebZXJbTOSSQ37hpiWpaJHIlMlpHad/jzhF/cAoeBwlU6eVdZFXfkQZrIW0tuaRTU+QENMk38RQSWLbxIRwIe1bXVDEQyY3DyVfN3FPsWRNQyxc9/8nmNlZUQsdCbZCdSnt1o5oGIUt/WNGQHDWpeCLVFjhZYxCilaysAd5fDyEYCoRAPKlKzZl8O5afiguVLlHJdoqO"
+    "Versao":  "4.50.459",
+    "Instalador":  "EnginePro_Setup_4.50.459.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.459/EnginePro_Setup_4.50.459.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.459/EnginePro_Setup_4.50.459.exe.gz",
+    "SHA256":  "FF3C08975920A1D374201B49410DCDB4F3ECC2C440E5046857EF64037DB9374D",
+    "Data":  "2026-11-26 15:24",
+    "Notas":  "Quadro da COLMEIA redesenhado: letras maiores, manchete em faixa com barra de tempo, etiquetas com ponto colorido, hora junto da etiqueta, crescimento do dia nos números e favos na largura toda com legenda",
+    "Assinatura":  "ClsVgsZde5Spakk0mOr0sUFN+v7odjFEBp1N0J9Bgz1gIpxQvT55IvZAz/TasPU859LchCMq3G/X2aqeIvNFHxLIfG8Hh/EKnplCSaMjVdSC0oy2fBdSVY9zN/5dr3OyJumXvw/yy4aE5acIwxWEk7Oww9aKM6+HRErHrO6ZtRWTTwTkPjVgNimtLSN1ARXgEDomTzj+0x3pe3TJj1oN1p9dIkek/Fw2qEiIYA3P5gYJc43ujYmRgn9y9tpRiDcn7AYUSj44PCulMXJCTIWQv57pCmkmDLbkIKO0foF8s9zpnjxYTJpkLHOjp//UnG6EszyQcgHAPrf3AhWjwp3/w2swjGX/YRadQ8RaQ8//Yc2OyYfuJ8H0Xk8M0niwMPfYBPTQ8zdYHWpzVWOdGGNihDg0irOQ438L9IvZouwbe8J39naOBMegvFt7AsvtAlxx/6sVufos2T8gmWhk0al88sw3LI0R0sk40XiAInEuJWpXWvM1TyY3shWaO3bEidm8"
 }
