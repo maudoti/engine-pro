@@ -1,5 +1,16 @@
 [
     {
+        "Versao":  "4.50.453",
+        "Data":  "2026-11-26 10:00",
+        "Titulo":  "Correções e melhorias",
+        "Itens":  [
+                      {
+                          "Tipo":  "melhoria",
+                          "Texto":  "Correções e melhorias de estabilidade e segurança."
+                      }
+                  ]
+    },
+    {
         "Versao":  "4.50.452",
         "Data":  "2026-11-26 09:49",
         "Titulo":  "Correções e melhorias",
@@ -145,17 +156,6 @@
     {
         "Versao":  "4.50.439",
         "Data":  "2026-11-25 16:21",
-        "Titulo":  "Correções e melhorias",
-        "Itens":  [
-                      {
-                          "Tipo":  "melhoria",
-                          "Texto":  "Correções e melhorias de estabilidade e segurança."
-                      }
-                  ]
-    },
-    {
-        "Versao":  "4.50.438",
-        "Data":  "2026-11-25 15:46",
         "Titulo":  "Correções e melhorias",
         "Itens":  [
                       {
