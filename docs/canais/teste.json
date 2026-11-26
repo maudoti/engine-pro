@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.451",
-    "Instalador":  "EnginePro_Setup_4.50.451.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.451/EnginePro_Setup_4.50.451.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.451/EnginePro_Setup_4.50.451.exe.gz",
-    "SHA256":  "DE2F6EC092A073273428B06A459807737538C5A5354FEEE13B23CF35CAFB2A31",
-    "Data":  "2026-11-26 00:36",
-    "Notas":  "Escala de selos por cores dos reparos (cinza, azul, amarelo, verde, vermelho) na janela do TI e no painel do supervisor",
-    "Assinatura":  "p6+eTaiJAtSJNPini4mWFLOdx2lFYZYtgwZLsFsTkzLerlVzYVA6b4t35Df5X77X5z56R/5X9ntpfXFkCnvkA3egNJtPfdgCGpqDvoIZEPhk+YuzYUh2kGEXwMspgmyRBrul0FM1zKUyXTjkE7qAIR27VWqA9d3TzdtXK7mGaDyaF4MUaRHD7DQlBLIM0fCFM8vrZVVfLwOu0HYTZ5t/KGiX569Xn4H3oTI8ubJgmeBnJ5mOD5lMJcNEF1RnRUYXQPRblveYYgxSsX3jjUU7Tp6uJwa9L1XhLVhnp+b6tgQntZfEhDjV4K6eEWNBtrP8WKn32G0egstM8Z5NImXPjR/l33dc5wtMlLd6GUqPKDHv8xt3muQMQID05YJUurYFap9oW7CKQHMT15tEVGm4IplqvKnemV3/K/4ro2VJGczMylzNT2iIO9D7Fbq8lmjMwW3tSPk9uZ5JqoNHy/GTJk9KS7E3g4cuv4HFtnWt/btohxQGrUehyLJaOSyp5diI"
+    "Versao":  "4.50.452",
+    "Instalador":  "EnginePro_Setup_4.50.452.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.452/EnginePro_Setup_4.50.452.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.452/EnginePro_Setup_4.50.452.exe.gz",
+    "SHA256":  "078738F717B340D45BD11D1BDD1550C0736C33463C2BD4D60F90CCD7B22A8C49",
+    "Data":  "2026-11-26 09:49",
+    "Notas":  "Correcoes aprovadas por 3x0 no Conselho da COLMEIA (ingestao dos estudos, relogio do dominio fora do escritorio, ponte da assinatura) e conserto da ponte: assinatura como caminho padrao do editor-chefe e da conferencia, pasta reserva no OneDrive, pedidos de estudo antigos",
+    "Assinatura":  "N9H2NOTqeqSwxNLIyWnxiVdyqwBqUZiXe7h55FwGEY9PSWu4V46bc2Qn4GB+3tSIvHpRDRZky+HnZh8isvITXyYw+KmCc5eca1MWpZcxgUrNmsdbg62W3UnIRy5uHz+7D6+NTkOhSdcqcHUYyC+7lMl70/IP0/7gUBJWQD2UiJtdr5767ne1SzASp4E+bHTrxUKwkeOsug48Bos8yrKc3NabD+brpTdbPPT/jdSd0ZGNp9fL/sjrM9mJHgAFIVnIFwIJrVY79ttVp3kDWdNYvuP0TcLgDv/xqF4m/sI3rDJjnkAFkiP/PcvZiO5XVvcnBy+KgQ8hipU+Skm79a1WPa5T+SnBRZVLTsexjZCi9lI3cVU2SC6fRIp/cSxBCM0G6XrlRKVHOl3THQ2h9YafTF4cQwbVyHW1lbovCZ5q1Z5tXW3z6EbH3ze7y/qguBWwm0oBhdl+6qDrPzY1zm5cbWitf3wGSQCXXRd4UrOr4d50qPa6jgxeQwZeGZXtL8U4"
 }
