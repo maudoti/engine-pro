@@ -1,18 +1,18 @@
 {
     "Resolvidos":  631,
-    "Conhecimentos":  3305,
-    "Pesquisas":  36736,
-    "N48":  2594,
+    "Conhecimentos":  3320,
+    "Pesquisas":  36747,
+    "N48":  2583,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-26 03:33:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 35 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-26 03:56:51",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 46 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-26 02:59:56",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-26 03:50:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-26 02:43:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (evento 1129)",
+                         "Data":  "2026-11-26 03:50:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 170 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 181 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-26 02:43:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Tela azul 0x00000133 DPC_WATCHDOG_VIOLATION",
+                         "Data":  "2026-11-26 03:50:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão: Impressão em branco ou com texto estranho após atualização, defeito...",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-26 02:43:18",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Programa fechando com o erro 0xE0434352",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-26 02:59:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 56 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-25 22:33:38",
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  130,
-                  136,
-                  124,
-                  108,
+                  119,
+                  144,
+                  143,
+                  80,
+                  10,
+                  22,
+                  18,
                   20,
                   20,
-                  20,
-                  19,
-                  20,
-                  11,
+                  10,
                   52,
-                  26,
                   50,
+                  26,
                   53,
                   52,
                   33,
                   20,
-                  17,
                   18,
-                  19,
-                  140,
-                  156,
-                  141,
-                  215,
-                  132,
-                  134,
+                  22,
+                  30,
+                  130,
+                  171,
+                  169,
+                  191,
+                  136,
+                  112,
                   113,
-                  17,
-                  29,
                   20,
-                  10,
-                  47,
+                  19,
+                  20,
+                  16,
+                  41,
                   51,
-                  29,
-                  58,
+                  46,
+                  41,
                   20,
-                  4,
                   8,
-                  24,
+                  14,
+                  16,
+                  16,
                   18,
                   9,
-                  18,
-                  41,
-                  42,
-                  13,
-                  50,
-                  56,
+                  57,
+                  26,
+                  22,
+                  46,
+                  62,
                   51
               ],
-    "Ultima":  "2026-11-26 03:33:38",
-    "Gerado":  "2026-11-26 03:47:06",
-    "Data":  "2026-11-26 03:47"
+    "Ultima":  "2026-11-26 03:56:51",
+    "Gerado":  "2026-11-26 03:57:05",
+    "Data":  "2026-11-26 03:57"
 }
