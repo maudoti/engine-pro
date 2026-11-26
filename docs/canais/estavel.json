@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.455",
-    "Instalador":  "EnginePro_Setup_4.50.455.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.455/EnginePro_Setup_4.50.455.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.455/EnginePro_Setup_4.50.455.exe.gz",
-    "SHA256":  "31F0BEEBCFEA706625379745DE3E1DDD5C9986E29E81CEF79F8AEDE1703D5770",
-    "Data":  "2026-11-26 12:53",
-    "Notas":  "Filtro rigoroso de dados sensíveis antes das camadas de inteligência de reserva (senhas, chaves, tokens, CPF, dados bancários, e-mails, nomes de pessoas, nomes de arquivos e conteúdo colado; os caminhos de pasta seguem); o chat não diz mais qual IA respondeu; botão Continuar no Claude, na conta corporativa da pessoa, quando as cotas acabam; feed da tela inicial já abre cheio",
-    "Assinatura":  "tgzBiUmyu5vaSWH1ZEVxfpCcekzfvsi8ctxS/VLjCSQpwr752IzqzeeT0FOy+ASQb8nlg5wdGaEWGrJUNkyafAJ1SR/HZSnSvrhYyKrq3Up6b2FN8sLypx/D7xqvheRs6uYKhLMoWztSoe1cIMnkwfziwvefw5Ff/yEx8RR9FnP0VNsU/BCXmEDLCkiI2yTgwCfjh2+xWFUVO/algilJRfY3/UHjEkmG0mQanZ7Q6T7IJ+522of+UM5vGyTxeDmbDezAx67iE7LtjpgSzBFb1MkJKnvEiZJuknj/GnR5nrqsMIZR3xHzIsNWAO40Afn1fC1s5pHFsWwUn8mzoC4zKcbFLif6kVVzVNKr49f6cnlhuuuwhVqGuaCe8YkqJyaBwPBWjlkOMOV4kh6BcIEHXJ+AAwDFbNWqmVKaqP9Hxz5yKyjoQUbYPQ3UDrl2CVkX6afHTs6b39FdB8wnGotfFSp4vpG5lOHK8DdcWIkBbPTfmNuSaF7vOoQbz3JnnLrJ"
+    "Versao":  "4.50.457",
+    "Instalador":  "EnginePro_Setup_4.50.457.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.457/EnginePro_Setup_4.50.457.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.457/EnginePro_Setup_4.50.457.exe.gz",
+    "SHA256":  "0D1CE3284086A8EAF3A77E4E47EC782DFE9F5A9150DEA659357356B44CDAF28B",
+    "Data":  "2026-11-26 14:25",
+    "Notas":  "Feed da tela inicial: uma frase só sobre o motor heurístico (antes apareciam duas seguidas): sensor de alta precisão que estuda o comportamento de máquinas e programas com base em situações reais e avisa ou resolve antes da falha",
+    "Assinatura":  "VMugsLnevIP4QnRDSARDzofpqIcbBUDZJRN9bdExRpyQL1rmfkcPbxFUbkrjq2pHgjWR8UxB/kvx2SOYfJzeHhz/YwQmILKn0QODE1bvzo8ZXP7KNlhgby0LDbUu4JX4MziAZJITam9rppCcO5mDtqy2kKi4Ipa0ozXKnhs/6lF1GBAh9ZRdObY1p7wi2LkBx0dgOuV5mlfUZXOhgBc0DmkWdsII9p8nOagrCs6ul510TmlA4roY3pBNd6DlfZGAvIVPQQie9+wYrnurcDQP6Ooa1fdpx0+CtL37FYCxie9bO+wGYbCSv3ohxfqX53NahywG1Hy5sbXEoQ5KxFrWnzF2694lkDDpfJHxnatCcCyNSW22Zkyx0SFGclX4yj/gLlFnQg1hMtsRbjOBywVafMjhFRuJWB9dHgqxl95fn2B6quj+AxVZI9c+pAxfPwrR009HheLXSnepQToi86pnhzdJ5ZCUWEisge5KQ88XGVGVB4MwRfGpfXO/47Js4toZ"
 }
