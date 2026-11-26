@@ -1,10 +1,10 @@
 {
-    "Versao":  "4.50.453",
-    "Instalador":  "EnginePro_Setup_4.50.453.exe",
-    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.453/EnginePro_Setup_4.50.453.exe",
-    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.453/EnginePro_Setup_4.50.453.exe.gz",
-    "SHA256":  "60E4050FB6ED8CB5926450FEFC3BCAC020DF9EBA6C3377FE604680A28A0A92F7",
-    "Data":  "2026-11-26 10:00",
-    "Notas":  "Acentos certos na saida do DISM e de outras ferramentas do Windows no Em execucao",
-    "Assinatura":  "dk9z62Tq5UAegQakq3dQxjRlRGx15cRQjnuN2VxKQDt3cimwZLfeBkx4jvkpYwHVl6Lkgh5DRG1v0PBmhXD2ZzE88iWBb8cVNI/Mq+XoItVL9gx8w2mQl4WzVKUQ34PzMgcG6kU4stj5j6Qs3gz/4yiSvwlwbp2oeTYR1fNczzfJTIki6E0qSBhG5YIBHq32vzY/FId84D7O4DDJThbLQPfCsE8jHETjpwETT7gKFpkztyJfB25ZLM7mOoxvEfXgpbOhueqHmI+N+86ACdb7LfpTnPiEULJyBRKi1FTNrhwP+A0l/fzNpv8I5L+ro3vhnLSTbj2Koubi7Y/sjvFlPwB28ORsGioxwPSn1Dkps7fhF3FvSh2crDSlAf50n02t2slz6V6lS0I7jgcP633/9aHO2UFbDYD3Jz46SbnVD1JMwJ1BWMebf2mssevzsVxR7yMLvJfELl+Tfg+dPRyl+0weYRIavGmCvSgoGWJb2867B8u6qrOdW1LNUHVa+4zg"
+    "Versao":  "4.50.454",
+    "Instalador":  "EnginePro_Setup_4.50.454.exe",
+    "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.454/EnginePro_Setup_4.50.454.exe",
+    "UrlGz":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.454/EnginePro_Setup_4.50.454.exe.gz",
+    "SHA256":  "A0C7392B5275ED55EEA578BEE0E6436C28E3A967CAA6E39B1400779EB35A9719",
+    "Data":  "2026-11-26 11:37",
+    "Notas":  "Painel inicial como feed de notícias da inteligência (robôs, scripts, rotinas, regras, motor heurístico e laboratório, com cores por sensação) e Ações rápidas em gaveta; ficha de compra da memória na aba Pouca RAM; Status das plataformas e Aplicativos abrem na hora e o site só aparece fora do ar com evidência; textos de outras IAs trocados por camadas de inteligência e fontes comprovadas",
+    "Assinatura":  "BuH1Vap+E6eQMsV1wAj/OXNjOprwtZcInUw2RyyRYj7e0hL/YADfzRPosHye4QP03LZyMUzLxCpvrvW1KCNjRPAkWXcRhrzR5wgVWrw35iltcNlkYjWJBqlOIae9gRGhBr4NZM2vc18SaIWiEt5LWpp70bPkVdyoM+uOmYrci+OiKlytnh3SwW6sXmDJxUTque53+VzYhq7km0dm7eAUgzo/4TBvG/FrTi/8TqCH8j/UJapwuMs7gniYJuhiWcdANuFhbb03leF16dR5xSwLkbY37oNMVlCevM2qMA+FRuXk7BtSzm/GXYVPHcpXUFFGqgpfP8KwGjKydzTohR6f8wzjIyQF8cd5ZHVZ+29vUP+GDnXjrJnPfwP0BXJ90/oNczt3JSMNFuaKcAbMC9W20E3YNUlb/QJZLZgZXuJq7ScbGXQ8dXqRPtUngVuwnymxssKvyJoh8RBAHK8X821otwl8jUOY2XX2yxkyTSGFJJFqfIUH0sO/54s+v7CKvnZ7"
 }
