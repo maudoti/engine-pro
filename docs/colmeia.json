@@ -1,22 +1,47 @@
 {
     "Resolvidos":  676,
-    "Conhecimentos":  3439,
-    "Pesquisas":  37216,
-    "N48":  947,
+    "Conhecimentos":  3442,
+    "Pesquisas":  37221,
+    "N48":  952,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 11:34:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000BE (ATTEMPTED_WRITE_TO_READONLY_MEMORY) no Windows",
+                         "Data":  "2026-11-27 12:12:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como corrigir o erro 0x0000011b ao conectar em impressora compartilhada após...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 11:34:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C2 (BAD_POOL_CALLER) no Windows",
+                         "Data":  "2026-11-27 12:11:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como usar o Driver Verifier para identificar o driver causador da tela azul I...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 284 pesquisas em bases técnicas",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-27 12:10:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 5 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 289 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-27 12:10:34",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "676 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-27 12:09",
+                         "Texto":  "Nova versão 4.50.476 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
@@ -25,28 +50,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "676 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-27 11:32:31",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 5 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-27 11:32:31",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-27 10:55:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-27 10:40",
-                         "Texto":  "Nova versão 4.50.474 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
@@ -56,28 +61,27 @@
                      }
                  ],
     "Horas":  [
-                  26,
-                  46,
-                  61,
+                  51,
+                  41,
+                  41,
                   0,
                   8,
                   14,
                   16,
+                  25,
+                  9,
+                  24,
+                  59,
                   16,
-                  18,
-                  18,
-                  65,
+                  30,
+                  50,
+                  55,
+                  59,
+                  45,
+                  21,
                   16,
-                  20,
-                  52,
-                  62,
-                  56,
-                  42,
-                  28,
-                  12,
-                  12,
                   8,
-                  1,
+                  9,
                   0,
                   0,
                   0,
@@ -85,27 +89,28 @@
                   0,
                   0,
                   0,
-                  5,
-                  10,
+                  0,
                   10,
                   9,
-                  4,
-                  8,
-                  28,
-                  41,
-                  12,
                   10,
+                  6,
+                  7,
+                  19,
+                  47,
+                  11,
                   12,
-                  34,
-                  20,
-                  113,
+                  6,
+                  12,
+                  42,
+                  16,
+                  109,
                   7,
                   6,
                   8,
                   8,
-                  5
+                  10
               ],
-    "Ultima":  "2026-11-27 11:32:31",
-    "Gerado":  "2026-11-27 12:08:36",
-    "Data":  "2026-11-27 12:08"
+    "Ultima":  "2026-11-27 12:10:34",
+    "Gerado":  "2026-11-27 12:17:04",
+    "Data":  "2026-11-27 12:17"
 }
