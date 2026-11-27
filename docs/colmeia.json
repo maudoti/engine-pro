@@ -5,13 +5,13 @@
     "N48":  1049,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 15:49:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 99 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 15:53",
+                         "Texto":  "Nova versão 4.50.482 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 15:48:40",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Data":  "2026-11-27 15:49:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 99 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 15:45:09",
-                         "Texto":  "Outras camadas de inteligência confirmaram em fontes comprovadas: uma solução nova foi para aprovação",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 15:48:40",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 15:11",
-                         "Texto":  "Nova versão 4.50.481 publicada: Correções e melhorias",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 15:45:09",
+                         "Texto":  "Outras camadas de inteligência confirmaram em fontes comprovadas: uma solução nova foi para aprovação",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -66,20 +66,20 @@
                      }
                  ],
     "Horas":  [
-                  4,
                   8,
-                  26,
+                  14,
                   16,
-                  9,
+                  16,
                   18,
-                  54,
-                  29,
-                  17,
-                  47,
-                  66,
-                  49,
-                  45,
-                  34,
+                  9,
+                  57,
+                  26,
+                  22,
+                  46,
+                  62,
+                  51,
+                  51,
+                  26,
                   21,
                   8,
                   12,
@@ -98,24 +98,24 @@
                   6,
                   8,
                   20,
-                  45,
-                  12,
+                  49,
+                  8,
                   14,
                   8,
-                  22,
                   32,
-                  67,
-                  54,
-                  6,
+                  26,
+                  71,
+                  49,
+                  3,
                   7,
-                  8,
-                  9,
+                  12,
+                  5,
                   10,
                   52,
                   74,
                   99
               ],
     "Ultima":  "2026-11-27 15:49:38",
-    "Gerado":  "2026-11-27 15:53:17",
-    "Data":  "2026-11-27 15:53"
+    "Gerado":  "2026-11-27 15:57:07",
+    "Data":  "2026-11-27 15:57"
 }
