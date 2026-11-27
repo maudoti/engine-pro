@@ -1,18 +1,18 @@
 {
     "Resolvidos":  657,
     "Conhecimentos":  3377,
-    "Pesquisas":  36993,
-    "N48":  1581,
+    "Pesquisas":  36997,
+    "N48":  1551,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-27 02:14:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-27 01:59",
                          "Texto":  "Nova versão 4.50.470 publicada: Correções e melhorias",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-27 01:58:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Vídeo travou e voltou sozinho (código 141)",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -21,17 +21,17 @@
                      },
                      {
                          "Data":  "2026-11-27 01:58:47",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Tela azul 0x113 VIDEO_DXGKRNL_FATAL_ERROR",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Vídeo travou e voltou sozinho (código 141)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 61 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 65 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 01:58:46",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive criando pastas sem parar",
+                         "Data":  "2026-11-27 01:58:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Tela azul 0x113 VIDEO_DXGKRNL_FATAL_ERROR",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 01:57:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 01:58:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive criando pastas sem parar",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 00:54:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 49 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 01:57:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -56,56 +56,56 @@
                      }
                  ],
     "Horas":  [
-                  231,
-                  136,
-                  158,
-                  100,
-                  91,
-                  20,
-                  21,
-                  18,
-                  35,
-                  41,
+                  201,
+                  179,
+                  118,
+                  123,
+                  61,
+                  26,
+                  23,
+                  13,
                   32,
-                  46,
-                  56,
-                  5,
+                  47,
+                  51,
+                  41,
+                  41,
+                  0,
                   8,
                   14,
                   16,
-                  16,
-                  18,
-                  18,
-                  65,
-                  16,
-                  20,
-                  52,
-                  62,
-                  49,
-                  49,
+                  25,
+                  9,
                   24,
+                  59,
                   16,
-                  12,
-                  8,
-                  1,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  5,
-                  10,
-                  10,
-                  7,
-                  6,
-                  8,
-                  24,
+                  30,
+                  51,
+                  54,
+                  59,
                   45,
+                  21,
+                  16,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  10,
+                  9,
+                  10,
+                  6,
+                  7,
+                  20,
+                  46,
+                  11,
                   12
               ],
-    "Ultima":  "2026-11-27 01:57:57",
-    "Gerado":  "2026-11-27 02:07:05",
-    "Data":  "2026-11-27 02:07"
+    "Ultima":  "2026-11-27 02:14:01",
+    "Gerado":  "2026-11-27 02:17:07",
+    "Data":  "2026-11-27 02:17"
 }
