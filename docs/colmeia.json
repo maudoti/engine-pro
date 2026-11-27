@@ -1,13 +1,33 @@
 {
     "Resolvidos":  659,
     "Conhecimentos":  3402,
-    "Pesquisas":  37043,
-    "N48":  1140,
+    "Pesquisas":  37046,
+    "N48":  1109,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-27 05:06:27",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-27 05:06:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 3 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-27 04:54:36",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000000A (IRQL_NOT_LESS_OR_EQUAL) no Windows",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 114 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-27 04:54:36",
@@ -16,7 +36,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Texto":  "659 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
@@ -25,28 +45,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 111 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-27 04:54:17",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 28 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "659 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-27 04:54:09",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-27 03:59:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,34 +61,34 @@
                      }
                  ],
     "Horas":  [
-                  112,
-                  113,
+                  100,
+                  91,
                   20,
-                  19,
-                  20,
-                  16,
+                  21,
+                  18,
+                  35,
                   41,
-                  51,
+                  32,
                   46,
-                  41,
-                  20,
+                  56,
+                  5,
                   8,
                   14,
                   16,
                   16,
                   18,
-                  9,
-                  57,
-                  26,
-                  22,
-                  46,
+                  18,
+                  65,
+                  16,
+                  20,
+                  52,
                   62,
-                  51,
-                  51,
-                  26,
-                  21,
-                  8,
+                  49,
+                  49,
+                  24,
+                  16,
                   12,
+                  8,
                   1,
                   0,
                   0,
@@ -103,14 +103,14 @@
                   7,
                   6,
                   8,
-                  20,
-                  49,
-                  8,
-                  14,
-                  8,
-                  32
+                  24,
+                  45,
+                  12,
+                  10,
+                  12,
+                  31
               ],
-    "Ultima":  "2026-11-27 04:54:17",
-    "Gerado":  "2026-11-27 04:57:04",
-    "Data":  "2026-11-27 04:57"
+    "Ultima":  "2026-11-27 05:06:27",
+    "Gerado":  "2026-11-27 05:07:04",
+    "Data":  "2026-11-27 05:07"
 }
