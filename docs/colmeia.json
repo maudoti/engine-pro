@@ -1,18 +1,18 @@
 {
     "Resolvidos":  657,
-    "Conhecimentos":  3366,
+    "Conhecimentos":  3377,
     "Pesquisas":  36993,
-    "N48":  1586,
+    "N48":  1581,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 01:57:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 01:59",
+                         "Texto":  "Nova versão 4.50.470 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 01:18",
-                         "Texto":  "Nova versão 4.50.469 publicada: Correções e melhorias",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 01:58:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Vídeo travou e voltou sozinho (código 141)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 00:54:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 49 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 01:58:47",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Tela azul 0x113 VIDEO_DXGKRNL_FATAL_ERROR",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -30,8 +30,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 00:40:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Erros do Serviço de Cópias de Sombra de Volume (VSS 8193, 8194 e 13) separado...",
+                         "Data":  "2026-11-27 01:58:46",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive criando pastas sem parar",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 00:40:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Bloqueio de macros do Office pela Marca da Web (Zone.Identifier) e quando um...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 01:57:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 00:40:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Falha na manutenção do Ambiente de Recuperação do Windows (WinREAgent 4502) p...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 00:54:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 49 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-26 10:50:15",
@@ -56,37 +56,37 @@
                      }
                  ],
     "Horas":  [
-                  180,
-                  180,
-                  143,
-                  111,
-                  107,
+                  231,
+                  136,
+                  158,
+                  100,
+                  91,
                   20,
-                  19,
-                  20,
-                  23,
-                  34,
-                  51,
-                  46,
+                  21,
+                  18,
+                  35,
                   41,
-                  20,
+                  32,
+                  46,
+                  56,
+                  5,
                   8,
                   14,
                   16,
                   16,
                   18,
-                  10,
-                  62,
-                  20,
-                  27,
-                  52,
-                  51,
-                  56,
-                  46,
-                  31,
+                  18,
+                  65,
                   16,
-                  8,
+                  20,
+                  52,
+                  62,
+                  49,
+                  49,
+                  24,
+                  16,
                   12,
+                  8,
                   1,
                   0,
                   0,
@@ -101,11 +101,11 @@
                   7,
                   6,
                   8,
-                  20,
-                  49,
+                  24,
+                  45,
                   12
               ],
     "Ultima":  "2026-11-27 01:57:57",
-    "Gerado":  "2026-11-27 01:58:48",
-    "Data":  "2026-11-27 01:58"
+    "Gerado":  "2026-11-27 02:07:05",
+    "Data":  "2026-11-27 02:07"
 }
