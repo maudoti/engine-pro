@@ -16,17 +16,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 366 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "656 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-26 23:18:17",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Caminho longo demais (OneDrive, SharePoint e Excel)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "656 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
@@ -51,18 +46,18 @@
                      }
                  ],
     "Horas":  [
-                  130,
+                  137,
+                  164,
+                  189,
                   171,
-                  169,
-                  191,
-                  136,
-                  112,
-                  113,
+                  152,
+                  110,
+                  99,
                   20,
                   19,
                   20,
-                  16,
-                  41,
+                  30,
+                  27,
                   51,
                   46,
                   41,
@@ -72,16 +67,16 @@
                   16,
                   16,
                   18,
-                  9,
-                  57,
-                  26,
-                  22,
-                  46,
-                  62,
+                  14,
+                  67,
+                  11,
+                  27,
+                  52,
+                  60,
                   51,
-                  51,
-                  26,
-                  21,
+                  48,
+                  25,
+                  16,
                   8,
                   12,
                   1,
@@ -101,6 +96,6 @@
                   20
               ],
     "Ultima":  "2026-11-26 23:17:43",
-    "Gerado":  "2026-11-26 23:57:05",
-    "Data":  "2026-11-26 23:57"
+    "Gerado":  "2026-11-27 00:00:33",
+    "Data":  "2026-11-27 00:00"
 }
