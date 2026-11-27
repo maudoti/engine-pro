@@ -1,18 +1,18 @@
 {
     "Resolvidos":  656,
-    "Conhecimentos":  3347,
-    "Pesquisas":  36927,
-    "N48":  1851,
+    "Conhecimentos":  3352,
+    "Pesquisas":  36932,
+    "N48":  1842,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-26 23:17:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 15 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-26 23:18:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Caminho longo demais (OneDrive, SharePoint e Excel)",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-26 22:48:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-26 23:18:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, OneDrive ocupando muito espaço no disco",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-26 22:06",
-                         "Texto":  "Nova versão 4.50.466 publicada: Correções e melhorias",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-26 23:18:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: falhas dns",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 361 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 366 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-26 18:46:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar em computador do domínio: causa provável e solução certa",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-26 23:17:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 20 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,53 +40,53 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-26 18:13:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Relógio sem sincronizar (7x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-26 22:48:57",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-26 22:06",
+                         "Texto":  "Nova versão 4.50.466 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-26 10:50:15",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-26 10:26:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Muitos tipos de travamento (não só os óbvios)",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  61,
-                  148,
-                  161,
-                  201,
-                  179,
-                  118,
-                  123,
-                  61,
-                  26,
-                  23,
-                  13,
-                  32,
-                  47,
-                  51,
-                  41,
-                  41,
-                  0,
-                  8,
-                  14,
-                  16,
-                  25,
-                  9,
-                  24,
-                  59,
-                  16,
+                  68,
+                  172,
+                  137,
+                  180,
+                  220,
+                  105,
+                  96,
+                  70,
+                  20,
+                  19,
+                  20,
                   30,
-                  50,
-                  55,
+                  42,
+                  51,
+                  49,
+                  33,
+                  4,
+                  4,
+                  22,
+                  15,
+                  18,
+                  9,
+                  41,
+                  42,
+                  16,
+                  32,
                   59,
-                  45,
-                  21,
+                  58,
+                  53,
+                  41,
+                  17,
                   16,
                   8,
                   9,
@@ -99,13 +99,13 @@
                   0,
                   0,
                   10,
-                  9,
                   10,
+                  9,
                   6,
                   7,
-                  19
+                  24
               ],
-    "Ultima":  "2026-11-26 23:17:00",
-    "Gerado":  "2026-11-26 23:17:05",
-    "Data":  "2026-11-26 23:17"
+    "Ultima":  "2026-11-26 23:17:43",
+    "Gerado":  "2026-11-26 23:27:05",
+    "Data":  "2026-11-26 23:27"
 }
