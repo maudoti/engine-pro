@@ -5,9 +5,9 @@
     "N48":  1842,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-26 23:18:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Caminho longo demais (OneDrive, SharePoint e Excel)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-26 23:43",
+                         "Texto":  "Nova versão 4.50.467 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-26 23:18:17",
@@ -20,13 +20,18 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-26 23:18:16",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: falhas dns",
+                         "Data":  "2026-11-26 23:18:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive, Caminho longo demais (OneDrive, SharePoint e Excel)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "656 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-26 23:18:16",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: falhas dns",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,11 +45,6 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-26 22:06",
-                         "Texto":  "Nova versão 4.50.466 publicada: Correções e melhorias",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-26 10:50:15",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
@@ -52,38 +52,38 @@
                  ],
     "Horas":  [
                   140,
-                  138,
-                  159,
-                  190,
-                  152,
-                  139,
-                  95,
-                  35,
+                  156,
+                  141,
+                  215,
+                  132,
+                  134,
+                  113,
+                  17,
                   29,
-                  10,
                   20,
+                  10,
                   47,
                   51,
-                  25,
-                  62,
+                  29,
+                  58,
                   20,
                   4,
                   8,
+                  24,
                   18,
-                  15,
+                  9,
                   18,
-                  18,
-                  32,
-                  51,
-                  10,
-                  38,
-                  71,
+                  41,
+                  42,
+                  13,
+                  50,
+                  56,
                   51,
                   54,
-                  30,
-                  21,
-                  9,
-                  15,
+                  34,
+                  17,
+                  12,
+                  12,
                   1,
                   0,
                   0,
@@ -92,15 +92,15 @@
                   0,
                   0,
                   0,
-                  0,
+                  5,
                   10,
                   10,
-                  12,
+                  7,
                   6,
                   4,
                   24
               ],
     "Ultima":  "2026-11-26 23:17:43",
-    "Gerado":  "2026-11-26 23:43:06",
-    "Data":  "2026-11-26 23:43"
+    "Gerado":  "2026-11-26 23:47:05",
+    "Data":  "2026-11-26 23:47"
 }
