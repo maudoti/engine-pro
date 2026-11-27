@@ -2,11 +2,21 @@
     "Resolvidos":  676,
     "Conhecimentos":  3444,
     "Pesquisas":  37278,
-    "N48":  952,
+    "N48":  937,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-27 13:48",
+                         "Texto":  "Nova versão 4.50.478 publicada: Correções e melhorias",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-27 13:25:49",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 52 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 346 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -16,22 +26,17 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 346 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-27 12:47:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
                          "Texto":  "676 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-27 12:47:30",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-27 12:47:30",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009F (DRIVER_POWER_STATE_FAILURE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -45,35 +50,30 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 12:09",
-                         "Texto":  "Nova versão 4.50.476 publicada: Correções e melhorias",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-27 07:16:59",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  56,
+                  41,
                   20,
-                  4,
                   8,
-                  26,
+                  14,
                   16,
+                  16,
+                  18,
                   9,
-                  18,
+                  57,
+                  26,
+                  22,
                   46,
-                  37,
-                  15,
-                  49,
-                  55,
+                  62,
                   51,
-                  54,
-                  34,
-                  18,
-                  11,
+                  51,
+                  26,
+                  21,
+                  8,
                   12,
                   1,
                   0,
@@ -88,24 +88,24 @@
                   10,
                   7,
                   6,
-                  5,
-                  23,
-                  45,
-                  12,
-                  10,
-                  12,
-                  20,
-                  34,
-                  67,
-                  54,
-                  6,
-                  7,
                   8,
-                  9,
+                  20,
+                  49,
+                  8,
+                  14,
+                  8,
+                  32,
+                  25,
+                  72,
+                  49,
+                  3,
+                  7,
+                  12,
+                  5,
                   10,
                   52
               ],
     "Ultima":  "2026-11-27 13:25:49",
-    "Gerado":  "2026-11-27 13:47:54",
-    "Data":  "2026-11-27 13:47"
+    "Gerado":  "2026-11-27 13:57:05",
+    "Data":  "2026-11-27 13:57"
 }
