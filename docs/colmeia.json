@@ -1,17 +1,17 @@
 {
     "Resolvidos":  659,
-    "Conhecimentos":  3385,
-    "Pesquisas":  37015,
-    "N48":  1189,
+    "Conhecimentos":  3392,
+    "Pesquisas":  37019,
+    "N48":  1152,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 03:59:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 04:19:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão: Velocidade da memória RAM abaixo da nominal no Windows, leitura em M...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 03:23:02",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pesquisa do Windows 3602 e 7042",
+                         "Data":  "2026-11-27 04:18:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão: Outlook clássico em modo de segurança com outlook.exe /safe para iso...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 03:23:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Universal Print evento 1 \"Failed to GetUserSid. hr",
+                         "Data":  "2026-11-27 04:18:59",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 83 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 87 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 03:23:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Service Control Manager 7000 e 7009 no Google Update (gupdate) e 7023 no Gere...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 04:18:34",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 02:51",
-                         "Texto":  "Nova versão 4.50.472 publicada: Correções e melhorias",
+                         "Data":  "2026-11-27 03:59:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 02:49:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 02:51",
+                         "Texto":  "Nova versão 4.50.472 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
@@ -56,32 +56,32 @@
                      }
                  ],
     "Horas":  [
-                  118,
-                  123,
-                  61,
-                  26,
-                  23,
-                  13,
-                  32,
-                  47,
+                  105,
+                  96,
+                  70,
+                  20,
+                  19,
+                  20,
+                  29,
+                  43,
                   51,
-                  41,
-                  41,
-                  0,
-                  8,
-                  14,
-                  16,
-                  25,
+                  49,
+                  33,
+                  4,
+                  4,
+                  22,
+                  15,
+                  18,
                   9,
-                  24,
-                  59,
+                  41,
+                  42,
                   16,
-                  30,
-                  50,
-                  55,
+                  32,
                   59,
-                  45,
-                  21,
+                  58,
+                  53,
+                  41,
+                  17,
                   16,
                   8,
                   9,
@@ -94,18 +94,18 @@
                   0,
                   0,
                   10,
-                  9,
                   10,
+                  9,
                   6,
                   7,
-                  19,
-                  47,
+                  24,
+                  42,
                   11,
                   12,
-                  6,
+                  10,
                   12
               ],
-    "Ultima":  "2026-11-27 03:59:33",
-    "Gerado":  "2026-11-27 04:17:04",
-    "Data":  "2026-11-27 04:17"
+    "Ultima":  "2026-11-27 04:18:34",
+    "Gerado":  "2026-11-27 04:27:04",
+    "Data":  "2026-11-27 04:27"
 }
