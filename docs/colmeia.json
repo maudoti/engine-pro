@@ -1,18 +1,18 @@
 {
     "Resolvidos":  659,
-    "Conhecimentos":  3402,
-    "Pesquisas":  37046,
-    "N48":  1109,
+    "Conhecimentos":  3405,
+    "Pesquisas":  37057,
+    "N48":  1113,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 05:06:27",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 05:11:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007E (SYSTEM_THREAD_EXCEPTION_NOT_HANDLED) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 05:06:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 3 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 05:11:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007F (UNEXPECTED_KERNEL_MODE_TRAP) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 04:54:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000000A (IRQL_NOT_LESS_OR_EQUAL) no Windows",
+                         "Data":  "2026-11-27 05:11:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007A (KERNEL_DATA_INPAGE_ERROR) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 114 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 125 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 04:54:36",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8004060C (MAPI_E_STORE_FULL) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 05:11:35",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 04:54:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000001A (MEMORY_MANAGEMENT) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 05:08:31",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-27 04:54:17",
@@ -61,56 +61,56 @@
                      }
                  ],
     "Horas":  [
-                  100,
-                  91,
-                  20,
-                  21,
-                  18,
-                  35,
-                  41,
+                  123,
+                  61,
+                  26,
+                  23,
+                  13,
                   32,
-                  46,
-                  56,
-                  5,
+                  47,
+                  51,
+                  41,
+                  41,
+                  0,
                   8,
                   14,
                   16,
-                  16,
-                  18,
-                  18,
-                  65,
-                  16,
-                  20,
-                  52,
-                  62,
-                  49,
-                  49,
+                  25,
+                  9,
                   24,
+                  59,
                   16,
-                  12,
-                  8,
-                  1,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  5,
-                  10,
-                  10,
-                  7,
-                  6,
-                  8,
-                  24,
+                  30,
+                  50,
+                  55,
+                  59,
                   45,
-                  12,
+                  21,
+                  16,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
                   10,
+                  9,
+                  10,
+                  6,
+                  7,
+                  19,
+                  47,
+                  11,
                   12,
-                  31
+                  6,
+                  12,
+                  42
               ],
-    "Ultima":  "2026-11-27 05:06:27",
-    "Gerado":  "2026-11-27 05:07:04",
-    "Data":  "2026-11-27 05:07"
+    "Ultima":  "2026-11-27 05:11:35",
+    "Gerado":  "2026-11-27 05:17:04",
+    "Data":  "2026-11-27 05:17"
 }
