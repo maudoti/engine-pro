@@ -1,12 +1,12 @@
 {
     "Resolvidos":  659,
     "Conhecimentos":  3411,
-    "Pesquisas":  37073,
-    "N48":  1005,
+    "Pesquisas":  37127,
+    "N48":  1031,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 06:13:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 06:37:02",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 58 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -26,12 +26,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 141 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 195 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-27 05:23:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD 2027.1.1 (17/11/2026) com falhas de DWG do aviso ADSK-SA-2026-0021 e...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Office LTSC 2021 e Office 2021 sem atualizações de segurança desde 13/10/2026...",
                          "Nivel":  "ok"
                      },
                      {
@@ -41,7 +41,7 @@
                      },
                      {
                          "Data":  "2026-11-27 05:23:43",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Queda do Microsoft 365 de 12 e 13/11/2026 (incidentes EX1550543 e MO1550821):...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows 11 24H2 Pro (build 26100) sem atualizações desde 13/10/2026 e 23H2 (b...",
                          "Nivel":  "ok"
                      },
                      {
@@ -61,33 +61,33 @@
                      }
                  ],
     "Horas":  [
-                  70,
+                  42,
                   20,
                   19,
                   20,
-                  29,
-                  43,
-                  51,
-                  49,
-                  33,
+                  47,
+                  32,
+                  44,
+                  62,
+                  20,
                   4,
-                  4,
-                  22,
+                  8,
+                  18,
                   15,
                   18,
-                  9,
-                  41,
-                  42,
-                  16,
+                  18,
                   32,
-                  59,
-                  58,
-                  53,
-                  41,
+                  51,
+                  10,
+                  38,
+                  62,
+                  60,
+                  47,
+                  37,
                   17,
-                  16,
-                  8,
-                  9,
+                  12,
+                  10,
+                  7,
                   0,
                   0,
                   0,
@@ -98,19 +98,19 @@
                   0,
                   10,
                   10,
-                  9,
-                  6,
+                  12,
+                  3,
                   7,
                   24,
                   42,
-                  11,
-                  12,
+                  15,
                   10,
-                  12,
+                  9,
+                  11,
                   42,
-                  12
+                  66
               ],
-    "Ultima":  "2026-11-27 06:13:42",
-    "Gerado":  "2026-11-27 06:27:03",
-    "Data":  "2026-11-27 06:27"
+    "Ultima":  "2026-11-27 06:37:02",
+    "Gerado":  "2026-11-27 06:37:04",
+    "Data":  "2026-11-27 06:37"
 }
