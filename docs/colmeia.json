@@ -1,18 +1,18 @@
 {
     "Resolvidos":  676,
-    "Conhecimentos":  3435,
-    "Pesquisas":  37212,
-    "N48":  985,
+    "Conhecimentos":  3439,
+    "Pesquisas":  37216,
+    "N48":  972,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 11:22:29",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 11:34:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000BE (ATTEMPTED_WRITE_TO_READONLY_MEMORY) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 11:22:29",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 1 pesquisa em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 11:34:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000C2 (BAD_POOL_CALLER) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 10:55:04",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 11:34:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x000000A5 (ACPI_BIOS_ERROR) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 280 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 284 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 10:40",
-                         "Texto":  "Nova versão 4.50.474 publicada: Correções e melhorias",
+                         "Data":  "2026-11-27 11:32:31",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 5 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -40,49 +40,49 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-27 11:32:31",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-27 10:55:04",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 12 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-27 10:40",
+                         "Texto":  "Nova versão 4.50.474 publicada: Correções e melhorias",
+                         "Nivel":  "info"
+                     },
+                     {
                          "Data":  "2026-11-27 07:16:59",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-27 07:04:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (1,9 de 10)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-27 07:04:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Outlook novo registrou falhas no componente WebView2",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-27 07:04:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Um dispositivo da placa-mãe registrou erros corrigidos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  42,
-                  51,
-                  49,
                   33,
+                  43,
+                  62,
+                  20,
                   4,
-                  4,
-                  22,
+                  8,
+                  18,
                   15,
                   18,
-                  9,
-                  41,
-                  42,
-                  16,
+                  18,
                   32,
-                  59,
-                  58,
-                  53,
-                  41,
-                  17,
-                  16,
-                  8,
-                  9,
+                  51,
+                  10,
+                  38,
+                  62,
+                  60,
+                  47,
+                  37,
+                  18,
+                  11,
+                  10,
+                  7,
                   0,
                   0,
                   0,
@@ -93,24 +93,24 @@
                   0,
                   10,
                   10,
-                  9,
-                  6,
+                  12,
+                  3,
                   7,
                   24,
                   42,
+                  15,
+                  10,
+                  9,
                   11,
-                  12,
-                  10,
-                  12,
                   42,
-                  12,
-                  109,
-                  10,
+                  66,
+                  59,
                   6,
-                  5,
+                  7,
+                  8,
                   9
               ],
-    "Ultima":  "2026-11-27 11:22:29",
-    "Gerado":  "2026-11-27 11:27:07",
-    "Data":  "2026-11-27 11:27"
+    "Ultima":  "2026-11-27 11:32:31",
+    "Gerado":  "2026-11-27 11:37:08",
+    "Data":  "2026-11-27 11:37"
 }
