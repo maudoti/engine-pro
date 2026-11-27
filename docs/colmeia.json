@@ -1,12 +1,12 @@
 {
     "Resolvidos":  657,
     "Conhecimentos":  3377,
-    "Pesquisas":  36999,
-    "N48":  1472,
+    "Pesquisas":  37003,
+    "N48":  1465,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 02:35:19",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 02:49:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 10 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -26,7 +26,7 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 67 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 71 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -56,35 +56,35 @@
                      }
                  ],
     "Horas":  [
-                  215,
-                  132,
-                  134,
+                  228,
                   114,
-                  16,
-                  29,
+                  127,
+                  120,
+                  11,
+                  28,
                   20,
                   10,
                   47,
                   51,
-                  29,
-                  58,
+                  46,
+                  41,
                   20,
                   4,
                   8,
-                  25,
-                  17,
+                  26,
+                  16,
                   9,
                   18,
-                  41,
-                  42,
-                  13,
-                  51,
-                  55,
-                  51,
                   54,
-                  34,
+                  29,
                   17,
-                  12,
+                  47,
+                  63,
+                  52,
+                  45,
+                  34,
+                  21,
+                  8,
                   12,
                   1,
                   0,
@@ -99,13 +99,13 @@
                   10,
                   7,
                   6,
-                  4,
-                  24,
+                  8,
+                  20,
                   45,
                   12,
-                  10
+                  14
               ],
-    "Ultima":  "2026-11-27 02:35:19",
-    "Gerado":  "2026-11-27 02:47:11",
-    "Data":  "2026-11-27 02:47"
+    "Ultima":  "2026-11-27 02:49:13",
+    "Gerado":  "2026-11-27 02:51:20",
+    "Data":  "2026-11-27 02:51"
 }
