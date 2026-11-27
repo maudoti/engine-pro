@@ -1,17 +1,17 @@
 {
-    "Resolvidos":  659,
+    "Resolvidos":  672,
     "Conhecimentos":  3435,
     "Pesquisas":  37182,
     "N48":  1054,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 07:04:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (1,9 de 10)",
+                         "Data":  "2026-11-27 07:16:59",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 07:04:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Outlook novo registrou falhas no componente WebView2",
+                         "Data":  "2026-11-27 07:04:07",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Estabilidade do Windows baixa (1,9 de 10)",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,7 +21,7 @@
                      },
                      {
                          "Data":  "2026-11-27 07:04:06",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Um dispositivo da placa-mãe registrou erros corrigidos",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O Outlook novo registrou falhas no componente WebView2",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +30,19 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 07:03:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 07:04:06",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Um dispositivo da placa-mãe registrou erros corrigidos",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "659 problemas resolvidos sozinha pela IA desde o início",
+                         "Texto":  "672 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-27 07:03:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 29 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-27 06:59:51",
@@ -53,64 +58,59 @@
                          "Data":  "2026-11-27 02:51",
                          "Texto":  "Nova versão 4.50.472 publicada: Correções e melhorias",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-26 10:50:15",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  20,
-                  21,
-                  18,
-                  35,
-                  41,
+                  26,
+                  23,
+                  13,
                   32,
-                  46,
-                  56,
-                  5,
+                  47,
+                  51,
+                  41,
+                  41,
+                  0,
                   8,
                   14,
                   16,
-                  16,
-                  18,
-                  18,
-                  65,
-                  16,
-                  20,
-                  52,
-                  62,
-                  49,
-                  49,
+                  25,
+                  9,
                   24,
+                  59,
                   16,
-                  12,
-                  8,
-                  1,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  5,
-                  10,
-                  10,
-                  7,
-                  6,
-                  8,
-                  24,
+                  30,
+                  50,
+                  55,
+                  59,
                   45,
-                  12,
+                  21,
+                  16,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
                   10,
+                  9,
+                  10,
+                  6,
+                  7,
+                  19,
+                  47,
+                  11,
                   12,
-                  31,
-                  23,
-                  113
+                  6,
+                  12,
+                  42,
+                  16,
+                  109
               ],
     "Ultima":  "2026-11-27 07:03:17",
-    "Gerado":  "2026-11-27 07:07:04",
-    "Data":  "2026-11-27 07:07"
+    "Gerado":  "2026-11-27 07:17:04",
+    "Data":  "2026-11-27 07:17"
 }
