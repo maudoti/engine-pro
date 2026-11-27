@@ -1,13 +1,23 @@
 {
     "Resolvidos":  656,
     "Conhecimentos":  3352,
-    "Pesquisas":  36932,
-    "N48":  1826,
+    "Pesquisas":  36936,
+    "N48":  1830,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-26 23:43",
-                         "Texto":  "Nova versão 4.50.467 publicada: Correções e melhorias",
+                         "Data":  "2026-11-27 00:06:21",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-27 00:00",
+                         "Texto":  "Nova versão 4.50.468 publicada: Correções e melhorias",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-26 23:18:17",
@@ -35,50 +45,45 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-26 22:48:57",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 8 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-26 10:50:15",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  137,
-                  164,
-                  189,
-                  171,
-                  152,
-                  110,
-                  99,
+                  173,
+                  133,
+                  231,
+                  136,
+                  158,
+                  100,
+                  91,
                   20,
-                  19,
-                  20,
-                  30,
-                  27,
-                  51,
-                  46,
+                  21,
+                  18,
+                  35,
                   41,
-                  20,
+                  32,
+                  46,
+                  56,
+                  5,
                   8,
                   14,
                   16,
                   16,
                   18,
-                  14,
-                  67,
-                  11,
-                  27,
-                  52,
-                  60,
-                  51,
-                  48,
-                  25,
+                  18,
+                  65,
                   16,
-                  8,
+                  20,
+                  52,
+                  62,
+                  49,
+                  49,
+                  24,
+                  16,
                   12,
+                  8,
                   1,
                   0,
                   0,
@@ -93,9 +98,9 @@
                   7,
                   6,
                   8,
-                  20
+                  24
               ],
-    "Ultima":  "2026-11-26 23:17:43",
-    "Gerado":  "2026-11-27 00:00:33",
-    "Data":  "2026-11-27 00:00"
+    "Ultima":  "2026-11-27 00:06:21",
+    "Gerado":  "2026-11-27 00:07:05",
+    "Data":  "2026-11-27 00:07"
 }
