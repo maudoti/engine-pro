@@ -1,17 +1,17 @@
 {
     "Resolvidos":  659,
     "Conhecimentos":  3385,
-    "Pesquisas":  37007,
-    "N48":  1360,
+    "Pesquisas":  37008,
+    "N48":  1325,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-27 03:36:56",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 5 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
                      {
                          "Data":  "2026-11-27 03:23:02",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Pesquisa do Windows 3602 e 7042",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-27 03:23:01",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Service Control Manager 7000 e 7009 no Google Update (gupdate) e 7023 no Gere...",
                          "Nivel":  "ok"
                      },
                      {
@@ -26,13 +26,13 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 75 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 76 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 03:22:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 4 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 03:23:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Service Control Manager 7000 e 7009 no Google Update (gupdate) e 7023 no Gere...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -56,36 +56,36 @@
                      }
                  ],
     "Horas":  [
-                  220,
-                  105,
-                  96,
-                  70,
+                  185,
+                  127,
+                  101,
+                  42,
                   20,
                   19,
                   20,
-                  29,
-                  43,
-                  51,
-                  49,
-                  33,
+                  47,
+                  32,
+                  44,
+                  62,
+                  20,
                   4,
-                  4,
-                  22,
+                  8,
+                  18,
                   15,
                   18,
-                  9,
-                  41,
-                  42,
-                  16,
+                  18,
                   32,
-                  59,
-                  58,
-                  53,
-                  41,
+                  51,
+                  10,
+                  38,
+                  62,
+                  60,
+                  47,
+                  37,
                   17,
-                  16,
-                  8,
-                  9,
+                  12,
+                  10,
+                  7,
                   0,
                   0,
                   0,
@@ -96,16 +96,16 @@
                   0,
                   10,
                   10,
-                  9,
-                  6,
+                  12,
+                  3,
                   7,
                   24,
                   42,
-                  11,
-                  12,
-                  10
+                  15,
+                  10,
+                  9
               ],
-    "Ultima":  "2026-11-27 03:22:27",
-    "Gerado":  "2026-11-27 03:27:04",
-    "Data":  "2026-11-27 03:27"
+    "Ultima":  "2026-11-27 03:36:56",
+    "Gerado":  "2026-11-27 03:37:04",
+    "Data":  "2026-11-27 03:37"
 }
