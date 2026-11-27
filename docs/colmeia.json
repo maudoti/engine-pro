@@ -5,13 +5,13 @@
     "N48":  1132,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 19:20:23",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 19:32",
+                         "Texto":  "Nova versão 4.50.485 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 19:17:53",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Data":  "2026-11-27 19:20:23",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 18:23:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 19:17:53",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -30,9 +30,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 17:32:47",
-                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 18:23:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 34 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,9 +40,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 15:53",
-                         "Texto":  "Nova versão 4.50.482 publicada: Correções e melhorias",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 17:32:47",
+                         "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-27 15:45:09",
@@ -69,17 +69,17 @@
                   18,
                   18,
                   32,
-                  47,
-                  14,
-                  29,
-                  71,
                   51,
-                  48,
-                  41,
-                  21,
+                  10,
+                  38,
+                  62,
+                  60,
+                  47,
+                  37,
+                  17,
                   12,
-                  8,
-                  9,
+                  10,
+                  7,
                   0,
                   0,
                   0,
@@ -90,32 +90,32 @@
                   0,
                   10,
                   10,
-                  9,
-                  6,
+                  12,
+                  3,
                   7,
                   24,
                   42,
-                  11,
-                  12,
+                  15,
                   10,
-                  12,
+                  9,
+                  11,
                   42,
-                  25,
-                  100,
+                  66,
+                  59,
                   6,
                   7,
                   8,
-                  8,
-                  6,
+                  9,
+                  5,
                   57,
                   37,
                   60,
                   99,
-                  23,
-                  61,
+                  26,
+                  58,
                   21
               ],
     "Ultima":  "2026-11-27 19:20:23",
-    "Gerado":  "2026-11-27 19:32:00",
-    "Data":  "2026-11-27 19:32"
+    "Gerado":  "2026-11-27 19:37:05",
+    "Data":  "2026-11-27 19:37"
 }
