@@ -1,17 +1,17 @@
 {
     "Resolvidos":  659,
-    "Conhecimentos":  3405,
-    "Pesquisas":  37057,
-    "N48":  1113,
+    "Conhecimentos":  3411,
+    "Pesquisas":  37061,
+    "N48":  1089,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 05:11:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007E (SYSTEM_THREAD_EXCEPTION_NOT_HANDLED) no Windows",
+                         "Data":  "2026-11-27 05:23:44",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Dell Command Update abaixo da 5.7.1 (DSA-2026-309) e Inventory Collector abai...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 05:11:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007F (UNEXPECTED_KERNEL_MODE_TRAP) no Windows",
+                         "Data":  "2026-11-27 05:23:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AutoCAD 2027.1.1 (17/11/2026) com falhas de DWG do aviso ADSK-SA-2026-0021 e...",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 05:11:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000007A (KERNEL_DATA_INPAGE_ERROR) no Windows",
+                         "Data":  "2026-11-27 05:23:43",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Queda do Microsoft 365 de 12 e 13/11/2026 (incidentes EX1550543 e MO1550821):...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 125 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 129 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 05:11:35",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 14 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 05:23:19",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -61,31 +61,31 @@
                      }
                  ],
     "Horas":  [
-                  123,
-                  61,
-                  26,
-                  23,
-                  13,
-                  32,
-                  47,
+                  96,
+                  70,
+                  20,
+                  19,
+                  20,
+                  29,
+                  43,
                   51,
-                  41,
-                  41,
-                  0,
-                  8,
-                  14,
-                  16,
-                  25,
+                  49,
+                  33,
+                  4,
+                  4,
+                  22,
+                  15,
+                  18,
                   9,
-                  24,
-                  59,
+                  41,
+                  42,
                   16,
-                  30,
-                  50,
-                  55,
+                  32,
                   59,
-                  45,
-                  21,
+                  58,
+                  53,
+                  41,
+                  17,
                   16,
                   8,
                   9,
@@ -98,19 +98,19 @@
                   0,
                   0,
                   10,
-                  9,
                   10,
+                  9,
                   6,
                   7,
-                  19,
-                  47,
+                  24,
+                  42,
                   11,
                   12,
-                  6,
+                  10,
                   12,
                   42
               ],
-    "Ultima":  "2026-11-27 05:11:35",
-    "Gerado":  "2026-11-27 05:17:04",
-    "Data":  "2026-11-27 05:17"
+    "Ultima":  "2026-11-27 05:23:19",
+    "Gerado":  "2026-11-27 05:27:04",
+    "Data":  "2026-11-27 05:27"
 }
