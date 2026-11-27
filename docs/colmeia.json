@@ -1,17 +1,17 @@
 {
     "Resolvidos":  657,
     "Conhecimentos":  3366,
-    "Pesquisas":  36977,
-    "N48":  1747,
+    "Pesquisas":  36981,
+    "N48":  1745,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 00:40:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Falha na manutenção do Ambiente de Recuperação do Windows (WinREAgent 4502) p...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-27 00:54:37",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 49 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-27 00:40:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Bloqueio de macros do Office pela Marca da Web (Zone.Identifier) e quando um...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Erros do Serviço de Cópias de Sombra de Volume (VSS 8193, 8194 e 13) separado...",
                          "Nivel":  "ok"
                      },
                      {
@@ -21,18 +21,18 @@
                      },
                      {
                          "Data":  "2026-11-27 00:40:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Erros do Serviço de Cópias de Sombra de Volume (VSS 8193, 8194 e 13) separado...",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Bloqueio de macros do Office pela Marca da Web (Zone.Identifier) e quando um...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 45 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 49 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 00:39:59",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 00:40:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Falha na manutenção do Ambiente de Recuperação do Windows (WinREAgent 4502) p...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -56,37 +56,37 @@
                      }
                  ],
     "Horas":  [
-                  156,
-                  141,
-                  215,
-                  132,
-                  134,
+                  171,
+                  169,
+                  191,
+                  136,
+                  112,
                   113,
-                  17,
-                  29,
                   20,
-                  10,
-                  47,
+                  19,
+                  20,
+                  16,
+                  41,
                   51,
-                  29,
-                  58,
+                  46,
+                  41,
                   20,
-                  4,
                   8,
-                  24,
+                  14,
+                  16,
+                  16,
                   18,
                   9,
-                  18,
-                  41,
-                  42,
-                  13,
-                  50,
-                  56,
+                  57,
+                  26,
+                  22,
+                  46,
+                  62,
                   51,
-                  54,
-                  34,
-                  17,
-                  12,
+                  51,
+                  26,
+                  21,
+                  8,
                   12,
                   1,
                   0,
@@ -101,11 +101,11 @@
                   10,
                   7,
                   6,
-                  4,
-                  24,
-                  45
+                  8,
+                  20,
+                  49
               ],
-    "Ultima":  "2026-11-27 00:39:59",
-    "Gerado":  "2026-11-27 00:47:05",
-    "Data":  "2026-11-27 00:47"
+    "Ultima":  "2026-11-27 00:54:37",
+    "Gerado":  "2026-11-27 00:57:06",
+    "Data":  "2026-11-27 00:57"
 }
