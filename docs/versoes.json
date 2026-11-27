@@ -1,6 +1,13 @@
 [
     {
         "Versao":  "4.50.469",
+        "Data":  "2026-11-27 01:18",
+        "Notas":  "Correções e melhorias",
+        "Canal":  "estavel",
+        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.469/EnginePro_Setup_4.50.469.exe"
+    },
+    {
+        "Versao":  "4.50.469",
         "Data":  "2026-11-27 01:17",
         "Notas":  "Correções e melhorias",
         "Canal":  "teste",
@@ -201,12 +208,5 @@
         "Notas":  "Correções e melhorias",
         "Canal":  "teste",
         "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.454/EnginePro_Setup_4.50.454.exe"
-    },
-    {
-        "Versao":  "4.50.453",
-        "Data":  "2026-11-26 10:00",
-        "Notas":  "Correções e melhorias",
-        "Canal":  "teste",
-        "Url":  "https://github.com/maudoti/engine-pro/releases/download/v4.50.453/EnginePro_Setup_4.50.453.exe"
     }
 ]
