@@ -1,28 +1,18 @@
 {
     "Resolvidos":  688,
-    "Conhecimentos":  3562,
+    "Conhecimentos":  3564,
     "Pesquisas":  38204,
     "N48":  1355,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 07:00:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-28 07:00:12",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Data":  "2026-11-28 07:17:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Ligação de caso a conhecimento pela certeza da quarentena: moldes de pergunta...",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 06:59:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 63 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 07:17:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SaRA retirado",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -30,9 +20,9 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 06:21:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (67x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 07:00:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 6 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,13 +30,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 06:21:37",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (169x em 7 dias)",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 07:00:12",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 05:20:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Serviço de Horário do Windows (W32Time) sem sincronizar no Windows 11 25H2 e...",
+                         "Data":  "2026-11-28 06:59:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 63 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-28 06:21:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (67x em 7 dias)",
                          "Nivel":  "ok"
                      },
                      {
@@ -77,45 +72,45 @@
                   0,
                   0,
                   10,
-                  9,
                   10,
+                  9,
                   6,
                   7,
-                  19,
-                  47,
+                  24,
+                  42,
                   11,
                   12,
-                  6,
+                  10,
                   12,
                   42,
-                  16,
+                  12,
                   109,
-                  7,
-                  6,
-                  8,
-                  8,
                   10,
                   5,
-                  89,
+                  6,
+                  9,
+                  9,
+                  57,
                   37,
-                  122,
+                  60,
+                  99,
                   23,
-                  27,
-                  43,
-                  16,
+                  61,
+                  21,
+                  4,
                   35,
-                  38,
-                  32,
-                  83,
-                  12,
-                  84,
+                  44,
+                  44,
+                  73,
+                  44,
+                  61,
                   68,
+                  52,
+                  87,
                   68,
-                  74,
-                  69,
-                  58
+                  45
               ],
     "Ultima":  "2026-11-28 07:00:39",
-    "Gerado":  "2026-11-28 07:17:04",
-    "Data":  "2026-11-28 07:17"
+    "Gerado":  "2026-11-28 07:27:04",
+    "Data":  "2026-11-28 07:27"
 }
