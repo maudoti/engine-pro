@@ -1,18 +1,18 @@
 {
-    "Resolvidos":  687,
-    "Conhecimentos":  3538,
-    "Pesquisas":  38003,
-    "N48":  1236,
+    "Resolvidos":  688,
+    "Conhecimentos":  3544,
+    "Pesquisas":  38004,
+    "N48":  1229,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 04:16:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 04:26:58",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 04:16:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 04:26:58",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -20,29 +20,29 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-28 04:16:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 298 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-28 04:16:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "688 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-28 04:16:54",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão: AutoCAD lento, GRAPHICSCONFIG e aceleração por hardware, placa dedic...",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 297 pesquisas em bases técnicas",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-28 04:16:34",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "687 problemas resolvidos sozinha pela IA desde o início",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-28 04:16:09",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-28 03:55:03",
@@ -66,8 +66,8 @@
                      }
                  ],
     "Horas":  [
-                  45,
-                  21,
+                  41,
+                  17,
                   16,
                   8,
                   9,
@@ -80,42 +80,42 @@
                   0,
                   0,
                   10,
-                  9,
                   10,
+                  9,
                   6,
                   7,
-                  20,
-                  46,
+                  24,
+                  42,
                   11,
                   12,
-                  6,
+                  10,
                   12,
                   42,
-                  16,
+                  12,
                   109,
-                  7,
-                  6,
-                  8,
-                  8,
                   10,
                   5,
-                  89,
+                  6,
+                  9,
+                  9,
+                  57,
                   37,
-                  122,
+                  60,
+                  99,
                   23,
-                  27,
-                  43,
-                  16,
+                  61,
+                  21,
+                  4,
                   35,
-                  38,
-                  32,
-                  84,
-                  11,
-                  84,
+                  44,
+                  44,
+                  73,
+                  44,
+                  61,
                   68,
-                  68
+                  52
               ],
-    "Ultima":  "2026-11-28 04:16:34",
-    "Gerado":  "2026-11-28 04:17:07",
-    "Data":  "2026-11-28 04:17"
+    "Ultima":  "2026-11-28 04:26:58",
+    "Gerado":  "2026-11-28 04:27:04",
+    "Data":  "2026-11-28 04:27"
 }
