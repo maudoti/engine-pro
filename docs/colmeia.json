@@ -5,13 +5,13 @@
     "N48":  1144,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 21:08:53",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-27 21:24",
+                         "Texto":  "Nova versão 4.50.489 publicada: Correções e melhorias",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 21:08",
-                         "Texto":  "Nova versão 4.50.488 publicada: Correções e melhorias",
+                         "Data":  "2026-11-27 21:08:53",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 31 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -70,11 +70,11 @@
                   42,
                   16,
                   32,
-                  58,
                   59,
-                  50,
+                  58,
+                  53,
                   41,
-                  20,
+                  17,
                   16,
                   8,
                   9,
@@ -101,14 +101,14 @@
                   12,
                   109,
                   10,
-                  3,
-                  8,
+                  6,
+                  5,
                   9,
                   9,
-                  44,
-                  50,
-                  59,
-                  100,
+                  57,
+                  37,
+                  60,
+                  99,
                   23,
                   61,
                   21,
@@ -116,6 +116,6 @@
                   35
               ],
     "Ultima":  "2026-11-27 21:08:53",
-    "Gerado":  "2026-11-27 21:24:15",
-    "Data":  "2026-11-27 21:24"
+    "Gerado":  "2026-11-27 21:27:07",
+    "Data":  "2026-11-27 21:27"
 }
