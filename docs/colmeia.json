@@ -1,17 +1,17 @@
 {
     "Resolvidos":  688,
     "Conhecimentos":  3555,
-    "Pesquisas":  38076,
-    "N48":  1271,
+    "Pesquisas":  38077,
+    "N48":  1265,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 04:58:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-28 05:17:01",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 04:57:19",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Data":  "2026-11-28 05:17:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 1 pesquisa em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,13 +20,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 04:32:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0x800CCC0F ao enviar e-mails pelo Outlook?",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 04:58:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 370 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 371 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
@@ -40,6 +40,11 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-28 04:32:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0x800CCC0F ao enviar e-mails pelo Outlook?",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-28 04:30:01",
                          "Texto":  "Outras camadas de inteligência confirmaram em fontes comprovadas: uma solução nova foi para aprovação",
                          "Nivel":  "ok"
@@ -48,11 +53,6 @@
                          "Data":  "2026-11-28 04:16:55",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
                          "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-28 03:55:03",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 68 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-28 00:28",
@@ -66,11 +66,10 @@
                      }
                  ],
     "Horas":  [
-                  24,
+                  21,
                   16,
-                  12,
                   8,
-                  1,
+                  9,
                   0,
                   0,
                   0,
@@ -78,44 +77,45 @@
                   0,
                   0,
                   0,
-                  5,
+                  0,
                   10,
+                  9,
                   10,
-                  7,
                   6,
-                  8,
-                  24,
-                  45,
-                  12,
-                  10,
-                  12,
-                  31,
-                  23,
-                  113,
                   7,
-                  6,
-                  8,
-                  8,
-                  5,
-                  10,
-                  86,
-                  40,
-                  99,
+                  20,
                   46,
+                  11,
+                  12,
+                  6,
+                  12,
+                  42,
+                  16,
+                  109,
+                  7,
+                  6,
+                  8,
+                  8,
+                  10,
+                  5,
+                  89,
+                  37,
+                  122,
+                  23,
                   27,
-                  41,
-                  18,
-                  27,
-                  30,
-                  44,
-                  55,
-                  44,
+                  43,
+                  16,
+                  35,
+                  38,
+                  32,
                   84,
-                  51,
+                  11,
+                  84,
                   68,
-                  90
+                  68,
+                  74
               ],
-    "Ultima":  "2026-11-28 04:58:00",
-    "Gerado":  "2026-11-28 05:07:04",
-    "Data":  "2026-11-28 05:07"
+    "Ultima":  "2026-11-28 05:17:01",
+    "Gerado":  "2026-11-28 05:17:08",
+    "Data":  "2026-11-28 05:17"
 }
