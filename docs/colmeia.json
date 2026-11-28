@@ -1,23 +1,33 @@
 {
-    "Resolvidos":  682,
+    "Resolvidos":  685,
     "Conhecimentos":  3517,
-    "Pesquisas":  37843,
-    "N48":  1214,
+    "Pesquisas":  37844,
+    "N48":  1210,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-28 01:57:01",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-28 01:57:01",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 61 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "",
+                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-28 01:30:49",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 1 dispositivo com erro de driver",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 01:30:48",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 9 dia(s)",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
+                         "Texto":  "Hoje a IA já fez 138 pesquisas em bases técnicas",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-28 01:30:48",
@@ -26,17 +36,12 @@
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 137 pesquisas em bases técnicas",
-                         "Nivel":  "info"
+                         "Texto":  "685 problemas resolvidos sozinha pela IA desde o início",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 01:29:40",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 60 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "682 problemas resolvidos sozinha pela IA desde o início",
+                         "Data":  "2026-11-28 01:30:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 9 dia(s)",
                          "Nivel":  "ok"
                      },
                      {
@@ -47,11 +52,6 @@
                      {
                          "Data":  "2026-11-28 00:28",
                          "Texto":  "Nova versão 4.50.491 publicada: Correções e melhorias",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-28 00:15:48",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -66,12 +66,12 @@
                      }
                  ],
     "Horas":  [
-                  56,
+                  62,
                   51,
-                  54,
-                  34,
-                  17,
-                  12,
+                  51,
+                  26,
+                  21,
+                  8,
                   12,
                   1,
                   0,
@@ -86,36 +86,36 @@
                   10,
                   7,
                   6,
-                  4,
-                  24,
-                  45,
-                  12,
-                  10,
-                  12,
-                  20,
-                  34,
-                  67,
-                  54,
-                  6,
-                  7,
                   8,
-                  9,
+                  20,
+                  49,
+                  8,
+                  14,
+                  8,
+                  32,
+                  26,
+                  71,
+                  49,
+                  3,
+                  7,
+                  12,
+                  5,
                   10,
                   52,
-                  70,
-                  85,
-                  44,
+                  74,
+                  99,
                   46,
-                  35,
-                  21,
-                  8,
-                  51,
-                  24,
+                  27,
+                  34,
+                  25,
+                  4,
+                  53,
                   44,
-                  73,
-                  64
+                  22,
+                  77,
+                  61
               ],
-    "Ultima":  "2026-11-28 01:29:40",
-    "Gerado":  "2026-11-28 01:47:06",
-    "Data":  "2026-11-28 01:47"
+    "Ultima":  "2026-11-28 01:57:01",
+    "Gerado":  "2026-11-28 01:57:06",
+    "Data":  "2026-11-28 01:57"
 }
