@@ -1,17 +1,17 @@
 {
     "Resolvidos":  688,
     "Conhecimentos":  3560,
-    "Pesquisas":  38121,
-    "N48":  1297,
+    "Pesquisas":  38136,
+    "N48":  1307,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 05:44:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 45 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-28 06:00:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 1 pesquisa em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 05:43:37",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Data":  "2026-11-28 05:59:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 59 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -20,18 +20,18 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 05:20:26",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Serviço de Horário do Windows (W32Time) sem sincronizar no Windows 11 25H2 e...",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 415 pesquisas em bases técnicas",
+                         "Data":  "2026-11-28 05:59:27",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 05:20:25",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Hotpatch KB5132043 (builds 26300.9911, 26200.9911 e 26100.9911)",
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 430 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-28 05:20:26",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Serviço de Horário do Windows (W32Time) sem sincronizar no Windows 11 25H2 e...",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 05:20:24",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Aplicativos complementares do Microsoft 365 (Calendário, Pessoas e Arquivos,...",
+                         "Data":  "2026-11-28 05:20:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Hotpatch KB5132043 (builds 26300.9911, 26200.9911 e 26100.9911)",
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 04:58:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 90 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 05:20:24",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Aplicativos complementares do Microsoft 365 (Calendário, Pessoas e Arquivos,...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-28 04:30:01",
@@ -66,9 +66,9 @@
                      }
                  ],
     "Horas":  [
-                  21,
-                  8,
+                  16,
                   12,
+                  8,
                   1,
                   0,
                   0,
@@ -83,39 +83,39 @@
                   7,
                   6,
                   8,
-                  20,
-                  49,
-                  8,
-                  14,
-                  8,
-                  32,
-                  25,
-                  72,
-                  49,
-                  3,
-                  7,
+                  24,
+                  45,
                   12,
+                  10,
+                  12,
+                  31,
+                  23,
+                  113,
+                  7,
+                  6,
+                  8,
+                  8,
                   5,
                   10,
-                  52,
-                  74,
+                  86,
+                  40,
                   99,
                   46,
                   27,
-                  34,
-                  25,
-                  4,
-                  53,
+                  41,
+                  18,
+                  27,
+                  30,
                   44,
-                  22,
-                  77,
-                  61,
-                  74,
-                  68,
+                  55,
+                  44,
                   84,
-                  51
+                  51,
+                  68,
+                  90,
+                  60
               ],
-    "Ultima":  "2026-11-28 05:44:08",
-    "Gerado":  "2026-11-28 05:57:04",
-    "Data":  "2026-11-28 05:57"
+    "Ultima":  "2026-11-28 06:00:00",
+    "Gerado":  "2026-11-28 06:07:04",
+    "Data":  "2026-11-28 06:07"
 }
