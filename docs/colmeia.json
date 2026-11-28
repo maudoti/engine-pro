@@ -1,17 +1,17 @@
 {
     "Resolvidos":  682,
-    "Conhecimentos":  3503,
-    "Pesquisas":  37823,
-    "N48":  1217,
+    "Conhecimentos":  3517,
+    "Pesquisas":  37843,
+    "N48":  1229,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 01:26:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 39 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 01:30:49",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: 1 dispositivo com erro de driver",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 00:56:08",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: BitLocker-Driver 24641 nas builds 26200 e 26300: erro ao recuperar a chave me...",
+                         "Data":  "2026-11-28 01:30:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: A sincronização do OneDrive não termina há 9 dia(s)",
                          "Nivel":  "ok"
                      },
                      {
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 00:56:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: AdobeCollabSync.exe fechando em laço",
+                         "Data":  "2026-11-28 01:30:48",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: O OneDrive não consegue enviar 1 arquivo(s)",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 116 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 137 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 00:56:07",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o aviso de \u0027Referência circular\u0027 no Excel e localizar a célula...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 01:29:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 60 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -66,14 +66,14 @@
                      }
                  ],
     "Horas":  [
-                  59,
-                  58,
-                  53,
-                  41,
+                  62,
+                  60,
+                  47,
+                  37,
                   17,
-                  16,
-                  8,
-                  9,
+                  12,
+                  10,
+                  7,
                   0,
                   0,
                   0,
@@ -84,38 +84,38 @@
                   0,
                   10,
                   10,
-                  9,
-                  6,
+                  12,
+                  3,
                   7,
                   24,
                   42,
+                  15,
+                  10,
+                  9,
                   11,
-                  12,
-                  10,
-                  12,
                   42,
-                  12,
-                  109,
-                  10,
-                  5,
+                  66,
+                  59,
                   6,
+                  7,
+                  8,
                   9,
-                  9,
+                  5,
                   57,
                   37,
                   60,
                   99,
-                  23,
-                  61,
+                  26,
+                  58,
                   21,
-                  4,
-                  35,
+                  8,
+                  31,
                   44,
                   44,
                   73,
-                  43
+                  64
               ],
-    "Ultima":  "2026-11-28 01:26:58",
-    "Gerado":  "2026-11-28 01:27:05",
-    "Data":  "2026-11-28 01:27"
+    "Ultima":  "2026-11-28 01:29:40",
+    "Gerado":  "2026-11-28 01:37:05",
+    "Data":  "2026-11-28 01:37"
 }
