@@ -1,27 +1,17 @@
 {
     "Resolvidos":  688,
-    "Conhecimentos":  3575,
+    "Conhecimentos":  3579,
     "Pesquisas":  38262,
     "N48":  1405,
     "Recentes":  [
                      {
+                         "Data":  "2026-11-28 08:20:38",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x80070BC2 (ERROR_SUCCESS_REBOOT_REQUIRED) no Windows",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-28 08:05:17",
                          "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Awcc congelou 3 vezes nesta semana",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-28 08:05:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (16x em 7 dias)",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Agora: a IA está pesquisando em bases técnicas de diversos países",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-28 08:05:13",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Inicialização lenta",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +20,19 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 08:03:42",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 08:05:13",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Inicialização lenta",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "688 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-28 08:03:42",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 27 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-28 07:59:56",
@@ -76,46 +71,46 @@
                   0,
                   0,
                   10,
-                  9,
                   10,
+                  9,
                   6,
                   7,
-                  19,
-                  47,
+                  24,
+                  42,
                   11,
                   12,
-                  6,
+                  10,
                   12,
                   42,
-                  16,
+                  12,
                   109,
-                  7,
-                  6,
-                  8,
-                  8,
                   10,
                   5,
-                  89,
+                  6,
+                  9,
+                  9,
+                  57,
                   37,
-                  122,
+                  60,
+                  99,
                   23,
-                  27,
-                  43,
-                  16,
+                  61,
+                  21,
+                  4,
                   35,
-                  38,
-                  32,
-                  83,
-                  12,
-                  84,
+                  44,
+                  44,
+                  73,
+                  44,
+                  61,
                   68,
+                  52,
+                  87,
                   68,
-                  74,
-                  69,
-                  58,
+                  45,
                   58
               ],
     "Ultima":  "2026-11-28 08:03:42",
-    "Gerado":  "2026-11-28 08:17:05",
-    "Data":  "2026-11-28 08:17"
+    "Gerado":  "2026-11-28 08:27:04",
+    "Data":  "2026-11-28 08:27"
 }
