@@ -1,18 +1,18 @@
 {
     "Resolvidos":  682,
-    "Conhecimentos":  3477,
-    "Pesquisas":  37771,
-    "N48":  1198,
+    "Conhecimentos":  3492,
+    "Pesquisas":  37779,
+    "N48":  1206,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 00:16:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 65 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 00:18:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 00:15:48",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 00:18:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 6008 para confirmar um desligamento inesperado do...",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 00:05:16",
-                         "Texto":  "Outras camadas de inteligência confirmaram em fontes comprovadas: uma solução nova foi para aprovação",
+                         "Data":  "2026-11-28 00:18:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 65 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 73 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 23:52:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: trava virtualcameraservice.exe",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 00:18:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 73 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,8 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 23:49:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Explorador lento em pastas de rede ou do OneDrive",
+                         "Data":  "2026-11-28 00:15:48",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-28 00:05:16",
+                         "Texto":  "Outras camadas de inteligência confirmaram em fontes comprovadas: uma solução nova foi para aprovação",
                          "Nivel":  "ok"
                      },
                      {
@@ -55,23 +60,18 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 19:51:22",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Menu Iniciar ou barra de tarefas travados: ordem segura, sem redefinir o comp...",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-27 17:32:47",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  30,
-                  50,
-                  55,
+                  32,
                   59,
-                  45,
-                  21,
+                  58,
+                  53,
+                  41,
+                  17,
                   16,
                   8,
                   9,
@@ -84,38 +84,38 @@
                   0,
                   0,
                   10,
-                  9,
                   10,
+                  9,
                   6,
                   7,
-                  19,
-                  47,
+                  24,
+                  42,
                   11,
                   12,
-                  6,
+                  10,
                   12,
                   42,
-                  16,
+                  12,
                   109,
-                  7,
-                  6,
-                  8,
-                  8,
                   10,
+                  6,
                   5,
-                  89,
+                  9,
+                  9,
+                  57,
                   37,
-                  122,
+                  60,
+                  99,
                   23,
-                  27,
-                  43,
-                  16,
+                  61,
+                  21,
+                  4,
                   35,
-                  38,
-                  32,
-                  83
+                  44,
+                  44,
+                  73
               ],
-    "Ultima":  "2026-11-28 00:16:58",
-    "Gerado":  "2026-11-28 00:17:05",
-    "Data":  "2026-11-28 00:17"
+    "Ultima":  "2026-11-28 00:18:00",
+    "Gerado":  "2026-11-28 00:27:07",
+    "Data":  "2026-11-28 00:27"
 }
