@@ -1,18 +1,18 @@
 {
     "Resolvidos":  682,
-    "Conhecimentos":  3468,
+    "Conhecimentos":  3477,
     "Pesquisas":  37706,
     "N48":  1140,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-27 23:19:27",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 23:52:54",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: trava virtualcameraservice.exe",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 23:18:29",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-27 23:49:22",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Windows, Explorador lento em pastas de rede ou do OneDrive",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,14 +20,24 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 23:00",
-                         "Texto":  "Nova versão 4.50.490 publicada: Correções e melhorias",
+                         "Data":  "2026-11-27 23:19:27",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 22 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
                          "Data":  "",
                          "Texto":  "682 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-27 23:18:29",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-27 23:00",
+                         "Texto":  "Nova versão 4.50.490 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-27 22:54:02",
@@ -40,30 +50,20 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-27 19:51:21",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: DNS em computadores da empresa que fazem parte do domínio: não trocar para DN...",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-27 17:32:47",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "2026-11-27 12:47:30",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x0000009C (MACHINE_CHECK_EXCEPTION) no Windows",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  13,
-                  50,
-                  56,
+                  22,
+                  46,
+                  62,
                   51,
-                  54,
-                  34,
-                  17,
-                  12,
+                  51,
+                  26,
+                  21,
+                  8,
                   12,
                   1,
                   0,
@@ -78,34 +78,34 @@
                   10,
                   7,
                   6,
-                  4,
-                  24,
-                  45,
-                  12,
-                  10,
-                  12,
-                  20,
-                  34,
-                  67,
-                  54,
-                  6,
-                  7,
                   8,
-                  9,
+                  20,
+                  49,
+                  8,
+                  14,
+                  8,
+                  32,
+                  25,
+                  72,
+                  49,
+                  3,
+                  7,
+                  12,
+                  5,
                   10,
                   52,
-                  70,
-                  85,
-                  44,
+                  74,
+                  99,
                   46,
-                  35,
-                  21,
-                  8,
-                  51,
-                  24,
-                  44
+                  27,
+                  34,
+                  25,
+                  4,
+                  53,
+                  44,
+                  22
               ],
     "Ultima":  "2026-11-27 23:19:27",
-    "Gerado":  "2026-11-27 23:47:06",
-    "Data":  "2026-11-27 23:47"
+    "Gerado":  "2026-11-27 23:57:05",
+    "Data":  "2026-11-27 23:57"
 }
