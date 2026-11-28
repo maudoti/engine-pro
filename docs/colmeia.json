@@ -1,18 +1,18 @@
 {
     "Resolvidos":  688,
-    "Conhecimentos":  3544,
-    "Pesquisas":  38004,
-    "N48":  1229,
+    "Conhecimentos":  3555,
+    "Pesquisas":  38046,
+    "N48":  1263,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 04:26:58",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 04:32:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como interpretar o Event ID 7034 para identificar um serviço do Windows que e...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 04:26:58",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 18 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 04:32:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Como resolver o erro 0x800CCC0F ao enviar e-mails pelo Outlook?",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 04:16:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
-                         "Nivel":  "ok"
-                     },
-                     {
-                         "Data":  "",
-                         "Texto":  "Hoje a IA já fez 298 pesquisas em bases técnicas",
+                         "Data":  "2026-11-28 04:32:12",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 60 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 04:16:55",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
-                         "Nivel":  "ok"
+                         "Data":  "",
+                         "Texto":  "Hoje a IA já fez 340 pesquisas em bases técnicas",
+                         "Nivel":  "info"
+                     },
+                     {
+                         "Data":  "2026-11-28 04:31:42",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,8 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 04:16:54",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão: AutoCAD lento, GRAPHICSCONFIG e aceleração por hardware, placa dedic...",
+                         "Data":  "2026-11-28 04:30:01",
+                         "Texto":  "Outras camadas de inteligência confirmaram em fontes comprovadas: uma solução nova foi para aprovação",
+                         "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-28 04:16:55",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Revisão",
                          "Nivel":  "ok"
                      },
                      {
@@ -55,22 +60,17 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 00:05:16",
-                         "Texto":  "Outras camadas de inteligência confirmaram em fontes comprovadas: uma solução nova foi para aprovação",
-                         "Nivel":  "ok"
-                     },
-                     {
                          "Data":  "2026-11-27 17:32:47",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  41,
+                  37,
                   17,
-                  16,
-                  8,
-                  9,
+                  12,
+                  10,
+                  7,
                   0,
                   0,
                   0,
@@ -81,41 +81,41 @@
                   0,
                   10,
                   10,
-                  9,
-                  6,
+                  12,
+                  3,
                   7,
                   24,
                   42,
+                  15,
+                  10,
+                  9,
                   11,
-                  12,
-                  10,
-                  12,
                   42,
-                  12,
-                  109,
-                  10,
-                  5,
+                  66,
+                  59,
                   6,
+                  7,
+                  8,
                   9,
-                  9,
+                  5,
                   57,
                   37,
                   60,
                   99,
-                  23,
-                  61,
+                  26,
+                  58,
                   21,
-                  4,
-                  35,
+                  8,
+                  31,
                   44,
                   44,
                   73,
-                  44,
-                  61,
-                  68,
-                  52
+                  64,
+                  47,
+                  79,
+                  77
               ],
-    "Ultima":  "2026-11-28 04:26:58",
-    "Gerado":  "2026-11-28 04:27:04",
-    "Data":  "2026-11-28 04:27"
+    "Ultima":  "2026-11-28 04:32:12",
+    "Gerado":  "2026-11-28 04:37:06",
+    "Data":  "2026-11-28 04:37"
 }
