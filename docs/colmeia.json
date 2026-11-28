@@ -1,17 +1,17 @@
 {
     "Resolvidos":  688,
-    "Conhecimentos":  3564,
+    "Conhecimentos":  3565,
     "Pesquisas":  38219,
-    "N48":  1370,
+    "N48":  1366,
     "Recentes":  [
+                     {
+                         "Data":  "2026-11-28 07:41:25",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: trava virtualcameraservice.exe",
+                         "Nivel":  "ok"
+                     },
                      {
                          "Data":  "2026-11-28 07:33:36",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 21 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-28 07:32:59",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
                          "Nivel":  "info"
                      },
                      {
@@ -20,9 +20,9 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 07:17:41",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Ligação de caso a conhecimento pela certeza da quarentena: moldes de pergunta...",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 07:32:59",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -30,8 +30,8 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 07:17:39",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SaRA retirado",
+                         "Data":  "2026-11-28 07:17:41",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Ligação de caso a conhecimento pela certeza da quarentena: moldes de pergunta...",
                          "Nivel":  "ok"
                      },
                      {
@@ -40,14 +40,14 @@
                          "Nivel":  "ok"
                      },
                      {
+                         "Data":  "2026-11-28 07:17:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: SaRA retirado",
+                         "Nivel":  "ok"
+                     },
+                     {
                          "Data":  "2026-11-28 06:59:58",
                          "Texto":  "A IA com aprendizado em COLMEIA fez 63 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
-                     },
-                     {
-                         "Data":  "2026-11-28 06:21:38",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Política de grupo sem rede (67x em 7 dias)",
-                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "2026-11-28 04:30:01",
@@ -66,56 +66,56 @@
                      }
                  ],
     "Horas":  [
+                  12,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  5,
+                  10,
                   10,
                   7,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  10,
+                  6,
+                  4,
+                  24,
+                  45,
+                  12,
                   10,
                   12,
-                  3,
-                  7,
-                  24,
-                  42,
-                  15,
-                  10,
-                  9,
-                  11,
-                  42,
-                  66,
-                  59,
+                  20,
+                  34,
+                  67,
+                  54,
                   6,
                   7,
                   8,
                   9,
-                  5,
-                  57,
-                  37,
-                  60,
-                  99,
-                  26,
-                  58,
+                  10,
+                  52,
+                  70,
+                  85,
+                  44,
+                  46,
+                  35,
                   21,
                   8,
-                  31,
-                  44,
+                  51,
+                  24,
                   44,
                   73,
                   64,
-                  47,
-                  79,
-                  77,
+                  58,
+                  68,
+                  92,
                   60,
-                  61,
-                  52
+                  57,
+                  41
               ],
     "Ultima":  "2026-11-28 07:33:36",
-    "Gerado":  "2026-11-28 07:37:09",
-    "Data":  "2026-11-28 07:37"
+    "Gerado":  "2026-11-28 07:47:06",
+    "Data":  "2026-11-28 07:47"
 }
