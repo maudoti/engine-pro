@@ -2,12 +2,12 @@
     "Resolvidos":  682,
     "Conhecimentos":  3492,
     "Pesquisas":  37779,
-    "N48":  1206,
+    "N48":  1203,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 00:18:20",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 00:28",
+                         "Texto":  "Nova versão 4.50.491 publicada: Correções e melhorias",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-28 00:18:20",
@@ -20,8 +20,8 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 00:18:17",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
+                         "Data":  "2026-11-28 00:18:20",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0x8007371B (ERROR_SXS_TRANSACTION_CLOSURE_INCOMPLETE) no Windows",
                          "Nivel":  "ok"
                      },
                      {
@@ -30,14 +30,19 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 00:18:00",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 73 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 00:18:17",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: código de erro 0xCAA20003 (AAD_AUTHORIZATION) no Windows",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
                          "Texto":  "682 problemas resolvidos sozinha pela IA desde o início",
                          "Nivel":  "ok"
+                     },
+                     {
+                         "Data":  "2026-11-28 00:18:00",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 73 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "2026-11-28 00:15:48",
@@ -55,26 +60,21 @@
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-27 23:00",
-                         "Texto":  "Nova versão 4.50.490 publicada: Correções e melhorias",
-                         "Nivel":  "info"
-                     },
-                     {
                          "Data":  "2026-11-27 17:32:47",
                          "Texto":  "Um novo computador entrou na COLMEIA e já aprende com todos",
                          "Nivel":  "ok"
                      }
                  ],
     "Horas":  [
-                  32,
-                  61,
-                  56,
-                  53,
-                  41,
-                  18,
-                  15,
-                  8,
-                  9,
+                  38,
+                  62,
+                  60,
+                  47,
+                  37,
+                  17,
+                  12,
+                  10,
+                  7,
                   0,
                   0,
                   0,
@@ -85,37 +85,37 @@
                   0,
                   10,
                   10,
-                  9,
-                  6,
+                  12,
+                  3,
                   7,
                   24,
                   42,
+                  15,
+                  10,
+                  9,
                   11,
-                  12,
-                  10,
-                  12,
                   42,
-                  12,
-                  109,
-                  10,
+                  66,
+                  59,
+                  6,
                   7,
-                  4,
+                  8,
                   9,
-                  9,
+                  5,
                   57,
                   37,
                   60,
                   99,
-                  23,
-                  61,
+                  26,
+                  58,
                   21,
-                  4,
-                  35,
+                  8,
+                  31,
                   44,
                   44,
                   73
               ],
     "Ultima":  "2026-11-28 00:18:00",
-    "Gerado":  "2026-11-28 00:27:44",
-    "Data":  "2026-11-28 00:27"
+    "Gerado":  "2026-11-28 00:37:05",
+    "Data":  "2026-11-28 00:37"
 }
