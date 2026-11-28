@@ -1,18 +1,18 @@
 {
     "Resolvidos":  685,
-    "Conhecimentos":  3530,
-    "Pesquisas":  37918,
-    "N48":  1211,
+    "Conhecimentos":  3538,
+    "Pesquisas":  37935,
+    "N48":  1227,
     "Recentes":  [
                      {
-                         "Data":  "2026-11-28 02:50:33",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 55 pesquisas em bases técnicas de diversos países",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 03:12:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: xTendUtility.exe e xTendUtilityService travando nos Dell G15 (exceção 0xc0000...",
+                         "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 02:49:53",
-                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
-                         "Nivel":  "info"
+                         "Data":  "2026-11-28 03:12:40",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Dell G15 5530 (Core i 13ª geração HX)",
+                         "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
@@ -20,19 +20,19 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 02:01:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Desligamento inesperado",
+                         "Data":  "2026-11-28 03:12:39",
+                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Perflib 1023 \"o Windows não pode carregar a DLL de contador extensível sysmai...",
                          "Nivel":  "ok"
                      },
                      {
                          "Data":  "",
-                         "Texto":  "Hoje a IA já fez 212 pesquisas em bases técnicas",
+                         "Texto":  "Hoje a IA já fez 229 pesquisas em bases técnicas",
                          "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 02:01:10",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: Programa da Intel travando no componente Microsoft.UI.Xaml.dll",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 03:12:14",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 17 pesquisas em bases técnicas de diversos países",
+                         "Nivel":  "info"
                      },
                      {
                          "Data":  "",
@@ -40,13 +40,13 @@
                          "Nivel":  "ok"
                      },
                      {
-                         "Data":  "2026-11-28 02:01:09",
-                         "Texto":  "A IA com aprendizado em COLMEIA aprendeu a resolver: OneDrive ocupando muito disco com arquivos baixados",
-                         "Nivel":  "ok"
+                         "Data":  "2026-11-28 03:11:39",
+                         "Texto":  "A IA encontrou uma solução e está conferindo em outras camadas de inteligência e em pesquisas em fontes comprovadas antes de aprender",
+                         "Nivel":  "info"
                      },
                      {
-                         "Data":  "2026-11-28 01:59:45",
-                         "Texto":  "A IA com aprendizado em COLMEIA fez 80 pesquisas em bases técnicas de diversos países",
+                         "Data":  "2026-11-28 02:50:33",
+                         "Texto":  "A IA com aprendizado em COLMEIA fez 55 pesquisas em bases técnicas de diversos países",
                          "Nivel":  "info"
                      },
                      {
@@ -66,56 +66,56 @@
                      }
                  ],
     "Horas":  [
-                  49,
-                  49,
-                  24,
-                  16,
-                  12,
-                  8,
-                  1,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  5,
-                  10,
-                  10,
-                  7,
-                  6,
-                  8,
-                  24,
+                  59,
                   45,
-                  12,
+                  21,
+                  16,
+                  8,
+                  9,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
                   10,
+                  9,
+                  10,
+                  6,
+                  7,
+                  19,
+                  47,
+                  11,
                   12,
-                  31,
-                  23,
-                  113,
+                  6,
+                  12,
+                  42,
+                  16,
+                  109,
                   7,
                   6,
                   8,
                   8,
-                  5,
                   10,
-                  86,
-                  40,
-                  99,
-                  46,
+                  5,
+                  89,
+                  37,
+                  122,
+                  23,
                   27,
-                  41,
-                  18,
-                  27,
-                  30,
-                  44,
-                  55,
-                  44,
+                  43,
+                  16,
+                  35,
+                  38,
+                  32,
                   84,
-                  51
+                  11,
+                  84,
+                  68
               ],
-    "Ultima":  "2026-11-28 02:50:33",
-    "Gerado":  "2026-11-28 03:07:07",
-    "Data":  "2026-11-28 03:07"
+    "Ultima":  "2026-11-28 03:12:14",
+    "Gerado":  "2026-11-28 03:17:06",
+    "Data":  "2026-11-28 03:17"
 }
